@@ -300,86 +300,86 @@ ui.init.loading	Carregando jogo: {cityname}
 ui.init.mapgen	Gerando mapa da cidade: {cityname}
 ui.init.citygen	Preenchendo o mapa da cidade: {cityname}, {year}
 ui.init.final	Finalizando
-ui.init.alphabeta	Viu um bug? Nos avise! Pressione F1 quando estiver no jogo.
+ui.init.alphabeta	Viu algum bug? Nos avise! Pressione F1 quando estiver no jogo.
 
-ui.hud.dateturn	{date}  (Turn #{turn})
-ui.hud.nextturn	NEXT TURN
-ui.hud.player	AI: {percent}
-ui.hud.money-turn	{money}   <size=75%>({deltaString} this turn)</size>
-ui.hud.money-turn-short	{money}   <size=75%>{deltaString}</size>
+ui.hud.dateturn	{data} (Turn #{turn})
+ui.hud.nextturn	PRÓXIMO TURNO
+ui.hud.player	IA: {percent}
+ui.hud.money-turn	{money} <size=75%>({deltaString} neste turno)</size>
+ui.hud.money-turn-short	{money} <size=75%>{deltaString}</size>
 
-ui.hud.saving.up	<sprite name="ui clock"> SAVING THE GAME...
-ui.hud.writing.up	<sprite name="ui clock"> WRITING TO DISK...
-ui.hud.saving	Saving, please wait...
+ui.hud.saving.up	<sprite name="ui clock"> SALVANDO O JOGO...
+ui.hud.writing.up	<sprite name="ui clock"> GRAVANDO NO DISCO...
+ui.hud.saving	Salvando, por favor espere...
 
 ui.hud.peeps	<sprite name="ui peep">: {num}/{max}
 ui.hud.cars	<sprite name="ui car">: {num}/{max}
 ui.hud.trucks	<sprite name="ui truck">: {num}/{max}
 ui.hud.corners	<sprite name="ui corner"> : {num}
-ui.hud.peeps.mo	Crew capacity: {max} or less\nCrew cap is based on your territory size.\n\n{explanation}
-ui.hud.cars.mo	Passenger vehicle limit: {max} or less\nCar capacity is based on crew size and available parking.\n\n{explanation}
-ui.hud.trucks.mo	Cargo vehicle limit: {max} or less\nTruck capacity is based on skills and available parking.\n\n{explanation}
-ui.hud.corners.mo	Corners under your control: {num}
+ui.hud.peeps.mo	Capacidade da capangas: {max} ou menos\nO limite da capangas é baseado no tamanho do seu território.\n\n{explanation}
+ui.hud.cars.mo	Limite de veículos de passageiros: {max} ou menos\nA capacidade do carro é baseada no tamanho da gangue e do estacionamento disponível.\n\n{explanation}
+ui.hud.trucks.mo	Limite de veículo de carga: {max} ou menos\nA capacidade do caminhão é baseada em habilidades e estacionamentos disponíveis.\n\n{explanation}
+ui.hud.corners.mo	Quadras sob seu controle: {num}
 
 ui.hud.unknown	<b>{name}</b>\n{desc}\n\n{footer}
-ui.hud.unknown.resname	Unknown residence
-ui.hud.unknown.bizname	Unknown business
-ui.hud.unknown.civicname	Unknown building
-ui.hud.unknown.notexplored	This area has not been explored yet. Send someone from your crew to check it out!
+ui.hud.unknown.resname	Residência desconhecida
+ui.hud.unknown.bizname	Negócio desconhecido
+ui.hud.unknown.civicname	Edifício desconhecido
+ui.hud.unknown.notexplored	Esta área ainda não foi explorada. Mande alguém da sua equipe para conferir!
 
-ui.hud.known.resfooter.1	Name on the mailbox: {names}
-ui.hud.known.resfooter	Names on the mailboxes: {names}
-ui.hud.known.resfooter.many	Names on the mailboxes include: {names}, and more
-ui.hud.known.bizsmall	Just another small business, like so many across the city. You don't know what goes on in there.
-ui.hud.known.bizlarge	An impressive looking building. You don't know what goes on in there.
+ui.hud.known.resfooter.1	Nome na caixa de correio: {names}
+ui.hud.known.resfooter	Nomes nas caixas de correio: {names}
+ui.hud.known.resfooter.many	Os nomes nas caixas de correio incluem: {names} e mais
+ui.hud.known.bizsmall	Apenas mais uma pequena empresa, como tantas em toda a cidade. Você não sabe o que se passa lá dentro.
+ui.hud.known.bizlarge	Um edifício de aparência impressionante. Você não sabe o que se passa lá dentro.
 
-ui.rename.title	<b>Gaining Renown</b>
-ui.rename.header.you	You're gaining quite the reputation around these parts! You can pick a street name that people will know you by:
-ui.rename.header.m	Your crew member {name} is gaining quite the reputation around these parts! You can pick a fitting street name for him, which will be used from now on:
-ui.rename.header.f	Your crew member {name} is gaining quite the reputation around these parts! You can pick a fitting street name for her, which will be used from now on:
+ui.rename.title	<b>Ganhando Renome</b>
+ui.rename.header.you	Você está ganhando bastante reputação por aqui! Você pode escolher um nome de rua(Apelido) pelo qual as pessoas o conhecerão:
+ui.rename.header.m	Seu capanga {name} está ganhando bastante reputação por aqui! Você pode escolher um nome de rua adequado para ele, que será usado a partir de agora:
+ui.rename.header.f	Sua capanga {name} está ganhando bastante reputação por aqui! Você pode escolher um nome de rua adequado para ela, que será usado a partir de agora:
 ui.rename.example-nickname	Scarface
-ui.rename.describe	The name will be displayed as:\n<align=center><b>{longname}</b></align>\nor "{shortname}" in your crew list.
-ui.rename.footer	Please consider the street name carefully, it can only be assigned once. You can also decline, and stay with your given name.
+ui.rename.describe	O nome será exibido como:\n<align=center><b>{longname}</b></align>\nou "{shortname}" na sua lista de gangue.
+ui.rename.footer	Por favor, considere o nome da rua com cuidado, ele só pode ser atribuído uma vez. Você também pode recusar e permanecer com seu nome.
 
 ui.rename.random-nickname.m	Scarface
-ui.rename.random-nickname.m	Scary
-ui.rename.random-nickname.m	Wiseguy
-ui.rename.random-nickname.m	Brave
-ui.rename.random-nickname.m	Silver Tongue
-ui.rename.random-nickname.m	Live Wire
-ui.rename.random-nickname.m	Short Fuse
-ui.rename.random-nickname.m	Dapper
-ui.rename.random-nickname.m	Old Man
+ui.rename.random-nickname.m	Medonho
+ui.rename.random-nickname.m	Espertinho
+ui.rename.random-nickname.m	Valentão
+ui.rename.random-nickname.m	Larápio
+ui.rename.random-nickname.m	Apressadinho
+ui.rename.random-nickname.m	Rabugento
+ui.rename.random-nickname.m	Jeitoso
+ui.rename.random-nickname.m	Velhote
 
-ui.rename.random-nickname.f	Dangerous
-ui.rename.random-nickname.f	Babyface
-ui.rename.random-nickname.f	Live Wire
-ui.rename.random-nickname.f	Short Fuse
-ui.rename.random-nickname.f	Flapper
-ui.rename.random-nickname.f	Late Owl
-ui.rename.random-nickname.f	Ritzy
-ui.rename.random-nickname.f	Foxy
-ui.rename.random-nickname.f	Sheba
-ui.rename.random-nickname.f	Swell Dame
+ui.rename.random-nickname.f	Esquentadinha
+ui.rename.random-nickname.f	Rostinho de Anjo
+ui.rename.random-nickname.f	Docinho
+ui.rename.random-nickname.f	Furiosa
+ui.rename.random-nickname.f	Agitadora
+ui.rename.random-nickname.f	Lesada
+ui.rename.random-nickname.f	Charmosa
+ui.rename.random-nickname.f	Raposinha
+ui.rename.random-nickname.f	Bela Morte
+ui.rename.random-nickname.f	Pompósa
 
 ui.name.simple	{title} {first} {last}
 ui.name.nicklong	{title} {first} "{nickname}" {last}
 ui.name.nickshort	{title} {nickname} {last}
-ui.name.title-cops	Officer
-ui.name.title-feds	Agent
+ui.name.title-cops	Policial
+ui.name.title-feds	Agente
 
-ui.vehicle-cond.good	good
-ui.vehicle-cond.clunker	acceptable
-ui.vehicle-cond.junk	unusable
-ui.vehicle-cond.worn	worn
-ui.vehicle-cexp.good	good condition
-ui.vehicle-cexp.clunker	acceptable condition
-ui.vehicle-cexp.junk	unusable condition
-ui.vehicle-cext.worn	worn condition
-
-ui.convo.person.mo	Show owner info
-ui.convo.biz.mo	Show business info
-ui.convo.rel.mo	Show relationship info
+ui.vehicle-cond.good	bom
+ui.vehicle-cond.clunker	aceitável
+ui.vehicle-cond.junk	inutilizável
+ui.vehicle-cond.worn	desgastado
+ui.vehicle-cexp.good	boa condição
+ui.vehicle-cexp.clunker	condição aceitável
+ui.vehicle-cexp.junk	condição inutilizável
+ui.vehicle-cext.worn	condição desgastada
+	
+ui.convo.person.mo	Mostrar informações do proprietário
+ui.convo.biz.mo	Mostrar informações comerciais
+ui.convo.rel.mo	Mostrar informações de relacionamento
 
 ui.personinfo.mouseover	{name}\n\n{ethAndAge}\n\n{workplace}
 ui.personinfo.mouseover.short	{name}\n{workplace}\n{details}
@@ -389,22 +389,22 @@ ui.personinfo.infostring.short	{reltoyou}. {age}. {eth}.
 ui.personinfo.age-eth	{age}. {eth}.
 
 
-ui.personinfo.crew.you	You are the boss of your crew.
-ui.personinfo.crew.peep	{name} belongs to your crew.
-ui.personinfo.crew.action	Current activity: {action}
-ui.personinfo.crew.skills	Shared skills: {num} <sprite name="ui skills">
-ui.personinfo.crew.skills.1	Shared skill: {num} <sprite name="ui skills">
-ui.personinfo.crew.skills.mo	These skills are shared by all of your crew members.\nView the "crew skills" report to learn more.\n
-ui.personinfo.crew.levelups	New <sprite name="ui level up"> experience available!
-ui.personinfo.crew.levelups.mo	Crew members gain experience from the tasks they do.
+ui.personinfo.crew.you	Você é o Padrinho da Gangue.
+ui.personinfo.crew.peep	{name} pertence à sua gangue.
+ui.personinfo.crew.action	Atividade atual: {action}
+ui.personinfo.crew.skills	Habilidades compartilhadas: {num} <sprite name="ui skills">
+ui.personinfo.crew.skills.1	Habilidade compartilhada: {num} <sprite name="ui skills">
+ui.personinfo.crew.skills.mo	Essas habilidades são compartilhadas por todos os membros da tripulação.\nVeja o relatório "habilidades da tripulação" para saber mais.\n
+ui.personinfo.crew.levelups	Nova experiência <sprite name="ui level up"> disponível!
+ui.personinfo.crew.levelups.mo	Os membros da gangue ganham experiência com as tarefas que executam.
 
-ui.personinfo.conn.yours	Your connections:
-ui.personinfo.conn.common	Connections you have in common:
+ui.personinfo.conn.yours	Suas conexões:
+ui.personinfo.conn.common	Conexões que vocês têm em comum:
 
 ui.personinfo.skill.oneline	·<indent=15>{item}</indent>
 
-ui.personinfo.goto.mo	Go to the location
-ui.personinfo.traits-header	Personality traits:
+ui.personinfo.goto.mo	Vá para o local
+ui.personinfo.traits-header	Traços de personalidade:
 ui.personinfo.trait	·<indent=15>{traitname}</indent>
 ui.personinfo.trait.details	·<indent=15><b>{traitname}</b> <i>({traitdesc})</i></indent>
 ui.personinfo.trait.icons	{traits}: <size=125%>{icons}</size>
