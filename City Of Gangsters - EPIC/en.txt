@@ -49,17 +49,17 @@ datetime.month.11	novembro
 datetime.month.12	dezembro
 
 datetime.month.short.1	JAN
-datetime.month.short.2	FEB
+datetime.month.short.2	FEV
 datetime.month.short.3	MAR
-datetime.month.short.4	APR
-datetime.month.short.5	MAY
+datetime.month.short.4	ABR
+datetime.month.short.5	MAI
 datetime.month.short.6	JUN
 datetime.month.short.7	JUL
-datetime.month.short.8	AUG
-datetime.month.short.9	SEP
-datetime.month.short.10	OCT
+datetime.month.short.8	AGO
+datetime.month.short.9	SET
+datetime.month.short.10	OUT
 datetime.month.short.11	NOV
-datetime.month.short.12	DEC
+datetime.month.short.12	DEZ
 
 datetime.day.1	1st
 datetime.day.2	2nd
