@@ -465,7 +465,7 @@ ui.stationinfo.status.coop	Status:\nCooperando
 ui.stationinfo.status.noop	Status:\nNão está cooperando
 ui.stationinfo.officers	Oficiais de plantão:
 ui.stationinfo.officers.card.influenced	\n<i>(Sob sua influência)</i>
-ui.stationinfo.officers.card.name	{name} {influenciado}
+ui.stationinfo.officers.card.name	{name} {influencied}
 	
 ui.icon.movement	<sprite name="ui movement pts">
 ui.icon.actions	<sprite name="ui action pts">
@@ -500,7 +500,7 @@ ui.crewlistinfo.past	Gangue anterior
 ui.crewlistinfo.potential	Pessoas que desejam se juntar à sua equipe
 ui.crewlistinfo.tmpl.current	{name}
 ui.crewlistinfo.tmpl.past	{name} <size=80%>(Deceased)</size>
-ui.crewlistinfo.tmpl.potential	{name}\n<size=80%>Interessado em sua roupa</size>
+ui.crewlistinfo.tmpl.potential	{name}\n<size=80%>Interessado em seus recursos</size>
 ui.crewlistinfo.desc.header	<size=150%>{name}</size>\n{workplace}\n{details}
 ui.crewlistinfo.desc.current	Salário atual: {money} por turno.\n{details}
 ui.crewlistinfo.desc.past	Esse membro morreu em {year}.\nPagamentos de apoio falmiar: {money} por turno.
