@@ -302,7 +302,7 @@ ui.init.citygen	Preenchendo o mapa da cidade: {cityname}, {year}
 ui.init.final	Finalizando
 ui.init.alphabeta	Viu algum bug? Nos avise! Pressione F1 quando estiver no jogo.
 
-ui.hud.dateturn	{data} (Turn #{turn})
+ui.hud.dateturn	{date} (Turn #{turn})
 ui.hud.nextturn	PRÓXIMO TURNO
 ui.hud.player	IA: {percent}
 ui.hud.money-turn	{money} <size=75%>({deltaString} neste turno)</size>
@@ -395,7 +395,7 @@ ui.personinfo.crew.action	Atividade atual: {action}
 ui.personinfo.crew.skills	Habilidades compartilhadas: {num} <sprite name="ui skills">
 ui.personinfo.crew.skills.1	Habilidade compartilhada: {num} <sprite name="ui skills">
 ui.personinfo.crew.skills.mo	Essas habilidades são compartilhadas por todos os membros da tripulação.\nVeja o relatório "habilidades da tripulação" para saber mais.\n
-ui.personinfo.crew.levelups	Nova experiência <sprite name="ui level up"> disponível!
+ui.personinfo.crew.levelups	Nova <sprite name="ui level up"> experiência disponível!
 ui.personinfo.crew.levelups.mo	Os membros da gangue ganham experiência com as tarefas que executam.
 
 ui.personinfo.conn.yours	Suas conexões:
