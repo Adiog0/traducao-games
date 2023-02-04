@@ -409,113 +409,113 @@ ui.personinfo.trait	·<indent=15>{traitname}</indent>
 ui.personinfo.trait.details	·<indent=15><b>{traitname}</b> <i>({traitdesc})</i></indent>
 ui.personinfo.trait.icons	{traits}: <size=125%>{icons}</size>
 
-ui.personinfo.levelups.header	<b>{name}</b>\nSelect which ability to improve:
+ui.personinfo.levelups.header	<b>{name}</b>\nSelecione qual habilidade melhorar:
 
-ui.personinfo.levelups-none	Experience: none yet
+ui.personinfo.levelups-none	Experiência: nenhuma ainda
 ui.personinfo.levelups.oneline	·<indent=15>{levelup}</indent>
 ui.personinfo.levelups.details	·<indent=15>{levelup}\n<i>{details}</i></indent>
-ui.personinfo.levelups.ticker	{name} has gained experience from all the hard work.\n\nSelect what ability they should improve.
-ui.personinfo.levelups.available	<b>{name}</b> - improve to level {num}\n{desc}
-ui.personinfo.levelups.icons.0	Experience: none yet
-ui.personinfo.levelups.icons	Experience: {icons}
+ui.personinfo.levelups.ticker	{name} ganhou experiência com todo o trabalho duro.\n\nSelecione qual habilidade eles devem melhorar.
+ui.personinfo.levelups.available	<b>{name}</b> - melhore para o nível {num}\n{desc}
+ui.personinfo.levelups.icons.0	Experiência: nenhuma ainda
+ui.personinfo.levelups.icons	Experiência: {icons}
 
-ui.personinfo.filter.header	Filter:
-ui.personinfo.filter.everyone	All shared connections
-ui.personinfo.filter.family	All known family members
-ui.personinfo.filter.friends	All known acquaintances
-ui.personinfo.filter.gangs	Outfit members
-ui.personinfo.filter.goons	Troublemakers
-ui.personinfo.filter.cops	Police and federal agents
+ui.personinfo.filter.header	Filtro:
+ui.personinfo.filter.everyone	Todas as conexões compartilhadas
+ui.personinfo.filter.family	Todos os familiares conhecidos
+ui.personinfo.filter.friends	Todos os chegados conhecidos
+ui.personinfo.filter.gangs	Membros  da "Chicago Outfit"
+ui.personinfo.filter.goons	encrenqueiros
+ui.personinfo.filter.cops	Policiais e agentes federais
 
-ui.personinfo.unemployed	Unemployed
-ui.personinfo.age	{years} years old
-ui.personinfo.dead	Deceased
+ui.personinfo.unemployed	Desempregado
+ui.personinfo.age	{years} anos de idade
+ui.personinfo.dead	Morto
 
-ui.personinfo.status.defiant	Demand status: <i>defiant</i>
-ui.personinfo.status.compliant	Demand status: <i>compliant</i>
-ui.personinfo.occ.none	Not employed
-ui.personinfo.occ.unk	Occupation unknown
-ui.personinfo.occ.info	Works at {bizname}
-ui.personinfo.occ.politician	Politician at {ward}
-ui.personinfo.selected.human	This is you:
-ui.personinfo.selected.not-human	Works for you:
+ui.personinfo.status.defiant	Status da demanda: <i>defiant</i>
+ui.personinfo.status.compliant	Status da demanda: <i>compliant</i>
+ui.personinfo.occ.none	Desempregado
+ui.personinfo.occ.unk	Ocupação desconhecida
+ui.personinfo.occ.info	Trabalha na empresa {bizname}
+ui.personinfo.occ.politician	Político na {ward}
+ui.personinfo.selected.human	Este é você:
+ui.personinfo.selected.not-human	Trabalham para você:
 
-ui.personinfo.selected.goon	Local troublemaker
-ui.personinfo.selected.opp.boss	Boss of
-ui.personinfo.selected.opp.goon	Works for
+ui.personinfo.selected.goon	Encrenqueiro local
+ui.personinfo.selected.opp.boss	Chefe de
+ui.personinfo.selected.opp.goon	Trabalha para
 
-ui.personinfo.selected.unknown	Works for someone you don't know
+ui.personinfo.selected.unknown	Trabalha para alguém que você não conhece
 
-ui.personinfo.rel-exp.opinion	<b>Their opinion of you: {rating} pts</b>
-ui.personinfo.rel-exp.none	<b>Their opinion of you: none</b>
-
-ui.personinfo.action-string.idle	Idle
-ui.personinfo.action-string.driving	Driving
-ui.personinfo.action-string.busy	Busy
-
-ui.personinfo.selected.compose	{prefix}: {groupname} {compliance}
-
+ui.personinfo.rel-exp.opinion	<b>A opinião deles sobre você: {rating} pts</b>	
+ui.personinfo.rel-exp.none	<b>A opinião deles sobre você: nenhuma</b>	
+		
+ui.personinfo.action-string.idle	Parado	
+ui.personinfo.action-string.driving	Dirigindo	
+ui.personinfo.action-string.busy	Ocupado	
+		
+ui.personinfo.selected.compose	{prefix}: {groupname} {compliance}	
+		
 ui.personinfo.dialog.header	<size=150%>{name}</size>\n{workplace}\n{details}
 
 
 
 ui.stationinfo.header	{groupname}\n{precinct}
 ui.stationinfo.loc	Location:\n{cornerinfo}
-ui.stationinfo.status.coop	Status:\nCooperating
-ui.stationinfo.status.noop	Status:\nNot cooperating
-ui.stationinfo.officers	Officers on duty:
-ui.stationinfo.officers.card.influenced	\n<i>(Under your influence)</i>
-ui.stationinfo.officers.card.name	{name} {influenced}
-
+ui.stationinfo.status.coop	Status:\nCooperando
+ui.stationinfo.status.noop	Status:\nNão está cooperando
+ui.stationinfo.officers	Oficiais de plantão:
+ui.stationinfo.officers.card.influenced	\n<i>(Sob sua influência)</i>
+ui.stationinfo.officers.card.name	{name} {influenciado}
+	
 ui.icon.movement	<sprite name="ui movement pts">
 ui.icon.actions	<sprite name="ui action pts">
 ui.icon.health	<sprite name="ui health">
 ui.icon.car	<sprite name="ui car">
 ui.icon.weapon	<sprite name="res cat weapons">
 ui.icon.tire	<sprite name="ui tire">
-
+	
 ui.combine.icon-and-name	{icon} {name}
 ui.combine.icon-name-and-units	{icon} {name}: {qtyunits}
 ui.combine.icon-and-desc	{icon}<indent=30>{desc}</indent>
-
+	
 ui.xp	<sprite name="xp general">
 ui.xp.num	{num} <sprite name="xp general">
 ui.xp.plus	<sprite name="ui level up"><sprite name="ui xp arrow">
-
+	
 ui.conn	<sprite name="ui pip social">
 ui.conn.num	{num} <sprite name="ui pip social">
 ui.conn.qmark	<sprite name="ui pip social">
-
+	
 ui.movementcost	<size=75%>{num} <sprite name="ui movement pts"></size>
-ui.movementcost.fail	INSUFFICIENT\n<sprite name="ui movement pts"> MOVEMENT POINTS
-ui.actioncost.fail	INSUFFICIENT\n<sprite name="ui action pts"> ACTION POINTS
-
-ui.playerskills.learned	Your crew learned a new skill: <b>{name}</b>\n\n{desc}\n\nEveryone in your crew can now benefit from this new knowledge.
-ui.playerskills.resource	You learned about a new resource!\n\n{name}: {desc}\n\nSome businesses may be interested in this resource, either the ones you already know about, or ones that are yet to be discovered.
-
-ui.crewlistinfo.header	Crew Information
-ui.crewlistinfo.desc	Click on an entry for more information about them
-ui.crewlistinfo.current	Current crew
-ui.crewlistinfo.past	Past crew
-ui.crewlistinfo.potential	People looking to join your crew
+ui.movementcost.fail	INSUFICIENTE\n<sprite name="ui movement pts"> PONTOS DE MOVIMENTO
+ui.actioncost.fail	INSUFFICIENTE\n<sprite name="ui action pts"> PONTOS DE AÇÃO
+	
+ui.playerskills.learned	Sua gangue aprendeu uma nova habilidade: <b>{name}</b>\n\n{desc}\n\nTodos na sua equipe agora podem se beneficiar desse novo conhecimento.
+ui.playerskills.resource	Você ficou sabendo de um novo recurso!\n\n{name}: {desc}\n\nAlgumas empresas podem se interessar por este recurso, tanto os que você já conhece quanto os que ainda serão descobertos.
+	
+ui.crewlistinfo.header	Informações da Gangue
+ui.crewlistinfo.desc	Clique em uma entrada para obter mais informações sobre eles
+ui.crewlistinfo.current	Gangue atual
+ui.crewlistinfo.past	Gangue anterior
+ui.crewlistinfo.potential	Pessoas que desejam se juntar à sua equipe
 ui.crewlistinfo.tmpl.current	{name}
 ui.crewlistinfo.tmpl.past	{name} <size=80%>(Deceased)</size>
-ui.crewlistinfo.tmpl.potential	{name}\n<size=80%>Interested in your outfit</size>
+ui.crewlistinfo.tmpl.potential	{name}\n<size=80%>Interessado em sua roupa</size>
 ui.crewlistinfo.desc.header	<size=150%>{name}</size>\n{workplace}\n{details}
-ui.crewlistinfo.desc.current	Current salary: {money} per turn.\n{details}
-ui.crewlistinfo.desc.past	This crew member died in {year}.\nFamily support payments: {money} per turn.
-ui.crewlistinfo.desc.potential	{firstname} is looking for a job. If you're interested in expanding your outfit, go talk to {friendname} to get an introduction.
+ui.crewlistinfo.desc.current	Salário atual: {money} por turno.\n{details}
+ui.crewlistinfo.desc.past	Esse membro morreu em {year}.\nPagamentos de apoio falmiar: {money} por turno.
+ui.crewlistinfo.desc.potential	{firstname} está procurando emprego. Se você estiver interessado em expandir seus recursos, vá falar com {friendname} para obter uma apresentação.
 ui.crewlistinfo.desc.details	{traits}\n\n{levelups}
-ui.crewlistinfo.with-trait	With Trait:
-ui.crewlistinfo.any-trait	Any
-
-ui.crewinfo.manage.mo	Manage crew
-ui.crewinfo.peep.mo	Get more information\nabout this crew member
-ui.crewinfo.corner.mo	Get more information about\nthis corner
-ui.crewinfo.scheme.mo	Open this crew's current scheme
-ui.crewinfo.goto.mo	Focus view on this corner
-ui.crewinfo.vehicle.mo	Assign to one of your vehicles\nor to manage your buildings
-ui.crewinfo.automate.mo	Edit delivery route
+ui.crewlistinfo.with-trait	Com Traço:
+ui.crewlistinfo.any-trait	Qualquer
+	
+ui.crewinfo.manage.mo	Gerenciar membros de gangue
+ui.crewinfo.peep.mo	Obtenha mais informações\nsobre este membro
+ui.crewinfo.corner.mo	Obtenha mais informações sobre\nesta quadra
+ui.crewinfo.scheme.mo	Abra o esquema atual desta gangue
+ui.crewinfo.goto.mo	Focar a visualização nesta quadra
+ui.crewinfo.vehicle.mo	Atribua a um de seus veículos\nou para gerenciar seus edifícios
+ui.crewinfo.automate.mo	Editar rota de entrega
 ui.crewinfo.name	<b>{name}</b>
 ui.crewinfo.namedead	{name}
 ui.crewinfo.descdead	<i>Deceased</i>
