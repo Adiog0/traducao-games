@@ -1,0 +1,13 @@
+Os arquivos nesse repositório foram modificados de .INT para .TXT apenas para acompanhamento de mudanças no GIT.
+Caso queira utilizar a tradução (ela ainda está parcial) é necessário mudar as exntesões dos arquivos .TXT para .INT das seguintes pastas:
+
+XCOM 2\XComGame\Localization\INT
+XCOM 2\XComGame\DLC\DLC_1\Localization
+XCOM 2\XComGame\DLC\DLC_2\Localization
+XCOM 2\XComGame\DLC\DLC_3\Localization
+
+Após o termino da tradução, irei criar um .exe ou um .sh para mudar a extensão dos arquivos, ou apenas irei automatizar e subir os arquivos .INT no repositório.
+
+Lembrando ainda que não estou fazendo a tradução do zero. Estou apenas revisando e corrigindo as traduções feitas pelo "leodestroi". Infelizmente algumas traduções estão quebradas, e a ideia é apenas ajudar ele e a comunidade Xcom. Após revisar totalmente, repassarei para ele atualizar no Nexus.
+
+Pode encontrar no link https://www.nexusmods.com/xcom2/mods/631
