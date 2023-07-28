@@ -1,0 +1,1181 @@
+;---------------------------
+; ANARCHY'S CHILDREN ARMOR
+;---------------------------
+
+[KevlarArmor_DLC_Day30 X2ArmorTemplate]
+FriendlyName="Anarchy's Children Kevlar Armor"
+BriefSummary="This basic armor consists of improvised protection cobbled together from salvage and Resistance arms caches. It provides minimal protection against ADVENT weaponry, and is virtually worthless against aliens' weapons."
+TacticalText="<Bullet/> All soldiers receive Kevlar armor as part of their basic kit.\n<Bullet/> Research can give us access to better armor; this will help tremendously in battle."
+
+[MediumPlatedArmor_DLC_Day30 X2ArmorTemplate]
+FriendlyName="Anarchy's Children Predator Armor"
+FriendlyNamePlural="Anarchy's Children Predator Armor"
+BriefSummary="Using scavenged plates of ADVENT armor, this suit provides increased protection and additional inventory capacity for our soldiers."
+TacticalText="<Bullet/> Predator Armor is a mid-weight armor based on ADVENT salvage.\n<Bullet/> As a medium-class armor, it provides a slot for one additional inventory item."
+
+[LightPlatedArmor_DLC_Day30 X2ArmorTemplate]
+FriendlyName="Anarchy's Children Spider Suit"
+FriendlyNamePlural="Anarchy's Children Spider Suits"
+BriefSummary="ADVENT materials tech lead us to this lightweight suit, which retains the increased protection of ADVENT plating, but also enhances mobility and mounts a grappling hook for fast movement around the battlefield."
+TacticalText="<Bullet/> The Spider Suit adds mobility and an increased chance of taking grazing shots instead of outright hits.\n<Bullet/> The grapple module allows soldiers to traverse the battlefield rapidly. It does not take an action to use, but does have a short cooldown."
+
+[HeavyPlatedArmor_DLC_Day30 X2ArmorTemplate]
+FriendlyName="Anarchy's Children E.X.O. Suit"
+FriendlyNamePlural="Anarchy's Children E.X.O. Suits"
+BriefSummary="This heavy armor combines reinforced ADVENT plating with a powered exoskeleton, offering superior protection and damage resistance coupled with a wrist-mounted rocket launcher. With further study we could unlock additional heavy weapon options for this suit."
+TacticalText="<Bullet/> As a heavy-class armor system, the E.X.O. Suit allows a soldier to mount a heavy weapon.\n<Bullet/> Only the Rocket Launcher is available initially; Additional heavy weapons projects in the Proving Grounds will unlock more heavy weapon systems for construction."
+
+[MediumPoweredArmor_DLC_Day30 X2ArmorTemplate]
+FriendlyName="Anarchy's Children Warden Armor"
+FriendlyNamePlural="Anarchy's Children Warden Armor"
+BriefSummary="Our new mastery of the alien's Elerium technology has lead us to the ultimate in battle armor: the Warden Armor. Elerium powered armor provides unprecedented survivability and versatility in the battle against increasingly powerful alien enemies."
+TacticalText="<Bullet/> Warden Armor is the best medium-class armor available.\n<Bullet/> Warden Armor has 2 inventory item slots."
+
+[LightPoweredArmor_DLC_Day30 X2ArmorTemplate]
+FriendlyName="Anarchy's Children Wraith Suit"
+FriendlyNamePlural="Anarchy's Children Wraith Suits"
+BriefSummary="The lightweight variant of our powered armor system not only boosts our soldiers' reflexes and speed, it also incorporates experimental warp technology, permitting the wearer to briefly change dimensional phase and effortlessly pass right through obstacles."
+TacticalText="<Bullet/> The Wraith Suit adds mobility and an increased chance of taking grazing shots instead of outright hits.\n<Bullet/> The Wraith Suit has a wrist-mounted grapple.\n<Bullet/> The Wraith Suit can allow the wearer to pass directly through walls and obstacles."
+
+[HeavyPoweredArmor_DLC_Day30 X2ArmorTemplate]
+FriendlyName="Anarchy's Children W.A.R. Suit"
+FriendlyNamePlural="Anarchy's Children W.A.R. Suits"
+BriefSummary="This powered heavy battle armor grants massive damage resistance and survivability, as well as a wrist-mounted heavy weapon hardpoint. The W.A.R. Suit can also generate temporary cover for allies with its powerful \"Shieldwall\" technology."
+TacticalText="<Bullet/> The W.A.R. Suit allows a soldier to wrist mount a heavy weapon.\n<Bullet/> The W.A.R. Suit grants the \"Shieldwall\" ability, allowing the wearer to temporarily act as high cover for squadmates."
+
+;----------------------------
+; ANARCHY'S CHILDREN TECHS
+;----------------------------
+[EXOSuit_DLC_Day30 X2TechTemplate]
+DisplayName="Anarchy's Children E.X.O. Suit"
+Summary="If we combine the power-assisted armor prototypes we've been working on with some of the ADVENT plating we've recovered, we could develop a heavy variant of our plated armor. More importantly, we might be able to add a heavy weapon mount directly to the armor, combining significant defensive and offensive capabilities in a single suit."
+CodeName="Stark"
+LongDescription="For the aliens, fielding heavier weapons, or more of them, usuallly means using a larger, heavier alien species to haul the gear into battle. For our needs, we have to rely on something more practical. I've has been working on a variety of power-assisted armor prototypes, which, at the very least, should provide a means for our troops to bring another weapon into the fight. By combining these prototypes with the alien alloy plating we've experimented with previously, the armor should also be incredibly durable, more so than anything we've provided to our troops previously. L. Shen."
+
+[SpiderSuit_DLC_Day30 X2TechTemplate]
+DisplayName="Anarchy's Children Spider Suit"
+Summary="Spotty records from the ruined mainframe at XCOM HQ indicate an early prototype for a light armor suit coupled with a grappling hook never came to fruition. Our recent mastery of the aliens' materials may allow us to revive the concept." 
+CodeName="Fisher"
+LongDescription="With the variety of environments our forces are currently engaging the enemy in, we need to give them every opportunity to gain a tactical advantage in the field. With that in mind, our latest armor prototype incorporates a basic powered-ascent mechanism capable of propelling the wearer to heights of over 10m with high levels of stability. The suit utilizes a number of micro-servo motors operating in sequence to aid in distributing the load throughout the armor, with the added side-effect of enhanced reflexes provided to the wearer. Although Central has made vague references to the previous science officer serving XCOM, he doesn't seem interested in discussing her efforts with me directly. I'm guessing the grapple design was something she created in collaboration with dad before XCOM fell. L. Shen."
+
+[WraithSuit_DLC_Day30 X2TechTemplate]
+DisplayName="Anarchy's Children Wraith Suit"
+Summary="Having seen the aliens manipulating Psionic fields for a variety of purposes, we've theorized it may be possible to traverse through the physical confines our of world by developing a Psionic field enmeshed in a specially designed light armor suit."
+CodeName="Loki"
+LongDescription="Even though we're learning more about the alien's varying uses for the Psionic energy fields they manipulate, so far we haven't spent much time trying to harness these capabilities for our own purposes. Direct access to the biomechanical alien we've been calling the "Codex" has given us far better insight into the nature of Psionics than any of our previous experimentation. The Codex has the unique ability to phase through not just physical objects, but between worlds, and, in theory, dimensions. By focusing a carefully balanced pulse of Psionic energy, the Codex creates a rift, effectively peeling back the layers of spacetime. The possible implications of this ability are mind bobbling, but it's safe to say I won't be recommending we pursue this advance to the Commander. However, there are other areas of interest tied Codex. During our testing, we conceived of the possibility that the Psionic pulse could be diverted, or scattered, across an electromagnetic field integrated into a suit of armor. This would effectively create a weakened rift throughout the suit, allowing the wearer to phase through objects within our own dimension. The prototype is stable, but field trials are ongoing. L. Shen."
+
+[WARSuit_DLC_Day30 X2TechTemplate]
+DisplayName="Anarchy's Children W.A.R. Suit"
+Summary="By harnessing the power of Elerium, it may be possible to create a new heavy powered-armor suit capable of generating a defensive force field not unlike those used on the alien craft."
+CodeName="Titan"
+LongDescription="With our supply of Elerium crystals limited by what our soldiers can recover in the field, I've been hesitant to recommend we commit them to any one project exclusively. However, in the wake of recent events, it seems like we need to work on developing an armor suit exceeding the durability and toughness of any of our previous designs. In order to do that, we've integrated an Elerium-based power cell into one our heavier frames. With the Elerium's incredible energy throughput, the suit can now support the use a self-contained force field. In the simplest of terms, we've mirrored the technologies most commonly used by the aliens in the defense of their UFOs, and fused them with a platform our troops can deploy in the field. I expect great things from this unit. L. Shen." 
+
+;----------------------------
+; Conventional Armor Male
+;----------------------------
+[DLC_30_Torso_M X2BodyPartTemplate]
+DisplayName="Bare"
+
+[DLC_30_Torso_A_M X2BodyPartTemplate]
+DisplayName="Breastplate"
+
+[DLC_30_Torso_A2_M X2BodyPartTemplate]
+DisplayName="Breastplate with Spikes & Straps"
+
+[DLC_30_Torso_B_M X2BodyPartTemplate]
+DisplayName="Spider Vest with Chain"
+
+[DLC_30_Torso_B2_M X2BodyPartTemplate]
+DisplayName="XCOM Vest with Knife"
+
+[DLC_30_Torso_B3_M X2BodyPartTemplate]
+DisplayName="Chryssalid Hunter Vest with Spiked Shoulders"
+
+[DLC_30_Arms_Left_Bare_M X2BodyPartTemplate]
+DisplayName="Bare Forearm"
+
+[DLC_30_Arms_Right_Bare_M X2BodyPartTemplate]
+DisplayName="Bare Forearm"
+
+[DLC_30_Arms_Left_A_M X2BodyPartTemplate]
+DisplayName="Ammo Gauntlet"
+
+[DLC_30_Arms_Right_A_M X2BodyPartTemplate]
+DisplayName="Ammo Gauntlet"
+
+[DLC_30_Arms_Left_B_M X2BodyPartTemplate]
+DisplayName="Knuckle Duster"
+
+[DLC_30_Arms_Right_B_M X2BodyPartTemplate]
+DisplayName="Knuckle Duster"
+
+[DLC_30_Arms_Left_C_M X2BodyPartTemplate]
+DisplayName="Leather Straps"
+
+[DLC_30_Arms_Right_C_M X2BodyPartTemplate]
+DisplayName="Leather Straps"
+
+[DLC_30_Arms_Left_D_M X2BodyPartTemplate]
+DisplayName="Spiked Gauntlet"
+
+[DLC_30_Arms_Right_D_M X2BodyPartTemplate]
+DisplayName="Spiked Gauntlet"
+
+[DLC_30_Shoulder_Left_Bare_M X2BodyPartTemplate]
+DisplayName="Bare Shoulder"
+
+[DLC_30_Shoulder_Right_Bare_M X2BodyPartTemplate]
+DisplayName="Bare Shoulder"
+
+[DLC_30_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Pauldron"
+
+[DLC_30_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Pauldron"
+
+[DLC_30_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Spiked Pauldron"
+
+[DLC_30_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Spiked Pauldron"
+
+[DLC_30_Shoulder_Left_C_M X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Feathers"
+
+[DLC_30_Shoulder_Right_C_M X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Feathers"
+
+[DLC_30_Shoulder_Left_D_M X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Pauldron"
+
+[DLC_30_Shoulder_Right_D_M X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Pauldron"
+
+[DLC_30_Legs_A_M X2BodyPartTemplate]
+DisplayName="Cargo Pants with Heavy Armor"
+
+[DLC_30_Legs_B_M X2BodyPartTemplate]
+DisplayName="Pants with Blast Padding"
+
+[DLC_30_Legs_C_M X2BodyPartTemplate]
+DisplayName="Cargo Pants with Light Armor"
+
+[DLC_30_Legs_D_M X2BodyPartTemplate]
+DisplayName="Rockstar Pants"
+
+[DLC_30_Legs_E_M X2BodyPartTemplate]
+DisplayName="Hot Pants"
+
+[DLC_30_Legs_F_M X2BodyPartTemplate]
+DisplayName="Shorts with Blast Padding"
+
+[DLC_30_Legs_G_M X2BodyPartTemplate]
+DisplayName="Shorts"
+
+;----------------------------
+; Conventional Armor Female
+;----------------------------
+[DLC_30_Torso_F X2BodyPartTemplate]
+DisplayName="Bare"
+
+[DLC_30_Torso_A_F X2BodyPartTemplate]
+DisplayName="Breastplate"
+
+[DLC_30_Torso_A2_F X2BodyPartTemplate]
+DisplayName="Breastplate with Spikes & Straps"
+
+[DLC_30_Torso_B_F X2BodyPartTemplate]
+DisplayName="Spider Vest with Chain"
+
+[DLC_30_Torso_B2_F X2BodyPartTemplate]
+DisplayName="XCOM Vest with Knife"
+
+[DLC_30_Torso_B3_F X2BodyPartTemplate]
+DisplayName="Chryssalid Hunter Vest with Spiked Shoulders"
+
+[DLC_30_Arms_Left_Bare_F X2BodyPartTemplate]
+DisplayName="Bare Forearm"
+
+[DLC_30_Arms_Right_Bare_F X2BodyPartTemplate]
+DisplayName="Bare Forearm"
+
+[DLC_30_Arms_Left_A_F X2BodyPartTemplate]
+DisplayName="Ammo Gauntlet"
+
+[DLC_30_Arms_Right_A_F X2BodyPartTemplate]
+DisplayName="Ammo Gauntlet"
+
+[DLC_30_Arms_Left_B_F X2BodyPartTemplate]
+DisplayName="Knuckle Duster"
+
+[DLC_30_Arms_Right_B_F X2BodyPartTemplate]
+DisplayName="Knuckle Duster"
+
+[DLC_30_Arms_Left_C_F X2BodyPartTemplate]
+DisplayName="Leather Straps"
+
+[DLC_30_Arms_Right_C_F X2BodyPartTemplate]
+DisplayName="Leather Straps"
+
+[DLC_30_Arms_Left_D_F X2BodyPartTemplate]
+DisplayName="Spiked Gauntlet"
+
+[DLC_30_Arms_Right_D_F X2BodyPartTemplate]
+DisplayName="Spiked Gauntlet"
+
+[DLC_30_Shoulder_Left_Bare_F X2BodyPartTemplate]
+DisplayName="Bare Shoulder"
+
+[DLC_30_Shoulder_Right_Bare_F X2BodyPartTemplate]
+DisplayName="Bare Shoulder"
+
+[DLC_30_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Pauldron"
+
+[DLC_30_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Pauldron"
+
+[DLC_30_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Spiked Pauldron"
+
+[DLC_30_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Spiked Pauldron"
+
+[DLC_30_Shoulder_Left_C_F X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Feathers"
+
+[DLC_30_Shoulder_Right_C_F X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Feathers"
+
+[DLC_30_Shoulder_Left_D_F X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Pauldron"
+
+[DLC_30_Shoulder_Right_D_F X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Pauldron"
+
+[DLC_30_Legs_A_F X2BodyPartTemplate]
+DisplayName="Cargo Pants with Heavy Armor"
+
+[DLC_30_Legs_B_F X2BodyPartTemplate]
+DisplayName="Pants with Blast Padding"
+
+[DLC_30_Legs_C_F X2BodyPartTemplate]
+DisplayName="Cargo Pants with Light Armor"
+
+[DLC_30_Legs_D_F X2BodyPartTemplate]
+DisplayName="Rockstar Pants"
+
+[DLC_30_Legs_E_F X2BodyPartTemplate]
+DisplayName="Hot Pants"
+
+[DLC_30_Legs_F_F X2BodyPartTemplate]
+DisplayName="Shorts with Blast Padding"
+
+[DLC_30_Legs_G_F X2BodyPartTemplate]
+DisplayName="Shorts"
+
+
+;----------------------------
+; Plated Light Male
+;----------------------------
+
+[DLC_30_Arms_Left_PltLt_A_M X2BodyPartTemplate]
+DisplayName="Grapple"
+
+[DLC_30_Arms_Right_PltLt_Bare_M X2BodyPartTemplate]
+DisplayName="Bare Forearm"
+
+[DLC_30_Arms_Right_PltLt_A_M X2BodyPartTemplate]
+DisplayName="Ammo Gauntlet"
+
+[DLC_30_Arms_Right_PltLt_B_M X2BodyPartTemplate]
+DisplayName="Knuckle Duster"
+
+[DLC_30_Arms_Right_PltLt_C_M X2BodyPartTemplate]
+DisplayName="Leather Straps"
+
+[DLC_30_Arms_Right_PltLt_D_M X2BodyPartTemplate]
+DisplayName="Spiked Gauntlet"
+
+[DLC_30_Shoulder_Left_PltLt_Bare_M X2BodyPartTemplate]
+DisplayName="Bare Shoulder"
+
+[DLC_30_Shoulder_Right_PltLt_Bare_M X2BodyPartTemplate]
+DisplayName="Bare Shoulder"
+
+[DLC_30_Shoulder_Left_PltLt_A_M X2BodyPartTemplate]
+DisplayName="Pauldron"
+
+[DLC_30_Shoulder_Right_PltLt_A_M X2BodyPartTemplate]
+DisplayName="Pauldron"
+
+[DLC_30_Shoulder_Left_PltLt_B_M X2BodyPartTemplate]
+DisplayName="Spiked Pauldron"
+
+[DLC_30_Shoulder_Right_PltLt_B_M X2BodyPartTemplate]
+DisplayName="Spiked Pauldron"
+
+[DLC_30_Shoulder_Left_PltLt_C_M X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Feathers"
+
+[DLC_30_Shoulder_Right_PltLt_C_M X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Feathers"
+
+[DLC_30_Shoulder_Left_PltLt_D_M X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Pauldron"
+
+[DLC_30_Shoulder_Right_PltLt_D_M X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Pauldron"
+
+[DLC_30_PltLgt_Torso_A_M X2BodyPartTemplate]
+DisplayName="Black Widow"
+
+[DLC_30_PltLgt_Legs_A_M X2BodyPartTemplate]
+DisplayName="Black Widow A"
+
+[DLC_30_PltLgt_Legs_B_M X2BodyPartTemplate]
+DisplayName="Black Widow B"
+
+[DLC_30_PltLgt_Legs_C_M X2BodyPartTemplate]
+DisplayName="Black Widow C"
+
+;----------------------------
+; Plated Light Female
+;----------------------------
+
+[DLC_30_Arms_Left_PltLt_A_F X2BodyPartTemplate]
+DisplayName="Grapple"
+
+[DLC_30_Arms_Right_PltLt_Bare_F X2BodyPartTemplate]
+DisplayName="Bare Forearm"
+
+[DLC_30_Arms_Right_PltLt_A_F X2BodyPartTemplate]
+DisplayName="Ammo Gauntlet"
+
+[DLC_30_Arms_Right_PltLt_B_F X2BodyPartTemplate]
+DisplayName="Knuckle Duster"
+
+[DLC_30_Arms_Right_PltLt_C_F X2BodyPartTemplate]
+DisplayName="Leather Straps"
+
+[DLC_30_Arms_Right_PltLt_D_F X2BodyPartTemplate]
+DisplayName="Spiked Gauntlet"
+
+[DLC_30_Shoulder_Left_PltLt_Bare_F X2BodyPartTemplate]
+DisplayName="Bare Shoulder"
+
+[DLC_30_Shoulder_Right_PltLt_Bare_F X2BodyPartTemplate]
+DisplayName="Bare Shoulder"
+
+[DLC_30_Shoulder_Left_PltLt_A_F X2BodyPartTemplate]
+DisplayName="Pauldron"
+
+[DLC_30_Shoulder_Right_PltLt_A_F X2BodyPartTemplate]
+DisplayName="Pauldron"
+
+[DLC_30_Shoulder_Left_PltLt_B_F X2BodyPartTemplate]
+DisplayName="Spiked Pauldron"
+
+[DLC_30_Shoulder_Right_PltLt_B_F X2BodyPartTemplate]
+DisplayName="Spiked Pauldron"
+
+[DLC_30_Shoulder_Left_PltLt_C_F X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Feathers"
+
+[DLC_30_Shoulder_Right_PltLt_C_F X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Feathers"
+
+[DLC_30_Shoulder_Left_PltLt_D_F X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Pauldron"
+
+[DLC_30_Shoulder_Right_PltLt_D_F X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Pauldron"
+
+[DLC_30_PltLgt_Torso_A_F X2BodyPartTemplate]
+DisplayName="Black Widow"
+
+[DLC_30_PltLgt_Legs_A_F X2BodyPartTemplate]
+DisplayName="Black Widow A"
+
+[DLC_30_PltLgt_Legs_B_F X2BodyPartTemplate]
+DisplayName="Black Widow B"
+
+[DLC_30_PltLgt_Legs_C_F X2BodyPartTemplate]
+DisplayName="Black Widow C"
+
+;----------------------------
+; Plated Medium Male
+;----------------------------
+
+[DLC_30_Arms_Left_Plt_Bare_M X2BodyPartTemplate]
+DisplayName="Bare Forearm"
+
+[DLC_30_Arms_Right_Plt_Bare_M X2BodyPartTemplate]
+DisplayName="Bare Forearm"
+
+[DLC_30_Arms_Left_Plt_A_M X2BodyPartTemplate]
+DisplayName="Ammo Gauntlet"
+
+[DLC_30_Arms_Right_Plt_A_M X2BodyPartTemplate]
+DisplayName="Ammo Gauntlet"
+
+[DLC_30_Arms_Left_Plt_B_M X2BodyPartTemplate]
+DisplayName="Knuckle Duster"
+
+[DLC_30_Arms_Right_Plt_B_M X2BodyPartTemplate]
+DisplayName="Knuckle Duster"
+
+[DLC_30_Arms_Left_Plt_C_M X2BodyPartTemplate]
+DisplayName="Leather Straps"
+
+[DLC_30_Arms_Right_Plt_C_M X2BodyPartTemplate]
+DisplayName="Leather Straps"
+
+[DLC_30_Arms_Left_Plt_D_M X2BodyPartTemplate]
+DisplayName="Spiked Gauntlet"
+
+[DLC_30_Arms_Right_Plt_D_M X2BodyPartTemplate]
+DisplayName="Spiked Gauntlet"
+
+[DLC_30_Shoulder_Left_Plt_Bare_M X2BodyPartTemplate]
+DisplayName="Bare Shoulder"
+
+[DLC_30_Shoulder_Right_Plt_Bare_M X2BodyPartTemplate]
+DisplayName="Bare Shoulder"
+
+[DLC_30_Shoulder_Left_Plt_A_M X2BodyPartTemplate]
+DisplayName="Pauldron"
+
+[DLC_30_Shoulder_Right_Plt_A_M X2BodyPartTemplate]
+DisplayName="Pauldron"
+
+[DLC_30_Shoulder_Left_Plt_B_M X2BodyPartTemplate]
+DisplayName="Spiked Pauldron"
+
+[DLC_30_Shoulder_Right_Plt_B_M X2BodyPartTemplate]
+DisplayName="Spiked Pauldron"
+
+[DLC_30_Shoulder_Left_Plt_C_M X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Feathers"
+
+[DLC_30_Shoulder_Right_Plt_C_M X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Feathers"
+
+[DLC_30_Shoulder_Left_Plt_D_M X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Pauldron"
+
+[DLC_30_Shoulder_Right_Plt_D_M X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Pauldron"
+
+[DLC_30_PltMed_Torso_A_M X2BodyPartTemplate]
+DisplayName="Cougar"
+
+[DLC_30_PltMed_Legs_A_M X2BodyPartTemplate]
+DisplayName="Cougar A"
+
+[DLC_30_PltMed_Legs_B_M X2BodyPartTemplate]
+DisplayName="Cougar B"
+
+[DLC_30_PltMed_Legs_C_M X2BodyPartTemplate]
+DisplayName="Cougar C"
+
+;----------------------------
+; Plated Medium Female
+;----------------------------
+
+[DLC_30_Arms_Left_Plt_Bare_F X2BodyPartTemplate]
+DisplayName="Bare Forearm"
+
+[DLC_30_Arms_Right_Plt_Bare_F X2BodyPartTemplate]
+DisplayName="Bare Forearm"
+
+[DLC_30_Arms_Left_Plt_A_F X2BodyPartTemplate]
+DisplayName="Ammo Gauntlet"
+
+[DLC_30_Arms_Right_Plt_A_F X2BodyPartTemplate]
+DisplayName="Ammo Gauntlet"
+
+[DLC_30_Arms_Left_Plt_B_F X2BodyPartTemplate]
+DisplayName="Knuckle Duster"
+
+[DLC_30_Arms_Right_Plt_B_F X2BodyPartTemplate]
+DisplayName="Knuckle Duster"
+
+[DLC_30_Arms_Left_Plt_C_F X2BodyPartTemplate]
+DisplayName="Leather Straps"
+
+[DLC_30_Arms_Right_Plt_C_F X2BodyPartTemplate]
+DisplayName="Leather Straps"
+
+[DLC_30_Arms_Left_Plt_D_F X2BodyPartTemplate]
+DisplayName="Spiked Gauntlet"
+
+[DLC_30_Arms_Right_Plt_D_F X2BodyPartTemplate]
+DisplayName="Spiked Gauntlet"
+
+[DLC_30_Shoulder_Left_Plt_Bare_F X2BodyPartTemplate]
+DisplayName="Bare Shoulder"
+
+[DLC_30_Shoulder_Right_Plt_Bare_F X2BodyPartTemplate]
+DisplayName="Bare Shoulder"
+
+[DLC_30_Shoulder_Left_Plt_A_F X2BodyPartTemplate]
+DisplayName="Pauldron"
+
+[DLC_30_Shoulder_Right_Plt_A_F X2BodyPartTemplate]
+DisplayName="Pauldron"
+
+[DLC_30_Shoulder_Left_Plt_B_F X2BodyPartTemplate]
+DisplayName="Spiked Pauldron"
+
+[DLC_30_Shoulder_Right_Plt_B_F X2BodyPartTemplate]
+DisplayName="Spiked Pauldron"
+
+[DLC_30_Shoulder_Left_Plt_C_F X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Feathers"
+
+[DLC_30_Shoulder_Right_Plt_C_F X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Feathers"
+
+[DLC_30_Shoulder_Left_Plt_D_F X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Pauldron"
+
+[DLC_30_Shoulder_Right_Plt_D_F X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Pauldron"
+
+[DLC_30_PltMed_Torso_A_F X2BodyPartTemplate]
+DisplayName="Cougar"
+
+[DLC_30_PltMed_Legs_A_F X2BodyPartTemplate]
+DisplayName="Cougar A"
+
+[DLC_30_PltMed_Legs_B_F X2BodyPartTemplate]
+DisplayName="Cougar B"
+
+[DLC_30_PltMed_Legs_C_F X2BodyPartTemplate]
+DisplayName="Cougar C"
+
+;----------------------------
+; Plated Heavy Male
+;----------------------------
+[DLC_30_Arms_Left_PltHvy_A_M X2BodyPartTemplate]
+DisplayName="Ram Armature A"
+
+[DLC_30_Arms_Right_PltHvy_A_M X2BodyPartTemplate]
+DisplayName="Ram Armature A"
+
+[DLC_30_Arms_Left_PltHvy_B_M X2BodyPartTemplate]
+DisplayName="Ram Armature B"
+
+[DLC_30_Arms_Right_PltHvy_B_M X2BodyPartTemplate]
+DisplayName="Ram Armature B"
+
+[DLC_30_Shoulder_Left_PltHvy_Bare_M X2BodyPartTemplate]
+DisplayName="Bare Shoulder"
+
+[DLC_30_Shoulder_Right_PltHvy_Bare_M X2BodyPartTemplate]
+DisplayName="Bare Shoulder"
+
+[DLC_30_Shoulder_Left_PltHvy_A_M X2BodyPartTemplate]
+DisplayName="Pauldron"
+
+[DLC_30_Shoulder_Right_PltHvy_A_M X2BodyPartTemplate]
+DisplayName="Pauldron"
+
+[DLC_30_Shoulder_Left_PltHvy_B_M X2BodyPartTemplate]
+DisplayName="Spiked Pauldron"
+
+[DLC_30_Shoulder_Right_PltHvy_B_M X2BodyPartTemplate]
+DisplayName="Spiked Pauldron"
+
+[DLC_30_Shoulder_Left_PltHvy_C_M X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Feathers"
+
+[DLC_30_Shoulder_Right_PltHvy_C_M X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Feathers"
+
+[DLC_30_Shoulder_Left_PltHvy_D_M X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Pauldron"
+
+[DLC_30_Shoulder_Right_PltHvy_D_M X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Pauldron"
+
+[DLC_30_PltHvy_Torso_A_M X2BodyPartTemplate]
+DisplayName="Ram"
+
+[DLC_30_PltHvy_Legs_A_M X2BodyPartTemplate]
+DisplayName="Ram A"
+
+[DLC_30_PltHvy_Legs_B_M X2BodyPartTemplate]
+DisplayName="Ram B"
+
+[DLC_30_PltHvy_Legs_C_M X2BodyPartTemplate]
+DisplayName="Ram C"
+
+;----------------------------
+; Plated Heavy Female
+;----------------------------
+[DLC_30_Arms_Left_PltHvy_A_F X2BodyPartTemplate]
+DisplayName="Ram Armature A"
+
+[DLC_30_Arms_Right_PltHvy_A_F X2BodyPartTemplate]
+DisplayName="Ram Armature A"
+
+[DLC_30_Arms_Left_PltHvy_B_F X2BodyPartTemplate]
+DisplayName="Ram Armature B"
+
+[DLC_30_Arms_Right_PltHvy_B_F X2BodyPartTemplate]
+DisplayName="Ram Armature B"
+
+[DLC_30_Shoulder_Left_PltHvy_Bare_F X2BodyPartTemplate]
+DisplayName="Bare Shoulder"
+
+[DLC_30_Shoulder_Right_PltHvy_Bare_F X2BodyPartTemplate]
+DisplayName="Bare Shoulder"
+
+[DLC_30_Shoulder_Left_PltHvy_A_F X2BodyPartTemplate]
+DisplayName="Pauldron"
+
+[DLC_30_Shoulder_Right_PltHvy_A_F X2BodyPartTemplate]
+DisplayName="Pauldron"
+
+[DLC_30_Shoulder_Left_PltHvy_B_F X2BodyPartTemplate]
+DisplayName="Spiked Pauldron"
+
+[DLC_30_Shoulder_Right_PltHvy_B_F X2BodyPartTemplate]
+DisplayName="Spiked Pauldron"
+
+[DLC_30_Shoulder_Left_PltHvy_C_F X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Feathers"
+
+[DLC_30_Shoulder_Right_PltHvy_C_F X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Feathers"
+
+[DLC_30_Shoulder_Left_PltHvy_D_F X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Pauldron"
+
+[DLC_30_Shoulder_Right_PltHvy_D_F X2BodyPartTemplate]
+DisplayName="Shoulder Pad with Pauldron"
+
+[DLC_30_PltHvy_Torso_A_F X2BodyPartTemplate]
+DisplayName="Ram"
+
+[DLC_30_PltHvy_Legs_A_F X2BodyPartTemplate]
+DisplayName="Ram A"
+
+[DLC_30_PltHvy_Legs_B_F X2BodyPartTemplate]
+DisplayName="Ram B"
+
+[DLC_30_PltHvy_Legs_C_F X2BodyPartTemplate]
+DisplayName="Ram C"
+
+;----------------------------
+; Powered Light Male
+;----------------------------
+
+[DLC_30_PwrLgt_Torso_A_M X2BodyPartTemplate]
+DisplayName="No decals"
+
+[DLC_30_PwrLgt_Torso_B_M X2BodyPartTemplate]
+DisplayName="Spider Skull"
+
+[DLC_30_PwrLgt_Torso_C_M X2BodyPartTemplate]
+DisplayName="Angel"
+
+[DLC_30_PWrLgt_Arms_A_M X2BodyPartTemplate]
+DisplayName="No Decals"
+
+[DLC_30_PWrLgt_Arms_B_M X2BodyPartTemplate]
+DisplayName="Spider Skull"
+
+[DLC_30_PWrLgt_Arms_C_M X2BodyPartTemplate]
+DisplayName="Angel"
+
+[DLC_30_PWrLgt_Arms_D_M X2BodyPartTemplate]
+DisplayName="Single Armored Shoulder"
+
+[DLC_30_PWrLgt_Arms_E_M X2BodyPartTemplate]
+DisplayName="Bare Shoulders"
+
+[DLC_30_PwrLgt_Legs_A_M X2BodyPartTemplate]
+DisplayName="No Decals"
+
+[DLC_30_PwrLgt_Legs_B_M X2BodyPartTemplate]
+DisplayName="Spider Skull"
+
+[DLC_30_PwrLgt_Legs_C_M X2BodyPartTemplate]
+DisplayName="Angel"
+
+;----------------------------
+; Powered Light Female
+;----------------------------
+
+[DLC_30_PwrLgt_Torso_A_F X2BodyPartTemplate]
+DisplayName="No decals"
+
+[DLC_30_PwrLgt_Torso_B_F X2BodyPartTemplate]
+DisplayName="Spider Skull"
+
+[DLC_30_PwrLgt_Torso_C_F X2BodyPartTemplate]
+DisplayName="Angel"
+
+[DLC_30_PWrLgt_Arms_A_F X2BodyPartTemplate]
+DisplayName="No Decals"
+
+[DLC_30_PWrLgt_Arms_B_F X2BodyPartTemplate]
+DisplayName="Spider Skull"
+
+[DLC_30_PWrLgt_Arms_C_F X2BodyPartTemplate]
+DisplayName="Angel"
+
+[DLC_30_PWrLgt_Arms_D_F X2BodyPartTemplate]
+DisplayName="Single Armored Shoulder"
+
+[DLC_30_PWrLgt_Arms_E_F X2BodyPartTemplate]
+DisplayName="Bare Shoulders"
+
+[DLC_30_PwrLgt_Legs_A_F X2BodyPartTemplate]
+DisplayName="No Decals"
+
+[DLC_30_PwrLgt_Legs_B_F X2BodyPartTemplate]
+DisplayName="Spider Skull"
+
+[DLC_30_PwrLgt_Legs_C_F X2BodyPartTemplate]
+DisplayName="Angel"
+
+;----------------------------
+; Powered Medium Male
+;----------------------------
+
+[DLC_30_PwrMed_Torso_A_M X2BodyPartTemplate]
+DisplayName="No decals"
+
+[DLC_30_PwrMed_Torso_B_M X2BodyPartTemplate]
+DisplayName="XCOM"
+
+[DLC_30_PwrMed_Torso_C_M X2BodyPartTemplate]
+DisplayName="Skeleton"
+
+[DLC_30_PWrMed_Arms_A_M X2BodyPartTemplate]
+DisplayName="No decals"
+
+[DLC_30_PWrMed_Arms_B_M X2BodyPartTemplate]
+DisplayName="XCOM"
+
+[DLC_30_PWrMed_Arms_C_M X2BodyPartTemplate]
+DisplayName="Skeleton"
+
+[DLC_30_PWrMed_Arms_D_M X2BodyPartTemplate]
+DisplayName="Shoulder Pad A"
+
+[DLC_30_PWrMed_Arms_E_M X2BodyPartTemplate]
+DisplayName="Shoulder Pad B"
+
+[DLC_30_PwrMed_Legs_A_M X2BodyPartTemplate]
+DisplayName="No Decals"
+
+[DLC_30_PwrMed_Legs_B_M X2BodyPartTemplate]
+DisplayName="XCOM"
+
+[DLC_30_PwrMed_Legs_C_M X2BodyPartTemplate]
+DisplayName="Skeleton"
+
+;----------------------------
+; Powered Medium Female
+;----------------------------
+
+[DLC_30_PwrMed_Torso_A_F X2BodyPartTemplate]
+DisplayName="No decals"
+
+[DLC_30_PwrMed_Torso_B_F X2BodyPartTemplate]
+DisplayName="XCOM"
+
+[DLC_30_PwrMed_Torso_C_F X2BodyPartTemplate]
+DisplayName="Skeleton"
+
+[DLC_30_PWrMed_Arms_A_F X2BodyPartTemplate]
+DisplayName="No decals"
+
+[DLC_30_PWrMed_Arms_B_F X2BodyPartTemplate]
+DisplayName="XCOM"
+
+[DLC_30_PWrMed_Arms_C_F X2BodyPartTemplate]
+DisplayName="Skeleton"
+
+[DLC_30_PWrMed_Arms_D_F X2BodyPartTemplate]
+DisplayName="Shoulder Pad A"
+
+[DLC_30_PWrMed_Arms_E_F X2BodyPartTemplate]
+DisplayName="Shoulder Pad B"
+
+[DLC_30_PwrMed_Legs_A_F X2BodyPartTemplate]
+DisplayName="No Decals"
+
+[DLC_30_PwrMed_Legs_B_F X2BodyPartTemplate]
+DisplayName="XCOM"
+
+[DLC_30_PwrMed_Legs_C_F X2BodyPartTemplate]
+DisplayName="Skeleton"
+
+;----------------------------
+; Powered Heavy Male
+;----------------------------
+
+[DLC_30_PwrHvy_Torso_A_M X2BodyPartTemplate]
+DisplayName="No Decals"
+
+[DLC_30_PwrHvy_Torso_B_M X2BodyPartTemplate]
+DisplayName="Gargoyle"
+
+[DLC_30_PwrHvy_Torso_C_M X2BodyPartTemplate]
+DisplayName="Goblin"
+
+[DLC_30_PWrHvy_Arms_A_M X2BodyPartTemplate]
+DisplayName="No Decals"
+
+[DLC_30_PWrHvy_Arms_B_M X2BodyPartTemplate]
+DisplayName="Gargoyle"
+
+[DLC_30_PWrHvy_Arms_C_M X2BodyPartTemplate]
+DisplayName="Goblin"
+
+[DLC_30_PWrHvy_Arms_D_M X2BodyPartTemplate]
+DisplayName="Shoulder Pad A"
+
+[DLC_30_PWrHvy_Arms_E_M X2BodyPartTemplate]
+DisplayName="Shoulder Pad B"
+
+[DLC_30_PwrHvy_Legs_A_M X2BodyPartTemplate]
+DisplayName="No Decals"
+
+[DLC_30_PwrHvy_Legs_B_M X2BodyPartTemplate]
+DisplayName="Gargoyle"
+
+[DLC_30_PwrHvy_Legs_C_M X2BodyPartTemplate]
+DisplayName="Goblin"
+
+;----------------------------
+; Powered Heavy Female
+;----------------------------
+
+[DLC_30_PwrHvy_Torso_A_F X2BodyPartTemplate]
+DisplayName="No Decals"
+
+[DLC_30_PwrHvy_Torso_B_F X2BodyPartTemplate]
+DisplayName="Gargoyle"
+
+[DLC_30_PwrHvy_Torso_C_F X2BodyPartTemplate]
+DisplayName="Goblin"
+
+[DLC_30_PWrHvy_Arms_A_F X2BodyPartTemplate]
+DisplayName="No Decals"
+
+[DLC_30_PWrHvy_Arms_B_F X2BodyPartTemplate]
+DisplayName="Gargoyle"
+
+[DLC_30_PWrHvy_Arms_C_F X2BodyPartTemplate]
+DisplayName="Goblin"
+
+[DLC_30_PWrHvy_Arms_D_F X2BodyPartTemplate]
+DisplayName="Shoulder Pad A"
+
+[DLC_30_PWrHvy_Arms_E_F X2BodyPartTemplate]
+DisplayName="Shoulder Pad B"
+
+[DLC_30_PwrHvy_Legs_A_F X2BodyPartTemplate]
+DisplayName="No Decals"
+
+[DLC_30_PwrHvy_Legs_B_F X2BodyPartTemplate]
+DisplayName="Gargoyle"
+
+[DLC_30_PwrHvy_Legs_C_F X2BodyPartTemplate]
+DisplayName="Goblin"
+
+;----------------------------
+; Helmets
+;----------------------------
+
+[DLC_30_Helmet_A_Kaiser_M X2BodyPartTemplate]
+DisplayName="Kaiser Helmet"
+
+[DLC_30_Helmet_A_Kaiser_F X2BodyPartTemplate]
+DisplayName="Kaiser Helmet"
+
+[DLC_30_Helmet_B_Gasmask_M X2BodyPartTemplate]
+DisplayName="Gas Mask"
+
+[DLC_30_Helmet_B_Gasmask_F X2BodyPartTemplate]
+DisplayName="Gas Mask"
+
+[DLC_30_Helmet_C_MetalSkull1_M X2BodyPartTemplate]
+DisplayName="Metal Skull"
+
+[DLC_30_Helmet_C_MetalSkull1_F X2BodyPartTemplate]
+DisplayName="Metal Skull"
+
+[DLC_30_Helmet_C_MetalSkull2_M X2BodyPartTemplate]
+DisplayName="Metal Skulls with Horns"
+
+[DLC_30_Helmet_C_MetalSkull2_F X2BodyPartTemplate]
+DisplayName="Metal Skulls with Horns"
+
+[DLC_30_Helmet_C_MetalSkull3_M X2BodyPartTemplate]
+DisplayName="Metal Skulls with Mohawk"
+
+[DLC_30_Helmet_C_MetalSkull3_F X2BodyPartTemplate]
+DisplayName="Metal Skulls with Mohawk"
+
+[DLC_30_Helmet_D_WeldersMask_M X2BodyPartTemplate]
+DisplayName="Welder's Mask"
+
+[DLC_30_Helmet_D_WeldersMask_F X2BodyPartTemplate]
+DisplayName="Welder's Mask"
+
+[DLC_30_Helmet_E_Space_M X2BodyPartTemplate]
+DisplayName="Space Helmet"
+
+[DLC_30_Helmet_E_Space_F X2BodyPartTemplate]
+DisplayName="Space Helmet"
+
+[DLC_30_Helmet_E_Space_Feathers_M X2BodyPartTemplate]
+DisplayName="Space Helmet with Feather Mohawk"
+
+[DLC_30_Helmet_E_Space_Feathers_F X2BodyPartTemplate]
+DisplayName="Space Helmet with Feather Mohawk"
+
+[DLC_30_Helmet_E_Space_Straps_M X2BodyPartTemplate]
+DisplayName="Space Mask"
+
+[DLC_30_Helmet_E_Space_Straps_F X2BodyPartTemplate]
+DisplayName="Space Mask"
+
+[DLC_30_Helmet_F_Knight1_M X2BodyPartTemplate]
+DisplayName="Knight Helm A"
+
+[DLC_30_Helmet_F_Knight1_F X2BodyPartTemplate]
+DisplayName="Knight Helm A"
+
+[DLC_30_Helmet_F_Knight2_M X2BodyPartTemplate]
+DisplayName="Knight Helm B"
+
+[DLC_30_Helmet_F_Knight2_F X2BodyPartTemplate]
+DisplayName="Knight Helm B"
+
+[DLC_30_Helmet_G_TopHat_M X2BodyPartTemplate]
+DisplayName="Voodoo Top Hat A"
+
+[DLC_30_Helmet_G_TopHat_F X2BodyPartTemplate]
+DisplayName="Voodoo Top Hat A"
+
+[DLC_30_Helmet_G_TopHat2_M X2BodyPartTemplate]
+DisplayName="Voodoo Top Hat B"
+
+[DLC_30_Helmet_G_TopHat2_F X2BodyPartTemplate]
+DisplayName="Voodoo Top Hat B"
+
+[DLC_30_Helmet_H_HockeyMask_M X2BodyPartTemplate]
+DisplayName="Tintable Skull Paint Hockey Mask"
+
+[DLC_30_Helmet_H_HockeyMask_F X2BodyPartTemplate]
+DisplayName="Tintable Skull Paint Hockey Mask"
+
+[DLC_30_Helmet_H_HockeyMask3_M X2BodyPartTemplate]
+DisplayName="Skull Paint Hockey Mask"
+
+[DLC_30_Helmet_H_HockeyMask3_F X2BodyPartTemplate]
+DisplayName="Skull Paint Hockey Mask"
+
+[DLC_30_Helmet_I_HockeyMask2_M X2BodyPartTemplate]
+DisplayName="Tintable Hockey Mask"
+
+[DLC_30_Helmet_I_HockeyMask2_F X2BodyPartTemplate]
+DisplayName="Tintable Hockey Mask"
+
+[DLC_30_Accessory_A_WelderGoggles1_M X2BodyPartTemplate]
+DisplayName="Goggles on Eyes"
+
+[DLC_30_Accessory_A_WelderGoggles1_F X2BodyPartTemplate]
+DisplayName="Goggles on Eyes"
+
+[DLC_30_Accessory_A_WelderGoggles2_M X2BodyPartTemplate]
+DisplayName="Goggles on Forehead"
+
+[DLC_30_Accessory_A_WelderGoggles2_F X2BodyPartTemplate]
+DisplayName="Goggles on Forehead"
+
+[DLC_30_Accessory_C_SpiderMask_M X2BodyPartTemplate]
+DisplayName="Spider Mask"
+
+[DLC_30_Accessory_C_SpiderMask_F X2BodyPartTemplate]
+DisplayName="Spider Mask"
+
+[DLC_30_Accessory_D_GlowingVisor_M X2BodyPartTemplate]
+DisplayName="Muzzle with Glowing Visor"
+
+[DLC_30_Accessory_D_GlowingVisor_F X2BodyPartTemplate]
+DisplayName="Muzzle with Glowing Visor"
+
+[DLC_30_Accessory_D_GlowingVisor_Goggles_M X2BodyPartTemplate]
+DisplayName="Muzzle with Goggles on Eyes"
+
+[DLC_30_Accessory_D_GlowingVisor_Goggles_F X2BodyPartTemplate]
+DisplayName="Muzzle with Goggles on Eyes"
+
+[DLC_30_Accessory_D_GlowingVisor_GogglesUps_M X2BodyPartTemplate]
+DisplayName="Muzzle with Goggles on Forehead"
+
+[DLC_30_Accessory_D_GlowingVisor_GogglesUps_F X2BodyPartTemplate]
+DisplayName="Muzzle with Goggles on Forehead"
+
+[DLC_30_Accessory_D_GlowingVisor_MaskOnly_M X2BodyPartTemplate]
+DisplayName="Muzzle"
+
+[DLC_30_Accessory_D_GlowingVisor_MaskOnly_F X2BodyPartTemplate]
+DisplayName="Muzzle"
+
+[DLC_30_Accessory_E_AviatorHelmet1_M X2BodyPartTemplate]
+DisplayName="Aviator Helmet"
+
+[DLC_30_Accessory_E_AviatorHelmet1_F X2BodyPartTemplate]
+DisplayName="Aviator Helmet"
+
+[DLC_30_Accessory_E_AviatorHelmet2_M X2BodyPartTemplate]
+DisplayName="Aviator Helmet with Goggles on Eyes"
+
+[DLC_30_Accessory_E_AviatorHelmet2_F X2BodyPartTemplate]
+DisplayName="Aviator Helmet with Goggles on Eyes"
+
+[DLC_30_Accessory_E_AviatorHelmet3_M X2BodyPartTemplate]
+DisplayName="Aviator Helmet with Goggles on Forehead"
+
+[DLC_30_Accessory_E_AviatorHelmet3_F X2BodyPartTemplate]
+DisplayName="Aviator Helmet with Goggles on Forehead"
+
+[DLC_30_Accessory_F_PorcelinDoll_M X2BodyPartTemplate]
+DisplayName="Android"
+
+[DLC_30_Accessory_F_PorcelinDoll_F X2BodyPartTemplate]
+DisplayName="Android"
+
+;----------------------------
+; Lower Face Props
+;----------------------------
+
+[DLC_30_Accessory_G_SamuraiMask_M X2BodyPartTemplate]
+DisplayName="Samurai Mask A"
+
+[DLC_30_Accessory_G_SamuraiMask_F X2BodyPartTemplate]
+DisplayName="Samurai Mask A"
+
+[DLC_30_Accessory_G_SamuraiMask2_M X2BodyPartTemplate]
+DisplayName="Samurai Mask B"
+
+[DLC_30_Accessory_G_SamuraiMask2_F X2BodyPartTemplate]
+DisplayName="Samurai Mask B"
+
+;----------------------------
+; Face Paint
+;----------------------------
+
+[Facepaint_BLANK X2BodyPartTemplate]
+DisplayName="None"
+
+[DLC_30_FacePaint_BlackAndWhite X2BodyPartTemplate]
+DisplayName="Ethereal Divide"
+
+[DLC_30_FacePaint_Bloody X2BodyPartTemplate]
+DisplayName="Blood Splatter"
+
+[DLC_30_FacePaint_BlueSkull X2BodyPartTemplate]
+DisplayName="Warrior Skull"
+
+[DLC_30_FacePaint_Celtic X2BodyPartTemplate]
+DisplayName="Celtic Warrior"
+
+[DLC_30_FacePaint_Clown X2BodyPartTemplate]
+DisplayName="Killer Clown"
+
+[DLC_30_FacePaint_Corpse X2BodyPartTemplate]
+DisplayName="Heavy Metal"
+
+[DLC_30_FacePaint_EyeStripe X2BodyPartTemplate]
+DisplayName="Bandit"
+
+[DLC_30_FacePaint_Kabuki X2BodyPartTemplate]
+DisplayName="Kabuki Paint"
+
+[DLC_30_FacePaint_TopBlack X2BodyPartTemplate]
+DisplayName="Midnight Warrior"
+
+;----------------------------
+; Hairstyles
+;----------------------------
+
+[DLC_30_Hair_A_TopKnot_M X2BodyPartTemplate]
+DisplayName="Top Knot Fade"
+
+[DLC_30_Hair_A_TopKnot_F X2BodyPartTemplate]
+DisplayName="Top Knot Fade"
+
+[DLC_30_Hair_A_TopKnot2_M X2BodyPartTemplate]
+DisplayName="Top Knot"
+
+[DLC_30_Hair_A_TopKnot2_F X2BodyPartTemplate]
+DisplayName="Top Knot"
+
+[DLC_30_Hair_B_ExtremeMohawk_M X2BodyPartTemplate]
+DisplayName="Tall Mohawk"
+
+[DLC_30_Hair_B_ExtremeMohawk_F X2BodyPartTemplate]
+DisplayName="Tall Mohawk"
+
+[DLC_30_Hair_B_ExtremeMohawk2_M X2BodyPartTemplate]
+DisplayName="Tall Mohawk Fade"
+
+[DLC_30_Hair_B_ExtremeMohawk2_F X2BodyPartTemplate]
+DisplayName="Tall Mohawk Fade"
+
+[DLC_30_Hair_C_StripedMohawk_M X2BodyPartTemplate]
+DisplayName="Short Mohawk Striped"
+
+[DLC_30_Hair_C_StripedMohawk_F X2BodyPartTemplate]
+DisplayName="Short Mohawk Striped"
+
+[DLC_30_Hair_C_StripedMohawk2_M X2BodyPartTemplate]
+DisplayName="Short Mohawk"
+
+[DLC_30_Hair_C_StripedMohawk2_F X2BodyPartTemplate]
+DisplayName="Short Mohawk"
+
+[DLC_30_Hair_D_TopBraid_M X2BodyPartTemplate]
+DisplayName="Top Braid"
+
+[DLC_30_Hair_D_TopBraid_F X2BodyPartTemplate]
+DisplayName="Top Braid"
+
+[DLC_30_Hair_E_Spikes_M X2BodyPartTemplate]
+DisplayName="Spikes"
+
+[DLC_30_Hair_E_Spikes_F X2BodyPartTemplate]
+DisplayName="Spikes"
+
+[DLC_30_Hair_F_Pigtails_M X2BodyPartTemplate]
+DisplayName="Pigtails"
+
+[DLC_30_Hair_F_Pigtails_F X2BodyPartTemplate]
+DisplayName="Pigtails"
+
+[DLC_30_Hair_F_Pigtails2_M X2BodyPartTemplate]
+DisplayName="Pigtails Fade"
+
+[DLC_30_Hair_F_Pigtails2_F X2BodyPartTemplate]
+DisplayName="Pigtails Fade"
+
+
+;[DLC_30_Hat_A_FloppyBoonie_M X2BodyPartTemplate]
+;DisplayName="Floppy Bonnie"
+;[DLC_30_Hat_A_FloppyBoonie_F X2BodyPartTemplate]
+;DisplayName="Floppy Bonnie"
+
+;[Facepaint_BLANK X2BodyPartTemplate]
+;DisplayName="None"

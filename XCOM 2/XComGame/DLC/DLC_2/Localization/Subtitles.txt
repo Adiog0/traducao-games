@@ -1,0 +1,9 @@
+
+[Subtitles]
+
+CIN_Autopsy_ArchonKing_01="I have always been particularly fascinated with this species ever since the first time I spotted one during my travels. Although I had seen the biomechanical horrors deployed by the aliens during the initial invasion, these creatures appeared to be something else entirely. Possessing a certain flair not typically found amongst the aliens, I found this creature to be of great intelligence, masked by the incredible hold of the Elders."
+CIN_Autopsy_BerserkerQueen_01="The most dangerous of my three test subjects, the Berserker Queen also represents the greatest leap towards the boundaries of what could be considered reasonable and ethical research. Even in wartime, I must consider the fact that by providing an already unstable alien being with equipment that may further its own capabilities, I risk crossing a line that can never be uncrossed."
+CIN_Autopsy_ViperKing_01="Although it had been years since I conducted my last autopsy, I found the process returned to me quite naturally. This subject was perhaps less intimidating because of its similarities to varying reptile species found naturally on Earth. Because of extensive cytogenetic modifications to the subject's chromosomes, this could very well be the only male variant in the entire species."
+
+
+
