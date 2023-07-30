@@ -1,140 +1,139 @@
 [Play_DLC2_T_VAH_MATINEE_Boots_Ground_3 AkEvent]
-SpokenText="The data must be preserved at all costs! You must hurry! Take this and find Bradford!"
+SpokenText="Os dados devem ser preservados a todo custo! Você precisa se apressar! Pegue isso e encontre o Bradford!"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_VAH_Post_Ambush_Research_Five_1 AkEvent]
-SpokenText="I have made a terrible mistake. Commander... I sometimes wish you were here to keep my ambitions in check. Subject Gamma has escaped. A tremor opened a minute fracture in the containment unit. That was all the creature needed. It shattered the metal, cracking it as if it were glass. Or a sheet of thin ice."
+SpokenText="Eu cometi um terrível erro. Comandante... Às vezes, eu desejo que você estivesse aqui para conter minhas ambições. O Sujeito Gama escapou. Um tremor abriu uma pequena fissura na unidade de contenção. Foi tudo que a criatura precisou. Ela quebrou o metal, rachando-o como se fosse vidro. Ou uma fina folha de gelo."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_VAH_Post_Ambush_Research_Four AkEvent]
-SpokenText="With limited resources at my disposal, I wonder whether I should have focused my efforts on a single subject, rather than the three over which I must now preside.  Few of my staff feel comfortable in the containment facility. I myself must therefore keep a constant vigil. Still the potential benefits far outweigh these concerns... though the unease around subject Gamma in particular is admittedly... contagious."
+SpokenText="Com recursos limitados à minha disposição, pergunto-me se deveria ter focado meus esforços em um único sujeito, em vez dos três sobre os quais agora devo presidir. Poucos de minha equipe se sentem à vontade na instalação de contenção. Eu mesma devo, portanto, manter uma vigilância constante. Ainda assim, os benefícios potenciais superam essas preocupações... embora a apreensão em torno do Sujeito Gama, em particular, seja, admito, contagiosa."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_VAH_Post_Ambush_Research_One AkEvent]
-SpokenText="Success! I have managed to remove the genetic blockers on the specimens' DNA allowing the repressed traits to flourish. While Subjects Alpha and Beta show promise, it is subject Gamma I find the most intriguing."
+SpokenText="Sucesso! Eu consegui remover os bloqueadores genéticos do DNA dos espécimes, permitindo que os traços reprimidos floresçam. Enquanto os Sujeitos Alfa e Beta mostram promessa, é o Sujeito Gama que eu acho mais intrigante."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_VAH_Post_Ambush_Research_Six AkEvent]
-SpokenText="Fisher went off in search of the creature. Damn her heroics. She found no sign of Gamma but she did uncover a clutch of eggs. Preliminary analysis reveals them to be reptilian in nature. If Gamma is indeed reproducing, if it is somehow communicating with others of its kind then...we are lost."
+SpokenText="Fisher foi em busca da criatura. Malditas sejam suas ações heroicas. Ela não encontrou sinal do Gama, mas descobriu um ninho de ovos. A análise preliminar revela que eles têm natureza reptiliana. Se o Gama está de fato se reproduzindo, se está de alguma forma se comunicando com outros de sua espécie, então... estamos perdidos."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_VAH_Post_Ambush_Research_Three_1 AkEvent]
-SpokenText="The extent to which the Elders tamper with the genetic fabric of their subordinate races knows no bounds. It occurs to me that this is the first male of the species I have ever encountered. Is this a form of population control or something more?  Am I looking at the fate of my own species?"
+SpokenText="A extensão em que os Anciões manipulam o tecido genético de suas raças subordinadas não conhece limites. Percebo que este é o primeiro macho da espécie que já encontrei. Será uma forma de controle populacional ou algo mais? Estou olhando para o destino da minha própria espécie?"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_VAH_Post_Ambush_Research_Two AkEvent]
-SpokenText="While Subjects Alpha and Beta both continue to exhibit exaggerated, sometimes erratic variations on their traditionally observed behaviors, Subject Gamma has grown to become something else entirely. Behind those eyes there is an intelligence that I have not witnessed in any unaltered specimens of its kind."
+SpokenText="Enquanto os Sujeitos Alfa e Beta continuam a exibir variações exageradas e às vezes erráticas em seus comportamentos tradicionalmente observados, o Sujeito Gama cresceu e se tornou algo totalmente diferente. Por trás daqueles olhos, há uma inteligência que não testemunhei em nenhum espécime não alterado de sua espécie."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_VAH_Post_King_Research_Five AkEvent]
-SpokenText="The data upload is complete. I have also prepared several unique weapons I hope will be of use. I am sure he will question the ethics behind their construction but I believe Bradford will still find a way to put them to good use. He has proven quite effective in keeping the resistance together all these years. I only hope he will one day forgive my departure."
+SpokenText="A transferência de dados foi concluída. Também preparei várias armas exclusivas que espero que sejam úteis. Tenho certeza de que ele questionará a ética por trás de sua construção, mas acredito que o Bradford ainda encontrará uma maneira de usá-las para o bem. Ele provou ser bastante eficaz em manter a resistência unida todos esses anos. Só espero que ele um dia perdoe minha partida."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_VAH_Post_King_Research_Four AkEvent]
-SpokenText="We are lost. Each hour more Vipers appear. Either summoned by Gamma or hatched from those infernal eggs. I have encoded all relevant data on these creatures within this data pad. A sentimental gesture perhaps but I can only hope it reaches Bradford or the resistance. There is still a chance they can stop these creatures. If only we still had the Commander..."
+SpokenText="Estamos perdidos. A cada hora, mais Víperes aparecem. Sejam convocados pelo Gama ou chocados desses malditos ovos. Eu codifiquei todos os dados relevantes sobre essas criaturas neste datapad. Um gesto sentimental, talvez, mas só posso esperar que ele alcance o Bradford ou a resistência. Ainda há uma chance de que eles possam deter essas criaturas. Se ao menos tivéssemos o Comandante..."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_VAH_Post_King_Research_One_2 AkEvent]
-SpokenText="I saw it. For a moment... at the containment facility. Gamma. The creature has grown remarkably since its escape... had the rest of the team not arrived I am sure I would not be here now."
+SpokenText="Eu vi. Por um momento... na instalação de contenção. O Gama. A criatura cresceu consideravelmente desde sua fuga... se o restante da equipe não tivesse chegado, tenho certeza de que eu não estaria aqui agora."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_VAH_Post_King_Research_Six AkEvent]
-SpokenText="They've surrounded the Skyranger. The damned things grow smarter each day. At least Gamma does. If Big Sky and the others are to find you they will need a distraction, Bradford. I will not let them down... even if I must bring this entire cavern down with me. I wish you well. I know you will come. Dr. M. Vahlen, Chief Scientist, XCOM, signing off. "
+SpokenText="Eles cercaram o Skyranger. As malditas coisas ficam mais inteligentes a cada dia. Pelo menos o Gama fica. Se Big Sky e os outros quiserem te encontrar, eles precisarão de uma distração, Bradford. Não vou decepcioná-los... mesmo que eu precise derrubar toda essa caverna comigo. Desejo-lhe o melhor. Sei que você virá. Dra. M. Vahlen, Chefe Cientista, XCOM, desligando."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_VAH_Post_King_Research_Three AkEvent]
-SpokenText="We were overwhelmed. The walls seemed to flow with Vipers. I thought for a moment Fisher might hold them off but there were too many. At least she bought me enough time to set up the warning beacon. The last sound I remember hearing was the destruction of the other two containment units. If subjects Alpha and Beta are free as well I can only pray the beacon's message holds."
+SpokenText="Fomos dominados. As paredes pareciam se encher de Víperes. Por um momento, pensei que a Fisher pudesse detê-los, mas eram muitos. Pelo menos ela me deu tempo suficiente para preparar o sinal de alerta. O último som que me lembro foi a destruição das outras duas unidades de contenção. Se os sujeitos Alfa e Beta também estão livres, só posso rezar para que a mensagem do sinal de alerta seja eficaz."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_VAH_Post_King_Research_Two AkEvent]
-SpokenText="Our few remaining scouts report significant increases in bio density in the area. It is clear... we are not alone. I can no longer delude myself... Gamma is clearly communicating with others of its kind. And there are the eggs."
+SpokenText="Nossos poucos batedores restantes relatam aumentos significativos na densidade biológica na área. Está claro... não estamos sozinhos. Não posso mais me enganar... o Gama está claramente se comunicando com outros de sua espécie. E há os ovos."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_VAH_Pre_Ambush_Research_Five AkEvent]
-SpokenText="The specimens' growth continues to accelerate. Given these creatures apparent pliability when it comes to drastic changes in their genetic makeup, I believe it may be possible to reverse selected traits that the aliens themselves engineered into dormancy."
+SpokenText="O crescimento dos espécimes continua acelerando. Dada a aparente maleabilidade dessas criaturas quando se trata de mudanças drásticas em sua composição genética, acredito que seja possível reverter certos traços que os alienígenas engenheiraram para a latência."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_VAH_Pre_Ambush_Research_Four AkEvent]
-SpokenText="Though I am certain some of my prior colleagues at XCOM would find the nature of my work here unsettling, I must persevere. I have no doubt these creatures would one day reach maturity regardless of my intentions. Left here alone, the results could have been disastrous. With my guidance, at the very least I am preventing a potential catastrophe."
+SpokenText="Embora eu tenha certeza de que alguns de meus antigos colegas da XCOM achariam a natureza do meu trabalho aqui perturbadora, devo perseverar. Não tenho dúvidas de que essas criaturas alcançariam a maturidade um dia, independentemente de minhas intenções. Deixadas aqui sozinhas, os resultados poderiam ter sido desastrosos. Com minha orientação, pelo menos estou evitando uma catástrofe em potencial."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_VAH_Pre_Ambush_Research_One AkEvent]
-SpokenText="[Cough] Testing... System Dictation... this is Dr. M. Vahlen... initial entry. It has taken me longer than I care to admit, but the secondary power system is finally operational, enough so that I can move on to more compelling work."
+SpokenText="[Tosse] Testando... Ditado do sistema... aqui é a Dra. M. Vahlen... entrada inicial. Demorou mais do que eu gostaria de admitir, mas o sistema de energia secundário finalmente está operacional, o suficiente para que eu possa prosseguir com trabalhos mais interessantes."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_VAH_Pre_Ambush_Research_Six AkEvent]
-SpokenText="The degree of genetic manipulation the aliens have exposed these creatures to is remarkable. Had I more time I would study the exact nature of the suppressed traits I have discovered. However, there is a war to be fought and the world cannot wait for idle curiosity."
+SpokenText="O grau de manipulação genética ao qual os alienígenas expuseram essas criaturas é notável. Se eu tivesse mais tempo, estudaria a natureza exata dos traços reprimidos que descobri. No entanto, há uma guerra a ser travada, e o mundo não pode esperar por curiosidade ociosa."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_VAH_Pre_Ambush_Research_Three AkEvent]
-SpokenText="With three unique, viable embryos recovered from the surviving cryostasis unit, I now have a rare opportunity - one never afforded to me during my time with XCOM. I am free to pursue a research directive of my own choosing."
+SpokenText="Com três embriões únicos e viáveis recuperados da unidade de criostase sobrevivente, agora tenho uma rara oportunidade - uma que nunca me foi concedida durante meu tempo na XCOM. Estou livre para seguir uma diretriz de pesquisa de minha própria escolha."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_VAH_Pre_Ambush_Research_Two_1 AkEvent]
-SpokenText="While attempting to salvage materials from what appeared to be a totally inert storage system, I made an astonishing discovery - a single cryostasis unit remained intact and occupied. This changes everything."
+SpokenText="Enquanto tentava recuperar materiais de um sistema de armazenamento aparentemente inerte, fiz uma descoberta surpreendente - uma única unidade de criostase permanecia intacta e ocupada. Isso muda tudo."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_VAH_Unbroken_Transmission_1 AkEvent]
-SpokenText="An extreme biological hazard is present throughout this area. Genetically enhanced alien species in this region are of particular concern to the civilian populace. Do not approach under any circumstances. All attempts should be made to avoid contact with these life-forms."
+SpokenText="Um perigo biológico extremo está presente nesta área. Espécies alienígenas geneticamente aprimoradas nesta região são motivo de preocupação particular para a população civil. Não se aproxime sob nenhuma circunstância. Devem ser feitas todas as tentativas para evitar contato com essas formas de vida."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
-
