@@ -6674,9 +6674,6 @@ LocLongDescription="O corpo de um Codex é uma projeção extradimensional. Quan
 LocHelpText="Dividir-se em um novo Codex e teleportar-se quando sofrer danos."
 LocFlyOverText="Clonar"
 
-;----------------------------------------------------------------------------------
-;HABILIDADES DA CÓDICE
-;----------------------------------------------------------------------------------
 [PsiBombStage1 X2AbilityTemplate]
 LocFriendlyName="Bomba Psíquica"
 LocLongDescription="Abra um pequeno rasgo psíquico que desabilita as armas de quaisquer unidades capturadas em sua área de alcance e causa dano dentro dessa área após um turno."
