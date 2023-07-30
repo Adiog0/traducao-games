@@ -1,4 +1,4 @@
-﻿[ETH_Fortress_DarkAvatarDied_Male_01 AkEvent]
+[ETH_Fortress_DarkAvatarDied_Male_01 AkEvent]
 SpokenText="Continuaremos como sempre fizemos. Com esta nova forma, subjulgaremos tudo que nos manteria aprisionados. Sua espécie sobreviverá, mas você não."
 
 [ETH_Fortress_EtherealNag01_Male_01 AkEvent]

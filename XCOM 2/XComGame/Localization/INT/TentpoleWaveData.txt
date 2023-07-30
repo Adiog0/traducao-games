@@ -1,4 +1,4 @@
-﻿[CS_Strategy_WelcomeToTheLabs SoundNodeWave]
+[CS_Strategy_WelcomeToTheLabs SoundNodeWave]
 SpokenText="Olá, Comandante, meu nome é Dra. Vahlen. Sou responsável pelos laboratórios de pesquisa. É aqui que ocorrem todas as pesquisas e desenvolvimentos da XCom."
 
 [TP01_1stUFOShotDown_02_CEN SoundNodeWave]

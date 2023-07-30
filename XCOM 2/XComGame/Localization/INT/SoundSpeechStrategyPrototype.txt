@@ -1,2 +1,2 @@
-﻿[HelloCommander AkEvent]
+[HelloCommander AkEvent]
 SpokenText="Olá, Comandante."

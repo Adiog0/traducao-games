@@ -1,4 +1,4 @@
-﻿[S_Avatar_Autopsy_Angelic_Elder_02 AkEvent]
+[S_Avatar_Autopsy_Angelic_Elder_02 AkEvent]
 SpokenText="Tínhamos tanta esperança em você..."
 
 [T_Final_Mission_The_Fortress_Angelic_Elder_03_a AkEvent]

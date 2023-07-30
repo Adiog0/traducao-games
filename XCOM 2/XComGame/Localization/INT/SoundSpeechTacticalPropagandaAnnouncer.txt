@@ -1,4 +1,4 @@
-﻿[T_City_Center_Propaganda_01_Prop_Announcer AkEvent]
+[T_City_Center_Propaganda_01_Prop_Announcer AkEvent]
 SpokenText="A queima de combustíveis fósseis é estritamente proibida. Células de energia ADVENT estão disponíveis em quantidade limitada para usuários qualificados."
 
 [T_City_Center_Propaganda_02_Prop_Announcer AkEvent]

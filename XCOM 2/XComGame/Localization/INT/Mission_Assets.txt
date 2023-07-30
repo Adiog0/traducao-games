@@ -1,4 +1,4 @@
-﻿[Archetypes.ARC_IA_BlacksiteVial XComInteractiveLevelActor]
+[Archetypes.ARC_IA_BlacksiteVial XComInteractiveLevelActor]
 FriendlyDisplayName="Centrífuga de Purificação"
 
 [Archetypes.ARC_IA_BroadcastStationBase XComInteractiveLevelActor]

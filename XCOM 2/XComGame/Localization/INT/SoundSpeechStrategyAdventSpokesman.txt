@@ -1,4 +1,4 @@
-﻿[S_Broadcast_Truth_Advent_Speaker_01 AkEvent]
+[S_Broadcast_Truth_Advent_Speaker_01 AkEvent]
 SpokenText="Caros cidadãos. Por 20 anos, depositamos nossa confiança na ADVENT, nos Anciões, porque acreditávamos que um futuro melhor é possível para todos. Hoje, essa confiança, essa crença, foi recompensada."
 
 [S_Broadcast_Truth_Advent_Speaker_02 AkEvent]

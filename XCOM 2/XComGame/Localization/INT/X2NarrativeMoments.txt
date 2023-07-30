@@ -1,4 +1,4 @@
-﻿[Strategy.GP_AvatarAutopsyScreen X2NarrativeMoment]
+[Strategy.GP_AvatarAutopsyScreen X2NarrativeMoment]
 UIHeaderText="Examine o Corpo Recuperado do Avatar"
 UIBodyText="Use a Câmara das Sombras para estudar o corpo do Avatar convocado que foi morto em combate pelas forças da XCOM."
 UIArrayText[0]="Complete o Projeto Sombra da Autópsia do Avatar"

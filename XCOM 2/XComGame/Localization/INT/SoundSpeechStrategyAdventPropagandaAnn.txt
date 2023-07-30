@@ -1,4 +1,4 @@
-﻿[S_Broadcast_Truth_Advent_Propaganda_Announcer_01 AkEvent]
+[S_Broadcast_Truth_Advent_Propaganda_Announcer_01 AkEvent]
 SpokenText="A ADVENT assegura que essa descoberta estará disponível imediatamente para todos os cidadãos."
 
 [S_Broadcast_Truth_Advent_Propaganda_Announcer_02 AkEvent]

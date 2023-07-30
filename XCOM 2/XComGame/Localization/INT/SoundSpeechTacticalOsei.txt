@@ -1,4 +1,4 @@
-﻿[T_Setup_Phase_Combat_Tutorial_Osei_02 AkEvent]
+[T_Setup_Phase_Combat_Tutorial_Osei_02 AkEvent]
 SpokenText="Haven, Crasher-1 em posição. Nenhum contato inimigo. Tudo tranquilo."
 
 [T_Setup_Phase_Combat_Tutorial_Osei_05 AkEvent]

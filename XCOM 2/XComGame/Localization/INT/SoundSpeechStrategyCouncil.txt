@@ -1,4 +1,4 @@
-﻿[S_GP_Doom_Lowered_Council_PsiGate_E AkEvent]
+[S_GP_Doom_Lowered_Council_PsiGate_E AkEvent]
 SpokenText="Os alienígenas, sem dúvida, terão que lidar com a perda deste artefato incomum, Comandante. Confio que você trabalhará para descobrir o seu propósito."
 
 [S_Liberation_Network_One_Council_02 AkEvent]

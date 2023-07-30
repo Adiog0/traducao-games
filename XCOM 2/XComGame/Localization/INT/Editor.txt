@@ -1,4 +1,4 @@
-﻿[MooseCheckCommandlet]
+[MooseCheckCommandlet]
 HelpDescription="Verifica certos elementos em cada pacote."
 HelpUsage="gamename.exe MooseCheck <package.classname> [package.classname package.classname ...] [-switches...]"
 HelpParamNames[0]="package.classname"

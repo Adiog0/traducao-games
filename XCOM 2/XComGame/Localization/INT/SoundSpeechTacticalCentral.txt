@@ -1,4 +1,4 @@
-﻿[CEN_AvengerDefense_ClearForTakeoff AkEvent]
+[CEN_AvengerDefense_ClearForTakeoff AkEvent]
 SpokenText="Comandante, podemos decolar quando quiser. Devemos embarcar o esquadrão a bordo e partir."
 
 [CEN_AvengerDefense_ClearForTakeoffHL AkEvent]

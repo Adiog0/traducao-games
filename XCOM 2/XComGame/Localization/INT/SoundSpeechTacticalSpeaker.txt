@@ -1,4 +1,4 @@
-﻿[T_Facility_Propaganda_01_Speaker AkEvent]
+[T_Facility_Propaganda_01_Speaker AkEvent]
 SpokenText="Lembre-se, os Anciões estão com você, sempre."
 
 [T_Facility_Propaganda_02_Speaker AkEvent]

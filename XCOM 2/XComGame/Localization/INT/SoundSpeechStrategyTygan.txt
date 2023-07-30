@@ -1,4 +1,4 @@
-﻿[S_ADVENTmusing_Tygan AkEvent]
+[S_ADVENTmusing_Tygan AkEvent]
 SpokenText="Embora grande parte do meu envolvimento no processo de desenvolvimento do chip tenha sido do lado teórico, não posso deixar de sentir alguma responsabilidade pelo produto final que vemos em uso hoje. Quando estava intensamente focado em um aspecto singular do projeto, no meu caso, em combater a rejeição do corpo ao chip implantado, às vezes era fácil evitar ver o quadro geral. Até hoje, ainda me pergunto se foi ignorância voluntária ou curiosidade desenfreada que me levou a perseguir cegamente minha pesquisa com tanto zelo."
 
 [S_Alien_Fortress_Tygan_01 AkEvent]

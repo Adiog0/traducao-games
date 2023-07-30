@@ -1,4 +1,4 @@
-﻿[TheWorld:PersistentLevel.XComInteractiveLevelActor_11 XComInteractiveLevelActor]
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_11 XComInteractiveLevelActor]
 FriendlyDisplayName="Contêiner ADVENT"
 
 [TheWorld:PersistentLevel.XComInteractiveLevelActor_12 XComInteractiveLevelActor]

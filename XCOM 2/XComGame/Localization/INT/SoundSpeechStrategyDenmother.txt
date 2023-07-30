@@ -1,4 +1,4 @@
-﻿[S_Retaliation_Denmother_01_Setup_Phase AkEvent]
+[S_Retaliation_Denmother_01_Setup_Phase AkEvent]
 SpokenText="Nada nas comunicações locais. ADVENT tem estado quieto ultimamente. Acredito que temos você para agradecer por isso."
 
 [S_Retaliation_Denmother_02_Setup_Phase AkEvent]

@@ -1,4 +1,4 @@
-﻿"[NoID_CentralThatGenetic_alta AkEvent]
+"[NoID_CentralThatGenetic_alta AkEvent]
 SpokenText="Central, aquele material genético, todo esse equipamento que temos visto, só pode ser usado para um propósito."
 
 [NoID_CommanderConstructionOf AkEvent]

@@ -1,4 +1,4 @@
-﻿[X2MissionNarrativeTemplate]
+[X2MissionNarrativeTemplate]
 CouldNotFindTextMessage="OBJECTIVE TEXT FAIL" 
 NoItemMessage="ITEM FAIL"
 

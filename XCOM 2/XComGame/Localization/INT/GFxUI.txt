@@ -1,4 +1,4 @@
-﻿[FontLib]
+[FontLib]
 FontLib=gfxCommon.gfxfontlib
 
 [Fonts]

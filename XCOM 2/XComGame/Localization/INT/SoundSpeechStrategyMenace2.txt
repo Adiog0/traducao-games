@@ -1,4 +1,4 @@
-﻿[S_Intro_Menace2_01 AkEvent]
+[S_Intro_Menace2_01 AkEvent]
 SpokenText="Posição se aproximando."
 
 [S_Intro_Menace2_02 AkEvent]

@@ -1,4 +1,4 @@
-﻿[S_Broadcast_Truth_Comm_Clerk_01 AkEvent]
+[S_Broadcast_Truth_Comm_Clerk_01 AkEvent]
 SpokenText="Firebrand limpou o perímetro, senhor. Encontramos resistência limitada."
 
 [S_Broadcast_Truth_Comm_Clerk_02 AkEvent]

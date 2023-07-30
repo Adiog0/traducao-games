@@ -1,4 +1,4 @@
-﻿[S_Avenger_AI_Power_Red AkEvent]
+[S_Avenger_AI_Power_Red AkEvent]
 SpokenText="Consumo máximo de energia atingido."
 
 [S_Avenger_Attack_ShipAI_01_Setup_Phase AkEvent]

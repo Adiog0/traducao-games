@@ -1,4 +1,4 @@
-﻿[S_Build_Outpost_Long_Female_French_Speaker_01 AkEvent]
+[S_Build_Outpost_Long_Female_French_Speaker_01 AkEvent]
 SpokenText="...não temos notícias dele desde o centro de genética..."
 
 [S_Build_Outpost_Long_Female_Portuguese_Speaker_01 AkEvent]

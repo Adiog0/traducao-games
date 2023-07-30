@@ -1,2 +1,2 @@
-﻿[TheWorld:PersistentLevel.XComInteractiveLevelActor_1 XComInteractiveLevelActor]
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_1 XComInteractiveLevelActor]
 FriendlyDisplayName="Porta de Van"

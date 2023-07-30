@@ -1,4 +1,4 @@
-﻿[TUT_1stBattleOver_02_DELTA2 SoundNodeWave]
+[TUT_1stBattleOver_02_DELTA2 SoundNodeWave]
 SpokenText="Central. Acho que é isso. Acabou."
 
 [TUT_1stBattleOver_03_CEN SoundNodeWave]

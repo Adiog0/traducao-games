@@ -1,4 +1,4 @@
-﻿[CENTRAL_Flight_Device_Bridge_Transition AkEvent]
+[CENTRAL_Flight_Device_Bridge_Transition AkEvent]
 SpokenText="Parece que a Shen conseguiu colocar aquele conversor para funcionar. Quando tiver um momento, estamos prontos para você na ponte."
 
 [CENTRAL_Generic_Commander_Bridge_A AkEvent]

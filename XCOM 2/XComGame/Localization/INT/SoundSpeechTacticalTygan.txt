@@ -1,4 +1,4 @@
-﻿[First_Non_ADVENT_Sighted_TYGAN AkEvent]
+[First_Non_ADVENT_Sighted_TYGAN AkEvent]
 SpokenText="É provável que vejamos mais dos próprios alienígenas agora que ameaçamos o domínio deles em nosso mundo."
 
 [T_ADVENTcaptainSightedOne_Tygan AkEvent]

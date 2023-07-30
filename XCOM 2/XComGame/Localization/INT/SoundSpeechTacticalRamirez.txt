@@ -1,4 +1,4 @@
-﻿[T_Setup_Phase_Combat_Tutorial_Ramirez_10 AkEvent]
+[T_Setup_Phase_Combat_Tutorial_Ramirez_10 AkEvent]
 SpokenText="Em movimento."
 
 [T_Setup_Phase_Combat_Tutorial_Ramirez_25 AkEvent]

@@ -1,2 +1,2 @@
-﻿[Archetypes.ARC_AdventJailDoor_x1 XComInteractiveLevelActor]
+[Archetypes.ARC_AdventJailDoor_x1 XComInteractiveLevelActor]
 FriendlyDisplayName="Porta de Cela"

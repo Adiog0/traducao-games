@@ -1,2 +1,2 @@
-﻿[TheWorld:PersistentLevel.XComInteractiveLevelActor_23 XComInteractiveLevelActor]
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_23 XComInteractiveLevelActor]
 FriendlyDisplayName="Porta de Cela"
