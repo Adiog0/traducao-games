@@ -2,5 +2,5 @@
 m_strFacePaint=Face Paint
 
 [X2DownloadableContentInfo_DLC_Day0]
-OldWarBackgroundMale="A survivor of the old war, <XGParam:StrValue1/!FirstName/> was a ranking officer within X-Com when the organization fell. He is rumored to have survived the ill-fated pre-war X-Com operation later referred to as the \"Kiryu-Kai Disaster.\"
-OldWarBackgroundFemale="A survivor of the old war, <XGParam:StrValue1/!FirstName/> was a ranking officer within X-Com when the organization fell. She is rumored to have survived the ill-fated pre-war X-Com operation later referred to as the \"Kiryu-Kai Disaster.\"
+OldWarBackgroundMale="Um sobrevivente da antiga guerra, <XGParam:StrValue1/!FirstName/> era um oficial graduado dentro da X-Com quando a organização caiu. Há rumores de que ele sobreviveu à desastrosa operação pré-guerra da X-Com posteriormente referida como o \"Desastre Kiryu-Kai\".
+OldWarBackgroundFemale="Uma sobrevivente da antiga guerra, <XGParam:StrValue1/!FirstName/> era uma oficial graduada dentro da X-Com quando a organização caiu. Há rumores de que ela sobreviveu à desastrosa operação pré-guerra da X-Com posteriormente referida como o \"Desastre Kiryu-Kai.\"
