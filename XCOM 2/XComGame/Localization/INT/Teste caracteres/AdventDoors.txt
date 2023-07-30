@@ -1,5 +1,1 @@
-[Archetypes.ARC_AdventSecureDoor_x1 XComInteractiveLevelActor]
-FriendlyDisplayName="Porta Segura"
-
-[Archetypes.ARC_AdventSecureDoor_x2 XComInteractiveLevelActor]
-FriendlyDisplayName="Porta Segura"
+﻿
