@@ -1,140 +1,140 @@
 [CENTRAL_Flight_Device_Bridge_Transition AkEvent]
-SpokenText="Looks like Shen got that converter up and running, when you get a chance, we're ready for you on the bridge. "
+SpokenText="Parece que a Shen conseguiu colocar aquele conversor para funcionar. Quando tiver um momento, estamos prontos para você na ponte."
 
 [CENTRAL_Generic_Commander_Bridge_A AkEvent]
-SpokenText="Commander to the bridge. "
+SpokenText="Comandante, para a ponte."
 
 [CENTRAL_Generic_Commander_Bridge_B AkEvent]
-SpokenText="Commander, you're needed on the bridge. "
+SpokenText="Comandante, você é necessário na ponte."
 
 [CENTRAL_Generic_Commander_Chamber_A AkEvent]
-SpokenText="Commander to the Shadow Chamber."
+SpokenText="Comandante, para a Câmara das Sombras."
 
 [CENTRAL_Generic_Commander_Chamber_B AkEvent]
-SpokenText="Commander, you're needed in the Shadow Chamber. "
+SpokenText="Comandante, você é necessário na Câmara das Sombras."
 
 [CENTRAL_Generic_Commander_Engineering_A AkEvent]
-SpokenText="Commander to Engineering. "
+SpokenText="Comandante, para a Engenharia."
 
 [CENTRAL_Generic_Commander_Engineering_B AkEvent]
-SpokenText="Commander, you're needed in engineering. "
+SpokenText="Comandante, você é necessário na Engenharia."
 
 [CENTRAL_Generic_Commander_Lab_A AkEvent]
-SpokenText="Commander to the Research Lab."
+SpokenText="Comandante, para o Laboratório de Pesquisa."
 
 [CENTRAL_Generic_Commander_Lab_B AkEvent]
-SpokenText="Commander, you're needed down in the lab. "
+SpokenText="Comandante, você é necessário no Laboratório de Pesquisa."
 
 [CENTRAL_Generic_Commander_Quarters_A AkEvent]
-SpokenText="Commander to quarters. "
+SpokenText="Comandante, para os seus aposentos."
 
 [CENTRAL_Generic_Commander_Quarters_B AkEvent]
-SpokenText="Commander, you're needed in your quarters. "
+SpokenText="Comandante, você é necessário em seus aposentos."
 
 [Central_NoFilename_RealWarForAChange AkEvent]
-SpokenText="and give the aliens a real war for a change. "
+SpokenText="e dar aos alienígenas uma guerra de verdade para variar."
 
 [Central_Strategy_Ambient_Contraband AkEvent]
-SpokenText="I don't know where people are getting those damn ADVENT burgers, but if I find another wrapper stuffed under one of these command  consoles, there's going to be hell to pay."
+SpokenText="Eu não sei de onde as pessoas estão conseguindo essas malditas hambúrgueres da ADVENT, mas se eu encontrar outro embrulho escondido sob um desses consoles de comando, vai ter inferno para pagar."
 
 [S_Avenger_Ambient_Central_AlienInvasionB_01 AkEvent]
-SpokenText="I never got around to asking you, Doctor, but uh...what exactly did you do before the invasion?"
+SpokenText="Nunca cheguei a perguntar, Doutor, mas... o que exatamente você fazia antes da invasão?"
 
 [S_Avenger_Ambient_Central_AlienInvasionB_02 AkEvent]
-SpokenText="Then I'd say we're lucky to have you with us."
+SpokenText="Então, eu diria que temos sorte de tê-lo conosco."
 
 [S_Avenger_Ambient_Central_AlienInvasionC_01 AkEvent]
-SpokenText="At least we don't have to worry about keeping the Council happy anymore, even with the Spokesman lurking in the shadows."
+SpokenText="Pelo menos não precisamos mais nos preocupar em manter o Conselho satisfeito, mesmo com o Porta-Voz espreitando nas sombras."
 
 [S_Avenger_Ambient_Central_ChipFunctionB_01 AkEvent]
-SpokenText="I hope you're keeping that chip from the Commander under lock and key..."
+SpokenText="Espero que você esteja mantendo aquele chip do Comandante sob trancas e barrancas..."
 
 [S_Avenger_Ambient_Central_ChipFunctionB_02 AkEvent]
-SpokenText="Good, let's keep it that way."
+SpokenText="Ótimo, vamos manter assim."
 
 [S_Avenger_Ambient_Central_CityMigrationB_01 AkEvent]
-SpokenText="ADVENT's got their propaganda machine working overtime...we're still seeing a steady flow of migrants heading into the cities."
+SpokenText="A máquina de propaganda da ADVENT está trabalhando a todo vapor... ainda estamos vendo um fluxo constante de migrantes indo para as cidades."
 
 [S_Avenger_Ambient_Central_CityMigrationB_02 AkEvent]
-SpokenText="...And I'm not sure I'd trade having a chip in my head for a few hot meals and the cure for the common cold."
+SpokenText="...E eu não tenho certeza se trocaria ter um chip na minha cabeça por algumas refeições quentes e a cura para o resfriado comum."
 
 [S_Avenger_Ambient_Central_CityMigrationB_03 AkEvent]
-SpokenText="You're wrong about that, Doctor. We can offer them freedom, even if it means they have to endure the pains of being human."
+SpokenText="Você está errado sobre isso, Doutor. Podemos oferecer-lhes liberdade, mesmo que signifique que eles tenham que suportar as dores de serem humanos."
 
 [S_Avenger_Ambient_Central_CrewDis AkEvent]
-SpokenText="We're making progress against the aliens, and it sounds like we're starting to get the civilians attention in the colonies. It's important that the crew knows people out there need us, and want us to help turn this thing around. They have to know there's a reason to endure all this."
+SpokenText="Estamos avançando contra os alienígenas, e parece que estamos começando a chamar a atenção dos civis nas colônias. É importante que a tripulação saiba que há pessoas lá fora precisando de nós e querendo que ajudemos a reverter esta situação. Eles precisam saber que há uma razão para suportar tudo isso."
 
 [S_Avenger_Ambient_Central_Quick_01 AkEvent]
-SpokenText="Most of our new recruits have never worked in close quarters like the Avenger. Before the war, we might have had time for training, but now...they're gonna have to pick things up on the fly."
+SpokenText="A maioria dos nossos novos recrutas nunca trabalhou em espaços tão apertados como o Avenger. Antes da guerra, talvez tivéssemos tempo para treinamento, mas agora... eles terão que aprender no meio do caminho."
 
 [S_Avenger_Ambient_Central_Quick_02 AkEvent]
-SpokenText="We've been picking up some weird transmissions lately; it sounds a little like German, but it's hard to tell."
+SpokenText="Temos captado algumas transmissões estranhas ultimamente; soam um pouco como alemão, mas é difícil dizer."
 
 [S_Avenger_Ambient_Central_Quick_03 AkEvent]
-SpokenText="We should talk to that hustler running the black market; maybe she can help us out restocking the bar."
+SpokenText="Deveríamos conversar com aquela vigarista que comanda o mercado negro; talvez ela possa nos ajudar a reabastecer o bar."
 
 [S_Avenger_Ambient_Central_Quick_04 AkEvent]
-SpokenText="I don't blame Shen for wanting to keep an eye on Tygan, but at this point, we need all the help we can get."
+SpokenText="Não culpo a Dra. Shen por querer ficar de olho em Tygan, mas, neste ponto, precisamos de toda a ajuda que pudermos obter."
 
 [S_Avenger_Ambient_Central_Quick_05 AkEvent]
-SpokenText="I have to hand it to 'em, what these recruits lack in experience, they make up for in grit."
+SpokenText="Tenho que dar crédito a eles, o que esses novos recrutas podem não ter em experiência, eles compensam com determinação."
 
 [S_Avenger_Ambient_Central_Quick_06 AkEvent]
-SpokenText="There's been plenty of gripes about my flying, but I don't see anybody else steppin' up other than the autopilot."
+SpokenText="Houve muitas reclamações sobre meu voo, mas não vejo ninguém mais se oferecendo para fazer isso além do piloto automático."
 
 [S_Avenger_Ambient_Central_Quick_07 AkEvent]
-SpokenText="It's dark, it's dank, and it's mostly metal. This ship isn't all that different from the old base."
+SpokenText="É escuro, úmido e quase todo metal. Esta nave não é muito diferente da base antiga."
 
 [S_Avenger_Ambient_Central_Quick_08 AkEvent]
-SpokenText="Maybe once this is all over, we should take this ship and go colonize one of their planets."
+SpokenText="Talvez, quando tudo isso acabar, deveríamos pegar esta nave e colonizar um dos planetas deles."
 
 [S_Avenger_Ambient_Central_Quick_09 AkEvent]
-SpokenText="I can see the allure of the ADVENT therapy clinic, a few minutes under the knife and you've got a clean bill of health. Too bad you need a chip to get in."
+SpokenText="Eu entendo o apelo da clínica de terapia da ADVENT, alguns minutos sob a faca e você tem uma certidão de saúde limpa. Pena que você precisa de um chip para entrar."
 
 [S_Avenger_Ambient_Central_Quick_10 AkEvent]
-SpokenText="The ADVENT propaganda machine is running full steam; we're picking up their transmissions even way out in the middle of nowhere."
+SpokenText="A máquina de propaganda da ADVENT está a todo vapor; estamos captando as transmissões deles mesmo no meio do nada."
 
 [S_Avenger_Ambient_Central_Quick_11 AkEvent]
-SpokenText="I've warned the crew to stay away from the ADVENT meat rations; we still don't know what they're putting in that stuff."
+SpokenText="Eu avisei a tripulação para ficar longe das rações de carne da ADVENT; ainda não sabemos o que eles estão colocando naquilo."
 
 [S_Avenger_Ambient_Central_ShenFather_01 AkEvent]
-SpokenText="You know, I probably wouldn't be alive today if it weren't for your father. He was something of a miracle worker."
+SpokenText="Sabe, provavelmente eu não estaria vivo hoje se não fosse pelo seu pai. Ele era uma espécie de gênio."
 
 [S_Avenger_Ambient_Central_ShenFather_02 AkEvent]
-SpokenText="We owe you both a debt of gratitude."
+SpokenText="Devemos a vocês dois uma dívida de gratidão."
 
 [S_Avenger_Ambient_Central_ShenFather_03 AkEvent]
-SpokenText="You'll get no argument there."
+SpokenText="Não discordo disso."
 
 [S_Avenger_Ambient_Central_ShenFatherB_01 AkEvent]
-SpokenText="Your old man would be proud of what we've managed to do here...what you've managed to do with this ship."
+SpokenText="Seu pai ficaria orgulhoso do que conseguimos fazer aqui... do que você conseguiu fazer com esta nave."
 
 [S_Avenger_Ambient_Central_ShenFatherB_02 AkEvent]
-SpokenText="Trust me, he knew. If there was one thing your father always kept in mind, it was his faith in humanity. He knew we could win, on our own terms."
+SpokenText="Pode acreditar, ele sabia. Se havia uma coisa que seu pai sempre tinha em mente, era a fé na humanidade. Ele sabia que poderíamos vencer, em nossos próprios termos."
 
 [S_Avenger_Ambient_Central_ShenFatherB_03 AkEvent]
-SpokenText="Aside from this getting this ship up and running, which was mostly Dr. Shen's work, I haven't felt particularly useful in a long time. I'm more than happy to leave the hard decisions to the Commander."
+SpokenText="Além de conseguir colocar essa nave para funcionar, que foi principalmente o trabalho da Dra. Shen, não tenho me sentido particularmente útil há muito tempo. Estou mais do que feliz em deixar as decisões difíceis para o Comandante."
 
 [S_Avenger_Ambient_Central_ShenFatherB_04 AkEvent]
-SpokenText="I did my best to get the new recruits ready for what they're going up against, but having the Commander back is a bigger confidence boost than any speech."
+SpokenText="Eu fiz o meu melhor para preparar os novos recrutas para o que eles enfrentariam, mas ter o Comandante de volta é um impulso de confiança maior do que qualquer discurso."
 
 [S_Avenger_Ambient_Central_ShenFatherB_05 AkEvent]
-SpokenText="With the Commander running things, I've got plenty of time to focus on learning to fly this boat."
+SpokenText="Com o Comandante cuidando das coisas, tenho muito tempo para me concentrar em aprender a pilotar este navio."
 
 [S_Avenger_Ambient_Central_ShensPrideB_01 AkEvent]
-SpokenText="You've done a helluva job keeping this ship together, Doctor."
+SpokenText="Você fez um trabalho incrível para manter este navio funcionando, Doutora."
 
 [S_Avenger_Ambient_Central_ShensPrideB_02 AkEvent]
-SpokenText="I doubt they thought anyone could get this heap airborne again."
+SpokenText="Duvido que eles pensassem que alguém conseguiria fazer essa lata decolar novamente."
 
 [S_Avenger_Ambient_Central_Spokesman AkEvent]
-SpokenText="Before he made contact, I just assumed the Spokesman had died or moved on after the council dissolved. From what little he's told me, it sounds like he managed to gain a position within the ADVENT government early on, if only to start leaking Intel to the resistance."
+SpokenText="Antes de ele entrar em contato, eu só assumia que o Porta-Voz tinha morrido ou seguido em frente após o Conselho se dissolver. Pelo que ele me contou, parece que ele conseguiu um cargo dentro do governo da ADVENT desde o início, apenas para começar a vazar informações para a resistência."
 
 [S_Avenger_Ambient_Central_SpokesmanB AkEvent]
-SpokenText="The Spokesman took a big risk getting inside ADVENT, enough for me to believe he's loyal to our cause. There may still be a few skeptics in the movement, but we've got bigger things to worry about than a man on a screen."
+SpokenText="O Porta-Voz assumiu um grande risco ao se infiltrar na ADVENT, o suficiente para me fazer acreditar que ele é leal à nossa causa. Pode haver alguns céticos no movimento, mas temos coisas maiores com que nos preocupar do que um homem em uma tela."
 
 [S_Avenger_Attack_Central_01_Setup_Phase AkEvent]
-SpokenText="I've lost power! We're goin' down fast!"
+SpokenText="Perdi energia! Estamos caindo rápido!"
 
 [S_Avenger_Attack_Central_02_Setup_Phase AkEvent]
 SpokenText="Shen"
@@ -143,845 +143,855 @@ SpokenText="Shen"
 SpokenText="SHEN!"
 
 [S_Avenger_Attack_Central_04_Setup_Phase AkEvent]
-SpokenText="Someone get me a damage report!"
+SpokenText="Alguém me traga um relatório de danos!"
 
 [S_Avenger_Attack_Central_05_Setup_Phase AkEvent]
-SpokenText="Only One?"
+SpokenText="Apenas um?"
 
 [S_Avenger_Attack_Central_06_Setup_Phase AkEvent]
-SpokenText="They don't want us. They want the ship. Isn't there some way you can override it?"
+SpokenText="Eles não querem nós. Eles querem a nave. Não há alguma forma de você poder anular isso?"
 
 [S_Avenger_Attack_Central_07_Setup_Phase AkEvent]
-SpokenText="Commander, we're gonna have to do this the old fashioned way. Destroying that spike is our only chance at getting outta here. We can't let the aliens take this ship!"
+SpokenText="Comandante, vamos ter que fazer isso do jeito antigo. Destruir aquela lança é a nossa única chance de sair daqui. Não podemos deixar os alienígenas levar esta nave!"
 
 [S_Avenger_Central_First_Avatar_Facility AkEvent]
-SpokenText="We need to take out that alien facility before they have time to shift their operations."
+SpokenText="Precisamos acabar com aquela instalação alienígena antes que eles tenham tempo de mudar suas operações."
 
 [S_Avenger_Central_First_Avatar_RepeatA AkEvent]
-SpokenText="Alien facility coordinates locked-in, Commander"
+SpokenText="Coordenadas da instalação alienígena bloqueadas, Comandante."
 
 [S_Avenger_Central_First_Avatar_RepeatB AkEvent]
-SpokenText="Commander, we've located one of their facilities."
+SpokenText="Comandante, localizamos uma de suas instalações."
 
 [S_Avenger_Central_No_Soldiers AkEvent]
-SpokenText="Commander, there's no one left to deploy! We have to get some new recruits in here!"
+SpokenText="Comandante, não há mais ninguém para implantar! Temos que conseguir novos recrutas aqui!"
 
 [S_Avenger_Central_Not_Enough_Soldiers AkEvent]
-SpokenText="We're getting thin on manpower, Commander. We should check with Resistance HQ for new recruits."
+SpokenText="Estamos ficando com pouca mão de obra, Comandante. Devemos verificar com a Resistência por novos recrutas."
 
 [S_Avenger_Central_Post_Final_Tentpole AkEvent]
-SpokenText="Commander, target coordinates are locked in - we're ready to move."
+SpokenText="Comandante, coordenadas de destino bloqueadas - estamos prontos para avançar."
 
 [S_Blacksite_Horror_Central_01 AkEvent]
-SpokenText="...still can't believe it's come to this."
+SpokenText="...ainda não posso acreditar que chegamos a isso."
 
 [S_Blacksite_Horror_Central_02 AkEvent]
-SpokenText="They're slaughtering us, Doctor. What could be worse?!"
+SpokenText="Eles estão nos massacrando, Doutor. O que poderia ser pior?!"
 
 [S_Blacksite_Horror_Central_03 AkEvent]
-SpokenText="There must be thousands of them."
+SpokenText="Devem haver milhares deles."
 
 [S_Blacksite_Horror_Central_04 AkEvent]
 SpokenText="Avatar."
 
 [S_Blacksite_Horror_Central_05 AkEvent]
-SpokenText="Just what exactly is in that vial."
+SpokenText="O que exatamente tem nesse frasco?"
 
 [S_Blacksite_Horror_Central_06 AkEvent]
-SpokenText="Doctor."
+SpokenText="Doutor."
 
 [S_Blacksite_Horror_Central_07 AkEvent]
-SpokenText="That's...that's impossible."
+SpokenText="Isso... isso é impossível."
 
 [S_Blacksite_Horror_Central_08 AkEvent]
-SpokenText="But...why do this?"
+SpokenText="Mas... por que fazer isso?"
 
 [S_Blacksite_Horror_Central_09 AkEvent]
-SpokenText="That's a start."
+SpokenText="Já é um começo."
 
 [S_Blacksite_Horror_Central_10 AkEvent]
-SpokenText="Then I strongly suggest we pay them a visit, Commander."
+SpokenText="Então, eu sugiro fortemente que paguemos uma visita a eles, Comandante."
 
 [S_Blacksite_Horror_Central_11 AkEvent]
-SpokenText="And after we find what we're looking for we shut this entire damn operation down forever."
+SpokenText="E depois de encontrarmos o que procuramos, encerramos para sempre toda essa maldita operação."
 
 [S_BlacksiteTransmission_Central AkEvent]
-SpokenText="Commander, we have priority-one transmission coming in through on a secure channels. It's the resistance..."
+SpokenText="Comandante, temos uma transmissão de prioridade um chegando através de canais seguros. É da resistência..."
 
 [S_Broadcast_Marked_On_Geoscape_Central AkEvent]
-SpokenText="If we're going to infiltrate the ADVENT network tower, we'll have to use a smaller squad, try to draw less attention to ourselves than we already do."
+SpokenText="Se formos infiltrar a torre de rede da ADVENT, teremos que usar uma equipe menor, tentar chamar menos atenção para nós mesmos do que já fazemos."
 
 [S_Broadcast_Mission_Appears_Central AkEvent]
-SpokenText="We have the target site locked in, Commander. This is our chance to strike at ADVENT's heart. Once we control the network tower, we can finally show the world what the aliens are doing. There's no turning back after this."
+SpokenText="Temos o local alvo bloqueado, Comandante. Esta é a nossa chance de atacar o coração da ADVENT. Uma vez que controlarmos a torre de rede, poderemos finalmente mostrar ao mundo o que os alienígenas estão fazendo. Não há volta depois disso."
 
 [S_Broadcast_Mission_No_Turning_Back_Central AkEvent]
-SpokenText="Commander, once we move on the ADVENT network tower, it's all or nothing. We won't have time to advance our research or deal with the wounded. We should only deploy once we're fully prepared."
+SpokenText="Comandante, uma vez que avançarmos para a torre de rede da ADVENT, é tudo ou nada. Não teremos tempo para avançar em nossa pesquisa ou lidar com os feridos. Só devemos implantar quando estivermos totalmente preparados."
 
 [S_Broadcast_Truth_Central_01 AkEvent]
-SpokenText="Well done, Doctor..."
+SpokenText="Muito bem, Doutor..."
 
 [S_Broadcast_Truth_Central_02 AkEvent]
-SpokenText="Shen? How're we looking?"
+SpokenText="Shen? Como está a situação?"
 
 [S_Broadcast_Truth_Central_03 AkEvent]
-SpokenText="Working on it."
+SpokenText="Estou trabalhando nisso."
 
 [S_Broadcast_Truth_Central_04 AkEvent]
-SpokenText="Good. Better make this count!"
+SpokenText="Ótimo. Melhor fazermos isso valer a pena!"
 
 [S_Broadcast_Truth_Central_05 AkEvent]
-SpokenText="Get me a damage report! Did it work? "
+SpokenText="Tragam-me um relatório de danos! Funcionou?"
 
 [S_Build_Outpost_Long_Central_01 AkEvent]
-SpokenText="Signal's coming in loud and clear, Haven."
+SpokenText="Sinal chegando alto e claro, Refúgio."
 
 [S_Build_Outpost_Long_Central_02 AkEvent]
-SpokenText="Welcome to the fight."
+SpokenText="Bem-vindo à luta."
 
 [S_Commander_Awakens_Central_01_Setup_Phase AkEvent]
-SpokenText="Good. Then let's get on with it."
+SpokenText="Ótimo. Então vamos nessa."
 
 [S_Commander_Awakens_Central_02_Setup_Phase AkEvent]
-SpokenText="Just like 20 years ago......we were still callin' it a war back then"
+SpokenText="Como há 20 anos atrás... ainda estávamos chamando aquilo de guerra naquela época."
 
 [S_Commander_Awakens_Central_03_Setup_Phase AkEvent]
-SpokenText="...we had no idea what was coming."
+SpokenText="...não tínhamos ideia do que estava por vir."
 
 [S_Commander_Awakens_Central_04_Setup_Phase AkEvent]
-SpokenText="No Plan B here people. Do it."
+SpokenText="Sem Plano B aqui, pessoal. Façam."
 
 [S_Commander_Awakens_Central_05_Setup_Phase AkEvent]
-SpokenText="Told 'em it would take more than that to keep you down."
+SpokenText="Eu disse a eles que levaria mais que isso para te derrubar."
 
 [S_Commander_Awakens_Central_06_Setup_Phase AkEvent]
-SpokenText="Welcome back...Commander."
+SpokenText="Bem-vindo de volta... Comandante."
 
 [S_Commander_Awakens_Central_07_Setup_Phase AkEvent]
-SpokenText="Glad to see you're finally coming out it. Don't envy the headache you must have though..."
+SpokenText="Fico feliz em ver que você finalmente está saindo disso. Mas não invejo a dor de cabeça que você deve ter..."
 
 [S_Commander_Awakens_Central_08_Setup_Phase AkEvent]
-SpokenText="Still, can't fault DR. Tygan. Especially as no one's even attempted something' like this before."
+SpokenText="Mesmo assim, não posso culpar o Dr. Tygan. Especialmente considerando que ninguém nunca tentou algo assim antes."
 
 [S_Commander_Awakens_Central_09_Setup_Phase AkEvent]
-SpokenText="Easy - we're still not entirely sure what they did to you...that chip was buried halfway into your skull."
+SpokenText="Com calma - ainda não temos certeza do que eles fizeram com você... aquele chip estava enterrado pela metade em seu crânio."
 
 [S_Commander_Awakens_Central_10_Setup_Phase AkEvent]
-SpokenText="Lost a lot of good soldiers looking for you over the years. Almost gave up hope you were still out there. Acted on the intel as soon as I got word."
+SpokenText="Perdemos muitos bons soldados te procurando ao longo dos anos. Quase desisti da esperança de que você ainda estava lá fora. Agi com base na inteligência assim que recebi a notícia."
 
 [S_Commander_Awakens_Central_11_Setup_Phase AkEvent]
-SpokenText="Not sure what you remember but a lot's changed. Did the best I could but the last 20 years have been tough without you."
+SpokenText="Não tenho certeza do que você lembra, mas muita coisa mudou. Fiz o melhor que pude, mas os últimos 20 anos foram difíceis sem você."
 
 [S_Commander_Awakens_Central_12_Setup_Phase AkEvent]
-SpokenText="You feel like catching up, Shen has the archive up and running on your terminal."
+SpokenText="Se quiser se atualizar, Shen tem o arquivo rodando em seu terminal."
 
 [S_Commander_Awakens_Central_13_Setup_Phase AkEvent]
-SpokenText="Otherwise, I'd go see Dr. Tygan when you're ready. There's some things you should know. He'll be better at explaining them than me."
+SpokenText="Caso contrário, vá ver o Dr. Tygan quando estiver pronto. Há algumas coisas que você deve saber. Ele será melhor em explicar do que eu."
 
 [S_Commander_Awakens_Central_14_Setup_Phase AkEvent]
-SpokenText="It's damn good to have you back, Commander."
+SpokenText="É ótimo tê-lo de volta, Comandante."
 
 [S_Commander_Awakens_Central_15_Setup_Phase AkEvent]
-SpokenText="...we were still callin' it a war back then"
+SpokenText="... ainda estávamos chamando aquilo de guerra naquela época."
 
 [S_Dark_Volunteer_01_Central_01 AkEvent]
-SpokenText="Go right ahead."
+SpokenText="Siga em frente."
 
 [S_Dark_Volunteer_01_Central_01a AkEvent]
-SpokenText="Perfect. We can finally shut this Avatar project down for good. "
+SpokenText="Perfeito. Podemos finalmente encerrar este projeto Avatar de uma vez por todas."
 
 [S_Dark_Volunteer_01_Central_02 AkEvent]
-SpokenText="And that's where we come in."
+SpokenText="E é aí que entramos."
 
 [S_Dark_Volunteer_01_Central_03 AkEvent]
-SpokenText="You're serious?"
+SpokenText="Você está falando sério?"
 
 [S_Dark_Volunteer_01_Central_04 AkEvent]
-SpokenText="So...what's the catch?"
+SpokenText="Então... qual é a pegadinha?"
 
 [S_Dark_Volunteer_01_Central_05 AkEvent]
-SpokenText="So you wanna operate one of these things...by remote control."
+SpokenText="Então você quer operar uma dessas coisas... por controle remoto."
 
 [S_Dark_Volunteer_01_Central_06 AkEvent]
-SpokenText="That was different. The stasis suit..."
+SpokenText="Aquilo foi diferente. O traje de estase..."
 
 [S_Dark_Volunteer_01_Central_07 AkEvent]
-SpokenText="Most likely is not good enough, Doctor."
+SpokenText="Muito provavelmente não é suficiente, Doutor."
 
 [S_Dark_Volunteer_01_Central_08 AkEvent]
-SpokenText="We need to come up with a game plan before we charge through the enemy's front door."
+SpokenText="Precisamos elaborar um plano antes de avançarmos pela porta da frente do inimigo."
 
 [S_Dark_Volunteer_01_Central_09 AkEvent]
-SpokenText="Which will give you some time to think about this, Commander."
+SpokenText="Isso lhe dará um tempo para pensar sobre isso, Comandante."
 
 [S_Dark_Volunteer_02_Central_01 AkEvent]
-SpokenText="Shen. Watched you go over this thing 50 times. Take a breath."
+SpokenText="Shen. Já vi você revisando esse equipamento umas 50 vezes. Respire fundo."
 
 [S_Dark_Volunteer_02_Central_02 AkEvent]
-SpokenText="Give em hell Commander..."
+SpokenText="Mande ver, Comandante..."
 
 [S_Dark_Volunteer_02_Central_03 AkEvent]
-SpokenText="Patch me through. Alright people. The world got its wake up call."
+SpokenText="Me coloquem na linha. Muito bem, pessoal. O mundo recebeu seu chamado."
 
 [S_Dark_Volunteer_02_Central_04 AkEvent]
-SpokenText="And now they know the truth."
+SpokenText="E agora eles sabem a verdade."
 
 [S_Dark_Volunteer_02_Central_05 AkEvent]
-SpokenText="ADVENT is a lie. And their time is up. They've got a full-fledged war on their hands now!"
+SpokenText="A ADVENT é uma mentira. E o tempo deles acabou. Eles têm uma guerra em pleno andamento agora!"
 
 [S_Dark_Volunteer_02_Central_06 AkEvent]
-SpokenText="While the aliens struggle to contain our world, we're gonna make a move on theirs."
+SpokenText="Embora os alienígenas lutem para conter nosso mundo, nós vamos atacar o deles."
 
 [S_Dark_Volunteer_02_Central_07 AkEvent]
-SpokenText="It won't be easy."
+SpokenText="Não será fácil."
 
 [S_Dark_Volunteer_02_Central_08 AkEvent]
-SpokenText="But you're used to that."
+SpokenText="Mas você está acostumado com isso."
 
 [S_Dark_Volunteer_02_Central_09 AkEvent]
-SpokenText="You did what was needed. You never gave up the fight."
+SpokenText="Você fez o que foi necessário. Nunca desistiu da luta."
 
 [S_Dark_Volunteer_02_Central_10 AkEvent]
-SpokenText="You are XCOM."
+SpokenText="Você é XCOM."
 
 [S_Dark_Volunteer_02_Central_11 AkEvent]
-SpokenText="And you're gonna end this!"
+SpokenText="E você vai acabar com isso!"
 
 [S_Dark_Volunteer_02_Central_12 AkEvent]
-SpokenText="Humanity is counting on us people."
+SpokenText="A humanidade conta conosco, pessoal."
 
 [S_Dark_Volunteer_02_Central_13 AkEvent]
-SpokenText="Good luck. ­Commander."
+SpokenText="Boa sorte. Comandante."
 
 [S_Equip_New_Item_SquadSelect_Engineering_Tutorial_Central AkEvent]
-SpokenText="Commander, it looks like Shen prepped a Medikit for us, we should equip one of our soldiers with it before they deploy."
+SpokenText="Comandante, parece que o Shen preparou um Kit Médico para nós. Devemos equipar um de nossos soldados com ele antes de enviá-los para a missão."
 
 [S_First_Council_Mission_Geoscape_Central AkEvent]
-SpokenText="Although we have allies scattered in cities throughout the globe who are willing to share their knowledge of ADVENT's operations, the aliens are actively pursuing them. It will be up to you to ensure the safety of our operatives, Commander. Good luck."
+SpokenText="Embora tenhamos aliados espalhados por cidades em todo o mundo dispostos a compartilhar seu conhecimento sobre as operações da ADVENT, os alienígenas estão os perseguindo ativamente. Caberá a você garantir a segurança de nossos agentes, Comandante. Boa sorte."
 
 [S_First_Flight_Central_01_Setup_Phase AkEvent]
-SpokenText="Commander, good. We got a situation here."
+SpokenText="Comandante, ótimo. Temos uma situação aqui."
 
 [S_First_Flight_Central_02_Setup_Phase AkEvent]
-SpokenText="Despite all of ADVENT's efforts, resistance cells continue to operate across the world."
+SpokenText="Apesar de todos os esforços da ADVENT, células da resistência continuam operando em todo o mundo."
 
 [S_First_Flight_Central_03_Alt_Setup_Phase AkEvent]
-SpokenText="Despite all of ADVENT's efforts, there are still people out there who refuse to believe their lie."
+SpokenText="Apesar de todos os esforços da ADVENT, ainda existem pessoas lá fora que se recusam a acreditar em suas mentiras."
 
 [S_First_Flight_Central_03_Setup_Phase AkEvent]
-SpokenText="And a couple of them are asking for our help. But, we can't get to both of them in time."
+SpokenText="E algumas delas estão pedindo nossa ajuda. Mas não podemos chegar a tempo em ambas."
 
 [S_First_Flight_Central_04_Setup_Phase AkEvent]
-SpokenText="Who said anything about the Skyranger."
+SpokenText="Quem disse alguma coisa sobre o Skyranger."
 
 [S_First_Flight_Central_05_Setup_Phase AkEvent]
-SpokenText="Shen - status report. Are we ready?"
+SpokenText="Shen - relatório de status. Estamos prontos?"
 
 [S_First_Flight_Central_06_Setup_Phase AkEvent]
-SpokenText="You heard the lady."
+SpokenText="Vocês ouviram a moça."
 
 [S_First_LandedUFO_Geoscape_Central AkEvent]
-SpokenText="Commander, we have the position of a vulnerable UFO that set down in this region. If we move fast, there's a chance we could recover a nice haul of supplies and equipment from that ship."
+SpokenText="Comandante, temos a posição de um UFO vulnerável que pousou nesta região. Se nos movermos rápido, há uma chance de conseguirmos recuperar um bom lote de suprimentos e equipamentos da nave."
 
 [S_First_Retaliation_Geoscape_Central AkEvent]
-SpokenText="Commander, we have a squad ready to move on the Resistance Haven currently under siege by the aliens. Give the word and we'll move out."
+SpokenText="Comandante, temos uma equipe pronta para avançar sobre o Refúgio da Resistência atualmente sob ataque dos alienígenas. Dê a ordem e partiremos."
 
 [S_First_Sabotage_Geoscape_Central AkEvent]
-SpokenText="Commander, now that we've established contact with the local resistance, we've got the details we need to move on the aliens' facility. This is our chance to set back their work on the Avatar project."
+SpokenText="Comandante, agora que estabelecemos contato com a resistência local, temos os detalhes necessários para atacar a instalação dos alienígenas. Esta é a nossa chance de retardar o projeto Avatar deles."
 
 [S_First_Scientist_Received_Central AkEvent]
-SpokenText="Thank you for sending additional support staff to assist me, Commander. I'll make sure they are put to good use."
+SpokenText="Obrigado por enviar equipe de apoio adicional para me ajudar, Comandante. Vou garantir que eles sejam bem aproveitados."
 
 [S_First_Supply_Raid_Geoscape_Central AkEvent]
-SpokenText="Commander, we just got word that the resistance hit an ADVENT supply line. We have an opportunity to salvage some high value materials, assuming we can clear out the alien forces guarding the site first."
+SpokenText="Comandante, acabamos de receber notícias de que a resistência atacou uma linha de suprimentos da ADVENT. Temos a oportunidade de recuperar alguns materiais de alto valor, desde que possamos eliminar as forças alienígenas que guardam o local primeiro."
 
 [S_Forge_marked_on_Geoscape_Central AkEvent]
-SpokenText="Commander, we have the coordinates of the alien Forge facility, I've marked its position on the map. We'll need to contact the local resistance before we can attempt to move in though."
+SpokenText="Comandante, temos as coordenadas da instalação alienígena Forge. Eu marquei sua posição no mapa. Precisamos entrar em contato com a resistência local antes de tentarmos avançar."
 
 [S_Fortress_Marked_On_Geoscape_Central AkEvent]
-SpokenText="Commander, we've picked up the rough coordinates of a previously unknown alien facility. They went to a lot of trouble to keep this one under the radar, I think we may have found the end of the line."
+SpokenText="Comandante, detectamos as coordenadas aproximadas de uma instalação alienígena previamente desconhecida. Eles fizeram um grande esforço para manter esta em segredo, acho que podemos ter encontrado o fim da linha."
 
 [S_Golden_Path_Musings_Advent_Central_01 AkEvent]
-SpokenText="I've gotta hand it to the aliens, the invasion was one thing, all their advanced technology, they had the drop on us for sure. But ADVENT, they're something we could never have prepared for, even with better gear. Between the propaganda, the handouts, and a seemingly endless supply of reinforcing "peacekeepers," they're nothing but trouble for an upstart resistance movement."
+SpokenText="Tenho que dar crédito aos alienígenas, a invasão foi uma coisa, toda a tecnologia avançada deles, eles pegaram a gente de surpresa com certeza. Mas a ADVENT, isso é algo para o qual nunca poderíamos ter nos preparado, mesmo com equipamentos melhores. Entre a propaganda, as distribuições de "ajuda" e um suprimento aparentemente infinito de "mantenedores da paz" reforçando suas fileiras, eles são nada além de problemas para um movimento de resistência iniciante."
 
 [S_Golden_Path_Musings_Blacksite_Horror_Central_01 AkEvent]
-SpokenText="The aliens have always been monsters. From the very beginning, it was one failed science experiment after another. Even with the ADVENT forces, they try to disguise it, but they're no different underneath all that armor. And now it comes to this. An entire facility dedicated to wiping us out, and not just that, but turning us into what? Some kind of concentrate they're using for god knows. We should have known the Elders would return. We should have known they never left."
+SpokenText="Os alienígenas sempre foram monstros. Desde o começo, foi um experimento científico fracassado após o outro. Mesmo com as forças da ADVENT, eles tentam disfarçar isso, mas por baixo de toda essa armadura eles não são diferentes. E agora chegamos a isso. Uma instalação inteira dedicada a nos eliminar, e não só isso, mas nos transformar em quê? Algum tipo de substância que eles usam para sabe-se lá o quê. Deveríamos ter sabido que os Anciões voltariam. Deveríamos ter sabido que eles nunca partiram."
 
 [S_Golden_Path_Musings_Dying_Ethereals_Central_01 AkEvent]
-SpokenText="For a second there, Tygan had my hopes up, with all his talk of the Elders dying I thought we might have caught a break. I should have known it wasn't gonna be that simple. And of course their solutions always seem to revolve around experimenting on us, destroying the planet, or some combination of the two. As far as I can tell, this might be our chance at ending them once and for all. If we stop the cure, we stop the Elders."
+SpokenText="Por um segundo, Tygan me deu esperanças, com toda essa conversa sobre os Anciões morrendo, pensei que poderíamos ter dado um golpe de sorte. Eu deveria saber que não seria tão simples. E é claro que as soluções deles sempre parecem envolver experimentos em nós, destruindo o planeta ou alguma combinação dos dois. Pelo que consigo ver, esta pode ser nossa chance de acabar com eles de uma vez por todas. Se pararmos a cura, paramos os Anciões."
 
 [S_Golden_Path_Musings_Risistance_Central_01 AkEvent]
-SpokenText="From what I've heard, the resistance has already seen a boost in their recruitment efforts after word of the Commander's arrival got around. They've needed a leader just as much as we have, and now they'll be expecting us to hit the aliens where it hurts. Not that I'm worried, we've got plenty of people itching to take on ADVENT. Things are just getting interesting."
+SpokenText="Pelo que ouvi, a resistência já teve um aumento em seus esforços de recrutamento depois que a notícia da chegada do Comandante se espalhou. Eles precisavam de um líder tanto quanto nós, e agora eles estarão esperando que nós ataquemos onde mais dói nos alienígenas. Não que esteja preocupado, temos muitas pessoas ansiosas para enfrentar a ADVENT. As coisas estão ficando interessantes."
 
 [S_GP_Avatar_Bar_Geoscape_Central AkEvent]
-SpokenText="We're tracking the aliens' progress on this Avatar Project here; if they finish what they've started, it sounds like it'll be the end for all of us."
+SpokenText="Estamos monitorando o progresso dos alienígenas neste Projeto Avatar aqui; se eles concluírem o que começaram, parece que será o fim para todos nós."
 
 [S_GP_Avatar_Reveal_Comm_Feeder_Central AkEvent]
-SpokenText="Commander, we have a priority message coming through, it looks like an encoded signal from the resistance. Patching it through to your quarters now."
+SpokenText="Comandante, temos uma mensagem prioritária chegando, parece ser um sinal codificado da resistência. Estou redirecionando para os seus aposentos agora."
 
 [S_GP_Doom_Rising_Central AkEvent]
-SpokenText="Commander, if we want to set back the aliens' work on the Avatar Project, we should hit one of their facilities as soon as possible."
+SpokenText="Comandante, se quisermos retardar o progresso dos alienígenas no Projeto Avatar, devemos atacar uma de suas instalações o mais rápido possível."
 
 [S_GP_First_Alien_Facility_Buit_Central AkEvent]
-SpokenText="The aliens have just finished a new facility tied to the Avatar Project, Commander. If we can make contact with resistance forces in the region, we could move on that facility and set back the aliens' work."
+SpokenText="Os alienígenas acabaram de concluir uma nova instalação ligada ao Projeto Avatar, Comandante. Se conseguirmos fazer contato com as forças da resistência na região, poderemos atacar essa instalação e prejudicar o trabalho dos alienígenas."
 
 [S_GP_PreBlacksite_Objective_Ambient_CEN AkEvent]
-SpokenText="We've had our suspicions, but before now we've never had the resources to investigate the possibility of clandestine ADVENT facilities built up outside the cities centers. Now that we've gotten word of this black site, I have to admit, I'm worried about what we might find. They could be doing anything in there. "
+SpokenText="Tínhamos nossas suspeitas
+
+, mas até agora nunca tivemos os recursos para investigar a possibilidade de instalações clandestinas da ADVENT construídas fora dos centros das cidades. Agora que recebemos notícias desse local secreto, admito que estou preocupado com o que podemos encontrar. Eles podem estar fazendo qualquer coisa lá dentro."
 
 [S_GP_PreBroadcast_Objective_Ambient_CEN AkEvent]
-SpokenText="It looks like we've finally got a shot at breaking ADVENT's hold over the hearts and minds of the civilian population living in those cities, but it won't be easy. Without the Commander, we never would have made it this far, but now we have to see this thing through to the end, no matter the costs. "
+SpokenText="Parece que finalmente temos a chance de quebrar o domínio da ADVENT sobre os corações e mentes da população civil que vive nessas cidades, mas não será fácil. Sem o Comandante, nunca teríamos chegado tão longe, mas agora temos que levar isso até o fim, não importa o custo."
 
 [S_GP_PreCaptain_Objective_Ambient_CEN AkEvent]
-SpokenText="ADVENT's Officers might be more resourceful than your average trooper, but I doubt our own forces will have any trouble bringing in a test subject for Tygan to look at, especially since he's not asking for a live one. There's not a whole lot that surprises me these days, but I'm definitely curious to see if the chip we pulled from the Commander really is connected to the ones ADVENT's been using in their Captains. "
+SpokenText="Os oficiais da ADVENT podem ser mais perspicazes do que seus soldados comuns, mas duvido que nossas forças tenham dificuldades para conseguir um sujeito de teste para Tygan examinar, especialmente porque ele não está pedindo um vivo. Não há muita coisa que me surpreenda hoje em dia, mas estou definitivamente curioso para ver se o chip que retiramos do Comandante está realmente conectado aos que a ADVENT tem usado em seus Capitães."
 
 [S_GP_PreForge_Objective_Ambient_CEN AkEvent]
-SpokenText="Shen managed to pull a set of encoded coordinates from the vial we recovered at the alien Blacksite, and it looks like we're headed towards another as of yet unidentified facility. There are a bunch of theories floating around as to what we'll find, but at this point I'm not ready to commit to anything until I see for myself. "
+SpokenText="Shen conseguiu extrair um conjunto de coordenadas codificadas do frasco que recuperamos no Sitio Negro alienígena, e parece que estamos nos dirigindo para outra instalação ainda não identificada. Há várias teorias circulando sobre o que encontraremos, mas neste momento, não estou pronto para me comprometer com nenhuma até ver com meus próprios olhos."
 
 [S_GP_PreFortress_Objective_Ambient_CEN AkEvent]
-SpokenText="We've gone as far as we can, it's time we go through this gateway of theirs and see what the aliens are really hiding on the other side. If our past experiences are any indication, we need to be prepared to throw everything we've got at 'em. "
+SpokenText="Fomos o mais longe que pudemos, é hora de atravessarmos este portão deles e ver o que os alienígenas estão realmente escondendo do outro lado. Se nossas experiências anteriores servirem de indicação, precisamos estar preparados para lançar tudo o que temos contra eles."
 
 [S_GP_PreLiveCodex_Objective_Ambient_CEN AkEvent]
-SpokenText="Tygan insists our forces should have no trouble disabling a Codex in the field, at least long enough for us to hack into the ADVENT network. The hard part will be convincing our troops not to kill this thing as soon as it appears; no one is ever particularly excited about trying to get up close and personal when it comes to these obscure alien species, except maybe our Rangers.  "
+SpokenText="Tygan insiste que nossas forças não devem ter problemas em desativar um Codex no campo, pelo menos tempo suficiente para hackear a rede da ADVENT. A parte difícil será convencer nossas tropas a não matar essa coisa assim que ela aparecer; ninguém fica particularmente animado em se aproximar e ficar cara a cara com essas espécies alienígenas obscuras, exceto talvez nossos Rangers."
 
 [S_GP_PrePsiGate_Objective_Ambient_CEN AkEvent]
-SpokenText="I don't like the fact that we're chasing another set of coordinates into the middle of nowhere. We've done it before, and we didn't like what we found then either. Wilderness or not, the aliens could be setting up an ambush or worse for all we know. Our people will be prepped and ready for a fight, I just wish we had more to go on. "
+SpokenText="Não gosto do fato de estarmos perseguindo outro conjunto de coordenadas no meio do nada. Já fizemos isso antes, e também não gostamos do que encontramos naquela ocasião. Selvagem ou não, os alienígenas podem estar preparando uma emboscada ou algo pior, quem sabe. Nossa equipe estará preparada e pronta para lutar, só queria ter mais informações."
 
 [S_Humans_Obsolete_Central_01 AkEvent]
-SpokenText="Just like the one we found the Commander in..."
+SpokenText="Assim como aquele que encontramos o Comandante..."
 
 [S_Humans_Obsolete_Central_02 AkEvent]
-SpokenText="See your local Advent recruiter today."
+SpokenText="Procure seu recrutador local da ADVENT hoje mesmo."
 
 [S_Humans_Obsolete_Central_03 AkEvent]
-SpokenText="The future begins with you."
+SpokenText="O futuro começa com você."
 
 [S_Humans_Obsolete_Central_04 AkEvent]
-SpokenText="You mean clones? No wonder they just keep coming."
+SpokenText="Você quer dizer clones? Não é de admirar que eles continuem surgindo."
 
 [S_Humans_Obsolete_Central_05 AkEvent]
-SpokenText="Left open for what?"
+SpokenText="Deixado aberto para quê?"
 
 [S_Humans_Obsolete_Central_06 AkEvent]
-SpokenText="Human Material. You mean the stuff we found at the Blacksite facility."
+SpokenText="Material Humano. Você quer dizer aquilo que encontramos na instalação do Sitio Negro."
 
 [S_Humans_Obsolete_Central_07 AkEvent]
-SpokenText="So, we have been fighting ourselves all along."
+SpokenText="Então, estivemos lutando contra nós mesmos o tempo todo."
 
 [S_Humans_Obsolete_Central_08 AkEvent]
-SpokenText="The screening process at the clinics. Avatar."
+SpokenText="O processo de triagem nos centros médicos. Avatar."
 
 [S_Humans_Obsolete_Central_09 AkEvent]
-SpokenText="I know Doctor. Continue your research. Let us know if you find anything else."
+SpokenText="Eu entendo, Doutor. Continue sua pesquisa. Avise-nos se descobrir mais alguma coisa."
 
 [S_Intro_Central_01 AkEvent]
-SpokenText="I'm on my way"
+SpokenText="Estou a caminho."
 
 [S_Intro_Central_03 AkEvent]
-SpokenText="Stay focused"
+SpokenText="Mantenha o foco."
 
 [S_Intro_Central_04 AkEvent]
-SpokenText="Prep Gatecrasher, 60 seconds"
+SpokenText="Prepare a equipe de Invasão, 60 segundos."
 
 [S_Intro_Central_06 AkEvent]
-SpokenText="Now."
+SpokenText="Agora."
 
 [S_Loot_Mission_Wrapper_Central AkEvent]
-SpokenText="We've pinpointed the location of an ADVENT facility housing the flight system component Shen needs. Infiltrate the site, secure the target, and get back to the ship before the aliens realize what we've done."
+SpokenText="Localizamos a instalação da ADVENT que abriga o componente do sistema de voo que Shen precisa. Infiltre o local, assegure o alvo e retorne à nave antes que os alienígenas percebam o que fizemos."
 
 [S_Missing_Supply_Cache_Central AkEvent]
-SpokenText="Commander, the Resistance has a hidden cache of resources stashed outside of ADVENT's reach, but that means we'll have to fly over and scan the area if we want to recover this stuff for ourselves."
+SpokenText="Comandante, a Resistência escondeu um estoque secreto de recursos fora do alcance da ADVENT, mas isso significa que teremos que voar até lá e vasculhar a área se quisermos recuperar essas coisas para nós."
 
 [S_Old_Gods_02_Central_01 AkEvent]
-SpokenText="Is that...an Elder. Haven't seen one in at least a decade - outside of those monuments Advent keeps puttin' up in their honor."
+SpokenText="Aquilo é... um Ancião. Não vejo um há pelo menos uma década - fora dos monumentos que a ADVENT continua erguendo em honra a eles."
 
 [S_Old_Gods_02_Central_02 AkEvent]
-SpokenText="So they're dying. Sounds like our job just got a whole lot easier."
+SpokenText="Então, eles estão morrendo. Parece que nosso trabalho acabou de ficar muito mais fácil."
 
 [S_Old_Gods_02_Central_03 AkEvent]
-SpokenText="What's the catch?"
+SpokenText="Qual é a pegadinha?"
 
 [S_Old_Gods_02_Central_04 AkEvent]
-SpokenText="A cure? "
+SpokenText="Uma cura?"
 
 [S_Old_Gods_02_Central_05 AkEvent]
-SpokenText="The invasion. The occupation. ADVENT. A giant lab experiment. And we're the rats."
+SpokenText="A invasão. A ocupação. A ADVENT. Um grande experimento de laboratório. E nós somos os ratos."
 
 [S_Old_Gods_02_Central_06 AkEvent]
-SpokenText="Avatar. We need those files."
+SpokenText="Avatar. Precisamos desses arquivos."
 
 [S_Old_Gods_02_Central_07 AkEvent]
-SpokenText="Or blow the entire ship to hell this time around."
+SpokenText="Ou explodimos toda a nave de uma vez desta vez."
 
 [S_Old_Gods_02_Central_08 AkEvent]
-SpokenText="That we can arrange Doctor."
+SpokenText="Isso podemos providenciar, Doutor."
 
 [S_Old_Gods_02_Central_09 AkEvent]
-SpokenText="This won't be easy Commander, but if anyone can pull it off, it's you. I'll have a squad ready to go on your order."
+SpokenText="Isso não será fácil, Comandante, mas se alguém pode fazer isso, é você. Vou ter uma equipe pronta para agir quando você der a ordem."
 
 [S_Pre_Final_Mission_Broadcast_Central_01 AkEvent]
-SpokenText="On Screen."
+SpokenText="Na tela."
 
 [S_Pre_Final_Mission_Broadcast_Central_02 AkEvent]
-SpokenText="You heard me. He's taking a big risk contacting us like this."
+SpokenText="Você me ouviu. Ele está correndo um grande risco nos contatando assim."
 
 [S_Pre_Final_Mission_Broadcast_Central_03 AkEvent]
-SpokenText="Sound doable?"
+SpokenText="Fazível?"
 
 [S_PreFinalMission_MissionUI_Geoscape_Central AkEvent]
-SpokenText="This is it, Commander. It's time we put an end to this, once and for all."
+SpokenText="É isso aí, Comandante. É hora de acabarmos com isso, de uma vez por todas."
 
 [S_Psi_Gate_marked_on_Geoscape_Central AkEvent]
-SpokenText="I've marked the location Shen pulled from the Codex, Commander. It's a remote region, out in the woods away from any populated areas. We'll need to contact the local resistance forces if we want to get a closer look."
+SpokenText="Eu marquei a localização que Shen obteve do Codex, Comandante. É uma região remota, no meio da floresta, longe de áreas habitadas. Precisaremos entrar em contato com as forças da resistência local se quisermos dar uma olhada mais de perto."
 
 [S_Psi_Network_Central_01_GoldenPath AkEvent]
-SpokenText="I take it this was easier than your last procedure, Doctor?"
+SpokenText="Suponho que isso tenha sido mais fácil do que o seu último procedimento, Doutor?"
 
 [S_Psi_Network_Central_02_GoldenPath AkEvent]
-SpokenText="What kind of differences?"
+SpokenText="Que tipo de diferenças?"
 
 [S_Psi_Network_Central_03_GoldenPath AkEvent]
-SpokenText="They were using you against us."
+SpokenText="Eles estavam usando você contra nós."
 
 [S_Psi_Network_Central_04_GoldenPath AkEvent]
-SpokenText="Network?"
+SpokenText="Rede?"
 
 [S_Psi_Network_Central_05_GoldenPath AkEvent]
-SpokenText="Or a weakness..."
+SpokenText="Ou uma fraqueza..."
 
 [S_Psi_Network_Central_06_GoldenPath AkEvent]
-SpokenText="I'm guessing that won't be easy."
+SpokenText="Aposto que isso não será fácil."
 
 [S_Psi_Network_Central_07_GoldenPath AkEvent]
-SpokenText="Like I said, not easy."
+SpokenText="Como eu disse, não será fácil."
 
 [S_Psi_Network_Central_08_GoldenPath AkEvent]
-SpokenText="Still, it's the best lead we've got. Your call, Commander."
+SpokenText="Ainda assim, é a melhor pista que temos. Sua decisão, Comandante."
 
 [S_Retaliation_Central_01_Setup_Phase AkEvent]
-SpokenText="Our pleasure, Denmother. Enjoy it while it lasts."
+SpokenText="Com prazer, Mãe da Toca. Aproveite enquanto pode."
 
 [S_Retaliation_Central_02_Setup_Phase AkEvent]
-SpokenText="You got that part right."
+SpokenText="Você acertou essa parte."
 
 [S_Retaliation_Central_03_Setup_Phase AkEvent]
-SpokenText="Raise that outpost!"
+SpokenText="Ataquem o posto avançado!"
 
 [S_Retaliation_Central_04_Setup_Phase AkEvent]
-SpokenText="You've got incoming on approach! They're right on..."
+SpokenText="Vocês têm inimigos se aproximando! Eles estão bem..."
 
 [S_Retaliation_Central_05_Setup_Phase AkEvent]
-SpokenText="They don't stand a chance..."
+SpokenText="Eles não têm chance..."
 
 [S_Retaliation_Central_06_Setup_Phase AkEvent]
-SpokenText="Commander, we should get a squad ready to deploy..."
+SpokenText="Comandante, devemos preparar uma equipe para entrar em ação..."
 
 [S_Retaliation_Central_07_Setup_Phase AkEvent]
-SpokenText="RAISE THE ALARM! GET YOUR PEOPLE OUT OF THERE!"
+SpokenText="ALERTA GERAL! TIREM SEU POVO DE LÁ!"
 
 [S_Setup_Phase_Armory_Promote_Jane_Central AkEvent]
-SpokenText="Commander, Jane Kelly was instrumental in the op to get you back. She earned enough experience for a promotion, we should take care of that now."
+SpokenText="Comandante, Jane Kelly foi fundamental na operação para trazê-lo de volta. Ela ganhou experiência suficiente para uma promoção, devemos cuidar disso agora."
 
 [S_Setup_Phase_Blacksite_Bridge_Matinee_Central AkEvent]
-SpokenText="We just got word from the resistance, they've managed to locate an ADVENT Blacksite we've heard rumors about. I've locked in the coordinates, but we have a problem."
+SpokenText="Acabamos de receber notícias da resistência, eles conseguiram localizar um Sítio Negro da ADVENT sobre o qual ouvimos rumores. Eu bloquei as coordenadas, mas temos um problema."
 
 [S_Setup_Phase_Facility_Adds_Doom_Central AkEvent]
-SpokenText="Commander, the aliens are still moving forward on the Avatar project. Taking out that facility would deal a serious blow to their efforts. "
+SpokenText="Comandante, os alienígenas ainda estão avançando com o Projeto Avatar. Derrubar essa instalação seria um golpe sério para os esforços deles."
 
 [S_Setup_Phase_First_Geoscape_Central AkEvent]
-SpokenText="The aliens may have the world in their grip, but it's about time we change that. Right now the resistance is scattered in small pockets. Our first step is to get connected."
+SpokenText="Os alienígenas podem ter o mundo sob controle, mas já passou da hora de mudarmos isso. No momento, a resistência está espalhada em pequenos grupos. Nosso primeiro passo é nos conectarmos."
 
 [S_Setup_Phase_First_Geoscape_Hideout_Central AkEvent]
-SpokenText="This is our current position. We're grounded, but if we can get the last piece of this puzzle for Shen, we may actually see this thing fly."
+SpokenText="Esta é nossa posição atual. Estamos no chão, mas se conseguirmos a última peça desse quebra-cabeça para Shen, talvez vejamos essa coisa voar."
 
 [S_Setup_Phase_First_Geoscape_Mission_Site_Central AkEvent]
-SpokenText="Unfortunately, the piece we're after is inside a heavily guarded ADVENT facility. There's no way around it, we're heading into a fight."
+SpokenText="Infelizmente, a peça que estamos procurando está dentro de uma instalação da ADVENT altamente protegida. Não há como evitar, estamos indo para uma luta."
 
 [S_Setup_Phase_First_Geoscape_Ready_Deploy_Central AkEvent]
-SpokenText="The squad is ready to deploy on your order, Commander."
+SpokenText="O esquadrão está pronto para entrar em ação, Comandante."
 
 [S_Setup_Phase_First_Living_Quarters_Central AkEvent]
-SpokenText="For most of our soldiers, the living quarters on board the Avenger are a step up from the conditions they've had to live with on the ground."
+SpokenText="Para a maioria dos nossos soldados, os alojamentos a bordo do Avenger são um passo acima das condições em que tiveram que viver no campo."
 
 [S_Setup_Phase_First_Memorial_Central AkEvent]
-SpokenText="We've done what we can to honor our fallen soldiers, Commander. It's not much, but it gives our people a chance to pay their respects."
+SpokenText="Fizemos o que pudemos para honrar nossos soldados caídos, Comandante. Não é muito, mas dá a nossas pessoas a chance de prestar seus respeitos."
 
 [S_Setup_Phase_First_Rumor_Central AkEvent]
-SpokenText="Commander, one of our resistance contacts just tipped us off to a site that may be worth investigating."
+SpokenText="Comandante, um dos nossos contatos da resistência nos deu uma dica sobre um local que pode valer a pena investigar."
 
 [S_Setup_Phase_First_Scan_Central AkEvent]
-SpokenText="Already getting a read on a few regions. We can't be everywhere at once Commander. We need to choose our moves carefully, help our allies while disrupting enemy operations to build the resistance."
+SpokenText="Já estamos obtendo leituras de algumas regiões. Não podemos estar em todos os lugares ao mesmo tempo, Comandante. Precisamos escolher nossos movimentos cuidadosamente, ajudar nossos aliados enquanto perturbamos as operações inimigas para fortalecer a resistência."
 
 [S_Setup_Phase_Forge_Coordinates_But_No_Contact_Central AkEvent]
-SpokenText="Commander, we have a fix on the location of the alien Forge facility, but we'll still need to establish contact with the local resistance forces before we can move in to investigate."
+SpokenText="Comandante, temos a localização da instalação alienígena Forge, mas ainda precisaremos estabelecer contato com as forças da resistência local antes de prosseguirmos com a investigação."
 
 [S_Setup_Phase_Fortress_Adds_Doom_Central AkEvent]
-SpokenText="Commander, the aliens continue to make progress on the Avatar project. If we're going to slow them down we'll need to move fast. "
+SpokenText="Comandante, os alienígenas continuam progredindo no Projeto Avatar. Se vamos retardá-los, precisamos agir rápido."
 
 [S_Setup_Phase_Geoscape_Avenger_Focus_Central AkEvent]
-SpokenText="We shouldn't wait too long on that Commander. We have to start making contact with other regions soon if we're going to build a global resistance and take on ADVENT."
+SpokenText="Não devemos esperar muito para isso, Comandante. Precisamos começar a fazer contato com outras regiões em breve se quisermos construir uma resistência global e enfrentar a ADVENT."
 
 [S_Setup_Phase_Geoscape_Avenger_Parked_Central AkEvent]
-SpokenText="Commander, our current position is here, just outside resistance headquarters. When we're not on the move this will serve as our home and our source of supplies."
+SpokenText="Comandante, nossa posição atual é aqui, do lado de fora da sede da resistência. Quando não estamos em movimento, isso servirá como nossa casa e fonte de suprimentos."
 
 [S_Setup_Phase_Geoscape_Avenger_Parked_Central_ALT AkEvent]
-SpokenText="Commander, our current position is here, just outside resistance headquarters. When we're not on the move this will serve as our home and source of supplies. The councilman has traced the alien blacksite to this region. Unfortunately, we don't have its exact coordinates yet. If we're going to have any chance of finding this facility we'll need to make contact with the local resistance cell nearby. Tygan has a theory about how we might reach out to them without getting the aliens' attention but, we'll need to give him time to conduct his research. We shouldn't wait too long on that Commander. We have to start making contact with other regions soon if we're going to build a global resistance and take on ADVENT."
+SpokenText="Comandante, nossa posição atual é aqui, do lado de fora da sede da resistência. Quando não estamos em movimento, isso servirá como nossa casa e fonte de suprimentos. O conselheiro rastreou o Sítio Negro alienígena nesta região. Infelizmente, ainda não temos suas coordenadas exatas. Se quisermos ter alguma chance de encontrar esta instalação, precisaremos fazer contato com a célula local da resistência nas proximidades. Tygan tem uma teoria sobre como podemos contatá-los sem chamar a atenção dos alienígenas, mas precisaremos dar tempo a ele para conduzir suas pesquisas. Não devemos esperar muito para isso, Comandante. Precisamos começar a fazer contato com outras regiões em breve se quisermos construir uma resistência global e enfrentar a ADVENT."
 
 [S_Setup_Phase_Geoscape_Blacksite_Focus_Central AkEvent]
-SpokenText="The councilman has tracked the alien blacksite to this region. Unfortunately, we don't have its exact coordinates yet. If we're going to have any chance of finding this facility we'll need to make contact with the local resistance cell nearby. Tygan has a theory about how we might reach out to them without getting the aliens' attention but, we'll need to give him time to conduct his research."
+SpokenText="O conselheiro rastreou o Sítio Negro alienígena nesta região. Infelizmente, ainda não temos suas coordenadas exatas. Se quisermos ter alguma chance de encontrar esta instalação, precisaremos fazer contato com a célula local da resistência nas proximidades. Tygan tem uma teoria sobre como podemos contatá-los sem chamar a atenção dos alienígenas, mas precisaremos dar tempo a ele para conduzir suas pesquisas."
 
 [S_Setup_Phase_Geoscape_Blacksite_Region_Contact_Made_Central AkEvent]
-SpokenText="Commander, we've established contact with the local resistance, and we can move on the ADVENT Blacksite on your order. We should make sure our troops are fully equipped and ready for a tough mission, I'm guessing security will be tight at the facility."
+SpokenText="Comandante, estabelecemos contato com a resistência local e podemos avançar para o Sítio Negro da ADVENT sob suas ordens. Devemos garantir que nossas tropas estejam totalmente equipadas e prontas para uma missão difícil, suponho que a segurança na instalação será reforçada."
 
 [S_Setup_Phase_Geoscape_Blacksite_Region_Focus_Central AkEvent]
-SpokenText="Now that we've established a link, we can use our Intel resources to make contact with the local resistance cell in this region. Aside from getting us into the Blacksite, our access to supplies should improve now that we've expanded our reach."
+SpokenText="Agora que estabelecemos uma ligação, podemos usar nossos recursos de Intel para fazer contato com a célula local da resistência nesta região. Além de nos levar ao Sítio Negro, nosso acesso a suprimentos deve melhorar agora que expandimos nossa influência."
 
 [S_Setup_Phase_Geoscape_First_GOP_Central AkEvent]
-SpokenText="We're ready to start making moves, Commander. By hitting ADVENT wherever we find them we can help strengthen the global resistance movement. In return they'll contribute material support to help fuel our operations. I think it's about time we see what this thing can do."
+SpokenText="Estamos prontos para começar a agir, Comandante. Atacando a ADVENT onde quer que os encontremos, podemos ajudar a fortalecer o movimento de resistência global. Em troca, eles contribuirão com apoio material para alimentar nossas operações. Acho que é hora de ver o que essa coisa pode fazer."
 
 [S_Setup_Phase_Geoscape_First_GOP_Central_ALT AkEvent]
-SpokenText="We're ready to start making moves Commander. By hitting ADVENT wherever we find them we can help strengthen the resistance. In return, they'll contribute material and personnel to support our operations. "
+SpokenText="Estamos prontos para começar a agir, Comandante. Atacando a ADVENT onde quer que os encontremos, podemos ajud
+
+ar a fortalecer a resistência. Em troca, eles contribuirão com material e pessoal para apoiar nossas operações."
 
 [S_Setup_Phase_Geoscape_First_Make_Contact_Central AkEvent]
-SpokenText="After we pay the initial Intel cost to make contact, we'll have to scan the region for a few days before the local resistance cell comes out of hiding. Once we find them, we'll be up and running in the new region."
+SpokenText="Depois de pagar o custo inicial de Intel para fazer contato, teremos que escanear a região por alguns dias antes que a célula local da resistência saia do esconderijo. Assim que os encontrarmos, estaremos prontos para agir na nova região."
 
 [S_Setup_Phase_Geoscape_Objectives_Appear_Central AkEvent]
-SpokenText="I'm tracking our current operational objectives here. If you need a more detailed breakdown, I have everything patched through to the Archive terminal in your quarters. Looks like you won't have time for that just yet though, we're picking up an incoming transmission from the resistance, sounds like they've got some new information for us."
+SpokenText="Estou rastreando nossos objetivos operacionais atuais aqui. Se você precisar de uma análise mais detalhada, tenho tudo encaminhado para o terminal de Arquivo em seus alojamentos. Parece que você ainda não terá tempo para isso, pois estamos recebendo uma transmissão da resistência, parece que eles têm informações novas para nós."
 
 [S_Setup_Phase_Geoscape_Objectives_Appear_Central_ALT AkEvent]
-SpokenText="Looks like you won't have time for that just yet though. Remote reconaissance may have found something not far from our current position."
+SpokenText="Parece que você ainda não terá tempo para isso. O reconhecimento remoto pode ter encontrado algo não muito longe de nossa posição atual."
 
 [S_Setup_Phase_Geoscape_Player_Leaves_Without_Scanning_Central AkEvent]
-SpokenText="Commander, we'll need to completely scan this region before we can establish contact with the local resistance. I'd advise we stick around and finish the job, but the choice is yours."
+SpokenText="Comandante, precisamos escanear completamente esta região antes de estabelecer contato com a resistência local. Eu aconselharia que ficássemos por perto e terminássemos o trabalho, mas a decisão é sua."
 
 [S_Setup_Phase_Geoscape_Resistance_Comms_Focus_Central AkEvent]
-SpokenText="It's time we fired up the new comm. system. Let's make the call and see who answers."
+SpokenText="É hora de iniciar o novo sistema de comunicações da resistência. Vamos fazer a chamada e ver quem responde."
 
 [S_Setup_Phase_Geoscape_Scan_Attempt_With_Timed_Mission_Central AkEvent]
-SpokenText="Commander, we have a mission available that's reliant on time-sensitive information. We can always finish our scans later, but failing to take on the mission could have serious repercussions for the resistance movement."
+SpokenText="Comandante, temos uma missão disponível que depende de informações sensíveis ao tempo. Podemos continuar nossos escaneamentos mais tarde, mas não cumprir a missão poderia ter sérias repercussões para o movimento de resistência."
 
 [S_Setup_Phase_Lab_Transition_Central AkEvent]
-SpokenText="Looks like Tygan made progress on his research. We should meet him in the lab. "
+SpokenText="Parece que Tygan progrediu em suas pesquisas. Devemos encontrá-lo no laboratório."
 
 [S_Setup_Phase_Multiple_Missions_Available_Central AkEvent]
-SpokenText="Alright, Commander, we've got multiple options in terms of what to take on first, but those decisions are up to you. Our latest mission objectives will always be updated here, if you want a more detailed look the archive in your quarters has the full rundown available. In the meantime, we'll be monitoring resistance comms for any new leads. As a matter of fact, it looks like we might have one now..."
+SpokenText="Certo, Comandante, temos várias opções em termos do que enfrentar primeiro, mas essas decisões são suas. Nossos últimos objetivos de missão serão sempre atualizados aqui. Se você quiser uma análise mais detalhada, o arquivo em seus alojamentos tem todas as informações disponíveis. Enquanto isso, monitoraremos as comunicações da resistência em busca de novas pistas. Aliás, parece que podemos ter uma agora..."
 
 [S_Setup_Phase_New_Ability_Confirmed_Central AkEvent]
-SpokenText="We're off to a good start. Our troops will only get stronger as they gain experience."
+SpokenText="Estamos começando bem. Nossas tropas só vão ficar mais fortes à medida que ganham experiência."
 
 [S_Setup_Phase_Pass_time_Geoscape_Central AkEvent]
-SpokenText="By selecting a scan site on the Geoscape, you can use the Avenger's onboard sensors to scan the area for information while passing time. You can also pass time by scanning for Intel at Resistance HQ."
+SpokenText="Ao selecionar um local de escaneamento no Geoscape, você pode usar os sensores a bordo do Avenger para escanear a área em busca de informações enquanto o tempo passa. Você também pode passar o tempo escaneando por Intel na Sede da Resistência."
 
 [S_Setup_Phase_Pass_time_Geoscape_Central_ALT AkEvent]
-SpokenText="While we prepare for new operations and continue our research we can pass time by scanning at sites like this one. On your order we'll start our scans on the surrounding area. "
+SpokenText="Enquanto nos preparamos para novas operações e continuamos nossas pesquisas, podemos passar o tempo escaneando em locais como este. Ao seu comando, começaremos nossos escaneamentos na área circundante."
 
 [S_Setup_Phase_Pass_time_Geoscape_Specific_Alt_Central AkEvent]
-SpokenText="Commander, while we're waiting for new missions or the completion of our research, we can pass time by scanning at sites like this one. On your order we'll start our scans of the surrounding area."
+SpokenText="Comandante, enquanto esperamos por novas missões ou a conclusão de nossas pesquisas, podemos passar o tempo escaneando em locais como este. Ao seu comando, começaremos nossos escaneamentos na área circundante."
 
 [S_Setup_Phase_Psi_Gate_Coordinates_But_No_Contact_Central AkEvent]
-SpokenText="We've locked in the coordinates Shen and Tygan pulled from the Codex, Commander, but we'll have to make contact with the local resistance cell before we can move to investigate the site."
+SpokenText="Trancamos as coordenadas que Shen e Tygan obtiveram do Codex, Comandante, mas teremos que fazer contato com a célula local da resistência antes de prosseguirmos com a investigação do local."
 
 [S_Setup_Phase_Radio_Relay_Bridge_Matinee_Central AkEvent]
-SpokenText="According to the latest report from Dr. Tygan, we should be able to boost the range of the resistance comms. network using radio relay towers."
+SpokenText="De acordo com o relatório mais recente do Dr. Tygan, podemos aumentar o alcance da rede de comunicações da resistência usando torres de rádio."
 
 [S_Setup_Phase_Recruit_Soldiers_After_Meeting_Resistance_Central AkEvent]
-SpokenText="Now that we've established contact with the local resistance forces, we can recruit new operatives from their ranks to bolster our own forces."
+SpokenText="Agora que estabelecemos contato com as forças locais da resistência, podemos recrutar novos operativos de suas fileiras para reforçar nossas próprias forças."
 
 [S_Setup_Phase_Resistance_Comms_Bridge_Matinee_Central AkEvent]
-SpokenText="Tygan just sent word, the new resistance communications network is fully operational. Now we just have to spread the word."
+SpokenText="Tygan acabou de informar que o novo sistema de comunicações da resistência está totalmente operacional. Agora só precisamos espalhar a notícia."
 
 [S_Setup_Phase_Soldier_Walkup_Promote_Central AkEvent]
-SpokenText="A few of our people earned well-deserved promotions, Commander. I'm guessing Shen will probably want to have a word with you, too."
+SpokenText="Alguns de nossos soldados receberam promoções bem merecidas, Comandante. Acredito que o Shen também deve querer falar com você."
 
 [S_Setup_Phase_Welcome_to_Avenger_Post_Research_Central AkEvent]
-SpokenText="That research will keep Tygan busy for a while. In the meantime, you might want to head down to the Armory."
+SpokenText="Essa pesquisa manterá Tygan ocupado
+
+ por um tempo. Enquanto isso, você pode querer ir ao Arsenal."
 
 [S_Skipped_or_Failed_Mission_Central AkEvent]
-SpokenText="Local resistance forces in this region have gone into hiding after the recent setback, Commander. We'll have to wait for them to regroup before we can try to make contact again."
+SpokenText="As forças locais da resistência nesta região se esconderam após o revés recente, Comandante. Teremos que esperar que eles se reagrupem antes de tentarmos fazer contato novamente."
 
 [S_Skulljack_Objective_Active_Not_Equipped_B_Central AkEvent]
-SpokenText="Commander, we'll need to have one of our troops equip the Skulljack for use in the field if we're going to make any progress towards our current objective."
+SpokenText="Comandante, precisaremos que um de nossos soldados equipe o Skulljack para usá-lo em campo se quisermos fazer algum progresso em relação ao objetivo atual."
 
 [S_Skulljack_Objective_Active_Not_Equipped_Central AkEvent]
-SpokenText="Commander, Tygan and Shen aren't going to be happy if we don't put the Skulljack to good use. We should have one of our soldiers equip it before they deploy."
+SpokenText="Comandante, Tygan e Shen não ficarão felizes se não usarmos o Skulljack adequadamente. Deveríamos ter um de nossos soldados equipando-o antes de irem para a missão."
 
 [S_Support_Advent_Progress_Warning_Central_01 AkEvent]
-SpokenText="Commander, the aliens have made significant progress towards their goals. New ADVENT facilities are cropping up around the world."
+SpokenText="Comandante, os alienígenas avançaram significativamente em direção a seus objetivos. Novas instalações da ADVENT estão surgindo em todo o mundo."
 
 [S_Support_Ambient_Musings_Misc_Central_01 AkEvent]
-SpokenText="We're picking up an unsecured transmission from some clown calling himself Van Doorn...doesn't sound like the kind of recruit we're looking for."
+SpokenText="Estamos recebendo uma transmissão não segura de um sujeito se autodenominando Van Doorn... não parece ser o tipo de recruta que procuramos."
 
 [S_Support_Ambient_Musings_Misc_Central_02 AkEvent]
-SpokenText="The new uniform isn't bad considering, but sometimes I do miss that damn sweater."
+SpokenText="O novo uniforme não é ruim, considerando tudo, mas às vezes sinto falta daquela maldita blusa."
 
 [S_Support_Ambient_Musings_Misc_Central_03 AkEvent]
-SpokenText="With all that's been going on, we've never really had time to consider the possibility, but I have to believe Vahlen is still out there somewhere. She wasn't the type to let the collapse of XCOM stop her research."
+SpokenText="Com tudo o que aconteceu, nunca tivemos tempo para considerar a possibilidade, mas eu tenho que acreditar que a Dra. Vahlen ainda está lá fora em algum lugar. Ela não era do tipo que deixaria o colapso da XCOM interromper suas pesquisas."
 
 [S_Support_Avenger_Lands_First_Contact_Central AkEvent]
-SpokenText="Commander, using the Intel collected so far, we've managed to locate a resistance cell operating out of this region. It will take us some time to scan for their exact position though."
+SpokenText="Comandante, usando a Inteligência coletada até agora, conseguimos localizar uma célula da resistência operando nesta região. Vai demorar um pouco para escanearmos para encontrar sua posição exata."
 
 [S_Support_Avoid_UFOs_Central_01 AkEvent]
-SpokenText="We need to choose our flight paths carefully, Commander. The Avenger may be tough, but not tough to dogfight with a fully-crewed UFO. We should do our best to avoid contact wherever possible."
+SpokenText="Precisamos escolher nossas rotas de voo com cuidado, Comandante. O Avenger pode ser resistente, mas não resiste a uma batalha aérea com um OVNI totalmente tripulado. Devemos fazer o possível para evitar contato sempre que possível."
 
 [S_Support_Begin_Scanning_Activity_Central AkEvent]
-SpokenText="Commander, the Avenger's remote scanning capabilities will help us search the area for clues or other resources. It's going to take some time though, we've got a lot of ground to cover."
+SpokenText="Comandante, as capacidades de escaneamento remoto do Avenger nos ajudarão a procurar pistas ou outros recursos na área. Isso levará algum tempo, pois temos muitas áreas para cobrir."
 
 [S_Support_Blacksite_Mission_Locked_Central AkEvent]
-SpokenText="Commander, we have a lead on the alien Blacksite, but we'll have to rely on the local resistance to actually get us into the facility. We should try to make contact with their forces in the region as soon as possible, it's the only way we're going to find out what's behind this so-called Avatar project."
+SpokenText="Comandante, temos uma pista sobre o Alien Blacksite, mas teremos que depender da resistência local para nos levar até a instalação. Devemos tentar entrar em contato com suas forças na região o mais rápido possível, é a única maneira de descobrirmos o que está por trás desse projeto chamado Avatar."
 
 [S_Support_Class_Callouts_Central_01 AkEvent]
-SpokenText="The Ranger serves as our primary reconnaissance unit, capable of moving independently in concealment while engaging enemies at close range."
+SpokenText="Os Rangers servem como nossa principal unidade de reconhecimento, capazes de se mover independentemente em modo de ocultação enquanto combatem inimigos a curta distância."
 
 [S_Support_Class_Callouts_Central_02 AkEvent]
-SpokenText="Serving as our demolitions experts, the Grenadiers provide heavy ordinance delivery whenever and wherever we need it."
+SpokenText="Servindo como nossos especialistas em demolição, os Grenadiers fornecem entregas pesadas de munição sempre que e onde precisarmos."
 
 [S_Support_Class_Callouts_Central_03 AkEvent]
-SpokenText="Operating some of our most advanced equipment, Specialists deploy robotic drones on the battlefield that can be outfitted for combat or field medic duty."
+SpokenText="Operando alguns de nossos equipamentos mais avançados, os Especialistas implantam drones robóticos no campo de batalha que podem ser equipados para combate ou para fins de medicina no campo."
 
 [S_Support_Class_Callouts_Central_04 AkEvent]
-SpokenText="Just like it sounds, our sharpshooters engage enemy targets with pinpoint accuracy from extreme range. They're also trained in pistol marksmanship for the occasional close encounter."
+SpokenText="Como o próprio nome sugere, nossos atiradores de elite envolvem alvos inimigos com precisão extrema a longa distância. Eles também são treinados em precisão com pistolas para encontros mais próximos."
 
 [S_Support_Class_Callouts_Psi_Central AkEvent]
-SpokenText="Depending on who you ask, Psionics could be considered the alien's greatest strength. Now our own Psi Operatives can tap into that same power."
+SpokenText="Dependendo de quem você perguntar, a Psionia pode ser considerada a maior força dos alienígenas. Agora, nossos próprios Operativos Psi podem acessar esse mesmo poder."
 
 [S_Support_Contact_Blacksite_Region_Central AkEvent]
-SpokenText="Commander, we've established contact with the local resistance, and we're ready to move on the alien Blacksite on your order."
+SpokenText="Comandante, estabelecemos contato com a resistência local e estamos prontos para prosseguir com o Blacksite alienígena sob suas ordens."
 
 [S_Support_Established_Contact_Mission_Available_Central_01 AkEvent]
-SpokenText="We've made contact with resistance forces, Commander, and they've already got something they could use our help with."
+SpokenText="Estabelecemos contato com as forças da resistência, Comandante, e eles já têm algo que precisa da nossa ajuda."
 
 [S_Support_Established_Contact_Mission_Blacksite_Central_01 AkEvent]
-SpokenText="Commander, we've established contact with the local resistance forces in this area - and they're willing to lead us to the ADVENT Blacksite."
+SpokenText="Comandante, estabelecemos contato com as forças locais da resistência nesta área - e eles estão dispostos a nos levar até o Blacksite da ADVENT."
 
 [S_Support_Established_Contact_Mission_Forge_Central_01 AkEvent]
-SpokenText="We've made initial contact with the resistance operatives working this area, Commander. They're going show us how to get into the alien Forge facility."
+SpokenText="Estabelecemos contato inicial com os agentes da resistência que operam nesta área, Comandante. Eles vão nos mostrar como chegar à instalação alienígena Forge."
 
 [S_Support_Established_Contact_Mission_PsiGate_Central AkEvent]
-SpokenText="We've established contact with the local resistance forces in this region, Commander. We're ready to move on the coordinates we pulled from the Codex."
+SpokenText="Estabelecemos contato com as forças locais da resistência nesta região, Comandante. Estamos prontos para agir nas coordenadas que obtivemos do Codex."
 
 [S_Support_Final_Avatar_Countdown_Central AkEvent]
-SpokenText="Commander, we're almost out of time! The Avatar project is entering its final stages. The only way we're going to slow the Elders' progress is by destroying one of their facilities. We have to move fast or everything we've worked towards will be lost."
+SpokenText="Comandante, estamos quase sem tempo! O projeto Avatar está entrando em suas últimas etapas. A única maneira de desacelerar o progresso dos Anciãos é destruir uma de suas instalações. Temos que nos mover rápido ou tudo o que trabalhamos será perdido."
 
 [S_Support_First_Alien_Facility_Constructed_Central AkEvent]
-SpokenText="Commander, we've received word that the aliens have completed a facility devoted to their work on the Avatar project. If we can establish contact with the local resistance forces in this region, we can make a move on that facility and destroy it to set back the aliens' operation."
+SpokenText="Comandante, recebemos informações de que os alienígenas concluíram uma instalação dedicada ao projeto Avatar. Se conseguirmos estabelecer contato com as forças da resistência local nesta região, podemos agir nessa instalação e destruí-la para atrasar a operação dos alienígenas."
 
 [S_Support_First_Armored_Enemy_Sighted_Central AkEvent]
-SpokenText="I doubt your standard rounds will even penetrate that thing's armor, you're gonna have to use grenades to take it down."
+SpokenText="Duvido que suas balas normais consigam sequer penetrar a armadura daquela coisa. Você vai ter que usar granadas para derrubá-la."
 
 [S_Support_First_Dark_Events_Central AkEvent]
-SpokenText="Commander, we have Intel suggesting the aliens are working on developments that threaten our ability to stop the Avatar project. We can conduct guerrilla operations to disrupt one of these efforts, but we'll have to choose carefully, we don't have the resources to intercede everywhere."
+SpokenText="Comandante, temos Inteligência sugerindo que os alienígenas estão trabalhando em desenvolvimentos que ameaçam nossa capacidade de impedir o projeto Avatar. Podemos conduzir operações de guerrilha para interromper um desses esforços, mas teremos que escolher com cuidado, não temos recursos para intervir em todos os lugares."
 
 [S_Support_First_Doom_Central AkEvent]
-SpokenText="Commander, by compiling our intelligence reports, we can attempt to track the aliens progress towards completing the Avatar project. If they reach the end of this gauge, then we're already too late."
+SpokenText="Comandante, compilando nossos relatórios de inteligência, podemos tentar rastrear o progresso dos alienígenas em relação à conclusão do projeto Avatar. Se eles chegarem ao final dessa escala,
+
+ então já será tarde demais."
 
 [S_Support_First_Guerilla_Operation_Central AkEvent]
-SpokenText="Commander, as the resistance continues to grow, we'll have a better chance of finding openings to strike back at ADVENT. As it is, we've already identified a potential target to disrupt the aliens' operations in this region. Our window of opportunity is limited, so we'll have to move fast."
+SpokenText="Comandante, à medida que a resistência continua crescendo, teremos uma chance melhor de encontrar oportunidades para atacar a ADVENT. Como está, já identificamos um alvo potencial para interromper as operações dos alienígenas nesta região. Nossa janela de oportunidade é limitada, então teremos que nos mover rápido."
 
 [S_Support_First_Hidden_Doom_Central AkEvent]
-SpokenText="Commander, we have multiple unconfirmed reports that the aliens are making progress towards the Avatar project at a facility we haven't managed to locate yet. We have to keep working if we're going to uncover the aliens plan."
+SpokenText="Comandante, temos vários relatórios não confirmados de que os alienígenas estão avançando no projeto Avatar em uma instalação que ainda não conseguimos localizar. Temos que continuar trabalhando para descobrir o plano dos alienígenas."
 
 [S_Support_First_Radio_Relays_Central AkEvent]
-SpokenText="Commander, we can now construct radio relays in any region where we've made contact with the local resistance."
+SpokenText="Comandante, agora podemos construir torres de retransmissão de rádio em qualquer região onde estabelecemos contato com a resistência local."
 
 [S_Support_First_Regions_Available_Central AkEvent]
-SpokenText="Commander, we can now work to establish contact with local resistance groups operating out of regions around the globe. Once we've collected sufficient Intel to make contact, we'll need to scan the target region for the operative's signal."
+SpokenText="Comandante, agora podemos trabalhar para estabelecer contato com grupos de resistência locais operando em regiões ao redor do mundo. Assim que tivermos coletado inteligência suficiente para estabelecer contato, precisaremos escanear a região-alvo para encontrar o sinal do operativo."
 
 [S_Support_Geoscape_Connections_Central AkEvent]
-SpokenText="Commander, we can track the progress of our efforts to contact resistance groups around the world using the Hologlobe's mapping system. We can also use this information to plot future moves against the aliens."
+SpokenText="Comandante, podemos acompanhar o progresso de nossos esforços para contatar grupos de resistência em todo o mundo usando o sistema de mapeamento do Hologlobo. Também podemos usar essas informações para planejar futuras ações contra os alienígenas."
 
 [S_Support_Great_Mission_Central_01 AkEvent]
-SpokenText="I never had any doubts about your capabilities, Commander. Excellent work as always."
+SpokenText="Eu diria que valeu a pena a viagem."
 
 [S_Support_Great_Mission_Central_02 AkEvent]
-SpokenText="I told the troops to expect the best, and that's what you've shown them, Commander. Well done."
+SpokenText="Vocês ouviram a chefe, pessoal, VAMOS!"
 
 [S_Support_Great_Mission_Central_03 AkEvent]
-SpokenText="Morale is sure to be high after an operation like that. Great work, Commander."
+SpokenText="A moral com certeza será alta após uma operação como essa. Ótimo trabalho, Comandante."
 
 [S_Support_Great_Mission_Central_04 AkEvent]
-SpokenText="Impressive work, Commander - the aliens are probably still wondering what hit 'em."
+SpokenText="Trabalho impressionante, Comandante - os alienígenas provavelmente ainda estão se perguntando o que os atingiu."
 
 [S_Support_Great_Mission_Central_05 AkEvent]
-SpokenText="We really put a hurt on the aliens this time, Commander. They won't forget it."
+SpokenText="Nós realmente demos uma surra nos alienígenas desta vez, Comandante. Eles não vão esquecer disso."
 
 [S_Support_Great_Mission_Central_06 AkEvent]
-SpokenText="One by one, we're evening up the score, Commander. Good work out there."
+SpokenText="Um de cada vez, estamos nivelando o campo, Comandante. Bom trabalho lá fora."
 
 [S_Support_Great_Mission_Central_07 AkEvent]
-SpokenText="Our troops are makin' it look easy out there, Commander, all thanks to you."
+SpokenText="Nossas tropas estão fazendo parecer fácil lá fora, Comandante, tudo graças a você."
 
 [S_Support_Great_Mission_Central_08 AkEvent]
-SpokenText="Good work out there, Commander - we're one step closer to taking back our planet."
+SpokenText="Bom trabalho lá fora, Comandante - estamos um passo mais perto de retomar nosso planeta."
 
 [S_Support_Great_Mission_Central_09 AkEvent]
-SpokenText="I can't imagine the aliens are too happy about this one, Commander. Helluva job."
+SpokenText="Não consigo imaginar que os alienígenas estão muito felizes com isso, Comandante. Trabalho excelente."
 
 [S_Support_Great_Mission_Central_10 AkEvent]
-SpokenText="We're taking ADVENT apart, one mission at a time, Commander. Impressive work."
+SpokenText="Estamos desmontando a ADVENT, uma missão de cada vez, Comandante. Trabalho impressionante."
 
 [S_Support_Multiple_Mission_Sites_Available_Central AkEvent]
-SpokenText="Commander, with the number of contacts we've established, we're getting requests for support from multiple sites around the world. Unfortunately, we only have the resources to respond to one of them. The decision is yours."
+SpokenText="Comandante, com o número de contatos que estabelecemos, estamos recebendo pedidos de apoio de vários locais ao redor do mundo. Infelizmente, só temos recursos para responder a um deles. A decisão é sua."
 
 [S_Support_No_Supply_Income_Central AkEvent]
-SpokenText="Commander, we currently have no new supplies coming in, we'll need to seek out new means of replenishing our resources."
+SpokenText="Comandante, atualmente não temos novos suprimentos chegando, precisamos encontrar novas formas de reabastecer nossos recursos."
 
 [S_Support_Region_High_Alert_Central_01 AkEvent]
-SpokenText="Commander, ADVENT is on high alert in this area, there's no way we can follow-up on that operation now; the coordinates have been cleared."
+SpokenText="Comandante, a ADVENT está em alerta máximo nesta área, não há como prosseguirmos com essa operação agora; as coordenadas foram desativadas."
 
 [S_Support_Reminder_Alien_Facilities_Constructed_Central_01 AkEvent]
-SpokenText="Commander, the aliens aren't slowing down. They've already got multiple facilities operating across the globe - we're running out of time."
+SpokenText="Comandante, os alienígenas não estão desacelerando. Eles já têm várias instalações operando em todo o globo - estamos ficando sem tempo."
 
 [S_Support_Reminder_Make_Contact_Central_01 AkEvent]
-SpokenText="Commander, we've got local resistance forces waiting to make contact - but we'll have to make the first move."
+SpokenText="Comandante, temos forças locais da resistência esperando para estabelecer contato - mas teremos que dar o primeiro passo."
 
 [S_Support_Reminder_Need_More_Intel_Central_01 AkEvent]
-SpokenText="Commander, as of right now, we don't have enough Intel to get a solid bearing on the local resistance forces in that area."
+SpokenText="Comandante, no momento, não temos inteligência suficiente para ter uma noção clara das forças locais da resistência naquela área."
 
 [S_Support_Soldier_Shaken_Central AkEvent]
-SpokenText="Commander, the ongoing stress of combat can shake up even the best of our soldiers. As long as we keep 'em healthy, I'm sure they'll recover given time."
+SpokenText="Comandante, o estresse contínuo do combate pode abalar até os melhores de nossos soldados. Contanto que os mantenhamos saudáveis, tenho certeza de que se recuperarão com o tempo."
 
 [S_Support_Squad_Select_Wounded_Soldiers_Central AkEvent]
-SpokenText="Commander, we can't afford to let this operation get away from us, even if it means sending our wounded forces back into combat. We have to succeed, at all costs."
+SpokenText="Comandante, não podemos nos dar ao luxo de deixar essa operação escapar de nossas mãos, mesmo que signifique enviar nossas forças feridas de
+
+ volta ao combate. Temos que ter sucesso, a qualquer custo."
 
 [S_Support_Tough_Mission_Central_01 AkEvent]
-SpokenText="There has to be more we can do, we can't afford too many more operations like that."
+SpokenText="Deve haver mais que possamos fazer, não podemos nos dar ao luxo de ter muitas operações como essa."
 
 [S_Support_Tough_Mission_Central_02 AkEvent]
-SpokenText="This one was ugly, Commander. Losses like that cost us more than just manpower."
+SpokenText="Essa foi feia, Comandante. Perdas como essa custam mais do que apenas mão de obra."
 
 [S_Support_Tough_Mission_Central_03 AkEvent]
-SpokenText="It'll be tough for the crew to move past this, Commander. We'll have to work harder in the future."
+SpokenText="Será difícil para a equipe superar isso, Comandante. Teremos que trabalhar mais duro no futuro."
 
 [S_Support_Tough_Mission_Central_04 AkEvent]
-SpokenText="We took some heavy losses out there, Commander. We need to make sure this doesn't happen again."
+SpokenText="Tivemos muitas baixas lá fora, Comandante. Precisamos garantir que isso não aconteça novamente."
 
 [S_Support_Tough_Mission_Central_05 AkEvent]
-SpokenText="That didn't go so well, Commander. We need to assess our tactics, upgrade our gear - whatever it takes."
+SpokenText="Aquilo não correu bem, Comandante. Precisamos avaliar nossas táticas, melhorar nosso equipamento - seja o que for preciso."
 
 [S_Support_UFO_Inbound_Evasive_Maneuvers_Central AkEvent]
-SpokenText="Commander! That UFO contact has us locked in! We have to take evasive maneuvers! "
+SpokenText="Comandante! Aquele contato de OVNI nos prendeu! Temos que tomar manobras evasivas!"
 
 [S_Support_UFO_Inbound_Now_Hunting_Central AkEvent]
-SpokenText="Commander, remote reconnaissance indicates the aliens have a UFO hunting for our position. We need to be careful about where pick our flight paths."
+SpokenText="Comandante, a reconhecimento remoto indica que os alienígenas têm um OVNI caçando nossa posição. Precisamos ter cuidado com os caminhos de voo que escolhemos."
 
 [S_Support_UFO_Inbound_Shot_Down_Central AkEvent]
-SpokenText="We're going down, Commander! UFO contact has disabled our systems! Brace yourselves! "
+SpokenText="Estamos caindo, Comandante! O contato do OVNI desativou nossos sistemas! Preparem-se!"
 
 [S_Support_UFO_Inbound_UFO_Evaded_Central AkEvent]
-SpokenText="We're in the clear, Commander. No further sign of the pursuing UFO."
+SpokenText="Estamos limpos, Comandante. Não há mais sinal do OVNI perseguindo-nos."
 
 [S_Victory_Central_01 AkEvent]
-SpokenText="I'd say that was worth the trip."
+SpokenText="Diria que valeu a pena o esforço."
 
 [S_Victory_Central_02 AkEvent]
-SpokenText="You heard her people, MOVE!"
+SpokenText="Vocês ouviram, pessoal, AJAM!"
 
 [S_Victory_Central_03 AkEvent]
-SpokenText="Shen, tell me you've got a Plan B here."
+SpokenText="Shen, me diga que você tem um Plano B aqui."
 
 [S_Victory_Central_04 AkEvent]
-SpokenText="That was fast...nice work."
+SpokenText="Isso foi rápido... bom trabalho."
 
 [S_Victory_Central_05 AkEvent]
-SpokenText="Commander, whatever it is your doing, its working. Just make sure to save enough juice for your own trip home."
+SpokenText="Comandante, o que quer que você esteja fazendo, está funcionando. Apenas certifique-se de salvar energia suficiente para sua própria viagem de volta."
 
 [S_Victory_Central_06 AkEvent]
-SpokenText="Commander! You okay! We just lost-"
+SpokenText="Comandante! Você está bem! Acabamos de perder-"
 
 [S_Victory_Central_07 AkEvent]
-SpokenText="What the hell is happening here Doctor!"
+SpokenText="Que diabos está acontecendo aqui, Doutora!"
 
 [S_Victory_Central_08 AkEvent]
-SpokenText="Then sever the connection!"
+SpokenText="Então, corte a conexão!"
 
 [S_Victory_Central_09 AkEvent]
-SpokenText="Mission accomplished, Commander."
+SpokenText="Missão cumprida, Comandante."
 
 [S_Welcome_HQ_Central_01_Setup_Phase AkEvent]
-SpokenText="I heard you Shen. When we get the thing, you'll be the first to know."
+SpokenText="Eu ouvi você, Shen. Quando conseguirmos essa coisa, você será a primeira a saber."
 
 [S_Welcome_HQ_Central_02_Setup_Phase AkEvent]
-SpokenText="Commander. Give me a second."
+SpokenText="Comandante. Me dê um segundo."
 
 [S_Welcome_HQ_Central_03_Setup_Phase AkEvent]
-SpokenText="Execute Echelon Protocol!"
+SpokenText="Execute o Protocolo Echelon!"
 
 [S_Welcome_HQ_Central_04_Setup_Phase AkEvent]
-SpokenText="I had wanted that to be a little more ceremonious, but we've got something."
+SpokenText="Eu queria que fosse um pouco mais cerimonioso, mas temos algo."
 
 [S_Welcome_HQ_Central_05_Setup_Phase AkEvent]
-SpokenText="Shen's been ridin' us for months now to find this "hybrid magnetic power converter" thing."
+SpokenText="Shen tem nos pressionado por meses para encontrar esse tal "conversor magnético híbrido"."
 
 [S_Welcome_HQ_Central_06_Setup_Phase AkEvent]
-SpokenText="ADVENT finally has one we can get at, though I doubt they'll be in the mood to give it up. If we can bring this "converter" back in one piece, we might actually get this place up and running. Not to mention get Shen off my back for a few days."
+SpokenText="A ADVENT finalmente tem um que podemos pegar, embora duvide que estejam dispostos a abrir mão dele. Se conseguirmos trazer este "conversor" de volta inteiro, podemos realmente fazer este lugar funcionar. Sem mencionar tirar Shen das minhas costas por alguns dias."
 
 [S_Welcome_HQ_Central_07_Setup_Phase AkEvent]
-SpokenText="A squad is prepped and ready to launch on your order, Commander. Just give the word."
+SpokenText="Um esquadrão está preparado e pronto para partir sob suas ordens, Comandante. Basta dar a palavra."
 
 [S_Welcome_HQ_NS_Central_01 AkEvent]
-SpokenText="Commander, good to see you on your feet again. Welcome to the Bridge. The nerve center of our operation."
+SpokenText="Comandante, é bom vê-lo de pé novamente. Bem-vindo à Ponte. O centro nervoso de nossa operação."
 
 [S_Welcome_HQ_NS_Central_02 AkEvent]
-SpokenText="The aliens have our entire world in their grip. ADVENT controls everything - government, communications, industry, not to mention the military. And it's on us to take it all back."
+SpokenText="Os alienígenas têm todo o nosso mundo em suas mãos. A ADVENT controla tudo - governo, comunicações, indústria, sem mencionar o exército. E cabe a nós recuperar tudo isso."
 
 [S_Welcome_HQ_NS_Central_03 AkEvent]
-SpokenText="Resources and time are tight Commander. It will be up to you to decide how to best use both. The ship is yours."
+SpokenText="Recursos e tempo são escassos, Comandante. Caberá a você decidir como melhor usá-los. A nave é sua."
 
 [S_Welcome_Resistance_Incoming_Trans_Central AkEvent]
-SpokenText="Commander, we have a secure transmission coming through, source unknown. Patching it through to your quarters."
+SpokenText="Comandante, temos uma transmissão segura chegando, fonte desconhecida. Encaminhando-a para seus aposentos."
 
 [S_Wild_Central_01 AkEvent]
-SpokenText="Incoming message for you Commander. Patching it through to your quarters now."
+SpokenText="Mensagem recebida para você, Comandante. Encaminhando-a para seus aposentos agora."
 
 [S_Wild_Central_02 AkEvent]
-SpokenText="Got an urgent communication coming in for you now Commander."
+SpokenText="Recebendo uma comunicação urgente para você agora, Comandante."
 
 [S_Wild_Central_03 AkEvent]
-SpokenText="Priority message coming through Commander, putting it on screen now."
+SpokenText="Mensagem prioritária chegando, Comandante, colocando-a na tela agora."
 
 [S_Wild_Central_04 AkEvent]
-SpokenText="Looks like we better get started Commander. I'll be on the bridge when you're ready."
+SpokenText="Parece que é melhor começarmos, Comandante. Estarei na Ponte quando você estiver pronto."
 
 [S_Wild_Central_05 AkEvent]
-SpokenText="Yes!"
+SpokenText="Sim!"
 
 [S_Wild_Central_06 AkEvent]
-SpokenText="We're ready to start making moves Commander. I think it's about time we see what this thing can do."
+SpokenText="Estamos prontos para começar a agir, Comandante. Acho que já está na hora de ver o que essa coisa pode fazer."
 
 [S_Wild_Central_07 AkEvent]
-SpokenText="Got a lead on this "Hybrid Magnetic Power Convertor" thing that Shens been pushing us to find."
+SpokenText="Conseguimos uma pista sobre esse "Conversor Magnético Híbrido" que a Shen está nos pressionando para encontrar."
 
 [S_Wild_Central_08 AkEvent]
-SpokenText="Local reconnaissance has tracked the device to an ADVENT convoy nearby. They're within range, but won't be for much longer."
+SpokenText="A reconhecimento local rastreou o dispositivo até um comboio da ADVENT nas proximidades. Eles estão ao alcance, mas não por muito tempo."
 
 [S_Wild_Central_09 AkEvent]
-SpokenText="Local Comms have gone dark. Not sure exactly what went down there, but I'm guessing it's not good. These people bought us the time we need, we'd better make it count."
+SpokenText="As comunicações locais ficaram inativas. Não temos certeza do que aconteceu lá, mas imagino que não seja bom. Essas pessoas nos deram o tempo que precisamos, é melhor aproveitarmos."
 
 [S_Wild_Central_10 AkEvent]
-SpokenText="Commander, detecting heavy fire near the convoy's last position. Accessing remote surveillance now."
+SpokenText="Comandante, detectando fogo pesado perto da última posição do comboio. Acessando vigilância remota agora."
 
 [S_Wild_Central_11 AkEvent]
-SpokenText="Getting reports that the convoy is making a break from its position. Local forces are preparing to engage..."
+SpokenText="Recebendo relatos de que o comboio está saindo de sua posição. As forças locais estão se preparando para enfrentá-los..."
 
 [S_Wild_Central_12 AkEvent]
-SpokenText="Dammit!"
+SpokenText="Maldição!"
 
 [S_Wounded_Soldiers_Can_Go_Central AkEvent]
-SpokenText="Commander, we can deploy some of our wounded troops back into combat if you feel it's necessary. This operation is critical to our efforts, we may not have much of a choice if we want to proceed."
+SpokenText="Comandante, podemos enviar de volta ao combate alguns de nossos soldados feridos se você achar necessário. Esta operação é crucial para nossos esforços, talvez não tenhamos muita escolha se quisermos prosseguir."
 
 [Strategy_New_Objective_Generic_Central_A AkEvent]
-SpokenText="It looks like we've got our work cut out for us, Commander. "
+SpokenText="Parece que temos trabalho pela frente, Comandante."
 
 [Strategy_New_Objective_Generic_Central_B AkEvent]
-SpokenText="I've updated our latest operational objectives, Commander. "
+SpokenText="Atualizei nossos últimos objetivos operacionais, Comandante."
 
 [Strategy_New_Objective_Generic_Central_C AkEvent]
-SpokenText="We're making progress, Commander. I've updated our objectives based on our latest findings. "
+SpokenText="Estamos progredindo, Comandante. Atualizei nossos objetivos com base nas últimas descobertas."
 
 [Strategy_New_Objective_Generic_Central_D AkEvent]
-SpokenText="I'm keeping tabs on all of our operations, Commander. Our people are standing by for your orders. "
+SpokenText="Estou acompanhando todas as nossas operações, Comandante. Nossa equipe está pronta para suas ordens."
 
 [Strategy_New_Objective_Generic_Central_E AkEvent]
-SpokenText="We're ready to move when you are, Commander. I've updated our objectives based on the latest information. "
+SpokenText="Estamos prontos para avançar quando você estiver, Comandante. Atualizei nossos objetivos com base nas informações mais recentes."
 
 [Strategy_New_Objective_Generic_Central_F AkEvent]
-SpokenText="Commander, I've updated our current objectives based on the most recent findings. "
+SpokenText="Comandante, atualizei nossos objetivos atuais com base nas descobertas mais recentes."
 

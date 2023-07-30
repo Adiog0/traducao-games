@@ -1,501 +1,501 @@
 [S_Avenger_AI_Power_Red AkEvent]
-SpokenText="Maximum power consumption reached."
+SpokenText="Consumo máximo de energia atingido."
 
 [S_Avenger_Attack_ShipAI_01_Setup_Phase AkEvent]
-SpokenText="EMERGENCY POWER ONLINE"
+SpokenText="EMERGÊNCIA: ENERGIA ATIVADA"
 
 [S_AvengerAI_Advanced_Warfare_Center_construction_initiated AkEvent]
-SpokenText="Advanced Warfare Center construction initiated."
+SpokenText="Iniciada a construção do Centro de Guerra Avançado."
 
 [S_AvengerAI_Advanced_Warfare_Center_now_operational AkEvent]
-SpokenText="Advanced Warfare Center now operational."
+SpokenText="Centro de Guerra Avançado agora operacional."
 
 [S_AvengerAI_Advanced_Warfare_Center_upgraded AkEvent]
-SpokenText="Advanced Warfare Center upgraded."
+SpokenText="Centro de Guerra Avançado atualizado."
 
 [S_AvengerAI_CommanderSummons_Armory AkEvent]
-SpokenText="Commander to the Armory."
+SpokenText="Comandante, dirija-se ao Arsenal."
 
 [S_AvengerAI_CommanderSummons_Bridge AkEvent]
-SpokenText="Commander to the Bridge. "
+SpokenText="Comandante, dirija-se à Ponte."
 
 [S_AvengerAI_CommanderSummons_CrewQuarters AkEvent]
-SpokenText="Commander to Crew Quarters."
+SpokenText="Comandante, dirija-se aos Alojamentos."
 
 [S_AvengerAI_CommanderSummons_Engineering AkEvent]
-SpokenText="Commander to Engineering."
+SpokenText="Comandante, dirija-se à Engenharia."
 
 [S_AvengerAI_CommanderSummons_FlightDeck AkEvent]
-SpokenText="Commander to Flight Deck."
+SpokenText="Comandante, dirija-se ao Convés de Voo."
 
 [S_AvengerAI_CommanderSummons_Hangar AkEvent]
-SpokenText="Commander to the Hangar."
+SpokenText="Comandante, dirija-se ao Hangar."
 
 [S_AvengerAI_CommanderSummons_Ops AkEvent]
-SpokenText="Commander to Ops"
+SpokenText="Comandante, dirija-se ao Centro de Operações."
 
 [S_AvengerAI_CommanderSummons_ResearchLab AkEvent]
-SpokenText="Commander to the Research Labs"
+SpokenText="Comandante, dirija-se aos Laboratórios de Pesquisa."
 
 [S_AvengerAI_CommanderSummons_ShadowChamber AkEvent]
-SpokenText="Commander to the Shadow Chamber."
+SpokenText="Comandante, dirija-se à Câmara das Sombras."
 
 [S_AvengerAI_FacilityCompletion_Laboratory AkEvent]
-SpokenText="Laboratory facility operational."
+SpokenText="Laboratório operacional."
 
 [S_AvengerAI_FacilityCompletion_ProvingGrounds AkEvent]
-SpokenText="Proving Grounds facility now operational. "
+SpokenText="Campo de Testes operacional."
 
 [S_AvengerAI_FacilityCompletion_PsiLab AkEvent]
-SpokenText="Psi Lab now operational."
+SpokenText="Laboratório Psíquico agora operacional."
 
 [S_AvengerAI_FacilityCompletion_ResistanceComm AkEvent]
-SpokenText="Resistance Communications facility now operational. "
+SpokenText="Comunicações da Resistência agora operacionais."
 
 [S_AvengerAI_FacilityCompletion_SecurityStation AkEvent]
-SpokenText="Security station facility operational."
+SpokenText="Estação de Segurança agora operacional."
 
 [S_AvengerAI_FacilityCompletion_TacticsSchool AkEvent]
-SpokenText="Guerilla Tactics School now operational. "
+SpokenText="Escola de Táticas Guerrilheiras agora operacional."
 
 [S_AvengerAI_FacilityCompletion_UFODefenseArray AkEvent]
-SpokenText="UFO Defense Array  now operational."
+SpokenText="Matriz de Defesa UFO agora operacional."
 
 [S_AvengerAI_FacilityCompletion_Workshop AkEvent]
-SpokenText="Workshop facility operational."
+SpokenText="Oficina agora operacional."
 
 [S_AvengerAI_FacilityUpgrade_DefenseArray AkEvent]
-SpokenText="UFO Defense Array upgraded."
+SpokenText="Matriz de Defesa UFO atualizada."
 
 [S_AvengerAI_FacilityUpgrade_Labratory AkEvent]
-SpokenText="Laboratory facility upgraded."
+SpokenText="Laboratório atualizado."
 
 [S_AvengerAI_FacilityUpgrade_PsiLab AkEvent]
-SpokenText="Psi Lab upgraded."
+SpokenText="Laboratório Psíquico atualizado."
 
 [S_AvengerAI_FacilityUpgrade_ResistanceComm AkEvent]
-SpokenText="Resistance Communications facility upgraded."
+SpokenText="Comunicações da Resistência atualizadas."
 
 [S_AvengerAI_FacilityUpgrade_SecurityStation AkEvent]
-SpokenText="Security Station upgraded."
+SpokenText="Estação de Segurança atualizada."
 
 [S_AvengerAI_FacilityUpgrade_TacticsSchool AkEvent]
-SpokenText="Guerilla Tactics School facility upgraded. "
+SpokenText="Escola de Táticas Guerrilheiras atualizada."
 
 [S_AvengerAI_FacilityUpgrade_Workshop AkEvent]
-SpokenText="Workshop facility upgraded."
+SpokenText="Oficina atualizada."
 
 [S_AvengerAI_MissionLocated AkEvent]
-SpokenText="Tactical mission site located."
+SpokenText="Localizada a área da missão tática."
 
 [S_AvengerAI_Nag_BuildDefense AkEvent]
-SpokenText="Defense Array construction initiated"
+SpokenText="Iniciada construção da Matriz de Defesa."
 
 [S_AvengerAI_Nag_BuildEngineControl AkEvent]
-SpokenText="Engine Control Center construction initiated"
+SpokenText="Iniciada construção do Centro de Controle de Motores."
 
 [S_AvengerAI_Nag_BuildInfirmary AkEvent]
-SpokenText="Infirmary construction initiated"
+SpokenText="Iniciada construção da Enfermaria."
 
 [S_AvengerAI_Nag_BuildLab AkEvent]
-SpokenText="Laboratory construction initiated"
+SpokenText="Iniciada construção do Laboratório."
 
 [S_AvengerAI_Nag_BuildPsiLab AkEvent]
-SpokenText="Psy Lab construction initiated"
+SpokenText="Iniciada construção do Laboratório Psíquico."
 
 [S_AvengerAI_Nag_BuildRepair AkEvent]
-SpokenText="Repair center construction initiated"
+SpokenText="Iniciada construção do Centro de Reparos."
 
 [S_AvengerAI_Nag_BuildSecurity AkEvent]
-SpokenText="Security Station construction initiated"
+SpokenText="Iniciada construção da Estação de Segurança."
 
 [S_AvengerAI_Nag_BuildWorkshop AkEvent]
-SpokenText="Workshop construction initiated"
+SpokenText="Iniciada construção da Oficina."
 
 [S_AvengerAI_Nag_EquipMedkit_S AkEvent]
-SpokenText="Don't forget to equip the Med Kit we assembled, commander"
+SpokenText="Não esqueça de equipar o Kit Médico que montamos, comandante."
 
 [S_AvengerAI_Nag_IncTransmission AkEvent]
-SpokenText="Incoming Transmission"
+SpokenText="Transmissão recebida."
 
 [S_AvengerAI_Nag_NewSchematic AkEvent]
-SpokenText="New schematic available"
+SpokenText="Novo esquema disponível."
 
 [S_AvengerAI_Nag_ProvingGrounds AkEvent]
-SpokenText="Proving Grounds facility construction initiated. "
+SpokenText="Iniciada construção do Centro de Testes."
 
 [S_AvengerAI_Nag_ResistanceComm AkEvent]
-SpokenText="Resistance Communications facility construction initiated "
+SpokenText="Iniciada construção das Comunicações da Resistência."
 
 [S_AvengerAI_Nag_ResistanceOpsActive AkEvent]
-SpokenText="Resistance Ops active"
+SpokenText="Operações da Resistência ativas."
 
 [S_AvengerAI_Nag_ShadowChamber AkEvent]
-SpokenText="Shadow Chamber construction initiated"
+SpokenText="Iniciada construção da Câmara das Sombras."
 
 [S_AvengerAI_Nag_TacticsSchool AkEvent]
-SpokenText="Guerilla Tactics School construction initiated."
+SpokenText="Iniciada construção da Escola de Táticas Guerrilheiras."
 
 [S_AvengerAI_ObjectiveAdded AkEvent]
-SpokenText="New objective added"
+SpokenText="Novo objetivo adicionado."
 
 [S_AvengerAI_ObjectiveComplete AkEvent]
-SpokenText="Objective complete"
+SpokenText="Objetivo concluído."
 
 [S_AvengerAI_ObjectivesAdded AkEvent]
-SpokenText="New objectives added"
+SpokenText="Novos objetivos adicionados."
 
 [S_AvengerAI_PersonnelAvailable AkEvent]
-SpokenText="Personnel selection Available."
+SpokenText="Seleção de pessoal disponível."
 
 [S_AvengerAI_Power_Relay_construction_initiated AkEvent]
-SpokenText="Power Relay construction initiated."
+SpokenText="Iniciada construção do Relé de Energia."
 
 [S_AvengerAI_Power_Relay_now_operational AkEvent]
-SpokenText="Power Relay now operational."
+SpokenText="Relé de Energia agora operacional."
 
 [S_AvengerAI_Power_Relay_upgraded AkEvent]
-SpokenText="Power Relay upgraded."
+SpokenText="Relé de Energia atualizado."
 
 [S_AvengerAI_ResourceLocated AkEvent]
-SpokenText="Strategic resource located. "
+SpokenText="Recurso estratégico localizado."
 
 [S_AvengerAI_SetACourse AkEvent]
-SpokenText="Avenger plotting new course."
+SpokenText="Avenger traçando uma nova rota."
 
 [S_AvengerAI_Shadow_Chamber_Upgraded AkEvent]
-SpokenText="Shadow Chamber Upgraded."
+SpokenText="Câmara das Sombras atualizada."
 
 [S_AvengerAI_ShadowChamber_Complete AkEvent]
-SpokenText="Shadow Chamber now operational."
+SpokenText="Câmara das Sombras agora operacional."
 
 [S_AvengerAI_SkyrangerDeployed AkEvent]
-SpokenText="Skyranger deployed."
+SpokenText="Skyranger implantada."
 
 [S_AvengerAI_SkyrangerFlyover AkEvent]
-SpokenText="Skyranger conducting flyover."
+SpokenText="Skyranger realizando sobrevoo."
 
 [S_AvengerAI_SkyrangerRecalled AkEvent]
-SpokenText="Skyranger recall confirmed."
+SpokenText="Confirmação de recolhimento da Skyranger."
 
 [S_Establishing_Outpost_Experimental_AvengerAI_01 AkEvent]
-SpokenText="New outpost under construction in the Arctic Territories."
+SpokenText="Novo posto avançado em construção nos Territórios Árticos."
 
 [S_Establishing_Outpost_Experimental_AvengerAI_02 AkEvent]
-SpokenText="New outpost under construction in the Australian Sector. "
+SpokenText="Novo posto avançado em construção no Setor Australiano."
 
 [S_Establishing_Outpost_Experimental_AvengerAI_03 AkEvent]
-SpokenText="New outpost under construction in the Brazilian Corridor."
+SpokenText="Novo posto avançado em construção no Corredor Brasileiro."
 
 [S_Establishing_Outpost_Experimental_AvengerAI_04 AkEvent]
-SpokenText="New outpost under construction in the Chilean Control District."
+SpokenText="Novo posto avançado em construção no Distrito de Controle Chileno."
 
 [S_Establishing_Outpost_Experimental_AvengerAI_05 AkEvent]
-SpokenText="New outpost under construction in the Indian Regional Zone."
+SpokenText="Novo posto avançado em construção na Zona Regional Indiana."
 
 [S_Establishing_Outpost_Experimental_AvengerAI_06 AkEvent]
-SpokenText="New outpost under construction in the Eastern European Ward."
+SpokenText="Novo posto avançado em construção na Ala Oriental Europeia."
 
 [S_Establishing_Outpost_Experimental_AvengerAI_07 AkEvent]
-SpokenText="New outpost under construction in the Western European Ward. "
+SpokenText="Novo posto avançado em construção na Ala Ocidental Europeia."
 
 [S_Establishing_Outpost_Experimental_AvengerAI_08 AkEvent]
-SpokenText="New outpost under construction in the Mexican Regional Tract. "
+SpokenText="Novo posto avançado em construção no Trecho Regional Mexicano."
 
 [S_Establishing_Outpost_Experimental_AvengerAI_09 AkEvent]
-SpokenText="New outpost under construction in the Western U.S. Precinct. "
+SpokenText="Novo posto avançado em construção no Precinto Oeste dos EUA."
 
 [S_Establishing_Outpost_Experimental_AvengerAI_10 AkEvent]
-SpokenText="New outpost under construction in the Eastern U.S. Precinct. "
+SpokenText="Novo posto avançado em construção no Precinto Leste dos EUA."
 
 [S_Establishing_Outpost_Experimental_AvengerAI_11 AkEvent]
-SpokenText="New outpost under construction in the North African Sector. "
+SpokenText="Novo posto avançado em construção no Setor Norte Africano."
 
 [S_Establishing_Outpost_Experimental_AvengerAI_12 AkEvent]
-SpokenText="New outpost under construction in the East African Sector."
+SpokenText="Novo posto avançado em construção no Setor Leste Africano."
 
 [S_Establishing_Outpost_Experimental_AvengerAI_13 AkEvent]
-SpokenText="New outpost under construction in the South African Sector."
+SpokenText="Novo posto avançado em construção no Setor Sul Africano."
 
 [S_Establishing_Outpost_Experimental_AvengerAI_14 AkEvent]
-SpokenText="New outpost under construction in the East Asian Corridor."
+SpokenText="Novo posto avançado em construção no Corredor Asiático Oriental."
 
 [S_Establishing_Outpost_Experimental_AvengerAI_15 AkEvent]
-SpokenText="New outpost under construction in the South Asian Corridor."
+SpokenText="Novo posto avançado em construção no Corredor Asiático Sul."
 
 [S_Establishing_Outpost_Experimental_AvengerAI_16 AkEvent]
-SpokenText="New outpost under construction in the Indonesian Zone. "
+SpokenText="Novo posto avançado em construção na Zona Indonésia."
 
 [S_Establishing_Outpost_Regions_AvengerAI_01 AkEvent]
-SpokenText="New outpost under construction in the Arctic"
+SpokenText="Novo posto avançado em construção no Ártico."
 
 [S_Establishing_Outpost_Regions_AvengerAI_02 AkEvent]
-SpokenText="New outpost under construction in Australia "
+SpokenText="Novo posto avançado em construção na Austrália."
 
 [S_Establishing_Outpost_Regions_AvengerAI_03 AkEvent]
-SpokenText="New outpost under construction in Brazil"
+SpokenText="Novo posto avançado em construção no Brasil."
 
 [S_Establishing_Outpost_Regions_AvengerAI_04 AkEvent]
-SpokenText="New outpost under construction in Chile"
+SpokenText="Novo posto avançado em construção no Chile."
 
 [S_Establishing_Outpost_Regions_AvengerAI_05 AkEvent]
-SpokenText="New outpost under construction in India"
+SpokenText="Novo posto avançado em construção na Índia."
 
 [S_Establishing_Outpost_Regions_AvengerAI_06 AkEvent]
-SpokenText="New outpost under construction in Eastern Europe"
+SpokenText="Novo posto avançado em construção na Europa Oriental."
 
 [S_Establishing_Outpost_Regions_AvengerAI_07 AkEvent]
-SpokenText="New outpost under construction in Western Europe"
+SpokenText="Novo posto avançado em construção na Europa Ocidental."
 
 [S_Establishing_Outpost_Regions_AvengerAI_08 AkEvent]
-SpokenText="New outpost under construction in Mexico"
+SpokenText="Novo posto avançado em construção no México."
 
 [S_Establishing_Outpost_Regions_AvengerAI_09 AkEvent]
-SpokenText="New outpost under construction in Western United States"
+SpokenText="Novo posto avançado em construção no Oeste dos Estados Unidos."
 
 [S_Establishing_Outpost_Regions_AvengerAI_10 AkEvent]
-SpokenText="New outpost under construction in Eastern United States"
+SpokenText="Novo posto avançado em construção no Leste dos Estados Unidos."
 
 [S_Establishing_Outpost_Regions_AvengerAI_11 AkEvent]
-SpokenText="New outpost under construction in North Africa"
+SpokenText="Novo posto avançado em construção no Norte da África."
 
 [S_Establishing_Outpost_Regions_AvengerAI_12 AkEvent]
-SpokenText="New outpost under construction in East Africa"
+SpokenText="Novo posto avançado em construção no Leste da África."
 
 [S_Establishing_Outpost_Regions_AvengerAI_13 AkEvent]
-SpokenText="New outpost under construction in South Africa"
+SpokenText="Novo posto avançado em construção no Sul da África."
 
 [S_Establishing_Outpost_Regions_AvengerAI_14 AkEvent]
-SpokenText="New outpost under construction in East Asia."
+SpokenText="Novo posto avançado em construção no Leste da Ásia."
 
 [S_Establishing_Outpost_Regions_AvengerAI_15 AkEvent]
-SpokenText="New outpost under construction in West Asia."
+SpokenText="Novo posto avançado em construção no Oeste da Ásia."
 
 [S_Establishing_Outpost_Regions_AvengerAI_16 AkEvent]
-SpokenText="New outpost under construction in Indonesia."
+SpokenText="Novo posto avançado em construção na Indonésia."
 
 [S_Establishing_Outpost_Sectors_AvengerAI_01 AkEvent]
-SpokenText="New outpost under construction in Sector One: the Arctic"
+SpokenText="Novo posto avançado em construção no Setor Um: o Ártico."
 
 [S_Establishing_Outpost_Sectors_AvengerAI_02 AkEvent]
-SpokenText="New outpost under construction in Sector Two: Australia "
+SpokenText="Novo posto avançado em construção no Setor Dois: Austrália."
 
 [S_Establishing_Outpost_Sectors_AvengerAI_03 AkEvent]
-SpokenText="New outpost under construction in Sector Three: Brazil"
+SpokenText="Novo posto avançado em construção no Setor Três: Brasil."
 
 [S_Establishing_Outpost_Sectors_AvengerAI_04 AkEvent]
-SpokenText="New outpost under construction in Sector Four: Chile"
+SpokenText="Novo posto avançado em construção no Setor Quatro: Chile."
 
 [S_Establishing_Outpost_Sectors_AvengerAI_05 AkEvent]
-SpokenText="New outpost under construction in Sector Five: India"
+SpokenText="Novo posto avançado em construção no Setor Cinco: Índia."
 
 [S_Establishing_Outpost_Sectors_AvengerAI_06 AkEvent]
-SpokenText="New outpost under construction in Sector Six: Eastern Europe"
+SpokenText="Novo posto avançado em construção no Setor Seis: Europa Oriental."
 
 [S_Establishing_Outpost_Sectors_AvengerAI_07 AkEvent]
-SpokenText="New outpost under construction in Sector Seven: Western Europe"
+SpokenText="Novo posto avançado em construção no Setor Sete: Europa Ocidental."
 
 [S_Establishing_Outpost_Sectors_AvengerAI_08 AkEvent]
-SpokenText="New outpost under construction in Sector Eight: Mexico"
+SpokenText="Novo posto avançado em construção no Setor Oito: México."
 
 [S_Establishing_Outpost_Sectors_AvengerAI_09 AkEvent]
-SpokenText="New outpost under construction in Sector Nine: Western United States"
+SpokenText="Novo posto avançado em construção no Setor Nove: Oeste dos Estados Unidos."
 
 [S_Establishing_Outpost_Sectors_AvengerAI_10 AkEvent]
-SpokenText="New outpost under construction in Sector Ten: Eastern United States"
+SpokenText="Novo posto avançado em construção no Setor Dez: Leste dos Estados Unidos."
 
 [S_Establishing_Outpost_Sectors_AvengerAI_11 AkEvent]
-SpokenText="New outpost under construction in Sector Eleven: North Africa"
+SpokenText="Novo posto avançado em construção no Setor Onze: Norte da África."
 
 [S_Establishing_Outpost_Sectors_AvengerAI_12 AkEvent]
-SpokenText="New outpost under construction in Sector Twelve: East Africa"
+SpokenText="Novo posto avançado em construção no Setor Doze: Leste da África."
 
 [S_Establishing_Outpost_Sectors_AvengerAI_13 AkEvent]
-SpokenText="New outpost under construction in Sector Thirteen: South Africa"
+SpokenText="Novo posto avançado em construção no Setor Treze: Sul da África."
 
 [S_Establishing_Outpost_Sectors_AvengerAI_14 AkEvent]
-SpokenText="New outpost under construction in Sector Fourteen: East Asia"
+SpokenText="Novo posto avançado em construção no Setor Quatorze: Leste da Ásia."
 
 [S_Establishing_Outpost_Sectors_AvengerAI_15 AkEvent]
-SpokenText="New outpost under construction in Sector Fifteen: South Asia"
+SpokenText="Novo posto avançado em construção no Setor Quinze: Sul da Ásia."
 
 [S_Establishing_Outpost_Sectors_AvengerAI_16 AkEvent]
-SpokenText="New outpost under construction in Sector Sixteen: Indonesia"
+SpokenText="Novo posto avançado em construção no Setor Dezesseis: Indonésia."
 
 [S_Retaliation_ShipAI_01_Setup_Phase AkEvent]
-SpokenText="Multiple radar contacts on approach to Haven Alpha-Seven."
+SpokenText="Múltiplos contatos de radar se aproximando de Refúgio Alfa-Sete."
 
 [S_Setting_Course_Experimental_AvengerAI_01 AkEvent]
-SpokenText="Setting course for the Arctic Territories."
+SpokenText="Traçando rota para os Territórios Árticos."
 
 [S_Setting_Course_Experimental_AvengerAI_02 AkEvent]
-SpokenText="Setting course for the Australian Sector."
+SpokenText="Traçando rota para o Setor Australiano."
 
 [S_Setting_Course_Experimental_AvengerAI_03 AkEvent]
-SpokenText="Setting course for the Brazilian Corridor."
+SpokenText="Traçando rota para o Corredor Brasileiro."
 
 [S_Setting_Course_Experimental_AvengerAI_04 AkEvent]
-SpokenText="Setting course for the Chilean Control District."
+SpokenText="Traçando rota para o Distrito de Controle Chileno."
 
 [S_Setting_Course_Experimental_AvengerAI_05 AkEvent]
-SpokenText="Setting course for the Indian Regional Zone. "
+SpokenText="Traçando rota para a Zona Regional Indiana."
 
 [S_Setting_Course_Experimental_AvengerAI_06 AkEvent]
-SpokenText="Setting course for Eastern European Ward."
+SpokenText="Traçando rota para a Ala Oriental Europeia."
 
 [S_Setting_Course_Experimental_AvengerAI_07 AkEvent]
-SpokenText="Setting course for Western Europe Ward. "
+SpokenText="Traçando rota para a Ala Ocidental Europeia."
 
 [S_Setting_Course_Experimental_AvengerAI_08 AkEvent]
-SpokenText="Setting course for the Mexican Regional Tract. "
+SpokenText="Traçando rota para o Trecho Regional Mexicano."
 
 [S_Setting_Course_Experimental_AvengerAI_09 AkEvent]
-SpokenText="Setting course for the Western U.S. precinct."
+SpokenText="Traçando rota para o Precinto Oeste dos EUA."
 
 [S_Setting_Course_Experimental_AvengerAI_10 AkEvent]
-SpokenText="Setting course for the Eastern U.S. precinct."
+SpokenText="Traçando rota para o Precinto Leste dos EUA."
 
 [S_Setting_Course_Experimental_AvengerAI_11 AkEvent]
-SpokenText="Setting course for the North African sector."
+SpokenText="Traçando rota para o Setor Norte Africano."
 
 [S_Setting_Course_Experimental_AvengerAI_12 AkEvent]
-SpokenText="Setting course for the East African sector."
+SpokenText="Traçando rota para o Setor Leste Africano."
 
 [S_Setting_Course_Experimental_AvengerAI_13 AkEvent]
-SpokenText="Setting course for South African sector."
+SpokenText="Traçando rota para o Setor Sul Africano."
 
 [S_Setting_Course_Experimental_AvengerAI_14 AkEvent]
-SpokenText="Setting course for the East Asian Corridor."
+SpokenText="Traçando rota para o Corredor Asiático Oriental."
 
 [S_Setting_Course_Experimental_AvengerAI_15 AkEvent]
-SpokenText="Setting course for the South Asian Corridor."
+SpokenText="Traçando rota para o Corredor Asiático Sul."
 
 [S_Setting_Course_Experimental_AvengerAI_16 AkEvent]
-SpokenText="Setting course for the Indonesian zone. "
+SpokenText="Traçando rota para a Zona Indonésia."
 
 [S_Setting_Course_Region_AvengerAI_01 AkEvent]
-SpokenText="Setting course for the Arctic"
+SpokenText="Traçando rota para o Ártico."
 
 [S_Setting_Course_Region_AvengerAI_02 AkEvent]
-SpokenText="Setting course for Australia "
+SpokenText="Traçando rota para a Austrália."
 
 [S_Setting_Course_Region_AvengerAI_03 AkEvent]
-SpokenText="Setting course for Brazil"
+SpokenText="Traçando rota para o Brasil."
 
 [S_Setting_Course_Region_AvengerAI_04 AkEvent]
-SpokenText="Setting course for Chile"
+SpokenText="Traçando rota para o Chile."
 
 [S_Setting_Course_Region_AvengerAI_05 AkEvent]
-SpokenText="Setting course for India"
+SpokenText="Traçando rota para a Índia."
 
 [S_Setting_Course_Region_AvengerAI_06 AkEvent]
-SpokenText="Setting course for Eastern Europe"
+SpokenText="Traçando rota para a Europa Oriental."
 
 [S_Setting_Course_Region_AvengerAI_07 AkEvent]
-SpokenText="Setting course for Western Europe"
+SpokenText="Traçando rota para a Europa Ocidental."
 
 [S_Setting_Course_Region_AvengerAI_08 AkEvent]
-SpokenText="Setting course for Mexico"
+SpokenText="Traçando rota para o México."
 
 [S_Setting_Course_Region_AvengerAI_09 AkEvent]
-SpokenText="Setting course for Western United States"
+SpokenText="Traçando rota para o Oeste dos Estados Unidos."
 
 [S_Setting_Course_Region_AvengerAI_10 AkEvent]
-SpokenText="Setting course for Eastern United States"
+SpokenText="Traçando rota para o Leste dos Estados Unidos."
 
 [S_Setting_Course_Region_AvengerAI_11 AkEvent]
-SpokenText="Setting course for North Africa"
+SpokenText="Traçando rota para o Norte da África."
 
 [S_Setting_Course_Region_AvengerAI_12 AkEvent]
-SpokenText="Setting course for East Africa"
+SpokenText="Traçando rota para o Leste da África."
 
 [S_Setting_Course_Region_AvengerAI_13 AkEvent]
-SpokenText="Setting course for South Africa"
+SpokenText="Traçando rota para o Sul da África."
 
 [S_Setting_Course_Region_AvengerAI_14 AkEvent]
-SpokenText="Setting course for East Asia"
+SpokenText="Traçando rota para o Leste da Ásia."
 
 [S_Setting_Course_Region_AvengerAI_15 AkEvent]
-SpokenText="Setting course for South Asia"
+SpokenText="Traçando rota para o Sul da Ásia."
 
 [S_Setting_Course_Region_AvengerAI_16 AkEvent]
-SpokenText="Setting course for Indonesia"
+SpokenText="Traçando rota para a Indonésia."
 
 [S_Setting_Course_Sectors_AvengerAI_01 AkEvent]
-SpokenText="Setting course for Sector One: the Arctic"
+SpokenText="Traçando rota para o Setor Um: o Ártico."
 
 [S_Setting_Course_Sectors_AvengerAI_02 AkEvent]
-SpokenText="Setting course for Sector Two: Australia "
+SpokenText="Traçando rota para o Setor Dois: Austrália."
 
 [S_Setting_Course_Sectors_AvengerAI_03 AkEvent]
-SpokenText="Setting course for Sector Three: Brazil"
+SpokenText="Traçando rota para o Setor Três: Brasil."
 
 [S_Setting_Course_Sectors_AvengerAI_04 AkEvent]
-SpokenText="Setting course for Sector Four: Chile"
+SpokenText="Traçando rota para o Setor Quatro: Chile."
 
 [S_Setting_Course_Sectors_AvengerAI_05 AkEvent]
-SpokenText="Setting course for Sector Five: India"
+SpokenText="Traçando rota para o Setor Cinco: Índia."
 
 [S_Setting_Course_Sectors_AvengerAI_06 AkEvent]
-SpokenText="Setting course for Sector Six: Eastern Europe"
+SpokenText="Traçando rota para o Setor Seis: Europa Oriental."
 
 [S_Setting_Course_Sectors_AvengerAI_07 AkEvent]
-SpokenText="Setting course for Sector Seven: Western Europe"
+SpokenText="Traçando rota para o Setor Sete: Europa Ocidental."
 
 [S_Setting_Course_Sectors_AvengerAI_08 AkEvent]
-SpokenText="Setting course for Sector Eight: Mexico"
+SpokenText="Traçando rota para o Setor Oito: México."
 
 [S_Setting_Course_Sectors_AvengerAI_09 AkEvent]
-SpokenText="Setting course for Sector Nine: Western United States"
+SpokenText="Traçando rota para o Setor Nove: Oeste dos Estados Unidos."
 
 [S_Setting_Course_Sectors_AvengerAI_10 AkEvent]
-SpokenText="Setting course for Sector Ten: Eastern United States"
+SpokenText="Traçando rota para o Setor Dez: Leste dos Estados Unidos."
 
 [S_Setting_Course_Sectors_AvengerAI_11 AkEvent]
-SpokenText="Setting course for Sector Eleven: North Africa"
+SpokenText="Traçando rota para o Setor Onze: Norte da África."
 
 [S_Setting_Course_Sectors_AvengerAI_12 AkEvent]
-SpokenText="Setting course for Sector Twelve: East Africa"
+SpokenText="Traçando rota para o Setor Doze: Leste da África."
 
 [S_Setting_Course_Sectors_AvengerAI_13 AkEvent]
-SpokenText="Setting course for Sector Thirteen: South Africa"
+SpokenText="Traçando rota para o Setor Treze: Sul da África."
 
 [S_Setting_Course_Sectors_AvengerAI_14 AkEvent]
-SpokenText="Setting course for Sector Fourteen: East Asia"
+SpokenText="Traçando rota para o Setor Quatorze: Ásia Oriental."
 
 [S_Setting_Course_Sectors_AvengerAI_15 AkEvent]
-SpokenText="Setting course for Sector Fifteen: South Asia"
+SpokenText="Traçando rota para o Setor Quinze: Ásia Sul."
 
 [S_Setting_Course_Sectors_AvengerAI_16 AkEvent]
-SpokenText="Setting course for Sector Sixteen: Indonesia"
+SpokenText="Traçando rota para o Setor Dezesseis: Indonésia."
 
 [S_Support_Establishing_Contact_AvengerAI_01 AkEvent]
-SpokenText="Attempting to establish local regional contact."
+SpokenText="Tentando estabelecer contato local regional."
 
 [S_Support_Facility_Callouts_AvengerAI_01 AkEvent]
-SpokenText="Proving Grounds Facility now operational. "
+SpokenText="Proving Grounds agora está operacional."
 
 [S_Support_Facility_Callouts_AvengerAI_02 AkEvent]
-SpokenText="Proving Grounds facility upgraded."
+SpokenText="Proving Grounds foi melhorado."
 
 [S_Support_Facility_Callouts_AvengerAI_03 AkEvent]
-SpokenText="Guerilla Tactics School now operational."
+SpokenText="Guerilla Tactics School agora está operacional."
 
 [S_Support_Facility_Callouts_AvengerAI_04 AkEvent]
-SpokenText="Guerilla Tactics School facility upgraded."
+SpokenText="Guerilla Tactics School foi melhorada."
 
 [S_Support_Region_High_Alert_AvengerAI_01 AkEvent]
-SpokenText="Tactical operation viability negated by current alert level. Site coordinates cleared. "
+SpokenText="Viabilidade da operação tática negada devido ao nível de alerta atual. Coordenadas do local liberadas."
 
 [S_Support_Regions_Available_AvengerAI_01 AkEvent]
-SpokenText="New regional contacts located. "
+SpokenText="Novos contatos regionais localizados."
 
 [S_Support_UFO_Contact_Detected_AvengerAI_01 AkEvent]
-SpokenText="Inbound UFO contact detected. "
+SpokenText="Detecção de contato com OVNI em curso."
 
 [S_Support_UFO_Contact_Lost_AvengerAI_01 AkEvent]
-SpokenText="Pursuing UFO contact lost."
+SpokenText="Contato com OVNI em perseguição foi perdido."
 
 [S_Welcome_HQ_ShipAI_01_Setup_Phase AkEvent]
-SpokenText="ATTENTION: UNAUTHORIZED PRESENCE DETECTED."
+SpokenText="ATENÇÃO: PRESENÇA NÃO AUTORIZADA DETECTADA."
 

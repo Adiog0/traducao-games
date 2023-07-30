@@ -1,3 +1,2 @@
 [TheWorld:PersistentLevel.XComInteractiveLevelActor_0 XComInteractiveLevelActor]
-FriendlyDisplayName="Security Tower"
-
+FriendlyDisplayName="Torre de Segurança"

@@ -1,114 +1,115 @@
 [TUT_1stBattleOver_02_DELTA2 SoundNodeWave]
-SpokenText="Central. I think that's it. It's over."
+SpokenText="Central. Acho que é isso. Acabou."
 
 [TUT_1stBattleOver_03_CEN SoundNodeWave]
-SpokenText="Roger that, Delta. Secure the bodies and head back to the Skyranger for immediate extraction."
+SpokenText="Entendido, Delta. Garantam os corpos e voltem para o Skyranger para extração imediata."
 
 [TUT_ConstantResearch_03_CS SoundNodeWave]
-SpokenText="Commander, with this research complete, my staff and I currently have nothing to study. I would like to ask your permission to autopsy the alien cadavers retrieved from your last two field operations... I'm sure you would agree that if we're going to defeat the aliens, we must understand their physiology."
+SpokenText="Comandante, com esta pesquisa concluída, minha equipe e eu não temos nada para estudar no momento. Gostaria de pedir sua permissão para realizar a autópsia dos corpos alienígenas recuperados em suas duas últimas operações de campo... Tenho certeza de que concordará que, se vamos derrotar os alienígenas, precisamos entender sua fisiologia."
 
 [TUT_ConstantResearch_04_CS SoundNodeWave]
-SpokenText="Thank you, Commander. I will let you know when this research has been completed."
+SpokenText="Obrigado, Comandante. Eu o informarei quando a pesquisa estiver concluída."
 
 [TUT_ConstantResearch_07_CS SoundNodeWave]
-SpokenText="Hmph. It appears Dr. Shen's staff have finally figured out how to turn their machines on."
+SpokenText="Hmph. Parece que a equipe da Dra. Shen finalmente conseguiu ligar suas máquinas."
 
 [TUT_CouncilMissions_01_CEN SoundNodeWave]
-SpokenText="Commander, the Council has requested a word."
+SpokenText="Comandante, o Conselho solicitou uma palavra."
 
 [TUT_CouncilMissions_04_CEN SoundNodeWave]
-SpokenText="Sounds like we better get to it."
+SpokenText="Parece que é melhor irmos nessa."
 
 [TUT_Dashing_01_DELTA3 SoundNodeWave]
-SpokenText="Central, I have movement.  30 meters north of my position.  Police vehicle."
+SpokenText="Central, tenho movimento. A 30 metros ao norte da minha posição. Veículo policial."
 
 [TUT_Engineering_01_CE SoundNodeWave]
-SpokenText="Ah, Commander. I was wondering when you'd be stopping by. Welcome to Engineering.  Anything they can dream up in the Research Labs, we can build it here."
+SpokenText="Ah, Comandante. Eu estava me perguntando quando você passaria por aqui. Bem-vindo à Engenharia. Tudo o que eles imaginam nos Laboratórios de Pesquisa, podemos construir aqui."
 
 [TUT_Engineering_02_CE SoundNodeWave]
-SpokenText="Speaking of which, Dr. Vahlen has just sent us some new schematics. With your approval, we will begin fabrication."
+SpokenText="Falando nisso, a Dra. Vahlen acabou de nos enviar alguns novos esquemas. Com a sua aprovação, começaremos a fabricação."
 
 [TUT_Engineering_03_CE SoundNodeWave]
-SpokenText="Excellent. My team can't wait to get started. I'll notify you once it's complete."
+SpokenText="Excelente. Minha equipe mal pode esperar para começar. Eu o avisarei assim que estiver pronto."
 
 [TUT_FacilityConstruction_01_CE SoundNodeWave]
-SpokenText="Commander, no doubt you are aware of Dr. Vahlen's request to capture one of the aliens.  A sound plan,  but she fails to realize that we lack a facility to safely contain a live specimen.  With your approval, my team and I will begin construction of a suitable facility."
+SpokenText="Comandante, sem dúvida você está ciente do pedido da Dra. Vahlen para capturar um dos alienígenas. Um plano sólido, mas ela não percebe que não temos uma instalação para conter com segurança um espécime vivo. Com a sua aprovação, minha equipe e eu começaremos a construção de uma instalação adequada."
 
 [TUT_FacilityConstruction_02_CE SoundNodeWave]
-SpokenText="Thank you, Commander.  I'll let you know when the facility is ready."
+SpokenText="Obrigado, Comandante. Eu o avisarei quando a instalação estiver pronta."
 
 [TUT_FacilityConstruction_06_CE SoundNodeWave]
-SpokenText="Dr. Vahlen has asked to see you, Commander.  No doubt she wishes to explain her plan... personally."
+SpokenText="A Dra. Vahlen pediu para falar com você, Comandante. Sem dúvida, ela quer explicar pessoalmente o plano dela."
 
 [TUT_FacilityConstruction_07_CS SoundNodeWave]
-SpokenText="Commander, I'm sure you've been briefed on my request.  With your authorization, we can begin research on the Arc Thrower immediately."
+SpokenText="Comandante, tenho certeza de que você foi informado sobre o meu pedido. Com sua autorização, podemos iniciar imediatamente a pesquisa do 'Arc Thrower'."
 
 [TUT_FogPod_01_DELTA3 SoundNodeWave]
-SpokenText="Sir, I have visual on the object.  Permission to approach."
+SpokenText="Senhor, estou com o objeto à vista. Permissão para me aproximar."
 
 [TUT_FogPod_04_DELTA3 SoundNodeWave]
-SpokenText="I got no idea what this thing is, but I can confirm that it's no satellite."
+SpokenText="Não faço ideia do que é isso, mas posso confirmar que não é um satélite."
 
 [TUT_MissionControl_01_CEN SoundNodeWave]
-SpokenText="The enemy is testing our capabilities, Commander.  We've gotten reports of simultaneous attacks in two different countries.  We can only respond to one."
+SpokenText="O inimigo está testando nossas capacidades, Comandante. Recebemos relatos de ataques simultâneos em dois países diferentes. Só podemos responder a um deles."
 
 [TUT_MissionControl_02_CEN SoundNodeWave]
-SpokenText="The country we help will donate more resources to our cause, but the panic level of the country we choose not to help... will rise.  It's not an easy decision, Commander, but it's one you'll have to make."
+SpokenText="O país que ajudarmos doará mais recursos para nossa causa, mas o nível de pânico do país que escolhermos não ajudar... aumentará. Não é uma decisão fácil, Comandante, mas você terá que tomá-la."
 
 [TUT_MissionControl_07_CEN SoundNodeWave]
-SpokenText="Understood. The troops are waiting for you in the Hangar."
+SpokenText="Entendido. As tropas estão esperando por você no Hangar."
 
 [TUT_MovingTimeForward_01_CEN SoundNodeWave]
-SpokenText="Commander, Dr. Vahlen reports that research is progressing in the labs, but it will still be some time before the project is complete. While we're waiting, our local satellite network has just come online and we can now begin scanning for new activity. The process could take several days.  "
+SpokenText="Comandante, a Dra. Vahlen informa que a pesquisa está progredindo nos laboratórios, mas ainda levará algum tempo até que o projeto esteja concluído. Enquanto esperamos, nossa rede local de satélites acaba de entrar em operação e agora podemos começar a procurar por novas atividades. O processo pode levar vários dias."
 
 [TUT_Objectives_01_CEN SoundNodeWave]
-SpokenText="Commander, based on Dr. Vahlen's report, I recommend we begin researching the new weapon she's calling the 'Arc Thrower' in the Labs. Once completed, we can send the plans down to Engineering for fabrication, and then equip one of our troops with it in the Barracks. Dr. Shen and the Engineering team are also waiting on approval for construction of the Containment Facility that we'll need in order to house the alien captive."
+SpokenText="Comandante, com base no relatório da Dra. Vahlen, recomendo que comecemos a pesquisar a nova arma que ela está chamando de 'Arc Thrower' nos Laboratórios. Uma vez concluída, podemos enviar os planos para a Engenharia para fabricação e, em seguida, equipar um de nossos soldados com ela nos Alojamentos. A Dra. Shen e a equipe de Engenharia também estão aguardando aprovação para a construção da Instalação de Contenção que precisaremos para abrigar o prisioneiro alienígena."
 
 [TUT_PanicMechanic_02_CEN SoundNodeWave]
-SpokenText="Commander, we have an incoming transmission from the Council."
+SpokenText="Comandante, temos uma transmissão entrando do Conselho."
 
 [TUT_PanicMechanic_04_CEN SoundNodeWave]
-SpokenText="The Council knows you made the right decision, Commander.  With the resources we have available, there's only so much we can do.  However, our Chief Engineer did come up with something to help you keep an eye on things..."
+SpokenText="O Conselho sabe que você tomou a decisão certa, Comandante. Com os recursos disponíveis, só podemos fazer tanto. No entanto, nosso Engenheiro-Chefe encontrou algo para ajudá-lo a monitorar as coisas..."
 
 [TUT_ResearchTakesTime_01_CS SoundNodeWave]
-SpokenText="Hello Commander.  The current research task is progressing as expected.  However, it will still be some time before the schematics are ready for Engineering.  I'm sure you have other pressing matters to attend to in the meantime."
+SpokenText="Olá, Comandante. A tarefa de pesquisa atual está progredindo como esperado. No entanto, levará algum tempo antes que os esquemas estejam prontos para a Engenharia. Tenho certeza de que você tem outros assuntos urgentes para tratar neste ínterim."
 
 [TUT_SatelliteLaunch_02_CEN SoundNodeWave]
-SpokenText="Commander, good news. The Council has donated a satellite. Our current Satellite Uplink facility can support up to two satellites, so I recommend we launch the new one immediately."
+SpokenText="Comandante, boas notícias. O Conselho doou um satélite. Nossa atual Instalação de Enlace de Satélites pode suportar até dois satélites, então recomendo que lancemos o novo imediatamente."
 
 [TUT_SatelliteLaunch_03_CEN SoundNodeWave]
-SpokenText="With this additional satellite in place, we've gained a significant upgrade to our overall coverage. I recommend we begin scanning for alien contacts right away."
+Sp
+
+okenText="Com este satélite adicional no lugar, melhoramos significativamente nossa cobertura geral. Recomendo que comecemos a procurar contatos alienígenas imediatamente."
 
 [TUT_SatelliteLaunch_04_CE SoundNodeWave]
-SpokenText="Fabrication of the 'S.C.O.P.E.' device is complete.  It has been delivered to the Armory."
+SpokenText="A fabricação do dispositivo 'S.C.O.P.E.' foi concluída. Ele foi entregue à Armaria."
 
 [TUT_SatelliteLaunch_05_CE SoundNodeWave]
-SpokenText="Fabrication of the Nanofiber Vest is complete, Commander. It has been delivered to the Armory."
+SpokenText="A fabricação do Colete de Nanofibras está concluída, Comandante. Ele foi entregue à Armaria."
 
 [TUT_ScienceLab_01_CS SoundNodeWave]
-SpokenText="Hello, Commander.  My name is Dr. Vahlen.  I oversee the Research Labs.  This is where all of XCOM's research and development takes place."
+SpokenText="Olá, Comandante. Meu nome é Dra. Vahlen. Eu supervisiono os Laboratórios de Pesquisa. É aqui que toda a pesquisa e desenvolvimento da XCOM ocorrem."
 
 [TUT_ScienceLab_02_CS SoundNodeWave]
-SpokenText="We have already begun analyzing the artifacts recovered from our first encounter with the aliens.  Based on our preliminary findings, we believe we can use them to develop some new equipment for our soldiers."
+SpokenText="Já começamos a analisar os artefatos recuperados de nosso primeiro encontro com os alienígenas. Com base em nossas descobertas preliminares, acreditamos que podemos desenvolver alguns novos equipamentos para nossos soldados."
 
 [TUT_ScienceLab_03_CS SoundNodeWave]
-SpokenText="With your approval, we will begin research immediately."
+SpokenText="Com a sua aprovação, começaremos a pesquisa imediatamente."
 
 [TUT_ScienceLab_04_CS SoundNodeWave]
-SpokenText="Thank you, Commander.  This research will take some time.  We will notify you once it is complete."
+SpokenText="Obrigado, Comandante. Essa pesquisa levará algum tempo. Nós o notificaremos assim que estiver concluída."
 
 [TUT_ScienceLab_10_CS SoundNodeWave]
-SpokenText="It sounds like you are needed elsewhere.  Farewell, Commander.  If you recover any additional artifacts during your field operations... I would be quite eager to study them."
+SpokenText="Parece que você é necessário em outro lugar. Adeus, Comandante. Se você recuperar mais artefatos adicionais durante suas operações de campo... eu ficaria bastante ansiosa para estudá-los."
 
 [TUT_TheHangar_01_CE SoundNodeWave]
-SpokenText="Welcome back, Commander. I wanted to speak to you about our current fleet of Interceptors. It's crucial that we keep several of these aircraft on high alert - we'll need them to intercept any future alien contacts, and it's likely we'll suffer some losses in the process. To help prevent that, you have the option of modifying the interceptor's weapon loadouts from the hangar interface."
+SpokenText="Bem-vindo de volta, Comandante. Eu queria falar com você sobre nossa frota atual de Interceptors. É crucial que mantenhamos várias dessas aeronaves em alto alerta - vamos precisar delas para interceptar quaisquer futuros contatos alienígenas, e é provável que soframos algumas perdas no processo. Para ajudar a evitar isso, você tem a opção de modificar o armamento dos interceptores pela interface do hangar."
 
 [TUT_TheHangar_02_CE SoundNodeWave]
-SpokenText="I think it's also worth mentioning that even a full squadron of Interceptors will do no good against our enemy if we don't know where they are.  Additional satellite coverage will be required before we are able to detect alien craft elsewhere on the planet.  Visit us in Engineering should you wish to build additional satellites. Goodbye, Commander."
+SpokenText="Acho que também vale a pena mencionar que mesmo um esquadrão completo de Interceptors não servirá de nada contra nosso inimigo se não soubermos onde eles estão. Será necessária uma cobertura adicional de satélites antes de conseguirmos detectar naves alienígenas em outros locais do planeta. Visite-nos na Engenharia se quiser construir satélites adicionais. Adeus, Comandante."
 
 [TUT_UFOInterception_01_CEN SoundNodeWave]
-SpokenText="Commander, we're picking up widespread radio chatter indicating UFO sightings within our current satellite coverage area.  We should begin scanning for contacts as soon as possible."
+SpokenText="Comandante, estamos detectando comunicações de rádio generalizadas indicando avistamentos de UFOs dentro de nossa área atual de cobertura de satélites. Devemos começar a procurar contatos o mais rápido possível."
 
 [TUT_UFOInterception_02_CEN SoundNodeWave]
-SpokenText="Looks like that satellite we launched paid off.  We're picking up an unidentified fast-mover.  If we scramble an Interceptor now, we may be able to take it down."
-
+SpokenText="Parece que o satélite que lançamos deu resultado. Estamos detectando um objeto não identificado em movimento rápido. Se lançarmos um Interceptor agora, talvez possamos derrubá-lo."

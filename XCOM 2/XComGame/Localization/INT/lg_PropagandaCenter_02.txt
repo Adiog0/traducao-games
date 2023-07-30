@@ -1,15 +1,14 @@
 [TheWorld:PersistentLevel.XComInteractiveLevelActor_26 XComInteractiveLevelActor]
-FriendlyDisplayName="Jail Cell Door"
+FriendlyDisplayName="Porta de Cela"
 
 [TheWorld:PersistentLevel.XComInteractiveLevelActor_36 XComInteractiveLevelActor]
-FriendlyDisplayName="Jail Cell Door"
+FriendlyDisplayName="Porta de Cela"
 
 [TheWorld:PersistentLevel.XComInteractiveLevelActor_41 XComInteractiveLevelActor]
-FriendlyDisplayName="Secure Door"
+FriendlyDisplayName="Porta Segura"
 
 [TheWorld:PersistentLevel.XComInteractiveLevelActor_43 XComInteractiveLevelActor]
-FriendlyDisplayName="Secure Door"
+FriendlyDisplayName="Porta Segura"
 
 [TheWorld:PersistentLevel.XComInteractiveLevelActor_44 XComInteractiveLevelActor]
-FriendlyDisplayName="Secure Door"
-
+FriendlyDisplayName="Porta Segura"
