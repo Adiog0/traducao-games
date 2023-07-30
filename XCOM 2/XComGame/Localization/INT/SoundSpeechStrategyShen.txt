@@ -1,180 +1,180 @@
-"[NoID_CentralThatGenetic_alta AkEvent]
-SpokenText="Central, aquele material genÈtico, todo esse equipamento que temos visto, sÛ pode ser usado para um propÛsito."
+Ôªø"[NoID_CentralThatGenetic_alta AkEvent]
+SpokenText="Central, aquele material gen√©tico, todo esse equipamento que temos visto, s√≥ pode ser usado para um prop√≥sito."
 
 [NoID_CommanderConstructionOf AkEvent]
-SpokenText="Comandante, a construÁ„o desta C‚mara das Sombras deve nos permitir analisar e desmontar melhor todos os artefatos e dados alienÌgenas que temos recuperado."
+SpokenText="Comandante, a constru√ß√£o desta C√¢mara das Sombras deve nos permitir analisar e desmontar melhor todos os artefatos e dados alien√≠genas que temos recuperado."
 
 [NoID_GladWeFound AkEvent]
-SpokenText="Fico feliz que tenhamos encontrado este lugar enquanto ainda h· gente suficiente para destruÌ-lo."
+SpokenText="Fico feliz que tenhamos encontrado este lugar enquanto ainda h√° gente suficiente para destru√≠-lo."
 
 [NoID_ItsLikeThis AkEvent]
-SpokenText="… como se toda essa ·rea estivesse repleta de energia psÌquica. Acho que nunca vimos os efeitos da exposiÁ„o prolongada como isso antes."
+SpokenText="√â como se toda essa √°rea estivesse repleta de energia ps√≠quica. Acho que nunca vimos os efeitos da exposi√ß√£o prolongada como isso antes."
 
 [NoID_ThisIsIncredible AkEvent]
-SpokenText="Isso È incrÌvel. Quando eu era mais jovem, meu pai costumava me contar histÛrias sobre um vale dominado por um poder belo, mas sombrio. ComeÁo a sentir uma intensa sensaÁ„o de dÈj‡ vu."
+SpokenText="Isso √© incr√≠vel. Quando eu era mais jovem, meu pai costumava me contar hist√≥rias sobre um vale dominado por um poder belo, mas sombrio. Come√ßo a sentir uma intensa sensa√ß√£o de d√©j√† vu."
 
 [NoID_WeCanStart AkEvent]
-SpokenText="Podemos comeÁar a construÁ„o da C‚mara das Sombras quando vocÍ estiver pronto, Comandante."
+SpokenText="Podemos come√ßar a constru√ß√£o da C√¢mara das Sombras quando voc√™ estiver pronto, Comandante."
 
 [NoID_YouAndMe AkEvent]
-SpokenText="Isso vale para nÛs dois."
+SpokenText="Isso vale para n√≥s dois."
 
 [S_Alien_Fortress_Shen_01 AkEvent]
-SpokenText="Odeio fazer isso... VocÍ È o ˙nico j· equipado para o combate. VocÍ sabe que eu mesmo iria se pudesse."
+SpokenText="Odeio fazer isso... Voc√™ √© o √∫nico j√° equipado para o combate. Voc√™ sabe que eu mesmo iria se pudesse."
 
 [S_Alien_Fortress_Shen_02 AkEvent]
 SpokenText="Pronto."
 
 [S_Alien_Fortress_Shen_03 AkEvent]
-SpokenText="Eu conectei o que restou do cÈrebro do Codex ao Rover. Ele deve estar emitindo o mesmo sinal que o Codex usava para atravessar o portal."
+SpokenText="Eu conectei o que restou do c√©rebro do Codex ao Rover. Ele deve estar emitindo o mesmo sinal que o Codex usava para atravessar o portal."
 
 [S_Alien_Fortress_Shen_04 AkEvent]
-SpokenText="AÌ est·. Estamos prontos para gravar em todos os espectros. Lembre-se, entre, faÁa algumas leituras r·pidas e volte imediatamente. Certo?"
+SpokenText="A√≠ est√°. Estamos prontos para gravar em todos os espectros. Lembre-se, entre, fa√ßa algumas leituras r√°pidas e volte imediatamente. Certo?"
 
 [S_Alien_Fortress_Shen_05 AkEvent]
-SpokenText="Uau... VocÍ est· vendo isso?"
+SpokenText="Uau... Voc√™ est√° vendo isso?"
 
 [S_Alien_Fortress_Shen_06 AkEvent]
-SpokenText="N„o se parece com nenhuma das instalaÁıes que j· visitamos... nem com qualquer lugar na Terra, ali·s."
+SpokenText="N√£o se parece com nenhuma das instala√ß√µes que j√° visitamos... nem com qualquer lugar na Terra, ali√°s."
 
 [S_Alien_Fortress_Shen_07 AkEvent]
-SpokenText="SÛ h· uma maneira de descobrir."
+SpokenText="S√≥ h√° uma maneira de descobrir."
 
 [S_Alien_Fortress_Shen_08 AkEvent]
-SpokenText="V· em frente. Estamos contando com vocÍ."
+SpokenText="V√° em frente. Estamos contando com voc√™."
 
 [S_Alien_Fortress_Shen_09 AkEvent]
-SpokenText="Isso definitivamente n„o est· bem, Doutor."
+SpokenText="Isso definitivamente n√£o est√° bem, Doutor."
 
 [S_Alien_Fortress_Shen_10 AkEvent]
 SpokenText="Obviamente."
 
 [S_Alien_Fortress_Shen_11 AkEvent]
-SpokenText="Bem, È melhor nos certificarmos de que temos a chave certa antes de tentarmos de novo. Eu odiaria que isso acontecesse com algo 'org‚nico'."
+SpokenText="Bem, √© melhor nos certificarmos de que temos a chave certa antes de tentarmos de novo. Eu odiaria que isso acontecesse com algo 'org√¢nico'."
 
 [S_Ambient_ADVENT_Burger_Shen AkEvent]
-SpokenText="Nunca pisei em nenhum desses centros urbanos, ent„o nunca experimentei um desses hamb˙rgueres da ADVENT que continuo ouvindo rumores. NinguÈm parece estar fazendo as perguntas difÌceis tambÈm, como por exemplo, quando foi a ˙ltima vez que vocÍ viu uma vaca?"
+SpokenText="Nunca pisei em nenhum desses centros urbanos, ent√£o nunca experimentei um desses hamb√∫rgueres da ADVENT que continuo ouvindo rumores. Ningu√©m parece estar fazendo as perguntas dif√≠ceis tamb√©m, como por exemplo, quando foi a √∫ltima vez que voc√™ viu uma vaca?"
 
 [S_Ambient_Helpers_Shen AkEvent]
-SpokenText="Em certo momento, pensei em tentar trazer um Mec da ADVENT para ver se poderÌamos integrar a IA GREMLIN. A ideia era reforÁar nossa equipe com assistentes robÛticos. Eventualmente, decidi n„o mencionar isso para Central ou Tygan, pelo menos atÈ as coisas se acalmarem um pouco."
+SpokenText="Em certo momento, pensei em tentar trazer um Mec da ADVENT para ver se poder√≠amos integrar a IA GREMLIN. A ideia era refor√ßar nossa equipe com assistentes rob√≥ticos. Eventualmente, decidi n√£o mencionar isso para Central ou Tygan, pelo menos at√© as coisas se acalmarem um pouco."
 
 [S_Autopsy_MEC_Blurb AkEvent]
-SpokenText="A ADVENT tem legiıes dessas unidades mecanizadas l· fora, ajudando a 'manter a paz'. Pelo que posso dizer, elas s„o totalmente automatizadas e armadas atÈ os dentes."
+SpokenText="A ADVENT tem legi√µes dessas unidades mecanizadas l√° fora, ajudando a 'manter a paz'. Pelo que posso dizer, elas s√£o totalmente automatizadas e armadas at√© os dentes."
 
 [S_Autopsy_Sectopod_Blurb AkEvent]
-SpokenText="Central diz que viu uma dessas coisas de perto no passado. Apesar de muitas especulaÁıes, n„o encontramos nenhum piloto quando a abrimos."
+SpokenText="Central diz que viu uma dessas coisas de perto no passado. Apesar de muitas especula√ß√µes, n√£o encontramos nenhum piloto quando a abrimos."
 
 [S_Autopsy_Turret_Blurb AkEvent]
-SpokenText="A ADVENT n„o parece ter problemas em posicionar armas completamente autÙnomas prÛximas ‡s pessoas nas cidades. Isso realmente mostra o quanto eles se importam."
+SpokenText="A ADVENT n√£o parece ter problemas em posicionar armas completamente aut√¥nomas pr√≥ximas √†s pessoas nas cidades. Isso realmente mostra o quanto eles se importam."
 
 [S_Avenger_Ambient_Shen_ADVENTtech AkEvent]
-SpokenText="Tive a chance de examinar mais de perto algumas das armas da ADVENT recuperadas no campo de batalha. A liga usada em suas estruturas È significativamente mais leve, tornando-as mais adequadas ‡ forma humana. Acredito que È o mesmo material que vimos eles usando em todas as colÙnias, mas eles devem estar produzindo isso de alguma fonte aqui na Terra, pois parecem ter um suprimento intermin·vel desse material."
+SpokenText="Tive a chance de examinar mais de perto algumas das armas da ADVENT recuperadas no campo de batalha. A liga usada em suas estruturas √© significativamente mais leve, tornando-as mais adequadas √† forma humana. Acredito que √© o mesmo material que vimos eles usando em todas as col√¥nias, mas eles devem estar produzindo isso de alguma fonte aqui na Terra, pois parecem ter um suprimento intermin√°vel desse material."
 
 [S_Avenger_Ambient_Shen_Alientech AkEvent]
-SpokenText="Tem sido um processo lento, mas eu fiz progressos na interface de nossos equipamentos com a tecnologia alienÌgena ainda embutida na nave. A maioria dos sistemas principais agora opera com alguma combinaÁ„o de nossa tecnologia e a deles. Minha esperanÁa È usar o melhor dos dois mundos para criar algo novo, algo que os alienÌgenas n„o esperem."
+SpokenText="Tem sido um processo lento, mas eu fiz progressos na interface de nossos equipamentos com a tecnologia alien√≠gena ainda embutida na nave. A maioria dos sistemas principais agora opera com alguma combina√ß√£o de nossa tecnologia e a deles. Minha esperan√ßa √© usar o melhor dos dois mundos para criar algo novo, algo que os alien√≠genas n√£o esperem."
 
 [S_Avenger_Ambient_Shen_CityMigration_01 AkEvent]
-SpokenText="O que vocÍ sabe sobre essas clÌnicas de terapia genÈtica, Doutor? Parecem ser um grande atrativo para as cidades agora."
+SpokenText="O que voc√™ sabe sobre essas cl√≠nicas de terapia gen√©tica, Doutor? Parecem ser um grande atrativo para as cidades agora."
 
 [S_Avenger_Ambient_Shen_CityMigration_02 AkEvent]
-SpokenText="Contanto que vocÍ seja chipado primeiro?"
+SpokenText="Contanto que voc√™ seja chipado primeiro?"
 
 [S_Avenger_Ambient_Shen_CityMigration_03 AkEvent]
-SpokenText="Estou comeÁando a entender a atraÁ„o."
+SpokenText="Estou come√ßando a entender a atra√ß√£o."
 
 [S_Avenger_Ambient_Shen_FacadePeace_02 AkEvent]
-SpokenText="Milhıes de pessoas nessas cidades n„o parecem se importar muito."
+SpokenText="Milh√µes de pessoas nessas cidades n√£o parecem se importar muito."
 
 [S_Avenger_Ambient_Shen_FacadePeaceB_01 AkEvent]
-SpokenText="VocÍ nunca lamenta ter saÌdo da cidade? Deve sentir falta de algumas coisas, certo? A comida? As camas quentes?"
+SpokenText="Voc√™ nunca lamenta ter sa√≠do da cidade? Deve sentir falta de algumas coisas, certo? A comida? As camas quentes?"
 
 [S_Avenger_Ambient_Shen
 
 _FacadePeaceB_02 AkEvent]
-SpokenText="N„o tinha pensado nisso... A ADVENT provavelmente tinha um laboratÛrio muito bom para vocÍ."
+SpokenText="N√£o tinha pensado nisso... A ADVENT provavelmente tinha um laborat√≥rio muito bom para voc√™."
 
 [S_Avenger_Ambient_Shen_FacadePeaceB_03 AkEvent]
-SpokenText="N„o se preocupe; tenho certeza de que o Comandante encontrar· algo bom para vocÍ."
+SpokenText="N√£o se preocupe; tenho certeza de que o Comandante encontrar√° algo bom para voc√™."
 
 [S_Avenger_Ambient_Shen_Father AkEvent]
-SpokenText="Acho que papai ficaria orgulhoso do que estamos fazendo aqui. Pela primeira vez em muito tempo, somos uma ameaÁa real para os alienÌgenas, e eles sabem disso. Agora sÛ precisamos fazer com que todas aquelas pessoas nas colÙnias lembrem do que estamos lutando. Meu pai n„o morreu para que nos torn·ssemos uma raÁa de cobaias acovardadas para os alienÌgenas brincarem. SÛ precisamos chamar a atenÁ„o das pessoas."
+SpokenText="Acho que papai ficaria orgulhoso do que estamos fazendo aqui. Pela primeira vez em muito tempo, somos uma amea√ßa real para os alien√≠genas, e eles sabem disso. Agora s√≥ precisamos fazer com que todas aquelas pessoas nas col√¥nias lembrem do que estamos lutando. Meu pai n√£o morreu para que nos torn√°ssemos uma ra√ßa de cobaias acovardadas para os alien√≠genas brincarem. S√≥ precisamos chamar a aten√ß√£o das pessoas."
 
 [S_Avenger_Ambient_Shen_Makeshift AkEvent]
-SpokenText="N„o tenho certeza de como o resto da tripulaÁ„o se sentiria se soubessem quantos curativos j· coloquei nesta nave. Um pouco de sorte ajuda muito quando vocÍ n„o tem muito com que trabalhar, mas estou preocupado com o que pode acontecer se a forÁarmos demais."
+SpokenText="N√£o tenho certeza de como o resto da tripula√ß√£o se sentiria se soubessem quantos curativos j√° coloquei nesta nave. Um pouco de sorte ajuda muito quando voc√™ n√£o tem muito com que trabalhar, mas estou preocupado com o que pode acontecer se a for√ßarmos demais."
 
 [S_Avenger_Ambient_Shen_PowerCore AkEvent]
-SpokenText="Notamos desde o inÌcio que o Avenger tende a 'mergulhar' para frente quando o n˙cleo de energia est· sob carga sem os motores engajados. A princÌpio, pensei que fosse um problema de estabilizador, mas agora estou comeÁando a acreditar que faz parte do grande plano dos alienÌgenas. O n˙cleo em si pode n„o ser totalmente est·vel, o que explicaria por que os alienÌgenas fizeram tanto esforÁo para isol·-lo na proa."
+SpokenText="Notamos desde o in√≠cio que o Avenger tende a 'mergulhar' para frente quando o n√∫cleo de energia est√° sob carga sem os motores engajados. A princ√≠pio, pensei que fosse um problema de estabilizador, mas agora estou come√ßando a acreditar que faz parte do grande plano dos alien√≠genas. O n√∫cleo em si pode n√£o ser totalmente est√°vel, o que explicaria por que os alien√≠genas fizeram tanto esfor√ßo para isol√°-lo na proa."
 
 [S_Avenger_Ambient_Shen_Quick_01 AkEvent]
-SpokenText="Eu gostaria que tivÈssemos um simulador para Bradford treinar, se ele destruir esta nave, eu mesma o entregarei para a ADVENT."
+SpokenText="Eu gostaria que tiv√©ssemos um simulador para Bradford treinar, se ele destruir esta nave, eu mesma o entregarei para a ADVENT."
 
 [S_Avenger_Ambient_Shen_Quick_02 AkEvent]
-SpokenText="Ainda n„o sei de onde a ADVENT est· tirando todos esses reforÁos. Com certeza n„o s„o volunt·rios."
+SpokenText="Ainda n√£o sei de onde a ADVENT est√° tirando todos esses refor√ßos. Com certeza n√£o s√£o volunt√°rios."
 
 [S_Avenger_Ambient_Shen_Quick_03 AkEvent]
-SpokenText="Vi Tygan murmurando sozinho em um dos corredores, n„o tenho certeza se ele nem mesmo me notou. Bradford confia nele, mas eu ainda estou de olhos abertos."
+SpokenText="Vi Tygan murmurando sozinho em um dos corredores, n√£o tenho certeza se ele nem mesmo me notou. Bradford confia nele, mas eu ainda estou de olhos abertos."
 
 [S_Avenger_Ambient_Shen_Quick_04 AkEvent]
-SpokenText="VocÍ pensaria que terÌamos alguns ajudantes robÛticos por aqui agora. Hmmm. Talvez eu possa montar algo."
+SpokenText="Voc√™ pensaria que ter√≠amos alguns ajudantes rob√≥ticos por aqui agora. Hmmm. Talvez eu possa montar algo."
 
 [S_Avenger_Ambient_Shen_Quick_05 AkEvent]
-SpokenText="Recebi um relatÛrio de alguns rangidos perto do elevador de rÈ ontem. Espero que n„o seja fadiga do metal."
+SpokenText="Recebi um relat√≥rio de alguns rangidos perto do elevador de r√© ontem. Espero que n√£o seja fadiga do metal."
 
 [S_Avenger_Ambient_Shen_Quick_06 AkEvent]
-SpokenText="As opÁıes de recrutamento s„o escassas, mas espero encontrar alguns novos recrutas que saibam manusear uma chave inglesa - eu poderia usar a ajuda."
+SpokenText="As op√ß√µes de recrutamento s√£o escassas, mas espero encontrar alguns novos recrutas que saibam manusear uma chave inglesa - eu poderia usar a ajuda."
 
 [S_Avenger_Ambient_Shen_Quick_07 AkEvent]
-SpokenText="Provavelmente eu teria economizado muito tempo consertando os sistemas da nave se soubÈssemos traduzir o idioma deles. Infelizmente, n„o encontramos muitos linguistas por aqui."
+SpokenText="Provavelmente eu teria economizado muito tempo consertando os sistemas da nave se soub√©ssemos traduzir o idioma deles. Infelizmente, n√£o encontramos muitos linguistas por aqui."
 
 [S_Avenger_Ambient_Shen_Quick_08 AkEvent]
-SpokenText="Eu me pergunto se foi assim nos velhos tempos. Sempre alerta, pronto para lutar a qualquer momento. Certamente mantÈm vocÍ em alerta."
+SpokenText="Eu me pergunto se foi assim nos velhos tempos. Sempre alerta, pronto para lutar a qualquer momento. Certamente mant√©m voc√™ em alerta."
 
 [S_Avenger_Ambient_Shen_Quick_09 AkEvent]
-SpokenText="Devo ver se algum dos soldados tem contado quantos aliens j· mataram. Pode ser uma ferramenta de recrutamento ˙til."
+SpokenText="Devo ver se algum dos soldados tem contado quantos aliens j√° mataram. Pode ser uma ferramenta de recrutamento √∫til."
 
 [S_Avenger_Ambient_Shen_Quick_10 AkEvent]
-SpokenText="Tygan parece ter o h·bito de coÁar a cicatriz na parte de tr·s de sua cabeÁa, eu me pergunto se alguÈm se certificou de que seu chip foi realmente removido."
+SpokenText="Tygan parece ter o h√°bito de co√ßar a cicatriz na parte de tr√°s de sua cabe√ßa, eu me pergunto se algu√©m se certificou de que seu chip foi realmente removido."
 
 [S_Avenger_Ambient_Shen_ShenFather_01 AkEvent]
-SpokenText="Trazer a energia do Avenger de volta foi um milagre. N„o tenho certeza de como ele decifrou o sistema deles, mas ainda estarÌamos meio enterrados na areia se ele n„o tivesse feito isso. Ele deu tudo o que tinha para colocar a nave em funcionamento, mas n„o viveu o suficiente para vÍ-la voar."
+SpokenText="Trazer a energia do Avenger de volta foi um milagre. N√£o tenho certeza de como ele decifrou o sistema deles, mas ainda estar√≠amos meio enterrados na areia se ele n√£o tivesse feito isso. Ele deu tudo o que tinha para colocar a nave em funcionamento, mas n√£o viveu o suficiente para v√™-la voar."
 
 [S_Avenger_Ambient_Shen_ShenFather_02 AkEvent]
-SpokenText="VocÍ pode honrar a memÛria dele usando esta nave para destruir os alienÌgenas onde quer que os encontremos."
+SpokenText="Voc√™ pode honrar a mem√≥ria dele usando esta nave para destruir os alien√≠genas onde quer que os encontremos."
 
 [S_Avenger_Ambient_Shen_ShenFatherB_01 AkEvent]
-SpokenText="SÛ queria que ele tivesse vivido o suficiente para nos ver lutando de volta... para saber que n„o foi tudo em v„o."
+SpokenText="S√≥ queria que ele tivesse vivido o suficiente para nos ver lutando de volta... para saber que n√£o foi tudo em v√£o."
 
 [S_Avenger_Ambient_Shen_ShenFatherB_02 AkEvent]
-SpokenText="Pelo que vi, vocÍ poderia usar a pr·tica."
+SpokenText="Pelo que vi, voc√™ poderia usar a pr√°tica."
 
 [S_Avenger_Ambient_Shen_ShensPrideB_01 AkEvent]
-SpokenText="… tudo o que temos... e sei que os alienÌgenas n„o est„o felizes por perderem um deles..."
+SpokenText="√â tudo o que temos... e sei que os alien√≠genas n√£o est√£o felizes por perderem um deles..."
 
 [S_Avenger_Ambient_Shen_ShensPrideB_02 AkEvent]
-SpokenText="Estou mais do que feliz em provar que eles est„o errados."
+SpokenText="Estou mais do que feliz em provar que eles est√£o errados."
 
 [S_Avenger_Ambient_Shen_ShensPrideC_01 AkEvent]
-SpokenText="Foi tudo o que restou para ele... e sei que os alienÌgenas n„o est„o felizes por perderem um deles..."
+SpokenText="Foi tudo o que restou para ele... e sei que os alien√≠genas n√£o est√£o felizes por perderem um deles..."
 
 [S_Avenger_Ambient_Shen_TyganConscienceB_01 AkEvent]
-SpokenText="Me conte algo, Doutor. Deve ter sido bem tranquilo trabalhar com a ADVENT, morando nas colÙnias... ent„o por que essa mudanÁa repentina de coraÁ„o?"
+SpokenText="Me conte algo, Doutor. Deve ter sido bem tranquilo trabalhar com a ADVENT, morando nas col√¥nias... ent√£o por que essa mudan√ßa repentina de cora√ß√£o?"
 
 [S_Avenger_Ambient_Shen_TyganConscienceB_02 AkEvent]
-SpokenText="VocÍ deveria saber melhor. Os alienÌgenas nunca teriam vindo aqui se quisessem paz."
+SpokenText="Voc√™ deveria saber melhor. Os alien√≠genas nunca teriam vindo aqui se quisessem paz."
 
 [S_Avenger_Ambient_Shen_TyganConscienceB_03
 
  AkEvent]
-SpokenText="Ent„o eu diria que vocÍ tem um trabalho difÌcil pela frente."
+SpokenText="Ent√£o eu diria que voc√™ tem um trabalho dif√≠cil pela frente."
 
 [S_Avenger_Ambient_ShenFacadePeace_01 AkEvent]
-SpokenText="VocÍ viveu em uma das colÙnias por alguns anos antes de se juntar ‡ Central, certo?"
+SpokenText="Voc√™ viveu em uma das col√¥nias por alguns anos antes de se juntar √† Central, certo?"
 
 [S_Avenger_Attack_Shen_01_Setup_Phase AkEvent]
-SpokenText="ImpossÌvel, n„o h· danos aos motores! A menos que... Deve estar usando um pulso eletromagnÈtico! Se eu conseguir apenas ignorar toda essa eletrÙnica alienÌgena, aguente firme!"
+SpokenText="Imposs√≠vel, n√£o h√° danos aos motores! A menos que... Deve estar usando um pulso eletromagn√©tico! Se eu conseguir apenas ignorar toda essa eletr√¥nica alien√≠gena, aguente firme!"
 
 [S_Avenger_Attack_Shen_02_Setup_Phase AkEvent]
-SpokenText="N„o est· aceitando a interface de transferÍncia, o sistema est· anulando o meu comando."
+SpokenText="N√£o est√° aceitando a interface de transfer√™ncia, o sistema est√° anulando o meu comando."
 
 [S_Avenger_Attack_Shen_03_Setup_Phase AkEvent]
 SpokenText="Certo."
@@ -183,46 +183,46 @@ SpokenText="Certo."
 SpokenText="Temos um problema."
 
 [S_Avenger_Attack_Shen_05_Setup_Phase AkEvent]
-SpokenText="Eles acabaram de soltar algum tipo de espinho l· fora. Est· gerando o mesmo tipo de pulso que nos derrubou do cÈu. N„o posso ligar nossos motores enquanto ele estiver l· fora!"
+SpokenText="Eles acabaram de soltar algum tipo de espinho l√° fora. Est√° gerando o mesmo tipo de pulso que nos derrubou do c√©u. N√£o posso ligar nossos motores enquanto ele estiver l√° fora!"
 
 [S_Avenger_Attack_Shen_06_Setup_Phase AkEvent]
-SpokenText="N„o daqui."
+SpokenText="N√£o daqui."
 
 [S_Avenger_Attack_Shen_07_Setup_Phase AkEvent]
-SpokenText="N„o posso ligar nossos motores enquanto ele estiver l· fora!"
+SpokenText="N√£o posso ligar nossos motores enquanto ele estiver l√° fora!"
 
 [S_Avenger_Shen_Exposed_Power_Coil_First AkEvent]
-SpokenText="Essa bobina pode nos fornecer energia adicional para os sistemas do Avenger, mas precisaremos adicionar algum isolamento primeiro para proteger a tripulaÁ„o."
+SpokenText="Essa bobina pode nos fornecer energia adicional para os sistemas do Avenger, mas precisaremos adicionar algum isolamento primeiro para proteger a tripula√ß√£o."
 
 [S_Avenger_Shen_Not_Enough_Engineers AkEvent]
-SpokenText="Eu poderia usar uma m„ozinha com algumas das tarefas de engenharia por aqui, Comandante. Me avise."
+SpokenText="Eu poderia usar uma m√£ozinha com algumas das tarefas de engenharia por aqui, Comandante. Me avise."
 
 [S_Blacksite_Horror_Shen_01 AkEvent]
-SpokenText="Vamos descobrir agora. Eu conectei a C‚mara das Sombras diretamente ao computador da nave."
+SpokenText="Vamos descobrir agora. Eu conectei a C√¢mara das Sombras diretamente ao computador da nave."
 
 [S_Blacksite_Horror_Shen_02 AkEvent]
-SpokenText="Tem estado em processo de triagem do material que recuperamos sem parar desde que voltamos. Catalogando sequÍncias..."
+SpokenText="Tem estado em processo de triagem do material que recuperamos sem parar desde que voltamos. Catalogando sequ√™ncias..."
 
 [S_Blacksite_Horror_Shen_03 AkEvent]
 SpokenText="Por isso precisamos do computador da nave para descobrir de onde vieram."
 
 [S_Blacksite_Horror_Shen_04 AkEvent]
-SpokenText="Cruzando esses dados com as informaÁıes que conseguimos hackear da rede da ADVENT."
+SpokenText="Cruzando esses dados com as informa√ß√µes que conseguimos hackear da rede da ADVENT."
 
 [S_Blacksite_Horror_Shen_05 AkEvent]
-SpokenText="…... um registro de admiss„o de uma das clÌnicas de terapia genÈtica."
+SpokenText="√â... um registro de admiss√£o de uma das cl√≠nicas de terapia gen√©tica."
 
 [S_Blacksite_Horror_Shen_06 AkEvent]
-SpokenText="As clÌnicas de genÈtica. Milhıes de pessoas, apenas procurando ajuda."
+SpokenText="As cl√≠nicas de gen√©tica. Milh√µes de pessoas, apenas procurando ajuda."
 
 [S_Blacksite_Horror_Shen_07 AkEvent]
-SpokenText="Isso È genocÌdio, Doutor. E essas pessoas est„o indo diretamente para isso!"
+SpokenText="Isso √© genoc√≠dio, Doutor. E essas pessoas est√£o indo diretamente para isso!"
 
 [S_Blacksite_Horror_Shen_08 AkEvent]
-SpokenText="Podemos n„o saber o que eles est„o fazendo com isso, mas acho que posso descobrir para onde est· indo."
+SpokenText="Podemos n√£o saber o que eles est√£o fazendo com isso, mas acho que posso descobrir para onde est√° indo."
 
 [S_Blacksite_Horror_Shen_09 AkEvent]
-SpokenText="Consegui. … uma instalaÁ„o de produÁ„o de alta seguranÁa - defesas padr„o."
+SpokenText="Consegui. √â uma instala√ß√£o de produ√ß√£o de alta seguran√ßa - defesas padr√£o."
 
 [S_Broadcast_Truth_Shen_01 AkEvent]
 SpokenText="Pronto. Embora precisemos estar bem perto para conseguir fazer isso."
@@ -231,61 +231,61 @@ SpokenText="Pronto. Embora precisemos estar bem perto para conseguir fazer isso.
 SpokenText="Nos aproximando dentro do alcance. Tentando acesso!"
 
 [S_Build_This_Item_Engineering_Tutorial_Shen AkEvent]
-SpokenText="N„o posso prometer milagres, Comandante, mas devo ser capaz de montar algumas dessas coisas em pouco tempo. Eu sugeriria comeÁarmos com um Medikit, provavelmente ser· ˙til mais cedo ou mais tarde."
+SpokenText="N√£o posso prometer milagres, Comandante, mas devo ser capaz de montar algumas dessas coisas em pouco tempo. Eu sugeriria come√ßarmos com um Medikit, provavelmente ser√° √∫til mais cedo ou mais tarde."
 
 [S_Build_This_Item_Engineering_Tutorial_Shen_ALT AkEvent]
-SpokenText="N„o posso prometer milagres, Comandante, mas devo ser capaz de montar algumas dessas coisas em pouco tempo. Eu sugeriria comeÁarmos com um Medikit, provavelmente ser· ˙til mais cedo ou mais tarde."
+SpokenText="N√£o posso prometer milagres, Comandante, mas devo ser capaz de montar algumas dessas coisas em pouco tempo. Eu sugeriria come√ßarmos com um Medikit, provavelmente ser√° √∫til mais cedo ou mais tarde."
 
 [S_Commander_Awakens_Shen_01_Setup_Phase AkEvent]
-SpokenText="H· lugares melhores para fazer isso, Doutor!"
+SpokenText="H√° lugares melhores para fazer isso, Doutor!"
 
 [S_Commander_Awakens_Shen_02_Setup_Phase AkEvent]
 SpokenText="Pronto como vai ficar."
 
 [S_Commander_Awakens_Shen_03_Setup_Phase AkEvent]
-SpokenText="Essas leituras est„o ficando muito err·ticas."
+SpokenText="Essas leituras est√£o ficando muito err√°ticas."
 
 [S_Commander_Awakens_Shen_04_Setup_Phase AkEvent]
 SpokenText="DOUTOR! Nenhum sinal..."
 
 [S_Dark_Volunteer_01_Shen_01 AkEvent]
-SpokenText="N„o ser· f·cil, mas acho que È a ˙nica opÁ„o que temos neste momento."
+SpokenText="N√£o ser√° f√°cil, mas acho que √© a √∫nica op√ß√£o que temos neste momento."
 
 [S_Dark_Volunteer_01_Shen_02 AkEvent]
-SpokenText="A sequÍncia precisa ser de um sujeito vivo - a chave sÛ funciona em sincronia com o sinal."
+SpokenText="A sequ√™ncia precisa ser de um sujeito vivo - a chave s√≥ funciona em sincronia com o sinal."
 
 [S_Dark_Volunteer_01_Shen_03 AkEvent]
-SpokenText="N„o. Isso nÛs podemos resolver. Faremos o nosso prÛprio."
+SpokenText="N√£o. Isso n√≥s podemos resolver. Faremos o nosso pr√≥prio."
 
 [S_Dark_Volunteer_01_Shen_04 AkEvent]
-SpokenText="Mas eu posso. De certa forma. Manipulando o novo Avatar atravÈs da rede psÌquica."
+SpokenText="Mas eu posso. De certa forma. Manipulando o novo Avatar atrav√©s da rede ps√≠quica."
 
 [S_Dark_Volunteer_01_Shen_05 AkEvent]
-SpokenText="N„o exatamente. E definitivamente n„o eu."
+SpokenText="N√£o exatamente. E definitivamente n√£o eu."
 
 [S_Dark_Volunteer_01_Shen_06 AkEvent]
 SpokenText="Enquanto isso, vou analisar cada circuito desse traje de estase. Quando chegar a hora, estarei pronta."
 
 [S_Dark_Volunteer_02_Shen_01 AkEvent]
-SpokenText="Conex„o final estabelecida. NÌveis de energia adequados. Mais uma olhada no buffer..."
+SpokenText="Conex√£o final estabelecida. N√≠veis de energia adequados. Mais uma olhada no buffer..."
 
 [S_Dark_Volunteer_02_Shen_02 AkEvent]
 SpokenText="Estamos prontos."
 
 [S_Dark_Volunteer_02_Shen_03 AkEvent]
-SpokenText="Iniciando conex„o na rede."
+SpokenText="Iniciando conex√£o na rede."
 
 [S_First_Flight_Shen_01_Setup_Phase AkEvent]
 SpokenText="Resposta curta? "Sim". Mas talvez todos queiram segurar em alguma coisa."
 
 [S_FirstStasisLanceAvailable_Shen AkEvent]
-SpokenText="Temos os esquemas, e nosso equipamento est· pronto para comeÁar a montagem, Comandante. … sÛ dar a palavra e construiremos o Skulljack."
+SpokenText="Temos os esquemas, e nosso equipamento est√° pronto para come√ßar a montagem, Comandante. √â s√≥ dar a palavra e construiremos o Skulljack."
 
 [S_FirstStasisLanceBolted_Shen AkEvent]
-SpokenText="O centro de testes est· pronto, Comandante, podemos construir o Skulljack sempre que quiser."
+SpokenText="O centro de testes est√° pronto, Comandante, podemos construir o Skulljack sempre que quiser."
 
 [S_Here_they_Come_Shen AkEvent]
-SpokenText="L· vÍm eles."
+SpokenText="L√° v√™m eles."
 
 [S_Human_Tubes_Shen_ALT AkEvent]
 SpokenText="Mas por que aqui? O que mais eles poderiam estar fazendo nesse ponto?"
@@ -294,289 +294,289 @@ SpokenText="Mas por que aqui? O que mais eles poderiam estar fazendo nesse ponto
 SpokenText="Sinal recebido. Alto e claro."
 
 [S_Intro_Shen_02 AkEvent]
-SpokenText="Gatecrasher, a janela est· aberta."
+SpokenText="Gatecrasher, a janela est√° aberta."
 
 [S_Item_Selected_Engineering_Tutorial_Shen AkEvent]
 SpokenText="Estou nisso, Comandante."
 
 [S_Old_Gods_01_Shen_01 AkEvent]
-SpokenText="Comandante, estamos progredindo ao montar essa coisa novamente, mas n„o tem sido bonito."
+SpokenText="Comandante, estamos progredindo ao montar essa coisa novamente, mas n√£o tem sido bonito."
 
 [S_Old_Gods_01_Shen_02 AkEvent]
-SpokenText="Eu acredito em vocÍ, Doutor."
+SpokenText="Eu acredito em voc√™, Doutor."
 
 [S_Old_Gods_01_Shen_03 AkEvent]
-SpokenText="Essas s„o coordenadas - coordenadas de retorno. Acho que temos um ponto de origem! Bem... parte de um. Duvido que seja local..."
+SpokenText="Essas s√£o coordenadas - coordenadas de retorno. Acho que temos um ponto de origem! Bem... parte de um. Duvido que seja local..."
 
 [S_Old_Gods_01_Shen_04 AkEvent]
-SpokenText="N„o È sÛ isso que est· fazendo. Estou perdendo os dados que j· deciframos."
+SpokenText="N√£o √© s√≥ isso que est√° fazendo. Estou perdendo os dados que j√° deciframos."
 
 [S_Old_Gods_01_Shen_05 AkEvent]
-SpokenText="EsqueÁa os dados... ele est· acessando o n˙cleo de energia. Anulando minhas salvaguardas. Aumentando os nÌveis de energia para... N„o!"
+SpokenText="Esque√ßa os dados... ele est√° acessando o n√∫cleo de energia. Anulando minhas salvaguardas. Aumentando os n√≠veis de energia para... N√£o!"
 
 [S_Old_Gods_01_Shen_06 AkEvent]
-SpokenText="Tygan! Corte a conex„o!"
+SpokenText="Tygan! Corte a conex√£o!"
 
 [S_Old_Gods_01_Shen_07 AkEvent]
-SpokenText="Isso È uma quantidade enorme de dados."
+SpokenText="Isso √© uma quantidade enorme de dados."
 
 [S_Old_Gods_01_Shen_08 AkEvent]
-SpokenText="Melhor comeÁarmos. Acho que n„o seremos capazes de fazer isso novamente."
+SpokenText="Melhor come√ßarmos. Acho que n√£o seremos capazes de fazer isso novamente."
 
 [S_Old_Gods_01_Shen_09 AkEvent]
-SpokenText="Se eu conseguir reconstruir os dados perdidos na transferÍncia. SÛ espero que tenha valido a pena."
+SpokenText="Se eu conseguir reconstruir os dados perdidos na transfer√™ncia. S√≥ espero que tenha valido a pena."
 
 [S_Pre_Final_Mission_Broadcast_Shen_01 AkEvent]
-SpokenText="Quando ele n„o est·?"
+SpokenText="Quando ele n√£o est√°?"
 
 [S_Pre_Final_Mission_Broadcast_Shen_02 AkEvent]
 SpokenText="Sem problemas."
 
 [S_ResistanceMusing_Shen AkEvent]
-SpokenText="Ter o Comandante por perto parece ter dado um impulso na moral da resistÍncia, alÈm de nossa tripulaÁ„o. N„o acho que j· vi Bradford t„o feliz. Embora ele e o Comandante conheÁam e confiem no Cato desde antes da guerra, estou reservando meu julgamento por enquanto. Por mais que a resistÍncia precise de nossa ajuda, tambÈm precisamos de seu apoio."
+SpokenText="Ter o Comandante por perto parece ter dado um impulso na moral da resist√™ncia, al√©m de nossa tripula√ß√£o. N√£o acho que j√° vi Bradford t√£o feliz. Embora ele e o Comandante conhe√ßam e confiem no Cato desde antes da guerra, estou reservando meu julgamento por enquanto. Por mais que a resist√™ncia precise de nossa ajuda, tamb√©m precisamos de seu apoio."
 
 [S_Setup_Phase_Avoid_Hostile_Detection_Radius_Shen AkEvent]
-SpokenText="VocÍ precisa evitar a linha de vis„o deles, fique fora do raio de detecÁ„o indicado."
+SpokenText="Voc√™ precisa evitar a linha de vis√£o deles, fique fora do raio de detec√ß√£o indicado."
 
 [S_Setup_Phase_Build_This_Facility_Shen AkEvent]
-SpokenText="Comandante, acho que construir esta instalaÁ„o nos traria o maior benefÌcio agora."
+SpokenText="Comandante, acho que construir esta instala√ß√£o nos traria o maior benef√≠cio agora."
 
 [S_Setup_Phase_Excavation_Staff_Confirmed_Shen AkEvent]
-SpokenText="Parece bom para mim, È sÛ dar a palavra e comeÁaremos, Comandante."
+SpokenText="Parece bom para mim, √© s√≥ dar a palavra e come√ßaremos, Comandante."
 
 [S_Setup_Phase_Excavation_Underway_Shen AkEvent]
-SpokenText="A escavaÁ„o
+SpokenText="A escava√ß√£o
 
- est· em andamento, Comandante, mas levar· algum tempo para remover tudo isso."
+ est√° em andamento, Comandante, mas levar√° algum tempo para remover tudo isso."
 
 [S_Setup_Phase_First_Build_Item_Screen_Shen AkEvent]
-SpokenText="VocÍ ficaria surpreso com a grande diferenÁa que algumas dessas coisas podem fazer em combate, Comandante. Com alguns suprimentos, posso fabricar qualquer coisa que precisarmos rapidamente."
+SpokenText="Voc√™ ficaria surpreso com a grande diferen√ßa que algumas dessas coisas podem fazer em combate, Comandante. Com alguns suprimentos, posso fabricar qualquer coisa que precisarmos rapidamente."
 
 [S_Setup_Phase_How_To_Excavate_Shen AkEvent]
-SpokenText="Para limpar esses espaÁos, primeiro precisaremos designar um engenheiro para a tarefa. ¿ medida que comeÁarmos a alcanÁar as partes distantes da nave, levar· mais tempo e m„o de obra para abrir espaÁo para novas instalaÁıes."
+SpokenText="Para limpar esses espa√ßos, primeiro precisaremos designar um engenheiro para a tarefa. √Ä medida que come√ßarmos a alcan√ßar as partes distantes da nave, levar√° mais tempo e m√£o de obra para abrir espa√ßo para novas instala√ß√µes."
 
 [S_Setup_Phase_Start_Excavation_Shen AkEvent]
-SpokenText="Agora que temos alguma ajuda, podemos comeÁar a remover os equipamentos antigos e detritos da nave para dar espaÁo para novas instalaÁıes."
+SpokenText="Agora que temos alguma ajuda, podemos come√ßar a remover os equipamentos antigos e detritos da nave para dar espa√ßo para novas instala√ß√µes."
 
 [S_Setup_Phase_Use_Overwatch_Against_Reinforcements_Shen AkEvent]
-SpokenText="Se quisermos surpreender as forÁas de reforÁo dos alienÌgenas, podemos usar a Vigil‚ncia para nos posicionar e preparar para a chegada deles."
+SpokenText="Se quisermos surpreender as for√ßas de refor√ßo dos alien√≠genas, podemos usar a Vigil√¢ncia para nos posicionar e preparar para a chegada deles."
 
 [S_Shen_Greeting_A AkEvent]
 SpokenText="Ei, Comandante."
 
 [S_Shen_Greeting_B AkEvent]
-SpokenText="Ol·, Comandante."
+SpokenText="Ol√°, Comandante."
 
 [S_Shen_Greeting_C AkEvent]
 SpokenText="Comandante?"
 
 [S_Shen_Greeting_D AkEvent]
-SpokenText="O que posso fazer por vocÍ, Comandante?"
+SpokenText="O que posso fazer por voc√™, Comandante?"
 
 [S_Shen_Greeting_E AkEvent]
 SpokenText="Novas ordens, Comandante?"
 
 [S_Shen_Greeting_F AkEvent]
-SpokenText="… sÛ dar a palavra e eu comeÁo, Comandante."
+SpokenText="√â s√≥ dar a palavra e eu come√ßo, Comandante."
 
 [S_Shen_ThankYouForWorkshop AkEvent]
-SpokenText="Obrigado, Comandante. O novo laboratÛrio vai servir perfeitamente."
+SpokenText="Obrigado, Comandante. O novo laborat√≥rio vai servir perfeitamente."
 
 [S_Shens_Loot_Shen_01_Setup_Phase AkEvent]
-SpokenText="Por que vocÍs est„o sÛ parados aÌ?"
+SpokenText="Por que voc√™s est√£o s√≥ parados a√≠?"
 
 [S_Shens_Loot_Shen_02_Setup_Phase AkEvent]
-SpokenText="Est· perfeito! Vamos, vamos lev·-lo para dentro."
+SpokenText="Est√° perfeito! Vamos, vamos lev√°-lo para dentro."
 
 [S_StasisLanceReminder_Shen AkEvent]
-SpokenText="Estamos prontos, Comandante. Se vocÍ precisar de um Skulljack, podemos construir um a qualquer momento."
+SpokenText="Estamos prontos, Comandante. Se voc√™ precisar de um Skulljack, podemos construir um a qualquer momento."
 
 [S_Support_Ambient_Musings_Misc_Shen_01 AkEvent]
-SpokenText="Estive vasculhando alguns dos arquivos antigos que Central tem guardado desde antes da guerra. Continuo encontrando anotaÁıes rabiscadas em inglÍs e o que parece ser alem„o quebrado. Devo perguntar a ele sobre isso."
+SpokenText="Estive vasculhando alguns dos arquivos antigos que Central tem guardado desde antes da guerra. Continuo encontrando anota√ß√µes rabiscadas em ingl√™s e o que parece ser alem√£o quebrado. Devo perguntar a ele sobre isso."
 
 [S_Support_Beam_Weapons_Shen_01 AkEvent]
-SpokenText="Os alienÌgenas n„o v„o ficar felizes quando descobrirem que agora temos armas de energia iguais ‡s deles."
+SpokenText="Os alien√≠genas n√£o v√£o ficar felizes quando descobrirem que agora temos armas de energia iguais √†s deles."
 
 [S_Support_Build_Proving_Grounds_Shen_01 AkEvent]
-SpokenText="Comandante, se vamos tentar construir esse Skulljack que o Tygan inventou, vamos precisar de uma instalaÁ„o especializada para test·-lo."
+SpokenText="Comandante, se vamos tentar construir esse Skulljack que o Tygan inventou, vamos precisar de uma instala√ß√£o especializada para test√°-lo."
 
 [S_Support_Excavate_Room_No_Engineer_Shen AkEvent]
-SpokenText="Comandante, vou precisar de mais ajuda na equipe de engenharia antes de comeÁar a limpar algumas dessas salas. Devemos recrutar um engenheiro."
+SpokenText="Comandante, vou precisar de mais ajuda na equipe de engenharia antes de come√ßar a limpar algumas dessas salas. Devemos recrutar um engenheiro."
 
 [S_Support_First_Engineer_Received_Shen AkEvent]
-SpokenText="Agora que temos mais pessoal na equipe de engenharia, podemos comeÁar a liberar espaÁo para novas instalaÁıes, Comandante. Mas devemos continuar procurando mais recrutas, precisaremos deles para ocupar as instalaÁıes assim que forem construÌdas."
+SpokenText="Agora que temos mais pessoal na equipe de engenharia, podemos come√ßar a liberar espa√ßo para novas instala√ß√µes, Comandante. Mas devemos continuar procurando mais recrutas, precisaremos deles para ocupar as instala√ß√µes assim que forem constru√≠das."
 
 [S_Support_First_Excavating_Room_Shen_01 AkEvent]
-SpokenText="Comandante, atÈ agora n„o vi nada crÌtico entre os componentes alienÌgenas restantes nesta ·rea. Se limparmos essas coisas, podemos usar esse espaÁo para uma nova instalaÁ„o."
+SpokenText="Comandante, at√© agora n√£o vi nada cr√≠tico entre os componentes alien√≠genas restantes nesta √°rea. Se limparmos essas coisas, podemos usar esse espa√ßo para uma nova instala√ß√£o."
 
 [S_Support_First_Facility_Construction_Shen_01 AkEvent]
-SpokenText="ComeÁaremos o trabalho na nova instalaÁ„o imediatamente, Comandante. Mandarei um aviso quando ela estiver operacional."
+SpokenText="Come√ßaremos o trabalho na nova instala√ß√£o imediatamente, Comandante. Mandarei um aviso quando ela estiver operacional."
 
 [S_Support_First_Item_Selected_Shen_01 AkEvent]
-SpokenText="Est· em suas m„os, Comandante. Me avise se precisar de mais alguma coisa."
+SpokenText="Est√° em suas m√£os, Comandante. Me avise se precisar de mais alguma coisa."
 
 [S_Support_First_Kill_Shen_01 AkEvent]
-SpokenText="Comandante, pode ser que encontremos equipamentos recuper·veis nos corpos dos ADVENT. Qualquer coisa que possamos recuperar ser· de grande ajuda para fabricar nossas prÛprias coisas."
+SpokenText="Comandante, pode ser que encontremos equipamentos recuper√°veis nos corpos dos ADVENT. Qualquer coisa que possamos recuperar ser√° de grande ajuda para fabricar nossas pr√≥prias coisas."
 
 [S_Support_First_Time_Construction_Shen AkEvent]
-SpokenText="H· espaÁo para expandirmos nossas instalaÁıes a bordo do Avenger, Comandante, mas precisaremos de mais engenheiros para liberar espaÁo para a construÁ„o primeiro."
+SpokenText="H√° espa√ßo para expandirmos nossas instala√ß√µes a bordo do Avenger, Comandante, mas precisaremos de mais engenheiros para liberar espa√ßo para a constru√ß√£o primeiro."
 
 [S_Support_Golden_Path_Musings_Advent_Shen_01 AkEvent]
-SpokenText="AtÈ onde posso ver, a tecnologia da ADVENT, junto com a maior parte do que vimos acontecendo nos centros urbanos, È baseada em variaÁıes e, em alguns casos, melhorias da tecnologia alienÌgena existente usada durante a invas„o. Felizmente, quanto mais comum isso se tornar, mais f·cil ser· encontrar componentes que possam funcionar em conjunto com os sistemas hÌbridos do Avenger."
+SpokenText="At√© onde posso ver, a tecnologia da ADVENT, junto com a maior parte do que vimos acontecendo nos centros urbanos, √© baseada em varia√ß√µes e, em alguns casos, melhorias da tecnologia alien√≠gena existente usada durante a invas√£o. Felizmente, quanto mais comum isso se tornar, mais f√°cil ser√° encontrar componentes que possam funcionar em conjunto com os sistemas h√≠bridos do Avenger."
 
 [S_Support_Golden_Path_Musings_Blacksite_Horror_Shen_01 AkEvent]
-SpokenText="Todas essas pessoas, milhıes de vidas inocentes caminhando sem saber direto para a armadilha dos alienÌgenas. DeverÌamos ter percebido mais cedo, sabÌamos que os alienÌgenas n„o podiam ser confi·veis. Mas a mensagem deles sempre foi mais alta do que a nossa, e eles certamente tÍm muito mais incentivos a oferecer nos centros urbanos do que nÛs aqui fora. De qualquer forma, n„o podemos deixar isso continuar, n„o importa o custo."
+SpokenText="Todas essas pessoas, milh√µes de vidas inocentes caminhando sem saber direto para a armadilha dos alien√≠genas. Dever√≠amos ter percebido mais cedo, sab√≠amos que os alien√≠genas n√£o podiam ser confi√°veis. Mas a mensagem deles sempre foi mais alta do que a nossa, e eles certamente t√™m muito mais incentivos a oferecer nos centros urbanos do que n√≥s aqui fora. De qualquer forma, n√£o podemos deixar isso continuar, n√£o importa o custo."
 
 [S_Support_Golden_Path_Musings_Dying_Ethereals_Shen_01 AkEvent]
-SpokenText="N„o acho que vocÍ vai encontrar alguÈm a bordo desta nave que sinta a menor pena ao ouvir que os Anciıes est„o morrendo. Se È que algo, a moral provavelmente deu um impulso assim que a notÌcia se espalhou fora da equipe sÍnior. Claro, sempre h· uma pegadinha - eles sempre tÍm um plano - e tenho a impress„o de que vamos acabar sendo parte da cura deles, gostemos ou n„o."
+SpokenText="N√£o acho que voc√™ vai encontrar algu√©m a bordo desta nave que sinta a menor pena ao ouvir que os Anci√µes est√£o morrendo. Se √© que algo, a moral provavelmente deu um impulso assim que a not√≠cia se espalhou fora da equipe s√™nior. Claro, sempre h√° uma pegadinha - eles sempre t√™m um plano - e tenho a impress√£o de que vamos acabar sendo parte da cura deles, gostemos ou n√£o."
 
 [S_Support_Great_Mission_Shen_01 AkEvent]
-SpokenText="Se continuarmos assim, os alienÌgenas n„o tÍm chance, Comandante."
+SpokenText="Se continuarmos assim, os alien√≠genas n√£o t√™m chance, Comandante."
 
 [S_Support_Great_Mission_Shen_02 AkEvent]
-SpokenText="Vamos torcer para que todos sejam assim t„o tranquilos, Comandante. ”timo trabalho."
+SpokenText="Vamos torcer para que todos sejam assim t√£o tranquilos, Comandante. √ìtimo trabalho."
 
 [S_Support_Great_Mission_Shen_03 AkEvent]
-SpokenText="Bom trabalho, Comandante - sempre È bom para a moral quando acertamos uma miss„o assim."
+SpokenText="Bom trabalho, Comandante - sempre √© bom para a moral quando acertamos uma miss√£o assim."
 
 [S_Support_Great_Mission_Shen_04 AkEvent]
-SpokenText="Eu me perguntava como o novo equipamento se sairia, Comandante. Parece que est· funcionando muito bem."
+SpokenText="Eu me perguntava como o novo equipamento se sairia, Comandante. Parece que est√° funcionando muito bem."
 
 [S_Support_Great_Mission_Shen_05 AkEvent]
-SpokenText="Fico feliz em ver que nossos novos recrutas n„o hesitam em enfrentar os alienÌgenas."
+SpokenText="Fico feliz em ver que nossos novos recrutas n√£o hesitam em enfrentar os alien√≠genas."
 
 [S_Support_Great_Mission_Shen_06 AkEvent]
-SpokenText="Bom trabalho l· fora, Comandante. Os alienÌgenas devem estar ficando nervosos agora."
+SpokenText="Bom trabalho l√° fora, Comandante. Os alien√≠genas devem estar ficando nervosos agora."
 
 [S_Support_Great_Mission_Shen_07 AkEvent]
-SpokenText="O esquadr„o voltou inteiro, e os alienÌgenas pagaram o preÁo. ”timo trabalho, Com
+SpokenText="O esquadr√£o voltou inteiro, e os alien√≠genas pagaram o pre√ßo. √ìtimo trabalho, Com
 
 andante."
 
 [S_Support_Great_Mission_Shen_08 AkEvent]
-SpokenText="N„o h· como os alienÌgenas estarem esperando uma luta assim. Estou impressionado, Comandante."
+SpokenText="N√£o h√° como os alien√≠genas estarem esperando uma luta assim. Estou impressionado, Comandante."
 
 [S_Support_Great_Mission_Shen_09 AkEvent]
-SpokenText="Depois de uma miss„o como essa, os ‚nimos v„o estar l· em cima por aqui. Talvez tenhamos que reabastecer o bar."
+SpokenText="Depois de uma miss√£o como essa, os √¢nimos v√£o estar l√° em cima por aqui. Talvez tenhamos que reabastecer o bar."
 
 [S_Support_Great_Mission_Shen_10 AkEvent]
-SpokenText="Os alienÌgenas ainda devem estar se perguntando o que aconteceu com eles. Vamos continuar assim, Comandante."
+SpokenText="Os alien√≠genas ainda devem estar se perguntando o que aconteceu com eles. Vamos continuar assim, Comandante."
 
 [S_Support_Heavy_Plated_Armor_Shen_01 AkEvent]
-SpokenText="O traje de armadura E.X.O. d· aos nossos soldados o poder necess·rio para lidar com armas pesadas, com a durabilidade para combinar."
+SpokenText="O traje de armadura E.X.O. d√° aos nossos soldados o poder necess√°rio para lidar com armas pesadas, com a durabilidade para combinar."
 
 [S_Support_Heavy_Powered_Armor_Shen_01 AkEvent]
-SpokenText="Estamos chamando essa armadura de poder pesado de traje W.A.R. Esta È t„o resistente e forte quanto podemos fazer, com muita potÍncia para lidar com armas pesadas."
+SpokenText="Estamos chamando essa armadura de poder pesado de traje W.A.R. Esta √© t√£o resistente e forte quanto podemos fazer, com muita pot√™ncia para lidar com armas pesadas."
 
 [S_Support_Light_Plated_Armor_Shen_01 AkEvent]
-SpokenText="O traje Spider aumentar· as chances de nossos soldados esquivarem-se de um ataque, ao mesmo tempo que proporciona maior agilidade e capacidade de agarramento."
+SpokenText="O traje Spider aumentar√° as chances de nossos soldados esquivarem-se de um ataque, ao mesmo tempo que proporciona maior agilidade e capacidade de agarramento."
 
 [S_Support_Light_Powered_Armor_Shen_01 AkEvent]
-SpokenText="Nosso traje mais furtivo, o Wraith, oferece uma variedade de movimentos que tecnicamente violam as leis da fÌsica. TambÈm temos um gancho de agarramento, para garantir."
+SpokenText="Nosso traje mais furtivo, o Wraith, oferece uma variedade de movimentos que tecnicamente violam as leis da f√≠sica. Tamb√©m temos um gancho de agarramento, para garantir."
 
 [S_Support_Magnetic_Weapons_Shen_01 AkEvent]
-SpokenText="Essas armas de base magnÈtica s„o muito parecidas com os primeiros protÛtipos de railgun, elas disparam projÈteis a velocidades extremamente altas."
+SpokenText="Essas armas de base magn√©tica s√£o muito parecidas com os primeiros prot√≥tipos de railgun, elas disparam proj√©teis a velocidades extremamente altas."
 
 [S_Support_Medium_Plated_Armor_Shen_01 AkEvent]
-SpokenText="Apropriadamente chamada de armadura Predator, ela dar· aos nossos soldados uma maior longevidade no campo."
+SpokenText="Apropriadamente chamada de armadura Predator, ela dar√° aos nossos soldados uma maior longevidade no campo."
 
 [S_Support_Medium_Powered_Armor_Shen_01 AkEvent]
-SpokenText="Este È o nosso esqueleto b·sico para a armadura de poder, proporcionando a durabilidade que se espera de um gigante traje blindado."
+SpokenText="Este √© o nosso esqueleto b√°sico para a armadura de poder, proporcionando a durabilidade que se espera de um gigante traje blindado."
 
 [S_Support_Modify_Skulljack_Shen_01 AkEvent]
-SpokenText="Comandante, se realmente quisermos levar vantagem sobre os alienÌgenas, tenho algumas ideias sobre como podemos modificar o Skulljack para procurar ·reas ocultas na rede ADVENT. N„o vou mentir para vocÍ, nossas tropas ter„o que executar uma manobra arriscada para fazÍ-lo funcionar em campo."
+SpokenText="Comandante, se realmente quisermos levar vantagem sobre os alien√≠genas, tenho algumas ideias sobre como podemos modificar o Skulljack para procurar √°reas ocultas na rede ADVENT. N√£o vou mentir para voc√™, nossas tropas ter√£o que executar uma manobra arriscada para faz√™-lo funcionar em campo."
 
 [S_Support_More_Engineers_Shen_01 AkEvent]
-SpokenText="Comandante, se encontrar recrutas habilidosos por aÌ, sempre podemos usar ajuda na Engenharia.
+SpokenText="Comandante, se encontrar recrutas habilidosos por a√≠, sempre podemos usar ajuda na Engenharia.
 
 [S_Support_Not_Enough_Comms_Shen AkEvent]
-SpokenText="Comandante, utilizamos toda a nossa capacidade de comunicaÁ„o disponÌvel, n„o podemos estabelecer novos contatos atÈ atualizarmos nossos sistemas."
+SpokenText="Comandante, utilizamos toda a nossa capacidade de comunica√ß√£o dispon√≠vel, n√£o podemos estabelecer novos contatos at√© atualizarmos nossos sistemas."
 
 [S_Support_Not_Enough_Power_Shen AkEvent]
-SpokenText="Comandante, nossos sistemas de energia est„o no limite, n„o temos capacidade para expandir nossas instalaÁıes ainda mais."
+SpokenText="Comandante, nossos sistemas de energia est√£o no limite, n√£o temos capacidade para expandir nossas instala√ß√µes ainda mais."
 
 [S_Support_Proving_Ground_Project_First_Shen_01 AkEvent]
-SpokenText="Vou fazer a equipe comeÁar imediatamente, Comandante. Eu te aviso assim que fizermos progresso."
+SpokenText="Vou fazer a equipe come√ßar imediatamente, Comandante. Eu te aviso assim que fizermos progresso."
 
 [S_Support_Proving_Ground_Visit_Shen_01 AkEvent]
-SpokenText="Bem-vindo ‡s Proving Grounds, Comandante. Parece uma boa ideia isolar alguns dos nossos conceitos mais experimentais, especialmente quando se trata de desenvolvimento de armas."
+SpokenText="Bem-vindo √†s Proving Grounds, Comandante. Parece uma boa ideia isolar alguns dos nossos conceitos mais experimentais, especialmente quando se trata de desenvolvimento de armas."
 
 [S_Support_Proving_Grounds_Project_Selected_Shen_01 AkEvent]
-SpokenText="”timo, Comandante - aviso assim que o projeto estiver pronto para implantaÁ„o."
+SpokenText="√ìtimo, Comandante - aviso assim que o projeto estiver pronto para implanta√ß√£o."
 
 [S_Support_Proving_Grounds_Project_Selected_Shen_02 AkEvent]
 SpokenText="Escolha interessante. Avise assim que terminarmos, Comandante."
 
 [S_Support_Proving_Grounds_Project_Selected_Shen_03 AkEvent]
-SpokenText="ComeÁaremos imediatamente, Comandante. Avise quando o projeto estiver concluÌdo."
+SpokenText="Come√ßaremos imediatamente, Comandante. Avise quando o projeto estiver conclu√≠do."
 
 [S_Support_Psi_Gate_Recovered_Shen AkEvent]
-SpokenText="Comandante, agora que conseguimos trazer o artefato alienÌgena para a Shadow Chamber, devemos comeÁar a an·lise o mais r·pido possÌvel. … arriscado, mas n„o vejo outra forma de entender como isso funciona a n„o ser ativando-o."
+SpokenText="Comandante, agora que conseguimos trazer o artefato alien√≠gena para a Shadow Chamber, devemos come√ßar a an√°lise o mais r√°pido poss√≠vel. √â arriscado, mas n√£o vejo outra forma de entender como isso funciona a n√£o ser ativando-o."
 
 [S_Support_Shadow_Chamber_Constructed_Shen AkEvent]
-SpokenText="Comandante, agora que concluÌmos a Shadow Chamber, poderemos fazer uma an·lise mais completa dos artefatos e dados alienÌgenas que recuperamos."
+SpokenText="Comandante, agora que conclu√≠mos a Shadow Chamber, poderemos fazer uma an√°lise mais completa dos artefatos e dados alien√≠genas que recuperamos."
 
 [S_Support_Shadow_Chamber_Nag_Shen AkEvent]
-SpokenText="Comandante, a Shadow Chamber est· operacional. Tudo que precisamos fazer agora È us·-la."
+SpokenText="Comandante, a Shadow Chamber est√° operacional. Tudo que precisamos fazer agora √© us√°-la."
 
 [S_Support_Shadow_Chamber_Tactical_UI_First_Shen_01 AkEvent]
-SpokenText="Comandante, a Shadow Chamber analisou os dados e essas s„o as projeÁıes t·ticas para a prÛxima operaÁ„o no campo."
+SpokenText="Comandante, a Shadow Chamber analisou os dados e essas s√£o as proje√ß√µes t√°ticas para a pr√≥xima opera√ß√£o no campo."
 
 [S_Support_Staffing_Investment_Shen_01 AkEvent]
-SpokenText="Comandante, quando designamos a equipe de engenharia para uma instalaÁ„o especÌfica, eles ter„o que trabalhar l· por um tempo antes de poderem mudar."
+SpokenText="Comandante, quando designamos a equipe de engenharia para uma instala√ß√£o espec√≠fica, eles ter√£o que trabalhar l√° por um tempo antes de poderem mudar."
 
 [S_Support_Thanks_Workshop_Shen_01 AkEvent]
-SpokenText="Eu sei que o espaÁo È limitado, Comandante - agradeÁo pelas instalaÁıes adicionais do laboratÛrio. Vamos us·-las bem."
+SpokenText="Eu sei que o espa√ßo √© limitado, Comandante - agrade√ßo pelas instala√ß√µes adicionais do laborat√≥rio. Vamos us√°-las bem."
 
 [S_Support_Tough_Mission_Shen_01 AkEvent]
-SpokenText="Isso n„o correu muito bem. Talvez eu possa melhorar nossas armas ou armaduras de alguma forma, dar melhores chances ‡s nossas tropas."
+SpokenText="Isso n√£o correu muito bem. Talvez eu possa melhorar nossas armas ou armaduras de alguma forma, dar melhores chances √†s nossas tropas."
 
 [S_Support_Tough_Mission_Shen_02 AkEvent]
-SpokenText="Mais algumas missıes assim, e os alienÌgenas ter„o acabado com o que pouco nos resta."
+SpokenText="Mais algumas miss√µes assim, e os alien√≠genas ter√£o acabado com o que pouco nos resta."
 
 [S_Support_Tough_Mission_Shen_03 AkEvent]
 SpokenText="Tem que haver algo mais que possamos fazer para ajudar nossas tropas."
 
 [S_Support_Tough_Mission_Shen_04 AkEvent]
-SpokenText="Pensei que est·vamos prontos. Vou ter que trabalhar mais - todos nÛs teremos que trabalhar mais."
+SpokenText="Pensei que est√°vamos prontos. Vou ter que trabalhar mais - todos n√≥s teremos que trabalhar mais."
 
 [S_Support_Tough_Mission_Shen_05 AkEvent]
-SpokenText="Meus engenheiros est„o empenhados em garantir que isso n„o aconteÁa novamente, Comandante - faremos tudo o que pudermos."
+SpokenText="Meus engenheiros est√£o empenhados em garantir que isso n√£o aconte√ßa novamente, Comandante - faremos tudo o que pudermos."
 
 [S_Support_Unstaffed_Engineer_Shen AkEvent]
-SpokenText="Comandante, agradeÁo por recrutar novo pessoal para a equipe de engenharia, mas, como est· agora, temos pessoas esperando uma atribuiÁ„o. Podemos tÍ-las trabalhando em construÁ„o, escavaÁ„o ou ocupando uma instalaÁ„o."
+SpokenText="Comandante, agrade√ßo por recrutar novo pessoal para a equipe de engenharia, mas, como est√° agora, temos pessoas esperando uma atribui√ß√£o. Podemos t√™-las trabalhando em constru√ß√£o, escava√ß√£o ou ocupando uma instala√ß√£o."
 
 [S_Support_Urge_Facility_Shen_01 AkEvent]
-SpokenText="Comandante, pode ser que tenhamos que fazer uma limpeza, mas ainda temos espaÁo para crescer aqui. Devemos considerar construir algumas novas instalaÁıes."
+SpokenText="Comandante, pode ser que tenhamos que fazer uma limpeza, mas ainda temos espa√ßo para crescer aqui. Devemos considerar construir algumas novas instala√ß√µes."
 
 [S_Victory_Shen_01 AkEvent]
-SpokenText="Sem os Anciıes estabilizando a rede psiÙnica, tudo est· ficando descontrolado! Aquela porta n„o vai aguentar por muito mais tempo!"
+SpokenText="Sem os Anci√µes estabilizando a rede psi√¥nica, tudo est√° ficando descontrolado! Aquela porta n√£o vai aguentar por muito mais tempo!"
 
 [S_Victory_Shen_02 AkEvent]
-SpokenText="N„o foi nada do meu lado. Isso nem deveria ser possÌvel. A menos que..."
+SpokenText="N√£o foi nada do meu lado. Isso nem deveria ser poss√≠vel. A menos que..."
 
 [S_Victory_Shen_03 AkEvent]
 SpokenText="Se fizermos isso, corremos o risco de uma sobrecarga completa!"
 
 [S_Victory_Shen_04 AkEvent]
-SpokenText="E uma rede psiÛnica transdimensional fora de combate."
+SpokenText="E uma rede psi√≥nica transdimensional fora de combate."
 
 [S_Welcome_Engineering_Shen_01_Setup_Phase AkEvent]
-SpokenText="Vamos l·, n„o seja teimoso. Verifiquei as conexıes cinco vezes. Por que. N„o. Est·. Funcionando."
+SpokenText="Vamos l√°, n√£o seja teimoso. Verifiquei as conex√µes cinco vezes. Por que. N√£o. Est√°. Funcionando."
 
 [S_Welcome_Engineering_Shen_02_Setup_Phase AkEvent]
-SpokenText="Comandante! Fazer com que nossa tecnologia converse com a deles È mais difÌcil do que vocÍ pensa. Embora eu tenha certeza de que vocÍ, acima de todos, sabe disso."
+SpokenText="Comandante! Fazer com que nossa tecnologia converse com a deles √© mais dif√≠cil do que voc√™ pensa. Embora eu tenha certeza de que voc√™, acima de todos, sabe disso."
 
 [S_Welcome_Engineering_Shen_03_Setup_Phase AkEvent]
-SpokenText="N„o que eu quisesse... Acho que ainda n„o fomos apresentados formalmente. Lily Shen, engenheira da nave, ‡ sua disposiÁ„o. VocÍ provavelmente estava esperando ver meu pai - com tudo o que aconteceu, eu suponho que o Central ainda n„o tenha te contado."
+SpokenText="N√£o que eu quisesse... Acho que ainda n√£o fomos apresentados formalmente. Lily Shen, engenheira da nave, √† sua disposi√ß√£o. Voc√™ provavelmente estava esperando ver meu pai - com tudo o que aconteceu, eu suponho que o Central ainda n√£o tenha te contado."
 
 [S_Welcome_Engineering_Shen_04_Setup_Phase AkEvent]
-SpokenText="Meu pai... deu tudo o que tinha para nos levar atÈ aqui. Esta nave inteira È a obra de sua vida. Eu sei que ele adoraria te mostrar o lugar pessoalmente. Ele costumava falar muito sobre vocÍ."
+SpokenText="Meu pai... deu tudo o que tinha para nos levar at√© aqui. Esta nave inteira √© a obra de sua vida. Eu sei que ele adoraria te mostrar o lugar pessoalmente. Ele costumava falar muito sobre voc√™."
 
 [S_Welcome_Engineering_Shen_05_Setup_Phase AkEvent]
-SpokenText="VocÍ pode ter certeza de que estou pronta para terminar o que ele comeÁou. Posso n„o parecer, mas a partir daqui, posso fabricar praticamente qualquer coisa que vocÍ imaginar. E com
+SpokenText="Voc√™ pode ter certeza de que estou pronta para terminar o que ele come√ßou. Posso n√£o parecer, mas a partir daqui, posso fabricar praticamente qualquer coisa que voc√™ imaginar. E com
 
- um pouco mais de ajuda... bem, vocÍ ficaria impressionado com o que posso fazer."
+ um pouco mais de ajuda... bem, voc√™ ficaria impressionado com o que posso fazer."
 
 [S_Welcome_Engineering_Shen_06_Setup_Phase AkEvent]
 SpokenText="Foi uma honra finalmente te conhecer, Comandante."

@@ -1,2 +1,2 @@
-[HelloCommander AkEvent]
-SpokenText="Ol�, Comandante."
+﻿[HelloCommander AkEvent]
+SpokenText="Olá, Comandante."

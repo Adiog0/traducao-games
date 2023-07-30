@@ -1,77 +1,77 @@
-[Strategy.GP_AvatarAutopsyScreen X2NarrativeMoment]
+Ôªø[Strategy.GP_AvatarAutopsyScreen X2NarrativeMoment]
 UIHeaderText="Examine o Corpo Recuperado do Avatar"
-UIBodyText="Use a C‚mara das Sombras para estudar o corpo do Avatar convocado que foi morto em combate pelas forÁas da XCOM."
-UIArrayText[0]="Complete o Projeto Sombra da AutÛpsia do Avatar"
+UIBodyText="Use a C√¢mara das Sombras para estudar o corpo do Avatar convocado que foi morto em combate pelas for√ßas da XCOM."
+UIArrayText[0]="Complete o Projeto Sombra da Aut√≥psia do Avatar"
 
 [Strategy.GP_BroadcastTheTruthScreen X2NarrativeMoment]
 UIHeaderText="Ataque a Torre de Rede da ADVENT"
-UIBodyText="Realize uma miss„o de infiltraÁ„o na principal torre de rede da ADVENT, tentando desativar a rede de comunicaÁ„o global da ADVENT e interromper o controle mundial da ADVENT."
-UIArrayText[0]="Complete a Miss„o da Torre de Rede da ADVENT"
+UIBodyText="Realize uma miss√£o de infiltra√ß√£o na principal torre de rede da ADVENT, tentando desativar a rede de comunica√ß√£o global da ADVENT e interromper o controle mundial da ADVENT."
+UIArrayText[0]="Complete a Miss√£o da Torre de Rede da ADVENT"
 
 [Strategy.GP_BuildShadowChamberScreen X2NarrativeMoment]
-UIHeaderText="Construa a C‚mara das Sombras"
-UIBodyText="Construa a instalaÁ„o da C‚mara das Sombras no Avenger."
-UIArrayText[0]="Construa a InstalaÁ„o da C‚mara das Sombras"
+UIHeaderText="Construa a C√¢mara das Sombras"
+UIBodyText="Construa a instala√ß√£o da C√¢mara das Sombras no Avenger."
+UIArrayText[0]="Construa a Instala√ß√£o da C√¢mara das Sombras"
 
 [Strategy.GP_BuildStasisSuitScreen X2NarrativeMoment]
 UIHeaderText="Examine o Traje de Estase da ADVENT"
-UIBodyText="Use a C‚mara das Sombras para estudar o Traje de Estase recuperado da instalaÁ„o Forge da ADVENT."
+UIBodyText="Use a C√¢mara das Sombras para estudar o Traje de Estase recuperado da instala√ß√£o Forge da ADVENT."
 UIArrayText[0]="Complete o Projeto Sombra do Traje de Estase"
 
 [Strategy.GP_CaptainAutopsyScreen X2NarrativeMoment]
 UIHeaderText="Examine o Corpo de um Oficial da ADVENT"
-UIBodyText="PeÁa ao Dr. Tygan para fazer uma autÛpsia do Oficial da ADVENT nos laboratÛrios de pesquisa."
-UIArrayText[0]="Complete a Pesquisa de AutÛpsia do Oficial da ADVENT"
+UIBodyText="Pe√ßa ao Dr. Tygan para fazer uma aut√≥psia do Oficial da ADVENT nos laborat√≥rios de pesquisa."
+UIArrayText[0]="Complete a Pesquisa de Aut√≥psia do Oficial da ADVENT"
 
 [Strategy.GP_ConstructPsiGateScreen X2NarrativeMoment]
-UIHeaderText="Examine o Port„o PsÌquico"
-UIBodyText="Instale o Port„o PsÌquico recuperado na C‚mara das Sombras, permitindo um estudo detalhado do Port„o e para onde ele pode levar."
-UIArrayText[0]="Atualize a C‚mara das Sombras"
-UIArrayText[1]="Complete o Projeto Sombra do Port„o PsÌquico"
+UIHeaderText="Examine o Port√£o Ps√≠quico"
+UIBodyText="Instale o Port√£o Ps√≠quico recuperado na C√¢mara das Sombras, permitindo um estudo detalhado do Port√£o e para onde ele pode levar."
+UIArrayText[0]="Atualize a C√¢mara das Sombras"
+UIArrayText[1]="Complete o Projeto Sombra do Port√£o Ps√≠quico"
 
 [Strategy.GP_ContactBlacksiteRegionScreen X2NarrativeMoment]
-UIHeaderText="Contate a ResistÍncia na Regi„o do Esconderijo"
-UIBodyText="FaÁa contato com a resistÍncia local na regi„o do esconderijo para obter acesso ‡ instalaÁ„o da ADVENT."
-UIArrayText[0]="Pesquise ComunicaÁıes da ResistÍncia"
-UIArrayText[1]="Voar para a Regi„o do Esconderijo"
-UIArrayText[2]="FaÁa Contato"
+UIHeaderText="Contate a Resist√™ncia na Regi√£o do Esconderijo"
+UIBodyText="Fa√ßa contato com a resist√™ncia local na regi√£o do esconderijo para obter acesso √† instala√ß√£o da ADVENT."
+UIArrayText[0]="Pesquise Comunica√ß√µes da Resist√™ncia"
+UIArrayText[1]="Voar para a Regi√£o do Esconderijo"
+UIArrayText[2]="Fa√ßa Contato"
 
 [Strategy.GP_FinalMissionScreen X2NarrativeMoment]
-UIHeaderText="Ataque ‡ Fortaleza AlienÌgena"
-UIBodyText="Envie o Comandante e um esquadr„o de soldados atravÈs do Port„o PsÌquico para o assento de poder dos alienÌgenas e destrua o domÌnio dos Anciıes na Terra de uma vez por todas."
-UIArrayText[0]="Complete a Miss„o da Fortaleza AlienÌgena"
+UIHeaderText="Ataque √† Fortaleza Alien√≠gena"
+UIBodyText="Envie o Comandante e um esquadr√£o de soldados atrav√©s do Port√£o Ps√≠quico para o assento de poder dos alien√≠genas e destrua o dom√≠nio dos Anci√µes na Terra de uma vez por todas."
+UIArrayText[0]="Complete a Miss√£o da Fortaleza Alien√≠gena"
 
 [Strategy.GP_ForgeMissionScreen X2NarrativeMoment]
 UIHeaderText="Investigue as Coordenadas do Frasco no Esconderijo"
-UIBodyText="ApÛs fazer contato com a resistÍncia local na regi„o, investigue a instalaÁ„o nas coordenadas do mapa recuperadas do frasco no esconderijo."
-UIArrayText[0]="Complete a Miss„o das Coordenadas do Frasco no Esconderijo"
+UIBodyText="Ap√≥s fazer contato com a resist√™ncia local na regi√£o, investigue a instala√ß√£o nas coordenadas do mapa recuperadas do frasco no esconderijo."
+UIArrayText[0]="Complete a Miss√£o das Coordenadas do Frasco no Esconderijo"
 
 [Strategy.GP_HackACaptainScreen X2NarrativeMoment]
-UIHeaderText="Acesse a Rede AlienÌgena"
-UIBodyText="Use o dispositivo Skulljack em um Oficial da ADVENT em combate para acessar a rede de comunicaÁ„o dos alienÌgenas."
-UIArrayText[0]="Construa a InstalaÁ„o Campo de Testes"
+UIHeaderText="Acesse a Rede Alien√≠gena"
+UIBodyText="Use o dispositivo Skulljack em um Oficial da ADVENT em combate para acessar a rede de comunica√ß√£o dos alien√≠genas."
+UIArrayText[0]="Construa a Instala√ß√£o Campo de Testes"
 UIArrayText[1]="Complete o Projeto Skulljack no Campo de Testes"
 UIArrayText[2]="Use o Skulljack em um Oficial da ADVENT"
 
 [Strategy.GP_HackACodexScreen X2NarrativeMoment]
-UIHeaderText="Invada a Rede AlienÌgena"
-UIBodyText="Use o dispositivo Skulljack em um alienÌgena Codex em combate para acessar dados restritos do Projeto Avatar."
+UIHeaderText="Invada a Rede Alien√≠gena"
+UIBodyText="Use o dispositivo Skulljack em um alien√≠gena Codex em combate para acessar dados restritos do Projeto Avatar."
 UIArrayText[0]="Use o Skulljack em um Codex"
 
 [Strategy.GP_InvestigateBlacksiteScreen X2NarrativeMoment]
 UIHeaderText="Investigue o Esconderijo da ADVENT"
-UIBodyText="A misteriosa instalaÁ„o da ADVENT deve ser investigada por uma equipe de ataque da XCOM, e quaisquer artefatos relevantes devem ser recuperados para estudo."
-UIArrayText[0]="Complete a Miss„o do Esconderijo da ADVENT"
+UIBodyText="A misteriosa instala√ß√£o da ADVENT deve ser investigada por uma equipe de ataque da XCOM, e quaisquer artefatos relevantes devem ser recuperados para estudo."
+UIArrayText[0]="Complete a Miss√£o do Esconderijo da ADVENT"
 
 [Strategy.GP_PsiGateMissionScreen X2NarrativeMoment]
-UIHeaderText="Investigue as Coordenadas do CÈrebro do Codex"
-UIBodyText="ApÛs fazer contato com a resistÍncia local na regi„o, investigue as coordenadas do mapa recuperadas do cÈrebro do Codex."
-UIArrayText[0]="Complete a Miss„o das Coordenadas do CÈrebro do Codex"
+UIHeaderText="Investigue as Coordenadas do C√©rebro do Codex"
+UIBodyText="Ap√≥s fazer contato com a resist√™ncia local na regi√£o, investigue as coordenadas do mapa recuperadas do c√©rebro do Codex."
+UIArrayText[0]="Complete a Miss√£o das Coordenadas do C√©rebro do Codex"
 
 [Strategy.GP_ResearchAlienEncryptionScreen X2NarrativeMoment]
-UIHeaderText="Pesquise a Criptografia AlienÌgena"
-UIBodyText="PeÁa ao Dr. Tygan para concluir a pesquisa sobre os mÈtodos de criptografia dos alienÌgenas."
-UIArrayText[0]="Complete a Pesquisa de Criptografia AlienÌgena"
+UIHeaderText="Pesquise a Criptografia Alien√≠gena"
+UIBodyText="Pe√ßa ao Dr. Tygan para concluir a pesquisa sobre os m√©todos de criptografia dos alien√≠genas."
+UIArrayText[0]="Complete a Pesquisa de Criptografia Alien√≠gena"
 
 [Strategy.GP_StudyBlacksiteDataScreen X2NarrativeMoment]
 UIHeaderText="Examine o Frasco Recuperado do Esconderijo"
@@ -80,11 +80,11 @@ UIArrayText[0]="Examine o Frasco Recuperado do Esconderijo"
 
 [Strategy.GP_StudyCodexBrainPt2Screen X2NarrativeMoment]
 UIHeaderText="Descriptografar Dados do Codex"
-UIBodyText="Use a C‚mara das Sombras para descriptografar os dados restantes do Codex."
+UIBodyText="Use a C√¢mara das Sombras para descriptografar os dados restantes do Codex."
 UIArrayText[0]="Complete o Projeto Sombra de Dados Criptografados do Codex"
 
 [Strategy.GP_StudyCodexBrainScreen X2NarrativeMoment]
-UIHeaderText="Examine o CÈrebro do Codex"
-UIBodyText="Use a C‚mara das Sombras para examinar o cÈrebro do Codex recuperado."
+UIHeaderText="Examine o C√©rebro do Codex"
+UIBodyText="Use a C√¢mara das Sombras para examinar o c√©rebro do Codex recuperado."
 UIArrayText[0]="Estude o Codex"
 UIArrayText[1]="Descriptografar Dados do Codex"

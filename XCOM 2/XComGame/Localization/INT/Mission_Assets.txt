@@ -1,5 +1,5 @@
-[Archetypes.ARC_IA_BlacksiteVial XComInteractiveLevelActor]
-FriendlyDisplayName="Centrífuga de Purificação"
+ï»¿[Archetypes.ARC_IA_BlacksiteVial XComInteractiveLevelActor]
+FriendlyDisplayName="CentrÃ­fuga de PurificaÃ§Ã£o"
 
 [Archetypes.ARC_IA_BroadcastStationBase XComInteractiveLevelActor]
 FriendlyDisplayName="Controle de Rede"

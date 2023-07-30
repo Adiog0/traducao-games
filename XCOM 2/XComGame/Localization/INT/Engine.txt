@@ -1,4 +1,4 @@
-[WorldInfo]
+﻿[WorldInfo]
 Title=""
 
 [CurveEdPresetCurve]

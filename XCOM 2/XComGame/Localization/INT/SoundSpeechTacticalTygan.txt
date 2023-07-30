@@ -1,207 +1,207 @@
-[First_Non_ADVENT_Sighted_TYGAN AkEvent]
-SpokenText="… prov·vel que vejamos mais dos prÛprios alienÌgenas agora que ameaÁamos o domÌnio deles em nosso mundo."
+Ôªø[First_Non_ADVENT_Sighted_TYGAN AkEvent]
+SpokenText="√â prov√°vel que vejamos mais dos pr√≥prios alien√≠genas agora que amea√ßamos o dom√≠nio deles em nosso mundo."
 
 [T_ADVENTcaptainSightedOne_Tygan AkEvent]
-SpokenText="O Capit„o da ADVENT nas proximidades seria um alvo ideal para o Skulljack."
+SpokenText="O Capit√£o da ADVENT nas proximidades seria um alvo ideal para o Skulljack."
 
 [T_ADVENTcaptainSightedSightedThree_Tygan AkEvent]
-SpokenText="H· um Capit„o da ADVENT por perto, devemos tentar desabilit·-lo com o Skulljack."
+SpokenText="H√° um Capit√£o da ADVENT por perto, devemos tentar desabilit√°-lo com o Skulljack."
 
 [T_ADVENTcaptainSightedTwo_Tygan AkEvent]
-SpokenText="O Capit„o da ADVENT serviria bem aos nossos propÛsitos, se pudermos desabilit·-lo."
+SpokenText="O Capit√£o da ADVENT serviria bem aos nossos prop√≥sitos, se pudermos desabilit√°-lo."
 
 [T_Alien_Facility_Advent_Clone_Pods_Tygan_01 AkEvent]
-SpokenText="Aqueles parecem ser algum tipo de c‚maras de incubaÁ„o, sem d˙vida parte do sistema de fornecimento de reforÁos da ADVENT."
+SpokenText="Aqueles parecem ser algum tipo de c√¢maras de incuba√ß√£o, sem d√∫vida parte do sistema de fornecimento de refor√ßos da ADVENT."
 
 [T_Alien_Fortress_Residential_Diorama_Tygan_01 AkEvent]
-SpokenText="Talvez eles tenham planejado usar isso para algum tipo de teste psicolÛgico..."
+SpokenText="Talvez eles tenham planejado usar isso para algum tipo de teste psicol√≥gico..."
 
 [T_Avatar_First_Action_Tygan AkEvent]
-SpokenText="Essas leituras indicam uma quantidade incrÌvel de energia psiÙnica, mas n„o temos como saber a verdadeira extens„o de seu poder."
+SpokenText="Essas leituras indicam uma quantidade incr√≠vel de energia psi√¥nica, mas n√£o temos como saber a verdadeira extens√£o de seu poder."
 
 [T_Avatar_Regenerates_Tygan AkEvent]
-SpokenText="Parece ser capaz de reparar suas feridas fÌsicas!"
+SpokenText="Parece ser capaz de reparar suas feridas f√≠sicas!"
 
 [T_Blacksite_Entering_Facility_Spotted_Tygan_P2 AkEvent]
-SpokenText="… seguro assumir que a ADVENT n„o construiu esse sistema da noite para o dia. Deve ter levado anos para montar uma operaÁ„o desse tipo. Talvez tenha sido a motivaÁ„o dos alienÌgenas desde o inÌcio."
+SpokenText="√â seguro assumir que a ADVENT n√£o construiu esse sistema da noite para o dia. Deve ter levado anos para montar uma opera√ß√£o desse tipo. Talvez tenha sido a motiva√ß√£o dos alien√≠genas desde o in√≠cio."
 
 [T_Blacksite_Exterior_Reveal_Tygan_P1 AkEvent]
-SpokenText="… seguro assumir que a ADVENT n„o construiu esse sistema da noite para o dia. Deve ter levado anos para montar uma operaÁ„o desse tipo. Mas para qual propÛsito?"
+SpokenText="√â seguro assumir que a ADVENT n√£o construiu esse sistema da noite para o dia. Deve ter levado anos para montar uma opera√ß√£o desse tipo. Mas para qual prop√≥sito?"
 
 [T_Blacksite_Interior_Reveal_Tygan_P1_ALT AkEvent]
-SpokenText="Tantas vÌtimas, processadas com uma eficiÍncia brutal. Talvez sejam sujeitos de algum tipo de teste de armas..."
+SpokenText="Tantas v√≠timas, processadas com uma efici√™ncia brutal. Talvez sejam sujeitos de algum tipo de teste de armas..."
 
 [T_Blacksite_Interior_Reveal_Tygan_P2 AkEvent]
-SpokenText="A quantidade de sujeitos. A eficiÍncia brutal de tudo isso. Talvez seja alguma espÈcie de instalaÁ„o de testes de armas?"
+SpokenText="A quantidade de sujeitos. A efici√™ncia brutal de tudo isso. Talvez seja alguma esp√©cie de instala√ß√£o de testes de armas?"
 
 [T_Blacksite_Liquid_Collection_Spotted_Tygan_P3 AkEvent]
 SpokenText="Se for o caso, eles certamente coletaram testes suficientes."
 
 [T_Blacksite_Soylent_Gold_Spotted_Tygan_01 AkEvent]
-SpokenText="Colete aquele frasco, precisamos saber o que eles est„o fazendo aqui."
+SpokenText="Colete aquele frasco, precisamos saber o que eles est√£o fazendo aqui."
 
 [T_Blacksite_Soylent_Gold_Spotted_Tygan_02 AkEvent]
-SpokenText="Aquele recipiente parece conter o resultado final do que quer que esse processo tenha sido projetado para criar. Embora provavelmente levante tantas perguntas quanto respostas, devemos recuperar a amostra para an·lise na nave."
+SpokenText="Aquele recipiente parece conter o resultado final do que quer que esse processo tenha sido projetado para criar. Embora provavelmente levante tantas perguntas quanto respostas, devemos recuperar a amostra para an√°lise na nave."
 
 [T_Broadcast_Flyover_Tygan_P2 AkEvent]
-SpokenText="IncrÌvel. A quantidade de energia filtrada por aquele sistema È inimagin·vel."
+SpokenText="Incr√≠vel. A quantidade de energia filtrada por aquele sistema √© inimagin√°vel."
 
 [T_Broadcast_Rooftops_Env_Callouts_Tygan_01 AkEvent]
-SpokenText="O design pode ser uma funÁ„o da prÛpria rede; a quantidade de energia psiÛnica filtrada por aquele sistema È inimagin·vel..."
+SpokenText="O design pode ser uma fun√ß√£o da pr√≥pria rede; a quantidade de energia psi√≥nica filtrada por aquele sistema √© inimagin√°vel..."
 
 [T_City_Center_Chip_Transmitter_Tygan_01 AkEvent]
-SpokenText="Esses transmissores parecem funcionar como uma forma de repetidor, amplificando a rede psiÛnica para alcanÁar atÈ mesmo as forÁas da ADVENT mais distantes implantadas."
+SpokenText="Esses transmissores parecem funcionar como uma forma de repetidor, amplificando a rede psi√≥nica para alcan√ßar at√© mesmo as for√ßas da ADVENT mais distantes implantadas."
 
 [T_CodexDeath_Tygan AkEvent]
-SpokenText="Excelente trabalho, Comandante. Parece que algum vestÌgio fÌsico do Codex foi deixado para tr·s quando ele se dissipou. Espero que isso nos forneÁa algum conhecimento sobre os planos em andamento dos alienÌgenas."
+SpokenText="Excelente trabalho, Comandante. Parece que algum vest√≠gio f√≠sico do Codex foi deixado para tr√°s quando ele se dissipou. Espero que isso nos forne√ßa algum conhecimento sobre os planos em andamento dos alien√≠genas."
 
 [T_CodexFirstAction_Tygan AkEvent]
-SpokenText="O Codex parece estar em um estado de fluxo, existindo simultaneamente em m˙ltiplas dimensıes!"
+SpokenText="O Codex parece estar em um estado de fluxo, existindo simultaneamente em m√∫ltiplas dimens√µes!"
 
 [T_CodexFirstCleave_Tygan AkEvent]
-SpokenText="Nunca vi nada assim -- o Codex est· projetando m˙ltiplas cÛpias de si mesmo em nossa dimens„o!"
+SpokenText="Nunca vi nada assim -- o Codex est√° projetando m√∫ltiplas c√≥pias de si mesmo em nossa dimens√£o!"
 
 [T_Depleted_Avatar_Sighted_After_Skulljacking_Codex_Tygan AkEvent]
-SpokenText="As aparÍncias podem enganar. Eu aconselharia cautela, Comandante."
+SpokenText="As apar√™ncias podem enganar. Eu aconselharia cautela, Comandante."
 
 [T_Final_Mission_Enemy_Avatar_1_Has_Died_Tygan_02 AkEvent]
-SpokenText="Sim, o controle dos Anciıes sobre a rede deve estar enfraquecendo."
+SpokenText="Sim, o controle dos Anci√µes sobre a rede deve estar enfraquecendo."
 
 [T_Final_Mission_Final_Set_Three_Tygan_02_Alt AkEvent]
-SpokenText="Interessante. Eu me pergunto que forma o mundo teria tomado se os alienÌgenas tivessem tentado um contato inicial mais direto."
+SpokenText="Interessante. Eu me pergunto que forma o mundo teria tomado se os alien√≠genas tivessem tentado um contato inicial mais direto."
 
 [T_Final_Mission_Final_Showdown_Begins_Tygan_02 AkEvent]
-SpokenText="Embora as possibilidades propostas pela criatura sejam intrigantes, eu acredito que j· passamos do ponto do discurso racional."
+SpokenText="Embora as possibilidades propostas pela criatura sejam intrigantes, eu acredito que j√° passamos do ponto do discurso racional."
 
 [T_Final_Mission_First_Hostile_Avatar_Reveal_Tygan_01 AkEvent]
-SpokenText="Impressionante. Toda essa instalaÁ„o submersa em nossos oceanos. Mas por quanto tempo eu me pergunto..."
+SpokenText="Impressionante. Toda essa instala√ß√£o submersa em nossos oceanos. Mas por quanto tempo eu me pergunto..."
 
 [T_Final_Mission_Middle_Set_Three_Tygan_02 AkEvent]
-SpokenText="Com a torre desativada, pode ser que os Anciıes estejam tentando manter a rede por conta prÛpria. A press„o sobre eles deve ser...enorme."
+SpokenText="Com a torre desativada, pode ser que os Anci√µes estejam tentando manter a rede por conta pr√≥pria. A press√£o sobre eles deve ser...enorme."
 
 [T_FirstCodexAppearsPart1_Tygan AkEvent]
-SpokenText="Comandante, parece que este È o "Codex" respons·vel pela proteÁ„o dos bancos de dados alienÌgenas. Teremos que neutraliz·-lo se quisermos recuperar os dados."
+SpokenText="Comandante, parece que este √© o "Codex" respons√°vel pela prote√ß√£o dos bancos de dados alien√≠genas. Teremos que neutraliz√°-lo se quisermos recuperar os dados."
 
 [T_FirstCodexAppearsPart1_Tygan_DUP AkEvent]
-SpokenText="Not·vel! Esse Codex parece ser uma espÈcie de guardi„o, sem d˙vida respons·vel por proteger inteligÍncia de alto valor. Teremos que neutraliz·-lo se quisermos recuperar algum
+SpokenText="Not√°vel! Esse Codex parece ser uma esp√©cie de guardi√£o, sem d√∫vida respons√°vel por proteger intelig√™ncia de alto valor. Teremos que neutraliz√°-lo se quisermos recuperar algum
 
  dado."
 
 [T_FirstPsiGateAppears_Tygan AkEvent]
-SpokenText="Essa abertura...parece ser algum tipo de "fenda" psiÛnica. Ser· possÌvel que os alienÌgenas estejam usando isso para transmitir seus dados para fora de suas instalaÁıes na Terra?"
+SpokenText="Essa abertura...parece ser algum tipo de "fenda" psi√≥nica. Ser√° poss√≠vel que os alien√≠genas estejam usando isso para transmitir seus dados para fora de suas instala√ß√µes na Terra?"
 
 [T_FirstSuccessfulOfficerHack_Tygan AkEvent]
-SpokenText="Temos acesso completo ‡ rede psiÛnica da ADVENT; dediquei nossos sistemas para processar os novos dados, mas precisaremos trabalhar r·pido -- È apenas quest„o de tempo atÈ que eles detectem nossa intrus„o."
+SpokenText="Temos acesso completo √† rede psi√≥nica da ADVENT; dediquei nossos sistemas para processar os novos dados, mas precisaremos trabalhar r√°pido -- √© apenas quest√£o de tempo at√© que eles detectem nossa intrus√£o."
 
 [T_FirstSuccessfulStun_Tygan AkEvent]
-SpokenText="N„o temos muito tempo, teremos que hackear o chip de controle do Oficial e acessar a rede psiÛnica da ADVENT antes que eles percebam o que aconteceu."
+SpokenText="N√£o temos muito tempo, teremos que hackear o chip de controle do Oficial e acessar a rede psi√≥nica da ADVENT antes que eles percebam o que aconteceu."
 
 [T_Forge_Advent_Bodies_Sighted_Tygan_01 AkEvent]
-SpokenText="Nada est· alÈm do reino das possibilidades quando se trata dos alienÌgenas."
+SpokenText="Nada est√° al√©m do reino das possibilidades quando se trata dos alien√≠genas."
 
 [T_Forge_Avatar_Suit_Home_Tygan_P1 AkEvent]
-SpokenText="Se quisermos descobrir o que torna esse traje, ou o espÈcime dentro dele, ˙nico, precisaremos fazer uma an·lise completa."
+SpokenText="Se quisermos descobrir o que torna esse traje, ou o esp√©cime dentro dele, √∫nico, precisaremos fazer uma an√°lise completa."
 
 [T_Forge_Avatar_Suit_Sighted_Tygan_P2 AkEvent]
-SpokenText="Parece ser similar, pelo menos em caracterÌsticas fÌsicas. Ainda assim, isso È claramente algo ˙nico, especial..."
+SpokenText="Parece ser similar, pelo menos em caracter√≠sticas f√≠sicas. Ainda assim, isso √© claramente algo √∫nico, especial..."
 
 [T_Forge_Body_Recovery_Tygan_P2 AkEvent]
-SpokenText="Com cuidado! Preservem o espÈcime a todo custo!"
+SpokenText="Com cuidado! Preservem o esp√©cime a todo custo!"
 
 [T_Forge_Body_Recovery_Tygan_P3 AkEvent]
-SpokenText="N„o consigo obter leituras daqui. Precisarei fazer uma an·lise completa para determinar o que exatamente est· dentro."
+SpokenText="N√£o consigo obter leituras daqui. Precisarei fazer uma an√°lise completa para determinar o que exatamente est√° dentro."
 
 [T_Forge_Body_Reveal_Tygan_P2 AkEvent]
-SpokenText="Sim, e desta vez vamos ter certeza de acessar a unidade diretamente. N„o sabemos o que vamos encontrar l· dentro."
+SpokenText="Sim, e desta vez vamos ter certeza de acessar a unidade diretamente. N√£o sabemos o que vamos encontrar l√° dentro."
 
 [T_Forge_Interior_Reveal_Tygan_P2 AkEvent]
-SpokenText="Sim. E a julgar pelas condiÁıes do espÈcime, eu diria que foi fabricado recentemente."
+SpokenText="Sim. E a julgar pelas condi√ß√µes do esp√©cime, eu diria que foi fabricado recentemente."
 
 [T_Fortress_Avatar_Sighted_01_Tygan AkEvent]
-SpokenText="Ainda n„o sabemos a extens„o total de suas capacidades. Os Anciıes usar„o tudo em seu poder para nos deter agora."
+SpokenText="Ainda n√£o sabemos a extens√£o total de suas capacidades. Os Anci√µes usar√£o tudo em seu poder para nos deter agora."
 
 [T_Fortress_Recap_Callouts_Tygan_01 AkEvent]
-SpokenText="Neste momento, n„o h· garantia de que a equipe de ataque esteja na nossa dimens„o, muito menos na Terra."
+SpokenText="Neste momento, n√£o h√° garantia de que a equipe de ataque esteja na nossa dimens√£o, muito menos na Terra."
 
 [T_Fortress_Recap_Callouts_Tygan_02 AkEvent]
-SpokenText="Em seu estado enfraquecido, pode ter sido impossÌvel para os Anciıes atravessarem o portal para o nosso mundo. Esses sarcÛfagos podem ser a ˙nica coisa que sustenta suas formas fÌsicas decadentes."
+SpokenText="Em seu estado enfraquecido, pode ter sido imposs√≠vel para os Anci√µes atravessarem o portal para o nosso mundo. Esses sarc√≥fagos podem ser a √∫nica coisa que sustenta suas formas f√≠sicas decadentes."
 
 [T_Fortress_Recap_Callouts_Tygan_03 AkEvent]
-SpokenText="Assim como vimos ao redor do portal no campo, a flora alienÌgena parece prosperar em proximidade dos campos psiÛnicos que passam por esses sistemas."
+SpokenText="Assim como vimos ao redor do portal no campo, a flora alien√≠gena parece prosperar em proximidade dos campos psi√≥nicos que passam por esses sistemas."
 
 [T_Fortress_Recap_Callouts_Tygan_04 AkEvent]
-SpokenText="Parece ser vida oce‚nica terrestre, membros comuns da..."
+SpokenText="Parece ser vida oce√¢nica terrestre, membros comuns da..."
 
 [T_Fortress_Recap_Callouts_Tygan_05 AkEvent]
-SpokenText="Os oceanos da Terra s„o amplamente inexplorados, seria o lugar lÛgico para esconder, ou proteger, os Anciıes ao longo das dÈcadas anteriores."
+SpokenText="Os oceanos da Terra s√£o amplamente inexplorados, seria o lugar l√≥gico para esconder, ou proteger, os Anci√µes ao longo das d√©cadas anteriores."
 
 [T_Gene_Therapy_Clinic_Bed_Tygan_01 AkEvent]
-SpokenText="… aqui que eles administram a maioria dos tratamentos de terapia genÈtica - pelo menos os que o p˙blico em geral est· ciente."
+SpokenText="√â aqui que eles administram a maioria dos tratamentos de terapia gen√©tica - pelo menos os que o p√∫blico em geral est√° ciente."
 
 [T_Incomplete_Avatar_Sighted_Tygan AkEvent]
-SpokenText="Comandante, eu acredito que estamos vendo algo completamente novo...uma espÈcie alienÌgena que atÈ agora conseguiu evitar a captura ou observaÁ„o pelas forÁas da resistÍncia. Eu aconselho uma abordagem cautelosa."
+SpokenText="Comandante, eu acredito que estamos vendo algo completamente novo...uma esp√©cie alien√≠gena que at√© agora conseguiu evitar a captura ou observa√ß√£o pelas for√ßas da resist√™ncia. Eu aconselho uma abordagem cautelosa."
 
 [T_Live_Codex_Sighted_Hack_It_Tygan AkEvent]
 SpokenText="Comandante, aquele Codex oferece a oportunidade ideal para infiltrar a rede da ADVENT. Teremos que nos aproximar com o Skulljack para iniciar o processo."
 
 [T_PostIntroStasisLanceReminder_Tygan AkEvent]
-SpokenText="Comandante, agora que temos o Skull Jack, devemos tentar us·-lo em um dos oficiais da ADVENT. Estou razoavelmente confiante de que ele funcionar· conforme projetado."
+SpokenText="Comandante, agora que temos o Skull Jack, devemos tentar us√°-lo em um dos oficiais da ADVENT. Estou razoavelmente confiante de que ele funcionar√° conforme projetado."
 
 [T_Psi_Gate_Alien_Flora_Tygan_01 AkEvent]
-SpokenText="A flora ao redor do portal È muito incomum. … difÌcil dizer se ela È completamente alienÌgena ou se È alguma flora terrestre que foi de alguma forma afetada pelo prÛprio portal."
+SpokenText="A flora ao redor do portal √© muito incomum. √â dif√≠cil dizer se ela √© completamente alien√≠gena ou se √© alguma flora terrestre que foi de alguma forma afetada pelo pr√≥prio portal."
 
 [T_Psi_Gate_Gateway_Spotted_Tygan_P3 AkEvent]
-SpokenText="Como acontece com a maioria das coisas, provavelmente precisaremos lev·-lo de volta para a nave para uma an·lise mais detalhada."
+SpokenText="Como acontece com a maioria das coisas, provavelmente precisaremos lev√°-lo de volta para a nave para uma an√°lise mais detalhada."
 
 [T_Psi_Gate_Reveal_Tygan_P1 AkEvent]
-SpokenText="Not·vel. Ao contr·rio do Codex, a estrutura parece gerar uma fenda psiÛnica est·vel. Mas para onde..."
+SpokenText="Not√°vel. Ao contr√°rio do Codex, a estrutura parece gerar uma fenda psi√≥nica est√°vel. Mas para onde..."
 
 [T
 
 _Sectoid_has_reanimated_corpse_Tygan AkEvent]
-SpokenText="Continuo impressionado com a variedade de habilidades que os alienÌgenas desenvolveram atravÈs da manipulaÁ„o cuidadosa da energia psiÛnica."
+SpokenText="Continuo impressionado com a variedade de habilidades que os alien√≠genas desenvolveram atrav√©s da manipula√ß√£o cuidadosa da energia psi√≥nica."
 
 [T_Setup_Phase_Break_Concealment_Tygan_01 AkEvent]
-SpokenText="Comandante, se pretendemos avanÁar contra os alienÌgenas, eventualmente teremos que sair das sombras e lutar diretamente contra eles."
+SpokenText="Comandante, se pretendemos avan√ßar contra os alien√≠genas, eventualmente teremos que sair das sombras e lutar diretamente contra eles."
 
 [T_Setup_Phase_Break_Concealment_Tygan_02 AkEvent]
-SpokenText="Comandante, deixarei as decisıes t·ticas a vocÍ, mas imagino que a abordagem direta seria mais eficaz aqui do que qualquer quantidade de tempo passado se escondendo."
+SpokenText="Comandante, deixarei as decis√µes t√°ticas a voc√™, mas imagino que a abordagem direta seria mais eficaz aqui do que qualquer quantidade de tempo passado se escondendo."
 
 [T_Setup_Phase_Break_Concealment_Tygan_03 AkEvent]
-SpokenText="Eu n„o percebi que essa era estritamente uma miss„o de reconhecimento, Comandante. Eu pensei que nossas forÁas realmente iriam enfrentar o inimigo."
+SpokenText="Eu n√£o percebi que essa era estritamente uma miss√£o de reconhecimento, Comandante. Eu pensei que nossas for√ßas realmente iriam enfrentar o inimigo."
 
 [T_Small_Town_Arcade_Machines_Tygan_01 AkEvent]
-SpokenText="Eu suponho que eles precisem de quaisquer distraÁıes que possam encontrar - por mais simplistas que sejam."
+SpokenText="Eu suponho que eles precisem de quaisquer distra√ß√µes que possam encontrar - por mais simplistas que sejam."
 
 [T_Small_Town_No_Livestock_Tygan_01 AkEvent]
-SpokenText="Ainda n„o estou completamente certo do que os alienÌgenas esperam alcanÁar proibindo animais de criaÁ„o e domesticados. Eles parecem genuinamente preocupados com o risco de ter esses animais se misturando com a populaÁ„o."
+SpokenText="Ainda n√£o estou completamente certo do que os alien√≠genas esperam alcan√ßar proibindo animais de cria√ß√£o e domesticados. Eles parecem genuinamente preocupados com o risco de ter esses animais se misturando com a popula√ß√£o."
 
 [T_Tactical_Callouts_Tygan_01 AkEvent]
-SpokenText="Aquela flora È muito incomum - mas n„o vimos evidÍncias anteriores de qualquer esforÁo de terraformaÁ„o pelos alienÌgenas. Talvez n„o fosse sua intenÁ„o que ela se espalhasse."
+SpokenText="Aquela flora √© muito incomum - mas n√£o vimos evid√™ncias anteriores de qualquer esfor√ßo de terraforma√ß√£o pelos alien√≠genas. Talvez n√£o fosse sua inten√ß√£o que ela se espalhasse."
 
 [T_Tygan_AlienSightings_AdvPsiWitchM1 AkEvent]
-SpokenText="Essas unidades da ADVENT tÍm capacidades psiÛnicas avanÁadas, tornando-as consideravelmente mais perigosas do que os soldados tÌpicos dos alienÌgenas."
+SpokenText="Essas unidades da ADVENT t√™m capacidades psi√≥nicas avan√ßadas, tornando-as consideravelmente mais perigosas do que os soldados t√≠picos dos alien√≠genas."
 
 [T_Tygan_AlienSightings_AdvPsiWitchM2 AkEvent]
 SpokenText="Nossas tropas se referem a essas unidades como "bruxas", as mais experientes parecem ser capazes de confundir nossos soldados no campo de batalha por meio de ataques especializados."
 
 [T_Tygan_AlienSightings_AdvPsiWitchM3 AkEvent]
-SpokenText="As unidades psiÛnicas mais avanÁadas da ADVENT podem assumir o controle tempor·rio de todo o ser de um soldado, assim como as tÈcnicas de controle mental que j· observamos no passado."
+SpokenText="As unidades psi√≥nicas mais avan√ßadas da ADVENT podem assumir o controle tempor√°rio de todo o ser de um soldado, assim como as t√©cnicas de controle mental que j√° observamos no passado."
 
 [T_Tygan_AlienSightings_Andromedon AkEvent]
-SpokenText="Aquelas emissıes podem ser tÛxicas. Eu aconselho cautela, Comandante."
+SpokenText="Aquelas emiss√µes podem ser t√≥xicas. Eu aconselho cautela, Comandante."
 
 [T_Tygan_AlienSightings_Cyberus AkEvent]
-SpokenText="Este espÈcime È muito incomum, com uma variedade de habilidades centradas em alguma forma de tecnologia de teletransporte dimensional."
+SpokenText="Este esp√©cime √© muito incomum, com uma variedade de habilidades centradas em alguma forma de tecnologia de teletransporte dimensional."
 
 [T_Tygan_AlienSightings_Faceless AkEvent]
-SpokenText="… uma espÈcie not·vel; se ao menos tivÈssemos algum meio de contenÁ„o..."
+SpokenText="√â uma esp√©cie not√°vel; se ao menos tiv√©ssemos algum meio de conten√ß√£o..."
 
 [T_Tygan_AlienSightings_Sectoid AkEvent]
-SpokenText="Embora se pareÁam com os Sectoids encontrados inicialmente durante a invas„o, sua estrutura genÈtica agora inclui DNA humano. Eles est„o mais fortes do que nunca, com um potencial psiÛnico ainda maior."
+SpokenText="Embora se pare√ßam com os Sectoids encontrados inicialmente durante a invas√£o, sua estrutura gen√©tica agora inclui DNA humano. Eles est√£o mais fortes do que nunca, com um potencial psi√≥nico ainda maior."
 
 [T_Tygan_AlienSightings_Viper AkEvent]
-SpokenText="Sem a introduÁ„o de DNA humano, essas criaturas que anteriormente se disfarÁavam como "Homens Magros" agora mostram sua forma verdadeira, uma espÈcie puramente reptiliana."
+SpokenText="Sem a introdu√ß√£o de DNA humano, essas criaturas que anteriormente se disfar√ßavam como "Homens Magros" agora mostram sua forma verdadeira, uma esp√©cie puramente reptiliana."
 
 [T_Tygan_CaptainSightedTwo_DUP AkEvent]
-SpokenText="Aquele Capit„o da ADVENT pode ser nossa entrada na rede psiÛnica, desde que possamos acess·-lo atravÈs do Skulljack."
+SpokenText="Aquele Capit√£o da ADVENT pode ser nossa entrada na rede psi√≥nica, desde que possamos acess√°-lo atrav√©s do Skulljack."

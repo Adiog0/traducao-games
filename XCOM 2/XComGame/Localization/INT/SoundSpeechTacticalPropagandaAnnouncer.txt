@@ -1,242 +1,242 @@
-[T_City_Center_Propaganda_01_Prop_Announcer AkEvent]
-SpokenText="A queima de combustÌveis fÛsseis È estritamente proibida. CÈlulas de energia ADVENT est„o disponÌveis em quantidade limitada para usu·rios qualificados."
+Ôªø[T_City_Center_Propaganda_01_Prop_Announcer AkEvent]
+SpokenText="A queima de combust√≠veis f√≥sseis √© estritamente proibida. C√©lulas de energia ADVENT est√£o dispon√≠veis em quantidade limitada para usu√°rios qualificados."
 
 [T_City_Center_Propaganda_02_Prop_Announcer AkEvent]
-SpokenText="Lembre-se, estamos todos juntos nisso. A ADVENT est· aqui por vocÍ."
+SpokenText="Lembre-se, estamos todos juntos nisso. A ADVENT est√° aqui por voc√™."
 
 [T_City_Center_Propaganda_03_Prop_Announcer AkEvent]
-SpokenText="Seja os olhos da ADVENT. Relate todas as atividades suspeitas ao seu Agente da Paz ADVENT mais prÛximo."
+SpokenText="Seja os olhos da ADVENT. Relate todas as atividades suspeitas ao seu Agente da Paz ADVENT mais pr√≥ximo."
 
 [T_City_Center_Propaganda_04_Prop_Announcer AkEvent]
-SpokenText="Seus amigos ou familiares ainda vivem fora do centro da cidade? Incentive-os a fazer a transferÍncia hoje!"
+SpokenText="Seus amigos ou familiares ainda vivem fora do centro da cidade? Incentive-os a fazer a transfer√™ncia hoje!"
 
 [T_City_Center_Propaganda_05_Prop_Announcer AkEvent]
-SpokenText="Cidad„os s„o lembrados de obedecer todas as diretrizes de seguranÁa, incluindo aquelas dadas por sistemas automatizados ou n„o tripulados."
+SpokenText="Cidad√£os s√£o lembrados de obedecer todas as diretrizes de seguran√ßa, incluindo aquelas dadas por sistemas automatizados ou n√£o tripulados."
 
 [T_City_Center_Propaganda_06_Prop_Announcer AkEvent]
-SpokenText="Sua cooperaÁ„o torna tudo isso possÌvel. ADVENT - trabalhando juntos pela paz."
+SpokenText="Sua coopera√ß√£o torna tudo isso poss√≠vel. ADVENT - trabalhando juntos pela paz."
 
 [T_City_Center_Propaganda_07_Prop_Announcer AkEvent]
-SpokenText="ADVENT - vinte anos de paz e prosperidade atravÈs da cooperaÁ„o."
+SpokenText="ADVENT - vinte anos de paz e prosperidade atrav√©s da coopera√ß√£o."
 
 [T_City_Center_Propaganda_08_Prop_Announcer AkEvent]
-SpokenText="Aproveite tudo o que a cidade tem a oferecer, desfrute dos benefÌcios da paz."
+SpokenText="Aproveite tudo o que a cidade tem a oferecer, desfrute dos benef√≠cios da paz."
 
 [T_City_Center_Propaganda_09_Prop_Announcer AkEvent]
-SpokenText="Limpo, seguro, est·vel. A cidade È sua casa, aproveite."
+SpokenText="Limpo, seguro, est√°vel. A cidade √© sua casa, aproveite."
 
 [T_City_Center_Propaganda_10_Prop_Announcer AkEvent]
-SpokenText="D˙vidas ou preocupaÁıes? Procure seu Agente da Paz ADVENT mais prÛximo."
+SpokenText="D√∫vidas ou preocupa√ß√µes? Procure seu Agente da Paz ADVENT mais pr√≥ximo."
 
 [T_City_Center_Propaganda_11_Prop_Announcer AkEvent]
-SpokenText="A ADVENT se esforÁa para assegurar seu futuro. Ajude-nos, ajude vocÍ. Relate todas as atividades suspeitas."
+SpokenText="A ADVENT se esfor√ßa para assegurar seu futuro. Ajude-nos, ajude voc√™. Relate todas as atividades suspeitas."
 
 [T_City_Center_Propaganda_12_Prop_Announcer AkEvent]
-SpokenText="Seu futuro È mais brilhante do que nunca. A ADVENT est· aqui para garantir sua seguranÁa e conforto contÌnuos."
+SpokenText="Seu futuro √© mais brilhante do que nunca. A ADVENT est√° aqui para garantir sua seguran√ßa e conforto cont√≠nuos."
 
 [T_City_Center_Propaganda_13_Prop_Announcer AkEvent]
-SpokenText="No momento, todas as excursıes fora do centro da cidade foram suspensas por tempo indeterminado. Pedimos desculpas por qualquer inconveniÍncia."
+SpokenText="No momento, todas as excurs√µes fora do centro da cidade foram suspensas por tempo indeterminado. Pedimos desculpas por qualquer inconveni√™ncia."
 
 [T_City_Center_Propaganda_14_Prop_Announcer AkEvent]
-SpokenText="Visite sua ClÌnica de Terapia GenÈtica local para experimentar os ˙ltimos avanÁos em cuidados preventivos."
+SpokenText="Visite sua Cl√≠nica de Terapia Gen√©tica local para experimentar os √∫ltimos avan√ßos em cuidados preventivos."
 
 [T_City_Center_Propaganda_15_Prop_Announcer AkEvent]
-SpokenText="Os Agentes da Paz ADVENT est„o aqui para sua proteÁ„o. Sua vigil‚ncia significa sua seguranÁa."
+SpokenText="Os Agentes da Paz ADVENT est√£o aqui para sua prote√ß√£o. Sua vigil√¢ncia significa sua seguran√ßa."
 
 [T_City_Center_Propaganda_16_Prop_Announcer AkEvent]
-SpokenText="Sua ades„o ‡s diretrizes ADVENT garante a seguranÁa contÌnua de todos os cidad„os."
+SpokenText="Sua ades√£o √†s diretrizes ADVENT garante a seguran√ßa cont√≠nua de todos os cidad√£os."
 
 [T_City_Center_Propaganda_17_Prop_Announcer AkEvent]
-SpokenText="Fingir n„o ver atividades suspeitas coloca todos em risco. A ADVENT incentiva a den˙ncia proativa por todos os cidad„os."
+SpokenText="Fingir n√£o ver atividades suspeitas coloca todos em risco. A ADVENT incentiva a den√∫ncia proativa por todos os cidad√£os."
 
 [T_City_Center_Propaganda_18_Prop_Announcer AkEvent]
-SpokenText="Esperamos que vocÍ desfrute de todas as comodidades disponÌveis para vocÍ na cidade. Encaminhe todas as preocupaÁıes para seu Agente da Paz."
+SpokenText="Esperamos que voc√™ desfrute de todas as comodidades dispon√≠veis para voc√™ na cidade. Encaminhe todas as preocupa√ß√µes para seu Agente da Paz."
 
 [T_City_Center_Propaganda_19_Prop_Announcer AkEvent]
-SpokenText="Pedimos desculpas por qualquer inconveniente experimentado durante as inspeÁıes de seguranÁa regulares. A ADVENT est· aqui para garantir sua seguranÁa."
+SpokenText="Pedimos desculpas por qualquer inconveniente experimentado durante as inspe√ß√µes de seguran√ßa regulares. A ADVENT est√° aqui para garantir sua seguran√ßa."
 
 [T_City_Center_Propaganda_20_Prop_Announcer AkEvent]
-SpokenText="Fique ciente de que qualquer interferÍncia ou desativaÁ„o de torres de seguranÁa ADVENT È estritamente proibida."
+SpokenText="Fique ciente de que qualquer interfer√™ncia ou desativa√ß√£o de torres de seguran√ßa ADVENT √© estritamente proibida."
 
 [T_City_Center_Propaganda_21_Prop_Announcer AkEvent]
-SpokenText="A ADVENT oferece acesso ilimitado a entretenimento especialmente adaptado ao seu perfil ˙nico. Por favor, abstenha-se do consumo ou comÈrcio de subst‚ncias ilegais."
+SpokenText="A ADVENT oferece acesso ilimitado a entretenimento especialmente adaptado ao seu perfil √∫nico. Por favor, abstenha-se do consumo ou com√©rcio de subst√¢ncias ilegais."
 
 [T_City_Center_Propaganda_22_Prop_Announcer AkEvent]
-SpokenText="Discuss„o ou envolvimento em atividades relacionadas a grupos dissidentes anti-governo È motivo para julgamento sum·rio imediato pelas forÁas de paz da ADVENT."
+SpokenText="Discuss√£o ou envolvimento em atividades relacionadas a grupos dissidentes anti-governo √© motivo para julgamento sum√°rio imediato pelas for√ßas de paz da ADVENT."
 
 [T_City_Center_Propaganda_23_Prop_Announcer AkEvent]
-SpokenText="Os cidad„os s„o lembrados que todas as viagens fora do centro da cidade requerem prÈ-autorizaÁ„o do seu oficial local da ADVENT."
+SpokenText="Os cidad√£os s√£o lembrados que todas as viagens fora do centro da cidade requerem pr√©-autoriza√ß√£o do seu oficial local da ADVENT."
 
 [T_City_Center_Propaganda_24_Prop_Announcer AkEvent]
-SpokenText="A ADVENT est· aqui por vocÍ. CooperaÁ„o hoje, paz amanh„."
+SpokenText="A ADVENT est√° aqui por voc√™. Coopera√ß√£o hoje, paz amanh√£."
 
 [T_City_Center_Propaganda_25_Prop_Announcer AkEvent]
-SpokenText="Atos de vandalismo ou dissidÍncia p˙blica n„o ser„o tolerados. A ADVENT aprecia seus esforÁos para manter uma postura calma e serena."
+SpokenText="Atos de vandalismo ou dissid√™ncia p√∫blica n√£o ser√£o tolerados. A ADVENT aprecia seus esfor√ßos para manter uma postura calma e serena."
 
 [T_City_Center_Propaganda_26_Prop_Announcer AkEvent]
-SpokenText="Por favor, relate todas as perturbaÁıes ao seu Agente da Paz ADVENT mais prÛximo para mediaÁ„o."
+SpokenText="Por favor, relate todas as perturba√ß√µes ao seu Agente da Paz ADVENT mais pr√≥ximo para media√ß√£o."
 
 [T_City_Center_Propaganda_27_Prop_Announcer AkEvent]
-SpokenText="Os cidad„os s„o garantidos de que a atividade recente de grupos dissidentes perto dos centros da cidade ser· rapidamente contida. Relate todas as pessoas suspeitas ao seu Agente da Paz."
+SpokenText="Os cidad√£os s√£o garantidos de que a atividade recente de grupos dissidentes perto dos centros da cidade ser√° rapidamente contida. Relate todas as pessoas suspeitas ao seu Agente da Paz."
 
 [T_City_Center_Propaganda_28_Prop_Announcer AkEvent]
-SpokenText="Os sacrifÌcios dos Anciıes em prol da humanidade nos proporcionam todo o conforto e seguranÁa que desfrutamos hoje. Nunca esqueÁam os Anciıes."
+SpokenText="Os sacrif√≠cios dos Anci√µes em prol da humanidade nos proporcionam todo o conforto e seguran√ßa que desfrutamos hoje. Nunca esque√ßam os Anci√µes."
 
 [T_City_Center_Propaganda_29_Prop_Announcer AkEvent]
-SpokenText="PreocupaÁıes recentes sobre supostos desaparecimentos dos centros da cidade foram minimizadas por funcion·rios da ADVENT."
+SpokenText="Preocupa√ß√µes recentes sobre supostos desaparecimentos dos centros da cidade foram minimizadas por funcion√°rios da ADVENT."
 
 [T_City_Center_Propaganda_30_Prop_Announcer AkEvent]
-SpokenText="Embora os rumores de dissidentes do XCOM operando dentro dos centros da cidade continuem se espalhando, os cidad„os s„o lembrados de que a colaboraÁ„o com combatentes inimigos È um crime capital."
+SpokenText="Embora os rumores de dissidentes do XCOM operando dentro dos centros da cidade continuem se espalhando, os cidad√£os s√£o lembrados de que a colabora√ß√£o com combatentes inimigos √© um crime capital."
 
 [T_City_Center_Propaganda_31_Prop_Announcer AkEvent]
-SpokenText="A ADVENT precisa da sua ajuda! Relate pessoas ou atividades suspeitas ao seu Agente da Paz ADVENT mais prÛximo."
+SpokenText="A ADVENT precisa da sua ajuda! Relate pessoas ou atividades suspeitas ao seu Agente da Paz ADVENT mais pr√≥ximo."
 
 [T_City_Center_Propaganda_32_Prop_Announcer AkEvent]
-SpokenText="Juntos, o futuro È mais brilhante do que nunca. ADVENT, trabalhando de m„os dadas com nossos cidad„os."
+SpokenText="Juntos, o futuro √© mais brilhante do que nunca. ADVENT, trabalhando de m√£os dadas com nossos cidad√£os."
 
 [T_City_Center_Propaganda_33_Prop_Announcer AkEvent]
-SpokenText="FaÁa a sua parte; visite seu recrutador local da ADVENT hoje."
+SpokenText="Fa√ßa a sua parte; visite seu recrutador local da ADVENT hoje."
 
 [T_City_Center_Propaganda_34_Prop_Announcer AkEvent]
-SpokenText="Cidad„os s„o lembrados de n„o se envolverem com as forÁas de Paz ADVENT, a menos que haja uma preocupaÁ„o imediata de seguranÁa."
+SpokenText="Cidad√£os s√£o lembrados de n√£o se envolverem com as for√ßas de Paz ADVENT, a menos que haja uma preocupa√ß√£o imediata de seguran√ßa."
 
 [T_City_Center_Propaganda_35_Prop_Announcer AkEvent]
-SpokenText="A ADVENT gostaria de lembrar a todos os cidad„os que a importaÁ„o ou comÈrcio de subst‚ncias proibidas È um crime capital."
+SpokenText="A ADVENT gostaria de lembrar a todos os cidad√£os que a importa√ß√£o ou com√©rcio de subst√¢ncias proibidas √© um crime capital."
 
 [T_City_Center_Propaganda_36_Prop_Announcer AkEvent]
-SpokenText="PreocupaÁıes com a sa˙de? A Terapia GenÈtica ADVENT pode ajudar; visite sua clÌnica mais prÛxima hoje!"
+SpokenText="Preocupa√ß√µes com a sa√∫de? A Terapia Gen√©tica ADVENT pode ajudar; visite sua cl√≠nica mais pr√≥xima hoje!"
 
 [T_City_Center_Propaganda_37_Prop_Announcer AkEvent]
-SpokenText="Uma variedade de opÁıes de entretenimento de outro mundo est· disponÌvel para o seu deleite. Visite-nos hoje mesmo!"
+SpokenText="Uma variedade de op√ß√µes de entretenimento de outro mundo est√° dispon√≠vel para o seu deleite. Visite-nos hoje mesmo!"
 
 [T_City_Center_Propaganda_38_Prop_Announcer AkEvent]
-SpokenText="Curioso sobre os mais recentes designs inovadores da ADVENT Automotive? Informe-se sobre os requisitos para ser propriet·rio em sua concession·ria local."
+SpokenText="Curioso sobre os mais recentes designs inovadores da ADVENT Automotive? Informe-se sobre os requisitos para ser propriet√°rio em sua concession√°ria local."
 
 [T_City_Center_Propaganda_39_Prop_Announcer AkEvent]
-SpokenText="Em caso de emergÍncia, mantenha a calma e siga as diretrizes de todas as forÁas de paz da ADVENT."
+SpokenText="Em caso de emerg√™ncia, mantenha a calma e siga as diretrizes de todas as for√ßas de paz da ADVENT."
 
 [T_City_Center_Propaganda_40_Prop_Announcer AkEvent]
-SpokenText="Sua cooperaÁ„o contÌnua È apreciada."
+SpokenText="Sua coopera√ß√£o cont√≠nua √© apreciada."
 
 [T_City_Center_Propaganda_41_Prop_Announcer AkEvent]
-SpokenText="Lembrete a todos os cidad„os: a posse de armas ou armas de fogo de qualquer tipo È uma ofensa capital."
+SpokenText="Lembrete a todos os cidad√£os: a posse de armas ou armas de fogo de qualquer tipo √© uma ofensa capital."
 
 [T_Small_Town___Slums_Propaganda_01_Prop_Announcer AkEvent]
-SpokenText="Por que passar necessidades? Nossas cidades tÍm mais do que suficiente para todos - transfira-se hoje!"
+SpokenText="Por que passar necessidades? Nossas cidades t√™m mais do que suficiente para todos - transfira-se hoje!"
 
 [T_Small_Town___Slums_Propaganda_02_Prop_Announcer AkEvent]
-SpokenText="H· uma vida mais f·cil esperando por vocÍ na cidade. Todos s„o bem-vindos."
+SpokenText="H√° uma vida mais f√°cil esperando por voc√™ na cidade. Todos s√£o bem-vindos."
 
 [T_Small_Town___Slums_Propaganda_03_Prop_Announcer AkEvent]
-SpokenText="Liberdade n„o precisa significar ansiedade e desconforto. Nas cidades, sua vida È sua, sem as dificuldades. Experimente hoje mesmo!"
+SpokenText="Liberdade n√£o precisa significar ansiedade e desconforto. Nas cidades, sua vida √© sua, sem as dificuldades. Experimente hoje mesmo!"
 
 [T_Small_Town___Slums_Propaganda_04_Prop_Announcer AkEvent]
-SpokenText="Uma vida melhor aguarda vocÍ e sua famÌlia nos centros urbanos. TransferÍncias imediatas est„o disponÌveis."
+SpokenText="Uma vida melhor aguarda voc√™ e sua fam√≠lia nos centros urbanos. Transfer√™ncias imediatas est√£o dispon√≠veis."
 
 [T_Small_Town___Slums_Propaganda_05_Prop_Announcer AkEvent]
-SpokenText="Novas oportunidades aguardam a todos que se transferem! Mude para o centro da cidade mais prÛximo hoje!"
+SpokenText="Novas oportunidades aguardam a todos que se transferem! Mude para o centro da cidade mais pr√≥ximo hoje!"
 
 [T_Small_Town___Slums_Propaganda_06_Prop_Announcer AkEvent]
-SpokenText="Est· se sentindo cansado, com fome e assustado? A ADVENT pode aliviar seu fardo. Visite o centro da cidade mais prÛximo."
+SpokenText="Est√° se sentindo cansado, com fome e assustado? A ADVENT pode aliviar seu fardo. Visite o centro da cidade mais pr√≥ximo."
 
 [T_Small_Town___Slums_Propaganda_07_Prop_Announcer AkEvent]
-SpokenText="VocÍ est· lutando? A cidade espera por vocÍ. Temos tudo o que vocÍ precisa."
+SpokenText="Voc√™ est√° lutando? A cidade espera por voc√™. Temos tudo o que voc√™ precisa."
 
 [T_Small_Town___Slums_Propaganda_08_Prop_Announcer AkEvent]
-SpokenText="A ADVENT d· as boas-vindas a todos nos centros da cidade. Liberte-se, transfira-se hoje."
+SpokenText="A ADVENT d√° as boas-vindas a todos nos centros da cidade. Liberte-se, transfira-se hoje."
 
 [T_Small_Town___Slums_Propaganda_09_Prop_Announcer AkEvent]
-SpokenText="Milhıes j· vieram desfrutar de uma vida melhor, um futuro melhor. Por que vocÍ ainda n„o veio? Transfira-se para o centro da cidade mais prÛximo."
+SpokenText="Milh√µes j√° vieram desfrutar de uma vida melhor, um futuro melhor. Por que voc√™ ainda n√£o veio? Transfira-se para o centro da cidade mais pr√≥ximo."
 
 [T_Small_Town___Slums_Propaganda_10_Prop_Announcer AkEvent]
-SpokenText="Se sentindo debilitado? A Terapia GenÈtica ADVENT pode ajudar. Um benefÌcio gratuito para todos os habitantes dos centros da cidade."
+SpokenText="Se sentindo debilitado? A Terapia Gen√©tica ADVENT pode ajudar. Um benef√≠cio gratuito para todos os habitantes dos centros da cidade."
 
 [T_Small_Town___Slums_Propaganda_11_Prop_Announcer AkEvent]
-SpokenText="Fique ciente de que a posse de gado ou animais domÈsticos È proibida. Entregue qualquer animal n„o autorizado ao seu posto de Paz da ADVENT mais prÛximo."
+SpokenText="Fique ciente de que a posse de gado ou animais dom√©sticos √© proibida. Entregue qualquer animal n√£o autorizado ao seu posto de Paz da ADVENT mais pr√≥ximo."
 
 [T_Small_Town___Slums_Propaganda_12_Prop_Announcer AkEvent]
-SpokenText="As raÁıes ADVENT CORE aprovadas est„o disponÌveis em quantidades limitadas para os cidad„os que buscam mais assistÍncia."
+SpokenText="As ra√ß√µes ADVENT CORE aprovadas est√£o dispon√≠veis em quantidades limitadas para os cidad√£os que buscam mais assist√™ncia."
 
 [T_Small_Town___Slums_Propaganda_13_Prop_Announcer AkEvent]
-SpokenText="Programas de anistia de contrabando est„o disponÌveis para aqueles que buscam ref˙gio em um centro da cidade."
+SpokenText="Programas de anistia de contrabando est√£o dispon√≠veis para aqueles que buscam ref√∫gio em um centro da cidade."
 
 [T_Small_Town___Slums_Propaganda_14_Prop_Announcer AkEvent]
-SpokenText="A anistia est· disponÌvel para aqueles que entregarem materiais ilÌcitos voluntariamente para destruiÁ„o. Procure seu Agente da Paz mais prÛximo."
+SpokenText="A anistia est√° dispon√≠vel para aqueles que entregarem materiais il√≠citos voluntariamente para destrui√ß√£o. Procure seu Agente da Paz mais pr√≥ximo."
 
 [T_Small_Town___Slums_Propaganda_15_Prop_Announcer AkEvent]
-SpokenText="A Terapia GenÈtica ADVENT pode mitigar diversas doenÁas que anteriormente eram consideradas fatais pelos padrıes do mundo antigo. Visite o centro da cidade mais prÛximo para mais detalhes."
+SpokenText="A Terapia Gen√©tica ADVENT pode mitigar diversas doen√ßas que anteriormente eram consideradas fatais pelos padr√µes do mundo antigo. Visite o centro da cidade mais pr√≥ximo para mais detalhes."
 
 [T_Small_Town___Slums_Propaganda_16_Prop_Announcer AkEvent]
-SpokenText="Todos os cidad„os dos centros da cidade tÍm garantido acesso a comida, abrigo e assistÍncia mÈdica pelo resto de suas vidas."
+SpokenText="Todos os cidad√£os dos centros da cidade t√™m garantido acesso a comida, abrigo e assist√™ncia m√©dica pelo resto de suas vidas."
 
 [T_Small_Town___Slums_Propaganda_17_Prop_Announcer AkEvent]
-SpokenText="N„o perdemos todos o suficiente j·? Nos centros da cidade, o crime È coisa do passado graÁas ‡ ADVENT."
+SpokenText="N√£o perdemos todos o suficiente j√°? Nos centros da cidade, o crime √© coisa do passado gra√ßas √† ADVENT."
 
 [T_Small_Town___Slums_Propaganda_18_Prop_Announcer AkEvent]
-SpokenText="As forÁas de paz da ADVENT est„o buscando informaÁıes sobre v·rias pessoas procuradas para interrogatÛrio. Por favor, informe qualquer avistamento ao seu Agente da Paz mais prÛximo."
+SpokenText="As for√ßas de paz da ADVENT est√£o buscando informa√ß√µes sobre v√°rias pessoas procuradas para interrogat√≥rio. Por favor, informe qualquer avistamento ao seu Agente da Paz mais pr√≥ximo."
 
 [T_Small_Town___Slums_Propaganda_19_Prop_Announcer AkEvent]
-SpokenText="Milhıes de pessoas n„o podem estar erradas. Os centros da cidade fornecem tudo o que vocÍ precisa, sem incertezas. Transfira-se hoje."
+SpokenText="Milh√µes de pessoas n√£o podem estar erradas. Os centros da cidade fornecem tudo o que voc√™ precisa, sem incertezas. Transfira-se hoje."
 
 [T_Small_Town___Slums_Propaganda_20_Prop_Announcer AkEvent]
-SpokenText="As forÁas de paz da ADVENT est„o empenhadas em assegurar que as diretrizes de polÌtica sejam cumpridas em todas as ·reas habitadas pelos humanos."
+SpokenText="As for√ßas de paz da ADVENT est√£o empenhadas em assegurar que as diretrizes de pol√≠tica sejam cumpridas em todas as √°reas habitadas pelos humanos."
 
 [T_Small_Town___Slums_Propaganda_21_Prop_Announcer AkEvent]
-SpokenText="Em mais de oitenta por cento dos casos identificados, pessoas desaparecidas dos territÛrios externos foram encontradas vivendo confortavelmente em um centro da cidade ADVENT."
+SpokenText="Em mais de oitenta por cento dos casos identificados, pessoas desaparecidas dos territ√≥rios externos foram encontradas vivendo confortavelmente em um centro da cidade ADVENT."
 
 [T_Small_Town___Slums_Propaganda_22_Prop_Announcer AkEvent]
-SpokenText="Por que enfrentar a incerteza de viver com mercadorias ilegais ou de segunda m„o? A AD
+SpokenText="Por que enfrentar a incerteza de viver com mercadorias ilegais ou de segunda m√£o? A AD
 
 VENT fornece todas as necessidades da vida nos centros da cidade."
 
 [T_Small_Town___Slums_Propaganda_23_Prop_Announcer AkEvent]
-SpokenText="O contrabando nunca È a resposta. A ADVENT instituiu penas rigorosas para aqueles condenados por lidar com materiais n„o autorizados."
+SpokenText="O contrabando nunca √© a resposta. A ADVENT instituiu penas rigorosas para aqueles condenados por lidar com materiais n√£o autorizados."
 
 [T_Small_Town___Slums_Propaganda_24_Prop_Announcer AkEvent]
-SpokenText="As forÁas de paz da ADVENT conduzir„o inspeÁıes surpresa de contrabando ao longo do mÍs. Sua cooperaÁ„o garante um processo seguro e tranquilo."
+SpokenText="As for√ßas de paz da ADVENT conduzir√£o inspe√ß√µes surpresa de contrabando ao longo do m√™s. Sua coopera√ß√£o garante um processo seguro e tranquilo."
 
 [T_Small_Town___Slums_Propaganda_25_Prop_Announcer AkEvent]
-SpokenText="Uma vida melhor est· esperando. Transfira-se para um centro da cidade hoje."
+SpokenText="Uma vida melhor est√° esperando. Transfira-se para um centro da cidade hoje."
 
 [T_Small_Town___Slums_Propaganda_26_Prop_Announcer AkEvent]
-SpokenText="Sirva um propÛsito maior; procure hoje mesmo seu recrutador local da ADVENT!"
+SpokenText="Sirva um prop√≥sito maior; procure hoje mesmo seu recrutador local da ADVENT!"
 
 [T_Small_Town___Slums_Propaganda_27_Prop_Announcer AkEvent]
-SpokenText="As forÁas de paz da ADVENT est„o buscando novos recrutas motivados. Informe-se em seu posto da ADVENT local."
+SpokenText="As for√ßas de paz da ADVENT est√£o buscando novos recrutas motivados. Informe-se em seu posto da ADVENT local."
 
 [T_Small_Town___Slums_Propaganda_28_Prop_Announcer AkEvent]
-SpokenText="A ADVENT est· dedicada a construir um mundo melhor e um futuro mais brilhante para toda a humanidade. Consulte seu recrutador hoje."
+SpokenText="A ADVENT est√° dedicada a construir um mundo melhor e um futuro mais brilhante para toda a humanidade. Consulte seu recrutador hoje."
 
 [T_Small_Town___Slums_Propaganda_29_Prop_Announcer AkEvent]
-SpokenText="VocÍ n„o precisa sofrer com as duras realidades do mundo antigo. A ADVENT d· as boas-vindas a todos que buscam ref˙gio nos centros da cidade."
+SpokenText="Voc√™ n√£o precisa sofrer com as duras realidades do mundo antigo. A ADVENT d√° as boas-vindas a todos que buscam ref√∫gio nos centros da cidade."
 
 [T_Small_Town___Slums_Propaganda_30_Prop_Announcer AkEvent]
-SpokenText="N„o se assuste com qualquer espÈcie n„o humana vista perto dos agentes de paz da ADVENT. Sua presenÁa È totalmente benigna."
+SpokenText="N√£o se assuste com qualquer esp√©cie n√£o humana vista perto dos agentes de paz da ADVENT. Sua presen√ßa √© totalmente benigna."
 
 [T_Small_Town___Slums_Propaganda_31_Prop_Announcer AkEvent]
-SpokenText="A ADVENT leva a sÈrio todos os relatos de pessoas desaparecidas. Caso precise registrar uma declaraÁ„o oficial, informe-se em seu posto de seguranÁa da ADVENT mais prÛximo."
+SpokenText="A ADVENT leva a s√©rio todos os relatos de pessoas desaparecidas. Caso precise registrar uma declara√ß√£o oficial, informe-se em seu posto de seguran√ßa da ADVENT mais pr√≥ximo."
 
 [T_Small_Town___Slums_Propaganda_32_Prop_Announcer AkEvent]
-SpokenText="As raÁıes aprovadas ADVENT CORE est„o disponÌveis em quantidades limitadas para os cidad„os que buscam mais assistÍncia."
+SpokenText="As ra√ß√µes aprovadas ADVENT CORE est√£o dispon√≠veis em quantidades limitadas para os cidad√£os que buscam mais assist√™ncia."
 
 [T_Small_Town___Slums_Propaganda_33_Prop_Announcer AkEvent]
-SpokenText="N„o seja enganado por agitadores dissidentes que fazem promessas que n„o podem cumprir. Somente a ADVENT pode proporcionar a seguranÁa e a seguranÁa de longo prazo que vocÍ merece."
+SpokenText="N√£o seja enganado por agitadores dissidentes que fazem promessas que n√£o podem cumprir. Somente a ADVENT pode proporcionar a seguran√ßa e a seguran√ßa de longo prazo que voc√™ merece."
 
 [T_Small_Town___Slums_Propaganda_34_Prop_Announcer AkEvent]
-SpokenText="A ADVENT est· trabalhando de m„os dadas para construir um futuro melhor para todos os habitantes da Terra."
+SpokenText="A ADVENT est√° trabalhando de m√£os dadas para construir um futuro melhor para todos os habitantes da Terra."
 
 [T_Small_Town___Slums_Propaganda_35_Prop_Announcer AkEvent]
-SpokenText="A ADVENT Burger agora oferece as ˙ltimas seleÁıes em proteÌnas gourmet. Experimente nossas novas opÁıes hoje mesmo."
+SpokenText="A ADVENT Burger agora oferece as √∫ltimas sele√ß√µes em prote√≠nas gourmet. Experimente nossas novas op√ß√µes hoje mesmo."
 
 [T_Small_Town___Slums_Propaganda_36_Prop_Announcer AkEvent]
-SpokenText="A ADVENT carregar· o fardo, tudo o que vocÍ precisa fazer È pedir."
+SpokenText="A ADVENT carregar√° o fardo, tudo o que voc√™ precisa fazer √© pedir."
 
 [T_Small_Town___Slums_Propaganda_37_Prop_Announcer AkEvent]
-SpokenText="Neste momento, nos centros urbanos ao redor do globo, pessoas como vocÍ est„o confort·veis e aquecidas. Junte-se a elas, junte-se ‡ ADVENT."
+SpokenText="Neste momento, nos centros urbanos ao redor do globo, pessoas como voc√™ est√£o confort√°veis e aquecidas. Junte-se a elas, junte-se √† ADVENT."
 
 [T_Small_Town___Slums_Propaganda_38_Prop_Announcer AkEvent]
-SpokenText="Cansado de viver no passado? Junte-se a nÛs no futuro. ADVENT."
+SpokenText="Cansado de viver no passado? Junte-se a n√≥s no futuro. ADVENT."
 
 [T_Small_Town___Slums_Propaganda_39_Prop_Announcer AkEvent]
-SpokenText="ResistÍncia È difÌcil, conformidade È f·cil. A escolha È sua."
+SpokenText="Resist√™ncia √© dif√≠cil, conformidade √© f√°cil. A escolha √© sua."
 

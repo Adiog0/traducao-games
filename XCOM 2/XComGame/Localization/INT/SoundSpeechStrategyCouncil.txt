@@ -1,29 +1,29 @@
-[S_GP_Doom_Lowered_Council_PsiGate_E AkEvent]
-SpokenText="Os alienígenas, sem dúvida, terão que lidar com a perda deste artefato incomum, Comandante. Confio que você trabalhará para descobrir o seu propósito."
+ï»¿[S_GP_Doom_Lowered_Council_PsiGate_E AkEvent]
+SpokenText="Os alienÃ­genas, sem dÃºvida, terÃ£o que lidar com a perda deste artefato incomum, Comandante. Confio que vocÃª trabalharÃ¡ para descobrir o seu propÃ³sito."
 
 [S_Liberation_Network_One_Council_02 AkEvent]
-SpokenText="A ADVENT está mentindo para você."
+SpokenText="A ADVENT estÃ¡ mentindo para vocÃª."
 
 [S_Pre_Final_Mission_Broadcast_Spokesman_01 AkEvent]
-SpokenText="Olá, Comandante. Você e sua equipe devem ser elogiados. Seus esforços em reconstruir a rede de resistência e descobrir a verdade sobre o projeto Avatar têm sido admiráveis. Só gostaria de ter notícias melhores para reportar."
+SpokenText="OlÃ¡, Comandante. VocÃª e sua equipe devem ser elogiados. Seus esforÃ§os em reconstruir a rede de resistÃªncia e descobrir a verdade sobre o projeto Avatar tÃªm sido admirÃ¡veis. SÃ³ gostaria de ter notÃ­cias melhores para reportar."
 
 [S_Pre_Final_Mission_Broadcast_Spokesman_02 AkEvent]
-SpokenText="A ADVENT está ciente de suas descobertas recentes e, por sua vez, agora considera a população humana restante um risco. Um plano está em vigor para a erradicação total de toda a vida humana não essencial. A começar imediatamente."
+SpokenText="A ADVENT estÃ¡ ciente de suas descobertas recentes e, por sua vez, agora considera a populaÃ§Ã£o humana restante um risco. Um plano estÃ¡ em vigor para a erradicaÃ§Ã£o total de toda a vida humana nÃ£o essencial. A comeÃ§ar imediatamente."
 
 [S_Pre_Final_Mission_Broadcast_Spokesman_03 AkEvent]
-SpokenText="Muito em breve, o Orador da ADVENT anunciará uma descoberta na terapia genética. Um tratamento final para a condição humana. Bilhões irão se dirigir a clínicas de terapia genética em todo o mundo. Eles nunca mais retornarão."
+SpokenText="Muito em breve, o Orador da ADVENT anunciarÃ¡ uma descoberta na terapia genÃ©tica. Um tratamento final para a condiÃ§Ã£o humana. BilhÃµes irÃ£o se dirigir a clÃ­nicas de terapia genÃ©tica em todo o mundo. Eles nunca mais retornarÃ£o."
 
 [S_Pre_Final_Mission_Broadcast_Spokesman_04 AkEvent]
-SpokenText="Através dos meus contatos, consegui obter dados táticos e códigos de acesso à Torre de Rede da ADVENT. O discurso do Orador será transmitido ao vivo para uma audiência global por meio dessa instalação - toda a rede da ADVENT estará ouvindo. É esse orgulho que devemos usar contra eles."
+SpokenText="AtravÃ©s dos meus contatos, consegui obter dados tÃ¡ticos e cÃ³digos de acesso Ã  Torre de Rede da ADVENT. O discurso do Orador serÃ¡ transmitido ao vivo para uma audiÃªncia global por meio dessa instalaÃ§Ã£o - toda a rede da ADVENT estarÃ¡ ouvindo. Ã‰ esse orgulho que devemos usar contra eles."
 
 [S_Pre_Final_Mission_Broadcast_Spokesman_05 AkEvent]
-SpokenText="As informações que estou enviando devem permitir que o Dr. Tygan e a Engenheira Chefe Shen assumam o controle da transmissão e interrompam toda a rede deles por dentro."
+SpokenText="As informaÃ§Ãµes que estou enviando devem permitir que o Dr. Tygan e a Engenheira Chefe Shen assumam o controle da transmissÃ£o e interrompam toda a rede deles por dentro."
 
 [S_Pre_Final_Mission_Broadcast_Spokesman_06 AkEvent]
-SpokenText="Embora minha esperança seja que essa interrupção confunda as forças inimigas o suficiente para dar uma chance de sucesso ao seu ataque final, peço mais uma coisa a você."
+SpokenText="Embora minha esperanÃ§a seja que essa interrupÃ§Ã£o confunda as forÃ§as inimigas o suficiente para dar uma chance de sucesso ao seu ataque final, peÃ§o mais uma coisa a vocÃª."
 
 [S_Pre_Final_Mission_Broadcast_Spokesman_07 AkEvent]
-SpokenText="Leve o que você aprendeu. Deixe o mundo saber o que está acontecendo aqui. Acorde-os. Transmita a verdade. Antes que não haja mais ninguém para ouvir."
+SpokenText="Leve o que vocÃª aprendeu. Deixe o mundo saber o que estÃ¡ acontecendo aqui. Acorde-os. Transmita a verdade. Antes que nÃ£o haja mais ninguÃ©m para ouvir."
 
 [S_Pre_Final_Mission_Broadcast_Spokesman_08 AkEvent]
 SpokenText="Parece que ambos estamos sem tempo."
@@ -32,63 +32,63 @@ SpokenText="Parece que ambos estamos sem tempo."
 SpokenText="Adeus, Comandante."
 
 [S_Psi_Gate_Council_Spokesman_01 AkEvent]
-SpokenText="Com base no que sua equipe testemunhou em campo, Comandante, está claro que esse portal psiônico fornece aos alienígenas algum meio de viagem distante. Caberá a você determinar não apenas como ele funciona, mas exatamente para onde esse portal leva."
+SpokenText="Com base no que sua equipe testemunhou em campo, Comandante, estÃ¡ claro que esse portal psiÃ´nico fornece aos alienÃ­genas algum meio de viagem distante. CaberÃ¡ a vocÃª determinar nÃ£o apenas como ele funciona, mas exatamente para onde esse portal leva."
 
 [S_Skipped_or_Failed_Mission_Council AkEvent]
-SpokenText="Comandante, as forças da resistência nesta região estão se escondendo devido a contratempos recentes. Se você deseja contatá-las novamente, terá que esperar até que elas consigam se reagrupar."
+SpokenText="Comandante, as forÃ§as da resistÃªncia nesta regiÃ£o estÃ£o se escondendo devido a contratempos recentes. Se vocÃª deseja contatÃ¡-las novamente, terÃ¡ que esperar atÃ© que elas consigam se reagrupar."
 
 [S_Support_Facility_Failed_Council_01 AkEvent]
-SpokenText="É lamentável que você não tenha conseguido destruir a instalação alienígena, Comandante. Teremos que procurar outros meios de retardar os esforços contínuos dos alienígenas em relação ao Projeto Avatar."
+SpokenText="Ã‰ lamentÃ¡vel que vocÃª nÃ£o tenha conseguido destruir a instalaÃ§Ã£o alienÃ­gena, Comandante. Teremos que procurar outros meios de retardar os esforÃ§os contÃ­nuos dos alienÃ­genas em relaÃ§Ã£o ao Projeto Avatar."
 
 [S_Support_Facility_Failed_Council_02 AkEvent]
-SpokenText="Embora eu respeite o esforço de sua equipe, Comandante, com essa instalação ainda intacta, os alienígenas continuarão seu trabalho no Projeto Avatar sem impedimentos."
+SpokenText="Embora eu respeite o esforÃ§o de sua equipe, Comandante, com essa instalaÃ§Ã£o ainda intacta, os alienÃ­genas continuarÃ£o seu trabalho no Projeto Avatar sem impedimentos."
 
 [S_Support_Facility_Failed_Council_03 AkEvent]
-SpokenText="Ao falhar em destruir a instalação alienígena, eles continuarão avançando em seus esforços para desenvolver o Projeto Avatar. Se surgir outra oportunidade, você terá que fazer melhor, Comandante."
+SpokenText="Ao falhar em destruir a instalaÃ§Ã£o alienÃ­gena, eles continuarÃ£o avanÃ§ando em seus esforÃ§os para desenvolver o Projeto Avatar. Se surgir outra oportunidade, vocÃª terÃ¡ que fazer melhor, Comandante."
 
 [S_Support_Facility_Failed_Council_04 AkEvent]
-SpokenText="Sua falha em destruir a instalação alienígena é preocupante, Comandante. Confio que você se adaptará e melhorará caso surja outra oportunidade."
+SpokenText="Sua falha em destruir a instalaÃ§Ã£o alienÃ­gena Ã© preocupante, Comandante. Confio que vocÃª se adaptarÃ¡ e melhorarÃ¡ caso surja outra oportunidade."
 
 [S_Support_Facility_Failed_Council_05 AkEvent]
-SpokenText="É lamentável que sua equipe não tenha conseguido eliminar a instalação alienígena, Comandante. Como resultado, o progresso dos alienígenas em relação ao Projeto Avatar continuará a crescer."
+SpokenText="Ã‰ lamentÃ¡vel que sua equipe nÃ£o tenha conseguido eliminar a instalaÃ§Ã£o alienÃ­gena, Comandante. Como resultado, o progresso dos alienÃ­genas em relaÃ§Ã£o ao Projeto Avatar continuarÃ¡ a crescer."
 
 [S_Support_Facility_Success_Council_01 AkEvent]
-SpokenText="Sua equipe fez um trabalho louvável em destruir a instalação alienígena, Comandante. Seus esforços, sem dúvida, atrasarão o progresso dos alienígenas em relação ao Projeto Avatar."
+SpokenText="Sua equipe fez um trabalho louvÃ¡vel em destruir a instalaÃ§Ã£o alienÃ­gena, Comandante. Seus esforÃ§os, sem dÃºvida, atrasarÃ£o o progresso dos alienÃ­genas em relaÃ§Ã£o ao Projeto Avatar."
 
 [S_Support_Facility_Success_Council_02 AkEvent]
-SpokenText="A instalação alienígena agora está em ruínas, Comandante. Excelente trabalho. Seus esforços, sem dúvida, retardarão o progresso dos alienígenas em relação ao Projeto Avatar."
+SpokenText="A instalaÃ§Ã£o alienÃ­gena agora estÃ¡ em ruÃ­nas, Comandante. Excelente trabalho. Seus esforÃ§os, sem dÃºvida, retardarÃ£o o progresso dos alienÃ­genas em relaÃ§Ã£o ao Projeto Avatar."
 
 [S_Support_Facility_Success_Council_03 AkEvent]
-SpokenText="A destruição desta instalação marca um passo importante para a eliminação total do Projeto Avatar, Comandante. Sua equipe deve ser elogiada."
+SpokenText="A destruiÃ§Ã£o desta instalaÃ§Ã£o marca um passo importante para a eliminaÃ§Ã£o total do Projeto Avatar, Comandante. Sua equipe deve ser elogiada."
 
 [S_Support_Facility_Success_Council_04 AkEvent]
-SpokenText="Com a instalação alienígena destruída, seus esforços em desenvolver o Projeto Avatar provavelmente sofrerão uma queda substancial, pelo menos por enquanto. Excelente trabalho, Comandante."
+SpokenText="Com a instalaÃ§Ã£o alienÃ­gena destruÃ­da, seus esforÃ§os em desenvolver o Projeto Avatar provavelmente sofrerÃ£o uma queda substancial, pelo menos por enquanto. Excelente trabalho, Comandante."
 
 [S_Support_Facility_Success_Council_05 AkEvent]
-SpokenText="Suas tropas se saíram admiravelmente, Comandante. A destruição daquela instalação retardará o desenvolvimento do Projeto Avatar pelos alienígenas e nos dará tempo para estabelecer ainda mais o movimento de resistência
+SpokenText="Suas tropas se saÃ­ram admiravelmente, Comandante. A destruiÃ§Ã£o daquela instalaÃ§Ã£o retardarÃ¡ o desenvolvimento do Projeto Avatar pelos alienÃ­genas e nos darÃ¡ tempo para estabelecer ainda mais o movimento de resistÃªncia
 
 ."
 
 [S_Support_First_Resistance_Goods_Council AkEvent]
-SpokenText="Comandante, para ajudar em seus esforços, reunimos recursos adicionais e equipe na sede da Resistência para seu uso."
+SpokenText="Comandante, para ajudar em seus esforÃ§os, reunimos recursos adicionais e equipe na sede da ResistÃªncia para seu uso."
 
 [S_Support_Great_Mission_Council_01 AkEvent]
-SpokenText="Excelente trabalho, Comandante. Seus esforços continuam a fortalecer o movimento de resistência em todo o mundo."
+SpokenText="Excelente trabalho, Comandante. Seus esforÃ§os continuam a fortalecer o movimento de resistÃªncia em todo o mundo."
 
 [S_Support_Great_Mission_Council_02 AkEvent]
-SpokenText="Outro esforço impressionante, Comandante. Minhas expectativas eram altas e, no entanto, você as superou."
+SpokenText="Outro esforÃ§o impressionante, Comandante. Minhas expectativas eram altas e, no entanto, vocÃª as superou."
 
 [S_Support_Great_Mission_Council_03 AkEvent]
-SpokenText="Você fez um trabalho excepcional liderando a resistência, Comandante."
+SpokenText="VocÃª fez um trabalho excepcional liderando a resistÃªncia, Comandante."
 
 [S_Support_Great_Mission_Council_04 AkEvent]
-SpokenText="Considerando os recursos limitados à sua disposição, Comandante, você ainda conseguiu superar minhas expectativas. Excelente trabalho."
+SpokenText="Considerando os recursos limitados Ã  sua disposiÃ§Ã£o, Comandante, vocÃª ainda conseguiu superar minhas expectativas. Excelente trabalho."
 
 [S_Support_Great_Mission_Council_05 AkEvent]
-SpokenText="Você e sua equipe infligiram outro golpe sério aos esforços dos alienígenas hoje, Comandante. Trabalho impressionante."
+SpokenText="VocÃª e sua equipe infligiram outro golpe sÃ©rio aos esforÃ§os dos alienÃ­genas hoje, Comandante. Trabalho impressionante."
 
 [S_Support_Misc_Council_01 AkEvent]
-SpokenText="Olá, Comandante."
+SpokenText="OlÃ¡, Comandante."
 
 [S_Support_Misc_Council_02 AkEvent]
 SpokenText="Boa sorte, Comandante."
@@ -97,57 +97,57 @@ SpokenText="Boa sorte, Comandante."
 SpokenText="XCOM vive."
 
 [S_Support_Misc_Council_04 AkEvent]
-SpokenText="ADVENT é uma mentira."
+SpokenText="ADVENT Ã© uma mentira."
 
 [S_Support_Misc_Council_05 AkEvent]
-SpokenText="Soylent Gold é feito de pessoas."
+SpokenText="Soylent Gold Ã© feito de pessoas."
 
 [S_Support_Misc_Council_06 AkEvent]
-SpokenText="Este é o fim, Comandante."
+SpokenText="Este Ã© o fim, Comandante."
 
 [S_Support_Status_Report_Grade_A_Council_01 AkEvent]
-SpokenText="Eu tinha grandes esperanças para a resistência sob o seu comando, Comandante, e você superou a si mesmo."
+SpokenText="Eu tinha grandes esperanÃ§as para a resistÃªncia sob o seu comando, Comandante, e vocÃª superou a si mesmo."
 
 [S_Support_Status_Report_Grade_B_Council_01 AkEvent]
-SpokenText="Você fez um progresso considerável contra os alienígenas no último mês, Comandante. Espero que seus esforços contínuos levem a mais sucesso."
+SpokenText="VocÃª fez um progresso considerÃ¡vel contra os alienÃ­genas no Ãºltimo mÃªs, Comandante. Espero que seus esforÃ§os contÃ­nuos levem a mais sucesso."
 
 [S_Support_Status_Report_Grade_C_Council_01 AkEvent]
-SpokenText="Seu progresso contra os alienígenas no último mês foi significativo, Comandante, mas ainda há espaço para melhorias se quisermos eliminar a ameaça alienígena."
+SpokenText="Seu progresso contra os alienÃ­genas no Ãºltimo mÃªs foi significativo, Comandante, mas ainda hÃ¡ espaÃ§o para melhorias se quisermos eliminar a ameaÃ§a alienÃ­gena."
 
 [S_Support_Status_Report_Grade_D_Council_01 AkEvent]
-SpokenText="Liderar a resistência é uma tarefa desafiadora, Comandante, mas seus esforços até agora deixaram muitos se perguntando se adotamos a abordagem certa. Temos que fazer melhor."
+SpokenText="Liderar a resistÃªncia Ã© uma tarefa desafiadora, Comandante, mas seus esforÃ§os atÃ© agora deixaram muitos se perguntando se adotamos a abordagem certa. Temos que fazer melhor."
 
 [S_Support_Status_Report_Grade_F_Council_01 AkEvent]
-SpokenText="Embora eu reconheça que você foi colocado em uma situação difícil, Comandante, nossos fracassos contínuos no último mês deixaram muitos na resistência preocupados. Nada menos que uma grande melhoria será suficiente."
+SpokenText="Embora eu reconheÃ§a que vocÃª foi colocado em uma situaÃ§Ã£o difÃ­cil, Comandante, nossos fracassos contÃ­nuos no Ãºltimo mÃªs deixaram muitos na resistÃªncia preocupados. Nada menos que uma grande melhoria serÃ¡ suficiente."
 
 [S_Support_Tough_Mission_Council_01 AkEvent]
-SpokenText="Uma operação difícil, Comandante. Confio que você revisará as táticas empregadas para evitar uma repetição deste incidente."
+SpokenText="Uma operaÃ§Ã£o difÃ­cil, Comandante. Confio que vocÃª revisarÃ¡ as tÃ¡ticas empregadas para evitar uma repetiÃ§Ã£o deste incidente."
 
 [S_Support_Tough_Mission_Council_02 AkEvent]
-SpokenText="Eu compreendo que as condições sob as quais você está operando não são ideais, Comandante, mas teremos que fazer melhor. A resistência está contando com você."
+SpokenText="Eu compreendo que as condiÃ§Ãµes sob as quais vocÃª estÃ¡ operando nÃ£o sÃ£o ideais, Comandante, mas teremos que fazer melhor. A resistÃªncia estÃ¡ contando com vocÃª."
 
 [S_Support_Tough_Mission_Council_03 AkEvent]
-SpokenText="Resultados difíceis como este afetam não apenas a sua equipe, mas toda a resistência, Comandante. Devemos fazer melhor se quisermos ter esperança de deter a ameaça alienígena."
+SpokenText="Resultados difÃ­ceis como este afetam nÃ£o apenas a sua equipe, mas toda a resistÃªncia, Comandante. Devemos fazer melhor se quisermos ter esperanÃ§a de deter a ameaÃ§a alienÃ­gena."
 
 [S_Support_Tough_Mission_Council_04 AkEvent]
-SpokenText="Embora você tenha sido colocado em uma posição difícil, Comandante, as expectativas para o seu sucesso continuam altas. Você precisará revisar suas táticas para minimizar mais perdas."
+SpokenText="Embora vocÃª tenha sido colocado em uma posiÃ§Ã£o difÃ­cil, Comandante, as expectativas para o seu sucesso continuam altas. VocÃª precisarÃ¡ revisar suas tÃ¡ticas para minimizar mais perdas."
 
 [S_Support_Tough_Mission_Council_05 AkEvent]
-SpokenText="Você certamente enfrentaria operações difíceis ao longo de nossa campanha, Comandante, mas não há espaço para esses contratempos contínuos. Devemos fazer melhor."
+SpokenText="VocÃª certamente enfrentaria operaÃ§Ãµes difÃ­ceis ao longo de nossa campanha, Comandante, mas nÃ£o hÃ¡ espaÃ§o para esses contratempos contÃ­nuos. Devemos fazer melhor."
 
 [S_Victory_Council_01 AkEvent]
-SpokenText="Para todos vocês nas zonas ocupadas, mantenham-se firmes, continuem a luta. Eu prometo a vocês, a ajuda está a caminho."
+SpokenText="Para todos vocÃªs nas zonas ocupadas, mantenham-se firmes, continuem a luta. Eu prometo a vocÃªs, a ajuda estÃ¡ a caminho."
 
 [S_Welcome_Resistance_CouncilSpokesman_01_Setup_Phase AkEvent]
-SpokenText="Olá, Comandante. O conselho que você conhecia não existe mais. Seus membros prestaram juramento de lealdade à Administração da ADVENT."
+SpokenText="OlÃ¡, Comandante. O conselho que vocÃª conhecia nÃ£o existe mais. Seus membros prestaram juramento de lealdade Ã  AdministraÃ§Ã£o da ADVENT."
 
 [S_Welcome_Resistance_CouncilSpokesman_02_Setup_Phase AkEvent]
-SpokenText="Com uma exceção. É bom vê-lo novamente. Nos dias desde a sua captura, eu fiz tudo o que pude para ajudar a rede de resistência de
+SpokenText="Com uma exceÃ§Ã£o. Ã‰ bom vÃª-lo novamente. Nos dias desde a sua captura, eu fiz tudo o que pude para ajudar a rede de resistÃªncia de
 
- dentro. Nossos esforços resultaram nas informações que levaram à sua recente extração. No entanto, houve consequências não intencionais. Logo após sua libertação, houve um aumento significativo nas operações militares da ADVENT. Nossos visitantes indesejados estão tramando algo."
+ dentro. Nossos esforÃ§os resultaram nas informaÃ§Ãµes que levaram Ã  sua recente extraÃ§Ã£o. No entanto, houve consequÃªncias nÃ£o intencionais. Logo apÃ³s sua libertaÃ§Ã£o, houve um aumento significativo nas operaÃ§Ãµes militares da ADVENT. Nossos visitantes indesejados estÃ£o tramando algo."
 
 [S_Welcome_Resistance_CouncilSpokesman_03_Setup_Phase AkEvent]
-SpokenText="O que você está vendo são relatórios classificados de civis desaparecidos em todo o mundo. Os números estão crescendo. Suspeitamos que eles estejam sendo levados para uma instalação ainda não descoberta. No entanto, nossa melhor pista até agora é não confirmada - uma única palavra que ocorre repetidamente em seus arquivos: Avatar. Este projeto vem dos mais altos escalões da ADVENT. Estamos certos de que os desaparecimentos e o interesse dos alienígenas em você estão conectados."
+SpokenText="O que vocÃª estÃ¡ vendo sÃ£o relatÃ³rios classificados de civis desaparecidos em todo o mundo. Os nÃºmeros estÃ£o crescendo. Suspeitamos que eles estejam sendo levados para uma instalaÃ§Ã£o ainda nÃ£o descoberta. No entanto, nossa melhor pista atÃ© agora Ã© nÃ£o confirmada - uma Ãºnica palavra que ocorre repetidamente em seus arquivos: Avatar. Este projeto vem dos mais altos escalÃµes da ADVENT. Estamos certos de que os desaparecimentos e o interesse dos alienÃ­genas em vocÃª estÃ£o conectados."
 
 [S_Welcome_Resistance_CouncilSpokesman_04_Setup_Phase AkEvent]
-SpokenText=""O tempo está curto, Comandante. Precisamos que você assuma o controle das operações de resistência em todo o mundo. Estabeleça contato com as células locais e os traga para o nosso lado. Encontre esse projeto Avatar e desative-o. Salve nosso mundo. O relógio está correndo. Boa sorte, Comandante.\n""
+SpokenText=""O tempo estÃ¡ curto, Comandante. Precisamos que vocÃª assuma o controle das operaÃ§Ãµes de resistÃªncia em todo o mundo. EstabeleÃ§a contato com as cÃ©lulas locais e os traga para o nosso lado. Encontre esse projeto Avatar e desative-o. Salve nosso mundo. O relÃ³gio estÃ¡ correndo. Boa sorte, Comandante.\n""

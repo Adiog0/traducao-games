@@ -1,115 +1,115 @@
-[TUT_1stBattleOver_02_DELTA2 SoundNodeWave]
-SpokenText="Central. Acho que È isso. Acabou."
+Ôªø[TUT_1stBattleOver_02_DELTA2 SoundNodeWave]
+SpokenText="Central. Acho que √© isso. Acabou."
 
 [TUT_1stBattleOver_03_CEN SoundNodeWave]
-SpokenText="Entendido, Delta. Garantam os corpos e voltem para o Skyranger para extraÁ„o imediata."
+SpokenText="Entendido, Delta. Garantam os corpos e voltem para o Skyranger para extra√ß√£o imediata."
 
 [TUT_ConstantResearch_03_CS SoundNodeWave]
-SpokenText="Comandante, com esta pesquisa concluÌda, minha equipe e eu n„o temos nada para estudar no momento. Gostaria de pedir sua permiss„o para realizar a autÛpsia dos corpos alienÌgenas recuperados em suas duas ˙ltimas operaÁıes de campo... Tenho certeza de que concordar· que, se vamos derrotar os alienÌgenas, precisamos entender sua fisiologia."
+SpokenText="Comandante, com esta pesquisa conclu√≠da, minha equipe e eu n√£o temos nada para estudar no momento. Gostaria de pedir sua permiss√£o para realizar a aut√≥psia dos corpos alien√≠genas recuperados em suas duas √∫ltimas opera√ß√µes de campo... Tenho certeza de que concordar√° que, se vamos derrotar os alien√≠genas, precisamos entender sua fisiologia."
 
 [TUT_ConstantResearch_04_CS SoundNodeWave]
-SpokenText="Obrigado, Comandante. Eu o informarei quando a pesquisa estiver concluÌda."
+SpokenText="Obrigado, Comandante. Eu o informarei quando a pesquisa estiver conclu√≠da."
 
 [TUT_ConstantResearch_07_CS SoundNodeWave]
-SpokenText="Hmph. Parece que a equipe da Dra. Shen finalmente conseguiu ligar suas m·quinas."
+SpokenText="Hmph. Parece que a equipe da Dra. Shen finalmente conseguiu ligar suas m√°quinas."
 
 [TUT_CouncilMissions_01_CEN SoundNodeWave]
 SpokenText="Comandante, o Conselho solicitou uma palavra."
 
 [TUT_CouncilMissions_04_CEN SoundNodeWave]
-SpokenText="Parece que È melhor irmos nessa."
+SpokenText="Parece que √© melhor irmos nessa."
 
 [TUT_Dashing_01_DELTA3 SoundNodeWave]
-SpokenText="Central, tenho movimento. A 30 metros ao norte da minha posiÁ„o. VeÌculo policial."
+SpokenText="Central, tenho movimento. A 30 metros ao norte da minha posi√ß√£o. Ve√≠culo policial."
 
 [TUT_Engineering_01_CE SoundNodeWave]
-SpokenText="Ah, Comandante. Eu estava me perguntando quando vocÍ passaria por aqui. Bem-vindo ‡ Engenharia. Tudo o que eles imaginam nos LaboratÛrios de Pesquisa, podemos construir aqui."
+SpokenText="Ah, Comandante. Eu estava me perguntando quando voc√™ passaria por aqui. Bem-vindo √† Engenharia. Tudo o que eles imaginam nos Laborat√≥rios de Pesquisa, podemos construir aqui."
 
 [TUT_Engineering_02_CE SoundNodeWave]
-SpokenText="Falando nisso, a Dra. Vahlen acabou de nos enviar alguns novos esquemas. Com a sua aprovaÁ„o, comeÁaremos a fabricaÁ„o."
+SpokenText="Falando nisso, a Dra. Vahlen acabou de nos enviar alguns novos esquemas. Com a sua aprova√ß√£o, come√ßaremos a fabrica√ß√£o."
 
 [TUT_Engineering_03_CE SoundNodeWave]
-SpokenText="Excelente. Minha equipe mal pode esperar para comeÁar. Eu o avisarei assim que estiver pronto."
+SpokenText="Excelente. Minha equipe mal pode esperar para come√ßar. Eu o avisarei assim que estiver pronto."
 
 [TUT_FacilityConstruction_01_CE SoundNodeWave]
-SpokenText="Comandante, sem d˙vida vocÍ est· ciente do pedido da Dra. Vahlen para capturar um dos alienÌgenas. Um plano sÛlido, mas ela n„o percebe que n„o temos uma instalaÁ„o para conter com seguranÁa um espÈcime vivo. Com a sua aprovaÁ„o, minha equipe e eu comeÁaremos a construÁ„o de uma instalaÁ„o adequada."
+SpokenText="Comandante, sem d√∫vida voc√™ est√° ciente do pedido da Dra. Vahlen para capturar um dos alien√≠genas. Um plano s√≥lido, mas ela n√£o percebe que n√£o temos uma instala√ß√£o para conter com seguran√ßa um esp√©cime vivo. Com a sua aprova√ß√£o, minha equipe e eu come√ßaremos a constru√ß√£o de uma instala√ß√£o adequada."
 
 [TUT_FacilityConstruction_02_CE SoundNodeWave]
-SpokenText="Obrigado, Comandante. Eu o avisarei quando a instalaÁ„o estiver pronta."
+SpokenText="Obrigado, Comandante. Eu o avisarei quando a instala√ß√£o estiver pronta."
 
 [TUT_FacilityConstruction_06_CE SoundNodeWave]
-SpokenText="A Dra. Vahlen pediu para falar com vocÍ, Comandante. Sem d˙vida, ela quer explicar pessoalmente o plano dela."
+SpokenText="A Dra. Vahlen pediu para falar com voc√™, Comandante. Sem d√∫vida, ela quer explicar pessoalmente o plano dela."
 
 [TUT_FacilityConstruction_07_CS SoundNodeWave]
-SpokenText="Comandante, tenho certeza de que vocÍ foi informado sobre o meu pedido. Com sua autorizaÁ„o, podemos iniciar imediatamente a pesquisa do 'Arc Thrower'."
+SpokenText="Comandante, tenho certeza de que voc√™ foi informado sobre o meu pedido. Com sua autoriza√ß√£o, podemos iniciar imediatamente a pesquisa do 'Arc Thrower'."
 
 [TUT_FogPod_01_DELTA3 SoundNodeWave]
-SpokenText="Senhor, estou com o objeto ‡ vista. Permiss„o para me aproximar."
+SpokenText="Senhor, estou com o objeto √† vista. Permiss√£o para me aproximar."
 
 [TUT_FogPod_04_DELTA3 SoundNodeWave]
-SpokenText="N„o faÁo ideia do que È isso, mas posso confirmar que n„o È um satÈlite."
+SpokenText="N√£o fa√ßo ideia do que √© isso, mas posso confirmar que n√£o √© um sat√©lite."
 
 [TUT_MissionControl_01_CEN SoundNodeWave]
-SpokenText="O inimigo est· testando nossas capacidades, Comandante. Recebemos relatos de ataques simult‚neos em dois paÌses diferentes. SÛ podemos responder a um deles."
+SpokenText="O inimigo est√° testando nossas capacidades, Comandante. Recebemos relatos de ataques simult√¢neos em dois pa√≠ses diferentes. S√≥ podemos responder a um deles."
 
 [TUT_MissionControl_02_CEN SoundNodeWave]
-SpokenText="O paÌs que ajudarmos doar· mais recursos para nossa causa, mas o nÌvel de p‚nico do paÌs que escolhermos n„o ajudar... aumentar·. N„o È uma decis„o f·cil, Comandante, mas vocÍ ter· que tom·-la."
+SpokenText="O pa√≠s que ajudarmos doar√° mais recursos para nossa causa, mas o n√≠vel de p√¢nico do pa√≠s que escolhermos n√£o ajudar... aumentar√°. N√£o √© uma decis√£o f√°cil, Comandante, mas voc√™ ter√° que tom√°-la."
 
 [TUT_MissionControl_07_CEN SoundNodeWave]
-SpokenText="Entendido. As tropas est„o esperando por vocÍ no Hangar."
+SpokenText="Entendido. As tropas est√£o esperando por voc√™ no Hangar."
 
 [TUT_MovingTimeForward_01_CEN SoundNodeWave]
-SpokenText="Comandante, a Dra. Vahlen informa que a pesquisa est· progredindo nos laboratÛrios, mas ainda levar· algum tempo atÈ que o projeto esteja concluÌdo. Enquanto esperamos, nossa rede local de satÈlites acaba de entrar em operaÁ„o e agora podemos comeÁar a procurar por novas atividades. O processo pode levar v·rios dias."
+SpokenText="Comandante, a Dra. Vahlen informa que a pesquisa est√° progredindo nos laborat√≥rios, mas ainda levar√° algum tempo at√© que o projeto esteja conclu√≠do. Enquanto esperamos, nossa rede local de sat√©lites acaba de entrar em opera√ß√£o e agora podemos come√ßar a procurar por novas atividades. O processo pode levar v√°rios dias."
 
 [TUT_Objectives_01_CEN SoundNodeWave]
-SpokenText="Comandante, com base no relatÛrio da Dra. Vahlen, recomendo que comecemos a pesquisar a nova arma que ela est· chamando de 'Arc Thrower' nos LaboratÛrios. Uma vez concluÌda, podemos enviar os planos para a Engenharia para fabricaÁ„o e, em seguida, equipar um de nossos soldados com ela nos Alojamentos. A Dra. Shen e a equipe de Engenharia tambÈm est„o aguardando aprovaÁ„o para a construÁ„o da InstalaÁ„o de ContenÁ„o que precisaremos para abrigar o prisioneiro alienÌgena."
+SpokenText="Comandante, com base no relat√≥rio da Dra. Vahlen, recomendo que comecemos a pesquisar a nova arma que ela est√° chamando de 'Arc Thrower' nos Laborat√≥rios. Uma vez conclu√≠da, podemos enviar os planos para a Engenharia para fabrica√ß√£o e, em seguida, equipar um de nossos soldados com ela nos Alojamentos. A Dra. Shen e a equipe de Engenharia tamb√©m est√£o aguardando aprova√ß√£o para a constru√ß√£o da Instala√ß√£o de Conten√ß√£o que precisaremos para abrigar o prisioneiro alien√≠gena."
 
 [TUT_PanicMechanic_02_CEN SoundNodeWave]
-SpokenText="Comandante, temos uma transmiss„o entrando do Conselho."
+SpokenText="Comandante, temos uma transmiss√£o entrando do Conselho."
 
 [TUT_PanicMechanic_04_CEN SoundNodeWave]
-SpokenText="O Conselho sabe que vocÍ tomou a decis„o certa, Comandante. Com os recursos disponÌveis, sÛ podemos fazer tanto. No entanto, nosso Engenheiro-Chefe encontrou algo para ajud·-lo a monitorar as coisas..."
+SpokenText="O Conselho sabe que voc√™ tomou a decis√£o certa, Comandante. Com os recursos dispon√≠veis, s√≥ podemos fazer tanto. No entanto, nosso Engenheiro-Chefe encontrou algo para ajud√°-lo a monitorar as coisas..."
 
 [TUT_ResearchTakesTime_01_CS SoundNodeWave]
-SpokenText="Ol·, Comandante. A tarefa de pesquisa atual est· progredindo como esperado. No entanto, levar· algum tempo antes que os esquemas estejam prontos para a Engenharia. Tenho certeza de que vocÍ tem outros assuntos urgentes para tratar neste Ìnterim."
+SpokenText="Ol√°, Comandante. A tarefa de pesquisa atual est√° progredindo como esperado. No entanto, levar√° algum tempo antes que os esquemas estejam prontos para a Engenharia. Tenho certeza de que voc√™ tem outros assuntos urgentes para tratar neste √≠nterim."
 
 [TUT_SatelliteLaunch_02_CEN SoundNodeWave]
-SpokenText="Comandante, boas notÌcias. O Conselho doou um satÈlite. Nossa atual InstalaÁ„o de Enlace de SatÈlites pode suportar atÈ dois satÈlites, ent„o recomendo que lancemos o novo imediatamente."
+SpokenText="Comandante, boas not√≠cias. O Conselho doou um sat√©lite. Nossa atual Instala√ß√£o de Enlace de Sat√©lites pode suportar at√© dois sat√©lites, ent√£o recomendo que lancemos o novo imediatamente."
 
 [TUT_SatelliteLaunch_03_CEN SoundNodeWave]
 Sp
 
-okenText="Com este satÈlite adicional no lugar, melhoramos significativamente nossa cobertura geral. Recomendo que comecemos a procurar contatos alienÌgenas imediatamente."
+okenText="Com este sat√©lite adicional no lugar, melhoramos significativamente nossa cobertura geral. Recomendo que comecemos a procurar contatos alien√≠genas imediatamente."
 
 [TUT_SatelliteLaunch_04_CE SoundNodeWave]
-SpokenText="A fabricaÁ„o do dispositivo 'S.C.O.P.E.' foi concluÌda. Ele foi entregue ‡ Armaria."
+SpokenText="A fabrica√ß√£o do dispositivo 'S.C.O.P.E.' foi conclu√≠da. Ele foi entregue √† Armaria."
 
 [TUT_SatelliteLaunch_05_CE SoundNodeWave]
-SpokenText="A fabricaÁ„o do Colete de Nanofibras est· concluÌda, Comandante. Ele foi entregue ‡ Armaria."
+SpokenText="A fabrica√ß√£o do Colete de Nanofibras est√° conclu√≠da, Comandante. Ele foi entregue √† Armaria."
 
 [TUT_ScienceLab_01_CS SoundNodeWave]
-SpokenText="Ol·, Comandante. Meu nome È Dra. Vahlen. Eu supervisiono os LaboratÛrios de Pesquisa. … aqui que toda a pesquisa e desenvolvimento da XCOM ocorrem."
+SpokenText="Ol√°, Comandante. Meu nome √© Dra. Vahlen. Eu supervisiono os Laborat√≥rios de Pesquisa. √â aqui que toda a pesquisa e desenvolvimento da XCOM ocorrem."
 
 [TUT_ScienceLab_02_CS SoundNodeWave]
-SpokenText="J· comeÁamos a analisar os artefatos recuperados de nosso primeiro encontro com os alienÌgenas. Com base em nossas descobertas preliminares, acreditamos que podemos desenvolver alguns novos equipamentos para nossos soldados."
+SpokenText="J√° come√ßamos a analisar os artefatos recuperados de nosso primeiro encontro com os alien√≠genas. Com base em nossas descobertas preliminares, acreditamos que podemos desenvolver alguns novos equipamentos para nossos soldados."
 
 [TUT_ScienceLab_03_CS SoundNodeWave]
-SpokenText="Com a sua aprovaÁ„o, comeÁaremos a pesquisa imediatamente."
+SpokenText="Com a sua aprova√ß√£o, come√ßaremos a pesquisa imediatamente."
 
 [TUT_ScienceLab_04_CS SoundNodeWave]
-SpokenText="Obrigado, Comandante. Essa pesquisa levar· algum tempo. NÛs o notificaremos assim que estiver concluÌda."
+SpokenText="Obrigado, Comandante. Essa pesquisa levar√° algum tempo. N√≥s o notificaremos assim que estiver conclu√≠da."
 
 [TUT_ScienceLab_10_CS SoundNodeWave]
-SpokenText="Parece que vocÍ È necess·rio em outro lugar. Adeus, Comandante. Se vocÍ recuperar mais artefatos adicionais durante suas operaÁıes de campo... eu ficaria bastante ansiosa para estud·-los."
+SpokenText="Parece que voc√™ √© necess√°rio em outro lugar. Adeus, Comandante. Se voc√™ recuperar mais artefatos adicionais durante suas opera√ß√µes de campo... eu ficaria bastante ansiosa para estud√°-los."
 
 [TUT_TheHangar_01_CE SoundNodeWave]
-SpokenText="Bem-vindo de volta, Comandante. Eu queria falar com vocÍ sobre nossa frota atual de Interceptors. … crucial que mantenhamos v·rias dessas aeronaves em alto alerta - vamos precisar delas para interceptar quaisquer futuros contatos alienÌgenas, e È prov·vel que soframos algumas perdas no processo. Para ajudar a evitar isso, vocÍ tem a opÁ„o de modificar o armamento dos interceptores pela interface do hangar."
+SpokenText="Bem-vindo de volta, Comandante. Eu queria falar com voc√™ sobre nossa frota atual de Interceptors. √â crucial que mantenhamos v√°rias dessas aeronaves em alto alerta - vamos precisar delas para interceptar quaisquer futuros contatos alien√≠genas, e √© prov√°vel que soframos algumas perdas no processo. Para ajudar a evitar isso, voc√™ tem a op√ß√£o de modificar o armamento dos interceptores pela interface do hangar."
 
 [TUT_TheHangar_02_CE SoundNodeWave]
-SpokenText="Acho que tambÈm vale a pena mencionar que mesmo um esquadr„o completo de Interceptors n„o servir· de nada contra nosso inimigo se n„o soubermos onde eles est„o. Ser· necess·ria uma cobertura adicional de satÈlites antes de conseguirmos detectar naves alienÌgenas em outros locais do planeta. Visite-nos na Engenharia se quiser construir satÈlites adicionais. Adeus, Comandante."
+SpokenText="Acho que tamb√©m vale a pena mencionar que mesmo um esquadr√£o completo de Interceptors n√£o servir√° de nada contra nosso inimigo se n√£o soubermos onde eles est√£o. Ser√° necess√°ria uma cobertura adicional de sat√©lites antes de conseguirmos detectar naves alien√≠genas em outros locais do planeta. Visite-nos na Engenharia se quiser construir sat√©lites adicionais. Adeus, Comandante."
 
 [TUT_UFOInterception_01_CEN SoundNodeWave]
-SpokenText="Comandante, estamos detectando comunicaÁıes de r·dio generalizadas indicando avistamentos de UFOs dentro de nossa ·rea atual de cobertura de satÈlites. Devemos comeÁar a procurar contatos o mais r·pido possÌvel."
+SpokenText="Comandante, estamos detectando comunica√ß√µes de r√°dio generalizadas indicando avistamentos de UFOs dentro de nossa √°rea atual de cobertura de sat√©lites. Devemos come√ßar a procurar contatos o mais r√°pido poss√≠vel."
 
 [TUT_UFOInterception_02_CEN SoundNodeWave]
-SpokenText="Parece que o satÈlite que lanÁamos deu resultado. Estamos detectando um objeto n„o identificado em movimento r·pido. Se lanÁarmos um Interceptor agora, talvez possamos derrub·-lo."
+SpokenText="Parece que o sat√©lite que lan√ßamos deu resultado. Estamos detectando um objeto n√£o identificado em movimento r√°pido. Se lan√ßarmos um Interceptor agora, talvez possamos derrub√°-lo."

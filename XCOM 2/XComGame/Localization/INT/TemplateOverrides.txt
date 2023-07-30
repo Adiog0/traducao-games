@@ -1,4 +1,4 @@
-[X2CharacterTemplateManager.Gremlin X2CharacterTemplate]
+﻿[X2CharacterTemplateManager.Gremlin X2CharacterTemplate]
 strCharacterName="Gremlin"
 
 [X2CharacterTemplateManager.Zombie X2CharacterTemplate]

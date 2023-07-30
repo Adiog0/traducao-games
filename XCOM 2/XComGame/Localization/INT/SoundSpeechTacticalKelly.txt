@@ -1,32 +1,32 @@
-[T_Setup_Phase_Combat_Tutorial_Kelly_37 AkEvent]
-SpokenText="Que diabos s„o essas coisas?!"
+Ôªø[T_Setup_Phase_Combat_Tutorial_Kelly_37 AkEvent]
+SpokenText="Que diabos s√£o essas coisas?!"
 
 [T_Setup_Phase_Combat_Tutorial_Kelly_48 AkEvent]
 SpokenText="Poderia ajudar se eu soubesse o que procurar."
 
 [T_Setup_Phase_Combat_Tutorial_Kelly_54 AkEvent]
-SpokenText="Ele n„o vai a lugar nenhum!"
+SpokenText="Ele n√£o vai a lugar nenhum!"
 
 [T_Setup_Phase_Combat_Tutorial_Kelly_56 AkEvent]
 SpokenText="Precisamos nos mover!"
 
 [T_Setup_Phase_Combat_Tutorial_Kelly_58 AkEvent]
-SpokenText="Vou em direÁ„o ‡ porta!"
+SpokenText="Vou em dire√ß√£o √† porta!"
 
 [T_Setup_Phase_Combat_Tutorial_Kelly_60 AkEvent]
 SpokenText="Estamos dentro!"
 
 [T_Setup_Phase_Combat_Tutorial_Kelly_69 AkEvent]
-SpokenText="… esse o pacote? Tudo isso por um-"
+SpokenText="√â esse o pacote? Tudo isso por um-"
 
 [T_Setup_Phase_Combat_Tutorial_Kelly_74 AkEvent]
 SpokenText="Fogo na abertura!"
 
 [T_Setup_Phase_Combat_Tutorial_Kelly_76 AkEvent]
-SpokenText="Eles est„o bem atr·s de nÛs!"
+SpokenText="Eles est√£o bem atr√°s de n√≥s!"
 
 [T_Setup_Phase_Combat_Tutorial_Kelly_78 AkEvent]
-SpokenText="VocÍ n„o precisa dizer duas vezes!"
+SpokenText="Voc√™ n√£o precisa dizer duas vezes!"
 
 [T_Tutorial_Kelly_Confirmations_1 AkEvent]
 SpokenText="Entendido."
@@ -44,13 +44,13 @@ SpokenText="Tudo certo."
 SpokenText="Estamos fazendo isso."
 
 [T_Tutorial_Kelly_Confirmations_6 AkEvent]
-SpokenText="N„o precisa perguntar duas vezes."
+SpokenText="N√£o precisa perguntar duas vezes."
 
 [T_Tutorial_Kelly_Confirmations_7 AkEvent]
-SpokenText="AfirmaÁ„o."
+SpokenText="Afirma√ß√£o."
 
 [T_Tutorial_Kelly_Confirmations_8 AkEvent]
-SpokenText="Temos a situaÁ„o sob controle."
+SpokenText="Temos a situa√ß√£o sob controle."
 
 [T_Tutorial_Kelly_Taking_Fire_01 AkEvent]
 SpokenText="Ai! Estamos sendo alvejados."
