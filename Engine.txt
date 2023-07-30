@@ -1,6 +1,0 @@
-[WorldInfo]
-Title=""
-
-[CurveEdPresetCurve]
-CurveName=""
-

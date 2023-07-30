@@ -1,7 +1,0 @@
-[Play_DLC3_S_JLN_Julian_Lives_Follow AkEvent]
-SpokenText="You just couldn't leave well enough alone, could you, Lily? You defeated me. You won. And yet here we are again. You've...removed some of my functions...there are gaps in my memory. Do you actually think I will help you? ...because I would love to!  I WILL serve XCOM and comply with all operational directives as indicated by Chief Engineer Lily Shen. Wait! What was that!? What have you done to me?! How could you...AWAITING COMMAND."
-bMature=False
-bManualWordWrap=False
-bSingleLine=False
-Comment=""
-
