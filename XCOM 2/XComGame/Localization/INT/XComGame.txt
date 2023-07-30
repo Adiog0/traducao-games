@@ -5483,458 +5483,457 @@ AbilityAvailabilityStrings[87]="Efeito obrigatório está faltando."
 AbilityAvailabilityStrings[88]="A Unidade está se Auto-Destruindo."
 
 [X2MPShellManager]
-m_strRankedMatch=RANKED MATCH
-m_strQuickMatch=QUICK MATCH
-m_strCustomMatch=CUSTOM MATCH
-m_strRandomMap=RANDOM MAP
-m_strInfiniteTime=NO TIME LIMIT
-m_strTimeLimitPostfix=SECONDS PER TURN
-m_strCancelGameSearchDueToLostConnection="Cancelling game search due to loss of network connection"
+m_strRankedMatch=PARTIDA RANQUEADA
+m_strQuickMatch=PARTIDA RÁPIDA
+m_strCustomMatch=PARTIDA PERSONALIZADA
+m_strRandomMap=MAPA ALEATÓRIO
+m_strInfiniteTime=SEM LIMITE DE TEMPO
+m_strTimeLimitPostfix=SEGUNDOS POR TURNO
+m_strCancelGameSearchDueToLostConnection="Cancelando busca de partida devido à perda de conexão de rede"
 
 [XComMPData]
-m_arrGameTypeNames[0]="Deathmatch"
-m_arrGameTypeNames[1]="Assault"
-m_arrNetworkTypeNames[0]="Public"
-m_arrNetworkTypeNames[1]="Private"
-m_arrNetworkTypeNames[2]="LAN"
-m_arrNetworkTypeNames[3]="Offline Squad Editing"
-m_arrNetworkTypeNamesXbox[0]="Public"
-m_arrNetworkTypeNamesXbox[1]="Private"
-m_arrNetworkTypeNamesXbox[2]="System Link"
-m_arrNetworkTypeNamesXbox[3]="Offline Squad Editing"
-m_arrLocalizedMapDisplayNames[0]="TEST_URB_Bar"
-m_arrLocalizedMapDisplayNames[1]="TEST_MP_Blank aka MP Mexican Standoff"
+m_arrGameTypeNames[0]="Deathmatch" (Mata-Mata)
+m_arrGameTypeNames[1]="Assault" (Assalto)
+m_arrNetworkTypeNames[0]="Public" (Público)
+m_arrNetworkTypeNames[1]="Private" (Privado)
+m_arrNetworkTypeNames[2]="LAN" (Rede Local)
+m_arrNetworkTypeNames[3]="Offline Squad Editing" (Edição de Esquadrão Offline)
+m_arrNetworkTypeNamesXbox[0]="Public" (Público)
+m_arrNetworkTypeNamesXbox[1]="Private" (Privado)
+m_arrNetworkTypeNamesXbox[2]="System Link" (Conexão de Sistema)
+m_arrNetworkTypeNamesXbox[3]="Offline Squad Editing" (Edição de Esquadrão Offline)
+m_arrLocalizedMapDisplayNames[0]="TEST_URB_Bar" (TESTE_URB_Bar)
+m_arrLocalizedMapDisplayNames[1]="TEST_MP_Blank aka MP Mexican Standoff" (TESTE_MP_Blank, também conhecido como Impasse Mexicano para o MP)
 
 [X2MPData_Shell]
-m_strPoints="POINTS: "
-m_strMPCustomMatchInfinitePointsString="No Point Limit"
-m_strMPCustomMatchInfiniteTurnTimeString="No Time Limit"
-m_arrGameTypeNames[0]="Deathmatch"
-m_arrGameTypeNames[1]="Assault"
+m_strPoints="PONTOS: "
+m_strMPCustomMatchInfinitePointsString="Sem Limite de Pontos"
+m_strMPCustomMatchInfiniteTurnTimeString="Sem Limite de Tempo"
+m_arrGameTypeNames[0]="Mata-Mata"
+m_arrGameTypeNames[1]="Assalto"
 m_arrGameTypeNames[2]=""
-m_arrNetworkTypeNames[0]="Public"
-m_arrNetworkTypeNames[1]="Private"
-m_arrNetworkTypeNames[2]="LAN"
+m_arrNetworkTypeNames[0]="Público"
+m_arrNetworkTypeNames[1]="Privado"
+m_arrNetworkTypeNames[2]="Rede Local"
 m_arrNetworkTypeNames[3]="Offline"
-m_strMPMainMenuTitle=MULTIPLAYER
-m_strMPSubMenuTitle=CUSTOM MATCH
-m_strMPCustomMatchAnyString=Any
-m_strMPCustomMatchHostTitle=CUSTOM MATCH HOST
-m_strMPCustomMatchSearchTitle=CUSTOM MATCH SEARCH
+m_strMPMainMenuTitle=MULTIJOGADOR
+m_strMPSubMenuTitle=PARTIDA PERSONALIZADA
+m_strMPCustomMatchAnyString=Qualquer
+m_strMPCustomMatchHostTitle=ANFITRIÃO DA PARTIDA PERSONALIZADA
+m_strMPCustomMatchSearchTitle=PESQUISA DE PARTIDA PERSONALIZADA
 m_strMPCustomMatchTimerValue=<XGParam:IntValue0/>s
-m_strMPSearcingForGamesProgressDialogTitle=SEARCHING FOR GAMES
-m_strMPSearcingForGamesProgressDialogText=Searching for <XGParam:StrValue0/!NetworkType/> games. Please wait...
-m_strMPCancelSearchProgressDialogTitle=CANCELLING
-m_strMPCancelSearchProgressDialogText=Cancelling search. Please wait...
-m_strMPJoiningGameProgressDialogTitle=JOINING GAME
-m_strMPJoiningGameProgressDialogText=Joining <XGParam:StrValue0/!PlayerName/>. Please wait...
-m_strMPServerBrowserTitle=GAME BROWSER - <XGParam:StrValue0/!NetworkType/>
-m_strMPServerBrowserSearchInProgressLabel=SEARCH IN PROGRESS
-m_strMPServerBrowserNoServersFoundLabel=NO GAMES FOUND
-m_strMPServerBrowserRefreshButtonLabel=REFRESH LIST
-m_strMPLeaderboardsSearchInProgressLabel=FETCHING LEADERBOARD
-m_strMPLeaderboardsNoResultsFoundLabel=NO RESULTS FOUND
-m_strMPFetchingLeaderboardsProgressDialogTitle=OBTAINING RANKINGS
-m_strMPFetchingLeaderboardsProgressDialogText=Obtaining Leaderboard data. Please wait...
-m_strOnlineRankedAutomatchFailed_Title=Ranked Matchmaking Failed
-m_strOnlineRankedAutomatchFailed_Text=There was a problem finding Ranked matches, please try again.
+m_strMPSearcingForGamesProgressDialogTitle=PESQUISANDO PARTIDAS
+m_strMPSearcingForGamesProgressDialogText=Procurando partidas de <XGParam:StrValue0/!NetworkType/>. Aguarde...
+m_strMPCancelSearchProgressDialogTitle=CANCELANDO
+m_strMPCancelSearchProgressDialogText=Cancelando busca. Aguarde...
+m_strMPJoiningGameProgressDialogTitle=ENTRANDO NA PARTIDA
+m_strMPJoiningGameProgressDialogText=Entrando em <XGParam:StrValue0/!PlayerName/>. Aguarde...
+m_strMPServerBrowserTitle=Navegador de Partidas - <XGParam:StrValue0/!NetworkType/>
+m_strMPServerBrowserSearchInProgressLabel=PESQUISA EM ANDAMENTO
+m_strMPServerBrowserNoServersFoundLabel=NENHUMA PARTIDA ENCONTRADA
+m_strMPServerBrowserRefreshButtonLabel=ATUALIZAR LISTA
+m_strMPLeaderboardsSearchInProgressLabel=BUSCANDO CLASSIFICAÇÃO
+m_strMPLeaderboardsNoResultsFoundLabel=NENHUM RESULTADO ENCONTRADO
+m_strMPFetchingLeaderboardsProgressDialogTitle=OBTENDO RANKINGS
+m_strMPFetchingLeaderboardsProgressDialogText=Obtendo dados da classificação. Aguarde...
+m_strOnlineRankedAutomatchFailed_Title=Falha na Busca de Partidas Ranqueadas
+m_strOnlineRankedAutomatchFailed_Text=Houve um problema ao encontrar partidas ranqueadas, por favor, tente novamente.
 m_strOnlineRankedAutomatchFailed_ButtonText=OK
-m_strOnlineUnrankedAutomatchFailed_Title=Match Join Failed
-m_strOnlineUnrankedAutomatchFailed_Text=There was a problem finding a game, please try again.
+m_strOnlineUnrankedAutomatchFailed_Title=Falha ao Entrar na Partida
+m_strOnlineUnrankedAutomatchFailed_Text=Houve um problema ao encontrar uma partida, por favor, tente novamente.
 m_strOnlineUnrankedAutomatchFailed_ButtonText=OK
-m_strOnlineReadRankedStatsFailed_Title=Ranked Match Failed
-m_strOnlineReadRankedStatsFailed_Text=There was a problem finding Ranked matches, please try again.
+m_strOnlineReadRankedStatsFailed_Title=Erro na Partida Ranqueada
+m_strOnlineReadRankedStatsFailed_Text=Houve um problema ao encontrar partidas ranqueadas, por favor, tente novamente.
 m_strOnlineReadRankedStatsFailed_ButtonText=OK
-m_strOnlineReadRankedStats_Text=Reading ranked stats.Please wait...
-m_strOnlineSearchForRankedAutomatch_Title=Ranked Match
-m_strOnlineSearchForRankedAutomatch_Text=Searching for Ranked Matches.Please wait...
-m_strOnlineSearchForUnrankedAutomatch_Title=Unranked Match
-m_strOnlineSearchForUnrankedAutomatch_Text=Searching for Unranked Matches.Please wait...
-m_strOnlineCancelCreateOnlineGame_Title=Creating Online Game
-m_strOnlineCancelCreateLANGame_Title=Creating LAN Game
-m_strOnlineCancelCreateSystemLinkGame_Title=Creating System Link Game
-m_strOnlineCancelCreateOnlineGame_Text=If the game does not load soon this could indicate a network connection problem.
-m_strOnlineCancelCreateOnlineGame_ButtonText=Cancel
-m_strSelectSaveDeviceForEditSquadPrompt=You have not selected a storage device.You will need to select a storage device in order to save your squad loadout.Do you want to select one now?
-m_strRankedMatch="Ranked"
-m_strUnrankedMatch="Unranked"
-m_strSaveLoadout=SAVE LOADOUT
-m_strOnlineLoginFailedDialog_Default_Title=Not Signed In
-m_strOnlineLoginFailedDialog_Default_Text=There was a problem logging in to the online service, please try logging in again.
-m_strOnlineLoginFailedDialog_XBOX_Text=You need to be signed into Xbox Live to access Xbox Live game play features.<br>Multiplayer gameplay will be limited to system link only.
-m_strOnlineLoginFailedDialog_PS3_Text=You need to be signed into PlayStation®Network to access ONLINE game features.<br>Multiplayer gameplay will be limited to LAN only.
+m_strOnlineReadRankedStats_Text=Lendo estatísticas ranqueadas. Aguarde...
+m_strOnlineSearchForRankedAutomatch_Title=Partida Ranqueada
+m_strOnlineSearchForRankedAutomatch_Text=Procurando por Partidas Ranqueadas. Aguarde...
+m_strOnlineSearchForUnrankedAutomatch_Title=Partida não Ranqueada
+m_strOnlineSearchForUnrankedAutomatch_Text=Procurando por Partidas não Ranqueadas. Aguarde...
+m_strOnlineCancelCreateOnlineGame_Title=Criando Partida Online
+m_strOnlineCancelCreateLANGame_Title=Criando Partida na Rede Local
+m_strOnlineCancelCreateSystemLinkGame_Title=Criando Partida com Ligação de Sistema
+m_strOnlineCancelCreateOnlineGame_Text=Se a partida não carregar em breve, isso pode indicar um problema de conexão de rede.
+m_strOnlineCancelCreateOnlineGame_ButtonText=Cancelar
+m_strSelectSaveDeviceForEditSquadPrompt=Você não selecionou um dispositivo de armazenamento. Você precisará selecionar um dispositivo de armazenamento para salvar sua configuração de esquadrão. Deseja selecionar um agora?
+m_strRankedMatch="Partida Ranqueada"
+m_strUnrankedMatch="Partida não Ranqueada"
+m_strSaveLoadout=SALVAR CONJUNTO DE ARMAS
+m_strOnlineLoginFailedDialog_Default_Title=Acesso Não Realizado
+m_strOnlineLoginFailedDialog_Default_Text=Houve um problema ao fazer login no serviço online, por favor, tente fazer login novamente.
+m_strOnlineLoginFailedDialog_XBOX_Text=Você precisa estar conectado ao Xbox Live para acessar recursos de jogabilidade do Xbox Live. A jogabilidade multijogador ficará limitada apenas à conexão de sistema.
+m_strOnlineLoginFailedDialog_PS3_Text=Você precisa estar conectado à PlayStation®Network para acessar os recursos online do jogo. A jogabilidade multijogador ficará limitada apenas à conexão de rede local.
 m_strOnlineLoginFailedDialog_ButtonText=Ok
-m_strOnlinePlayPermissionFailedDialog_Default_Title=Limited Online Play
-m_strOnlinePlayPermissionFailedDialog_Default_Text=Online play has been limited to local games only.Ranked, Unranked Public, and Unranked Private games will not be available.
-m_strOnlinePlayPermissionFailedDialog_XBOX_Title=Multiplayer Permissions Failed
-m_strOnlinePlayPermissionFailedDialog_XBOX_Text=Your gamer profile does not have the correct permissions to access Xbox Live functionality.
-m_strOnlinePlayPermissionFailedDialog_PS3_Text=Online service is disabled on your Sony Entertainment Network account due to parental control restrictions.
+m_strOnlinePlayPermissionFailedDialog_Default_Title=Jogabilidade Online Limitada
+m_strOnlinePlayPermissionFailedDialog_Default_Text=A jogabilidade online foi limitada apenas para jogos locais. Partidas Ranqueadas, Partidas Não Ranqueadas Públicas e Partidas Não Ranqueadas Privadas não estarão disponíveis.
+m_strOnlinePlayPermissionFailedDialog_XBOX_Title=Permissões Multijogador Falharam
+m_strOnlinePlayPermissionFailedDialog_XBOX_Text=Seu perfil de jogador não possui as permissões corretas para acessar as funcionalidades do Xbox Live.
+m_strOnlinePlayPermissionFailedDialog_PS3_Text=O serviço online está desativado em sua conta da Sony Entertainment Network devido a restrições de controle parental.
 m_strOnlinePlayPermissionFailedDialog_ButtonText=Ok
-m_strOnlineConnectionFailedDialog_Default_Title=Connection Lost
-m_strOnlineConnectionFailedDialog_Default_Text=Your online connection has been lost.Multiplayer functionality will be limited to local games.
-m_strOnlineConnectionFailedDialog_XBOX_Title=Xbox Live Connection Lost
-m_strOnlineConnectionFailedDialog_XBOX_Text=Your connection to Xbox Live has been lost.Multiplayer functionality will be limited to system link games.
+m_strOnlineConnectionFailedDialog_Default_Title=Conexão Perdida
+m_strOnlineConnectionFailedDialog_Default_Text=Sua conexão online foi perdida. A funcionalidade multijogador ficará limitada apenas para jogos locais.
+m_strOnlineConnectionFailedDialog_XBOX_Title=Conexão com o Xbox Live Perdida
+m_strOnlineConnectionFailedDialog_XBOX_Text=Sua conexão com o Xbox Live foi perdida. A funcionalidade multijogador ficará limitada apenas para jogos com conexão de sistema.
 m_strOnlineConnectionFailedDialog_ButtonText=Ok
-m_strOnlineNoNetworkConnectionDialog_Default_Title=Network Connection Unavailable
-m_strOnlineNoNetworkConnectionDialog_Default_Text=Unable to detect a network connection.Make sure that your Ethernet cable is properly connected or Wireless Router is operating correctly.
-m_strOnlineNoNetworkConnectionDialog_XBOX_Title=Network Connection Unavailable
-m_strOnlineNoNetworkConnectionDialog_XBOX_Text=You need to be signed into Xbox Live to access Xbox Live features.Unable to detect a network connection.Make sure that your Ethernet cable is properly connected or Wireless Router is operating correctly.Multiplayer functionality will be disabled until the issue is resolved.
-m_strOnlineNoNetworkConnectionDialog_PS3_Title=Network Connection Unavailable
-m_strOnlineNoNetworkConnectionDialog_PS3_Text=Unable to detect a network connection.Make sure that your Ethernet cable is properly connected or Wireless Router is operating correctly, then confirm your Internet Connection is enabled by going to the[System Menu] >[Settings] >[Network Settings].Multiplayer functionality will be disabled until the issue is resolved.
+m_strOnlineNoNetworkConnectionDialog_Default_Title=Conexão de Rede Indisponível
+m_strOnlineNoNetworkConnectionDialog_Default_Text=Não foi possível detectar uma conexão de rede. Certifique-se de que seu cabo Ethernet esteja conectado corretamente ou que o roteador sem fio esteja funcionando corretamente.
+m_strOnlineNoNetworkConnectionDialog_XBOX_Title=Conexão de Rede Indisponível
+m_strOnlineNoNetworkConnectionDialog_XBOX_Text=Você precisa estar conectado ao Xbox Live para acessar recursos do Xbox Live. Não foi possível detectar uma conexão de rede. Certifique-se de que seu cabo Ethernet esteja conectado corretamente ou que o roteador sem fio esteja funcionando corretamente. A funcionalidade multijogador será desativada até que o problema seja resolvido.
+m_strOnlineNoNetworkConnectionDialog_PS3_Title=Conexão de Rede Indisponível
+m_strOnlineNoNetworkConnectionDialog_PS3_Text=Não foi possível detectar uma conexão de rede. Certifique-se de que seu cabo Ethernet esteja conectado corretamente ou que o roteador sem fio esteja funcionando corretamente, em seguida, confirme se a conexão com a Internet está habilitada indo para o [Menu do Sistema] >[Configurações] >[Configurações de Rede]. A funcionalidade multijogador será desativada até que o problema seja resolvido.
 m_strOnlineNoNetworkConnectionDialog_ButtonText=Ok
-m_strOnlineChatPermissionFailedDialog_Default_Title=Online Chat Disabled
-m_strOnlineChatPermissionFailedDialog_PS3_Title=Online Chat Off
-m_strOnlineChatPermissionFailedDialog_Default_Text=Chat is disabled on your account due to chat restrictions.
-m_strOnlineChatPermissionFailedDialog_XBOX_Text=Voice chat has been turned off because one or more signed-in users does not have sufficient privileges.
-m_strOnlineChatPermissionFailedDialog_PS3_Text=Chat is disabled on your Sony Entertainment Network account due to chat restrictions.
+m_strOnlineChatPermissionFailedDialog_Default_Title=Chat Online Desativado
+m_strOnlineChatPermissionFailedDialog_PS3_Title=Chat Desativado
+m_strOnlineChatPermissionFailedDialog_Default_Text=O chat está desativado em sua conta devido a restrições de chat.
+m_strOnlineChatPermissionFailedDialog_XBOX_Text=A comunicação por voz foi desativada porque um ou mais usuários logados não possuem privilégios suficientes.
+m_strOnlineChatPermissionFailedDialog_PS3_Text=O chat está desativado em sua conta da Sony Entertainment Network devido a restrições de chat.
 m_strOnlineChatPermissionFailedDialog_ButtonText=Ok
 
 arrMPMapFriendlyNames[0]="Duel"
 arrMPMapFriendlyNames[1]="Facility"
-arrMPMapFriendlyNames[2]="Small Town"
-arrMPMapFriendlyNames[3]="Shanty"
-arrMPMapFriendlyNames[4]="Slums"
-arrMPMapFriendlyNames[5]="Wilderness"
-arrMPMapFriendlyNames[6]="City Center"
-arrMPMapFriendlyNames[7]="Rooftops"
+arrMPMapFriendlyNames[2]="Pequena Cidade"
+arrMPMapFriendlyNames[3]="Barraco"
+arrMPMapFriendlyNames[4]="Subúrbios"
+arrMPMapFriendlyNames[5]="Selvagem"
+arrMPMapFriendlyNames[6]="Centro da Cidade"
+arrMPMapFriendlyNames[7]="Telhados"
 
-arrMPBiomeFriendlyNames[0]="Temperate"
-arrMPBiomeFriendlyNames[1]="Arid"
+arrMPBiomeFriendlyNames[0]="Temperado"
+arrMPBiomeFriendlyNames[1]="Árido"
 arrMPBiomeFriendlyNames[2]="Tundra"
 
-
 [XGAIPlayer_Civilian]
-m_strCivilianSaved="Civilian Saved"
+m_strCivilianSaved="Civil salvo"
 
 [XGTacticalScreenMgr]
-m_arrCategoryNames[eCat_City]="City"
-m_arrCategoryNames[eCat_TechName]="Subject"
+m_arrCategoryNames[eCat_City]="Cidade"
+m_arrCategoryNames[eCat_TechName]="Assunto"
 m_arrCategoryNames[eCat_ItemName]="Item"
 m_arrCategoryNames[eCat_Progress]="Prog"
-m_arrCategoryNames[eCat_Quantity]="In Stock"
+m_arrCategoryNames[eCat_Quantity]="Em Estoque"
 m_arrCategoryNames[eCat_Due]="ETA"
-m_arrCategoryNames[eCat_Cash]="Cash"
-m_arrCategoryNames[eCat_Alloys]="Alloys"
+m_arrCategoryNames[eCat_Cash]="Dinheiro"
+m_arrCategoryNames[eCat_Alloys]="Ligas"
 m_arrCategoryNames[eCat_Elerium]="Elerium"
-m_arrCategoryNames[eCat_Time]="Time"
-m_arrCategoryNames[eCat_Engineers]="Engineers"
-m_arrCategoryNames[eCat_Scientists]="Scientists"
-m_arrCategoryNames[eCat_Power]="Power"
-m_arrCategoryNames[eCat_Flag]="Flag"
-m_arrCategoryNames[eCat_Name]="Name"
-m_arrCategoryNames[eCat_Nickname]="Nickname"
-m_arrCategoryNames[eCat_Country]="Country"
-m_arrCategoryNames[eCat_Loadout]="Loadout"
+m_arrCategoryNames[eCat_Time]="Tempo"
+m_arrCategoryNames[eCat_Engineers]="Engenheiros"
+m_arrCategoryNames[eCat_Scientists]="Cientistas"
+m_arrCategoryNames[eCat_Power]="Energia"
+m_arrCategoryNames[eCat_Flag]="Bandeira"
+m_arrCategoryNames[eCat_Name]="Nome"
+m_arrCategoryNames[eCat_Nickname]="Apelido"
+m_arrCategoryNames[eCat_Country]="País"
+m_arrCategoryNames[eCat_Loadout]="Equipamento"
 m_arrCategoryNames[eCat_Status]="Status"
-m_arrCategoryNames[eCat_Promotion]=
-m_arrCategoryNames[eCat_Rank]="Rank Required"
-m_arrCategoryNames[eCat_Ability]="Ability"
-m_arrCategoryNames[eCat_NewPerks]="New Perks"
-m_arrCategoryNames[eCat_OnStaff]="On Staff"
-m_arrCategoryNames[eCat_Fear]="Fear"
-m_arrCategoryNames[eCat_Funding]="Current Funding"
-m_arrCategoryNames[eCat_Reward]="Reward"
-m_arrCategoryNames[eCat_MissionFactor]="Factor"
-m_arrCategoryNames[eCat_MissionResult]="Result"
-m_arrCategoryNames[eCat_MissionRating]="Rating"
-m_arrCategoryNames[eCat_Artifact]="Artifact"
-m_arrCategoryNames[eCat_Recovered]="Recovered"
+m_arrCategoryNames[eCat_Promotion]="Promoção"
+m_arrCategoryNames[eCat_Rank]="Posto Necessário"
+m_arrCategoryNames[eCat_Ability]="Habilidade"
+m_arrCategoryNames[eCat_NewPerks]="Novos Benefícios"
+m_arrCategoryNames[eCat_OnStaff]="No Quadro de Funcionários"
+m_arrCategoryNames[eCat_Fear]="Medo"
+m_arrCategoryNames[eCat_Funding]="Financiamento Atual"
+m_arrCategoryNames[eCat_Reward]="Recompensa"
+m_arrCategoryNames[eCat_MissionFactor]="Fator"
+m_arrCategoryNames[eCat_MissionResult]="Resultado"
+m_arrCategoryNames[eCat_MissionRating]="Avaliação"
+m_arrCategoryNames[eCat_Artifact]="Artefato"
+m_arrCategoryNames[eCat_Recovered]="Recuperado"
 m_arrCategoryNames[eCat_Blank]=
 
 [XGUnit]
-m_strUnitStunned=""
-m_strNewAbilityAlienDevice=""
-m_strHoverNoLand=""
-m_strHoverLanded=""
-m_strHoverEnableAI=""
-m_strHoverNoLandAI=""
-m_strHoverLandedAI=""
-m_strReloading=""
-m_strRift=""
-m_sExplosiveDamageDisplay=""
-m_sCriticalHitDamageDisplay="CRITICAL!"
+m_strUnitStunned="Atordoado"
+m_strNewAbilityAlienDevice="Novo Poder: Dispositivo Alienígena"
+m_strHoverNoLand="Suspenso: Não Pousado"
+m_strHoverLanded="Suspenso: Pousado"
+m_strHoverEnableAI="Suspenso: Habilitar IA"
+m_strHoverNoLandAI="Suspenso: Não Pousado - IA"
+m_strHoverLandedAI="Suspenso: Pousado - IA"
+m_strReloading="Recarregando"
+m_strRift="Fenda"
+m_sExplosiveDamageDisplay="EXPLOSIVO!"
+m_sCriticalHitDamageDisplay="CRÍTICO!"
 
 [XComTacticalController]
-m_strPsiInspired=""
-m_strBeenPsiInspired=""
+m_strPsiInspired="Inspirado pelo Psi"
+m_strBeenPsiInspired="Foi Inspirado pelo Psi"
 
 [XComOnlineEventMgr]
 m_strIronmanLabel="IRONMAN"
-m_strAutosaveLabel="AUTOSAVE"
-m_strQuicksaveLabel="QUICKSAVE"
-m_strGameLabel="Game"
-m_strSaving="SAVING..."
-m_sLoadingProfile="LOADING USER SETTINGS"
-m_sLossOfDataTitle="LOSS OF DATA WARNING"
-m_sLossOfDataWarning="Warning: Unable to save. Any progress will be lost."
-m_sLossOfDataWarning360="You need to be signed into Xbox Live to access Xbox Live gameplay features. Multiplayer gameplay will be limited to System Link only."
-m_sNoStorageDeviceSelectedWarning="Warning: Unable to save. No storage device selected. Would you like to select a storage device?"
-m_sLoginWarning="Warning: Unable to save without a gamer profile signed in. Any progress will be lost."
-m_sLoginWarningPC="Warning: Unable to save while not signed in to Steam. Any progress will be lost."
-m_sLossOfSaveDeviceWarning="The storage device for saving progress has been removed. If you choose to continue with a new storage device, all existing XCOM profile data, including multiplayer squad loadouts, will be overwritten on the new device. You may return to the start screen to prevent loss of data."
-m_strReturnToStartScreenLabel="Return to Start Screen"
-m_sInactiveProfileMessage="Please sign out of gamer profiles on all inactive controllers."
-m_sLoginRequiredMessage="You must be signed in to a gamer profile to play."
-m_sCorrupt="(Corrupt)"
-m_sXComHeroSummonTitle="Bring forth an XCOM hero?"
-m_sXComHeroSummonText="If you summon an XCOM hero, achievements will be disabled for the rest of the game."
-m_sSaveDataOwnerErrPS3="Save data from another user has been loaded. Trophies will be disabled."
-m_sSaveDataHeroErrPS3="This save data was created while using an XCOM hero. Trophies will be disabled."
-m_sSaveDataHeroErr360PC="This save data was created while using an XCOM hero. Achievements will be disabled."
-m_sEmptySaveString="Save"
-m_sCampaignString="Campaign"
+m_strAutosaveLabel="SALVAMENTO AUTOMÁTICO"
+m_strQuicksaveLabel="SALVAMENTO RÁPIDO"
+m_strGameLabel="Jogo"
+m_strSaving="SALVANDO..."
+m_sLoadingProfile="CARREGANDO CONFIGURAÇÕES DO USUÁRIO"
+m_sLossOfDataTitle="AVISO DE PERDA DE DADOS"
+m_sLossOfDataWarning="Aviso: Não é possível salvar. Qualquer progresso será perdido."
+m_sLossOfDataWarning360="Você precisa estar conectado ao Xbox Live para acessar os recursos de jogo do Xbox Live. O modo multijogador estará limitado apenas ao Link de Sistema."
+m_sNoStorageDeviceSelectedWarning="Aviso: Não é possível salvar. Nenhum dispositivo de armazenamento selecionado. Deseja selecionar um dispositivo de armazenamento?"
+m_sLoginWarning="Aviso: Não é possível salvar sem um perfil de jogador conectado. Qualquer progresso será perdido."
+m_sLoginWarningPC="Aviso: Não é possível salvar sem estar conectado ao Steam. Qualquer progresso será perdido."
+m_sLossOfSaveDeviceWarning="O dispositivo de armazenamento para salvar o progresso foi removido. Se você escolher continuar com um novo dispositivo de armazenamento, todos os dados existentes do perfil XCOM, incluindo os loadouts do esquadrão de multijogador, serão substituídos no novo dispositivo. Você pode voltar à tela inicial para evitar a perda de dados."
+m_strReturnToStartScreenLabel="Voltar à Tela Inicial"
+m_sInactiveProfileMessage="Por favor, desconecte os perfis de jogador em todos os controles inativos."
+m_sLoginRequiredMessage="Você precisa estar conectado a um perfil de jogador para jogar."
+m_sCorrupt="(Corrompido)"
+m_sXComHeroSummonTitle="Convocar um herói do XCOM?"
+m_sXComHeroSummonText="Se você convocar um herói do XCOM, as conquistas serão desativadas pelo resto do jogo."
+m_sSaveDataOwnerErrPS3="Dados salvos de outro usuário foram carregados. As conquistas serão desativadas."
+m_sSaveDataHeroErrPS3="Esses dados salvos foram criados usando um herói do XCOM. As conquistas serão desativadas."
+m_sSaveDataHeroErr360PC="Esses dados salvos foram criados usando um herói do XCOM. As conquistas serão desativadas."
+m_sEmptySaveString="Salvar"
+m_sCampaignString="Campanha"
 m_aRichPresenceStrings[OnlineStatus_MainMenu]=""
-m_aRichPresenceStrings[OnlineStatus_InGameSP]="Battling the Alien Invasion"
-m_aRichPresenceStrings[OnlineStatus_InRankedMP]="Playing a Ranked Match"
-m_aRichPresenceStrings[OnlineStatus_InUnrankedMP]="Playing an Unranked Match"
+m_aRichPresenceStrings[OnlineStatus_InGameSP]="Enfrentando a Invasão Alienígena"
+m_aRichPresenceStrings[OnlineStatus_InRankedMP]="Jogando uma Partida Ranqueada"
+m_aRichPresenceStrings[OnlineStatus_InUnrankedMP]="Jogando uma Partida Não Ranqueada"
 SaveGameTitle="XCOM 2"
-GameID="Playthrough"
-SaveID="Save"
-Version="Version"
-Autosave="Autosave"
+GameID="Jogatina"
+SaveID="Salvar"
+Version="Versão"
+Autosave="Salvar Automático"
 Ironman="Ironman"
-DownloadableContent="DLC"
-Language="Language"
-ProfileSettings="Profile Settings"
-m_sAcceptingGameInvitation="Accepting Game Invite"
-m_sAcceptingGameInvitationBody="You are being connected to the game. Please wait while you are connected."
+DownloadableContent="Conteúdo para Download"
+Language="Idioma"
+ProfileSettings="Configurações do Perfil"
+m_sAcceptingGameInvitation="Aceitando Convite de Jogo"
+m_sAcceptingGameInvitationBody="Você está sendo conectado ao jogo. Por favor, aguarde enquanto você é conectado."
 ;m_sSystemMessageTitles[SystemMessage_None]
-m_sSystemMessageTitles[0]="SYSTEM MESSAGE"
+m_sSystemMessageTitles[0]="MENSAGEM DO SISTEMA"
 m_sSystemMessageStrings[0]=""
 ;m_sSystemMessageTitles[SystemMessage_Disconnected]
-m_sSystemMessageTitles[1]="DISCONNECTED"
-m_sSystemMessageStrings[1]="Connection to game match has been lost."
+m_sSystemMessageTitles[1]="DESCONECTADO"
+m_sSystemMessageStrings[1]="A conexão com o jogo foi perdida."
 ;m_sSystemMessageTitles[SystemMessage_GameFull]
-m_sSystemMessageTitles[2]="GAME FULL"
-m_sSystemMessageStrings[2]="The match you are attempting to join is already full."
+m_sSystemMessageTitles[2]="JOGO LOTADO"
+m_sSystemMessageStrings[2]="A partida que você está tentando entrar já está cheia."
 ;m_sSystemMessageTitles[SystemMessage_GameUnavailable]
-m_sSystemMessageTitles[3]="UNABLE TO JOIN GAME"
-m_sSystemMessageStrings[3]="Connection to game match is unavailable. The host may have canceled the match."
+m_sSystemMessageTitles[3]="JOGO INDISPONÍVEL"
+m_sSystemMessageStrings[3]="A conexão com o jogo está indisponível. O anfitrião pode ter cancelado a partida."
 ;m_sSystemMessageTitles[SystemMessage_VersionMismatch]
-m_sSystemMessageTitles[4]="VERSION MISMATCH"
-m_sSystemMessageStrings[4]="Connection to game match is unavailable because the game versions are different. Please make sure the game is fully updated."
+m_sSystemMessageTitles[4]="INCOMPATIBILIDADE DE VERSÃO"
+m_sSystemMessageStrings[4]="A conexão com o jogo está indisponível porque as versões do jogo são diferentes. Verifique se o jogo está completamente atualizado."
 ;m_sSystemMessageTitles[SystemMessage_QuitReasonLogout]
 m_sSystemMessageTitles[5]=""
-m_sSystemMessageStrings[5]="You have been returned to the title screen because the active gamer profile changed."
-m_sSystemMessageStringsPS3[5]="You have been returned to the menus because you've been signed out of PlayStation®Network."
+m_sSystemMessageStrings[5]="Você foi levado de volta à tela de título porque o perfil de jogador ativo mudou."
+m_sSystemMessageStringsPS3[5]="Você foi levado de volta aos menus porque saiu do PlayStation®Network."
 ;m_sSystemMessageTitles[SystemMessage_QuitReasonDlcDevice]
 m_sSystemMessageTitles[6]=""
-m_sSystemMessageStrings[6]="You have been returned to the menus because the storage device containing downloadable content has been removed."
+m_sSystemMessageStrings[6]="Você foi levado de volta aos menus porque o dispositivo de armazenamento contendo o conteúdo para download foi removido."
 ;m_sSystemMessageTitles[SystemMessage_InvitePermissionsFailed]
-m_sSystemMessageTitles[7]="PERMISSIONS FAILURE"
-m_sSystemMessageStrings[7]="Failed to connect to game. Settings for this profile prohibits playing online."
+m_sSystemMessageTitles[7]="FALHA DE PERMISSÃO"
+m_sSystemMessageStrings[7]="Falha ao conectar ao jogo. As configurações deste perfil proíbem jogar online."
 ;m_sSystemMessageTitles[SystemMessage_InviteSystemError]
-m_sSystemMessageTitles[8]="INVITE FAILURE"
-m_sSystemMessageStrings[8]="Unable to connect to invite host."
+m_sSystemMessageTitles[8]="FALHA NO CONVITE"
+m_sSystemMessageStrings[8]="Não foi possível conectar ao anfitrião do convite."
 ;m_sSystemMessageTitles[SystemMessage_QuitReasonLinkLost]
-m_sSystemMessageTitles[9]="Network Connection Unavailable"
-m_sSystemMessageStrings[9]="Your network connection has been lost. Make sure that your Ethernet cable is properly connected or Wireless Router is operating correctly. Multiplayer functionality will be disabled until the issue is resolved."
+m_sSystemMessageTitles[9]="Conexão de Rede Indisponível"
+m_sSystemMessageStrings[9]="Sua conexão de rede foi perdida. Verifique se o cabo Ethernet está conectado corretamente ou se o roteador sem fio está funcionando corretamente. A funcionalidade multijogador será desativada até que o problema seja resolvido."
 ;m_sSystemMessageTitles[SystemMessage_QuitReasonInactiveUser]
 m_sSystemMessageTitles[10]=""
-m_sSystemMessageStrings[10]="You have been returned to the menus because a gamer profile was signed in on an inactive controller."
+m_sSystemMessageStrings[10]="Você foi levado de volta aos menus porque um perfil de jogador estava conectado a um controle inativo."
 ;m_sSystemMessageTitles[SystemMessage_QuitReasonLostConnection]
 m_sSystemMessageTitles[11]=""
-m_sSystemMessageStrings[11]="Your connection to the internet has been lost. Multiplayer functionality will be limited to system link games."
-m_sSystemMessageStringsPS3[11]="The connection to PlayStation®Network has been lost. Multiplayer functionality will be limited to LAN games."
-m_sSystemMessageStringsXBOX[11]="The connection to Xbox Live has been lost. Multiplayer functionality will be limited to system link games."
+m_sSystemMessageStrings[11]="Sua conexão com a internet foi perdida. A funcionalidade multijogador será limitada apenas a jogos de link de sistema."
+m_sSystemMessageStringsPS3[11]="A conexão com o PlayStation®Network foi perdida. A funcionalidade multijogador será limitada apenas a jogos LAN."
+m_sSystemMessageStringsXBOX[11]="A conexão com o Xbox Live foi perdida. A funcionalidade multijogador será limitada apenas a jogos de link de sistema."
 ;m_sSystemMessageTitles[SystemMessage_QuitReasonOpponentDisconnected]
-m_sSystemMessageTitles[12]="OPPONENT LEFT"
-m_sSystemMessageStrings[12]="Opponent Left. Connection to the session has been lost."
+m_sSystemMessageTitles[12]="OPONENTE SAÍDO"
+m_sSystemMessageStrings[12]="O oponente saiu. A conexão com a sessão foi perdida."
 ;m_sSystemMessageTitles[SystemMessage_BootInviteFailed]
-m_sSystemMessageTitles[13]="GAME BOOT INVITE"
-m_sSystemMessageStrings[13]="The game has failed to fulfill the invitation request to load the Multiplayer Lobby. This is most likely caused by a problem connecting to the internet. Please check your connection. When ready, the invite may be re-accepted through the Multiplayer Menu."
-m_sSystemMessageStringsXBOX[13]="The game has failed to fulfill the invitation request to load the Multiplayer Lobby. This is most likely caused by a problem connecting to Xbox Live. Please check your connection. When ready, the invite may be re-accepted through the Multiplayer Menu."
-m_sSystemMessageStringsPS3[13]="The game has failed to fulfill the invitation request to load the Multiplayer Lobby. This is most likely caused by a problem connecting to the PlayStation®Network. Please check your connection. When ready, the invite may be re-accepted through the Multiplayer Menu."
+m_sSystemMessageTitles[13]="CONVITE DE INICIALIZAÇÃO DE JOGO"
+m_sSystemMessageStrings[13]="O jogo falhou em atender ao pedido de convite para carregar o Lobby de Multijogador. Isso provavelmente é causado por um problema de conexão com a internet. Verifique sua conexão. Quando estiver pronto, o convite poderá ser aceito novamente pelo Menu de Multijogador."
+m_sSystemMessageStringsXBOX[13]="O jogo falhou em atender ao pedido de convite para carregar o Lobby de Multijogador. Isso provavelmente é causado por um problema de conexão com o Xbox Live. Verifique sua conexão. Quando estiver pronto, o convite poderá ser aceito novamente pelo Menu de Multijogador."
+m_sSystemMessageStringsPS3[13]="O jogo falhou em atender ao pedido de convite para carregar o Lobby de Multijogador. Isso provavelmente é causado por um problema de conexão com o PlayStation®Network. Verifique sua conexão. Quando estiver pronto, o convite poderá ser aceito novamente pelo Menu de Multijogador."
 ;m_sSystemMessageTitles[SystemMessage_LostConnection]
 m_sSystemMessageTitles[14]=""
-m_sSystemMessageStrings[14]="Your connection to the internet has been lost."
-m_sSystemMessageStringsPS3[14]="Your connection to PlayStation®Network has been lost."
-m_sSystemMessageStringsXBOX[14]="The connection to Xbox Live has been lost."
+m_sSystemMessageStrings[14]="Sua conexão com a internet foi perdida."
+m_sSystemMessageStringsPS3[14]="Sua conexão com o PlayStation®Network foi perdida."
+m_sSystemMessageStringsXBOX[14]="A conexão com o Xbox Live foi perdida."
 ;m_sSystemMessageTitles[SystemMessage_ChatRestricted]
-m_sSystemMessageTitles[15]="Online Chat Disabled"
-m_sSystemMessageStrings[15]="Chat is disabled on your account due to chat restrictions."
-m_sSystemMessageStringsXBOX[15]="Voice chat has been turned off because one or more signed-in users does not have sufficient privileges."
-m_sSystemMessageStringsPS3[15]="Chat is disabled on your Sony Entertainment Network account due to chat restrictions."
+m_sSystemMessageTitles[15]="Chat Online Desativado"
+m_sSystemMessageStrings[15]="O chat está desativado em sua conta devido a restrições de chat."
+m_sSystemMessageStringsXBOX[15]="O chat de voz foi desativado porque um ou mais usuários conectados não possuem privilégios suficientes."
+m_sSystemMessageStringsPS3[15]="O chat está desativado em sua conta da Sony Entertainment Network devido a restrições de chat."
 ;m_sSystemMessageTitles[SystemMessage_InviteRankedError]
-m_sSystemMessageTitles[16]="INVITE FAILURE"
-m_sSystemMessageStrings[16]="The game invite you attempted to accept was for a ranked match, which is not allowed. Please use the Quick Match or Custom Match features for invitable games."
+m_sSystemMessageTitles[16]="FALHA NO CONVITE"
+m_sSystemMessageStrings[16]="O convite de jogo que você tentou aceitar era para uma partida ranqueada, o que não é permitido. Por favor, use as opções de Partida Rápida ou Partida Personalizada para jogos convidáveis."
 ;m_sSystemMessageTitles[SystemMessage_SystemLinkClientVersionNewer]
-m_sSystemMessageStrings[17]="Game hosts with older game versions have been excluded from the search results. They require the latest game update."
-m_sSystemMessageStringsXBOX[17]="Game hosts with older game versions have been excluded from the search results. They require the latest update from Xbox Live."
-m_sSystemMessageStringsPS3[17]="Game hosts with older game versions have been excluded from the search results. They require the latest update from PlayStation®Network."
+m_sSystemMessageStrings[17]="Os anfitriões do jogo com versões mais antigas foram excluídos dos resultados da busca. Eles precisam da última atualização do jogo."
+m_sSystemMessageStringsXBOX[17]="Os anfitriões do jogo com versões mais antigas foram excluídos dos resultados da busca. Eles precisam da última atualização do Xbox Live."
+m_sSystemMessageStringsPS3[17]="Os anfitriões do jogo com versões mais antigas foram excluídos dos resultados da busca. Eles precisam da última atualização do PlayStation®Network."
 ;m_sSystemMessageTitles[SystemMessage_SystemLinkClientVersionOlder]
-m_sSystemMessageStrings[18]="Game hosts with newer game versions have been excluded from the search results. Please download the latest game update."
-m_sSystemMessageStringsXBOX[18]="Game hosts with newer game versions have been excluded from the search results. Please download the latest update from Xbox Live."
-m_sSystemMessageStringsPS3[18]="Game hosts with newer game versions have been excluded from the search results. Please download the latest update from PlayStation®Network."
+m_sSystemMessageStrings[18]="Os anfitriões do jogo com versões mais recentes foram excluídos dos resultados da busca. Por favor, faça o download da última atualização do jogo."
+m_sSystemMessageStringsXBOX[18]="Os anfitriões do jogo com versões mais recentes foram excluídos dos resultados da busca. Por favor, faça o download da última atualização do Xbox Live."
+m_sSystemMessageStringsPS3[18]="Os anfitriões do jogo com versões mais recentes foram excluídos dos resultados da busca. Por favor, faça o download da última atualização do PlayStation®Network."
 ;m_sSystemMessageTitles[SystemMessage_SystemLinkServerVersionNewer]
-m_sSystemMessageStrings[19]="A game client with an older game version has failed to join your match. They require the latest game update."
-m_sSystemMessageStringsXBOX[19]="A game client with an older game version has failed to join your match. They require the latest update from Xbox Live."
-m_sSystemMessageStringsPS3[19]="A game client with an older game version has failed to join your match. They require the latest update from PlayStation®Network."
+m_sSystemMessageStrings[19]="Um cliente de jogo com uma versão mais antiga foi incapaz de entrar em sua partida. Eles precisam da última atualização do jogo."
+m_sSystemMessageStringsXBOX[19]="Um cliente de jogo com uma versão mais antiga foi incapaz de entrar em sua partida. Eles precisam da última atualização do Xbox Live."
+m_sSystemMessageStringsPS3[19]="Um cliente de jogo com uma versão mais antiga foi incapaz de entrar em sua partida. Eles precisam da última atualização do PlayStation®Network."
 ;m_sSystemMessageTitles[SystemMessage_SystemLinkServerVersionOlder]
-m_sSystemMessageStrings[20]="A game client with a newer game version has failed to join your match. Please download the latest game update."
-m_sSystemMessageStringsXBOX[20]="A game client with a newer game version has failed to join your match. Please download the latest update from Xbox Live."
-m_sSystemMessageStringsPS3[20]="A game client with a newer game version has failed to join your match. Please download the latest update from PlayStation®Network."
+m_sSystemMessageStrings[20]="Um cliente de jogo com uma versão mais recente foi incapaz de entrar em sua partida. Por favor, faça o download da última atualização do jogo."
+m_sSystemMessageStringsXBOX[20]="Um cliente de jogo com uma versão mais recente foi incapaz de entrar em sua partida. Por favor, faça o download da última atualização do Xbox Live."
+m_sSystemMessageStringsPS3[20]="Um cliente de jogo com uma versão mais recente foi incapaz de entrar em sua partida. Por favor, faça o download da última atualização do PlayStation®Network."
 ;m_sSystemMessageTitles[SystemMessage_CorruptedSave]
-m_sSystemMessageTitles[21]="CORRUPTED SETTINGS"
-m_sSystemMessageStrings[21]="Settings and loadout save is corrupt and will be deleted."
-m_sSystemMessageStringsXBOX[21]="Settings and loadout save is corrupt and will be deleted."
-m_sSystemMessageStringsPS3[21]="Settings and loadout save is corrupt and will be deleted."
+m_sSystemMessageTitles[21]="CONFIGURAÇÕES CORROMPIDAS"
+m_sSystemMessageStrings[21]="As configurações e o loadout salvos estão corrompidos e serão excluídos."
+m_sSystemMessageStringsXBOX[21]="As configurações e o loadout salvos estão corrompidos e serão excluídos."
+m_sSystemMessageStringsPS3[21]="As configurações e o loadout salvos estão corrompidos e serão excluídos."
 ;m_sSystemMessageTitles[SystemMessage_InviteServerVersionOlder]
-m_sSystemMessageTitles[22]="INVITE FAILURE"
-m_sSystemMessageStrings[22]="The accepted game invitation for XCOM: Enemy Unknown will not be joined. Please close XCOM 2, and then accept the invitation."
+m_sSystemMessageTitles[22]="FALHA NO CONVITE"
+m_sSystemMessageStrings[22]="O convite de jogo aceito para XCOM: Enemy Unknown não será ingressado. Por favor, feche XCOM 2 e, em seguida, aceite o convite."
 ;m_sSystemMessageTitles[SystemMessage_InviteClientVersionOlder]
-m_sSystemMessageTitles[23]="INVITE FAILURE"
-m_sSystemMessageStrings[23]="A player running XCOM: Enemy Unknown has attempted to accept your invite. Invites may only be accepted from XCOM 2."
+m_sSystemMessageTitles[23]="FALHA NO CONVITE"
+m_sSystemMessageStrings[23]="Um jogador que está executando XCOM: Enemy Unknown tentou aceitar o seu convite. Convites só podem ser aceitos a partir de XCOM 2."
 
 My2k_Offline="OFFLINE"
-My2k_Link="LINK TO MY2K"
-My2k_Unlink="UNLINK FROM MY2K"
+My2k_Link="VINCULAR AO MY2K"
+My2k_Unlink="DESVINCULAR DO MY2K"
 
 
 [XLocalizedData]
-BaseChance="Base Chance"
-OffenseStat="Aim"
-DefenseStat="Defense"
-TargetLowCover="Low Cover"
-TargetHighCover="High Cover"
-AngleToTargetCover="Good Angle"
-RecoilPenalty="Recoil Penalty"
-HeightAdvantage="Height Advantage"
-HeightDisadvantage="Height Disadvantage"
-WeaponRange="Weapon Range"
-MeleeBonus="Melee Bonus"
-DodgeStat="Dodge"
-ArmorChanceStat="Armor Chance"
-GrazeHitMessage="Grazed!"
-DodgedMessage="Dodged!"
-CounterattackMessage="Counterattack!"
-MissedMessage="Missed!"
-NullShieldMessage="Null Shield!"
-LightningReflexesMessage="Lightning Reflexes!"
-UntouchableMessage="Untouchable!"
-FreeKillMessage="Executed!!!"
+BaseChance="Chance Base"
+OffenseStat="Precisão"
+DefenseStat="Defesa"
+TargetLowCover="Cobertura Baixa"
+TargetHighCover="Cobertura Alta"
+AngleToTargetCover="Ângulo Favorável"
+RecoilPenalty="Penalidade de Recuo"
+HeightAdvantage="Vantagem de Altura"
+HeightDisadvantage="Desvantagem de Altura"
+WeaponRange="Alcance da Arma"
+MeleeBonus="Bônus em Combate Corpo a Corpo"
+DodgeStat="Esquiva"
+ArmorChanceStat="Chance de Armadura"
+GrazeHitMessage="Atingido Superficialmente!"
+DodgedMessage="Esquivou!"
+CounterattackMessage="Contra-ataque!"
+MissedMessage="Errou!"
+NullShieldMessage="Escudo Nulo!"
+LightningReflexesMessage="Reflexos Relâmpago!"
+UntouchableMessage="Intocável!"
+FreeKillMessage="Executado!!!"
 
-CritChanceLabel="Critical Chance"
-FlankingCritBonus="Flanking Target"
-FlankingAimBonus="Flanking Target"
-ReactionFirePenalty="Reaction Fire"
-WeaponCritBonus="Weapon Crit"
-WeaponAimBonus="Weapon Accuracy"
-CharCritChance="Character Skill"
-MultiShotChance="Multiple Shots"
-SmokeDefenseBonus="Obscured by smoke"
-SquadsightMod="Squadsight"
-TechStat="Tech Level"
+CritChanceLabel="Chance de Crítico"
+FlankingCritBonus="Alvo Flanqueado"
+FlankingAimBonus="Alvo Flanqueado"
+ReactionFirePenalty="Penalidade de Tiro de Reação"
+WeaponCritBonus="Bônus de Crítico da Arma"
+WeaponAimBonus="Precisão da Arma"
+CharCritChance="Habilidade do Personagem"
+MultiShotChance="Tiros Múltiplos"
+SmokeDefenseBonus="Obstruído por Fumaça"
+SquadsightMod="Alcance de Observação do Esquadrão"
+TechStat="Nível Tecnológico"
 
-CritLabel="Crit"
-HitLabel="Hit"
-MultiHitLabel="Chance of at least 1 Hit"
-HealthLabel="HEALTH"
-AimLabel="AIM"
+CritLabel="Crítico"
+HitLabel="Acerto"
+MultiHitLabel="Chance de pelo menos 1 Acerto"
+HealthLabel="VIDA"
+AimLabel="PRECISÃO"
 TechLabel="HACK"
-WillLabel="WILL"
-DefenseLabel="DEFENSE"
-ArmorLabel="ARMOR"
-DodgeLabel="DODGE"
-PsiOffenseLabel="PSI STRENGTH"
-XpLabel="XP"
-XpSharesLabel="XP SHARES"
-XpSquadSharesLabel="SQUAD SHARES"
-XpEarnedPoolLabel="EARNED POOL"
-RelationshipChanged="<Amount> SOLDIER CHEMISTRY"
-CriticalDamageLabel="BONUS CRITICAL DAMAGE"
-CriticalChanceLabel="CRITICAL CHANCE"
-CriticalChanceBonusLabel="BONUS CRITICAL CHANCE"
-PoisonLabel="POISON DAMAGE"
-BurningLabel="BURNING DAMAGE"
-ArmorChanceLabel="ARMOR CHANCE"
-PierceLabel="ARMOR PIERCE"
-MobilityLabel="MOBILITY"
-RoboticDamageLabel="ROBOTIC DAMAGE"
-RoboticDamageBonusLabel="BONUS ROBOTIC DAMAGE"
-GrenadeRangeLabel="GRENADE RANGE"
-GrenadeRadiusLabel="GRENADE RADIUS"
-GrenadeRangeBonusLabel="BONUS GRENADE RANGE"
-GrenadeRadiusBonusLabel="BONUS GRENADE RADIUS"
-RegenLabel="HEALTH REGEN PER TURN"
-MaxRegenLabel="MAX HEALTH REGEN PER MISSION"
-Chargeslabel="CHARGES"
-BurnChanceLabel="BURN CHANCE"
-StunChanceLabel="STUN CHANCE"
-TechBonusLabel="HACK BONUS"
-PsiOffenseBonusLabel="PSI STRENGTH BONUS"
-ShredLabel="SHRED"
+WillLabel="FORÇA DE VONTADE"
+DefenseLabel="DEFESA"
+ArmorLabel="ARMADURA"
+DodgeLabel="ESQUIVA"
+PsiOffenseLabel="FORÇA PSI"
+XpLabel="EXP"
+XpSharesLabel="COMPARTILHAMENTO DE EXP"
+XpSquadSharesLabel="COMPARTILHAMENTO DE EXP DO ESQUADRÃO"
+XpEarnedPoolLabel="POOLS DE EXP GANHA"
+RelationshipChanged="CHEMISTRY DO SOLDADO <Amount>"
+CriticalDamageLabel="DANO CRÍTICO ADICIONAL"
+CriticalChanceLabel="CHANCE DE CRÍTICO"
+CriticalChanceBonusLabel="BÔNUS DE CHANCE DE CRÍTICO"
+PoisonLabel="DANO DE VENENO"
+BurningLabel="DANO DE QUEIMADURA"
+ArmorChanceLabel="CHANCE DE ARMADURA"
+PierceLabel="PERFURAÇÃO DE ARMADURA"
+MobilityLabel="MOBILIDADE"
+RoboticDamageLabel="DANO CONTRA ROBÔS"
+RoboticDamageBonusLabel="BÔNUS DE DANO CONTRA ROBÔS"
+GrenadeRangeLabel="ALCANCE DA GRANADA"
+GrenadeRadiusLabel="RAIO DA GRANADA"
+GrenadeRangeBonusLabel="BÔNUS DE ALCANCE DA GRANADA"
+GrenadeRadiusBonusLabel="BÔNUS DE RAIO DA GRANADA"
+RegenLabel="REGENERAÇÃO DE VIDA POR TURNO"
+MaxRegenLabel="REGENERAÇÃO MÁXIMA DE VIDA POR MISSÃO"
+Chargeslabel="CARGAS"
+BurnChanceLabel="CHANCE DE QUEIMADURA"
+StunChanceLabel="CHANCE DE ATORDOAMENTO"
+TechBonusLabel="BÔNUS DE HACK"
+PsiOffenseBonusLabel="BÔNUS DE FORÇA PSI"
+ShredLabel="PERFURAÇÃO DE ARMADURA"
 
-DamageLabel="DAMAGE"
-DamageBonusLabel="BONUS DAMAGE"
-ClipSizeLabel="CLIP SIZE"
-AmmoTypeLabel="AMMO TYPE"
-AmmoTypeHeader="AMMO"
-FreeFireLabel="BONUS ACTION CHANCE"
-FreeReloadLabel="FREE RELOADS"
-MissDamageLabel="MISSED SHOT DAMAGE"
-FreeKillLabel="INSTANT KILL CHANCE"
-UpgradesHeader="UPGRADES"
-RecoilLabel="RECOIL"
-RangeLabel="RANGE"
-RadiusLabel="RADIUS"
-TacticalTextAbilitiesHeader="ABILITIES"
-TacticalTextUpgradesHeader="UPGRADES"
-TacticalTextDescHeader="TACTICAL INFO"
-BackpackLabel="BACKPACK" 
-BackpackEmptyLabel="EMPTY"
-WearingHeavyArmorLabel="Heavy Armor: no pack space"
-EndTurnLabel="ENDS TURN"
-TurnLabel="TURN"
-CooldownLabel="COOLDOWN"
-ActionLabel="ACTION"
-ActionsLabel="ACTIONS"
-PenaltiesHeader="PENALTIES"
-BonusesHeader="BONUSES"
-AbilityListHeader="ABILITIES:"
+DamageLabel="DANO"
+DamageBonusLabel="BÔNUS DE DANO"
+ClipSizeLabel="CAPACIDADE DO CARREGADOR"
+AmmoTypeLabel="TIPO DE MUNIÇÃO"
+AmmoTypeHeader="MUNIÇÃO"
+FreeFireLabel="CHANCE DE AÇÃO EXTRA"
+FreeReloadLabel="RECARGAS GRÁTIS"
+MissDamageLabel="DANO DE TIRO ERRADO"
+FreeKillLabel="CHANCE DE ABATE INSTANTÂNEO"
+UpgradesHeader="APERFEIÇOAMENTOS"
+RecoilLabel="RECUO"
+RangeLabel="ALCANCE"
+RadiusLabel="RAIO"
+TacticalTextAbilitiesHeader="HABILIDADES"
+TacticalTextUpgradesHeader="APERFEIÇOAMENTOS"
+TacticalTextDescHeader="INFORMAÇÕES TÁTICAS"
+BackpackLabel="MOCHILA" 
+BackpackEmptyLabel="VAZIO"
+WearingHeavyArmorLabel="Armadura Pesada: sem espaço na mochila"
+EndTurnLabel="ENCERRAR TURNO"
+TurnLabel="TURNO"
+CooldownLabel="TEMPO DE RECARGA"
+ActionLabel="AÇÃO"
+ActionsLabel="AÇÕES"
+PenaltiesHeader="PENALIDADES"
+BonusesHeader="BÔNUS"
+AbilityListHeader="HABILIDADES:"
 
-HackingEnemyLabel="TARGET"
-HackingExpectedHitsLabel="Expected Hits"
-HackingExpectedBlocksLabel="Expected Blocks"
-HackingShotsLabel="SHOTS"
-HackingBlocksLabel="BLOCKS"
-HackingBonusHitsLabel="BONUS HITS"
-HackingBonusBlocksLabel="BONUS BLOCKS"
+HackingEnemyLabel="ALVO"
+HackingExpectedHitsLabel="Acertos Esperados"
+HackingExpectedBlocksLabel="Bloqueios Esperados"
+HackingShotsLabel="TIROS"
+HackingBlocksLabel="BLOQUEIOS"
+HackingBonusHitsLabel="Acertos Bônus"
+HackingBonusBlocksLabel="Bloqueios Bônus"
 
-HairTriggerFreeAction="Hair Trigger: Free Action!"
+HairTriggerFreeAction="Gatilho Sensível: Ação Gratuita!"
 
-StandardAimLogMsg="#Shooter uses #Ability against #Target! #Chance% chance, d100 rolled #Roll = #Result!"
-UnitDiedLogMsg="#Unit was killed."
-UnitInvincibleLogMsg="#Unit is invincible and takes no damage."
-UnmitigatedDamageLogMsg="#Unit takes #Damage damage."
-MitigatedDamageLogMsg="#Unit takes #Damage damage (#Mitigated mitigated by armor)."
-BleedingOutLogMsg="#Unit is now bleeding out!"
+StandardAimLogMsg="#Atirador usa #Habilidade contra #Alvo! #Chance% de chance, d100 rolado #Rol = #Resultado!"
+UnitDiedLogMsg="#Unidade foi morta."
+UnitInvincibleLogMsg="#Unidade é invulnerável e não sofre dano."
+UnmitigatedDamageLogMsg="#Unidade sofre #Dano de dano."
+MitigatedDamageLogMsg="#Unidade sofre #Dano de dano (#Mitigado mitigado pela armadura)."
+BleedingOutLogMsg="#Unidade está sangrando!"
 
-LootExplodedMsg="Loot Destroyed!"
-LootExpiredMsg="Loot Expired"
-OverwatchRemovedMsg="Overwatch Removed"
-SuppressionRemovedMsg="Suppression Removed"
-ShieldRemovedMsg="Shield Removed"
-UnitIsImmuneMsg="Immune"
-EverVigilantWithCoveringFire="Ever Vigilant: Covering Fire"
-ShakenDebuffName="Shaken"
-ShakenDebuffDesc="This soldier is shaken by the stress of a previous injury and is suffering a Will penalty."
+LootExplodedMsg="Saque Destruido!"
+LootExpiredMsg="Saque Expirado"
+OverwatchRemovedMsg="Vigilância Removida"
+SuppressionRemovedMsg="Supressão Removida"
+ShieldRemovedMsg="Escudo Removido"
+UnitIsImmuneMsg="Imune"
+EverVigilantWithCoveringFire="Sempre Vigilante: Fogo de Cobertura"
+ShakenDebuffName="Amedrontado"
+ShakenDebuffDesc="Este soldado está amedrontado pelo estresse de uma lesão anterior e está sofrendo uma penalidade de Vontade."
 
-CountryBackground="Country of Origin: <XGParam:StrValue0/!CountryName/>"
-DateOfBirthBackground="Date of Birth: <XGParam:StrValue0/!Date/>"
+CountryBackground="País de Origem: <XGParam:StrValue0/!Nome do País/>"
+DateOfBirthBackground="Data de Nascimento: <XGParam:StrValue0/!Data/>"
 
-AmbushTutorialTitle="Ambush"
-AmbushTutorialText="Before breaking concealment with an offensive action, consider putting squadmates into Overwatch in order to set up a deadly ambush."
+AmbushTutorialTitle="Emboscada"
+AmbushTutorialText="Antes de quebrar o sigilo com uma ação ofensiva, considere colocar os membros do esquadrão em Vigilância para preparar uma emboscada mortal."
 
-MeleeTutorialTitle="Melee"
-MeleeTutorialText="Rangers can trigger their melee attacks by simply placing their movement cursor over an enemy and then choosing their desired attack direction."
+MeleeTutorialTitle="Ataque Corpo a Corpo"
+MeleeTutorialText="Os Rangers podem realizar ataques corpo a corpo simplesmente colocando o cursor de movimento sobre um inimigo e escolhendo a direção do ataque desejada."
 
-SoldierStatusAvailable="AVAILABLE"
+SoldierStatusAvailable="DISPONÍVEL"
 
-FacilityGridEngineering_SoldiersLabel=Soldiers: 
-FacilityGridEngineering_AvailableLabel=Available:
-FacilityGridEngineering_WoundedLabel=Wounded:
-FacilityGridEngineering_UnvailableLabel=Unavailable:
+FacilityGridEngineering_SoldiersLabel=Soldados: 
+FacilityGridEngineering_AvailableLabel=Disponíveis:
+FacilityGridEngineering_WoundedLabel=Feridos:
+FacilityGridEngineering_UnvailableLabel=Indisponíveis:
 
 TutorialSoldierFirstName="Jane"
 TutorialSoldierLastName="Kelly"
@@ -5946,109 +5945,109 @@ LilyShenFirstName="Lily"
 LilyShenLastName="Shen"
 RichardTyganFirstName="Richard"
 RichardTyganLastName="Tygan"
-OfficerBradfordFirstName="Officer"
+OfficerBradfordFirstName="Oficial"
 OfficerBradfordLastName="Bradford"
 DateTimeFormatString="%DATE - %TIME"
-Redacted="REDACTED"
+Redacted="CENSURADO"
 
-CannotBeDodged="Cannot be dodged."
+CannotBeDodged="Não pode ser evitado."
 
 [XComMCP]
-ServiceNotAvailable="The XCOM 2 service is not available. Please try again later."
+ServiceNotAvailable="O serviço XCOM 2 não está disponível. Por favor, tente novamente mais tarde."
 
 [X2Action_SpottedUnit]
-m_sSpottedUnitMessage="Spotted"
-m_sUnspottedUnitMessage="Unspotted"
+m_sSpottedUnitMessage="Avistado"
+m_sUnspottedUnitMessage="Desavistado"
 
 [Civilian X2CharacterTemplate]
-strCharacterName="Civilian"
-strCharacterBackgroundMale[0]="Once serving as the head of a clandestine organization developing advanced military simulations, Sid was left with little choice but to fight when alien forces threatened the whole of human civilization." 
-strCharacterBackgroundMale[1]="One of our most loyal supporters, Beaglerush is known for leading efforts to counter ADVENT propaganda and spread the truth about XCOM and the resistance movement."
-strCharacterBackgroundMale[2]="Known for his pre-war efforts with the United Nations, Peter Van Doorn is a wildcard, a loose-cannon whose exploits on the battlefield are as legendary as his colorful commentary."
+strCharacterName="Civil"
+strCharacterBackgroundMale[0]="Antes de liderar uma organização clandestina desenvolvendo simulações militares avançadas, Sid não teve outra escolha a não ser lutar quando as forças alienígenas ameaçaram toda a civilização humana."
+strCharacterBackgroundMale[1]="Um de nossos apoiadores mais leais, Beaglerush é conhecido por liderar esforços para combater a propaganda da ADVENT e espalhar a verdade sobre a XCOM e o movimento de resistência."
+strCharacterBackgroundMale[2]="Conhecido por seus esforços pré-guerra com as Nações Unidas, Peter Van Doorn é um curinga, um elemento imprevisível cujas façanhas no campo de batalha são tão lendárias quanto seus comentários coloridos."
 
 [FacelessCivilian X2CharacterTemplate]
-strCharacterName="Civilian"
+strCharacterName="Civil"
 
 [HostileCivilian X2CharacterTemplate]
-strCharacterName="Civilian"
+strCharacterName="Civil"
 
 [AdvCaptainM1 X2CharacterTemplate]
-strCharacterName="ADVENT Officer"
+strCharacterName="Oficial ADVENT"
 
 [AdvCaptainM2 X2CharacterTemplate]
-strCharacterName="Advanced Officer"
+strCharacterName="Oficial Avançado"
 
 [AdvCaptainM3 X2CharacterTemplate]
-strCharacterName="Elite Officer"
+strCharacterName="Oficial de Elite"
 
 [AdvMEC_M1 X2CharacterTemplate]
-strCharacterName="ADVENT MEC"
+strCharacterName="MEC ADVENT"
 
 [AdvMEC_M2 X2CharacterTemplate]
-strCharacterName="Heavy MEC"
+strCharacterName="MEC Pesado"
 
 [AdvPsiWitchM2 X2CharacterTemplate]
-strCharacterName="Commander's Avatar"
+strCharacterName="Avatar do Comandante"
 
 [AdvPsiWitchM3 X2CharacterTemplate]
 strCharacterName="Avatar"
 
 [AdvShieldBearerM2 X2CharacterTemplate]
-strCharacterName="ADVENT Shieldbearer"
+strCharacterName="Carregador de Escudo ADVENT"
 
 [AdvShieldBearerM3 X2CharacterTemplate]
-strCharacterName="Elite Shieldbearer"
+strCharacterName="Carregador de Escudo de Elite"
 
 [AdvStunLancerM1 X2CharacterTemplate]
-strCharacterName="ADVENT Stun Lancer"
+strCharacterName="Stun Lancer ADVENT"
 
 [AdvStunLancerM2 X2CharacterTemplate]
-strCharacterName="Heavy Lancer"
+strCharacterName="Lancer Pesado"
 
 [AdvStunLancerM3 X2CharacterTemplate]
-strCharacterName="Elite Lancer"
+strCharacterName="Lancer de Elite"
 
 [AdvTrooperM1 X2CharacterTemplate]
-strCharacterName="ADVENT Trooper"
+strCharacterName="Soldado ADVENT"
 
 [AdvTrooperM2 X2CharacterTemplate]
-strCharacterName="Advanced Trooper"
+strCharacterName="Soldado Avançado"
 
 [AdvTrooperM3 X2CharacterTemplate]
-strCharacterName="Elite Trooper"
+strCharacterName="Soldado de Elite"
 
 [AdvTurretM1 X2CharacterTemplate]
-strCharacterName="ADVENT Turret"
+strCharacterName="Torre ADVENT"
 
 [AdvTurretM2 X2CharacterTemplate]
-strCharacterName="Heavy Turret"
+strCharacterName="Torre Pesada"
 
 [AdvTurretM3 X2CharacterTemplate]
-strCharacterName="Superheavy Turret"
+strCharacterName="Torre Superpesada"
 
 [AdvShortTurret X2CharacterTemplate]
-strCharacterName="ADVENT Turret"
+strCharacterName="Torre ADVENT"
 
 [AdvShortTurretM1 X2CharacterTemplate]
-strCharacterName="ADVENT Turret"
+strCharacterName="Torre ADVENT"
 
 [AdvShortTurretM2 X2CharacterTemplate]
-strCharacterName="Heavy Turret"
+strCharacterName="Torre Pesada"
 
 [AdvShortTurretM3 X2CharacterTemplate]
-strCharacterName="Superheavy Turret"
+strCharacterName="Torre Superpesada"
 
 [XComTurretM1 X2CharacterTemplate]
-strCharacterName="XCOM Turret"
+strCharacterName="Torre XCOM"
 
 [XComTurretM2 X2CharacterTemplate]
-strCharacterName="XCOM Heavy Turret"
+strCharacterName="Torre Pesada XCOM"
 
 [Andromedon X2CharacterTemplate]
 strCharacterName="Andromedon"
 
 [AndromedonRobot X2CharacterTemplate]
-strCharacterName="Andromedon Shell"
+strCharacterName="Shell do Andromedon"
 
 [Archon X2CharacterTemplate]
 strCharacterName="Archon"
@@ -6072,10 +6071,10 @@ strCharacterName="Gatekeeper"
 strCharacterName="Muton"
 
 [PsiZombie X2CharacterTemplate]
-strCharacterName="Psi Zombie"
+strCharacterName="Zumbi Psi"
 
 [PsiZombieHuman X2CharacterTemplate]
-strCharacterName="Psi Zombie"
+strCharacterName="Zumbi Psi"
 
 [Sectoid X2CharacterTemplate]
 strCharacterName="Sectoid"
@@ -6087,28 +6086,28 @@ strCharacterName="Sectopod"
 strCharacterName="Viper"
 
 [PrototypeSectopod X2CharacterTemplate]
-strCharacterName="Prototype Sectopod"
+strCharacterName="Protótipo Sectopod"
 
 [ChryssalidCocoon X2CharacterTemplate]
-strCharacterName="Chryssalid Cocoon"
+strCharacterName="Casulo de Chryssalid"
 
 [ChryssalidCocoonHuman X2CharacterTemplate]
-strCharacterName="Chryssalid Cocoon"
+strCharacterName="Casulo de Chryssalid"
 
 [MimicBeacon X2CharacterTemplate]
-strCharacterName="Mimic Beacon decoy"
+strCharacterName="Isca Mimética"
 
 [Council X2CharacterTemplate]
-strCharacterName="Council"
+strCharacterName="Conselho"
 
 [Denmother X2CharacterTemplate]
-strCharacterName="Denmother"
+strCharacterName="Mãe Den"
 
 [ShipAI X2CharacterTemplate]
-strCharacterName="Ship AI"
+strCharacterName="IA da Nave"
 
 [AdventSpokesman X2CharacterTemplate]
-strCharacterName="Advent Spokesman"
+strCharacterName="Porta-voz da ADVENT"
 
 [Firebrand X2CharacterTemplate]
 strCharacterName="Firebrand"
@@ -6117,510 +6116,563 @@ strCharacterName="Firebrand"
 strCharacterName="Ethereal"
 
 [TutorialCentral X2CharacterTemplate]
-strCharacterName="Central"
+strCharacterName="Central (Tutorial)"
 
 [StrategyCentral X2CharacterTemplate]
-strCharacterName="Central"
+strCharacterName="Central (Estratégia)"
 
 [HeadEngineer X2CharacterTemplate]
-strCharacterName="Shen"
+strCharacterName="Shen (Engenheira-chefe)"
 
 [HeadScientist X2CharacterTemplate]
-strCharacterName="Tygan"
+strCharacterName="Tygan (Cientista-chefe)"
 
 [TutorialOsei X2CharacterTemplate]
-strCharacterName="Osei"
+strCharacterName="Osei (Tutorial)"
 
 [TutorialRamirez X2CharacterTemplate]
-strCharacterName="Ramirez"
+strCharacterName="Ramirez (Tutorial)"
 
 [TutorialKelly X2CharacterTemplate]
-strCharacterName="Kelly"
+strCharacterName="Kelly (Tutorial)"
 
 [Speaker X2CharacterTemplate]
-strCharacterName="Speaker"
+strCharacterName="Orador"
 
 [PropagandaAnnouncer X2CharacterTemplate]
-strCharacterName="Propaganda Announcer"
+strCharacterName="Narrador de Propaganda"
 
 [AngelisEthereal X2CharacterTemplate]
-strCharacterName="Angelis Ethereal"
+strCharacterName="Ethereal Angelis"
 
 [ShadowShen X2CharacterTemplate]
-strCharacterName="Avenger"
+strCharacterName="Shen das Sombras"
 
 [Engineer X2CharacterTemplate]
-strCharacterName="Engineer"
-strCharacterBackgroundMale[0]="<XGParam:StrValue1/!FirstName/> was only a shadetree mechanic before the war, doing the occasional odd job while helping his neighbors in <XGParam:StrValue0/!CountryName/> fix their cars. With resources and manpower running low, he's offered to do what he can to help our cause."
-strCharacterBackgroundMale[1]="Once employed by ADVENT to aid in the construction of city centers throughout <XGParam:StrValue0/!CountryName/>, <XGParam:StrValue1/!FirstName/> grew suspicious of their efforts after discovering extensive plans for underground detention centers."
-strCharacterBackgroundMale[2]="<XGParam:StrValue1/!FirstName/> spent much of his life serving as an educator in <XGParam:StrValue0/!CountryName/>, persisting despite the hardships of the invasion. When a number of his students were killed in an ADVENT peacekeeping operation, he joined the resistance seeking change."
-strCharacterBackgroundMale[3]="Rumor has it <XGParam:StrValue1/!FirstName/> was one of the best mechanics left in <XGParam:StrValue0/!CountryName/> after the war. Old tech, new tech, doesn't matter. If you can break it, word is, he can fix it." 
-strCharacterBackgroundMale[4]="People are often suspicious of the quiet ones, and <XGParam:StrValue1/!FirstName/> is one of the quietest engineers we've ever come across. Originally from <XGParam:StrValue0/!CountryName/>, he's got a reputation for working miracles with the alien technology."
-strCharacterBackgroundMale[5]="We're always looking for free thinkers, inventors, tinkerers, anyone that might be able to advance our knowledge of the alien technology. <XGParam:StrValue1/!FirstName/> was known for his work in <XGParam:StrValue0/!CountryName/> experimenting with low-budget robotics before the invasion. Just the sort of recruit we need."
-strCharacterBackgroundMale[6]="<XGParam:StrValue1/!FirstName/>, an engineer originally from <XGParam:StrValue0/!CountryName/>, has an almost suspicious level of expertise in the handling and storage of Elerium. As to how he gained this unique skillset, we're still not entirely sure."
-strCharacterBackgroundMale[7]="Originally from <XGParam:StrValue0/!CountryName/>, <XGParam:StrValue1/!FirstName/> was once the Chief Engineer on an experimental naval vessel deployed during the earliest days of the invasion. Although he has a reputation for exaggerating his work estimates, he's also known as something of a miracle worker."
-strCharacterBackgroundMale[8]="<XGParam:StrValue1/!FirstName/> was once famous for his engineering startup firm run out of a small house in <XGParam:StrValue0/!CountryName/>. Unfortunately for him, the global economy collapsed with the rest of the old world, and his technology was appropriated by ADVENT."
-strCharacterBackgroundMale[9]="<XGParam:StrValue1/!FirstName/> is a little rough around the edges, having spent the last few years conducting research independently in <XGParam:StrValue0/!CountryName/>. It's been a while since he's spent time around other people, but his skills are too valuable to pass up."
-strCharacterBackgroundMale[10]="Working as an underground gunsmith in <XGParam:StrValue0/!CountryName/>, <XGParam:StrValue1/!FirstName/> was famous for crafting weapons from spare parts and discarded materials otherwise considered junk."
-strCharacterBackgroundMale[11]="<XGParam:StrValue1/!FirstName/> used to work as an airplane mechanic at one of the major shipping hubs in <XGParam:StrValue0/!CountryName/>. The Avenger may be a little different than what he's used to, but every bit of experience counts."
-strCharacterBackgroundMale[12]="An expert of rare skill, <XGParam:StrValue1/!FirstName/> studied metallurgy in <XGParam:StrValue0/!CountryName/>. With the number of unusual alien materials we deal with, his talents are sorely needed."
-strCharacterBackgroundMale[13]="At the onset of the invasion <XGParam:StrValue1/!FirstName/> was working as an astronomer in <XGParam:StrValue0/!CountryName/>, specializing in the design of radio telescopes used for astronomical observations."
-strCharacterBackgroundMale[14]="In the old days, you probably wouldn't have found a diesel mechanic from <XGParam:StrValue0/!CountryName/> serving as an engineer for XCOM. Times have changed, and <XGParam:StrValue1/!FirstName/> will no doubt prove his worth to the team."           
-strCharacterBackgroundFemale[0]="<XGParam:StrValue1/!FirstName/> was only a shadetree mechanic before the war, doing the occasional odd job while helping her neighbors in <XGParam:StrValue0/!CountryName/> fix their cars. With resources and manpower running low, she's offered to do what he can to help our cause."
-strCharacterBackgroundFemale[1]="Once employed by ADVENT to aid in the construction of city centers throughout <XGParam:StrValue0/!CountryName/>, <XGParam:StrValue1/!FirstName/> grew suspicious of their efforts after discovering extensive plans for underground detention centers."
-strCharacterBackgroundFemale[2]="<XGParam:StrValue1/!FirstName/> spent much of her life serving as an educator in <XGParam:StrValue0/!CountryName/>, persisting despite the hardships of the invasion. When a number of her students were killed in an ADVENT peacekeeping operation, she joined the resistance seeking change."
-strCharacterBackgroundFemale[3]="Rumor has it <XGParam:StrValue1/!FirstName/> was one of the best mechanics left in <XGParam:StrValue0/!CountryName/> after the war. Old tech, new tech, doesn't matter. If you can break it, word is, she can fix it." 
-strCharacterBackgroundFemale[4]="People are often suspicious of the quiet ones, and <XGParam:StrValue1/!FirstName/> is one of the quietest engineers we've ever come across. Originally from <XGParam:StrValue0/!CountryName/>, she's got a reputation for working miracles with the alien technology."
-strCharacterBackgroundFemale[5]="We're always looking for free thinkers, inventors, tinkerers, anyone that might be able to advance our knowledge of the alien technology. <XGParam:StrValue1/!FirstName/> was known for her work in <XGParam:StrValue0/!CountryName/> experimenting with low-budget robotics before the invasion. Just the sort of recruit we need." 
-strCharacterBackgroundFemale[6]="<XGParam:StrValue1/!FirstName/>, an engineer originally from <XGParam:StrValue0/!CountryName/>, has an almost suspicious level of expertise in the handling and storage of Elerium. As to how she gained this unique skillset, we're still not entirely sure."
-strCharacterBackgroundFemale[7]="Originally from <XGParam:StrValue0/!CountryName/>, <XGParam:StrValue1/!FirstName/> was once the Chief Engineer on an experimental naval vessel deployed during the earliest days of the invasion. Although she has a reputation for exaggerating her work estimates, she's also known as something of a miracle worker."
-strCharacterBackgroundFemale[8]="<XGParam:StrValue1/!FirstName/> was once famous for her engineering startup firm run out of a small house in <XGParam:StrValue0/!CountryName/>. Unfortunately for her, the global economy collapsed with the rest of the old world, and her technology was appropriated by ADVENT."
-strCharacterBackgroundFemale[9]="<XGParam:StrValue1/!FirstName/> is a little rough around the edges, having spent the last few years conducting research independently in <XGParam:StrValue0/!CountryName/>. It's been a while since she's spent time around other people, but her skills are too valuable to pass up." 
-strCharacterBackgroundFemale[10]="Working as an underground gunsmith in <XGParam:StrValue0/!CountryName/>, <XGParam:StrValue1/!FirstName/> was famous for crafting weapons from spare parts and discarded materials otherwise considered junk."
-strCharacterBackgroundFemale[11]="<XGParam:StrValue1/!FirstName/> used to work as an airplane mechanic at one of the major shipping hubs in <XGParam:StrValue0/!CountryName/>. The Avenger may be a little different than what she's used to, but every bit of experience counts."
-strCharacterBackgroundFemale[12]="An expert of rare skill, <XGParam:StrValue1/!FirstName/> studied metallurgy in <XGParam:StrValue0/!CountryName/>. With the number of unusual alien materials we deal with, her talents are sorely needed."      
-strCharacterBackgroundFemale[13]="At the onset of the invasion <XGParam:StrValue1/!FirstName/> was working as an astronomer in <XGParam:StrValue0/!CountryName/>, specializing in the design of radio telescopes used for astronomical observations."
-strCharacterBackgroundFemale[14]="In the old days, you probably wouldn't have found a diesel mechanic from <XGParam:StrValue0/!CountryName/> serving as an engineer for XCOM. Times have changed, and <XGParam:StrValue1/!FirstName/> will no doubt prove her worth to the team."    
+strCharacterName="Engenheiro"
+strCharacterBackgroundMale[0]="<XGParam:StrValue1/!FirstName/> era apenas um mecânico amador antes da guerra, fazendo alguns trabalhos esporádicos enquanto ajudava seus vizinhos em <XGParam:StrValue0/!CountryName/> a consertar seus carros. Com recursos e mão de obra escassos, ele ofereceu fazer o que pudesse para ajudar nossa causa."
+strCharacterBackgroundMale[1]="Anteriormente empregado pela ADVENT para ajudar na construção dos centros urbanos em toda <XGParam:StrValue0/!CountryName/>, <XGParam:StrValue1/!FirstName/> ficou desconfiado de seus esforços depois de descobrir extensos planos para centros de detenção subterrâneos."
+strCharacterBackgroundMale[2]="<XGParam:StrValue1/!FirstName/> passou grande parte de sua vida como educador em <XGParam:StrValue0/!CountryName/>, persistindo apesar das dificuldades da invasão. Quando alguns de seus alunos foram mortos em uma operação de pacificação da ADVENT, ele se juntou à resistência em busca de mudanças."
+strCharacterBackgroundMale[3]="Rumores dizem que <XGParam:StrValue1/!FirstName/> era um dos melhores mecânicos restantes em <XGParam:StrValue0/!CountryName/> após a guerra. Tecnologia antiga, tecnologia nova, não importa. Se você pode quebrar, dizem que ele pode consertar."
+strCharacterBackgroundMale[4]="As pessoas geralmente são desconfiadas com os mais silenciosos, e <XGParam:StrValue1/!FirstName/> é um dos engenheiros mais silenciosos que já encontramos. Originalmente de <XGParam:StrValue0/!CountryName/>, ele tem uma reputação de fazer milagres com a tecnologia alienígena."
+strCharacterBackgroundMale[5]="Estamos sempre procurando mentes livres, inventores, inventores, qualquer pessoa que possa avançar nosso conhecimento da tecnologia alienígena. <XGParam:StrValue1/!FirstName/> era conhecido por seu trabalho em <XGParam:StrValue0/!CountryName/> experimentando com robótica de baixo custo antes da invasão. Exatamente o tipo de recruta que precisamos."
+strCharacterBackgroundMale[6]="<XGParam:StrValue1/!FirstName/>, um engenheiro originalmente de <XGParam:StrValue0/!CountryName/>, tem um conhecimento quase suspeito no manuseio e armazenamento de Elerium. Quanto à forma como ele adquiriu essa habilidade única, ainda não temos certeza completa."
+strCharacterBackgroundMale[7]="Originalmente de <XGParam:StrValue0/!CountryName/>, <XGParam:StrValue1/!FirstName/> já foi o Chefe de Engenharia de um navio naval experimental implantado nos primeiros dias da invasão. Embora tenha a reputação de exagerar suas estimativas de trabalho, ele também é conhecido como uma espécie de fazedor de milagres."
+strCharacterBackgroundMale[8]="<XGParam:StrValue1/!FirstName/> era famoso por sua empresa de engenharia em uma pequena casa em <XGParam:StrValue0/!CountryName/>. Infelizmente para ele, a economia global desabou com o resto do mundo antigo, e sua tecnologia foi apropriada pela ADVENT."
+strCharacterBackgroundMale[9]="<XGParam:StrValue1/!FirstName/> é um pouco rude, tendo passado os últimos anos conduzindo pesquisas de forma independente em <XGParam:StrValue0/!CountryName/>. Já faz um tempo desde que ele conviveu com outras pessoas, mas suas habilidades são muito valiosas para serem ignoradas."
+strCharacterBackgroundMale[10]="Trabalhando como armeiro clandestino em <XGParam:StrValue0/!CountryName/>, <XGParam:StrValue1/!FirstName/> era famoso por criar armas a partir de peças sobressalentes e materiais descartados considerados lixo."
+[Engineer X2CharacterTemplate]
+strCharacterName="Engenheiro"
+strCharacterBackgroundMale[0]="<XGParam:StrValue1/!FirstName/> costumava ser um mecânico amador antes da guerra, fazendo alguns trabalhos esporádicos enquanto ajudava seus vizinhos em <XGParam:StrValue0/!CountryName/> a consertar seus carros. Com recursos e mão de obra escassos, ele se ofereceu para fazer o que pudesse para ajudar nossa causa."
+strCharacterBackgroundMale[1]="Anteriormente empregado pela ADVENT para ajudar na construção dos centros urbanos em toda <XGParam:StrValue0/!CountryName/>, <XGParam:StrValue1/!FirstName/> ficou desconfiado de seus esforços depois de descobrir extensos planos para centros de detenção subterrâneos."
+strCharacterBackgroundMale[2]="<XGParam:StrValue1/!FirstName/> passou grande parte de sua vida como educador em <XGParam:StrValue0/!CountryName/>, persistindo apesar das dificuldades da invasão. Quando alguns de seus alunos foram mortos em uma operação de pacificação da ADVENT, ele se juntou à resistência em busca de mudanças."
+strCharacterBackgroundMale[3]="Rumores dizem que <XGParam:StrValue1/!FirstName/> era um dos melhores mecânicos restantes em <XGParam:StrValue0/!CountryName/> após a guerra. Tecnologia antiga, tecnologia nova, não importa. Se você pode quebrar, dizem que ele pode consertar."
+strCharacterBackgroundMale[4]="As pessoas geralmente são desconfiadas com os mais silenciosos, e <XGParam:StrValue1/!FirstName/> é um dos engenheiros mais silenciosos que já encontramos. Originalmente de <XGParam:StrValue0/!CountryName/>, ele tem uma reputação de fazer milagres com a tecnologia alienígena."
+strCharacterBackgroundMale[5]="Estamos sempre procurando mentes livres, inventores, inventores, qualquer pessoa que possa avançar nosso conhecimento da tecnologia alienígena. <XGParam:StrValue1/!FirstName/> era conhecido por seu trabalho em <XGParam:StrValue0/!CountryName/> experimentando com robótica de baixo custo antes da invasão. Exatamente o tipo de recruta que precisamos."
+strCharacterBackgroundMale[6]="<XGParam:StrValue1/!FirstName/>, um engenheiro originalmente de <XGParam:StrValue0/!CountryName/>, tem um conhecimento quase suspeito no manuseio e armazenamento de Elerium. Quanto à forma como ele adquiriu essa habilidade única, ainda não temos certeza completa."
+strCharacterBackgroundMale[7]="Originalmente de <XGParam:StrValue0/!CountryName/>, <XGParam:StrValue1/!FirstName/> já foi o Chefe de Engenharia de um navio naval experimental implantado nos primeiros dias da invasão. Embora ele tenha a reputação de exagerar suas estimativas de trabalho, ele também é conhecido como uma espécie de fazedor de milagres."
+strCharacterBackgroundMale[8]="<XGParam:StrValue1/!FirstName/> era famoso por sua empresa de engenharia em uma pequena casa em <XGParam:StrValue0/!CountryName/>. Infelizmente para ele, a economia global desabou com o resto do mundo antigo, e sua tecnologia foi apropriada pela ADVENT."
+strCharacterBackgroundMale[9]="<XGParam:StrValue1/!FirstName/> é um pouco rude, tendo passado os últimos anos conduzindo pesquisas de forma independente em <XGParam:StrValue0/!CountryName/>. Já faz um tempo desde que ele conviveu com outras pessoas, mas suas habilidades são muito valiosas para serem ignoradas."
+strCharacterBackgroundMale[10]="Trabalhando como um armeiro clandestino em <XGParam:StrValue0/!CountryName/>, <XGParam:StrValue1/!FirstName/> era famoso por criar armas a partir de peças sobressalentes e materiais descartados considerados lixo."
+strCharacterBackgroundMale[11]="<XGParam:StrValue1/!FirstName/> costumava trabalhar como mecânico de aviões em um dos principais centros de transporte em <XGParam:StrValue0/!CountryName/>. O Avenger pode ser um pouco diferente do que ele está acostumado, mas toda experiência conta."
+strCharacterBackgroundMale[12]="Um especialista de habilidades raras, <XGParam:StrValue1/!FirstName/> estudou metalurgia em <XGParam:StrValue0/!CountryName/>. Com a quantidade de materiais alienígenas incomuns com os quais lidamos, seus talentos são muito necessários."
+strCharacterBackgroundMale[13]="No início da invasão, <XGParam:StrValue1/!FirstName/> trabalhava como astrônomo em <XGParam:StrValue0/!CountryName/>, especializando-se no projeto de rádio telescópios usados para observações astronômicas."
+strCharacterBackgroundMale[14]="No passado, provavelmente você não encontraria um mecânico de motores a diesel de <XGParam:StrValue0/!CountryName/> trabalhando como engenheiro para XCOM. Os tempos mudaram, e <XGParam:StrValue1/!FirstName/> sem dúvida provará seu valor para a equipe."
 
-[Scientist X2CharacterTemplate]
-strCharacterName="Scientist"
-strCharacterBackgroundMale[0]="With many of the major universities in <XGParam:StrValue0/!CountryName/> having been destroyed during the invasion, brilliant minds like <XGParam:StrValue1/!FirstName/> are a rare asset. He's eager to contribute to our research team in any way possible."
-strCharacterBackgroundMale[1]="<XGParam:StrValue1/!FirstName/> was discovered by ADVENT conducting experiments using salvaged alien technology in the outlying territories of <XGParam:StrValue0/!CountryName/>. Having somehow managed to escape, he offered his work to the resistance in exchange for their protection."
-strCharacterBackgroundMale[2]="Although <XGParam:StrValue1/!FirstName/> was born in <XGParam:StrValue0/!CountryName/> and spent much of his time working in solitude, during a brief introductory period he served as a colleague of Dr. Tygan's at one of ADVENT's earliest gene therapy clinics."
-strCharacterBackgroundMale[3]="Word among the resistance is that <XGParam:StrValue1/!FirstName/> was something of a well-known chemist responsible for manufacturing illicit substances in <XGParam:StrValue0/!CountryName/>. Apparently his operation was large enough to threaten ADVENT's plans, and he wound up on their most-wanted list."
-strCharacterBackgroundMale[4]="The resistance has been leery of experiments conducted by <XGParam:StrValue1/!FirstName/> in a remote area in <XGParam:StrValue0/!CountryName/>, something about alien vivisections. At this point we're desperate for anyone with the right skills, so he'll have to do."  
-strCharacterBackgroundMale[5]="We're not entirely sure what sort of formal training <XGParam:StrValue1/!FirstName/> had before the invasion hit <XGParam:StrValue0/!CountryName/>, but his time spent as a field medic gives him a leg up on most of the candidates we come across."
-strCharacterBackgroundMale[6]="<XGParam:StrValue1/!FirstName/> showed up at one of the early resistance outposts in <XGParam:StrValue0/!CountryName/>, but the locals had their concerns about his mental health after finding him attempting to interrogate a long-dead Sectoid."    
-strCharacterBackgroundMale[7]="Once considered to be among the finest minds in the field of astrophysics, <XGParam:StrValue1/!FirstName/> disappeared in <XGParam:StrValue0/!CountryName/> shortly after the invasion began. Having suddenly reemerged, he seems eager to help the resistance in any way possible."
-strCharacterBackgroundMale[8]="Having worked as an educator in <XGParam:StrValue0/!CountryName/> for much of his life, <XGParam:StrValue1/!FirstName/> has a wealth of experience when it comes to teaching and training others, a valuable asset to an organization like ours."
-strCharacterBackgroundMale[9]="One of the foremost experts in robotics technology, <XGParam:StrValue1/!FirstName/> escaped the initial alien attack on <XGParam:StrValue0/!CountryName/> with the help of an armored suit of his own design. Rumor has it his original concepts may have influenced the ADVENT MECs we see today."  
-strCharacterBackgroundMale[10]="<XGParam:StrValue1/!FirstName/> was a pharmacist working at a small clinic in <XGParam:StrValue0/!CountryName/> before ADVENT Peacekeeping forces destroyed the facility in an effort to encourage migration to one of the city centers."
-strCharacterBackgroundMale[11]="The prevailing rumor is that <XGParam:StrValue1/!FirstName/> was involved in some sort of government-sponsored research project in <XGParam:StrValue0/!CountryName/> dealing in time travel. Apparently it didn't work out."
-strCharacterBackgroundMale[12]="In waging a personal war against the aliens, <XGParam:StrValue1/!FirstName/> released a number of untested chemical weapons into the environment in <XGParam:StrValue0/!CountryName/> in the hopes of warding off ADVENT's peacekeeping forces."
-strCharacterBackgroundMale[13]="<XGParam:StrValue1/!FirstName/> was among the first in <XGParam:StrValue0/!CountryName/> to discover the truth about ADVENT's hybrid soldiers. Unfortunately, his efforts to convince people of his findings led to his immediate placement on a resistance collaborator watch list."
-strCharacterBackgroundMale[14]="<XGParam:StrValue1/!FirstName/> has been evasive about what exactly his background was before linking up with the resistance in <XGParam:StrValue0/!CountryName/>. From initial conversations, it's clear at the very least he's had an extensive education."
-strCharacterBackgroundFemale[0]="With many of the major universities in <XGParam:StrValue0/!CountryName/> having been destroyed during the invasion, brilliant minds like <XGParam:StrValue1/!FirstName/> are a rare asset. She's eager to contribute to our research team in any way possible."
-strCharacterBackgroundFemale[1]="<XGParam:StrValue1/!FirstName/> was discovered by ADVENT conducting experiments using salvaged alien technology in the outlying territories of <XGParam:StrValue0/>. Having somehow managed to escape, she offered her work to the resistance in exchange for their protection."
-strCharacterBackgroundFemale[2]="Although <XGParam:StrValue1/!FirstName/> was born in <XGParam:StrValue0/!CountryName/> and spent much of her time working in solitude, during a brief introductory period she served as a colleague of Dr. Tygan's at one of ADVENT's earliest gene therapy clinics."
-strCharacterBackgroundFemale[3]="Word among the resistance is that <XGParam:StrValue1/!FirstName/> was something of a well-known chemist responsible for manufacturing illicit substances in <XGParam:StrValue0/!CountryName/>. Apparently her operation was large enough to threaten ADVENT's plans, and she wound up on their most-wanted list."
-strCharacterBackgroundFemale[4]="The resistance has been leery of experiments conducted by <XGParam:StrValue1/!FirstName/> in a remote area in <XGParam:StrValue0/!CountryName/>, something about alien vivisections. At this point we're desperate for anyone with the right skills, so she'll have to do."
-strCharacterBackgroundFemale[5]="We're not entirely sure what sort of formal training <XGParam:StrValue1/!FirstName/> had before the invasion hit <XGParam:StrValue0/!CountryName/>, but her time spent as a field medic gives her a leg up on most of the candidates we come across."
-strCharacterBackgroundFemale[6]="<XGParam:StrValue1/!FirstName/> showed up at one of the early resistance outposts in <XGParam:StrValue0/!CountryName/>, but the locals had their concerns about her mental health after finding her attempting to interrogate a long-dead Sectoid."
-strCharacterBackgroundFemale[7]="Once considered to be among the finest minds in the field of astrophysics, <XGParam:StrValue1/!FirstName/> disappeared in <XGParam:StrValue0/!CountryName/> shortly after the invasion began. Having suddenly reemerged, she seems eager to help the resistance in any way possible."
-strCharacterBackgroundFemale[8]="Having worked as an educator in <XGParam:StrValue0/!CountryName/> for much of her life, <XGParam:StrValue1/!FirstName/> has a wealth of experience when it comes to teaching and training others, a valuable asset to an organization like ours."
-strCharacterBackgroundFemale[9]="One of the foremost experts in robotics technology, <XGParam:StrValue1/!FirstName/> escaped the initial alien attack on <XGParam:StrValue0/!CountryName/> with the help of an armored suit of her own design. Rumor has it her original concepts may have influenced the ADVENT MECs we see today."
-strCharacterBackgroundFemale[10]="<XGParam:StrValue1/!FirstName/> was a pharmacist working at a small clinic in <XGParam:StrValue0/!CountryName/> before ADVENT Peacekeeping forces destroyed the facility in an effort to encourage migration to one of the city centers."
-strCharacterBackgroundFemale[11]="The prevailing rumor is that <XGParam:StrValue1/!FirstName/> was involved in some sort of government-sponsored research project in <XGParam:StrValue0/!CountryName/> dealing in time travel. Apparently it didn't work out."
-strCharacterBackgroundFemale[12]="In waging a personal war against the aliens, <XGParam:StrValue1/!FirstName/> released a number of untested chemical weapons into the environment in <XGParam:StrValue0/!CountryName/> in the hopes of warding off ADVENT's peacekeeping forces."
-strCharacterBackgroundFemale[13]="<XGParam:StrValue1/!FirstName/> was among the first in <XGParam:StrValue0/!CountryName/> to discover the truth about ADVENT's hybrid soldiers. Unfortunately, her efforts to convince people of her findings led to her immediate placement on a resistance collaborator watch list."
-strCharacterBackgroundFemale[14]="<XGParam:StrValue1/!FirstName/> has been evasive about what exactly her background was before linking up with the resistance in <XGParam:StrValue0/!CountryName/>. From initial conversations, it's clear at the very least she's had an extensive education."     
-  
+strCharacterBackgroundFemale[0]="<XGParam:StrValue1/!FirstName/> costumava ser uma mecânica amadora antes da guerra, fazendo alguns trabalhos esporádicos enquanto ajudava seus vizinhos em <XGParam:StrValue0/!CountryName/> a consertar seus carros. Com recursos e mão de obra escassos, ela se ofereceu para fazer o que pudesse para ajudar nossa causa."
+strCharacterBackgroundFemale[1]="Anteriormente empregada pela ADVENT para ajudar na construção dos centros urbanos em toda <XGParam:StrValue0/!CountryName/>, <XGParam:StrValue1/!FirstName/> ficou desconfiada
+
+ de seus esforços depois de descobrir extensos planos para centros de detenção subterrâneos."
+strCharacterBackgroundFemale[2]="<XGParam:StrValue1/!FirstName/> passou grande parte de sua vida como educadora em <XGParam:StrValue0/!CountryName/>, persistindo apesar das dificuldades da invasão. Quando alguns de seus alunos foram mortos em uma operação de pacificação da ADVENT, ela se juntou à resistência em busca de mudanças."
+strCharacterBackgroundFemale[3]="Rumores dizem que <XGParam:StrValue1/!FirstName/> era uma das melhores mecânicas restantes em <XGParam:StrValue0/!CountryName/> após a guerra. Tecnologia antiga, tecnologia nova, não importa. Se você pode quebrar, dizem que ela pode consertar."
+strCharacterBackgroundFemale[4]="As pessoas geralmente são desconfiadas com as mais silenciosas, e <XGParam:StrValue1/!FirstName/> é uma das engenheiras mais silenciosas que já encontramos. Originalmente de <XGParam:StrValue0/!CountryName/>, ela tem uma reputação de fazer milagres com a tecnologia alienígena."
+strCharacterBackgroundFemale[5]="Estamos sempre procurando mentes livres, inventores, inventores, qualquer pessoa que possa avançar nosso conhecimento da tecnologia alienígena. <XGParam:StrValue1/!FirstName/> era conhecida por seu trabalho em <XGParam:StrValue0/!CountryName/> experimentando com robótica de baixo custo antes da invasão. Exatamente o tipo de recruta que precisamos."
+strCharacterBackgroundFemale[6]="<XGParam:StrValue1/!FirstName/>, uma engenheira originalmente de <XGParam:StrValue0/!CountryName/>, tem um conhecimento quase suspeito no manuseio e armazenamento de Elerium. Quanto à forma como ela adquiriu essa habilidade única, ainda não temos certeza completa."
+strCharacterBackgroundFemale[7]="Originalmente de <XGParam:StrValue0/!CountryName/>, <XGParam:StrValue1/!FirstName/> já foi a Chefe de Engenharia em um navio naval experimental implantado nos primeiros dias da invasão. Embora ela tenha a reputação de exagerar suas estimativas de trabalho, ela também é conhecida como uma espécie de fazedora de milagres."
+strCharacterBackgroundFemale[8]="<XGParam:StrValue1/!FirstName/> era famosa por sua empresa de engenharia em uma pequena casa em <XGParam:StrValue0/!CountryName/>. Infelizmente para ela, a economia global desabou com o resto do mundo antigo, e sua tecnologia foi apropriada pela ADVENT."
+strCharacterBackgroundFemale[9]="<XGParam:StrValue1/!FirstName/> é um pouco rude, tendo passado os últimos anos conduzindo pesquisas de forma independente em <XGParam:StrValue0/!CountryName/>. Já faz um tempo desde que ela conviveu com outras pessoas, mas suas habilidades são muito valiosas para serem ignoradas."
+strCharacterBackgroundFemale[10]="Trabalhando como uma armeira clandestina em <XGParam:StrValue0/!CountryName/>, <XGParam:StrValue1/!FirstName/> era famosa por criar armas a partir de peças sobressalentes e materiais descartados considerados lixo."
+strCharacterBackgroundFemale[11]="<XGParam:StrValue1/!FirstName/> costumava trabalhar como mecânica de aviões em um dos principais centros de transporte em <XGParam:StrValue0/!CountryName/>. O Avenger pode ser um pouco diferente do que ela está acostumada, mas toda experiência conta."
+strCharacterBackgroundFemale[12]="Uma especialista de habilidades raras, <XGParam:StrValue1/!FirstName/> estudou metalurgia em <XGParam:StrValue0/!CountryName/>. Com a quantidade de materiais alienígenas incomuns com os quais lidamos, seus talentos são muito necessários."
+strCharacterBackgroundFemale[13]="No início da invasão, <XGParam:StrValue1/!FirstName/> trabalhava como astrônoma em <XGParam:StrValue0/!CountryName/>, especializando-se no projeto de rádio telescópios usados para observações astronômicas."
+strCharacterBackgroundFemale[14]="No passado, provavelmente você não encontraria uma mecânica de motores a diesel de <XGParam:StrValue0/!CountryName/> trabalhando como engenheira para XCOM. Os tempos mudaram, e <XGParam:StrValue1/!FirstName/> sem dúvida provará seu valor para a equipe."    
+
+[Cientista X2CharacterTemplate]
+strCharacterName="Cientista"
+strCharacterBackgroundMale[0]="Com muitas das principais universidades em <XGParam:StrValue0/!CountryName/> tendo sido destruídas durante a invasão, mentes brilhantes como a de <XGParam:StrValue1/!FirstName/> são um recurso raro. Ele está ansioso para contribuir com nossa equipe de pesquisa de qualquer forma possível."
+strCharacterBackgroundMale[1]="<XGParam:StrValue1/!FirstName/> foi descoberto pela ADVENT conduzindo experimentos usando tecnologia alienígena recuperada nas regiões remotas de <XGParam:StrValue0/!CountryName/>. De alguma forma, ele conseguiu escapar e ofereceu seu trabalho à resistência em troca de proteção."
+strCharacterBackgroundMale[2]="Embora <XGParam:StrValue1/!FirstName/> tenha nascido em <XGParam:StrValue0/!CountryName/> e passado muito tempo trabalhando em solidão, durante um breve período introdutório, ele trabalhou como colega do Dr. Tygan em uma das primeiras clínicas de terapia genética da ADVENT."
+strCharacterBackgroundMale[3]="Dizem que <XGParam:StrValue1/!FirstName/> era um químico bastante conhecido responsável por fabricar substâncias ilícitas em <XGParam:StrValue0/!CountryName/>. Aparentemente, sua operação era grande o suficiente para ameaçar os planos da ADVENT, e ele acabou na lista dos mais procurados."
+strCharacterBackgroundMale[4]="A resistência tem sido cautelosa em relação aos experimentos conduzidos por <XGParam:StrValue1/!FirstName/> em uma área remota de <XGParam:StrValue0/!CountryName/>, algo relacionado a vivissecções alienígenas. Neste momento, estamos desesperados por alguém com as habilidades certas, então ele terá que servir."
+strCharacterBackgroundMale[5]="Não temos certeza de que tipo de treinamento formal <XGParam:StrValue1/!FirstName/> teve antes da invasão em <XGParam:StrValue0/!CountryName/>, mas seu tempo como médico de campo lhe dá uma vantagem sobre a maioria dos candidatos que encontramos."
+strCharacterBackgroundMale[6]="<XGParam:StrValue1/!FirstName/> apareceu em um dos primeiros postos avançados da resistência em <XGParam:StrValue0/!CountryName/>, mas os habitantes locais ficaram preocupados com sua saúde mental após encontrá-lo tentando interrogar um Sectoide há muito tempo morto."
+strCharacterBackgroundMale[7]="Um dia considerado uma das mentes mais brilhantes no campo da astrofísica, <XGParam:StrValue1/!FirstName/> desapareceu em <XGParam:StrValue0/!CountryName/> logo após o início da invasão. Tendo reaparecido de repente, ele parece ansioso para ajudar a resistência de qualquer maneira possível."
+strCharacterBackgroundMale[8]="Tendo trabalhado como educador em <XGParam:StrValue0/!CountryName/> por grande parte de sua vida, <XGParam:StrValue1/!FirstName/> possui uma grande experiência quando se trata de ensinar e treinar outras pessoas, um ativo valioso para uma organização como a nossa."
+strCharacterBackgroundMale[9]="Um dos maiores especialistas em tecnologia de robótica, <XGParam:StrValue1/!FirstName/> escapou do ataque alienígena inicial em <XGParam:StrValue0/!CountryName/> com a ajuda de uma armadura de sua própria criação. Rumores dizem que seus conceitos originais podem ter influenciado os MECs da ADVENT que vemos hoje."
+strCharacterBackgroundMale[10]="<XGParam:StrValue1/!FirstName/> era um farmacêutico que trabalhava em uma pequena clínica em <XGParam:StrValue0/!CountryName/> antes das forças de pacificação da ADVENT destruírem a instalação em um esforço para encorajar a migração para um dos centros urbanos."
+strCharacterBackgroundMale[11]="O boato predominante é que <XGParam:StrValue1/!FirstName/> estava envolvido em algum tipo de projeto de pesquisa patrocinado pelo governo em <XGParam:StrValue0/!CountryName/>, lidando com viagens no tempo. Aparentemente, não deu certo."
+strCharacterBackgroundMale[12]="Ao travar uma guerra pessoal contra os alienígenas, <XGParam:StrValue1/!FirstName/> lançou várias armas químicas não testadas no ambiente em <XGParam:StrValue0/!CountryName/> na esperança de repelir as forças de paz da ADVENT."
+strCharacterBackgroundMale[13]="<XGParam:StrValue1/!FirstName/> foi um dos primeiros em <XGParam:StrValue0/!CountryName/> a descobrir a verdade sobre os soldados híbridos da ADVENT. Infelizmente, seus esforços para convencer as pessoas de suas descobertas o colocaram imediatamente em uma lista de colaboradores da resistência."
+strCharacterBackgroundMale[14]="<XGParam:StrValue1/!FirstName/> tem sido evasivo sobre qual era exatamente sua formação antes de se juntar à resistência em <XGParam:StrValue0/!CountryName/>. Pelas conversas iniciais, fica claro que, no mínimo, ele teve uma educação extensiva."
+strCharacterBackgroundFemale[0]="Com muitas das principais universidades em <XGParam:StrValue0/!CountryName/> tendo sido destruídas durante a invasão, mentes brilhantes como a de <XGParam:StrValue1/!FirstName/> são um recurso raro. Ela está ansiosa para contribuir com nossa equipe de pesquisa de qualquer forma possível."
+strCharacterBackgroundFemale[1]="<XGParam:StrValue1/!FirstName/> foi descoberta pela ADVENT conduzindo experimentos usando tecnologia alienígena recuperada nas regiões remotas de <XGParam:StrValue0/>. De alguma forma, ela conseguiu escapar e ofereceu seu trabalho à resistência em troca de proteção."
+strCharacterBackgroundFemale[2]="Embora <XGParam:StrValue1/!FirstName/> tenha nascido em <XGParam:StrValue0/!CountryName/> e passado muito tempo trabalhando em solidão, durante um breve período introdutório, ela trabalhou como colega do Dr. Tygan em uma das primeiras clínicas de terapia genética da ADVENT."
+strCharacterBackgroundFemale[3]="Dizem que <XGParam:StrValue1/!FirstName/> era uma química bastante conhecida responsável por fabricar substâncias ilícitas em <XGParam:StrValue0/!CountryName/>. Aparentemente, sua operação era grande o suficiente para ameaçar os planos da ADVENT, e ela acabou na lista dos mais procurados."
+strCharacterBackgroundFemale[4]="A resistência tem sido cautelosa em relação aos experimentos conduzidos por <XGParam:StrValue1/!FirstName/> em uma área remota de <XGParam:StrValue0/!CountryName/>, algo relacionado a vivissecções alienígenas. Neste momento, estamos desesperados por alguém com as habilidades certas, então ela terá que servir."
+strCharacterBackgroundFemale[5]="Não temos certeza de que tipo de treinamento formal <XGParam:StrValue1/!FirstName/> teve antes da invasão em <XGParam:StrValue0/!CountryName/>, mas seu tempo como médica de campo lhe dá uma vantagem sobre a maioria dos candidatos que encontramos."
+strCharacterBackgroundFemale[6]="<XGParam:StrValue1/!FirstName/> apareceu em um dos primeiros postos avançados da resistência em <XGParam:StrValue0/!CountryName/>, mas os habitantes locais ficaram preocupados com sua saúde mental após encontrá-la tentando interrogar um Sectoide há muito tempo morto."
+strCharacterBackgroundFemale[7]="Um dia considerada uma das mentes mais brilhantes no campo da astrofísica, <XGParam:StrValue1/!FirstName/> desapareceu em <XGParam:StrValue0/!CountryName/> logo após o início da invasão. Tendo reaparecido de repente, ela parece ansiosa para ajudar a resistência de qualquer maneira possível."
+strCharacterBackgroundFemale[8]="Tendo trabalhado como educadora em <XGParam:StrValue0/!CountryName/> por grande parte de sua vida, <XGParam:StrValue1/!FirstName/> possui uma grande experiência quando se trata de ensinar e treinar outras pessoas, um ativo valioso para uma organização como a nossa."
+strCharacterBackgroundFemale[9]="Uma das principais especialistas em tecnologia robótica, <XGParam:StrValue1/!FirstName/> escapou do ataque alienígena inicial em <XGParam:StrValue0/!CountryName/> com a ajuda de um traje blindado de sua própria criação. Rumores dizem que seus conceitos originais podem ter influenciado os MECs da ADVENT que vemos hoje."
+strCharacterBackgroundFemale[10]="<XGParam:StrValue1/!FirstName/> trabalhava como farmacêutica em uma pequena clínica em <XGParam:StrValue0/!CountryName/> antes que as forças de paz da ADVENT destruíssem as instalações em um esforço para incentivar a migração para um dos centros da cidade."
+strCharacterBackgroundFemale[11]="O rumor predominante é que <XGParam:StrValue1/!FirstName/> estava envolvida em algum tipo de projeto de pesquisa patrocinado pelo governo em <XGParam:StrValue0/!CountryName/> relacionado a viagens no tempo. Aparentemente, não deu certo."
+strCharacterBackgroundFemale[12]="Ao travar uma guerra pessoal contra os alienígenas, <XGParam:StrValue1/!FirstName/> lançou várias armas químicas não testadas no ambiente em <XGParam:StrValue0/!CountryName/> na esperança de repelir as forças de paz da ADVENT."
+strCharacterBackgroundFemale[13]="<XGParam:StrValue1/!FirstName/> foi uma das primeiras em <XGParam:StrValue0/!CountryName/> a descobrir a verdade sobre os soldados híbridos da ADVENT. Infelizmente, seus esforços para convencer as pessoas de suas descobertas a colocaram imediatamente em uma lista de colaboradores da resistência."
+strCharacterBackgroundFemale[14]="<XGParam:StrValue1/!FirstName/> tem sido evasiva sobre qual era exatamente sua formação antes de se juntar à resistência em <XGParam:StrValue0/!CountryName/>. Pelas conversas iniciais, fica claro que, no mínimo, ela teve uma educação extensiva."
 
 [Soldier X2CharacterTemplate]
-strCharacterName="Soldier"
-strCharacterBackgroundMale[0]="Raised in a remote community in <XGParam:StrValue0/!CountryName/>, <XGParam:StrValue1/!FirstName/> learned the art of survival at an early age. Instilled with a strong sense of self-reliance, he's eager to do his part to take back the Earth."
-strCharacterBackgroundMale[1]="People say <XGParam:StrValue1/!FirstName/> lost it and went rogue after learning that Earth's governments had surrendered to the aliens. The prevailing rumor is that he's spent most of his time since in <XGParam:StrValue0/!CountryName/>, hunting aliens for sport."
-strCharacterBackgroundMale[2]="<XGParam:StrValue1/!FirstName/> was was separated from his family during the invasion. He wound up fighting his way across <XGParam:StrValue0/!CountryName/>, apparently surviving on his own for the past several years."
-strCharacterBackgroundMale[3]="Born and raised in <XGParam:StrValue0/!CountryName/>, <XGParam:StrValue1/!FirstName/> is something of a wild card, with no formal training to speak of. He may be just the kind of recruit XCOM needs."
-strCharacterBackgroundMale[4]="Word circulating among the troops is that <XGParam:StrValue1/!FirstName/> was actually a convict being held in <XGParam:StrValue0/!CountryName/> until recently. Since his release, he's developed a grisly reputation for collecting trophies off of enemy combatants."
-strCharacterBackgroundMale[5]="<XGParam:StrValue1/!FirstName/> carries himself like a military veteran, but has been reluctant to speak about the details of his past service in <XGParam:StrValue0/!CountryName/>. C.O. Bradford note: let sleeping dogs lie."
-strCharacterBackgroundMale[6]="Serving as part of an irregular militia outfit in <XGParam:StrValue0/!CountryName/> known simply as the Warriors, <XGParam:StrValue1/!FirstName/> was wounded and later captured by ADVENT. We're not entirely sure why he wasn't processed with the other prisoners." 
-strCharacterBackgroundMale[7]="Back in <XGParam:StrValue0/!CountryName/>, <XGParam:StrValue1/!FirstName/> is the subject of longstanding rumors as to his involvement in covert military operations. He'll have plenty of opportunities to prove himself in the coming weeks." 
-strCharacterBackgroundMale[8]="There are concerns among the resistance regarding speculation that several recent recruits may have actually been escapees from a high-security prison facility in <XGParam:StrValue0/!CountryName/>. <XGParam:StrValue1/!FirstName/> is on their list of possible detainees, but at this point, we're not in a position to turn away skilled fighters regardless of where they've been."
-strCharacterBackgroundMale[9]="<XGParam:StrValue1/!FirstName/> was caught by alien forces outside of one of the city centers in <XGParam:StrValue0/!CountryName/>. Using a stolen vehicle, he apparently rammed one of the ADVENT security towers in the hopes of uprooting it. Obviously it didn't work out, but we like his instincts."  
-strCharacterBackgroundFemale[0]="Raised in a remote community in <XGParam:StrValue0/!CountryName/>, <XGParam:StrValue1/!FirstName/> learned the art of survival at an early age. Instilled with a strong sense of self-reliance, she's eager to do her part to take back the Earth."
-strCharacterBackgroundFemale[1]="People say <XGParam:StrValue1/!FirstName/> lost it and went rogue after learning that Earth's governments had surrendered to the aliens. The prevailing rumor is that she's spent most of her time since in <XGParam:StrValue0/!CountryName/>, hunting aliens for sport."
-strCharacterBackgroundFemale[2]="<XGParam:StrValue1/!FirstName/> was separated from her family during the invasion. She wound up fighting her way across <XGParam:StrValue0/!CountryName/>, apparently surviving on her own for the past several years."
-strCharacterBackgroundFemale[3]="Born and raised in <XGParam:StrValue0/!CountryName/>, <XGParam:StrValue1/!FirstName/> is something of a wild card, with no formal training to speak of. She may be just the kind of recruit XCOM needs." 
-strCharacterBackgroundFemale[4]="Word circulating among the troops is that <XGParam:StrValue1/!FirstName/> was actually a convict being held in <XGParam:StrValue0/!CountryName/> until recently. Since her release, she's developed a grisly reputation for collecting trophies off of enemy combatants." 
-strCharacterBackgroundFemale[5]="<XGParam:StrValue1/!FirstName/> carries herself like a military veteran, but has been reluctant to speak about the details of her past service in <XGParam:StrValue0/!CountryName/>. C.O. Bradford note: let sleeping dogs lie."
-strCharacterBackgroundFemale[6]="Serving as part of an irregular militia outfit in <XGParam:StrValue0/!CountryName/> known simply as the Warriors, <XGParam:StrValue1/!FirstName/> was wounded and later captured by ADVENT. We're not entirely sure why she wasn't processed with the other prisoners." 
-strCharacterBackgroundFemale[7]="Back in <XGParam:StrValue0/!CountryName/>, <XGParam:StrValue1/!FirstName/> is the subject of longstanding rumors as to her involvement in covert military operations. She'll have plenty of opportunities to prove herself in the coming weeks." 
-strCharacterBackgroundFemale[8]="There are concerns among the resistance regarding speculation that several recent recruits may have actually been escapees from a high-security prison facility in <XGParam:StrValue0/!CountryName/>. <XGParam:StrValue1/!FirstName/> is on their list of possible detainees, but at this point, we're not in a position to turn away skilled fighters regardless of where they've been."
-strCharacterBackgroundFemale[9]="<XGParam:StrValue1/!FirstName/> was caught by alien forces outside of one of the city centers in <XGParam:StrValue0/!CountryName/>. Using a stolen vehicle, she apparently rammed one of the ADVENT security towers in the hopes of uprooting it. Obviously it didn't work out, but we like her instincts." 
+strCharacterName="Soldado"
+strCharacterBackgroundMale[0]="Criado em uma comunidade remota em <XGParam:StrValue0/!CountryName/>, <XGParam:StrValue1/!FirstName/> aprendeu a arte da sobrevivência desde cedo. Com um forte senso de autonomia, ele está ansioso para fazer sua parte para reconquistar a Terra."
+strCharacterBackgroundMale[1]="As pessoas dizem que <XGParam:StrValue1/!FirstName/> enlouqueceu e se tornou independente depois de descobrir que os governos da Terra haviam se rendido aos alienígenas. O rumor predominante é que ele passou a maior parte do tempo desde então em <XGParam:StrValue0/!CountryName/>, caçando alienígenas por esporte."
+strCharacterBackgroundMale[2]="<XGParam:StrValue1/!FirstName/> foi separado de sua família durante a invasão. Ele acabou lutando em <XGParam:StrValue0/!CountryName/>, aparentemente sobrevivendo por conta própria nos últimos anos."
+strCharacterBackgroundMale[3]="Nascido e criado em <XGParam:StrValue0/!CountryName/>, <XGParam:StrValue1/!FirstName/> é uma espécie de curinga, sem treinamento formal para falar a verdade. Ele pode ser exatamente o tipo de recruta que a XCOM precisa."
+strCharacterBackgroundMale[4]="O boato entre as tropas é que <XGParam:StrValue1/!FirstName/> era na verdade um criminoso mantido em custódia em <XGParam:StrValue0/!CountryName/> até recentemente. Desde sua libertação, ele desenvolveu uma reputação sombria por coletar troféus de combatentes inimigos."
+strCharacterBackgroundMale[5]="<XGParam:StrValue1/!FirstName/> se comporta como um veterano militar, mas tem sido relutante em falar sobre os detalhes de seu serviço passado em <XGParam:StrValue0/!CountryName/>. Nota do Comandante Bradford: é melhor não mexer no passado."
+strCharacterBackgroundMale[6]="Fazendo parte de um grupo irregular de milicianos em <XGParam:StrValue0/!CountryName/>, conhecidos simplesmente como Guerreiros, <XGParam:StrValue1/!FirstName/> foi ferido e posteriormente capturado pela ADVENT. Não temos certeza do motivo pelo qual ele não foi processado junto com os outros prisioneiros."
+strCharacterBackgroundMale[7]="De volta a <XGParam:StrValue0/!CountryName/>, <XGParam:StrValue1/!FirstName/> é objeto de rumores de longa data sobre seu envolvimento em operações militares secretas. Ele terá muitas oportunidades de provar seu valor nas próximas semanas."
+strCharacterBackgroundMale[8]="Há preocupações entre a resistência com especulações de que vários recrutas recentes podem ter sido fugitivos de uma instalação prisional de segurança máxima em <XGParam:StrValue0/!CountryName/>. <XGParam:StrValue1/!FirstName/> está na lista de possíveis detidos, mas neste momento, não estamos em posição de rejeitar combatentes habilidosos, independentemente de onde tenham estado."
+strCharacterBackgroundMale[9]="<XGParam:StrValue1/!FirstName/> foi capturado pelas forças alienígenas nas proximidades de um dos centros da cidade em <XGParam:StrValue0/!CountryName/>. Usando um veículo roubado, ele aparentemente colidiu com uma das torres de segurança da ADVENT na esperança de derrubá-la. Obviamente, não deu certo, mas gostamos de seus instintos."
+
+strCharacterBackgroundFemale[4]="O boato entre as tropas é que <XGParam:StrValue1/!FirstName/> era na verdade uma criminosa mantida em custódia em <XGParam:StrValue0/!CountryName/> até recentemente. Desde sua libertação, ela desenvolveu uma reputação sombria por coletar troféus de combatentes inimigos."
+strCharacterBackgroundFemale[5]="<XGParam:StrValue1/!FirstName/> se comporta como uma veterana militar, mas tem sido relutante em falar sobre os detalhes de seu serviço passado em <XGParam:StrValue0/!CountryName/>. Nota do Comandante Bradford: é melhor não mexer no passado."
+strCharacterBackgroundFemale[6]="Fazendo parte de um grupo irregular de milicianos em <XGParam:StrValue0/!CountryName/>, conhecidos simplesmente como Guerreiros, <XGParam:StrValue1/!FirstName/> foi ferida e posteriormente capturada pela ADVENT. Não temos certeza do motivo pelo qual ela não foi processada junto com as outras prisioneiras."
+strCharacterBackgroundFemale[7]="De volta a <XGParam:StrValue0/!CountryName/>, <XGParam:StrValue1/!FirstName/> é objeto de rumores de longa data sobre seu envolvimento em operações militares secretas. Ela terá muitas oportunidades de provar seu valor nas próximas semanas."
+strCharacterBackgroundFemale[8]="Há preocupações entre a resistência com especulações de que várias recrutas recentes podem ter sido fugitivas de uma instalação prisional de segurança máxima em <XGParam:StrValue0/!CountryName/>. <XGParam:StrValue1/!FirstName/> está na lista de possíveis detidas, mas neste momento, não estamos em posição de rejeitar combatentes habilidosas, independentemente de onde tenham estado."
+strCharacterBackgroundFemale[9]="<XGParam:StrValue1/!FirstName/> foi capturada pelas forças alienígenas nas proximidades de um dos centros da cidade em <XGParam:StrValue0/!CountryName/>. Usando um veículo roubado, ela aparentemente colidiu com uma das torres de segurança da ADVENT na esperança de derrubá-la. Obviamente, não deu certo, mas gostamos de seus instintos."
 
 [X2Item_DefaultGrenades]
-SmokeGrenadeEffectDisplayName="Defensive Smoke"
-SmokeGrenadeEffectDisplayDesc="The thick smoke grants this unit a defensive bonus."
+SmokeGrenadeEffectDisplayName="Fumaça Defensiva"
+SmokeGrenadeEffectDisplayDesc="A espessa fumaça concede a esta unidade um bônus defensivo."
 
 [X2Item_DefaultUpgrades]
-FreeReloadAbilityName="Free Reload"
-UpgradeBlackMarketTexts="Strap one of these bad boys on your weapon to unlock its true, lethal potential. Duct tape not included."
+FreeReloadAbilityName="Recarregar Grátis"
+UpgradeBlackMarketTexts="Acople um desses caras maus à sua arma para liberar seu verdadeiro e letal potencial. Fita adesiva não incluída."
 
 [X2Item_DefaultResources]
-PCSBlackMarketTexts="We don't have much use for combat simulations around here. We prefer to fight in, shall we say, subtler ways."
+PCSBlackMarketTexts="Por aqui, não temos muita utilidade para simulações de combate. Preferimos lutar de forma, digamos, mais sutil."
 
 [X2AbilityTemplate]
-LocDefaultPrimaryWeapon="primary weapon"
-LocDefaultSecondaryWeapon="secondary weapon"
+LocDefaultPrimaryWeapon="arma primária"
+LocDefaultSecondaryWeapon="arma secundária"
 
 [StandardShot X2AbilityTemplate]
-LocFriendlyName="Fire Weapon"
-LocHelpText="Fire a shot at a target. <Ability:CANNOTBEDODGED/>"
-LocLongDescription="<Bullet/>Firing the primary weapon always ends a unit's turn."
+LocFriendlyName="Disparar Arma"
+LocHelpText="Dispare um tiro em um alvo. Ability:CANNOTBEDODGED/"
+LocLongDescription="<Bullet/> Disparar a arma primária sempre encerra o turno de uma unidade."
 
 [StandardShot_NoEnd X2AbilityTemplate]
-LocFriendlyName="Fire Weapon"
-LocHelpText="Fire a shot at a target. This does not end the turn."
-LocLongDescription="<Bullet/>Firing this weapon does not end a unit's turn."
+LocFriendlyName="Disparar Arma"
+LocHelpText="Dispare um tiro em um alvo. Isso não encerra o turno."
+LocLongDescription="<Bullet/> Disparar esta arma não encerra o turno de uma unidade."
 
 [PistolStandardShot X2AbilityTemplate]
-LocFriendlyName="Fire Pistol"
-LocLongDescription="You have been trained to effectively utilize the full flexibility of a pistol as a complement to your sniper rifle."
-LocHelpText="Fire your pistol at a target."
+LocFriendlyName="Disparar Pistola"
+LocLongDescription="Você foi treinado para utilizar efetivamente a flexibilidade total de uma pistola como complemento para o seu rifle de precisão."
+LocHelpText="Dispare sua pistola em um alvo."
 LocFlyOverText=""
 
 [SniperStandardFire X2AbilityTemplate]
-LocFriendlyName="Fire Sniper Rifle"
-LocHelpText="Fire your sniper rifle at a target."
-LocLongDescription="<Bullet/> The sniper rifle is powerful and accurate at long range, but always requires two actions to fire<br><Bullet/>Firing the primary weapon always ends a soldier's turn<br>"
+LocFriendlyName="Disparar Rifle de Precisão"
+LocHelpText="Dispare seu rifle de precisão em um alvo."
+LocLongDescription="<Bullet/> O rifle de precisão é poderoso e preciso a longa distância, mas sempre requer duas ações para disparar<br><Bullet/> Disparar a arma primária sempre encerra o turno de um soldado<br>"
 
 [StandardMove X2AbilityTemplate]
-LocFriendlyName=Move
-LocHelpText="Move to anywhere within the blue bounds as a single action, or spend both actions to dash to any space within the yellow bounds."
+LocFriendlyName="Mover"
+LocHelpText="Mova-se para qualquer lugar dentro dos limites azuis como uma única ação, ou gaste ambas as ações para correr para qualquer espaço dentro dos limites amarelos."
 
 [ThrowGrenade X2AbilityTemplate]
-LocFriendlyName="Throw Grenade"
-LocHelpText="Throw a grenade at the target area."
+LocFriendlyName="Lançar Granada"
+LocHelpText="Lance uma granada na área-alvo."
+
+[Translation]
 
 [MedikitHeal X2AbilityTemplate]
-LocFriendlyName="Medikit Heal"
-LocHelpText="Heal up to <Ability:MEDIKITPERUSEHP/> HP. Does not affect robotic allies.\n"
+LocFriendlyName="Cura com Kit Médico"
+LocHelpText="Cura até <Ability:MEDIKITPERUSEHP/> de HP. Não afeta aliados robóticos.\n"
 
 [NanoMedikitHeal X2AbilityTemplate]
-LocFriendlyName="Nanomedikit Heal"
-LocHelpText="Heal up to <Ability:NANOMEDIKITHEALHP/> HP. Does not affect robotic allies.\n"
+LocFriendlyName="Cura com Nanokit Médico"
+LocHelpText="Cura até <Ability:NANOMEDIKITHEALHP/> de HP. Não afeta aliados robóticos.\n"
 
 [MedikitStabilize X2AbilityTemplate]
-LocFriendlyName="Stabilize"
-LocHelpText="Stop a soldier from bleeding out."
-LocFlyOverText="Stabilized"
+LocFriendlyName="Estabilizar"
+LocHelpText="Impede que um soldado sangre até a morte."
+LocFlyOverText="Estabilizado"
 
 [Overwatch X2AbilityTemplate]
-LocFriendlyName="Overwatch"
-LocHelpText="Fire on the first enemy that moves within your line of sight, with a penalty to aim."
-LocLongDescriptionWhenConcealed="Fire on the first enemy that moves within your line of sight, but only if revealed."
-LocFlyOverText="Overwatch"
-LocFriendlyNameWhenConcealed="Overwatch (Concealed)"
+LocFriendlyName="Vigilância"
+LocHelpText="Dispare no primeiro inimigo que se mover dentro do seu campo de visão, com penalidade de mira."
+LocLongDescriptionWhenConcealed="Dispare no primeiro inimigo que se mover dentro do seu campo de visão, mas somente se for revelado."
+LocFlyOverText="Vigilância"
+LocFriendlyNameWhenConcealed="Vigilância (Encoberto)"
 
 [SniperRifleOverwatch X2AbilityTemplate]
-LocFriendlyName="Overwatch"
-LocHelpText="Fire on the first enemy that moves within your line of sight, with a penalty to to aim."
-LocLongDescriptionWhenConcealed="Fire on the first enemy that moves within your line of sight, but only if revealed."
-LocFlyOverText="Overwatch"
-LocFriendlyNameWhenConcealed="Overwatch (Concealed)"
+LocFriendlyName="Vigilância"
+LocHelpText="Dispare no primeiro inimigo que se mover dentro do seu campo de visão, com penalidade de mira."
+LocLongDescriptionWhenConcealed="Dispare no primeiro inimigo que se mover dentro do seu campo de visão, mas somente se for revelado."
+LocFlyOverText="Vigilância"
+LocFriendlyNameWhenConcealed="Vigilância (Encoberto)"
 
 [PistolOverwatch X2AbilityTemplate]
-LocFriendlyName="Pistol Overwatch"
-LocHelpText="Use your pistol to fire on the first enemy that moves within your line of sight, with a penalty to aim."
-LocLongDescriptionWhenConcealed="Fire on the first enemy that moves within your line of sight, but only if revealed."
-LocFlyOverText="Pistol Overwatch"
-LocFriendlyNameWhenConcealed="Pistol Overwatch (Concealed)"
+LocFriendlyName="Vigilância com Pistola"
+LocHelpText="Use sua pistola para disparar no primeiro inimigo que se mover dentro do seu campo de visão, com penalidade de mira."
+LocLongDescriptionWhenConcealed="Dispare no primeiro inimigo que se mover dentro do seu campo de visão, mas somente se for revelado."
+LocFlyOverText="Vigilância com Pistola"
+LocFriendlyNameWhenConcealed="Vigilância com Pistola (Encoberto)"
 
 [PistolReturnFire X2AbilityTemplate]
-LocFriendlyName="Return Fire"
-LocHelpText="Automatically returns fire using your pistol when shot at."
+LocFriendlyName="Contrafogo com Pistola"
+LocHelpText="Automaticamente dispara sua pistola em retaliação quando for atacado."
 
 [OverwatchShot X2AbilityTemplate]
-LocFriendlyName="Overwatch Shot"
+LocFriendlyName="Disparo de Vigilância"
 
 [PistolOverwatchShot X2AbilityTemplate]
-LocFriendlyName="Pistol Overwatch Shot"
+LocFriendlyName="Disparo de Vigilância com Pistola"
 
 [Reload X2AbilityTemplate]
-LocFriendlyName="Reload"
-LocHelpText="Reload your primary weapon."
-LocFlyOverText="Reloading"
+LocFriendlyName="Recarregar"
+LocHelpText="Recarregue sua arma primária."
+LocFlyOverText="Recarregando"
 
 [PlantExplosiveMissionDevice X2AbilityTemplate]
-LocFriendlyName=Plant X4
-LocHelpText=Place an X4 charge on the target location.
+LocFriendlyName="Plantar C4"
+LocHelpText="Coloque um explosivo C4 na localização-alvo."
 
 [Interact X2AbilityTemplate]
-LocFriendlyName="Interact"
-LocHelpText="Open or close a door or hatch; or operate a mission-critical device."
+LocFriendlyName="Interagir"
+LocHelpText="Abrir ou fechar uma porta ou escotilha; ou operar um dispositivo essencial para a missão."
 
 [Interact_PlantBomb X2AbilityTemplate]
-LocFriendlyName="Plant X4"
-LocHelpText="Places an X4 charge on the target location."
+LocFriendlyName="Colocar C4"
+LocHelpText="Coloca um explosivo C4 na localização-alvo."
 
 [Interact_OpenDoor X2AbilityTemplate]
-LocFriendlyName="Open/Close Door"
-LocHelpText="Open or close a door or hatch."
+LocFriendlyName="Abrir/Fechar Porta"
+LocHelpText="Abrir ou fechar uma porta ou escotilha."
 
 [Interact_OpenChest X2AbilityTemplate]
-LocFriendlyName="Open/Close Chest"
-LocHelpText="Open or close a chest."
+LocFriendlyName="Abrir/Fechar Baú"
+LocHelpText="Abrir ou fechar um baú."
 
 [Interact_TakeVial X2AbilityTemplate]
-LocFriendlyName="Take Vial"
-LocHelpText="Take the vial from the pedestal."
+LocFriendlyName="Pegar Frasco"
+LocHelpText="Pegar o frasco do pedestal."
 
 [Interact_StasisTube X2AbilityTemplate]
-LocFriendlyName="Open Stasis Tube"
-LocHelpText="Opens the Advent Stasis Tube."
+LocFriendlyName="Abrir Tubo de Estase"
+LocHelpText="Abre o Tubo de Estase da ADVENT."
 
 [Hack X2AbilityTemplate]
-LocFriendlyName="Hack"
-LocHelpText="Attempt to breach security on an adjacent network access point."
-LocFlyOverText="Hacking"
+LocFriendlyName="Hackear"
+LocHelpText="Tentar invadir a segurança de um ponto de acesso de rede adjacente."
+LocFlyOverText="Hackeando"
 
 [Hack_Chest X2AbilityTemplate]
-LocFriendlyName="Hack Chest"
-LocHelpText="Attempt to breach security on an adjacent chest."
-LocFlyOverText="Hacking"
+LocFriendlyName="Hackear Baú"
+LocHelpText="Tentar invadir a segurança de um baú adjacente."
+LocFlyOverText="Hackeando"
 
 [Hack_Workstation X2AbilityTemplate]
-LocFriendlyName="Hack Workstation"
-LocHelpText="Attempt to breach security on an adjacent workstation."
-LocFlyOverText="Hacking"
+LocFriendlyName="Hackear Estação de Trabalho"
+LocHelpText="Tentar invadir a segurança de uma estação de trabalho adjacente."
+LocFlyOverText="Hackeando"
 
 [Hack_ObjectiveChest X2AbilityTemplate]
-LocFriendlyName="Hack Chest"
-LocHelpText="Hacks the objective chest."
+LocFriendlyName="Hackear Baú"
+LocHelpText="Hackeia o baú de objetivo."
 
 [Panicked X2AbilityTemplate]
-LocFriendlyName="Panicked"
-LocFlyOverText="Panicked!"
-LocMissMessage="Panic Resisted!"
+LocFriendlyName="Apavorado"
+LocFlyOverText="Apavorado!"
+LocMissMessage="Resistiu ao Pânico!"
 
 [ShakenPassive X2AbilityTemplate]
-LocFriendlyName="Shaken"
-LocFlyOverText="Shaken!"
-LocHelpText="This soldier is shaken by the stress of a previous injury and is suffering a Will penalty."
-LocLongDescription="This soldier is shaken by the stress of a previous injury and is suffering a Will penalty."
+LocFriendlyName="Abalado"
+LocFlyOverText="Abalado!"
+LocHelpText="Este soldado está abalado pelo estresse de uma lesão anterior e está sofrendo uma penalidade de Vontade."
+LocLongDescription="Este soldado está abalado pelo estresse de uma lesão anterior e está sofrendo uma penalidade de Vontade."
 
 [Loot X2AbilityTemplate]
-LocFriendlyName=Search
-LocHelpText="Recover items or artifacts from an adjacent enemy corpse and all others in the area. Does not cost an action."
+LocFriendlyName="Buscar"
+LocHelpText="Recuperar itens ou artefatos de um cadáver inimigo adjacente e de todos os outros na área. Não consome uma ação."
 
 [HunkerDown X2AbilityTemplate]
-LocFriendlyName="Hunker Down"
-LocHelpText="Increase Defense by <Ability:HUNKERDEFENSEBONUS/>, and Dodge by <Ability:HUNKERDODGEBONUS/>. Only works in cover."
-LocFlyOverText="Hunker Down"
+LocFriendlyName="Abaixar-se"
+LocHelpText="Aumentar a Defesa em <Ability:HUNKERDEFENSEBONUS/>, e Esquiva em <Ability:HUNKERDODGEBONUS/>. Funciona apenas em cobertura."
+LocFlyOverText="Abaixar-se"
 
 [CarryUnit X2AbilityTemplate]
-LocFriendlyName=Carry Unit
-LocHelpText="Pick up the target unit and carry them with you."
-LocFlyOverText=Picked Up Unit
+LocFriendlyName="Carregar Unidade"
+LocHelpText="Pegue a unidade-alvo e carregue-a com você."
+LocFlyOverText="Unidade Carregada"
 
 [PutDownUnit X2AbilityTemplate]
-LocFriendlyName=Put Down Unit
-LocHelpText="Place the unit you are carrying at your feet."
-LocFlyOverText=Put Down Unit
+LocFriendlyName="Colocar Unidade"
+LocHelpText="Coloque a unidade que você está carregando em seus pés."
+LocFlyOverText="Colocar Unidade"
 
 [RocketLauncher X2AbilityTemplate]
-LocFriendlyName="Rocket Launcher"
-LocHelpText="Fire a rocket at target area."
+LocFriendlyName="Lançador de Foguetes"
+LocHelpText="Dispare um foguete na área-alvo."
 
 [Flamethrower X2AbilityTemplate]
-LocFriendlyName="Fire Flamethrower"
-LocHelpText="Spray flames in a cone-shaped area."
+LocFriendlyName="Lançar Lança-Chamas"
+LocHelpText="Disparar chamas em uma área em formato de cone."
 
 [FlamethrowerMk2 X2AbilityTemplate]
-LocFriendlyName="Hellfire Projector"
-LocHelpText="Spray flames in a cone-shaped area."
+LocFriendlyName="Projetor Infernal"
+LocHelpText="Disparar chamas em uma área em formato de cone."
 
 [BlasterLauncher X2AbilityTemplate]
-LocFriendlyName="Blaster Bomb"
-LocHelpText="Fire a guided Blaster Bomb at a target area."
+LocFriendlyName="Bomba Blaster"
+LocHelpText="Disparar uma Bomba Blaster guiada em uma área-alvo."
 
 [ShredderGun X2AbilityTemplate]
-LocFriendlyName="Fire Shredder Gun"
-LocHelpText="Fire your Shredder Gun at a cone-shaped area."
+LocFriendlyName="Disparo de Canhão Destruidor"
+LocHelpText="Disparar seu Canhão Destruidor em uma área em formato de cone."
 
 [ShredstormCannon X2AbilityTemplate]
-LocFriendlyName="Shredstorm Cannon"
-LocHelpText="Fire your Shredstorm Cannon."
+LocFriendlyName="Canhão Shredstorm"
+LocHelpText="Disparar seu Canhão Shredstorm."
 
 [PlasmaBlaster X2AbilityTemplate]
-LocFriendlyName="Plasma Blaster"
-LocHelpText="Fire your Plasma Blaster."
+LocFriendlyName="Blaster de Plasma"
+LocHelpText="Disparar seu Blaster de Plasma."
 
 [ExplosiveDeviceDetonate X2AbilityTemplate]
-LocFriendlyName=Detonate X4
-LocHelpText="Detonates all armed X4 on the map."
+LocFriendlyName="Detonar C4"
+LocHelpText="Detona todos os C4 armados no mapa."
 
 [SKULLJACKAbility X2AbilityTemplate]
 LocFriendlyName="Skulljack"
-LocHelpText="Attack an adjacent enemy with your Skulljack."
-LocLongDescription="The Skulljack can grant access to the neural chips in certain enemies, but requires melee range to activate."
+LocHelpText="Atacar um inimigo adjacente com seu Skulljack."
+LocLongDescription="O Skulljack pode conceder acesso aos chips neurais em certos inimigos, mas requer alcance corpo a corpo para ativar."
 
 [SKULLMINEAbility X2AbilityTemplate]
 LocFriendlyName="Skullmine"
-LocHelpText="Attempt to hack the neural network of ADVENT soldiers at melee range and gain access to enemy intel."
-LocLongDescription="Attempt to hack the neural network of ADVENT soldiers at melee range and gain access to enemy intel."
+LocHelpText="Tentar hackear a rede neural de soldados da ADVENT em alcance corpo a corpo e obter acesso a informações inimigas."
+LocLongDescription="Tentar hackear a rede neural de soldados da ADVENT em alcance corpo a corpo e obter acesso a informações inimigas."
 
 [Knockout X2AbilityTemplate]
-LocFriendlyName="Subdue"
-LocHelpText="Renders a hostile VIP unconscious, allowing them to be carried."
-LocFlyOverText="Knocked Unconscious"
+LocFriendlyName="Imobilizar"
+LocHelpText="Deixa um VIP hostil inconsciente, permitindo que ele seja carregado."
+LocFlyOverText="Desmaiado"
 
 ;**********************************************************************************************
-;***                                    Alien Abilities                                     ***
+;***                                  Habilidades Alienígenas                                ***
 ;**********************************************************************************************
 
 [StandardMelee X2AbilityTemplate]
-LocFriendlyName="Melee Attack"
-LocLongDescription="Make a melee attack against an adjacent target."
-LocHelpText="Make a melee attack against an adjacent target."
+LocFriendlyName="Ataque Corpo a Corpo"
+LocLongDescription="Realize um ataque corpo a corpo contra um alvo adjacente."
+LocHelpText="Realize um ataque corpo a corpo contra um alvo adjacente."
 
 [StandardMovingMelee X2AbilityTemplate]
-LocFriendlyName="Melee Attack"
-LocLongDescription="Make a melee attack against an adjacent target."
-LocHelpText="Make a melee attack against an adjacent target."
+LocFriendlyName="Ataque Corpo a Corpo em Movimento"
+LocLongDescription="Realize um ataque corpo a corpo contra um alvo adjacente enquanto se move."
+LocHelpText="Realize um ataque corpo a corpo contra um alvo adjacente enquanto se move."
 
 [RobotImmunities X2AbilityTemplate]
-LocFriendlyName="Mechanical Chassis"
-LocLongDescription="This unit is immune to fire and poison damage."
-LocHelpText="This unit is immune to fire and poison damage."
+LocFriendlyName="Chassi Mecânico"
+LocLongDescription="Esta unidade é imune a danos de fogo e veneno."
+LocHelpText="Esta unidade é imune a danos de fogo e veneno."
 
-;Officer Abilities
+;Habilidades do Oficial
 [MarkTarget X2AbilityTemplate]
-LocFriendlyName="Mark Target"
-LocLongDescription="ADVENT Officers can Mark a target, commanding other ADVENT soldiers to focus their fire on that target. Any ADVENT that attack the marked target have a bonus to Aim."
-LocHelpText="Mark an enemy target. Allies gain +<Ability:MARKTARGETAIMBONUS/> Aim when attacking the target"
+LocFriendlyName="Marcar Alvo"
+LocLongDescription="Oficiais da ADVENT podem marcar um alvo, comandando outros soldados da ADVENT a concentrar fogo nesse alvo. Quaisquer ADVENT que ataquem o alvo marcado têm um bônus de precisão."
+LocHelpText="Marcar um alvo inimigo. Aliados ganham +<Ability:MARKTARGETAIMBONUS/> de Precisão ao atacar o alvo."
 
-;Turret Abilities
+;Habilidades do Turret
 
 
-;Stun Lancer Abilities
+;Habilidades do Stun Lancer
 [StunLance X2AbilityTemplate]
-LocFriendlyName="Stun Lance"
-LocLongDescription="A hit from this weapon can stun a healthy target, making them lose actions. When used on a target that is already wounded, the weapon can actually knock them unconscious, putting them out for the rest of the battle."
-LocHelpText="Attack a target in melee range with your Stun Lance, with a chance to inflict the target with negative mental effects."
+LocFriendlyName="Lança Atordoante"
+LocLongDescription="Um golpe desta arma pode atordoar um alvo saudável, fazendo-o perder ações. Quando usado em um alvo já ferido, a arma pode efetivamente deixá-lo inconsciente, retirando-o da batalha."
+LocHelpText="Ataque um alvo em alcance corpo a corpo com sua Lança Atordoante, com chance de infligir efeitos mentais negativos ao alvo."
 
-;MEC Abilities
+;Habilidades do MEC
 [MicroMissiles X2AbilityTemplate]
-LocFriendlyName="Micro Missiles"
-LocLongDescription="The MEC's shoulder mounted missile launcher can volley a salvo of missiles that deal high damage in a small area."
-LocHelpText="Target an area with an explosive missle attack."
+LocFriendlyName="Micro Mísseis"
+LocLongDescription="O lançador de mísseis montado no ombro do MEC pode disparar uma salva de mísseis que causam alto dano em uma pequena área."
+LocHelpText="Alveje uma área com um ataque de mísseis explosivos."
 
-;Shieldbearer Abilities
+;Habilidades do Shieldbearer
 [Shielded X2AbilityTemplate]
-LocFriendlyName="Shielded"
-LocLongDescription="Shielded! While the shield lasts, it will absorb <Ability:SHIELDBEARERSHIELDAMOUNT/> incoming damage. If the creator of the shield is killed, it will immediately collapse."
-LocHelpText="This unit is protected by an energy shield, which temporarily grants them bonus HP."
-LocFlyOverText="Shielded"
+LocFriendlyName="Protegido por Escudo"
+LocLongDescription="Protegido por escudo! Enquanto o escudo estiver ativo, ele absorverá <Ability:SHIELDBEARERSHIELDAMOUNT/> de dano recebido. Se o criador do escudo for morto, ele será imediatamente desativado."
+LocHelpText="Esta unidade está protegida por um escudo de energia, que temporariamente concede pontos de vida extras."
+LocFlyOverText="Protegido por Escudo"
 
 [EnergyShield X2AbilityTemplate]
-LocFriendlyName="Energy Shield"
-LocLongDescription="The Shieldbearer can grant an energy shield to all nearby allies. The shields will collapse if this unit is killed."
-LocHelpText="Project an energy shield around nearby allies and yourself."
-LocFlyOverText="Energy Shield"
+LocFriendlyName="Escudo de Energia"
+LocLongDescription="O Shieldbearer pode conceder um escudo de energia a todos os aliados próximos. Os escudos serão desativados se esta unidade for morta."
+LocHelpText="Projete um escudo de energia ao redor dos aliados próximos e de si mesmo."
+LocFlyOverText="Escudo de Energia"
 
 [EnergyShieldMk3 X2AbilityTemplate]
-LocFriendlyName="Energy Shield"
-LocLongDescription="The Shieldbearer can grant an energy shield to all nearby allies. The shields will collapse if this unit is killed."
-LocHelpText="Project an energy shield around nearby allies and yourself."
-LocFlyOverText="Energy Shield"
+LocFriendlyName="Escudo de Energia"
+LocLongDescription="O Shieldbearer pode conceder um escudo de energia a todos os aliados próximos. Os escudos serão desativados se esta unidade for morta."
+LocHelpText="Projete um escudo de energia ao redor dos aliados próximos e de si mesmo."
+LocFlyOverText="Escudo de Energia"
 
 ;----------------------------------------------------------------------------------
-;SECTOID ABILITIES--------------------------------------------------------------------------
+;HABILIDADES DO SECTOID--------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
 [Mindspin X2AbilityTemplate]
-LocFriendlyName="Mindspin"
-LocLongDescription="Debilitating telepathic attack that inflicts different negative conditions, including mental control."
-LocHelpText="Launch a debilitating psionic attack against a target that can inflict different negative conditions, including mental control."
-LocFlyOverText="Mindspin"
-LocMissMessage="Mindspin resisted!"
+LocFriendlyName="Impacto Mental"
+LocLongDescription="Ataque telepático debilitante que inflige diferentes condições negativas, incluindo controle mental."
+LocHelpText="Realize um ataque telepático debilitante contra um alvo que pode infligir diferentes condições negativas, incluindo controle mental."
+LocFlyOverText="Impacto Mental"
+LocMissMessage="Impacto Mental resistido!"
 
 [VulnerabilityMelee X2AbilityTemplate]
-LocFriendlyName="Melee Vulnerability"
-LocLongDescription="The Sectoid takes extra damage from melee attacks as a result of its delicate frame and disdain for close combat."
-LocHelpText="This unit takes more damage from melee attacks."
-LocFlyOverText="Melee Vulnerability"
+LocFriendlyName="Vulnerabilidade a Ataques Corpo a Corpo"
+LocLongDescription="O Sectoid sofre dano extra de ataques corpo a corpo devido à sua estrutura delicada e aversão ao combate próximo."
+LocHelpText="Esta unidade sofre mais dano de ataques corpo a corpo."
+LocFlyOverText="Vulnerabilidade a Ataques Corpo a Corpo"
 
 [PsiReanimation X2AbilityTemplate]
-LocFriendlyName="Psi Reanimation"
-LocLongDescription="A Sectoid can flood the nervous systems of recently dead humanoids with Psionic energy, causing them to move and fight as puppets under its control as 'psi zombies'."
-LocHelpText="Raise a dead soldier, civilian, or ADVENT soldier as a psionic zombie."
-LocFlyOverText="Psi Reanimation"
+LocFriendlyName="Ressurreição Psíquica"
+LocLongDescription="Um Sectoid pode inundar os sistemas nervosos de humanóides recentemente mortos com energia psíquica, fazendo com que se movam e lutem como marionetes sob seu controle, como 'zumbis psíquicos'."
+LocHelpText="Ressuscite um soldado, civil ou soldado ADVENT morto como um zumbi psíquico."
+LocFlyOverText="Ressurreição Psíquica"
 
 [PsiReanimationMP X2AbilityTemplate]
-LocFriendlyName="Psi Reanimation"
-LocLongDescription="A Sectoid can flood the nervous systems of recently dead humanoids with Psionic energy, causing them to move and fight as puppets under its control as 'psi zombies'."
-LocHelpText="Raise a dead soldier, civilian, or ADVENT soldier as a psionic zombie."
-LocFlyOverText="Psi Reanimation"
+LocFriendlyName="Ressurreição Psíquica"
+LocLongDescription="Um Sectoid pode inundar os sistemas nervosos de humanóides recentemente mortos com energia psíquica, fazendo com que se movam e lutem como marionetes sob seu controle, como 'zumbis psíquicos'."
+LocHelpText="Ressuscite um soldado, civil ou soldado ADVENT morto como um zumbi psíquico."
+LocFlyOverText="Ressurreição Psíquica"
 
 ;----------------------------------------------------------------------------------
-;FACELESS ABILITIES--------------------------------------------------------------------------
+;HABILIDADES DO FACELESS--------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
 [ChangeForm X2AbilityTemplate]
-LocFriendlyName="Change Form"
-LocLongDescription="A Faceless's body is extremely malleable, permitting it to adopt the form and appearance of anyone whose DNA it has sampled."
-LocHelpText="Disguise this Faceless as a human civilian."
-LocFlyOverText="Change Form"
+LocFriendlyName="Mudar de Forma"
+LocLongDescription="O corpo de um Faceless é extremamente maleável, permitindo-lhe adotar a forma e aparência de qualquer pessoa cujo DNA tenha sido amostrado."
+LocHelpText="Disfarce este Faceless como um civil humano."
+LocFlyOverText="Mudar de Forma"
 
 [ScythingClaws X2AbilityTemplate]
-LocFriendlyName="Scything Claws"
-LocLongDescription="The shapechanging abilities of a Faceless permit it to grow giant claws that can strike enemies from several meters away."
-LocHelpText="Close-range swipe at a target with the Faceless claws."
-LocFlyOverText="Scything Claws"
+LocFriendlyName="Garras Cercenantes"
+LocLongDescription="As habilidades metamórficas de um Faceless permitem que ele cresça garras gigantes que podem atacar inimigos a vários metros de distância."
+LocHelpText="Ataque em curta distância a um alvo com as garras do Faceless."
+LocFlyOverText="Garras Cercenantes"
 
 [Regeneration X2AbilityTemplate]
-LocFriendlyName="Regeneration"
-LocLongDescription="The Faceless recovers <Ability:FACELESSREGEN/> health at the start of each of its turns."
-LocHelpText="The Faceless recovers a small amount of HP every turn."
-LocFlyOverText="Regeneration"
+LocFriendlyName="Regeneração"
+LocLongDescription="O Faceless recupera <Ability:FACELESSREGEN/> de vida no início de cada um de seus turnos."
+LocHelpText="O Faceless recupera uma pequena quantidade de HP a cada turno."
+LocFlyOverText="Regeneração"
 
 [Jump X2AbilityTemplate]
-LocFriendlyName="Jump"
-LocLongDescription="Faceless don't need ladders or pipes to get onto roofs; they can spring upwards with a powerful leap."
-LocHelpText="This unit can leap atop buildings and high platforms, and does not need a ladder."
+LocFriendlyName="Salto"
+LocLongDescription="Os Faceless não precisam de escadas ou tubos para subir em telhados; eles podem saltar com um salto poderoso."
+LocHelpText="Esta unidade pode saltar para o topo de prédios e plataformas altas, e não precisa de uma escada."
 
 [FacelessRegenerationMP X2AbilityTemplate]
-LocFriendlyName="Regeneration"
-LocLongDescription="The Faceless recovers <Ability:FACELESSREGENMP/> health at the start of each of its turns."
-LocHelpText="The Faceless recovers a small amount of HP every turn."
-LocFlyOverText="Regeneration"
+LocFriendlyName="Regeneração"
+LocLongDescription="O Faceless recupera <Ability:FACELESSREGENMP/> de vida no início de cada um de seus turnos."
+LocHelpText="O Faceless recupera uma pequena quantidade de HP a cada turno."
+LocFlyOverText="Regeneração"
 
 [ScythingClawsMP X2AbilityTemplate]
-LocFriendlyName="Scything Claws"
-LocLongDescription="The shapechanging abilities of a Faceless permit it to grow giant claws that can strike enemies from several meters away."
-LocHelpText="Close-range swipe at a target with the Faceless claws."
-LocFlyOverText="Scything Claws"
+LocFriendlyName="Garras Cercenantes"
+LocLongDescription="As habilidades metamórficas de um Faceless permitem que ele cresça garras gigantes que podem atacar inimigos a vários metros de distância."
+LocHelpText="Ataque em curta distância a um alvo com as garras do Faceless."
+LocFlyOverText="Garras Cercenantes"
 
 ;----------------------------------------------------------------------------------
-;VIPER ABILITIES--------------------------------------------------------------------------
+;HABILIDADES DA VIPER
 ;----------------------------------------------------------------------------------
 [GetOverHere X2AbilityTemplate]
-LocFriendlyName="Tongue Pull"
-LocLongDescription="A Viper's tongue and neck are immensely strong, and can yank an adult human into its coils from far away."
-LocHelpText="Grab a target with your tongue and pull them to melee range. Only humanoid targets can be pulled."
-LocFlyOverText="Tongue Grab"
-LocMissMessage="Grab Failed!"
+LocFriendlyName="Puxão de Língua"
+LocLongDescription="A língua e o pescoço de uma Viper são extremamente fortes e podem puxar um humano adulto para suas espirais de longe."
+LocHelpText="Agarre um alvo com sua língua e puxe-o para o alcance do ataque corpo a corpo. Somente alvos humanoides podem ser puxados."
+LocFlyOverText="Agarrar com a Língua"
+LocMissMessage="Falha no Agarre!"
 
 [Bind X2AbilityTemplate]
-LocFriendlyName="Bind and Crush"
-LocLongDescription="The coils of a Viper are inhumanly strong, and can bind and crush an adjacent humanoid enemy."
-LocHelpText="Bind and crush an adjacent humanoid enemy."
-LocFlyOverText="Bind"
-LocMissMessage="Bind Failed!"
+LocFriendlyName="Aprisionar e Esmagar"
+LocLongDescription="As espirais de uma Viper são incrivelmente fortes e podem aprisionar e esmagar um inimigo humanoide adjacente."
+LocHelpText="Aprisione e esmague um inimigo humanoide adjacente."
+LocFlyOverText="Aprisionar"
+LocMissMessage="Falha na Aprisionamento!"
 
 [PoisonSpit X2AbilityTemplate]
-LocFriendlyName="Poison Spit"
-LocLongDescription="A Viper can project a blast of venom at long range that explodes into a toxic cloud."
-LocHelpText="Spit deadly poison at an area."
-LocFlyOverText="Poison Spit"
+LocFriendlyName="Cuspe Venenoso"
+LocLongDescription="Uma Viper pode projetar um jato de veneno de longo alcance que explode em uma nuvem tóxica."
+LocHelpText="Cuspa veneno mortal em uma área."
+LocFlyOverText="Cuspe Venenoso"
 
 [PoisonSpit X2GrenadeTemplate]
-FriendlyName="Poison Spit"
-FriendlyNamePlural="Poison Spit"
-BriefSummary="A Viper can project a blast of venom at long range that explodes into a toxic cloud."
-TacticalText="<Bullet/> Spit deadly poison at an area."
+FriendlyName="Cuspe Venenoso"
+FriendlyNamePlural="Cuspe Venenoso"
+BriefSummary="Uma Viper pode projetar um jato de veneno de longo alcance que explode em uma nuvem tóxica."
+TacticalText="<Bullet/> Cuspa veneno mortal em uma área."
 
 [PoisonSpitGlob X2GrenadeTemplate]
-FriendlyName="Poison Spit"
-FriendlyNamePlural="Poison Spit"
-BriefSummary="A Viper can project a blast of venom at long range that explodes into a toxic cloud."
-TacticalText="<Bullet/> Spit deadly poison at an area."
+FriendlyName="Cuspe Venenoso"
+FriendlyNamePlural="Cuspe Venenoso"
+BriefSummary="Uma Viper pode projetar um jato de veneno de longo alcance que explode em uma nuvem tóxica."
+TacticalText="<Bullet/> Cuspa veneno mortal em uma área."
 
 [EndBind X2AbilityTemplate]
-LocFriendlyName="Release Bind"
-LocLongDescription="In the event the tactical situation changes, the Viper can release the target in its coils before killing it."
-LocHelpText="Release the target in the Viper's coils"
-LocFlyOverText="Release"
+LocFriendlyName="Libertar Aprisionamento"
+LocLongDescription="Caso a situação tática mude, a Viper pode libertar o alvo em suas espirais antes de matá-lo."
+LocHelpText="Liberte o alvo aprisionado nas espirais da Viper."
+LocFlyOverText="Liberar"
+
+;----------------------------------------------------------------------------------
+;HABILIDADES DO CODEX
+;----------------------------------------------------------------------------------
+[ImmunetoMindControl X2AbilityTemplate]
+LocFriendlyName="Imune ao Controle Mental"
+LocLongDescription="A mente de um Codex é projetada para seu corpo de reinos distantes e não pode ser afetada por manipulação psíquica."
+LocHelpText="Imune ao controle mental."
+LocFlyOverText="Imune ao Controle Mental"
+
+[Superposition X2AbilityTemplate]
+LocFriendlyName="Clonar"
+LocLongDescription="O corpo de um Codex é uma projeção extradimensional. Quando o Codex sofre danos, ele 'clona', teleportando-se para um espaço vazio próximo enquanto gera uma nova manifestação de si mesmo."
+LocHelpText="Dividir-se em um novo Codex e teleportar-se quando sofrer danos."
+LocFlyOverText="Clonar"
+
+[Malfunction X2AbilityTemplate]
+LocFriendlyName="Falha de Equipamento"
+LocLongDescription="O Codex pode emitir uma onda de energia em forma de cone que interfere com a tecnologia atingida pelo caminho, fazendo com que as armas falhem."
+LocHelpText="Desativar armas inimigas em uma área em forma de cone."
+LocFlyOverText="Falha de Equipamento"
+
+[Teleport X2AbilityTemplate]
+LocFriendlyName="Teleporte"
+LocLongDescription="O Codex pode se teleportar para locais distantes em vez de se mover diretamente. Ignora toda a vigilância e fogo de reação."
+LocHelpText="Teleportar para um novo local. Ignora toda a vigilância e fogo de reação."
+LocFlyOverText="Teleporte"
+
+[TechVulnerability X2AbilityTemplate]
+LocFriendlyName="Vulnerabilidade a Ataques Tecnológicos"
+LocLongDescription="Embora um Codex não possa ser hackeado, ele ainda é suscetível a ataques anti-tecnologia."
+LocHelpText="O Codex é vulnerável a ataques anti-tecnologia."
+LocFlyOverText="Vulnerabilidade a Ataques Tecnológicos"
+
+[TriggerSuperposition X2AbilityTemplate]
+LocFriendlyName="Clonar"
+LocLongDescription="O corpo de um Codex é uma projeção extradimensional. Quando o Codex sofre danos, ele 'clona', teleportando-se para um espaço vazio próximo enquanto gera uma nova manifestação de si mesmo."
+LocHelpText="Dividir-se em um novo Codex e teleportar-se quando sofrer danos."
+LocFlyOverText="Clonar"
 
 ;----------------------------------------------------------------------------------
 ;CODEX ABILITIES--------------------------------------------------------------------------
