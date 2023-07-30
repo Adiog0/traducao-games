@@ -1,7 +1,0 @@
-
-[Play_DLC2_S_VAH_Garbled_Transmission AkEvent]
-SpokenText="...throughout this area...are of particular concern to...all attempts should be made..."
-bMature=False
-bManualWordWrap=False
-bSingleLine=False
-Comment=""

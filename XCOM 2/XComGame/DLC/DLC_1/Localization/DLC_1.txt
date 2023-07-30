@@ -1,6 +1,0 @@
-[UICustomize_Props]
-m_strFacePaint=Face Paint
-
-[X2DownloadableContentInfo_DLC_1]
-PartContentLabel="Anarchy's Children"
-PartContentSummary="Adjust the likelyhood that new soldiers will appear with Anarchy's Children customization options"
