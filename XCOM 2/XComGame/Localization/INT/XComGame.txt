@@ -6675,97 +6675,62 @@ LocHelpText="Dividir-se em um novo Codex e teleportar-se quando sofrer danos."
 LocFlyOverText="Clonar"
 
 ;----------------------------------------------------------------------------------
-;CODEX ABILITIES--------------------------------------------------------------------------
+;HABILIDADES DA CÓDICE
 ;----------------------------------------------------------------------------------
-[ImmunetoMindControl X2AbilityTemplate]
-LocFriendlyName="Immune to Mind Control"
-LocLongDescription="A Codex's mind is projected into its body from distant realms, and cannot be affected by Psionic manipulation."
-LocHelpText="Immune to mind control"
-LocFlyOverText="Immune to Mind Control"
-
-[Superposition X2AbilityTemplate]
-LocFriendlyName="Clone"
-LocLongDescription="A Codex's body is an extra-dimensional projection. When the Codex is damaged, it 'clones', teleporting to a nearby empty space as it generates another manifestation of itself."
-LocHelpText="Divide into a new Codex and then teleport when taking damage."
-LocFlyOverText="Clone"
-
-[Malfunction X2AbilityTemplate]
-LocFriendlyName="Malfunction"
-LocLongDescription="The Codex can emit a cone shaped wave of energy that disrupts technology caught in the path, causing weapons to fail."
-LocHelpText="Disable enemy weapons in a cone-shaped area."
-LocFlyOverText="Malfunction"
-
-[Teleport X2AbilityTemplate]
-LocFriendlyName="Teleport"
-LocLongDescription="The Codex can teleport to distant locations instead of moving directly. Bypasses all overwatch and reaction fire."
-LocHelpText="Teleport to a new location. Bypasses all overwatch and reaction fire."
-LocFlyOverText="Teleport"
-
-[TechVulnerability X2AbilityTemplate]
-LocFriendlyName="Tech Vulnerability"
-LocLongDescription="While a Codex cannot be hacked, it is still susceptible to anti-tech attacks."
-LocHelpText="The Codex is vulnerable to anti-tech attacks."
-LocFlyOverText="Tech Vulnerability"
-
-[TriggerSuperposition X2AbilityTemplate]
-LocFriendlyName="Clone"
-LocLongDescription="A Codex's body is an extradimensional projection. When the Codex is damaged, it 'clones', teleporting to a nearby empty space and warping in another manifestation of itself."
-LocHelpText="Divide into a new Codex and then teleport when taking damage."
-LocFlyOverText="Clone"
-
 [PsiBombStage1 X2AbilityTemplate]
-LocFriendlyName="Psionic Bomb"
-LocLongDescription="Open a small Psionic rift that disables the weapons of any units caught in its radius, and deals damage within that radius after one turn."
-LocHelpText="Open a small Psionic rift that disables the weapons of any units caught in its radius, and deals damage within that radius after one turn."
-LocFlyOverText="Psi Bomb"
-;Griffin, Joe, Jake to update text
+LocFriendlyName="Bomba Psíquica"
+LocLongDescription="Abra um pequeno rasgo psíquico que desabilita as armas de quaisquer unidades capturadas em sua área de alcance e causa dano dentro dessa área após um turno."
+LocHelpText="Abra um pequeno rasgo psíquico que desabilita as armas de quaisquer unidades capturadas em sua área de alcance e causa dano dentro dessa área após um turno."
+LocFlyOverText="Bomba Psíquica"
+
 [CodexImmunities X2AbilityTemplate]
-LocFriendlyName="Immunities"
-LocLongDescription="The Codex is immune from fire, poison, and acid effects."
-LocHelpText="The Codex is immune to fire, poison, and acid."
-LocFlyOverText="Codex Immunities"
+LocFriendlyName="Imunidades"
+LocLongDescription="A Códice é imune a efeitos de fogo, veneno e ácido."
+LocHelpText="A Códice é imune a fogo, veneno e ácido."
+LocFlyOverText="Imunidades da Códice"
 
 [TeleportMP X2AbilityTemplate]
-LocFriendlyName="Teleport"
-LocLongDescription="The Codex can teleport to distant locations instead of moving directly. Bypasses all overwatch and reaction fire."
-LocHelpText="Teleport to a new location. Bypasses all overwatch and reaction fire."
-LocFlyOverText="Teleport"
+LocFriendlyName="Teleporte"
+LocLongDescription="A Códice pode se teleportar para locais distantes em vez de se mover diretamente. Ignora toda a vigilância e fogo de reação."
+LocHelpText="Teleportar para um novo local. Ignora toda a vigilância e fogo de reação."
+LocFlyOverText="Teleporte"
+
 ;----------------------------------------------------------------------------------
-;MUTON ABILITIES--------------------------------------------------------------------------
+;HABILIDADES DO MUTON
 ;----------------------------------------------------------------------------------
 [Bayonet X2AbilityTemplate]
-LocFriendlyName="Bayonet"
-LocLongDescription="Muton beam weapons are reinforced and mounted with bayonets, so their troops can use them in melee combat as well as at range."
-LocHelpText="Attack an adjacent enemy with the Muton's bayonet. This attack can stun the target."
-LocFlyOverText="Bayonet"
+LocFriendlyName="Baioneta"
+LocLongDescription="As armas a laser dos Mutons são reforçadas e equipadas com baionetas, para que suas tropas possam usá-las tanto em combate à distância quanto em combate corpo a corpo."
+LocHelpText="Ataque um inimigo adjacente com a baioneta do Muton. Esse ataque pode atordoar o alvo."
+LocFlyOverText="Baioneta"
 
 [CounterattackBayonet X2AbilityTemplate]
-LocFriendlyName="Counterattack Bayonet"
-LocLongDescription="Muton beam weapons are reinforced and mounted with bayonets, so their troops can use them in melee combat as well as at range."
-LocHelpText="Counterattack against an attempted melee attack with the Muton's bayonet. This attack can stun the target."
-LocFlyOverText="Counterattack Bayonet"
+LocFriendlyName="Contra-ataque com Baioneta"
+LocLongDescription="As armas a laser dos Mutons são reforçadas e equipadas com baionetas, para que suas tropas possam usá-las tanto em combate à distância quanto em combate corpo a corpo."
+LocHelpText="Contra-ataque contra um ataque corpo a corpo com a baioneta do Muton. Esse ataque pode atordoar o alvo."
+LocFlyOverText="Contra-ataque com Baioneta"
 
 [MutonGrenade X2GrenadeTemplate]
-FriendlyName="Alien Grenade"
-FriendlyNamePlural="Alien Grenades"
-BriefSummary="Each Muton carries a single high damage plasma grenade."
-TacticalText="<Bullet/> A single, high damage grenade."
-ThrownAbilityName="Throw Alien Grenade"
-ThrownAbilityHelpText="Throw an Alien Grenade at target area."
-LaunchedAbilityName="Launch Alien Grenade"
-LaunchedAbilityHelpText="Launch an Alien Grenade at target area. Shreds armor."
+FriendlyName="Granada Alienígena"
+FriendlyNamePlural="Granadas Alienígenas"
+BriefSummary="Cada Muton carrega uma única granada de plasma de alto dano."
+TacticalText="<Bullet/> Uma única granada de alto dano."
+ThrownAbilityName="Lançar Granada Alienígena"
+ThrownAbilityHelpText="Lance uma Granada Alienígena na área-alvo."
+LaunchedAbilityName="Lançar Granada Alienígena"
+LaunchedAbilityHelpText="Lance uma Granada Alienígena na área-alvo. Perfura armaduras."
 
 [CounterattackDescription X2AbilityTemplate]
-LocFriendlyName="Counterattack"
-LocLongDescription="Mutons have a chance to counterattack any melee attack against them."
-LocHelpText="Counterattack against an attempted melee attack."
-LocFlyOverText="Counterattack"
+LocFriendlyName="Contra-ataque"
+LocLongDescription="Os Mutons têm uma chance de contra-atacar qualquer ataque corpo a corpo contra eles."
+LocHelpText="Contra-ataque contra um ataque corpo a corpo."
+LocFlyOverText="Contra-ataque"
 
 [Execute X2AbilityTemplate]
-LocFriendlyName="Execute"
-LocLongDescription="Mutons can perform a finishing move on an adjacent stunned enemy."
-LocHelpText="Perform a finishing move on an adjacent stunned enemy."
-LocFlyOverText="Execute"
+LocFriendlyName="Executar"
+LocLongDescription="Os Mutons podem executar um inimigo atordoado adjacente."
+LocHelpText="Executar um inimigo atordoado adjacente."
+LocFlyOverText="Executar"
 
 ; --------------------------------------------------------------------------------- -
 ;BERSERKER ABILITIES--------------------------------------------------------------------------
