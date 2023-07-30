@@ -6928,259 +6928,260 @@ LocHelpText="Ataque um alvo corpo a corpo."
 LocFlyOverText="Soco Devastador"
 
 ;----------------------------------------------------------------------------------
-;GATEKEEPER ABILITIES--------------------------------------------------------------------------
+;HABILIDADES DO GATEKEEPER
 ;----------------------------------------------------------------------------------
 [GatekeeperDeathExplosion X2AbilityTemplate]
-LocFriendlyName="Dying Explosion"
-LocLongDescription="When the Gatekeeper dies, it triggers a damaging explosion."
-LocHelpText="When the Gatekeeper dies, it triggers a damaging explosion."
+LocFriendlyName="Explosão Mortal"
+LocLongDescription="Quando o Gatekeeper morre, ele causa uma explosão que causa dano."
+LocHelpText="Quando o Gatekeeper morre, ele causa uma explosão que causa dano."
 
 [AnimaGate X2AbilityTemplate]
-LocFriendlyName="Fire Beam"
-LocLongDescription="By opening a miniature gateway and focusing the released energy, a Gatekeeper can project destructive force at extreme range."
-LocHelpText="Fire a beam of focused energy at a target."
+LocFriendlyName="Feixe de Fogo"
+LocLongDescription="Ao abrir um portal em miniatura e focar a energia liberada, um Gatekeeper pode projetar força destrutiva a uma distância extrema."
+LocHelpText="Dispare um feixe de energia focado em um alvo."
+LocFlyOverText="Feixe de Fogo"
 
 [AnimaConsume X2AbilityTemplate]
-LocFriendlyName="Consume"
-LocLongDescription="The touch of a Gatekeeper may consume the life of a nearby unit, healing itself while causing severe damage. If the target is slain by this attack, it may be reanimated as a psi zombie."
-LocHelpText="Drain the life of a humanoid target at melee range, raising it as a Psi Zombie if it is killed."
-LocFlyOverText="Consume"
+LocFriendlyName="Consumir"
+LocLongDescription="O toque de um Gatekeeper pode consumir a vida de uma unidade próxima, curando-se enquanto causa um dano severo. Se o alvo for morto por este ataque, ele pode ser reanimado como um zumbi psi."
+LocHelpText="Drene a vida de um alvo humanoide em alcance corpo a corpo, transformando-o em um Zumbi Psi se for morto."
+LocFlyOverText="Consumir"
 
 [AnimaInversion X2AbilityTemplate]
-LocFriendlyName="Gateway"
-LocLongDescription="Open a devastating psionic rift in an area. Any humanoid enemies killed can be raised as psionic zombies."
-LocHelpText="Open a devastating psionic rift in an area. Any humanoid enemies killed can be raised as psionic zombies."
+LocFriendlyName="Portal"
+LocLongDescription="Abra uma fenda psíquica devastadora em uma área. Quaisquer inimigos humanóides mortos podem ser ressuscitados como zumbis psi."
+LocHelpText="Abra uma fenda psíquica devastadora em uma área. Quaisquer inimigos humanóides mortos podem ser ressuscitados como zumbis psi."
+LocFlyOverText="Portal"
 
 [Retract X2AbilityTemplate]
-LocFriendlyName="Retract"
-LocLongDescription="If an open Gatekeeper is hit by an attack and takes damage, it is likely to retract into its shell."
-LocHelpText="The Gatekeeper retracts its defensive shell when damaged."
-LocFlyOverText="Retract"
+LocFriendlyName="Retrair"
+LocLongDescription="Se um Gatekeeper aberto for atingido por um ataque e sofrer dano, é provável que ele se retraia em sua concha."
+LocHelpText="O Gatekeeper retrai sua concha defensiva quando sofre dano."
+LocFlyOverText="Retrair"
 
 [GatekeeperOpen X2AbilityTemplate]
-LocFriendlyName="Open Shell"
-LocLongDescription="Open the Gatekeeper's shell, reducing armor but granting access to additional abilities."
-LocHelpText="Open the Gatekeeper's shell, reducing armor but granting access to additional abilities."
-LocFlyOverText="Open Shell"
+LocFriendlyName="Abrir Concha"
+LocLongDescription="Abra a concha do Gatekeeper, reduzindo sua armadura, mas concedendo acesso a habilidades adicionais."
+LocHelpText="Abra a concha do Gatekeeper, reduzindo sua armadura, mas concedendo acesso a habilidades adicionais."
+LocFlyOverText="Abrir Concha"
 
 [GatekeeperClose X2AbilityTemplate]
-LocFriendlyName="Close Shell"
-LocLongDescription="Close the Gatekeeper's shell, increasing armor but preventing the use of some abilities."
-LocHelpText="Close the Gatekeeper's shell, increasing armor but preventing the use of some abilities."
-LocFlyOverText="Close Shell"
+LocFriendlyName="Fechar Concha"
+LocLongDescription="Feche a concha do Gatekeeper, aumentando sua armadura, mas impedindo o uso de algumas habilidades."
+LocHelpText="Feche a concha do Gatekeeper, aumentando sua armadura, mas impedindo o uso de algumas habilidades."
+LocFlyOverText="Fechar Concha"
 
 [GatekeeperClosedEffect X2AbilityTemplate]
-LocFriendlyName="Armored Shell"
-LocLongDescription="The Gatekeeper's shell is closed. It is more resistant to damage."
-LocHelpText="The Gatekeeper gains armor and defensive bonuses when its outer shell is closed."
-LocFlyOverText="Armored Shell"
+LocFriendlyName="Concha Blindada"
+LocLongDescription="A concha do Gatekeeper está fechada. Ele está mais resistente a danos."
+LocHelpText="O Gatekeeper ganha armadura e bônus defensivos quando sua concha externa está fechada."
+LocFlyOverText="Concha Blindada"
 
 [ProtectiveShell X2AbilityTemplate]
-LocFriendlyName="Protective Shell"
-LocLongDescription="When a Gatekeeper's shell is closed, it is extremely resistant to damage but has only limited offensive options."
-LocHelpText="When a Gatekeeper's shell is closed, it is extremely resistant to damage but has only limited offensive options."
-LocFlyOverText="Protective Shell"
+LocFriendlyName="Concha Protetora"
+LocLongDescription="Quando a concha do Gatekeeper está fechada, ele é extremamente resistente a danos, mas tem apenas opções ofensivas limitadas."
+LocHelpText="Quando a concha do Gatekeeper está fechada, ele é extremamente resistente a danos, mas tem apenas opções ofensivas limitadas."
+LocFlyOverText="Concha Protetora"
 
 [AnimaConsumeMP X2AbilityTemplate]
-LocFriendlyName="Consume"
-LocLongDescription="The touch of a Gatekeeper may consume the life of a nearby unit, healing itself while causing severe damage. If the target is slain by this attack, it may be reanimated as a psi zombie."
-LocHelpText="Drain the life of a humanoid target at melee range, raising it as a Psi Zombie if it is killed."
-LocFlyOverText="Consume"
+LocFriendlyName="Consumir"
+LocLongDescription="O toque de um Gatekeeper pode consumir a vida de uma unidade próxima, curando-se enquanto causa um dano severo. Se o alvo for morto por este ataque, ele pode ser reanimado como um zumbi psi."
+LocHelpText="Drene a vida de um alvo humanoidena alcance corpo a corpo, transformando-o em um Zumbi Psi se for morto."
+LocFlyOverText="Consumir"
 
 [AnimaInversionMP X2AbilityTemplate]
-LocFriendlyName="Gateway"
-LocLongDescription="Open a devastating psionic rift in an area. Any humanoid enemies killed can be raised as psionic zombies."
-LocHelpText="Open a devastating psionic rift in an area. Any humanoid enemies killed can be raised as psionic zombies."
+LocFriendlyName="Portal"
+LocLongDescription="Abra uma fenda psíquica devastadora em uma área. Quaisquer inimigos humanóides mortos podem ser ressuscitados como zumbis psi."
+LocHelpText="Abra uma fenda psíquica devastadora em uma área. Quaisquer inimigos humanóides mortos podem ser ressuscitados como zumbis psi."
+LocFlyOverText="Portal"
 
 ;----------------------------------------------------------------------------------
-;SECTOPOD ABILITIES--------------------------------------------------------------------------
+;HABILIDADES DO SECTOPOD
 ;----------------------------------------------------------------------------------
 [WrathCannon X2AbilityTemplate]
-LocFriendlyName="Wrath Cannon"
-LocLongDescription="The Wrath Cannon is an extremely high energy attack that deals damage in a long line."
-LocHelpText="Fire a devastating energy attack that can penetrate multiple targets."
-LocFlyOverText="Wrath Cannon"
+LocFriendlyName="Canhão da Ira"
+LocLongDescription="O Canhão da Ira é um ataque de energia extremamente poderoso que causa dano em uma linha longa."
+LocHelpText="Dispare um ataque de energia devastador que pode atingir vários alvos."
+LocFlyOverText="Canhão da Ira"
 
 [WrathCannonStage1 X2AbilityTemplate]
-LocFriendlyName="Wrath Cannon"
-LocLongDescription="The Wrath Cannon is an extremely high energy attack that deals damage in a long line. The firing of the cannon requires the Sectopod to fully charge a series of emitters, which might give quick victims a chance to run and hide."
-LocHelpText="Power up and fire a devastating attack that can penetrate multiple targets. Takes one turn to prepare."
-LocFlyOverText="Wrath Cannon"
+LocFriendlyName="Canhão da Ira"
+LocLongDescription="O Canhão da Ira é um ataque de energia extremamente poderoso que causa dano em uma linha longa. A ativação do canhão requer que o Sectopod carregue completamente uma série de emissores, o que pode dar aos alvos rápidos a chance de correr e se esconder."
+LocHelpText="Carregue e dispare um ataque devastador que pode atingir vários alvos. Leva um turno para preparar."
+LocFlyOverText="Canhão da Ira"
 
 [Blaster X2AbilityTemplate]
-LocFriendlyName="Fire Blaster"
-LocLongDescription="The Sectopod has a back-mounted utility blaster that can be used every action to deal with most threats. This weapon can fire in any direction."
-LocHelpText="Fire the Sectopod Blaster at a target."
+LocFriendlyName="Disparo Blaster"
+LocLongDescription="O Sectopod possui um blaster utilitário montado nas costas que pode ser usado a cada ação para lidar com a maioria das ameaças. Essa arma pode disparar em qualquer direção."
+LocHelpText="Dispare o Blaster do Sectopod em um alvo."
 LocFlyOverText="Blaster"
 
 [BlasterDuringCannon X2AbilityTemplate]
-LocFriendlyName="Fire Blaster"
-LocLongDescription="The Sectopod has a back-mounted utility blaster that can be used every action to deal with most threats. This weapon can fire in any direction."
-LocHelpText="Fire the Sectopod Blaster at a target."
+LocFriendlyName="Disparo Blaster"
+LocLongDescription="O Sectopod possui um blaster utilitário montado nas costas que pode ser usado a cada ação para lidar com a maioria das ameaças. Essa arma pode disparar em qualquer direção."
+LocHelpText="Dispare o Blaster do Sectopod em um alvo."
 LocFlyOverText="Blaster"
 
 [SectopodHigh X2AbilityTemplate]
-LocFriendlyName="High Stance"
-LocLongDescription="The Sectopod can extend its legs to improve its range and weapon reach, and allow it to use the Wrath Cannon against elevated targets."
-LocHelpText="Transition to High Stance, granting a height bonus against ground enemies. This action is free."
-LocFlyOverText="High Stance"
+LocFriendlyName="Postura Elevada"
+LocLongDescription="O Sectopod pode estender suas pernas para aumentar seu alcance e alcançar alvos distantes, permitindo o uso do Canhão da Ira contra alvos elevados."
+LocHelpText="Transição para a Postura Elevada, concedendo um bônus de altura contra inimigos no solo. Esta ação é gratuita."
+LocFlyOverText="Postura Elevada"
 
 [SectopodLightningField X2AbilityTemplate]
-LocFriendlyName="Lightning Field"
-LocLongDescription="The Sectopod can emit a blast of lightning in a circular area around itself whenever it detects an enemy in melee range."
-LocHelpText="Discharge an electric attack in a radius around the Sectopod."
-LocFlyOverText="Lightning Field"
+LocFriendlyName="Campo de Raios"
+LocLongDescription="O Sectopod pode emitir uma explosão elétrica em uma área circular ao seu redor sempre que detectar um inimigo em alcance de combate corpo a corpo."
+LocHelpText="Desencadeie um ataque elétrico em um raio ao redor do Sectopod."
+LocFlyOverText="Campo de Raios"
 
 [SectopodLow X2AbilityTemplate]
-LocFriendlyName="Low Stance"
-LocLongDescription="The Sectopod can return to low stance, to target enemies at ground level with the Wrath Cannon."
-LocHelpText="Transition to Low Stance. This action is free."
-LocFlyOverText="Low Stance"
+LocFriendlyName="Postura Baixa"
+LocLongDescription="O Sectopod pode retornar à postura baixa para atingir inimigos no nível do solo com o Canhão da Ira."
+LocHelpText="Transição para a Postura Baixa. Esta ação é gratuita."
+LocFlyOverText="Postura Baixa"
 
-;Griffin, Joe, Jake change text
 [SectopodImmunities X2AbilityTemplate]
-LocFriendlyName="Sectopod Immunities"
-LocLongDescription="The Sectopod is immune to fire, poison and mental attacks."
-LocHelpText="The Sectopod is immune to fire, poison and mental attacks."
+LocFriendlyName="Imunidades do Sectopod"
+LocLongDescription="O Sectopod é imune a fogo, veneno e ataques mentais."
+LocHelpText="O Sectopod é imune a fogo, veneno e ataques mentais."
 
 ;----------------------------------------------------------------------------------
-;AVATAR ABILITIES--------------------------------------------------------------------------
+;HABILIDADES DO AVATAR
 ;----------------------------------------------------------------------------------
 [MindControl X2AbilityTemplate]
-LocFriendlyName="Mind Control"
-LocLongDescription="The Avatar can seize active control of their target's mind, forcing them to turn on their companions."
-LocHelpText="Assume full mental control of the target for a short duration."
-LocFlyOverText="Mind Control"
+LocFriendlyName="Controle Mental"
+LocLongDescription="O Avatar pode assumir o controle ativo da mente de seu alvo, forçando-os a se voltar contra seus companheiros."
+LocHelpText="Assuma o controle mental total do alvo por uma curta duração."
+LocFlyOverText="Controle Mental"
 
 [PsiDimensionalRiftStage1 X2AbilityTemplate]
-LocFriendlyName="Dimensional Rift"
-LocLongDescription="The Avatar creates a seething dimensional instability that erupts after a short delay. Any victim caught in the blast is damaged, and may be stunned or disoriented by the unnatural energies released."
-LocHelpText="Open a large psionic rift that damages all units that remain inside its borders."
-LocFlyOverText="Dimensional Rift"
+LocFriendlyName="Ruptura Dimensional"
+LocLongDescription="O Avatar cria uma instabilidade dimensional fervilhante que entra em erupção após um curto atraso. Qualquer vítima pega na explosão é danificada e pode ser atordoada ou desorientada pelas energias sobrenaturais liberadas."
+LocHelpText="Abra uma grande fenda psíquica que causa danos a todas as unidades que permanecem dentro de suas fronteiras."
+LocFlyOverText="Ruptura Dimensional"
 
 [DimensionalRift X2AbilityTemplate]
-LocFriendlyName="Dimensional Rift"
-LocLongDescription="The Avatar creates a seething dimensional instability that erupts after a short delay. Any victim caught in the blast is damaged, and may be stunned or disoriented by the unnatural energies released."
-LocHelpText="Open a large psionic rift that damages all units that remain inside its borders."
-LocFlyOverText="Dimensional Rift"
+LocFriendlyName="Ruptura Dimensional"
+LocLongDescription="O Avatar cria uma instabilidade dimensional fervilhante que entra em erupção após um curto atraso. Qualquer vítima pega na explosão é danificada e pode ser atordoada ou desorientada pelas energias sobrenaturais liberadas."
+LocHelpText="Abra uma grande fenda psíquica que causa danos a todas as unidades que permanecem dentro de suas fronteiras."
+LocFlyOverText="Ruptura Dimensional"
 
 [PsiMindControl X2AbilityTemplate]
-LocFriendlyName="Mind Control"
-LocLongDescription="The Avatar can seize active control of their target's mind, forcing them to turn on their companions."
-LocHelpText="Seize active control of their target's mind"
-LocFlyOverText="Mind Control"
+LocFriendlyName="Controle Mental"
+LocLongDescription="O Avatar pode assumir o controle ativo da mente de seu alvo, forçando-os a se voltar contra seus companheiros."
+LocHelpText="Assuma o controle ativo da mente de seu alvo."
+LocFlyOverText="Controle Mental"
 
 [AvatarImmunities X2AbilityTemplate]
-LocFriendlyName="Mental Fortress"
-LocLongDescription="The Avatar is immune to any form of negative mental effects."
-LocHelpText="The Avatar is immune to any form of negative mental effects."
+LocFriendlyName="Fortaleza Mental"
+LocLongDescription="O Avatar é imune a qualquer forma de efeitos mentais negativos."
+LocHelpText="O Avatar é imune a qualquer forma de efeitos mentais negativos."
 
 [AvatarDamagedTeleport X2AbilityTemplate]
-LocFriendlyName="Teleport Escape"
-LocLongDescription="When damaged, the Avatar can teleport away to a new location."
-LocHelpText="When damaged, the Avatar can teleport away to a new location."
-LocFlyOverText="Teleport"
+LocFriendlyName="Teleporte de Fuga"
+LocLongDescription="Quando ferido, o Avatar pode se teleportar para uma nova localização."
+LocHelpText="Quando ferido, o Avatar pode se teleportar para uma nova localização."
+LocFlyOverText="Teleporte"
 
 [AvatarRegeneration X2AbilityTemplate]
-LocFriendlyName="Avatar Regeneration"
-LocLongDescription="The Avatar quickly regains health when wounded."
-LocHelpText="The Avatar quickly regains health when wounded."
-LocFlyOverText="Regeneration"
+LocFriendlyName="Regeneração do Avatar"
+LocLongDescription="O Avatar recupera rapidamente a saúde quando ferido."
+LocHelpText="O Avatar recupera rapidamente a saúde quando ferido."
+LocFlyOverText="Regeneração"
 
-; ******************** AUTOTEXT END **********************************************************************************************
+; ************************** AUTOTEXT END ********************************************************************************************
 
-
-;*************************** X2MissionSiteDescriptionTemplates *******************************************************************
+; ************************** X2MissionSiteDescriptionTemplates *******************************************************************
 [X2StrategyElement_DefaultMissionSiteDescriptions]
-HavenFirstName[0]=Humanity
-HavenFirstName[1]=Freedom
-HavenFirstName[2]=Unity
-HavenFirstName[3]=Rebel
-HavenFirstName[4]=Defiance
-HavenFirstName[5]=Independence
-HavenFirstName[6]=Liberty
-HavenFirstName[7]=Harmony
-HavenFirstName[8]=Emancipation
-HavenFirstName[9]=New Earth
+HavenFirstName[0]=Humanidade
+HavenFirstName[1]=Liberdade
+HavenFirstName[2]=Unidade
+HavenFirstName[3]=Rebelião
+HavenFirstName[4]=Desafio
+HavenFirstName[5]=Independência
+HavenFirstName[6]=Libertação
+HavenFirstName[7]=Harmonia
+HavenFirstName[8]=Emancipação
+HavenFirstName[9]=Nova Terra
 
-HavenSecondName[0]=Cove
-HavenSecondName[1]=Ridge
-HavenSecondName[2]=Point
-HavenSecondName[3]=Valley
-HavenSecondName[4]=Hollow
-HavenSecondName[5]=Hills
-HavenSecondName[6]=Falls
-HavenSecondName[7]=Rock
-HavenSecondName[8]=Creek
-HavenSecondName[9]=Springs
-HavenSecondName[10]=City
-HavenSecondName[11]=Canyon
+HavenSecondName[0]=Enseada
+HavenSecondName[1]=Serra
+HavenSecondName[2]=Ponto
+HavenSecondName[3]=Vale
+HavenSecondName[4]=Sombra
+HavenSecondName[5]=Colinas
+HavenSecondName[6]=Quedas
+HavenSecondName[7]=Rocha
+HavenSecondName[8]=Córrego
+HavenSecondName[9]=Nascente
+HavenSecondName[10]=Cidade
+HavenSecondName[11]=Cânion
 
-SlumsFirstName[0]=Spider
-SlumsFirstName[1]=Rat
-SlumsFirstName[2]=Pig
-SlumsFirstName[3]=Shack
-SlumsFirstName[4]=Mud
-SlumsFirstName[5]=Stink
-SlumsFirstName[6]=Blood
-SlumsFirstName[7]=Butchers
-SlumsFirstName[8]=Knife
-SlumsFirstName[9]=Shadow
-SlumsFirstName[10]=Gutter
-SlumsFirstName[11]=Ghost
-SlumsFirstName[12]=Needle
-SlumsFirstName[13]=Roach
+SlumsFirstName[0]=Aranha
+SlumsFirstName[1]=Rato
+SlumsFirstName[2]=Porco
+SlumsFirstName[3]=Barraco
+SlumsFirstName[4]=Lama
+SlumsFirstName[5]=Fedorento
+SlumsFirstName[6]=Sangue
+SlumsFirstName[7]=Carniceiros
+SlumsFirstName[8]=Faca
+SlumsFirstName[9]=Sombra
+SlumsFirstName[10]=Esgoto
+SlumsFirstName[11]=Fantasma
+SlumsFirstName[12]=Agulha
+SlumsFirstName[13]=Barata
 
-SlumsSecondName[0]=Station
-SlumsSecondName[1]=Alley
-SlumsSecondName[2]=Town
-SlumsSecondName[3]=Hill
-SlumsSecondName[4]=City
-SlumsSecondName[5]=Park
-SlumsSecondName[6]=Heights
-SlumsSecondName[7]=Flats
-SlumsSecondName[8]=Way
-SlumsSecondName[9]=Junction
-SlumsSecondName[10]=Point
-SlumsSecondName[11]=Road
-SlumsSecondName[12]=Street
+SlumsSecondName[0]=Estação
+SlumsSecondName[1]=Beco
+SlumsSecondName[2]=Vila
+SlumsSecondName[3]=Morro
+SlumsSecondName[4]=Cidade
+SlumsSecondName[5]=Parque
+SlumsSecondName[6]=Altos
+SlumsSecondName[7]=Planície
+SlumsSecondName[8]=Caminho
+SlumsSecondName[9]=Entrocamento
+SlumsSecondName[10]=Ponto
+SlumsSecondName[11]=Estrada
+SlumsSecondName[12]=Rua
 
-DistrictFirstName[0]=Security
-DistrictFirstName[1]=Patrol
+DistrictFirstName[0]=Segurança
+DistrictFirstName[1]=Patrulha
 DistrictFirstName[2]=Municipal
-DistrictFirstName[3]=Surveillance
-DistrictFirstName[4]=Priority
+DistrictFirstName[3]=Vigilância
+DistrictFirstName[4]=Prioridade
 DistrictFirstName[5]=Central
 
-DistrictSecondName[0]=District
-DistrictSecondName[1]=Zone
-DistrictSecondName[2]=Area
-DistrictSecondName[3]=Block
-DistrictSecondName[4]=Ward
-DistrictSecondName[5]=Precinct
+DistrictSecondName[0]=Distrito
+DistrictSecondName[1]=Zona
+DistrictSecondName[2]=Área
+DistrictSecondName[3]=Bloco
+DistrictSecondName[4]=Quarteirão
+DistrictSecondName[5]=Distrito Policial
 
 [CityCenter X2MissionSiteDescriptionTemplate]
-DescriptionString="ADVENT <XGParam:StrValue0/!DistrictFirstName/> <XGParam:StrValue1/!DistrictSecondName/>, <AdventCity>"
+DescriptionString="Distrito <XGParam:StrValue0/!DistrictFirstName/> <XGParam:StrValue1/!DistrictSecondName/>, <CidadeADVENT>"
 
 [Wilderness X2MissionSiteDescriptionTemplate]
-DescriptionString="Wilderness of <Region>"
+DescriptionString="Região Selvagem de <Região>"
 
 [Shanty X2MissionSiteDescriptionTemplate]
-DescriptionString="Resistance Haven: \"<XGParam:StrValue0/!HavenFirstName/> <XGParam:StrValue1/!HavenSecondName/>\", <Region>"
+DescriptionString="Refúgio da Resistência: \"<XGParam:StrValue0/!HavenFirstName/> <XGParam:StrValue1/!HavenSecondName/>\", <Região>"
 
 [SmallTown X2MissionSiteDescriptionTemplate]
-DescriptionString="Small town in ADVENT Patrol Zone <PatrolNum>, outskirts of <NearestCity>"
+DescriptionString="Pequena cidade na Zona de Patrulha ADVENT <PatrolNum>, nos arredores de <CidadeMaisPróxima>"
 
 [Slums X2MissionSiteDescriptionTemplate]
-DescriptionString="Slums District: \"<XGParam:StrValue0/!SlumsFirstName/> <XGParam:StrValue1/!SlumsSecondName/>\", <AdventCity>"
+DescriptionString="Distrito de Favelas: \"<XGParam:StrValue0/!SlumsFirstName/> <XGParam:StrValue1/!SlumsSecondName/>\", <CidadeADVENT>"
 
 [Facility X2MissionSiteDescriptionTemplate]
-DescriptionString="Alien Fortress"
+DescriptionString="Fortaleza Alienígena"
 
 ;**********************************************************************************************
 
 [NewYork X2CityTemplate]
-DisplayName="New York"
+DisplayName="Nova York"
 PoiText=""
 
 [Miami X2CityTemplate]
@@ -7200,12 +7201,12 @@ DisplayName="Seattle"
 PoiText=""
 
 [SanFransisco X2CityTemplate]
-DisplayName="San Francisco"
+DisplayName="São Francisco"
 PoiText=""
 
 [Chicago X2CityTemplate]
 DisplayName="Chicago"
-PoiText="At one time the third largest city in the United States, Chicago was staunchly defended by the American military at the onset of the invasion."
+PoiText="Em tempos, a terceira maior cidade dos Estados Unidos, Chicago foi firmemente defendida pelas forças militares americanas no início da invasão."
 
 [Houston X2CityTemplate]
 DisplayName="Houston"
@@ -7248,7 +7249,7 @@ DisplayName="St. Johns"
 PoiText=""
 
 [MexicoCity X2CityTemplate]
-DisplayName="Mexico City"
+DisplayName="Cidade do México"
 PoiText=""
 
 [Chihuahua X2CityTemplate]
@@ -7268,11 +7269,11 @@ DisplayName="Guadalajara"
 PoiText=""
 
 [Leon X2CityTemplate]
-DisplayName="Leon"
+DisplayName="León"
 PoiText=""
 
 [Bogota X2CityTemplate]
-DisplayName="Bogota"
+DisplayName="Bogotá"
 PoiText=""
 
 [BuenosAires X2CityTemplate]
@@ -7280,7 +7281,7 @@ DisplayName="Buenos Aires"
 PoiText=""
 
 [Cordoba X2CityTemplate]
-DisplayName="Cordoba"
+DisplayName="Córdoba"
 PoiText=""
 
 [Mendoza X2CityTemplate]
@@ -7292,8 +7293,8 @@ DisplayName="Rosario"
 PoiText=""
 
 [SaoPaulo X2CityTemplate]
-DisplayName="Sao Paulo"
-PoiText="The dense urban sprawl of Sao Paulo left little room for escape during the chaotic fray of the alien's initial attacks."
+DisplayName="São Paulo"
+PoiText="A densa expansão urbana de São Paulo deixou pouco espaço para escapar durante o caos dos ataques iniciais dos alienígenas."
 
 [RioDeJaneiro X2CityTemplate]
 DisplayName="Rio de Janeiro"
@@ -7304,7 +7305,7 @@ DisplayName="Salvador"
 PoiText=""
 
 [Brasilia X2CityTemplate]
-DisplayName="Brasilia"
+DisplayName="Brasília"
 PoiText=""
 
 [Manaus X2CityTemplate]
@@ -7316,8 +7317,8 @@ DisplayName="Fortaleza"
 PoiText=""
 
 [London X2CityTemplate]
-DisplayName="London"
-PoiText="At one time the most populous region in the United Kingdom, London was decimated by heavy fighting during the earliest days of the invasion."
+DisplayName="Londres"
+PoiText="Em tempos a região mais populosa do Reino Unido, Londres foi devastada por pesados combates durante os primeiros dias da invasão."
 
 [Birmingham X2CityTemplate]
 DisplayName="Birmingham"
@@ -7341,14 +7342,14 @@ PoiText=""
 
 [Paris X2CityTemplate]
 DisplayName="Paris"
-PoiText="Despite its survival through millennia of terrestrial warfare, the city of Paris was left largely uninhabited following the invasion."
+PoiText="Apesar de sua sobrevivência através de milênios de guerras terrestres, a cidade de Paris foi deixada em grande parte desabitada após a invasão."
 
 [Lyons X2CityTemplate]
-DisplayName="Lyons"
+DisplayName="Lyon"
 PoiText=""
 
 [Marseille X2CityTemplate]
-DisplayName="Marseille"
+DisplayName="Marselha"
 PoiText=""
 
 [Lille X2CityTemplate]
@@ -7356,35 +7357,35 @@ DisplayName="Lille"
 PoiText=""
 
 [Berlin X2CityTemplate]
-DisplayName="Berlin"
-PoiText="Despite a concerted effort to avoid drawing the conflict into the German cultural center of Berlin, the German military did little to dissuade the alien's plans."
+DisplayName="Berlim"
+PoiText="Apesar do esforço concentrado para evitar que o conflito chegasse ao centro cultural da Alemanha em Berlim, o exército alemão pouco fez para dissuadir os planos dos alienígenas."
 
 [Hamburg X2CityTemplate]
-DisplayName="Hamburg"
+DisplayName="Hamburgo"
 PoiText=""
 
 [Munich X2CityTemplate]
-DisplayName="Munich"
+DisplayName="Munique"
 PoiText=""
 
 [Cologne X2CityTemplate]
-DisplayName="Cologne"
+DisplayName="Colônia"
 PoiText=""
 
 [Moscow X2CityTemplate]
-DisplayName="Moscow"
-PoiText="Although the Russian military fought tooth and nail to defend their prized capital of Moscow, as their international counterparts discovered, resistance merely delayed the inevitable."
+DisplayName="Moscou"
+PoiText="Embora o exército russo tenha lutado com unhas e dentes para defender sua capital tão preciosa, assim como seus colegas internacionais descobriram, a resistência apenas atrasou o inevitável."
 
 [Novgorod X2CityTemplate]
 DisplayName="Novgorod"
 PoiText=""
 
 [Volgograd X2CityTemplate]
-DisplayName="Volgograd"
+DisplayName="Volgogrado"
 PoiText=""
 
 [SaintPetersburg X2CityTemplate]
-DisplayName="Saint Petersburg"
+DisplayName="São Petersburgo"
 PoiText=""
 
 [Mumbai X2CityTemplate]
@@ -7404,7 +7405,7 @@ DisplayName="Kolkata"
 PoiText=""
 
 [Tokyo X2CityTemplate]
-DisplayName="Tokyo"
+DisplayName="Tóquio"
 PoiText=""
 
 [Osaka X2CityTemplate]
@@ -7444,12 +7445,12 @@ DisplayName="Hong Kong"
 PoiText=""
 
 [Beijing X2CityTemplate]
-DisplayName="Beijing"
+DisplayName="Pequim"
 PoiText=""
 
 [Shanghai X2CityTemplate]
-DisplayName="Shanghai"
-PoiText="With the highest population density in the world, the city of Shanghai made for a nightmarish escape for the millions caught in the onslaught of the alien's opening salvo."
+DisplayName="Xangai"
+PoiText="Com a maior densidade populacional do mundo, a cidade de Xangai se tornou um pesadelo para os milhões de pessoas presas no ataque inicial dos alienígenas."
 
 [Guangzhou X2CityTemplate]
 DisplayName="Guangzhou"
@@ -7461,7 +7462,7 @@ PoiText=""
 
 [Lagos X2CityTemplate]
 DisplayName="Lagos"
-PoiText="While the once bustling Nigerian port of Lagos was left largely unscathed by the initial invasion, the ensuing international chaos sent the city into a spiral of lawlessness."
+PoiText="Embora o porto de Lagos, na Nigéria, tenha sido deixado em grande parte intacto durante a invasão inicial, o caos internacional subsequente levou a cidade a uma espiral de ilegalidade."
 
 [Kano X2CityTemplate]
 DisplayName="Kano"
@@ -7484,11 +7485,11 @@ DisplayName="Benin City"
 PoiText=""
 
 [Johannesburg X2CityTemplate]
-DisplayName="Johannesburg"
+DisplayName="Joanesburgo"
 PoiText=""
 
 [Pretoria X2CityTemplate]
-DisplayName="Pretoria"
+DisplayName="Pretória"
 PoiText=""
 
 [Durban X2CityTemplate]
@@ -7496,7 +7497,7 @@ DisplayName="Durban"
 PoiText=""
 
 [CapeTown X2CityTemplate]
-DisplayName="Cape Town"
+DisplayName="Cidade do Cabo"
 PoiText=""
 
 [PortElizabeth X2CityTemplate]
@@ -7520,472 +7521,468 @@ DisplayName="Port Said"
 PoiText=""
 
 [Continent_NorthAmerica X2ContinentTemplate]
-DisplayName="North America"
+DisplayName="América do Norte"
 
 [Continent_SouthAmerica X2ContinentTemplate]
-DisplayName="South America"
+DisplayName="América do Sul"
 
 [Continent_Europe X2ContinentTemplate]
-DisplayName="Europe"
+DisplayName="Europa"
 
 [Continent_Asia X2ContinentTemplate]
-DisplayName="Asia"
+DisplayName="Ásia"
 
 [Continent_Africa X2ContinentTemplate]
-DisplayName="Africa"
+DisplayName="África"
 
 [Continent_Oceania X2ContinentTemplate]
 DisplayName="Oceania"
 
 [WorldRegion_EastNA X2WorldRegionTemplate]
-DisplayName="Eastern U.S."
+DisplayName="Leste dos EUA"
 
 [WorldRegion_WestNA X2WorldRegionTemplate]
-DisplayName="Western U.S."
+DisplayName="Oeste dos EUA"
 
 [WorldRegion_SouthNA X2WorldRegionTemplate]
-DisplayName="New Mexico"
+DisplayName="Novo México"
 
 [WorldRegion_NorthSA X2WorldRegionTemplate]
-DisplayName="New Brazil"
+DisplayName="Novo Brasil"
 
 [WorldRegion_SouthSA X2WorldRegionTemplate]
-DisplayName="New Chile"
+DisplayName="Novo Chile"
 
 [WorldRegion_WestEU X2WorldRegionTemplate]
-DisplayName="Western Europe"
+DisplayName="Oeste da Europa"
 
 [WorldRegion_EastEU X2WorldRegionTemplate]
-DisplayName="Eastern Europe"
+DisplayName="Leste da Europa"
 
 [WorldRegion_NorthAF X2WorldRegionTemplate]
-DisplayName="West Africa"
+DisplayName="Oeste da África"
 
 [WorldRegion_EastAF X2WorldRegionTemplate]
-DisplayName="East Africa"
+DisplayName="Leste da África"
 
 [WorldRegion_SouthAF X2WorldRegionTemplate]
-DisplayName="South Africa"
+DisplayName="África do Sul"
 
 [WorldRegion_EastAS X2WorldRegionTemplate]
-DisplayName="East Asia"
+DisplayName="Leste da Ásia"
 
 [WorldRegion_WestAS X2WorldRegionTemplate]
-DisplayName="West Asia"
+DisplayName="Oeste da Ásia"
 
 [WorldRegion_NorthAS X2WorldRegionTemplate]
-DisplayName="New Arctic"
+DisplayName="Nova Ártica"
 
 [WorldRegion_SouthAS X2WorldRegionTemplate]
-DisplayName="New India"
+DisplayName="Nova Índia"
 
 [WorldRegion_NorthOC X2WorldRegionTemplate]
-DisplayName="New Indonesia"
+DisplayName="Nova Indonésia"
 
 [WorldRegion_SouthOC X2WorldRegionTemplate]
-DisplayName="New Australia"
+DisplayName="Nova Austrália"
 
-; Body Parts: Use TemplateName from DefaultContent.ini's BodyPartTemplateConfig array
-; NOT WORKING - @rmcfall
+; Partes do Corpo: Use o TemplateName do array BodyPartTemplateConfig em DefaultContent.ini
+; NÃO FUNCIONANDO - @rmcfall
 
 ;
-;Hairstyles
+;Estilos de Cabelo Feminino
 ;
 
-;FEMALE HAIR
+;CABELO FEMININO
 [FemHair_Blank X2BodyPartTemplate]
-DisplayName="Bald"
+DisplayName="Careca"
 [Female_LongStraight X2BodyPartTemplate]
-DisplayName="Long Straight"
+DisplayName="Longo e Liso"
 [Female_LongStraightBangs X2BodyPartTemplate]
-DisplayName="Long Straight Bangs"
+DisplayName="Longo e Liso com Franja"
 [Female_LongWavy X2BodyPartTemplate]
-DisplayName="Long Wavy"
+DisplayName="Longo e Ondulado"
 [FemHairShort X2BodyPartTemplate]
-DisplayName="Pixie Cut"
+DisplayName="Corte Pixie"
 [FemHair_A X2BodyPartTemplate]
-DisplayName="Ponytail"
+DisplayName="Rabo de Cavalo"
 [FemHair_B X2BodyPartTemplate]
-DisplayName="Bangs and a Bun"
+DisplayName="Franja e Coque"
 [FemHair_C X2BodyPartTemplate]
-DisplayName="Bun"
+DisplayName="Coque"
 [FemHair_D X2BodyPartTemplate]
-DisplayName="Fauxhawk Ponytail"
+DisplayName="Falso Moicano com Rabo de Cavalo"
 [FemHair_E X2BodyPartTemplate]
-DisplayName="Ponytail Bangs"
+DisplayName="Rabo de Cavalo com Franja"
 [FemHair_F X2BodyPartTemplate]
-DisplayName="Dirty Ponytail"
+DisplayName="Rabo de Cavalo Desarrumado"
 [FemHair_G X2BodyPartTemplate]
-DisplayName="Dirty Ponytail Bangs"
+DisplayName="Rabo de Cavalo Desarrumado com Franja"
 [FemHair_H X2BodyPartTemplate]
-DisplayName="Loose Bun"
+DisplayName="Coque Solto"
 [FemHair_I X2BodyPartTemplate]
-DisplayName="Dirty Bangs and a Bun"
+DisplayName="Franja Desarrumada e Coque"
 [FemHair_J X2BodyPartTemplate]
-DisplayName="Dirty Braid"
+DisplayName="Trança Desarrumada"
 [FemHair_K X2BodyPartTemplate]
-DisplayName="Braid"
+DisplayName="Trança"
 [FemHair_L X2BodyPartTemplate]
-DisplayName="Knitting Needle Bun"
+DisplayName="Coque com Agulhas de Tricô"
 [FemHair_M X2BodyPartTemplate]
 DisplayName="Bob"
 [FemHair_N X2BodyPartTemplate]
-DisplayName="Shaved Fauxhawk"
+DisplayName="Falso Moicano com Cabelo Raspado"
 [FemHair_O X2BodyPartTemplate]
-DisplayName="Half-shaved Undercut"
+DisplayName="Undercut com Metade do Cabelo Raspado"
 [FemHair_P X2BodyPartTemplate]
 DisplayName="Punk"
 [FemHair_Buzzcut X2BodyPartTemplate]
-DisplayName="Buzzcut Fade"
+DisplayName="Corte Degradê Estilizado"
 [FemHair_Buzzcut_2 X2BodyPartTemplate]
-DisplayName="Buzzcut"
+DisplayName="Corte Degradê"
 [Classic_F X2BodyPartTemplate]
-DisplayName="Blowout"
+DisplayName="Escovinha"
 [AfroShort_F X2BodyPartTemplate]
-DisplayName="Close Crop"
+DisplayName="Corte Rente"
 [Flattop_F X2BodyPartTemplate]
-DisplayName="Flat Top"
+DisplayName="Topete"
 
-;VETERAN FEMALE HAIR
+;CABELO FEMININO VETERANO
 [Vet_Afro_F X2BodyPartTemplate]
 DisplayName="Afro"
 [Vet_CleanDreadDown_F X2BodyPartTemplate]
-DisplayName="Dreadlocks"
+DisplayName="Dreadlocks Arrumados"
 [Vet_CleanDreadPony_F X2BodyPartTemplate]
-DisplayName="Dreads Ponytail"
+DisplayName="Rabo de Cavalo Dreadlocks Arrumados"
 [Vet_Cornrows_F X2BodyPartTemplate]
-DisplayName="Cornrows"
+DisplayName="Tranças Nagô"
 [Vet_DirtyDreadDown_F X2BodyPartTemplate]
-DisplayName="Wild Dreadlocks"
+DisplayName="Dreadlocks Desarrumados"
 [Vet_DirtyDreadPony_F X2BodyPartTemplate]
-DisplayName="Wild Dreads Ponytail"
+DisplayName="Rabo de Cavalo com Dreadlocks Desarrumados"
 [Vet_SpikeMohawk_F X2BodyPartTemplate]
-DisplayName="Spiky Mohawk"
+DisplayName="Moicano Espetado"
 [Vet_ThickMohawk_F X2BodyPartTemplate]
-DisplayName="Mohawk"
+DisplayName="Moicano"
 [Vet_Viking_F X2BodyPartTemplate]
 DisplayName="Viking"
 
-;MALE HAIR
+;CABELO MASCULINO
 [MaleHair_Blank X2BodyPartTemplate]
-DisplayName="Bald"
+DisplayName="Careca"
 [Male_LongCurls X2BodyPartTemplate]
-DisplayName="Long Curls"
+DisplayName="Cachos Longos"
 [Male_LongLayers X2BodyPartTemplate]
-DisplayName="Long Layers"
+DisplayName="Camadas Longas"
 [MaleHairShort_A X2BodyPartTemplate]
-DisplayName="Brushed Up Short"
+DisplayName="Curto Escovado para Cima"
 [MaleHairShort_B X2BodyPartTemplate]
-DisplayName="Short"
+DisplayName="Curto"
 [MaleHairShort_C X2BodyPartTemplate]
-DisplayName="Simple Short"
+DisplayName="Simples Curto"
 [MaleHair_A X2BodyPartTemplate]
-DisplayName="Slicked-back Ponytail"
+DisplayName="Rabo de Cavalo Penteado para Trás"
 [MaleHair_B X2BodyPartTemplate]
-DisplayName="Loose Ponytail Thick"
+DisplayName="Rabo de Cavalo Solto Espesso"
 [MaleHair_C X2BodyPartTemplate]
-DisplayName="Loose Ponytail"
+DisplayName="Rabo de Cavalo Solto"
 [MaleHair_D X2BodyPartTemplate]
-DisplayName="Slicked-back Braid"
+DisplayName="Trança Penteada para Trás"
 [MaleHair_E X2BodyPartTemplate]
-DisplayName="Loose Braid"
+DisplayName="Trança Solta"
 [MaleHair_F X2BodyPartTemplate]
-DisplayName="Man Bun"
+DisplayName="Coque Masculino"
 [MaleHair_Buzzcut X2BodyPartTemplate]
-DisplayName="Buzzcut Fade"
+DisplayName="Corte Degradê Estilizado"
 [MaleHair_Buzzcut_2 X2BodyPartTemplate]
-DisplayName="Buzzcut"
+DisplayName="Corte Degradê"
 [AfroShort_M X2BodyPartTemplate]
-DisplayName="Short Curly"
+DisplayName="Curto e Cacheado"
 [Flattop_M X2BodyPartTemplate]
-DisplayName="Flat Top"
+DisplayName="Topete Rente"
 [SidMeier_Hair X2BodyPartTemplate]
-DisplayName="Receding Hair Medium"
+DisplayName="Cabelo Recuado Médio"
 [Beaglerush_Hair X2BodyPartTemplate]
-DisplayName="Receding Hair Short"
+DisplayName="Cabelo Recuado Curto"
 [VanDoorn_Hair X2BodyPartTemplate]
-DisplayName="Parted"
+DisplayName="Cabelo Partido"
 [Classic_M X2BodyPartTemplate]
-DisplayName="Blowout"
+DisplayName="Escovinha"
 
-;VETERAN MALE HAIR
+;CABELO MASCULINO VETERANO
 [Vet_Afro_M X2BodyPartTemplate]
 DisplayName="Afro"
 [Vet_CleanDreadDown_M X2BodyPartTemplate]
-DisplayName="Dreadlocks"
+DisplayName="Dreadlocks Arrumados"
 [Vet_CleanDreadPony_M X2BodyPartTemplate]
-DisplayName="Dreads Ponytail"
+DisplayName="Rabo de Cavalo Dreadlocks Arrumados"
 [Vet_Cornrows_M X2BodyPartTemplate]
-DisplayName="Cornrows"
+DisplayName="Tranças Nagô"
 [Vet_DirtyDreadDown_M X2BodyPartTemplate]
-DisplayName="Wild Dreadlocks"
+DisplayName="Dreadlocks Desarrumados"
 [Vet_DirtyDreadPony_M X2BodyPartTemplate]
-DisplayName="Wild Dreads Ponytail"
+DisplayName="Rabo de Cavalo com Dreadlocks Desarrumados"
 [Vet_SpikeMohawk_M X2BodyPartTemplate]
-DisplayName="Spiky Mohawk"
+DisplayName="Moicano Espetado"
 [Vet_ThickMohawk_M X2BodyPartTemplate]
-DisplayName="Mohawk"
+DisplayName="Moicano"
 [Vet_Viking_M X2BodyPartTemplate]
 DisplayName="Viking"
 
-;
-;Beards
-;
+;BARBAS
 [MaleBeard_Blank X2BodyPartTemplate]
-DisplayName="None"
+DisplayName="Nenhuma"
 [SM_Beard_Chin X2BodyPartTemplate]
-DisplayName="Goatee"
+DisplayName="Cavanhaque"
 [SM_Beard_Lincoln X2BodyPartTemplate]
-DisplayName="Chin Curtain"
+DisplayName="Cavanhaque Longo"
 [SM_Beard_Goatee X2BodyPartTemplate]
-DisplayName="Goatee and Moustache"
+DisplayName="Cavanhaque e Bigode"
 [SM_Beard_Full X2BodyPartTemplate]
-DisplayName="Thick Beard"
+DisplayName="Barba Cheia"
 [SM_Beard_Handlebar X2BodyPartTemplate]
-DisplayName="Horseshoe Moustache"
+DisplayName="Bigode Ferradura"
 [SM_Beard_Moustache X2BodyPartTemplate]
-DisplayName="Moustache"
+DisplayName="Bigode"
 [SM_Beard_MuttonChop X2BodyPartTemplate]
-DisplayName="Mutton Chops"
+DisplayName="Costeletas"
 [SM_Beard_Sideburns X2BodyPartTemplate]
-DisplayName="Sideburns"
+DisplayName="Costeletas"
 [SM_Beard_FriendlyChops X2BodyPartTemplate]
-DisplayName="Mutton Chops and 'Stache"
+DisplayName="Costeletas Amigáveis e Bigode"
 [SM_Beard_HalfBurns X2BodyPartTemplate]
-DisplayName="Short Sideburns"
+DisplayName="Costeletas Curtas"
 [SM_Beard_Scruffy X2BodyPartTemplate]
-DisplayName="Scruffy Beard"
+DisplayName="Barba Por Fazer"
 [SM_Beard_Sulz X2BodyPartTemplate]
-DisplayName="Sideburns and Goatee"
+DisplayName="Costeletas e Cavanhaque"
 [ShortFullBeard X2BodyPartTemplate]
-DisplayName="Five o' clock Shadow"
+DisplayName="Barba de Três Dias"
 [ShortGoatee X2BodyPartTemplate]
-DisplayName="Stubble Goatee"
+DisplayName="Barba por Fazer e Cavanhaque"
 [ShortHandlebar X2BodyPartTemplate]
-DisplayName="Short Horseshoe Moustache"
+DisplayName="Bigode Ferradura Curto"
 [ShortMoustache X2BodyPartTemplate]
-DisplayName="Short Moustache"
+DisplayName="Bigode Curto"
 [ShortMuttonChops X2BodyPartTemplate]
-DisplayName="Stubble Mutton Chops"
+DisplayName="Costeletas por Fazer"
 [ShortSideburns X2BodyPartTemplate]
-DisplayName="Stubble Sideburns"
+DisplayName="Costeletas por Fazer"
 [Beard_Beaglerush X2BodyPartTemplate]
-DisplayName="Scrappy Beard"
+DisplayName="Barba Desgrenhada"
 
-;
-;Face
-;
+;ROSTO
 [AfrMale_A X2BodyPartTemplate]
-DisplayName="Face A"
+DisplayName="Rosto A"
 [AfrMale_B X2BodyPartTemplate]
-DisplayName="Face B"
+DisplayName="Rosto B"
 [AfrMale_C X2BodyPartTemplate]
-DisplayName="Face C"
+DisplayName="Rosto C"
 [AfrMale_D X2BodyPartTemplate]
-DisplayName="Face D"
+DisplayName="Rosto D"
 [AfrMale_E X2BodyPartTemplate]
-DisplayName="Face E"
+DisplayName="Rosto E"
 [AfrMale_F X2BodyPartTemplate]
-DisplayName="Face F"
+DisplayName="Rosto F"
 
 [AsnMale_A X2BodyPartTemplate]
-DisplayName="Face A"
+DisplayName="Rosto A"
 [AsnMale_B X2BodyPartTemplate]
-DisplayName="Face B"
+DisplayName="Rosto B"
 [AsnMale_C X2BodyPartTemplate]
-DisplayName="Face C"
+DisplayName="Rosto C"
 [AsnMale_D X2BodyPartTemplate]
-DisplayName="Face D"
+DisplayName="Rosto D"
 [AsnMale_E X2BodyPartTemplate]
-DisplayName="Face E"
+DisplayName="Rosto E"
 [AsnMale_F X2BodyPartTemplate]
-DisplayName="Face F"
+DisplayName="Rosto F"
 
 [CaucMale_A X2BodyPartTemplate]
-DisplayName="Face A"
+DisplayName="Rosto A"
 [CaucMale_B X2BodyPartTemplate]
-DisplayName="Face B"
+DisplayName="Rosto B"
 [CaucMale_C X2BodyPartTemplate]
-DisplayName="Face C"
+DisplayName="Rosto C"
 [CaucMale_D X2BodyPartTemplate]
-DisplayName="Face D"
+DisplayName="Rosto D"
 [CaucMale_E X2BodyPartTemplate]
-DisplayName="Face E"
+DisplayName="Rosto E"
 [CaucMale_F X2BodyPartTemplate]
-DisplayName="Face F"
+DisplayName="Rosto F"
 
 [LatMale_A X2BodyPartTemplate]
-DisplayName="Face A"
+DisplayName="Rosto A"
 [LatMale_B X2BodyPartTemplate]
-DisplayName="Face B"
+DisplayName="Rosto B"
 [LatMale_C X2BodyPartTemplate]
-DisplayName="Face C"
+DisplayName="Rosto C"
 [LatMale_D X2BodyPartTemplate]
-DisplayName="Face D"
+DisplayName="Rosto D"
 [LatMale_E X2BodyPartTemplate]
-DisplayName="Face E"
+DisplayName="Rosto E"
 [LatMale_F X2BodyPartTemplate]
-DisplayName="Face F"
+DisplayName="Rosto F"
 
 [AfrFem_A X2BodyPartTemplate]
-DisplayName="Face A"
+DisplayName="Rosto A"
 [AfrFem_B X2BodyPartTemplate]
-DisplayName="Face B"
+DisplayName="Rosto B"
 [AfrFem_C X2BodyPartTemplate]
-DisplayName="Face C"
+DisplayName="Rosto C"
 [AfrFem_D X2BodyPartTemplate]
-DisplayName="Face D"
+DisplayName="Rosto D"
 [AfrFem_E X2BodyPartTemplate]
-DisplayName="Face E"
+DisplayName="Rosto E"
 [AfrFem_F X2BodyPartTemplate]
-DisplayName="Face F"
+DisplayName="Rosto F"
 
 [AsnFem_A X2BodyPartTemplate]
-DisplayName="Face A"
+DisplayName="Rosto A"
 [AsnFem_B X2BodyPartTemplate]
-DisplayName="Face B"
+DisplayName="Rosto B"
 [AsnFem_C X2BodyPartTemplate]
-DisplayName="Face C"
+DisplayName="Rosto C"
 [AsnFem_D X2BodyPartTemplate]
-DisplayName="Face D"
+DisplayName="Rosto D"
 [AsnFem_E X2BodyPartTemplate]
-DisplayName="Face E"
+DisplayName="Rosto E"
 [AsnFem_F X2BodyPartTemplate]
-DisplayName="Face F"
+DisplayName="Rosto F"
 
 [CaucFem_A X2BodyPartTemplate]
-DisplayName="Face A"
+DisplayName="Rosto A"
 [CaucFem_B X2BodyPartTemplate]
-DisplayName="Face B"
+DisplayName="Rosto B"
 [CaucFem_C X2BodyPartTemplate]
-DisplayName="Face C"
+DisplayName="Rosto C"
 [CaucFem_D X2BodyPartTemplate]
-DisplayName="Face D"
+DisplayName="Rosto D"
 [CaucFem_E X2BodyPartTemplate]
-DisplayName="Face E"
+DisplayName="Rosto E"
 [CaucFem_F X2BodyPartTemplate]
-DisplayName="Face F"
+DisplayName="Rosto F"
 
 [LatFem_A X2BodyPartTemplate]
-DisplayName="Face A"
+DisplayName="Rosto A"
 [LatFem_B X2BodyPartTemplate]
-DisplayName="Face B"
+DisplayName="Rosto B"
 [LatFem_C X2BodyPartTemplate]
-DisplayName="Face C"
+DisplayName="Rosto C"
 [LatFem_D X2BodyPartTemplate]
-DisplayName="Face D"
+DisplayName="Rosto D"
 [LatFem_E X2BodyPartTemplate]
-DisplayName="Face E"
+DisplayName="Rosto E"
 [LatFem_F X2BodyPartTemplate]
-DisplayName="Face F"
+DisplayName="Rosto F"
 
 
 ;
 ;LowerFace
 ;
 [Prop_FaceLower_Blank X2BodyPartTemplate]
-DisplayName="None"
+DisplayName="Nenhum"
 
 [Cigarette X2BodyPartTemplate]
-DisplayName="Cigarette"
+DisplayName="Cigarro"
 [Cigar X2BodyPartTemplate]
-DisplayName="Cigar"
+DisplayName="Charuto"
 [Bandana1_M X2BodyPartTemplate]
-DisplayName="XCOM Bandana"
+DisplayName="Bandana da XCOM"
 [Bandana1_F X2BodyPartTemplate]
-DisplayName="XCOM Bandana"
+DisplayName="Bandana da XCOM"
 [Bandana2_M X2BodyPartTemplate]
-DisplayName="Skull Bandana"
+DisplayName="Bandana Caveira"
 [Bandana2_F X2BodyPartTemplate]
-DisplayName="Skull Bandana"
+DisplayName="Bandana Caveira"
 [Bandana3_M X2BodyPartTemplate]
-DisplayName="Biker Bandana"
+DisplayName="Bandana de Motociclista"
 [Bandana3_F X2BodyPartTemplate]
-DisplayName="Biker Bandana"
+DisplayName="Bandana de Motociclista"
 [Bandana4_M X2BodyPartTemplate]
-DisplayName="Striped Bandana"
+DisplayName="Bandana Listrada"
 [Bandana4_F X2BodyPartTemplate]
-DisplayName="Striped Bandana"
+DisplayName="Bandana Listrada"
 
 ;
 ;UpperFace
 ;
 [Prop_FaceUpper_Blank X2BodyPartTemplate]
-DisplayName="None"
+DisplayName="Nenhum"
 
 [Aviators_M X2BodyPartTemplate]
-DisplayName="Aviators"
+DisplayName="Óculos Aviadores"
 [SportSunglasses_M X2BodyPartTemplate]
-DisplayName="Sports Sunglasses"
+DisplayName="Óculos Esportivos"
 [ClassySunglasses_M X2BodyPartTemplate]
-DisplayName="Dark Sunglasses"
+DisplayName="Óculos Escuros"
 [HippySunglasses_M X2BodyPartTemplate]
-DisplayName="Hippie Sunglasses"
+DisplayName="Óculos Hippie"
 [FancyGlasses_M X2BodyPartTemplate]
-DisplayName="Half-framed Glasses"
+DisplayName="Óculos de Meia armação"
 [PlainGlasses_M X2BodyPartTemplate]
-DisplayName="Thick-rimmed Glasses"
+DisplayName="Óculos de Armação Grossa"
 [HippyGlasses_M X2BodyPartTemplate]
-DisplayName="Hippie Glasses"
+DisplayName="Óculos Hippie"
 [Monacle_M X2BodyPartTemplate]
-DisplayName="Monocle"
+DisplayName="Monóculo"
 [Eyepatch_M X2BodyPartTemplate]
-DisplayName="Eyepatch"
+DisplayName="Tapa-olho"
 [BrowRing_M X2BodyPartTemplate]
-DisplayName="Eyebrow Ring"
+DisplayName="Piercing na Sobrancelha"
 [Earring_M X2BodyPartTemplate]
-DisplayName="Earring"
+DisplayName="Brinco"
 [LipRing_M X2BodyPartTemplate]
-DisplayName="Lip Ring"
+DisplayName="Piercing no Lábio"
 [NoseRing_M X2BodyPartTemplate]
-DisplayName="Nose Ring"
+DisplayName="Piercing no Nariz"
 [NoseStud_M X2BodyPartTemplate]
-DisplayName="Nose Stud"
+DisplayName="Piercing no Nariz"
 
 [Aviators_F X2BodyPartTemplate]
-DisplayName="Aviators"
+DisplayName="Óculos Aviadores"
 [SportSunglasses_F X2BodyPartTemplate]
-DisplayName="Sports Sunglasses"
+DisplayName="Óculos Esportivos"
 [ClassySunglasses_F X2BodyPartTemplate]
-DisplayName="Dark Sunglasses"
+DisplayName="Óculos Escuros"
 [HippySunglasses_F X2BodyPartTemplate]
-DisplayName="Hippie Sunglasses"
+DisplayName="Óculos Hippie"
 [FancyGlasses_F X2BodyPartTemplate]
-DisplayName="Half-framed Glasses"
+DisplayName="Óculos de Meia armação"
 [PlainGlasses_F X2BodyPartTemplate]
-DisplayName="Thick-rimmed Glasses"
+DisplayName="Óculos de Armação Grossa"
 [HippyGlasses_F X2BodyPartTemplate]
-DisplayName="Hippie Glasses"
+DisplayName="Óculos Hippie"
 [Monacle_F X2BodyPartTemplate]
-DisplayName="Monocle"
+DisplayName="Monóculo"
 [Eyepatch_F X2BodyPartTemplate]
-DisplayName="Eyepatch"
+DisplayName="Tapa-olho"
 [BrowRing_F X2BodyPartTemplate]
-DisplayName="Eyebrow Ring"
+DisplayName="Piercing na Sobrancelha"
 [Earring_F X2BodyPartTemplate]
-DisplayName="Earring"
+DisplayName="Brinco"
 [LipRing_F X2BodyPartTemplate]
-DisplayName="Lip Ring"
+DisplayName="Piercing no Lábio"
 [NoseRing_F X2BodyPartTemplate]
-DisplayName="Nose Ring"
+DisplayName="Piercing no Nariz"
 [NoseStud_F X2BodyPartTemplate]
-DisplayName="Nose Stud"
+DisplayName="Piercing no Nariz"
 
 ;
-;Helmets and Hats
+;Capacetes e bonés
 ;
 [Helmet_0_NoHelmet_M X2BodyPartTemplate]
-DisplayName="None"
+DisplayName="Nenhum"
 [Helmet_0_NoHelmet_F X2BodyPartTemplate]
-DisplayName="None"
+DisplayName="Nenhum"
 [Hat_A_Ballcap_M X2BodyPartTemplate]
-DisplayName="Ballcap"
+DisplayName="Boné"
 [Hat_A_Ballcap_F X2BodyPartTemplate]
-DisplayName="Ballcap"
+DisplayName="Boné"
 [Hat_D_BallcapBackwards_M X2BodyPartTemplate]
-DisplayName="Backwards Ballcap"
+DisplayName="Boné de trás pra frente"
 [Hat_D_BallcapBackwards_F X2BodyPartTemplate]
-DisplayName="Backwards Ballcap"
+DisplayName="Boné de trás pra frente"
 [Hat_E_Bandana_M X2BodyPartTemplate]
 DisplayName="Bandana"
 [Hat_E_Bandana_F X2BodyPartTemplate]
@@ -7999,21 +7996,21 @@ DisplayName="Boonie Hat"
 [Hat_F_BooniePinned_F X2BodyPartTemplate]
 DisplayName="Boonie Hat"
 [Hat_B_Skullcap_M X2BodyPartTemplate]
-DisplayName="Beanie"
+DisplayName="Gorro"
 [Hat_B_Skullcap_F X2BodyPartTemplate]
-DisplayName="Beanie"
+DisplayName="Gorro"
 [Hat_C_DressGray_M X2BodyPartTemplate]
-DisplayName="Dress Hat"
+DisplayName="Chapéu de gala"
 [Hat_C_DressGray_F X2BodyPartTemplate]
-DisplayName="Dress Hat"
+DisplayName="Chapéu de gala"
 [Helmet_A_ReconHood_M X2BodyPartTemplate]
-DisplayName="Recon Hood"
+DisplayName="Capuz de Recon"
 [Helmet_A_ReconHood_F X2BodyPartTemplate]
-DisplayName="Recon Hood"
+DisplayName="Capuz de Recon"
 [Helmet_B_Shemagh_M X2BodyPartTemplate]
-DisplayName="Shemagh Scarf"
+DisplayName="Cachecol Shemagh"
 [Helmet_B_Shemagh_F X2BodyPartTemplate]
-DisplayName="Shemagh Scarf"
+DisplayName="Cachecol Shemagh"
 [Helmet_C1_Delta_M X2BodyPartTemplate]
 DisplayName="Delta 1"
 [Helmet_C1_Delta_F X2BodyPartTemplate]
@@ -8047,9 +8044,9 @@ DisplayName="Plated 4"
 [Helmet_D4_Plated_F X2BodyPartTemplate]
 DisplayName="Plated 4"
 [Helmet_E_HockeyMask_M X2BodyPartTemplate]
-DisplayName="Hockey Mask"
+DisplayName="Máscara de Hockey"
 [Helmet_E_HockeyMask_F X2BodyPartTemplate]
-DisplayName="Hockey Mask"
+DisplayName="Máscara de Hockey"
 [Helmet_F1_Powered_M X2BodyPartTemplate]
 DisplayName="Powered 1"
 [Helmet_F1_Powered_F X2BodyPartTemplate]
@@ -8068,721 +8065,728 @@ DisplayName="Powered 4"
 DisplayName="Powered 4"
 
 ;
-;Patterns
+;Emblemas
 ;
 [Pat_Nothing X2BodyPartTemplate]
-DisplayName="None"
+DisplayName="Nenhum"
 [Camo_Digital X2BodyPartTemplate]
 DisplayName="Digital"
 [Camo_Wilderness X2BodyPartTemplate]
-DisplayName="Classic"
-[Camo_AlienFacility X2BodyPartTemplate]
-DisplayName="Alien"
+DisplayName="Clássico"
+[Camo_AlienFacility X2
+
+BodyPartTemplate]
+DisplayName="Alienígena"
 [Camo_Tundra X2BodyPartTemplate]
 DisplayName="Tundra"
 [Hex X2BodyPartTemplate]
 DisplayName="Hex"
 [Camo_Arid X2BodyPartTemplate]
-DisplayName="Arid"
+DisplayName="Árido"
 [Camo_A X2BodyPartTemplate]
-DisplayName="Blots"
+DisplayName="Manchas"
 [Camo_B X2BodyPartTemplate]
-DisplayName="Classic 2"
+DisplayName="Clássico 2"
 [PC_A X2BodyPartTemplate]
-DisplayName="Happy"
+DisplayName="Feliz"
 [Zebra X2BodyPartTemplate]
 DisplayName="Zebra"
 [Plaid_A X2BodyPartTemplate]
-DisplayName="Plaid"
+DisplayName="Xadrez"
 [Diagonals X2BodyPartTemplate]
-DisplayName="Tiger"
+DisplayName="Tigre"
 [Hearts X2BodyPartTemplate]
-DisplayName="Hearts"
+DisplayName="Corações"
 [PolkaDots X2BodyPartTemplate]
-DisplayName="Dots"
+DisplayName="Bolinhas"
 [Stripes X2BodyPartTemplate]
-DisplayName="Stripes"
+DisplayName="Listras"
 [Tigerstripe X2BodyPartTemplate]
-DisplayName="Wild"
+DisplayName="Selvagem"
 [Shemag X2BodyPartTemplate]
-DisplayName="Shemagh"
+DisplayName="Lenço Shemagh"
 
 ;
 ;Tatoos
 ;
 [Tattoo_Arms_BLANK X2BodyPartTemplate]
-DisplayName="None"
+DisplayName="Nenhum"
 [Tattoo_Arms_01 X2BodyPartTemplate]
-DisplayName="Chryssalid Killer"
+DisplayName="Assassino de Chryssalid"
 [Tattoo_Arms_02 X2BodyPartTemplate]
-DisplayName="Berserker Hunter"
+DisplayName="Caçador de Berserker"
 [Tattoo_Arms_03 X2BodyPartTemplate]
-DisplayName="Snake Wrap"
+DisplayName="Envolvimento de Serpente"
 [Tattoo_Arms_04 X2BodyPartTemplate]
-DisplayName="Sliced Sectoid"
+DisplayName="Sectoid Fatiado"
 [Tattoo_Arms_05 X2BodyPartTemplate]
-DisplayName="XCOM Sleeve"
+DisplayName="Mangas da XCOM"
 [Tattoo_Arms_06 X2BodyPartTemplate]
-DisplayName="Electric Alien"
+DisplayName="Alienígena Elétrico"
 [Tattoo_Arms_07 X2BodyPartTemplate]
-DisplayName="Bar Code"
+DisplayName="Código de Barras"
 [Tattoo_Arms_08 X2BodyPartTemplate]
-DisplayName="Death Sleeve"
+DisplayName="Manga da Morte"
 [Tattoo_Arms_09 X2BodyPartTemplate]
-DisplayName="Earth Sleeve"
+DisplayName="Manga da Terra"
 [Tattoo_Arms_10 X2BodyPartTemplate]
-DisplayName="Ace in the Hole"
+DisplayName="Ás na Manga"
 [Tattoo_Arms_11 X2BodyPartTemplate]
-DisplayName="Shadow Wolf"
+DisplayName="Lobo Sombrio"
 
 ;
-;Scars
+;Cicatrizes
 ;
 [Scars_BLANK X2BodyPartTemplate]
-DisplayName="None"
+DisplayName="Nenhum"
 [Scars_01_Burn X2BodyPartTemplate]
-DisplayName="Half-face Burn"
+DisplayName="Queimadura na Metade do Rosto"
 [Scars_02_Burn X2BodyPartTemplate]
-DisplayName="Cheek Burn"
+DisplayName="Queimadura na Bochecha"
 [Scars_03_Burn X2BodyPartTemplate]
-DisplayName="Eye Burn"
+DisplayName="Queimadura no Olho"
 [Scars_04_Burn X2BodyPartTemplate]
-DisplayName="Face Burn"
+DisplayName="Queimadura no Rosto"
 [Scars_01_Slash X2BodyPartTemplate]
-DisplayName="Temple Slash"
+DisplayName="Corte na Têmpora"
 [Scars_02_Slash X2BodyPartTemplate]
-DisplayName="Brow and Cheek Slash"
+DisplayName="Corte na Sobrancelha e Bochecha"
 [Scars_03_Slash X2BodyPartTemplate]
-DisplayName="Eye and Cheek Slash"
+DisplayName="Corte no Olho e Bochecha"
 [Scars_04_Slash X2BodyPartTemplate]
-DisplayName="Lip Slash"
+DisplayName="Corte no Lábio"
 [Scars_05_Slash X2BodyPartTemplate]
-DisplayName="Cheek Slash"
+DisplayName="Corte na Bochecha"
 [Scars_06_Slash X2BodyPartTemplate]
-DisplayName="Ear Slash"
+DisplayName="Corte na Orelha"
 [Scars_07_Slash X2BodyPartTemplate]
-DisplayName="Maximum Slash Scars"
+DisplayName="Cortes Máximos"
 [Scars_01_Stitch X2BodyPartTemplate]
-DisplayName="Brow Stitch Left"
+DisplayName="Ponto na Sobrancelha Esquerda"
 [Scars_02_Stitch X2BodyPartTemplate]
-DisplayName="Cheek Stitch 1"
+DisplayName="Ponto na Bochecha 1"
 [Scars_03_Stitch X2BodyPartTemplate]
-DisplayName="Cheek and Brow Stitch"
+DisplayName="Ponto na Sobrancelha e Bochecha"
 [Scars_04_Stitch X2BodyPartTemplate]
-DisplayName="Brow Stitch Right"
+DisplayName="Ponto na Sobrancelha Direita"
 [Scars_05_Stitch X2BodyPartTemplate]
-DisplayName="Cheek Stitch 2"
+DisplayName="Ponto na Bochecha 2"
 [Scars_06_Stitch X2BodyPartTemplate]
-DisplayName="Lower Cheek Stitch"
+DisplayName="Ponto na Bochecha Inferior"
 [Scars_07_Stitch X2BodyPartTemplate]
-DisplayName="Lower Lip Stitch"
+DisplayName="Ponto no Lábio Inferior"
 [Scars_08_Stitch X2BodyPartTemplate]
-DisplayName="Upper Lip Stitch"
+DisplayName="Ponto no Lábio Superior"
 [Scars_09_Stitch X2BodyPartTemplate]
-DisplayName="Maximum Stitches"
+DisplayName="Pontos Máximos"
 
 [MaleVoice1_English_US X2BodyPartTemplate]
-DisplayName="American English 1"
+DisplayName="Inglês Americano 1"
 [MaleVoice1_English_UK X2BodyPartTemplate]
-DisplayName="UK English 1"
+DisplayName="Inglês Britânico 1"
 [MaleVoice1_English_AUS X2BodyPartTemplate]
-DisplayName="Australian English 1"
+DisplayName="Inglês Australiano 1"
 [MaleVoice2_English_US X2BodyPartTemplate]
-DisplayName="American English 2"
+DisplayName="Inglês Americano 2"
 [MaleVoice2_English_UK X2BodyPartTemplate]
-DisplayName="UK English 2"
+DisplayName="Inglês Britânico 2"
 [MaleVoice2_English_AUS X2BodyPartTemplate]
-DisplayName="Australian English 2"
+DisplayName="Inglês Australiano 2"
 [MaleVoice3_English_US X2BodyPartTemplate]
-DisplayName="American English 3"
+DisplayName="Inglês Americano 3"
 [MaleVoice3_English_UK X2BodyPartTemplate]
-DisplayName="UK English 3"
+DisplayName="Inglês Britânico 3"
 [MaleVoice4_English_US X2BodyPartTemplate]
-DisplayName="American English 4"
+DisplayName="Inglês Americano 4"
 [MaleVoice4_English_UK X2BodyPartTemplate]
-DisplayName="UK English 4"
+DisplayName="Inglês Britânico 4"
 [MaleVoice5_English_US X2BodyPartTemplate]
-DisplayName="American English 5"
+DisplayName="Inglês Americano 5"
 [MaleVoice6_English_US X2BodyPartTemplate]
-DisplayName="American English 6"
+DisplayName="Inglês Americano 6"
 [MaleVoice7_English_US X2BodyPartTemplate]
-DisplayName="American English 7"
+DisplayName="Inglês Americano 7"
 [MaleVoice8_English_US X2BodyPartTemplate]
-DisplayName="American English 8"
+DisplayName="Inglês Americano 8"
 [MaleVoice9_English_US X2BodyPartTemplate]
-DisplayName="American English 9"
+DisplayName="Inglês Americano 9"
 [MaleVoice10_English_US X2BodyPartTemplate]
-DisplayName="American English 10"
+DisplayName="Inglês Americano 10"
 
+Aqui estão as traduções das vozes masculinas em francês e alemão:
+
+Francês:
 [MaleVoice1_French X2BodyPartTemplate]
-DisplayName="French 1"
+DisplayName="Francês 1"
 [MaleVoice2_French X2BodyPartTemplate]
-DisplayName="French 2"
+DisplayName="Francês 2"
 [MaleVoice3_French X2BodyPartTemplate]
-DisplayName="French 3"
+DisplayName="Francês 3"
 [MaleVoice4_French X2BodyPartTemplate]
-DisplayName="French 4"
+DisplayName="Francês 4"
 [MaleVoice5_French X2BodyPartTemplate]
-DisplayName="French 5"
+DisplayName="Francês 5"
 [MaleVoice6_French X2BodyPartTemplate]
-DisplayName="French 6"
+DisplayName="Francês 6"
 [MaleVoice7_French X2BodyPartTemplate]
-DisplayName="French 7"
+DisplayName="Francês 7"
 [MaleVoice8_French X2BodyPartTemplate]
-DisplayName="French 8"
+DisplayName="Francês 8"
 [MaleVoice9_French X2BodyPartTemplate]
-DisplayName="French 9"
+DisplayName="Francês 9"
 [MaleVoice10_French X2BodyPartTemplate]
-DisplayName="French 10"
+DisplayName="Francês 10"
 
+Alemão:
 [MaleVoice1_German X2BodyPartTemplate]
-DisplayName="German 1"
+DisplayName="Alemão 1"
 [MaleVoice2_German X2BodyPartTemplate]
-DisplayName="German 2"
+DisplayName="Alemão 2"
 [MaleVoice3_German X2BodyPartTemplate]
-DisplayName="German 3"
+DisplayName="Alemão 3"
 [MaleVoice4_German X2BodyPartTemplate]
-DisplayName="German 4"
+DisplayName="Alemão 4"
 [MaleVoice5_German X2BodyPartTemplate]
-DisplayName="German 5"
+DisplayName="Alemão 5"
 [MaleVoice6_German X2BodyPartTemplate]
-DisplayName="German 6"
+DisplayName="Alemão 6"
 [MaleVoice7_German X2BodyPartTemplate]
-DisplayName="German 7"
+DisplayName="Alemão 7"
 [MaleVoice8_German X2BodyPartTemplate]
-DisplayName="German 8"
+DisplayName="Alemão 8"
 [MaleVoice9_German X2BodyPartTemplate]
-DisplayName="German 9"
+DisplayName="Alemão 9"
 [MaleVoice10_German X2BodyPartTemplate]
-DisplayName="German 10"
+DisplayName="Alemão 10"
 
 [MaleVoice1_Italian X2BodyPartTemplate]
-DisplayName="Italian 1"
+DisplayName="Italiano 1"
 [MaleVoice2_Italian X2BodyPartTemplate]
-DisplayName="Italian 2"
+DisplayName="Italiano 2"
 [MaleVoice3_Italian X2BodyPartTemplate]
-DisplayName="Italian 3"
+DisplayName="Italiano 3"
 [MaleVoice4_Italian X2BodyPartTemplate]
-DisplayName="Italian 4"
+DisplayName="Italiano 4"
 [MaleVoice5_Italian X2BodyPartTemplate]
-DisplayName="Italian 5"
+DisplayName="Italiano 5"
 [MaleVoice6_Italian X2BodyPartTemplate]
-DisplayName="Italian 6"
+DisplayName="Italiano 6"
 [MaleVoice7_Italian X2BodyPartTemplate]
-DisplayName="Italian 7"
+DisplayName="Italiano 7"
 [MaleVoice8_Italian X2BodyPartTemplate]
-DisplayName="Italian 8"
+DisplayName="Italiano 8"
 [MaleVoice9_Italian X2BodyPartTemplate]
-DisplayName="Italian 9"
+DisplayName="Italiano 9"
 [MaleVoice10_Italian X2BodyPartTemplate]
-DisplayName="Italian 10"
+DisplayName="Italiano 10"
 
 [MaleVoice1_Spanish X2BodyPartTemplate]
-DisplayName="Spanish 1"
+DisplayName="Espanhol 1"
 [MaleVoice2_Spanish X2BodyPartTemplate]
-DisplayName="Spanish 2"
+DisplayName="Espanhol 2"
 [MaleVoice3_Spanish X2BodyPartTemplate]
-DisplayName="Spanish 3"
+DisplayName="Espanhol 3"
 [MaleVoice4_Spanish X2BodyPartTemplate]
-DisplayName="Spanish 4"
+DisplayName="Espanhol 4"
 [MaleVoice5_Spanish X2BodyPartTemplate]
-DisplayName="Spanish 5"
+DisplayName="Espanhol 5"
 [MaleVoice6_Spanish X2BodyPartTemplate]
-DisplayName="Spanish 6"
+DisplayName="Espanhol 6"
 [MaleVoice7_Spanish X2BodyPartTemplate]
-DisplayName="Spanish 7"
+DisplayName="Espanhol 7"
 [MaleVoice8_Spanish X2BodyPartTemplate]
-DisplayName="Spanish 8"
+DisplayName="Espanhol 8"
 [MaleVoice9_Spanish X2BodyPartTemplate]
-DisplayName="Spanish 9"
+DisplayName="Espanhol 9"
 [MaleVoice10_Spanish X2BodyPartTemplate]
-DisplayName="Spanish 10"
+DisplayName="Espanhol 10"
 
 [FemaleVoice1_English_US X2BodyPartTemplate]
-DisplayName="American English 1"
+DisplayName="Inglês Americano 1"
 [FemaleVoice1_English_UK X2BodyPartTemplate]
-DisplayName="UK English 1"
+DisplayName="Inglês Britânico 1"
 [FemaleVoice1_English_AUS X2BodyPartTemplate]
-DisplayName="Australian English 1"
+DisplayName="Inglês Australiano 1"
 [FemaleVoice2_English_US X2BodyPartTemplate]
-DisplayName="American English 2"
+DisplayName="Inglês Americano 2"
 [FemaleVoice2_English_UK X2BodyPartTemplate]
-DisplayName="UK English 2"
+DisplayName="Inglês Britânico 2"
 [FemaleVoice2_English_AUS X2BodyPartTemplate]
-DisplayName="Australian English 2"
+DisplayName="Inglês Australiano 2"
 [FemaleVoice3_English_US X2BodyPartTemplate]
-DisplayName="American English 3"
+DisplayName="Inglês Americano 3"
 [FemaleVoice3_English_UK X2BodyPartTemplate]
-DisplayName="UK English 3"
+DisplayName="Inglês Britânico 3"
 [FemaleVoice4_English_US X2BodyPartTemplate]
-DisplayName="American English 4"
+DisplayName="Inglês Americano 4"
 [FemaleVoice4_English_UK X2BodyPartTemplate]
-DisplayName="UK English 4"
+DisplayName="Inglês Britânico 4"
 [FemaleVoice5_English_US X2BodyPartTemplate]
-DisplayName="American English 5"
+DisplayName="Inglês Americano 5"
 [FemaleVoice6_English_US X2BodyPartTemplate]
-DisplayName="American English 6"
+DisplayName="Inglês Americano 6"
 [FemaleVoice7_English_US X2BodyPartTemplate]
-DisplayName="American English 7"
+DisplayName="Inglês Americano 7"
 [FemaleVoice8_English_US X2BodyPartTemplate]
-DisplayName="American English 8"
+DisplayName="Inglês Americano 8"
 [FemaleVoice9_English_US X2BodyPartTemplate]
-DisplayName="American English 9"
+DisplayName="Inglês Americano 9"
 [FemaleVoice10_English_US X2BodyPartTemplate]
-DisplayName="American English 10"
+DisplayName="Inglês Americano 10"
 
 [FemaleVoice1_French X2BodyPartTemplate]
-DisplayName="French 1"
+DisplayName="Francês 1"
 [FemaleVoice2_French X2BodyPartTemplate]
-DisplayName="French 2"
+DisplayName="Francês 2"
 [FemaleVoice3_French X2BodyPartTemplate]
-DisplayName="French 3"
+DisplayName="Francês 3"
 [FemaleVoice4_French X2BodyPartTemplate]
-DisplayName="French 4"
+DisplayName="Francês 4"
 [FemaleVoice5_French X2BodyPartTemplate]
-DisplayName="French 5"
+DisplayName="Francês 5"
 [FemaleVoice6_French X2BodyPartTemplate]
-DisplayName="French 6"
+DisplayName="Francês 6"
 [FemaleVoice7_French X2BodyPartTemplate]
-DisplayName="French 7"
+DisplayName="Francês 7"
 [FemaleVoice8_French X2BodyPartTemplate]
-DisplayName="French 8"
+DisplayName="Francês 8"
 [FemaleVoice9_French X2BodyPartTemplate]
-DisplayName="French 9"
+DisplayName="Francês 9"
 [FemaleVoice10_French X2BodyPartTemplate]
-DisplayName="French 10"
+DisplayName="Francês 10"
 
 [FemaleVoice1_German X2BodyPartTemplate]
-DisplayName="German 1"
+DisplayName="Alemão 1"
 [FemaleVoice2_German X2BodyPartTemplate]
-DisplayName="German 2"
+DisplayName="Alemão 2"
 [FemaleVoice3_German X2BodyPartTemplate]
-DisplayName="German 3"
+DisplayName="Alemão 3"
 [FemaleVoice4_German X2BodyPartTemplate]
-DisplayName="German 4"
+DisplayName="Alemão 4"
 [FemaleVoice5_German X2BodyPartTemplate]
-DisplayName="German 5"
+DisplayName="Alemão 5"
 [FemaleVoice6_German X2BodyPartTemplate]
-DisplayName="German 6"
+DisplayName="Alemão 6"
 [FemaleVoice7_German X2BodyPartTemplate]
-DisplayName="German 7"
+DisplayName="Alemão 7"
 [FemaleVoice8_German X2BodyPartTemplate]
-DisplayName="German 8"
+DisplayName="Alemão 8"
 [FemaleVoice9_German X2BodyPartTemplate]
-DisplayName="German 9"
+DisplayName="Alemão 9"
 [FemaleVoice10_German X2BodyPartTemplate]
-DisplayName="German 10"
+DisplayName="Alemão 10"
 
 [FemaleVoice1_Italian X2BodyPartTemplate]
-DisplayName="Italian 1"
+DisplayName="Italiano 1"
 [FemaleVoice2_Italian X2BodyPartTemplate]
-DisplayName="Italian 2"
+DisplayName="Italiano 2"
 [FemaleVoice3_Italian X2BodyPartTemplate]
-DisplayName="Italian 3"
+DisplayName="Italiano 3"
 [FemaleVoice4_Italian X2BodyPartTemplate]
-DisplayName="Italian 4"
+DisplayName="Italiano 4"
 [FemaleVoice5_Italian X2BodyPartTemplate]
-DisplayName="Italian 5"
+DisplayName="Italiano 5"
 [FemaleVoice6_Italian X2BodyPartTemplate]
-DisplayName="Italian 6"
+DisplayName="Italiano 6"
 [FemaleVoice7_Italian X2BodyPartTemplate]
-DisplayName="Italian 7"
+DisplayName="Italiano 7"
 [FemaleVoice8_Italian X2BodyPartTemplate]
-DisplayName="Italian 8"
+DisplayName="Italiano 8"
 [FemaleVoice9_Italian X2BodyPartTemplate]
-DisplayName="Italian 9"
+DisplayName="Italiano 9"
 [FemaleVoice10_Italian X2BodyPartTemplate]
-DisplayName="Italian 10"
+DisplayName="Italiano 10"
 
 [FemaleVoice1_Spanish X2BodyPartTemplate]
-DisplayName="Spanish 1"
+DisplayName="Espanhol 1"
 [FemaleVoice2_Spanish X2BodyPartTemplate]
-DisplayName="Spanish 2"
+DisplayName="Espanhol 2"
 [FemaleVoice3_Spanish X2BodyPartTemplate]
-DisplayName="Spanish 3"
+DisplayName="Espanhol 3"
 [FemaleVoice4_Spanish X2BodyPartTemplate]
-DisplayName="Spanish 4"
+DisplayName="Espanhol 4"
 [FemaleVoice5_Spanish X2BodyPartTemplate]
-DisplayName="Spanish 5"
+DisplayName="Espanhol 5"
 [FemaleVoice6_Spanish X2BodyPartTemplate]
-DisplayName="Spanish 6"
+DisplayName="Espanhol 6"
 [FemaleVoice7_Spanish X2BodyPartTemplate]
-DisplayName="Spanish 7"
+DisplayName="Espanhol 7"
 [FemaleVoice8_Spanish X2BodyPartTemplate]
-DisplayName="Spanish 8"
+DisplayName="Espanhol 8"
 [FemaleVoice9_Spanish X2BodyPartTemplate]
-DisplayName="Spanish 9"
+DisplayName="Espanhol 9"
 [FemaleVoice10_Spanish X2BodyPartTemplate]
-DisplayName="Spanish 10"
+DisplayName="Espanhol 10"
 
 ;[X2StrategyElement_TFTDWorldRegions]
-;AtlanticOceanDisplayName="Atlantic Ocean"
+;AtlanticOceanDisplayName="Oceano Atlântico"
 
 [Personality_ByTheBook X2SoldierPersonalityTemplate]
-FriendlyName="By The Book"
+FriendlyName="Conforme o Livro"
 
 [Personality_LaidBack X2SoldierPersonalityTemplate]
-FriendlyName="Laid Back"
+FriendlyName="Relaxado"
 
 [Personality_Normal X2SoldierPersonalityTemplate]
 FriendlyName="Normal"
 
 [Personality_Twitchy X2SoldierPersonalityTemplate]
-FriendlyName="Twitchy"
+FriendlyName="Nervoso"
 
 [Personality_HappyGoLucky X2SoldierPersonalityTemplate]
-FriendlyName="Happy-Go-Lucky"
+FriendlyName="Alegre e Despreocupado"
 
 [Personality_HardLuck X2SoldierPersonalityTemplate]
-FriendlyName="Hard Luck"
+FriendlyName="Má Sorte"
 
 [Personality_Intense X2SoldierPersonalityTemplate]
-FriendlyName="Intense"
+FriendlyName="Intenso"
 
 [Tech_AdventDatapad X2TechTemplate]
-DisplayName="ADVENT Datapad Decryption"
-Summary="Our troops recovered one of the ADVENT datapads from the field, and there is valuable Intel stored within. We can recover the Intel, but it will require some time."
+DisplayName="Decifração do Datapad da ADVENT"
+Summary="Nossas tropas recuperaram um dos datapads da ADVENT do campo de batalha, e há informações valiosas armazenadas nele. Podemos recuperar as informações, mas levará algum tempo."
 CodeName="Bletchley"
-LongDescription="The ADVENT datapad is a basic field unit designed for storing and transferring intelligence that the aliens seem otherwise incapable of disseminating through their various communications networks. Although some effort was required to interpret the alien file system and decrypt their data, it seems as though ADVENT purposely kept the device's overall function relatively simple. The evidence is little more than circumstantial, but the design of these systems could be some indication of the lower-ranking ADVENT troops' overall mental acuity outside of designated tactical scenarios. R. Tygan."
-UnlockedDescription="Recovered from Datapad: <XGParam:StrValue0/!Quantity/> Intel"
+LongDescription="O datapad da ADVENT é uma unidade de campo básica projetada para armazenar e transferir informações que os alienígenas parecem não ser capazes de disseminar por meio de suas várias redes de comunicação. Embora algum esforço tenha sido necessário para interpretar o sistema de arquivos alienígena e decifrar seus dados, parece que a ADVENT propositalmente manteve a função geral do dispositivo relativamente simples. A evidência é pouco mais do que circunstancial, mas o design desses sistemas pode ser uma indicação da capacidade mental geral das tropas da ADVENT de classificação inferior fora dos cenários táticos designados. R. Tygan."
+UnlockedDescription="Recuperado do Datapad: <XGParam:StrValue0/!Quantity/> Intel"
 
 [Tech_AlienDatapad X2TechTemplate]
-DisplayName="Alien Data Cache Decryption"
-Summary="Having recently discovered an alien data cache storing valuable enemy intelligence, I can dedicate my team's resources to decrypting the files and ensuring that we recover the large amount of Intel stored within."
+DisplayName="Decifração do Cache de Dados Alienígenas"
+Summary="Tendo recentemente descoberto um cache de dados alienígenas contendo valiosas informações inimigas, posso dedicar os recursos de minha equipe para decifrar os arquivos e garantir que recuperemos a grande quantidade de Inteligência armazenada neles."
 CodeName="Enigma"
-LongDescription="The alien data cache appears to be a physical storage device intended for direct interface with the datapads we've seen the ADVENT forces carrying in the field. Having successfully decrypted the files, including a variety of tactical data and varying intelligence, I've yet to discover what it is about this data in particular that requires the aliens to maintain physical stores of critical information. Considering the sophistication of their technology in general, one would think the inherent security risks involved would be enough to dissuade them. In any case, it can only benefit us to seize these assets whenever possible. R. Tygan." 
-UnlockedDescription="Recovered from Datapad: <XGParam:StrValue0/!Quantity/> Intel"
+LongDescription="O cache de dados alienígenas parece ser um dispositivo de armazenamento físico destinado à interface direta com os datapads que vimos as forças da ADVENT carregando no campo de batalha. Depois de decifrar com sucesso os arquivos, incluindo uma variedade de dados táticos e inteligência variada, ainda não descobri o que há de especial nesses dados que exige que os alienígenas mantenham armazenamentos físicos de informações críticas. Considerando a sofisticação de sua tecnologia em geral, imagino que os riscos inerentes de segurança envolvidos seriam suficientes para dissuadi-los. De qualquer forma, só nos beneficia apreender esses recursos sempre que possível. R. Tygan."
+UnlockedDescription="Recuperado do Datapad: <XGParam:StrValue0/!Quantity/> Inteligência"
 
 [Tech_AlienFacilityLead X2TechTemplate]
-DisplayName="Facility Lead"
-Summary="Our forces recently uncovered information that could lead us to the location of one of ADVENT's remote facilities. If we can successfully decrypt the recovered data, it will provide specific coordinates allowing for a tactical strike." 
-CodeName="Insight"
-LongDescription="Although it was a time-intenstive process, I was able to successfully decrypt the ADVENT data recovered by our troops in the field. As expected, the information includes the exact coordinates for one of ADVENT's remote facilities. With this knowledge in hand, we should be able to deploy a strike team to infiltrate and destroy the facility. I have no doubts that the loss of this site will deal a significant blow to the aliens' efforts towards the Avatar Project. R. Tygan."
+DisplayName="Líder de Instalação Alienígena"
+Summary="Nossas forças recentemente descobriram informações que podem nos levar à localização de uma das instalações remotas da ADVENT. Se conseguirmos decifrar com sucesso os dados recuperados, eles fornecerão coordenadas específicas para um ataque tático."
+CodeName="Visão"
+LongDescription="Embora tenha sido um processo demorado, consegui decifrar com sucesso os dados da ADVENT recuperados por nossas tropas no campo de batalha. Como esperado, as informações incluem as coordenadas exatas de uma das instalações remotas da ADVENT. Com esse conhecimento em mãos, deveríamos ser capazes de enviar uma equipe de ataque para infiltrar e destruir a instalação. Não tenho dúvidas de que a perda desse local infligirá um golpe significativo nos esforços dos alienígenas em relação ao Projeto Avatar. R. Tygan."
 
-UnlockedDescription="Alien Facility Mission in <XGParam:StrValue0/!RegionName/> Unlocked"
+UnlockedDescription="Missão de Instalação Alienígena em <XGParam:StrValue0/!NomeRegião/> Desbloqueada"
 
 [ModularWeapons X2TechTemplate]
-DisplayName="Modular Weapons"
-Summary="The magnetic rifles used by ADVENT's forces are incredibly complex weapons. The rifles themselves self-destruct when their original operator dies, but with a little effort we might be able to use any recovered parts to improve our soldiers' own weapons."
-CodeName="Tinker"
-LongDescription="We've had the troops digging through scrap piles and looting corpses, and at this point, it's safe to assume they're on constant vigil for anything we could use to improve our gear. All the raw materials in the world won't mean much if I can't find a use for them, but I think this modular weapon system is a good start. Having pushed our existing designs about as far as I thought possible, the integration of a few key alien components provided the much needed stability we've been looking for. With these modifications in place, we should be able to attach larger upgrades for even more firepower. The troops will like that. L. Shen."
-UnlockedDescription="Weapon Upgrades Available"
+DisplayName="Armas Modulares"
+Summary="Os rifles magnéticos usados pelas forças da ADVENT são armas incrivelmente complexas. Os próprios rifles se autodestroem quando seu operador original morre, mas com um pouco de esforço, talvez possamos usar quaisquer peças recuperadas para melhorar as armas de nossos soldados."
+CodeName="Conserto"
+LongDescription="Nossas tropas têm vasculhado pilhas de sucata e saqueado corpos, e nesse ponto, é seguro supor que estão constantemente em vigília para qualquer coisa que possamos usar para melhorar nosso equipamento. Todos os materiais brutos do mundo não significarão muito se eu não conseguir encontrar uma utilidade para eles, mas acredito que este sistema de armas modulares é um bom começo. Depois de levar nossos projetos existentes o mais longe que achei possível, a integração de alguns componentes alienígenas-chave proporcionou a estabilidade de que tanto precisávamos. Com essas modificações em vigor, deveríamos ser capazes de acoplar atualizações maiores para obter ainda mais potência de fogo. As tropas vão gostar disso. L. Shen."
+UnlockedDescription="Atualizações de Armas Disponíveis"
 
 [MagnetizedWeapons X2TechTemplate]
-DisplayName="Magnetic Weapons"
-Summary="An in-depth analysis of the ADVENT weaponry will no doubt lead to a greater understanding of their magnetic projectile dispersion systems. This should allow for the production of various magnetic-based firearms along with further insights into Gauss Weaponry."
+DisplayName="Armas Magnéticas"
+Summary="Uma análise detalhada das armas da ADVENT, sem dúvida, levará a uma compreensão maior de seus sistemas de dispersão de projéteis magnéticos. Isso permitirá a produção de várias armas de fogo baseadas em magnetismo, bem como insights adicionais sobre as Armas Gauss."
 CodeName="Orsted"
-LongDescription="Having finally gotten a closer look at the Gauss rifle technology ADVENT has deployed among their forces, I'm fairly confident we can develop a magnetic weapon system of comparable power. The obvious question, why not simply use the ADVENT weapons directly, was discovered early on by resistance forces in the field. Some years ago, the aliens began integrating a sort of genetic-verification technology into their weapons that prevents them from functioning by any species whose DNA has not been pre-encoded. Unfortunately, the system also exerts lethal force on an unsuspecting unauthorized user - a fact we should disseminate as widely as possible among the resistance cells we have contact with. As for our own variation on the technology, Dr. Shen and I have taken components of the alien weaponry recovered from the field and utilized the key elements to develop a sustainable prototype. We can safely begin reproducing the system as the needed materials become available. R. Tygan."
+LongDescription="Finalmente, conseguimos dar uma olhada mais de perto na tecnologia de rifle Gauss que a ADVENT implantou entre suas forças e estou bastante confiante de que podemos desenvolver um sistema de armas magnéticas com poder comparável. A pergunta óbvia, por que não usar as armas da ADVENT diretamente, foi descoberta logo no início pelas forças da resistência no campo. Há alguns anos, os alienígenas começaram a integrar uma espécie de tecnologia de verificação genética em suas armas, o que impede que elas funcionem em qualquer espécie cujo DNA não tenha sido pré-codificado. Infelizmente, o sistema também exerce força letal em um usuário não autorizado e desprevenido - um fato que devemos disseminar o mais amplamente possível entre as células da resistência com as quais temos contato. Quanto à nossa própria variação da tecnologia, a Dra. Shen e eu utilizamos componentes das armas alienígenas recuperadas do campo para desenvolver um protótipo sustentável. Podemos começar a reproduzir o sistema com segurança conforme os materiais necessários se tornem disponíveis. R. Tygan."
 
 [GaussWeapons X2TechTemplate]
-DisplayName="Gauss Weapons"
-Summary="With our mastery of ADVENT's core weapons technology, we can now develop specialized weapon systems using the alien technology to improve on power storage and consumption, projectile path fidelity, and penetrative force over greater distances. We may be able to develop a sniper rifle and cannon variant based on our newly learned Magentic Weapons technology."
+DisplayName="Armas Gauss"
+Summary="Com nosso domínio da tecnologia central de armas da ADVENT, agora podemos desenvolver sistemas de armas especializadas usando a tecnologia alienígena para melhorar o armazenamento e consumo de energia, a fidelidade do trajeto do projétil e a força penetrante em maiores distâncias. Talvez possamos desenvolver uma variante de rifle de sniper e canhão com base em nossa nova tecnologia de Armas Magnéticas."
 CodeName="Friedrich"
-LongDescription="The fact that we now have access to Gauss weaponry that is both combat effective and safe to operate at these power levels is quite an achievement. The overall design relies on advanced miniaturization technologies developed by the aliens which are, frankly, well beyond anything conceived of by Earth's leading military development firms at the time of the invasion. Despite our limited capability for extended test firings on board the ship, our latest prototypes are already capable of consistently accelerating an adaptive alloy projectile to over 5000 m/s in a simulated environment. We're still preparing the final assessment, but it is likely a field deployable unit would have to be limited to a lower power threshold due to the potential for ongoing strain to our troops when operating the weapons. R. Tygan."
+LongDescription="O fato de agora termos acesso a armas Gauss que são eficazes em combate e seguras de operar nesses níveis de potência é um grande feito. O projeto geral baseia-se em tecnologias avançadas de miniaturização desenvolvidas pelos alienígenas, que estão, francamente, muito além de qualquer coisa concebida pelas principais empresas de desenvolvimento militar da Terra na época da invasão. Apesar de nossa capacidade limitada para testes de disparo prolongados a bordo da nave, nossos últimos protótipos já são capazes de acelerar consistentemente um projétil de liga adaptativa a mais de 5000 m/s em um ambiente simulado. Ainda estamos preparando a avaliação final, mas é provável que uma unidade implantada em campo tenha que ser limitada a um limiar de potência menor devido ao potencial de tensão contínua em nossas tropas ao operar as armas. R. Tygan."
 
 [PlasmaRifle X2TechTemplate]
-DisplayName="Plasma Rifle"
-Summary="The plasma-based weapons wielded by the alien forces are considerably more powerful than anything used by ADVENT themselves. Although it will undoubtedly require extensive research, the impact of truly understanding this beam weapon technology could be immeasurable."
+DisplayName="Rifle de Plasma"
+Summary="As armas de plasma usadas pelas forças alienígenas são consideravelmente mais poderosas do que qualquer coisa usada pela ADVENT. Embora isso sem dúvida exija extensa pesquisa, o impacto de realmente entender essa tecnologia de arma de feixe pode ser imensurável."
 CodeName="Verdun"
-LongDescription="On more than one occasion during our initial testing of the alien plasma rifles recovered from the field, we nearly suffered a catastrophic loss of the test unit while conducting simple firing runs. After a complete disassembly and analysis, it seems that the weapon operates along a very fine threshold between ideal power levels and total system failure. Even the smallest of micro fractures to any number of lightly-shielded components within the power distribution system could lead to a devastating collapse of field integrity, leaving little chance for the operator's survival. I can only assume at this point the aliens had little concern for the well-being of their own forces when designing the weapon, as I have no doubt they discovered this flaw during their own testing. In any case, I'll make the appropriate modifications to our internal designs to ensure no such weakness exists, for the safety of our troops. R. Tygan."
+LongDescription="Em mais de uma ocasião durante nossos testes iniciais com os rifles de plasma alienígenas recuperados do campo, quase sofremos uma perda catastrófica da unidade de teste durante tiros simples. Após uma desmontagem completa e análise, parece que a arma opera em um limiar muito fino entre os níveis ideais de potência e a falha total do sistema. Até as menores microfraturas em qualquer número de componentes levemente blindados no sistema de distribuição de energia podem levar a um colapso devastador da integridade do campo, deixando pouca chance de sobrevivência para o operador. Neste ponto, posso apenas supor que os alienígenas tinham pouca preocupação com o bem-estar de suas próprias forças ao projetar a arma, pois não tenho dúvidas de que eles descobriram essa falha durante seus próprios testes. De qualquer forma, farei as modificações adequadas em nossos projetos internos para garantir que nenhuma fraqueza desse tipo exista, pela segurança de nossas tropas. R. Tygan."
 
 [HeavyPlasma X2TechTemplate]
-DisplayName="Beam Cannon"
-Summary="Although our early plasma weapon designs have already proven successful, further refinements and adaptations of the alien technology could lead to a weapon capable of destroying cover in the field." 
+DisplayName="Canhão de Feixe"
+Summary="Embora nossos primeiros projetos de armas de plasma já tenham se mostrado bem-sucedidos, refinamentos e adaptações adicionais da tecnologia alienígena poderiam levar a uma arma capaz de destruir coberturas no campo de batalha."
 CodeName="Tunguska"
-LongDescription="Tygan has been less than eager to push the limits of the plasma weapons we've come up with so far, and while I agree that we have to be careful working within the confines of the ship, I still don't think we can let that hamper our progress. The aliens are going to send whatever they can after us, and we should be prepared. With that in mind, I've come up with a few improvements to the core plasma rifle design that should allow us to step up the power without substantial increases to weight. With the added intensity, it might also be possible to divide the targeting field into a multi-shot projectile stream. I'm guessing the heavier variant will be best suited to the Grenadiers, they don't seem all that concerned about carrying around unstable ordnance. L. Shen."
+LongDescription="Tygan tem sido menos ansioso para empurrar os limites das armas de plasma que desenvolvemos até agora, e embora eu concorde que devemos ter cuidado trabalhando dentro dos limites da nave, ainda não acho que podemos deixar isso prejudicar nosso progresso. Os alienígenas enviarão o que puderem atrás de nós, e devemos estar preparados. Com isso em mente, desenvolvi algumas melhorias no design central do rifle de plasma que devem nos permitir aumentar a potência sem aumentar substancialmente o peso. Com a intensidade adicional, também pode ser possível dividir o campo de mira em um fluxo de projétil de disparo múltiplo. Eu acho que a variante mais pesada será mais adequada para os Grenadiers, eles não parecem se preocupar em carregar munição instável. L. Shen."
 
 [PlasmaSniper X2TechTemplate]
-DisplayName="Plasma Lance"
-Summary="Although the aliens apparently never created a long-range variant of their own plasma rifle design, that doesn't preclude us from experimenting with the concept. There are several issues we'll have to overcome, but the challenge is intriguing." 
+DisplayName="Lança de Plasma"
+Summary="Embora os alienígenas aparentemente nunca tenham criado uma variante de longo alcance de seu próprio design de rifle de plasma, isso não nos impede de experimentar o conceito. Há várias questões que teremos que superar, mas o desafio é intrigante."
 CodeName="Crecy"
-LongDescription="With the variety of hostile forces our soldiers are tasked with facing, it seems only logical to provide them with varying alternative means of engaging the enemy, in this case, from a much greater range than previously thought possible. By focusing the standard plasma bolt through a series of modulating rings, a single, powerful shot capable of devastating targets at extreme range can be produced. As is typically the case, the limitations of our environment preclude us from fully testing the bounds of these new plasma-based sniper rifles outside of a simulated environment. Regardless, I'm sure our troops will be eager to find these new limits on their own in the field, and I expect to hear of their exploits for some time to come. R. Tygan."
+LongDescription="Com a variedade de forças hostis com as quais nossos soldados têm que enfrentar, parece lógico fornecer a eles meios alternativos variados para enfrentar o inimigo, neste caso, a partir de uma distância muito maior do que se pensava possível anteriormente. Ao focalizar o raio de plasma padrão através de uma série de anéis moduladores, é possível produzir um único e poderoso tiro capaz de devastar alvos em longas distâncias. Como é típico, as limitações de nosso ambiente impedem que testemos completamente os limites desses novos rifles de sniper baseados em plasma fora de um ambiente simulado. Independentemente disso, tenho certeza de que nossas tropas estarão ansiosas para descobrir esses novos limites por conta própria no campo e espero ouvir sobre suas façanhas por um longo tempo. R. Tygan."
 
 [AlloyCannon X2TechTemplate]
-DisplayName="Storm Gun"
-Summary="We've yet to discover the aliens' means of forging the alloy materials used throughout their structures and equipment. However, the alloy fragments have proven to be a more than effective projectile in initial testing when properly contained."
+DisplayName="Arma de Tempestade"
+Summary="Ainda não descobrimos os meios dos alienígenas para forjar os materiais de liga usados em suas estruturas e equipamentos. No entanto, os fragmentos de liga têm se mostrado projéteis mais do que eficazes nos testes iniciais quando devidamente contidos."
 CodeName="Flak"
-LongDescription="With the inherent difficulties in trying to forge or manipulate the alien alloys we've recovered from the field, our thought process as to how this material could be used to our advantage turned towards some of our more traditional, rudimentary weapons designs. In containing a small cluster of alloy fragments within a highly-energized magnetic field, we found it is possible to discharge the cluster using a plasma pulse of varying intensity. The overall design is akin to that of a shotgun, although the result comes more from our inability to form proper projectiles than it does from our desire to generate this particular outcome. Having seen firsthand some of the recent alien forces our troops have been dealing with, I have no doubts they'll still find this new design appealing for its overall stopping power. R. Tygan."
+LongDescription="Com as dificuldades inerentes em tentar forjar ou manipular as ligas alienígenas que recuperamos do campo, nossa linha de pensamento sobre como esse material poderia ser usado a nosso favor se voltou para alguns de nossos designs de armas mais tradicionais e rudimentares. Ao conter um pequeno agrupamento de fragmentos de liga em um campo magnético altamente energizado, descobrimos que é possível disparar o agrupamento usando um pulso de plasma de intensidade variável. O design geral é semelhante ao de uma espingarda, embora o resultado venha mais de nossa incapacidade de formar projéteis adequados do que do nosso desejo de gerar esse resultado específico. Tendo visto em primeira mão algumas das forças alienígenas recentes com as quais nossas tropas têm lidado, não tenho dúvidas de que eles ainda considerarão esse novo design atraente por seu poder geral de parada. R. Tygan."
 
 [Tech_Elerium X2TechTemplate]
 DisplayName="Elerium"
-Summary="The aliens, and to a lesser extent ADVENT, have long relied on the otherworldly element known as Elerium to power everything from their weapons systems to the UFOs themselves. It may take some time, but furthering our understanding of this material could greatly advance our own weapon and armor development projects."
+Summary="Os alienígenas e, em menor medida, a ADVENT, têm contado há muito tempo com o elemento sobrenatural conhecido como Elerium para alimentar desde seus sistemas de armas até suas próprias naves UFOs. Pode levar algum tempo, mas o avanço em nosso entendimento desse material poderia impulsionar enormemente nossos próprios projetos de armas e armaduras."
 CodeName="Mjolnir"
-LongDescription="Having completed our analysis of the substance tentatively referred to as \"Elerium 115,\" it's clear that this material is unlike any other naturally occurring element on Earth. Presumably the aliens extracted their undoubtedly extensive stores of Elerium from another planet, but that is beyond my capacity to surmise. What I do know with certainty is that this element is incredibly reactive when exposed to high energy particle fields, providing a source of nearly limitless power that defies all known efficiency standards. Unfortunately, I see no means of replicating or synthesizing this substance with the resources available to us on Earth. The materials we recover from the aliens themselves will likely constitute the entirety of our available stockpile. The Commander will have to be careful in choosing how to allocate these precious resources. R. Tygan."
+LongDescription="Ao completar nossa análise da substância referida provisoriamente como "Elerium 115," está claro que este material é diferente de qualquer outro elemento natural existente na Terra. Presumivelmente, os alienígenas extraíram seus inquestionavelmente extensos depósitos de Elerium de outro planeta, mas isso está além de minha capacidade de suposição. O que sei com certeza é que esse elemento é incrivelmente reativo quando exposto a campos de partículas de alta energia, fornecendo uma fonte de energia quase ilimitada que desafia todos os padrões conhecidos de eficiência. Infelizmente, não vejo meios de replicar ou sintetizar essa substância com os recursos disponíveis para nós na Terra. Os materiais que recuperamos dos próprios alienígenas provavelmente constituirão a totalidade de nosso estoque disponível. O Comandante terá que ter cuidado ao escolher como alocar esses recursos preciosos. R. Tygan."
 
 [Psionics X2TechTemplate]
-DisplayName="Psionics"
-Summary="Although we've seen them wielding Psionic powers before, our recent encounters with the aliens have truly shown us how they are able to deftly manipulate the flow of Psionic energy and use it to their advantage. If we were to master it as well as they have, the potential applications in the field would be limitless."
+DisplayName="Psonia"
+Summary="Embora já os tenhamos visto usando poderes Psíquicos antes, nossos encontros recentes com os alienígenas realmente nos mostraram como eles são capazes de manipular habilmente o fluxo de energia Psíquica e usá-la a seu favor. Se conseguirmos dominá-la tão bem quanto eles, as aplicações potenciais no campo de batalha serão ilimitadas."
 CodeName="Geller"
-LongDescription="By closely examining the aliens' own means of harnessing and wielding Psionic energy, I believe the chances are good that we'll have more than enough viable candidates to serve as Psi Operatives. However, with the advanced Psionic capabilities we've seen from the various alien species in the field, it may not be enough. In preparation for this new class of soldiers, I've used the chip removed from the Commander to study the technology needed to focus and divert Psionic energy. As a result, I've developed a Psionic amplifier capable of focusing and enhancing the Psionic energy they will be trained to harness. Although the potential for negative side effects will be high, I foresee the possibility that our soldiers will be able to push their new powers beyond the limits of what we might consider safe. R. Tygan."
+LongDescription="Ao examinar de perto os próprios meios dos alienígenas de aproveitar e manipular a energia Psíquica, acredito que teremos mais do que candidatos viáveis o suficiente para servir como Operativos Psi. No entanto, com as capacidades Psíquicas avançadas que vimos das várias espécies alienígenas no campo, pode não ser o suficiente. Em preparação para essa nova classe de soldados, usei o chip removido do Comandante para estudar a tecnologia necessária para focalizar e desviar a energia Psíquica. Como resultado, desenvolvi um amplificador Psíquico capaz de focar e aumentar a energia Psíquica que eles serão treinados para aproveitar. Embora o potencial para efeitos colaterais negativos seja alto, prevejo a possibilidade de que nossos soldados possam empurrar seus novos poderes além dos limites do que consideramos seguro. R. Tygan."
 
 [HybridMaterials X2TechTemplate]
-DisplayName="Hybrid Materials"
-Summary="The ADVENT bodies we've recovered so far are shielded by a fascinating combination of materials, some more common than others. By studying the underlying alien technology, our research could lead to vast improvements to own our equipment."
+DisplayName="Materiais Híbridos"
+Summary="Os corpos da ADVENT que recuperamos até agora são protegidos por uma combinação fascinante de materiais, alguns mais comuns do que outros. Ao estudar a tecnologia alienígena subjacente, nossa pesquisa pode levar a vastas melhorias em nosso próprio equipamento."
 CodeName="Slicker"
-LongDescription="With limited resources available to outfit our troops, up until now they've had to make do with whatever makeshift armor Shen managed to piece together for them from various scrap materials. Relying on methods that might otherwise seem outdated, we've developed a means of producing a multilayered nanofiber weave capable of withstanding direct impacts as well as any traditional armor, without the added weight. Our troops will still have to exercise caution; even the nanofiber has its limits - it may be best suited to our forces who rely on agility over pure stopping power. In any case, I imagine our soldiers will be pleased to see any improvements over their current equipment. R. Tygan." 
+LongDescription="Com recursos limitados disponíveis para equipar nossas tropas, até agora eles tiveram que se contentar com qualquer armadura improvisada que Shen conseguiu montar para eles a partir de vários materiais de sucata. Contando com métodos que poderiam parecer desatualizados, desenvolvemos um meio de produzir uma trama de nanofibras multicamadas capaz de resistir a impactos diretos, assim como qualquer armadura tradicional, sem o peso adicional. Nossas tropas ainda terão que ter cautela; mesmo a nanofibra tem seus limites - pode ser mais adequada para nossas forças que confiam em agilidade em vez de pura potência de parada. De qualquer forma, imagino que nossos soldados ficarão satisfeitos em ver quaisquer melhorias em relação ao seu equipamento atual. R. Tygan."
 
 [PlatedArmor X2TechTemplate]
-DisplayName="Plated Armor"
-Summary="Our understanding of the ADVENT armor is far enough along to allow for the fabrication of our own design mirroring their plated structure. The initial prototypes may be aesthetically rough, but functionally they'll be both light and strong."
+DisplayName="Armadura Plaqueada"
+Summary="Nosso entendimento da armadura da ADVENT é suficiente para permitir a fabricação de nosso próprio design, espelhando sua estrutura plaqueada. Os protótipos iniciais podem ser esteticamente rústicos, mas funcionalmente eles serão leves e fortes."
 CodeName="Yorrick"
-LongDescription="We've recovered enough of the ADVENT armor to begin repurposing the outer plates into something better suited to our soldiers. The material itself seems to be the same as what the aliens utilized throughout the Avenger's hull, an extremely durable substance with an unusual ambient magnetic property. As an armor component, the magnetic fields surrounding these plates will actually provide additional protection against magnetic-based weaponry, most notably the gauss weaponry commonly equipped by ADVENT. R. Tygan."
+LongDescription="Recuperamos material suficiente da armadura da ADVENT para começar a reutilizar as placas exteriores em algo mais adequado para nossos soldados. O material em si parece ser o mesmo que os alienígenas utilizaram em todo o casco da Avenger, uma substância extremamente durável com uma propriedade magnética ambiente incomum. Como componente de armadura, os campos magnéticos que cercam essas placas realmente fornecerão proteção adicional contra armamentos baseados em magnetismo, principalmente as armas de gauss comumente equipadas pela ADVENT. R. Tygan."
 
 [EXOSuit X2TechTemplate]
-DisplayName="E.X.O. Suit"
-Summary="If we combine the power-assisted armor prototypes we've been working on with some of the ADVENT plating we've recovered, we could develop a heavy variant of our plated armor. More importantly, we might be able to add a heavy weapon mount directly to the armor, combining significant defensive and offensive capabilities in a single suit."
+DisplayName="Traje E.X.O."
+Summary="Se combinarmos os protótipos de armadura com assistência de energia em que estávamos trabalhando com algumas das placas da ADVENT que recuperamos, poderíamos desenvolver uma variante pesada de nossa armadura plaqueada. Mais importante ainda, poderíamos adicionar diretamente ao traje um suporte para uma arma pesada, combinando capacidades defensivas e ofensivas significativas em um único traje."
 CodeName="Stark"
-LongDescription="For the aliens, fielding heavier weapons, or more of them, usuallly means using a larger, heavier alien species to haul the gear into battle. For our needs, we have to rely on something more practical. I've has been working on a variety of power-assisted armor prototypes, which, at the very least, should provide a means for our troops to bring another weapon into the fight. By combining these prototypes with the alien alloy plating we've experimented with previously, the armor should also be incredibly durable, more so than anything we've provided to our troops previously. L. Shen."
+LongDescription="Para os alienígenas, o uso de armas mais pesadas, ou mais delas, geralmente significa usar uma espécie alienígena maior e mais pesada para transportar o equipamento para a batalha. Para nossas necessidades, temos que depender de algo mais prático. Tenho trabalhado em uma variedade de protótipos de armaduras com assistência de energia que, pelo menos, devem fornecer um meio para nossas tropas levarem outra arma para a luta. Ao combinar esses protótipos com as placas de liga alienígenas com as quais experimentamos anteriormente, a armadura também deve ser incrivelmente durável, mais do que qualquer coisa que tenhamos fornecido a nossas tropas anteriormente. L. Shen."
 
 [SpiderSuit X2TechTemplate]
-DisplayName="Spider Suit"
-Summary="Spotty records from the ruined mainframe at XCOM HQ indicate an early prototype for a light armor suit coupled with a grappling hook never came to fruition. Our recent mastery of the aliens' materials may allow us to revive the concept." 
+DisplayName="Traje Aranha"
+Summary="Registros fragmentados do mainframe arruinado na sede da XCOM indicam que um protótipo inicial para um traje de armadura leve acoplado a um gancho de escalada nunca se concretizou. Nosso recente domínio dos materiais dos alienígenas pode permitir que revivamos o conceito."
 CodeName="Fisher"
-LongDescription="With the variety of environments our forces are currently engaging the enemy in, we need to give them every opportunity to gain a tactical advantage in the field. With that in mind, our latest armor prototype incorporates a basic powered-ascent mechanism capable of propelling the wearer to heights of over 10m with high levels of stability. The suit utilizes a number of micro-servo motors operating in sequence to aid in distributing the load throughout the armor, with the added side-effect of enhanced reflexes provided to the wearer. Although Central has made vague references to the previous science officer serving XCOM, he doesn't seem interested in discussing her efforts with me directly. I'm guessing the grapple design was something she created in collaboration with dad before XCOM fell. L. Shen."
+LongDescription="Com a variedade de ambientes nos quais nossas forças estão atualmente enfrentando o inimigo, precisamos dar a eles todas as oportunidades de obter uma vantagem tática no campo de batalha. Com isso em mente, nosso último protótipo de armadura incorpora um mecanismo básico de ascensão assistida, capaz de impulsionar o usuário a alturas superiores a 10 metros com alto nível de estabilidade. O traje utiliza uma série de micro-motores servo que operam em sequência para ajudar na distribuição da carga por toda a armadura, com o efeito colateral adicional de fornecer reflexos aprimorados ao usuário. Embora o Central tenha feito referências vagas à ex-oficial de ciências que servia na XCOM, ele não parece interessado em discutir seus esforços comigo diretamente. Acho que o design do gancho foi algo que ela criou em colaboração com o pai antes que a XCOM caísse. L. Shen."
 
 [PoweredArmor X2TechTemplate]
-DisplayName="Powered Armor"
-Summary="Having found various means of integrating the alien materials within designs better suited to our own troops, I think it may be possible to assemble armor made entirely of the recovered alloys and powered by an Elerium cell. It should be incredibly strong, and able to withstand even direct hits from most alien weaponry."
+DisplayName="Armadura Potencializada"
+Summary="Tendo encontrado várias maneiras de integrar os materiais alienígenas em designs mais adequados para nossas próprias tropas, acredito que seja possível montar uma armadura feita inteiramente das ligas recuperadas e alimentada por uma célula de Elerium. Deve ser incrivelmente forte e capaz de resistir até mesmo a ataques diretos da maioria das armas alienígenas."
 CodeName="Goliath"
-LongDescription="From what we've seen of the aliens' activities and their lack of regard for human life, preserving those of us that are still around has to become a task of equal importance to eliminating the alien threat itself. The success of this entire undertaking hinges on our ability to keep our soldiers healthy and ready for battle at a moment's notice. In working towards that aim, our latest armor prototype utilizes more of the alien alloys than any we've previously assembled, and as expected the durability and potential for damage mitigation is extremely impressive. Initial trials show the armor to be capable of withstanding a direct hit from focused plasma at 5m, enough so to increase survivability by a substantial margin. I plan on advising the senior staff not to inform the troops of any perceived toughness associated with the suit, I would hate for our forces to grow reliant on it despite our best intentions. L. Shen."
+LongDescription="Pelo que vimos das atividades dos alienígenas e de sua falta de consideração pela vida humana, preservar aqueles de nós que ainda estão vivos deve se tornar uma tarefa de importância igual à de eliminar a ameaça alienígena em si. O sucesso de toda essa empreitada depende de nossa capacidade de manter nossos soldados saudáveis e prontos para a batalha a qualquer momento. Em busca desse objetivo, nosso último protótipo de armadura utiliza mais das ligas alienígenas do que qualquer outra que já montamos, e, como esperado, a durabilidade e o potencial de mitigação de danos são extremamente impressionantes. Testes iniciais mostram que a armadura é capaz de resistir a um impacto direto de um disparo de plasma a 5 metros, o suficiente para aumentar substancialmente a capacidade de sobrevivência. Pretendo aconselhar a equipe sênior a não informar as tropas sobre qualquer resistência percebida associada ao traje, pois não gostaria que nossas forças se tornassem dependentes dele, apesar de nossas melhores intenções. L. Shen."
 
 [WraithSuit X2TechTemplate]
-DisplayName="Wraith Suit"
-Summary="Having seen the aliens manipulating Psionic fields for a variety of purposes, we've theorized it may be possible to traverse through the physical confines of our world by developing a Psionic field enmeshed in a specially designed light armor suit."
+DisplayName="Traje Wraith"
+Summary="Tendo visto os alienígenas manipulando campos psíquicos para diversas finalidades, teorizamos que pode ser possível atravessar os confins físicos de nosso mundo desenvolvendo um campo psíquico entrelaçado em um traje de armadura leve especialmente projetado."
 CodeName="Loki"
-LongDescription="Even though we're learning more about the alien's varying uses for the Psionic energy fields they manipulate, so far we haven't spent much time trying to harness these capabilities for our own purposes. Direct access to the biomechanical alien we've been calling the "Codex" has given us far better insight into the nature of Psionics than any of our previous experimentation. The Codex has the unique ability to phase through not just physical objects, but between worlds, and, in theory, dimensions. By focusing a carefully balanced pulse of Psionic energy, the Codex creates a rift, effectively peeling back the layers of spacetime. The possible implications of this ability are mind bobbling, but it's safe to say I won't be recommending we pursue this advance to the Commander. However, there are other areas of interest tied Codex. During our testing, we conceived of the possibility that the Psionic pulse could be diverted, or scattered, across an electromagnetic field integrated into a suit of armor. This would effectively create a weakened rift throughout the suit, allowing the wearer to phase through objects within our own dimension. The prototype is stable, but field trials are ongoing. L. Shen."
+LongDescription="Embora estejamos aprendendo mais sobre os diversos usos da energia psíquica que os alienígenas manipulam, até agora não dedicamos muito tempo tentando aproveitar essas capacidades para nossos próprios propósitos. O acesso direto ao alienígena biomecânico que chamamos de "Codex" nos deu uma compreensão muito melhor da natureza da psicologia do que qualquer uma de nossas experiências anteriores. O Codex tem a capacidade única de se desmaterializar não apenas de objetos físicos, mas também entre mundos e, teoricamente, dimensões. Concentrando um pulso cuidadosamente equilibrado de energia psíquica, o Codex cria uma fenda, efetivamente desvendando as camadas do espaço-tempo. As possíveis implicações dessa habilidade são incríveis, mas é seguro dizer que não recomendarei essa abordagem ao Comandante. No entanto, existem outras áreas de interesse relacionadas ao Codex. Durante nossos testes, concebemos a possibilidade de que o pulso psíquico possa ser desviado ou disperso através de um campo eletromagnético integrado a um traje de armadura. Isso criaria efetivamente uma fenda enfraquecida em todo o traje, permitindo que o usuário atravessasse objetos dentro de nossa própria dimensão. O protótipo é estável, mas os testes de campo ainda estão em andamento. L. Shen."
 
 [WARSuit X2TechTemplate]
-DisplayName="W.A.R. Suit"
-Summary="By harnessing the power of Elerium, it may be possible to create a new heavy powered-armor suit capable of generating a defensive force field not unlike those used on the alien craft."
+DisplayName="Traje W.A.R."
+Summary="Aproveitando o poder do Elerium, pode ser possível criar um novo traje de armadura pesado capaz de gerar um campo de força defensivo semelhante aos usados nas naves alienígenas."
 CodeName="Titan"
-LongDescription="With our supply of Elerium crystals limited by what our soldiers can recover in the field, I've been hesitant to recommend we commit them to any one project exclusively. However, in the wake of recent events, it seems like we need to work on developing an armor suit exceeding the durability and toughness of any of our previous designs. In order to do that, we've integrated an Elerium-based power cell into one our heavier frames. With the Elerium's incredible energy throughput, the suit can now support the use a self-contained force field. In the simplest of terms, we've mirrored the technologies most commonly used by the aliens in the defense of their UFOs, and fused them with a platform our troops can deploy in the field. I expect great things from this unit. L. Shen." 
+LongDescription="Com nosso estoque de cristais de Elerium limitado pelo que nossos soldados podem recuperar no campo, tenho sido relutante em recomendar que os dediquemos a um projeto exclusivamente. No entanto, diante dos acontecimentos recentes, parece que precisamos trabalhar no desenvolvimento de um traje de armadura que exceda a durabilidade e robustez de todos os nossos designs anteriores. Para fazer isso, integramos uma célula de energia à base de Elerium em uma de nossas estruturas mais pesadas. Com o incrível rendimento de energia do Elerium, o traje agora pode suportar o uso de um campo de força autocontido. Em termos mais simples, espelhamos as tecnologias mais comumente usadas pelos alienígenas na defesa de suas UFOs e as fundimos com uma plataforma que nossas tropas podem usar no campo de batalha. Espero grandes resultados desse traje. L. Shen." 
 
-;Autopsies
+;Autópsias
 [AlienBiotech X2TechTemplate]
-DisplayName="Alien Biotech"
-Summary="Having successfully conducted the traumatic procedure required to remove the chip implanted by ADVENT, we now have an opportunity to study the inner workings of the device to gain a better understanding of their motivations."
+DisplayName="Biotecnologia Alienígena"
+Summary="Após conduzir com sucesso o procedimento traumático necessário para remover o chip implantado pela ADVENT, agora temos a oportunidade de estudar o funcionamento interno do dispositivo para obter uma melhor compreensão de suas motivações."
 Codename="Nano"
-LongDescription="With little time to prepare, we were forced to conduct an extremely invasive procedure on the Commander in order remove what appeared to be an implant carefully enmeshed within the occipital lobe. Although all indications were that the device was not designed for removal, concerns as to the Commander's potential longevity, and the risk of possible remote manipulation by the aliens, left us with little alternative.\n\nDespite my concerns, the Commander has so far felt no lasting effects from the procedure and appears to be recovering ahead of expectations. As for the chip itself, my initial findings are alarming, to say the least. The device is Psionically-driven by the latent energy of the subject's brain, in this case, the Commander. More importantly, it appears the device functions as both a transmitter and receiver, relaying information via some form of Psionic link.\n\nEven after removal, I've had to shield the device to contain the residual Psionic fields surrounding the implant itself, for fear of what it might be capable of. If my current theory is correct, the Commander may have played a more important role in ADVENT's operations than we could have possibly imagined. R. Tygan." 
+LongDescription="Com pouco tempo para nos prepararmos, fomos forçados a realizar um procedimento extremamente invasivo no Comandante para remover o que parecia ser um implante cuidadosamente inserido no lobo occipital. Embora todas as indicações fossem de que o dispositivo não foi projetado para ser removido, preocupações com a possível longevidade do Comandante e o risco de possível manipulação remota pelos alienígenas não nos deixaram muitas alternativas. Apesar de minhas preocupações, até agora o Comandante não sentiu efeitos duradouros do procedimento e parece estar se recuperando acima das expectativas. Quanto ao próprio chip, minhas descobertas iniciais são alarmantes, para dizer o mínimo. O dispositivo é conduzido psionicamente pela energia latente do cérebro do sujeito, nesse caso, o Comandante. Mais importante ainda, parece que o dispositivo funciona tanto como transmissor quanto receptor, transmitindo informações por meio de uma forma de ligação psionicamente. Mesmo após a remoção, tive que proteger o dispositivo para conter os campos psíonicos residuais em torno do implante, por medo do que ele possa ser capaz de fazer. Se minha teoria atual estiver correta, o Comandante pode ter desempenhado um papel mais importante nas operações da ADVENT do que poderíamos imaginar. R. Tygan."
 
 [AutopsySectoid X2TechTemplate]
-DisplayName="Sectoid Autopsy"
-Summary="Although the Sectoids have changed substantially since the invasion, their ability to manipulate Psionic energy has clearly not been diminished in the process. With a complete study of this new specimen, we may be able to develop the Psionic capabilities of our own troops."
+DisplayName="Autópsia de Sectoide"
+Summary="Embora os Sectoides tenham mudado substancialmente desde a invasão, sua capacidade de manipular energia psionica claramente não foi diminuída no processo. Com um estudo completo deste novo espécime, podemos desenvolver as capacidades psionicas de nossas próprias tropas."
 CodeName="Kecksburg"
-LongDescription="Preliminary autopsy exam conducted by Dr. Richard Tygan, acting science officer. Although my direct surgical experience is limited, the aliens' genetic manipulation of the species previously catalogued as a Sectoid provides a certain familiarity in relation to human anatomy. While the earliest documented accounts of Sectoids on earth indicated examples no larger than one meter in height, the specimens we encounter today are all nearly twice that size. Knowing full well that the aliens continue their efforts to integrate human and alien DNA, my findings here only reinforce the notion of a continuous development process. This larger Sectoid variant has an even greater proportion of human genetic material, selectively combined with the intention of improving the otherwise limited physical capabilities of the original. With enhanced Psionic capabilities and greater overall strength, I'd say they've succeeded. R. Tygan."
-AlertString="Sectoid"
+LongDescription="Exame preliminar de autópsia realizado pelo Dr. Richard Tygan, atuando como oficial científico. Embora minha experiência cirúrgica direta seja limitada, a manipulação genética dos alienígenas da espécie previamente catalogada como Sectoide proporciona certa familiaridade em relação à anatomia humana. Embora os primeiros relatos documentados dos Sectoides na Terra indicassem exemplares com menos de um metro de altura, os espécimes que encontramos hoje têm quase o dobro desse tamanho. Sabendo muito bem que os alienígenas continuam seus esforços para integrar o DNA humano e alienígena, minhas descobertas aqui apenas reforçam a noção de um processo contínuo de desenvolvimento. Essa variante maior de Sectoide tem uma proporção ainda maior de material genético humano, combinado seletivamente com a intenção de melhorar as capacidades físicas limitadas do original. Com capacidades psionicas aprimoradas e maior força geral, eu diria que eles tiveram sucesso. R. Tygan."
+AlertString="Sectoide"
 
 [AutopsyViper X2TechTemplate]
-DisplayName="Viper Autopsy"
-Summary="This creature is clearly reptilian in nature, although it appears to be not only sentient, but also highly intelligent. Still, the underlying physiology is remarkably similar to a number of terrestrial species - including the venom sacs, which we might be able to synthesize and incorporate for use in our medical supplies."
+DisplayName="Autópsia de Víbora"
+Summary="Esta criatura é claramente de natureza reptiliana, embora pareça ser não apenas inteligente, mas também altamente inteligente. Ainda assim, a fisiologia subjacente é notavelmente semelhante a várias espécies terrestres - incluindo as glândulas de veneno, que podemos ser capazes de sintetizar e incorporar em nossos suprimentos médicos."
 CodeName="Strangle"
-LongDescription="I find it truly remarkable how adaptable some of the alien species' genetics are to the constant \"tweaks\" they're often subjected to. In the case of the \"Viper,\" a species once identified as the infiltration unit known as a \"Thin Man,\" the aliens have made a conscious reduction in their efforts to disguise its true form. Without the introduction of extensive human genetic material, the Viper reverts to a purely reptilian form while apparently retaining the same intellect and combat aptitude. The Viper's snake-like form is in many ways similar to the legless reptiles we commonly encounter on Earth. The enhanced torso musculature allows for upright mobility, and the addition of two physically weak but capable arms allows for the handling of traditional weaponry. Of the many alien species our troops encounter in the field, I find the prospect of encountering an intelligent snake standing over 2 meters tall to be among the most disturbing. R. Tygan."
-AlertString="Viper"
+LongDescription="Acho verdadeiramente notável o quão adaptáveis são algumas das genéticas das espécies alienígenas às constantes \"modificações\" a que são frequentemente submetidas. No caso da \"Víbora,\" uma espécie anteriormente identificada como a unidade de infiltração conhecida como \"Homem Fino,\" os alienígenas fizeram uma redução consciente em seus esforços para disfarçar sua verdadeira forma. Sem a introdução de extenso material genético humano, a
+
+ Víbora volta a uma forma puramente reptiliana, enquanto aparentemente retém a mesma inteligência e aptidão para combate. A forma em formato de cobra da Víbora é de muitas maneiras semelhante aos répteis sem membros que comumente encontramos na Terra. A musculatura aprimorada do torso permite mobilidade vertical e a adição de dois braços fisicamente fracos, mas capazes, permite o manuseio de armamento tradicional. Das muitas espécies alienígenas com as quais nossas tropas se deparam no campo, a perspectiva de encontrar uma cobra inteligente com mais de 2 metros de altura é uma das mais perturbadoras. R. Tygan."
+AlertString="Víbora"
 
 [AutopsyMuton X2TechTemplate]
-DisplayName="Muton Autopsy"
-Summary="The aliens' primary shock troops are even more dangerous than they were when we faced them during the invasion. Our hope is that we can emulate their plasma-based explosives for our purposes."
+DisplayName="Autópsia de Muton"
+Summary="As principais tropas de choque dos alienígenas são ainda mais perigosas do que eram quando as enfrentamos durante a invasão. Nossa esperança é que possamos emular os explosivos à base de plasma para nossos propósitos."
 CodeName="Surtur"
-LongDescription="Having never seen any of the previous Muton variants personally, I can only go by the stories I've heard from Central Officer Bradford and others. As they say, the current breed is apparently on the smaller side, although considerably more agile than the originals. Internally, the subject maintains all the hallmarks of extensive genetic modification, with additional musculature and bone protecting the internal organs from any risk of direct contact. The aliens clearly spent a great deal of time and effort honing the abilities of the Muton as a front-line combat soldier. I had heard that our soldiers believe the Mutons to be part of a tribal society, at least originally, based on their unusual battle cries and markings seen in the field. Having finally gotten a closer look, I can confirm the presence of unusual scarification that could certainly be attributed to ritualistic behavior of some kind. R. Tygan."
+LongDescription="Nunca tendo visto pessoalmente nenhuma das variantes anteriores de Muton, só posso me basear nas histórias que ouvi do Oficial Central Bradford e de outros. Como eles dizem, a raça atual aparentemente é do lado menor, embora considerevamente mais ágil que os originais. Internamente, o sujeito mantém todas as características de modificação genética extensiva, com músculos e ossos adicionais protegendo os órgãos internos de qualquer risco de contato direto. Os alienígenas claramente gastaram muito tempo e esforço aperfeiçoando as habilidades do Muton como soldado de combate de frente. Eu havia ouvido dizer que nossos soldados acreditam que os Mutons fazem parte de uma sociedade tribal, pelo menos originalmente, com base em seus gritos de batalha incomuns e marcas vistas no campo. Tendo finalmente dado uma olhada mais de perto, posso confirmar a presença de escarificação incomum que certamente poderia ser atribuída a comportamentos ritualísticos de algum tipo. R. Tygan."
 AlertString="Muton"
 
 [AutopsyBerserker X2TechTemplate]
-DisplayName="Berserker Autopsy"
-Summary="This unusual specimen is clearly afflicted by some form of extreme muscular hypertrophy, although how the species came to exist in this state will require a thorough examination. I suspect the research could lead to varying enhancements for our own troops, perhaps even some means of intensifying their own thirst for combat."
+DisplayName="Autópsia de Berserker"
+Summary="Este espécime incomum é claramente afetado por algum tipo de hipertrofia muscular extrema, embora como a espécie chegou a existir neste estado exigirá um exame minucioso. Suspeito que a pesquisa possa levar a várias melhorias para nossas próprias tropas, talvez até mesmo alguns meios de intensificar sua própria sede por combate."
 CodeName="Ragnarok"
-LongDescription="This species was quickly tagged by our forces in the field as a \"Berserker,\" based on its often irrationally aggressive behavior on the battlefield. Upon initial examination, it's difficult to ignore the extreme muscle growth present throughout the specimen, leaving little need for extensive armor or even conventional weaponry for that matter. I suspect the added bulk of the subject to be the direct result of an intentional protein deficiency engineered by the aliens explicitly to create the hulking mass we see today. As for its behavior, I can only infer that was intended as well, as the aliens are well within their capability to manipulate the endocrine glands or equivalent for the purposes of hormonal behavioral control. In any case, this is an extremely dangerous and unstable species, best avoided by our troops at anything other than long range. R. Tygan."
+LongDescription="Esta espécie foi rapidamente identificada por nossas forças no campo como \"Berserker,\" com base em seu comportamento frequentemente irracional e agressivo no campo de batalha. Após o exame inicial, é difícil ignorar o crescimento extremo dos músculos presente em todo o espécime, deixando pouca necessidade de armadura extensiva ou mesmo armamento convencional. Suspeito que o aumento de massa do sujeito seja resultado direto de uma deficiência intencional de proteínas projetada pelos alienígenas para criar explicitamente a massa corpulenta que vemos hoje. Quanto ao seu comportamento, só posso inferir que também foi intencional, já que os alienígenas estão bem dentro de sua capacidade de manipular as glândulas endócrinas ou equivalentes para fins de controle hormonal comportamental. Em qualquer caso, esta é uma espécie extremamente perigosa e instável, melhor evitada por nossas tropas a qualquer distância que não seja de longo alcance. R. Tygan."
 AlertString="Berserker"
 
 [AutopsyArchon X2TechTemplate]
-DisplayName="Archon Autopsy"
-Summary="An aesthetically impressive specimen, the hidden horrors of melding organic tissue with the inner workings of a machine are well-disguised here. The unique melee weapon employed by the creature could be of particular interest to our Rangers."
+DisplayName="Autópsia de Arconte"
+Summary="Um espécime esteticamente impressionante, os horrores ocultos da fusão de tecido orgânico com o funcionamento interno de uma máquina estão bem disfarçados aqui. A arma única de combate corpo a corpo empregada pela criatura pode ser de particular interesse para nossos Rangers."
 CodeName="Balseraph"
-LongDescription="Brief eyewitness accounts, including one from our own Central Officer Bradford indicate that the aliens once fielded a similar biomechatronic organism during the earliest days of the invasion. Those reports however, describe a much more gruesome and rudimentary creature versus the subject we encounter in the present day. The modern specimen could almost be described as elegant in appearance; an authoritative, intimidating figure with the advanced weaponry to match. R. Tygan."
-AlertString="Archon"
+LongDescription="Breves relatos de testemunhas oculares, incluindo um de nosso próprio Oficial Central Bradford, indicam que os alienígenas uma vez empregaram um organismo biomecatrônico semelhante nos primeiros dias da invasão. No entanto, esses relatos descrevem uma criatura muito mais horrível e rudimentar em comparação com o sujeito que encontramos nos dias atuais. O espécime moderno poderia ser descrito como elegante em aparência; uma figura autoritária e intimidadora com a tecnologia avançada para combinar. R. Tygan."
+AlertString="Arconte"
 
 [AutopsyGatekeeper X2TechTemplate]
-DisplayName="Gatekeeper Autopsy"
-Summary="Our initial readings of the odd spherical creature we encountered show it to be of immense Psionic power, potentially rivaling that of the Elders themselves. It may be possible to reverse-engineer its biomechanical components for use in our own equipment."
+DisplayName="Autópsia de Guardião"
+Summary="Nossas leituras iniciais da estranha criatura esférica que encontramos mostram que ela possui um poder psionico imenso, potencialmente rivalizando com o dos Anciãos. Talvez seja possível engenhariar reversamente seus componentes biomecânicos para uso em nossos próprios equipamentos."
 CodeName="Barrett"
-LongDescription="Having encountered a number of aliens capable of wielding Psionic power, it should come as no surprise that their aptitude and abilities are often unique to a given species. In this case the subject henceforth referred to as the "Gatekeeper," is on the extreme end of the spectrum in terms of Psionic sensitivity.\n\nHowever, our efforts to analyze the subject have so far revealed little in terms of its actual purpose or intention in the field. Unlike the Codex, so far we've found nothing that would allow the Gatekeeper to open or control a rift. All current indications point to an unusually independent, unpredictable species. R. Tygan."
-AlertString="Gatekeeper"
+LongDescription="Tendo encontrado vários alienígenas capazes de empunhar poder psionico, não deve ser surpresa que suas aptidões e habilidades sejam frequentemente únicas para cada espécie. Neste caso, o sujeito doravante denominado "Guardião" está no extremo mais alto do espectro em termos de sensibilidade psionica.\n\nNo entanto, nossos esforços para analisar o sujeito até agora revelaram pouco sobre seu propósito ou intenção real no campo de batalha. Ao contrário do Codex, até agora não encontramos nada que permita ao Guardião abrir ou controlar um vórtice. Todas as indicações atuais apontam para uma espécie incomumente independente e imprevisível. R. Tygan."
+AlertString="Guardião"
 
 [AutopsyAndromedon X2TechTemplate]
-DisplayName="Andromedon Autopsy"
-Summary="The beings that inhabit these suits clearly come from an environment utterly hostile to humans. The corrosive substance they use as a weapon may be the equivalent to water for them - but on this planet it's deadly. I've theorized as to how the substance could somehow be used to our advantage as part of an explosive weapons system."
+DisplayName="Autópsia de Andromedon"
+Summary="Os seres que habitam essas armaduras claramente vêm de um ambiente totalmente hostil aos humanos. A substância corrosiva que usam como arma pode ser equivalente à água para eles - mas neste planeta é mortal. Eu teorizei como essa substância poderia ser usada de alguma forma em nosso benefício, como parte de um sistema de armas explosivas."
 CodeName="Levine"
-LongDescription="Although I was extremely hesitant to perform an autopsy on this creature before an extensive analysis of the fumes vented with regularity from its suit, my concerns were overruled by the rest of the senior staff due to our overbearing time constraints. It was with some relief that I discovered the most common element to be Argon, an otherwise harmless gas when handled properly. Although similar in size and physical structure to the Muton species, the \"Andromedon\" as it's come to be known does not appear to be of the same genetic design as the Muton. I stress design here because perhaps more so than all but the most extreme examples, the Andromedon was engineered to exist only within the confines of the environmental suit we see them wearing in the field. Destruction of this protective equipment results in a reaction similar to what we might see if a human astronaut were to remove their helmet in space - that is to say, a painful and unpleasant death within minutes. R. Tygan."
+LongDescription="Embora eu estivesse extremamente hesitante em realizar uma autópsia nessa criatura antes de uma análise extensiva dos gases liberados regularmente por sua armadura, minhas preocupações foram anuladas pelo restante da equipe devido às nossas preocupações com o tempo. Foi com algum alívio que descobri que o elemento mais comum é o Argônio, um gás inofensivo quando manuseado adequadamente. Embora seja semelhante em tamanho e estrutura física à espécie Muton, o \"Andromedon,\" como passou a ser conhecido, não parece ter o mesmo projeto genético que o Muton. Eu enfatizo o termo "projeto" aqui, pois talvez mais do que todos, exceto os exemplos mais extremos, o Andromedon foi projetado para existir apenas dentro da armadura ambiental que vemos eles usando no campo de batalha. A destruição dessa proteção resulta em uma reação semelhante ao que veríamos se um astronauta humano removesse o capacete no espaço - ou seja, uma morte dolorosa e desagradável em questão de minutos. R. Tygan."
 AlertString="Andromedon"
 
 [AutopsyFaceless X2TechTemplate]
-DisplayName="Faceless Autopsy"
-Summary="At one time, the Thin Men were the most advanced infiltration units available to the aliens. Now, we face a species capable of mimicking the human form at will. If we can come to understand how it is that they emulate us so effectively, perhaps we could develop a tool to deceive them ourselves."
+DisplayName="Autópsia de Faceless"
+Summary="Em um momento, os Homens Finos eram as unidades de infiltração mais avançadas disponíveis para os alienígenas. Agora, enfrentamos uma espécie capaz de imitar a forma humana à vontade. Se pudermos entender como eles nos imitam de forma tão eficaz, talvez possamos desenvolver uma ferramenta para enganá-los também."
 CodeName="Protean"
-LongDescription="Early reports from the resistance referencing an alien creature said to be capable of \"shapeshifting\" were initially dismissed by local cell leaders who attributed the sightings to combat stress and malnutrition. It wasn't until our own forces engaged with the creature that we successfully confirmed its existence. Surprisingly enough, the description of the creature from those early reports was quite accurate.\n\nWith a varying height of up to three meters, the specimen currently referred to as the "Faceless" has one of the most unusual internal structures I've ever encountered. Where one might expect to find a skeletal foundation, we instead see a series of malleable chitin-like structures providing various points for the expansion of several equally unusual fluid membranes.\n\nThe membranes in question are responsible for the Faceless' extraordinary ability to mirror the form of a human. In recirculating key cellular combinations via an elaborate internal structure, the Faceless is capable of forming solid shapes while also mirroring colors and textures without physical sampling. As of yet we've only seen evidence of the Faceless attempting to imitate humans, but not other species or inanimate objects. Whether or not this is a limitation of their genetic makeup, or an intentional manipulation of their abilities by the aliens, we cannot say at this time. R. Tygan."
+LongDescription="Relatos iniciais da resistência referentes a uma criatura alienígena capaz de \"mudar de forma\" foram inicialmente ignorados pelos líderes locais da célula, que atribuíram as visões ao estresse de combate e à desnutrição. Foi apenas quando nossas próprias forças entraram em contato com a criatura que confirmamos sua existência com sucesso. Surpreendentemente, a descrição da criatura dos primeiros relatórios era bastante precisa.\n\nCom uma altura variável de até três metros, o espécime agora referido como "Faceless" possui uma das estruturas internas mais incomuns que já encontrei. Onde se esperaria encontrar uma base esquelética, encontramos em vez disso uma série de estruturas maleáveis semelhantes a quitina, fornecendo vários pontos para a expansão de várias membranas fluidas igualmente incomuns.\n\nAs membranas em questão são responsáveis pela extraordinária capacidade do Faceless de espelhar a forma de um humano. Ao recircular combinações celulares-chave por meio de uma estrutura interna elaborada, o Faceless é capaz de formar formas sólidas enquanto espelha cores e texturas sem amostragem física. Até agora, só vimos evidências do Faceless tentando imitar humanos, mas não outras espécies ou objetos inanimados. Se isso é uma limitação de sua composição genética ou uma manipulação intencional de suas habilidades pelos alienígenas, ainda não podemos dizer ao certo. R. Tygan."
 AlertString="Faceless"
 
 [AutopsyChryssalid X2TechTemplate]
-DisplayName="Chryssalid Autopsy"
-Summary="They may have features resembling a variety of terrestrial insect species, but these creatures are deadlier than anything bred of our world. Their armored exoskeleton is of particular interest, and may provide insights towards the creation of an armor suit capable of actively damaging enemy forces as they engage in combat."
+DisplayName="Autópsia de Chryssalid"
+Summary="Eles podem ter características que se assemelham a várias espécies de insetos terrestres, mas essas criaturas são mais letais do que qualquer coisa criada em nosso mundo. Seu exoesqueleto blindado é de particular interesse e pode fornecer informações para a criação de uma armadura capaz de danificar ativamente
+
+ as forças inimigas durante o combate."
 CodeName="Chrysalis"
-LongDescription="An inherently terrifying and unpleasant species to encounter by surprise, I can only admire our troops for their courage in dealing with the species known as the \"Chryssalid.\" Mirroring the general form of a common Arthropod, immediately noticeable is the sleek, armored exoskeleton protecting its segmented body. Of particular concern for our troops are the honed points of the Chryssalid's fangs and legs, capable of inflicting critical injuries on their own, they also allow for the creature's gruesome means of rapid reproduction in the field.\n\nAlthough Central Officer Bradford insists that he witnessed a different, equally invasive means of Chryssalid gestation during the earliest days of the war, there is no evidence that such attacks still occur today. Unfortunately, from what he's described, I would say the aliens have actually evolved the process into a more efficient, and deadly, solution. The Chryssalids we see today inject a venom that immediately begins softening the structure of the victim's internal organs, preparing the subject to serve as a both the material for a gestation cocoon, and as a ready supply of nutrients for the Chryssalid young. Should the victim fail to receive medical support and expire, the cocoon will form shortly thereafter. Assuming the cocoon is not destroyed during the initial gestation period, we can expect up to three Chryssalid young to emerge after an impressively short period of growth.\n\nRecent reports from the field indicate some form of "burrowing" behavior, perhaps another evolution of past techniques, in this case likely for defensive purposes. Our troops would be well-advised to watch where they step in the future. R. Tygan."
+LongDescription="Uma espécie inerentemente aterrorizante e desagradável de encontrar de surpresa, só posso admirar nossas tropas por sua coragem ao lidar com a espécie conhecida como \"Chryssalid.\" Refletindo a forma geral de um artrópode comum, o exoesqueleto blindado e aerodinâmico que protege seu corpo segmentado é imediatamente notável. De particular preocupação para nossas tropas estão os pontos afiados das presas e pernas do Chryssalid, capazes de infligir ferimentos graves por si mesmos, eles também permitem os meios horríveis da rápida reprodução da criatura no campo.\n\nEmbora o Oficial Central Bradford insista que testemunhou um meio diferente, mas igualmente invasivo, de gestação de Chryssalid nos primeiros dias da guerra, não há evidências de que esses ataques ainda ocorram hoje. Infelizmente, pelo que ele descreveu, eu diria que os alienígenas evoluíram o processo para uma solução mais eficiente e mortal. Os Chryssalids que vemos hoje injetam um veneno que imediatamente começa a amolecer a estrutura dos órgãos internos da vítima, preparando-a para servir como tanto o material para um casulo de gestação, quanto como uma fonte pronta de nutrientes para os jovens Chryssalid. Se a vítima não receber suporte médico e falecer, o casulo se forma logo em seguida. Supondo que o casulo não seja destruído durante o período inicial de gestação, podemos esperar que até três jovens Chryssalid surjam após um período de crescimento impressionantemente curto.\n\nRelatórios recentes do campo indicam algum tipo de comportamento de "escavação", talvez outra evolução de técnicas passadas, nesse caso, provavelmente com fins defensivos. Nossas tropas devem ter cuidado com onde pisam no futuro. R. Tygan."
 AlertString="Chryssalid"
 
 [AutopsySectopod X2TechTemplate]
-DisplayName="Sectopod Breakdown"
-Summary="This thing looks like something Earth's military planners would have dreamed about controlling 20 years ago. Heavy armor, advanced weapons systems, and yet still reasonably maneuverable in the field. Once we pull it apart, I'm hoping we'll find a means of improving on our GREMLIN designs."
+DisplayName="Autópsia de Sectopod"
+Summary="Este objeto se parece com algo com que os planejadores militares da Terra sonhariam em controlar há 20 anos. Armadura pesada, sistemas avançados de armas e ainda razoavelmente manobrável no campo de batalha. Depois de desmontá-lo, espero encontrar uma maneira de melhorar nossos projetos GREMLIN."
 CodeName="Cyclops"
-LongDescription="When we first brought this thing in, some of the troops were still adamant that once we opened it up, we'd find a Sectoid or worse at the helm. Fortunately, our precautions weren't necessary; there's nothing organic inside, no "operator" providing physical directions. Unless they're triggering it remotely, all indications point to this \"Sectopod\" being an entirely autonomous weapon, operating according to the parameters of its system programming. This is exactly the sort of weapon that would have raised eyebrows in the past. I know dad would have been apprehensive about arming a robot and sending it on its way. It's pretty clear at this point the aliens aren't bound by any moral or ethical obligations; if it's efficient and destructive, they seem to have no problem setting it loose on us. L. Shen."
+LongDescription="Quando trouxemos essa coisa pela primeira vez, alguns dos soldados ainda estavam convencidos de que, uma vez que abríssemos, encontraríamos um Sectoide ou algo pior no comando. Felizmente, nossas precauções não eram necessárias; não há nada orgânico por dentro, nenhum \"operador\" fornecendo instruções físicas. A menos que estejam acionando-o remotamente, todas as indicações apontam para esse \"Sectopod\" sendo uma arma totalmente autônoma, operando de acordo com os parâmetros de sua programação de sistema. Este é exatamente o tipo de arma que levantaria preocupações no passado. Eu sei que meu pai teria ficado apreensivo em armar um robô e enviá-lo em sua jornada. É bem claro neste ponto que os alienígenas não estão vinculados por obrigações morais ou éticas; se é eficiente e destrutivo, eles parecem não ter problemas em lançá-lo contra nós. L. Shen."
 AlertString="Sectopod"
 
 [AutopsyAdventTrooper X2TechTemplate]
-DisplayName="ADVENT Trooper Autopsy"
-Summary="Now that we know the ADVENT are not pure human collaborators, but actual alien-human hybrids, close analysis of the fallen troopers' tissue might shed some light on the physiological changes the aliens have made. Their receiving neurochips might also enable us to create a device that would let us scan the battlefield without being noticed."
+DisplayName="Autópsia de Soldado ADVENT"
+Summary="Agora que sabemos que os ADVENT não são colaboradores humanos puros, mas sim híbridos alienígenas-humanos, uma análise detalhada do tecido dos soldados caídos pode revelar algumas mudanças fisiológicas que os alienígenas fizeram. Suas neurochips de recebimento também podem nos permitir criar um dispositivo que nos permita escanear o campo de batalha sem sermos notados."
 CodeName="Deacon"
-LongDescription="The most public face of ADVENT security, the standard ADVENT Trooper serves in a first-response role in areas of high public exposure. Although rumors as to their origins have persisted for years, it's only recently that we've confirmed that they are in fact the product of a human-alien hybrid development. My initial autopsy indicates that the troopers were at one time entirely human, implying some means of gradual genetic enhancement without the rejection concerns that would normally plague these experiments. The body itself maintains the general outward appearance of a typical human, with the most crucial changes occurring in the cranial structure. It is my belief that the ADVENT troopers receive their orders, that is to say are controlled, directly through a Psionic link engineered as part of the genetic modification process. As we first discovered in the field, the eyes are notably larger, perhaps as an unintended side-effect, as they seem to provide only limited improvements to the Trooper's visual acuity. The aliens have managed to disguise this glaring physical trait from the general public through the use of cleverly designed armor. R. Tygan."
-AlertString="ADVENT Trooper"
+LongDescription="A face mais pública da segurança ADVENT, o soldado ADVENT padrão atua em um papel de resposta inicial em áreas de alta exposição pública. Embora os rumores sobre suas origens tenham persistido por anos, foi somente recentemente que confirmamos que eles são, de fato, o resultado de um desenvolvimento de híbridos humano-alienígenas. Minha autópsia inicial indica que os soldados eram, em um momento, completamente humanos, o que implica em algum meio de aprimoramento genético gradual sem as preocupações de rejeição que normalmente afligiriam esses experimentos. O corpo em si mantém a aparência externa geral de um humano típico, com as mudanças mais cruciais ocorrendo na estrutura craniana. Acredito que os soldados ADVENT recebem suas ordens, ou seja, são controlados, diretamente por meio de uma conexão psíquica projetada como parte do processo de modificação genética. Como descobrimos inicialmente no campo, os olhos são notavelmente maiores, talvez como um efeito colateral não intencional, pois parecem fornecer apenas melhorias limitadas na acuidade visual do Soldado. Os alienígenas conseguiram disfarçar esse traço físico marcante do público em geral através do uso de armaduras habilmente projetadas. R. Tygan."
+AlertString="Soldado ADVENT"
 
 [AutopsyAdventStunLancer X2TechTemplate]
-DisplayName="ADVENT Stun Lancer Autopsy"
-Summary="The ADVENT Stun Lancer is commonly seen maintaining order and quelling disturbances throughout the world. Their unique stun lance could be adapted into a weapon our Rangers are already training to use."
+DisplayName="Autópsia de Lança-choque ADVENT"
+Summary="O Lança-choque ADVENT é comumente visto mantendo a ordem e reprimindo distúrbios em todo o mundo. Sua lança de atordoamento única poderia ser adaptada para uma arma que nossos Rangers já estão treinados para usar."
 CodeName="Chaplain"
-LongDescription="On both the physical and genetic level, the ADVENT Stun Lancers are nearly identical to the Troopers our forces regularly see in combat. However, a minor yet crucial adjustment to the muscle fiber density of the Lancer improves both agility and overall survivability. Equipped with non-lethal weapons capable of easily disabling human targets, these Lancers were first deployed during the earliest days following ADVENT's establishment of the city centers, when civil unrest was a more common problem than outright resistance. In studying their usage and deployment, this raised an interesting question - if the Lancers were among the first ADVENT forces deployed, and their survivability is somewhat higher than that of the standard Trooper - did the aliens consciously reduce the Trooper's strength based on their assessment of human combat readiness? This would imply a system of rapid genetic modification beyond what I had previously imagined the aliens were capable of. It would also demonstrate a degree of \"genetic frugality\" that I would have previously assumed was irrelevant to the aliens, based on the variety of unusual experiments they've conducted. R. Tygan."
-AlertString="ADVENT Stun Lancer"
+LongDescription="No nível físico e genético, os Lanças-choque ADVENT são quase idênticos aos Soldados que nossas forças regularmente encontram em combate. No entanto, um ajuste menor, porém crucial, na densidade das fibras musculares dos Lanças aprimora tanto a agilidade quanto a sobrevivência geral. Equipados com armas não letais capazes de desabilitar facilmente alvos humanos, esses Lanças foram implantados pela primeira vez nos primeiros dias após o estabelecimento da ADVENT dos centros urbanos, quando o tumulto civil era um problema mais comum do que a resistência aberta. Ao estudar seu uso e implantação, isso levantou uma questão interessante - se os Lanças foram entre as primeiras forças da ADVENT implantadas, e sua capacidade de sobrevivência é um tanto maior do que a do Soldado padrão - os alienígenas reduziram conscientemente a força do Soldado com base em sua avaliação da prontidão de combate humana? Isso implicaria em um sistema de modificação genética rápida além do que eu anteriormente imaginava que os alienígenas fossem capazes. Isso também demonstraria um grau de "frugalidade genética" que eu teria presumido anteriormente ser irrelevante para os alienígenas, com base na variedade de experimentos incomuns que conduziram. R. Tygan."
+AlertString="Lança-choque ADVENT"
 
 [AutopsyAdventShieldbearer X2TechTemplate]
-DisplayName="ADVENT Shieldbearer Autopsy"
-Summary="The ADVENT Shieldbearers are among the most heavily armored of the conventional alien forces. Once we've pulled the suit apart, I'm sure the engineering team will find some means of integrating these improvements into our own armor designs."
+DisplayName="Autópsia de Protetor ADVENT"
+Summary="Os Protetores ADVENT estão entre as forças alienígenas convencionais mais fortemente armadas. Depois de desmontar o traje, tenho certeza de que a equipe de engenharia encontrará alguma forma de integrar essas melhorias em nossos próprios designs de armadura."
 CodeName="Canon"
-LongDescription="As is usually the case, our troops came up with the designation for this particular subject, currently known as the \"Shieldbearer.\" Initial indications are that it is tactically on-par with ADVENT's other humanoid field units, with no particular mental or physical advantages over the Officers or other units. The primary difference seems to lie in the armor suit itself, which is heavily reinforced with multiple layers of composite material woven from what I can only surmise to be some variation of the alien alloys. I intend on leaving the metallurgy and structural analysis to Shen and her team, who will no doubt find a means of integrating her findings into various experimental armor concepts of our own. R. Tygan."
-AlertString="ADVENT Shieldbearer"
+LongDescription="Como é geralmente o caso, nossas tropas criaram o nome para este sujeito em particular, atualmente conhecido como o \"Protetor.\" As indicações iniciais são de que ele está taticamente no mesmo nível das outras unidades humanoides da ADVENT, sem vantagens mentais ou físicas específicas sobre os Oficiais ou outras unidades. A principal diferença parece estar no traje de armadura em si, que é fortemente reforçado com múltiplas camadas de material composto tecido a partir do que só posso supor ser alguma variação das ligas alienígenas. Pretendo deixar a metalurgia e a análise estrutural para Shen e sua equipe, que sem dúvida encontrarão uma maneira de integrar suas descobertas em vários conceitos experimentais de armadura própria. R. Tygan."
+AlertString="Protetor ADVENT"
 
 [AutopsyAdventTurret X2TechTemplate]
-DisplayName="ADVENT Turret Breakdown"
-Summary="The ADVENT turrets rely on the aliens' advanced automation technology, providing security emplacements to bolster their \"peacekeeping\" forces. Once we've gotten a look at the inner workings, we may be able to integrate the technology to improve our chances of defending against UFO attacks."
+DisplayName="Desmontagem de Torre ADVENT"
+Summary="As torres ADVENT dependem da tecnologia avançada de automação dos alienígenas, fornecendo posições de segurança para reforçar suas forças de \"manutenção da paz\". Depois de darmos uma olhada no funcionamento interno, podemos integrar a tecnologia para melhorar nossas chances de defesa contra ataques de UFOs."
 CodeName="Acolyte"
-LongDescription="We've run across the ADVENT turrets in a variety of places, mainly near the security checkpoints and other areas they're trying to lock down. Now that we've finally gotten a chance to pull one apart, I can say with certainty that the turrets are operating entirely on their own, with no outside controller or remote direction given.\n\nAs much as I'd like to test the targeting sensors, Central and Dr. Tygan have both expressed their concerns about test-firing the system before we know how it discerns between friendly and hostile targets. Considering how close the aliens' position these things to civilian occupied areas, the target recognition software must be incredibly accurate, or incredibly basic. I wouldn't be all that surprised if the aliens were just flipping the switch and setting these loose on anyone caught in the firing radius. I'll have to see about setting up some sort of test environment. L. Shen."
-AlertString="ADVENT Turret"
+LongDescription="Encontramos as torres ADVENT em várias áreas, principalmente perto dos postos de controle de segurança e outras áreas que eles estão tentando bloquear. Agora que finalmente tivemos a chance de desmontar uma, posso dizer com certeza que as torres estão operando totalmente por conta própria, sem controlador externo ou direção remota.\n\nPor mais que eu gostaria de testar os sensores de mira, Central e o Dr. Tygan expressaram suas preocupações em relação ao teste do sistema de disparo antes de sabermos como ele distingue entre alvos amigáveis e hostis. Considerando o quão perto os alienígenas posicionam essas coisas em áreas ocupadas por civis, o software de reconhecimento de alvo deve ser incrivelmente preciso ou incrivelmente básico. Não ficaria nada surpresa se os alienígenas estivessem apenas ligando o interruptor e liberando-os para qualquer pessoa pega no raio de tiro. Vou ver sobre a configuração de algum tipo de ambiente de teste. L. Shen."
+AlertString="Torre ADVENT"
 
 [AutopsyAdventMEC X2TechTemplate]
-DisplayName="ADVENT MEC Breakdown"
-Summary="These mechanized units have a familiar humanoid form, but we haven't found any indication of a pilot or biological control system. I'm hoping that once we've pulled it apart, I'll be able to mirror some of their advancements in our own weapons and robotic systems." 
-CodeName="Cardinal"
-LongDescription="From our initial breakdown, I have to assume the ADVENT MEC design was at least in-part based on the alien Sectopod, a similar autonomous war machine lacking in biological components. As far as I can tell, the ADVENT variant was supposed to be less intimidating, more suited for urban pacification, or \"peacekeeping\" operations conducted in proximity to the civilian crowds. That facade only works because of the carefully disguised weapons systems integrated throughout the machine. I don't think people would react so calmly if they knew about the micro-missile launching system linked to ADVENT's network, running facial recognition on the crowds at microsecond intervals. L. Shen."
-AlertString="ADVENT MEC"
+DisplayName="Desmontagem de MEC ADVENT"
+Summary="Essas unidades mecanizadas têm uma forma humana familiar, mas não encontramos nenhuma indicação de um piloto ou sistema de controle biológico. Espero que, depois de desmontá-la, eu possa refletir alguns de seus avanços em nossos próprios sistemas de armas e robóticos."
+CodeName="Cardeal"
+LongDescription="Pela nossa análise inicial, tenho que supor que o design do MEC ADVENT foi baseado, pelo menos em parte, no Sectopod alienígena, uma máquina de guerra autônoma similar, que não possui componentes biológicos. Pelo que posso dizer, a variante ADVENT deveria ser menos intimidante, mais adequada para pacificação urbana ou operações de \"manutenção da paz\" conduzidas em proximidade com as multidões civis. Essa fachada só funciona por causa dos sistemas de armas cuidadosamente disfarçados integrados em toda a máquina. Não acredito que as pessoas reagiriam com tanta calma se soubessem sobre o sistema de lançamento de micromísseis conectado à rede ADVENT, executando o reconhecimento facial das multidões em intervalos de microssegundos. L. Shen."
+AlertString="MEC ADVENT"
 
-; ADVENT Captain/Officer & PsiWitch moved to GOLDEN PATH section, below
-
-; Proving Ground Projects
+; Projetos do Laboratório de Testes
 [Skulljack X2TechTemplate]
-DisplayName="Skulljack"
-Summary="Before we even had time for field trials, the troops had already taken to calling it a \"Skulljack.\" In the simplest of terms, it's a physical interface designed to access the chip implanted in the ADVENT forces' skulls, applied using directed blunt force." 
+DisplayName="Crâniojack"
+Summary="Antes mesmo de termos tempo para testes de campo, os soldados já o apelidaram de \"Crâniojack\". Em termos simples, é uma interface física projetada para acessar o chip implantado nos crânios das forças ADVENT, aplicada usando força bruta direcionada." 
 
 [ExperimentalAmmo X2TechTemplate]
-DisplayName="Experimental Ammo"
-Summary="We've seen the aliens using a variety of exotic ammunition in their weapons. Using elerium cores we've recovered from the battlefield, we could develop new ammo types of our own that will likely be more potent than any of our our current munitions." 
+DisplayName="Munição Experimental"
+Summary="Já vimos os alienígenas usando uma variedade de munições exóticas em suas armas. Usando núcleos de élerio que recuperamos do campo de batalha, podemos desenvolver novos tipos de munições próprias que provavelmente serão mais potentes do que qualquer uma de nossas munições atuais."
 
 [ExperimentalGrenade X2TechTemplate]
-DisplayName="Experimental Grenade"
-Summary="Elerium cores can be highly unstable given the right circumstances. Assuming we don't push it too far, we could fabricate new types of grenades that would easily surpass the effectiveness of what we've got now." 
+DisplayName="Granada Experimental"
+Summary="Os núcleos de élerio podem ser altamente instáveis sob as circunstâncias certas. Supondo que não exageremos, poderíamos fabricar novos tipos de granadas que facilmente superariam a eficácia das que temos atualmente."
 
 [ExperimentalArmor X2TechTemplate]
-DisplayName="Experimental Armor"
-Summary="Our autopsy of the ADVENT Shieldbearer gave us some ideas regarding new vest designs that, by incorporating recovered elerium cores, could increase soldier survivability in dramatic fashion." 
+DisplayName="Armadura Experimental"
+Summary="Nossa autópsia do Protetor ADVENT nos deu algumas ideias para novos designs de coletes que, ao incorporar núcleos de élerio recuperados, poderiam aumentar dramaticamente a sobrevivência dos soldados."
 
 [Bluescreen X2TechTemplate]
-DisplayName="Bluescreen Protocol"
-Summary="With the number of mechanized units ADVENT has available to throw at us, developing munitions capable of disabling them should be one of our higher priorities. Tygan suggested we look into disrupting their core operating system, and I agree, it's a good place to start." 
+DisplayName="Protocolo Bluescreen"
+Summary="Com a quantidade de unidades mecanizadas que a ADVENT tem disponível para nos enfrentar, desenvolver munições capazes de desativá-las deve ser uma de nossas principais prioridades. Tygan sugeriu que investigássemos a possibilidade de perturbar o sistema operacional central delas, e eu concordo, é um bom ponto de partida."
 
 [BattlefieldMedicine X2TechTemplate]
-DisplayName="Battlefield Medicine"
-Summary="The venom injected by the Viper into its victims is nasty stuff, capable of taking down even the biggest, toughest soldier. However, it also contains a number of enzymes that could be isolated for use in our medikits, greatly improving coagulation at wound sites." 
+DisplayName="Medicina de Campo"
+Summary="O veneno injetado pela Víbora em suas vítimas é terrível, capaz de derrubar até mesmo o soldado mais forte e resistente. No entanto, ele também contém uma série de enzimas que podem ser isoladas para uso em nossos kits médicos, melhorando muito a coagulação nos locais de ferimentos."
 
 [PlasmaGrenade X2TechTemplate]
-DisplayName="Plasma Grenade"
-Summary="In studying the aliens' more complex explosive ordinance, we concluded that the best means of advancing our own grenade designs was to scrap the conventional composition entirely. In its place, we have theorized that an Elerium-based detonator could be the key to assembling a substantially more lethal and destructive weapon for our own troops." 
+DisplayName="Granada de Plasma"
+Summary="Ao estudarmos os explosivos mais complexos dos alienígenas, concluímos que a melhor forma de avançar com nossos próprios projetos de granadas era abandonar completamente a composição convencional. Em seu lugar, teorizamos que um detonador à base de élerio poderia ser a chave para montar uma arma substancialmente mais letal e destrutiva para nossas tropas."
 
 [AdvancedGrenades X2TechTemplate]
-DisplayName="Advanced Explosives"
-Summary="We've honed our skills in developing and manufacturing explosive ordinance mirroring that used in the aliens' own weaponry. Now we can use those skills to upgrade our entire aresenal of explosives using the latest technology."
+DisplayName="Explosivos Avançados"
+Summary="Aprimoramos nossas habilidades no desenvolvimento e fabricação de explosivos semelhantes aos usados nas próprias armas dos alienígenas. Agora, podemos usar essas habilidades para atualizar todo o nosso arsenal de explosivos usando a tecnologia mais recente."
 
 [Skullmining X2TechTemplate]
-DisplayName="Skullmining"
-Summary="As if the Skulljack itself wasn't invasive enough, Tygan has conceived of a more thorough means of extracting information from ADVENT soldiers' chips. This new \"Skullmining\" technique could lead to new intel gains from our enemies, and could even grant access to hidden Alien facilities for the purpose of sabotage. I can also upgrade our Skulljacks to significantly enhance the hacking ability of any soldier carrying one."
+DisplayName="Extrair Dados"
+Summary="Como se o Crâniojack em si já não fosse invasivo o suficiente, Tygan concebeu uma forma mais completa de extrair informações dos chips dos soldados da ADVENT. Essa nova técnica de \"Extrair Dados\" pode levar a novas informações obtidas de nossos inimigos e até mesmo conceder acesso a instalações alienígenas ocultas com o propósito de sabotagem. Posso também atualizar nossos Crâniojacks para melhorar significativamente a habilidade de hackers de qualquer soldado que o carregar."
 
 [HeavyWeapons X2TechTemplate]
-DisplayName="Experimental Heavy Weapon"
-Summary="Although our Heavy armor suits are already a formidable protective enhancement for our troops, with some additional reinforcements and a few mounting points, it's possible we could equip even more advanced wrist-mounted weaponry capable of decimating enemy positions."
+DisplayName="Arma Pesada Experimental"
+Summary="Embora nossos trajes de armadura pesada já sejam um aprimoramento formidável para nossas tropas, com alguns reforços adicionais e alguns pontos de montagem, é possível equipar armas de pulso ainda mais avançadas capazes de dizimar posições inimigas."
 
 [AdvancedHeavyWeapons X2TechTemplate]
-DisplayName="Experimental Powered Weapon"
-Summary="As our technology has continued to evolve in lock-step with our understanding of the aliens' own designs, it should now be possible to fabricate even more powerful weaponry for our heavy armor suits." 
-
+DisplayName="Arma Potente Experimental"
+Summary="Conforme nossa tecnologia tem continuado a evoluir em paralelo com nosso entendimento dos próprios designs dos alienígenas, agora deve ser possível fabricar armas ainda mais poderosas para nossos trajes de armadura pesada."
 
 [X2StrategyGameRulesetDataStructures]
 MissionDifficultyLabels[0]=""
-MissionDifficultyLabels[1]="Easy"
-MissionDifficultyLabels[2]="Moderate"
-MissionDifficultyLabels[3]="Difficult"
-MissionDifficultyLabels[4]="Very Difficult"
+MissionDifficultyLabels[1]="Fácil"
+MissionDifficultyLabels[2]="Moderado"
+MissionDifficultyLabels[3]="Difícil"
+MissionDifficultyLabels[4]="Muito Difícil"
 
-WoundStatusStrings[0]="Lightly Wounded"
-WoundStatusStrings[1]="Wounded"
-WoundStatusStrings[2]="Gravely Wounded"
+WoundStatusStrings[0]="Levemente Ferido"
+WoundStatusStrings[1]="Ferido"
+WoundStatusStrings[2]="Gravemente Ferido"
 
 m_sAM=AM
 m_sPM=PM
-m_strMonth0=January
-m_strMonth1=February
-m_strMonth2=March
-m_strMonth3=April
-m_strMonth4=May
-m_strMonth5=June
-m_strMonth6=July
-m_strMonth7=August
-m_strMonth8=September
-m_strMonth9=October
-m_strMonth10=November
-m_strMonth11=December
+m_strMonth0=Janeiro
+m_strMonth1=Fevereiro
+m_strMonth2=Março
+m_strMonth3=Abril
+m_strMonth4=Maio
+m_strMonth5=Junho
+m_strMonth6=Julho
+m_strMonth7=Agosto
+m_strMonth8=Setembro
+m_strMonth9=Outubro
+m_strMonth10=Novembro
+m_strMonth11=Dezembro
 m_strMonthDayYearLong="<XGParam:StrValue0/!MonthString/> <XGParam:IntValue0/>, <XGParam:IntValue1/>"
 m_strMonthDayYearShort="<XGParam:IntValue2/><XGParam:StrValue1/!SeparatorString/><XGParam:IntValue0/><XGParam:StrValue1/!SeparatorString/><XGParam:IntValue1/>"
 m_strDayMonthYearLong="<XGParam:IntValue0/> <XGParam:StrValue0/!MonthString/> <XGParam:IntValue1/>"
 m_strDayMonthYearShort="<XGParam:IntValue0/><XGParam:StrValue1/!SeparatorString/><XGParam:IntValue2/><XGParam:StrValue1/!SeparatorString/><XGParam:IntValue1/>"
 
-; KOR and JPN needs to have appropriate year, month, and day suffix characters here!
+; As KOR and JPN require appropriate year, month, and day suffix characters, they should be added here if needed.
 m_strYearSuffix=
 m_strMonthSuffix=
 m_strDaySuffix=
 
 [Bridge X2FacilityTemplate]
-DisplayName="Commander's Quarters"
+DisplayName="Quartos do Comandante"
 Summary=""
 
 [CIC X2FacilityTemplate]
-DisplayName="Bridge"
+DisplayName="Ponte"
 Summary=""
 
 [PowerCore X2FacilityTemplate]
-DisplayName="Research"
+DisplayName="Pesquisa"
 Summary=""
 
 [Hangar X2FacilityTemplate]
-DisplayName="Armory"
+DisplayName="Arsenal"
 Summary=""
 
 [Galley X2FacilityTemplate]
-DisplayName="Galley"
+DisplayName="Refeitório"
 Summary=""
 
 [LivingQuarters X2FacilityTemplate]
-DisplayName="Living Quarters"
-Summary="The ship's crew need a comfortable place to rest and relax when not on shift. They can also recover from wounds in quarters, but will do so very slowly. Each Living Quarters facility can support up to seven crew members, although advanced technology may increase this figure."
+DisplayName="Alojamentos"
+Summary="A tripulação da nave precisa de um lugar confortável para descansar e relaxar quando não estiver em serviço. Eles também podem se recuperar de ferimentos nos alojamentos, mas o farão muito lentamente. Cada instalação de Alojamentos pode acomodar até sete membros da tripulação, embora a tecnologia avançada possa aumentar esse número."
 
 [CommandersQuarters X2FacilityTemplate]
-DisplayName="Commander's Quarters"
+DisplayName="Aposentos do Comandante"
 Summary=""
 
 [Storage X2FacilityTemplate]
-DisplayName="Engineering"
+DisplayName="Depósito"
 Summary=""
 
 [BarMemorial X2FacilityTemplate_Memorial]
@@ -8790,241 +8794,243 @@ DisplayName="Bar/Memorial"
 Summary=""
 
 [Laboratory X2FacilityTemplate]
-DisplayName="Laboratory"
-CompletedSummary="New Staff Slot Available - Decreases Research Time"
-Summary="Scientists can be staffed in laboratories to provide additional assistance to Dr. Tygan, further decreasing the time of all research projects."
+DisplayName="Laboratório"
+CompletedSummary="Novo Espaço de Equipe Disponível - Reduz o Tempo de Pesquisa"
+Summary="Cientistas podem ser designados para trabalhar nos laboratórios para fornecer assistência adicional ao Dr. Tygan, diminuindo ainda mais o tempo de todos os projetos de pesquisa."
 
 [Workshop X2FacilityTemplate]
-DisplayName="Workshop"
-CompletedSummary="New Staff Slot Available - GREMLINs as Remote Engineers"
-Summary="Engineers can be staffed in workshops, creating unique GREMLIN drones which can be sent to staff any adjacent room or facility."
-CantBeRemovedText="GREMLINs from this Workshop are currently staffed in adjacent facilities! They must be unstaffed before this facility can be removed."
+DisplayName="Oficina"
+CompletedSummary="Novo Espaço de Equipe Disponível - GREMLINs como Engenheiros Remotos"
+Summary="Engenheiros podem ser designados para trabalhar nas oficinas, criando drones GREMLIN exclusivos que podem ser enviados para trabalhar em qualquer sala ou instalação adjacente."
+CantBeRemovedText="Os GREMLINs desta Oficina estão atualmente designados para instalações adjacentes! Eles devem ser retirados antes que esta instalação possa ser removida."
 
 [ProvingGround X2FacilityTemplate]
-DisplayName="Proving Ground"
-CompletedSummary="New Engineering projects now available!\nNew Staff Slot Available - Decreases Proving Ground Project Time"
-Summary="An experimental work space where Shen can test and produce new, unique types of ammo, grenades and armor for our soldiers, as well as other specialized tactical items."
+DisplayName="Campo de Testes"
+CompletedSummary="Novos projetos de Engenharia agora disponíveis!\nNovo Espaço de Equipe Disponível - Reduz o Tempo de Projetos do Campo de Testes"
+Summary="Um espaço de trabalho experimental onde Shen pode testar e produzir novos tipos de munição, granadas e armaduras únicas para nossos soldados, bem como outros itens táticos especializados."
 
 [PowerRelay X2FacilityTemplate]
-DisplayName="Power Relay"
-CompletedSummary="Avenger Power Capacity +%VALUE\nNew Staff Slot Available - Increases Avenger Power"
-Summary="Every facility aboard the Avenger requires power to remain operational. Building relays will increase the total power output of the Avenger, allowing for further expansion and upgrades."
-CantBeRemovedText="Commander, this Power Relay is providing critical energy the Avenger needs to remain functional! Our power capacity must be increased before this facility can be removed."
+DisplayName="Rede de Energia"
+CompletedSummary="Capacidade de Energia da Avenger +%VALOR\nNovo Espaço de Equipe Disponível - Aumenta a Energia da Avenger"
+Summary="Toda instalação a bordo da Avenger requer energia para se manter operacional. Construir relés aumentará a capacidade total de energia da Avenger, permitindo maior expansão e melhorias."
+CantBeRemovedText="Comandante, este Relé de Energia está fornecendo energia crítica que a Avenger precisa para se manter funcional! Nossa capacidade de energia deve ser aumentada antes que esta instalação possa ser removida."
 
 [AdvancedWarfareCenter X2FacilityTemplate_Infirmary]
-DisplayName="Advanced Warfare Center"
-CompletedSummary="Soldiers now have a chance to learn a bonus ability upon promotion\nNew Staff Slot Available - Increases Soldier Healing Rate\nNew Staff Slot Available - Retrains Soldier Abilities"
-Summary="Once the AWC is built, soldiers may gain a bonus ability outside of their current class whenever they are promoted. In addition, an engineer can be staffed in the AWC to decrease the time our soldiers need to recover from injuries."
+DisplayName="Centro de Guerra Avançado"
+CompletedSummary="Os soldados agora têm a chance de aprender uma habilidade adicional ao serem promovidos\nNovo Espaço de Equipe Disponível - Aumenta a Velocidade de Recuperação dos Soldados\nNovo Espaço de Equipe Disponível - Redefine as Habilidades dos Soldados"
+Summary="Depois que o CGA for construído, os soldados podem obter uma habilidade adicional fora de sua classe atual quando forem promovidos. Além disso, um engenheiro pode ser designado para o CGA para diminuir o tempo necessário para a recuperação de ferimentos de nossos soldados."
 
 [ShadowChamber X2FacilityTemplate]
-DisplayName="Shadow Chamber"
-CompletedSummary="New high priority research projects now available!"
-Summary="This facility will allow Dr. Tygan and Chief Shen to conduct highly specialized projects to decrypt the aliens' most valuable secrets."
-CantBeRemovedText="Commander, Dr. Tygan and Chief Shen are currently researching a high priority project in the Shadow Chamber! The facility cannot be removed until the project is complete."
+DisplayName="Câmara das Sombras"
+CompletedSummary="Novos projetos de pesquisa de alta prioridade agora disponíveis!"
+Summary="Esta instalação permitirá que o Dr. Tygan e o Chefe Shen realizem projetos altamente especializados para decifrar os segredos mais valiosos dos alienígenas."
+CantBeRemovedText="Comandante, o Dr. Tygan e o Chefe Shen estão atualmente pesquisando um projeto de alta prioridade na Câmara das Sombras! A instalação não pode ser removida até que o projeto seja concluído."
 
 [OfficerTrainingSchool X2FacilityTemplate]
-DisplayName="Guerrilla Tactics School"
-CompletedSummary="New tactical and squad upgrades now available for purchase!\nNew Staff Slot Available - Trains Rookies as Specific Class"
-Summary="The Guerrilla Tactics School will unlock additional skills and benefits for our soldiers, including an increase to the number of soldiers we can take on a single mission."
+DisplayName="Escola de Táticas de Guerrilha"
+CompletedSummary="Novas melhorias táticas e de esquadrão agora disponíveis para compra!\nNovo Espaço de Equipe Disponível - Treina Recrutas como Classes Específicas
+
+"
+Summary="A Escola de Táticas de Guerrilha desbloqueará habilidades e benefícios adicionais para nossos soldados, incluindo um aumento no número de soldados que podemos levar em uma única missão."
 
 [ResistanceComms X2FacilityTemplate]
-DisplayName="Resistance Comms"
-CompletedSummary="Resistance Contacts +%VALUE\nNew Staff Slot Available - Increases Resistance Contacts"
-Summary="The Resistance Comms facility increases the number of regions that we can make contact with. Further contacts can be gained by staffing an engineer here once construction is completed."
-CantBeRemovedText="Commander, this Resistance Comms is maintaining our contact with many Resistance Havens around the world! We must increase our available contacts before this facility can be removed."
+DisplayName="Comunicações da Resistência"
+CompletedSummary="Contatos da Resistência +%VALOR\nNovo Espaço de Equipe Disponível - Aumenta os Contatos da Resistência"
+Summary="A instalação de Comunicações da Resistência aumenta o número de regiões com as quais podemos estabelecer contato. Contatos adicionais podem ser obtidos designando um engenheiro aqui após a conclusão da construção."
+CantBeRemovedText="Comandante, estas Comunicações da Resistência estão mantendo nosso contato com muitos Refúgios da Resistência ao redor do mundo! Devemos aumentar nossos contatos disponíveis antes que esta instalação possa ser removida."
 
 [UFODefense X2FacilityTemplate]
-DisplayName="Defense Matrix"
-CompletedSummary="Automated Defenses Added to Avenger\nNew Staff Slot Available - Increases Effectiveness of Automated Defenses"
-Summary="The Defense Matrix repurposes recovered ADVENT turrets as automated defenses to be deployed in the case of a ground assault on the Avenger."
+DisplayName="Matriz de Defesa"
+CompletedSummary="Defesas Automatizadas Adicionadas à Avenger\nNovo Espaço de Equipe Disponível - Aumenta a Efetividade das Defesas Automatizadas"
+Summary="A Matriz de Defesa reaproveita as torretas ADVENT recuperadas como defesas automatizadas para serem implantadas em caso de um ataque terrestre à Avenger."
 
 [PsiChamber X2FacilityTemplate]
-DisplayName="Psi Lab"
-CompletedSummary="Our soldiers can now begin training as Psi Operatives.\nNew Staff Slot Available - Train Soldiers as Psi Operatives\nNew Staff Slot Available - Decreases Training Time"
-Summary="The Psi Lab will allow rookie soldiers to train as Psi Operatives, substituting standard soldier training for the intense mental ordeal that will unlock their latent Psionic talents."
+DisplayName="Laboratório Psíquico"
+CompletedSummary="Nossos soldados agora podem começar o treinamento como Operativos Psíquicos.\nNovo Espaço de Equipe Disponível - Treina Soldados como Operativos Psíquicos\nNovo Espaço de Equipe Disponível - Reduz o Tempo de Treinamento"
+Summary="O Laboratório Psíquico permitirá que recrutas treinem como Operativos Psíquicos, substituindo o treinamento padrão de soldados por um intenso desafio mental que desbloqueará seus talentos psíquicos latentes."
 
 [Workshop_AdditionalWorkbench X2FacilityUpgradeTemplate]
-DisplayName="Additional Workbench"
-FacilityName="Workshop"
-Summary="Add another workbench to the Workshop, allowing an additional Engineer to be staffed here."
+DisplayName="Bancada Adicional"
+FacilityName="Oficina"
+Summary="Adicione outra bancada à Oficina, permitindo que um Engenheiro adicional seja designado aqui."
 
 [Laboratory_AdditionalResearchStation X2FacilityUpgradeTemplate]
-DisplayName="Additional Research Station"
-FacilityName="Laboratory"
-Summary="Add another research station to the Laboratory, allowing an additional Scientist to be staffed here."
+DisplayName="Estação de Pesquisa Adicional"
+FacilityName="Laboratório"
+Summary="Adicione outra estação de pesquisa ao Laboratório, permitindo que um Cientista adicional seja designado aqui."
 
 [PowerRelay_PowerConduit X2FacilityUpgradeTemplate]
-DisplayName="Power Conduit"
-FacilityName="Power Relay"
-Summary="Add an additional work station to the Power Relay, allowing an additional Engineer to be staffed here."
+DisplayName="Conduíte de Energia"
+FacilityName="Rede de Energia"
+Summary="Adicione uma estação de trabalho adicional à Rede de Energia, permitindo que um Engenheiro adicional seja designado aqui."
 
 [PowerRelay_EleriumConduit X2FacilityUpgradeTemplate]
-DisplayName="Elerium Conduit"
-FacilityName="Power Relay"
-Summary="Greatly increase the Power Relay's output."
+DisplayName="Conduíte de Elerium"
+FacilityName="Rede de Energia"
+Summary="Aumente consideravelmente a capacidade de energia da Rede de Energia."
 
 [ResistanceComms_AdditionalCommStation X2FacilityUpgradeTemplate]
-DisplayName="Additional Comm Station"
-FacilityName="Resistance Comms"
-Summary="Increase our communication capabilities, and add an additional control station for an Engineer."
+DisplayName="Estação de Comunicação Adicional"
+FacilityName="Comunicações da Resistência"
+Summary="Aumente nossas capacidades de comunicação e adicione uma estação de controle adicional para um Engenheiro."
 
 [DefenseFacility_QuadTurrets X2FacilityUpgradeTemplate]
-DisplayName="Quad Turrets"
-FacilityName="Defense Matrix"
-Summary="Install additional turrets on the Avenger, which will help us defend against any ground assaults."
+DisplayName="Torretas Quad"
+FacilityName="Matriz de Defesa"
+Summary="Instale torretas adicionais na Avenger, que nos ajudarão a nos defender contra qualquer ataque terrestre."
 
 [ShadowChamber_CelestialGate X2FacilityUpgradeTemplate]
-DisplayName="Psionic Gate"
-FacilityName="Shadow Chamber"
-Summary="Provide power to the mysterious alien gate and connect it to the Shadow Chamber computing array for analysis."
+DisplayName="Portal Psíquico"
+FacilityName="Câmara das Sombras"
+Summary="Forneça energia para o misterioso portal alienígena e conecte-o à matriz de computação da Câmara das Sombras para análise."
 
 [PsiChamber_SecondCell X2FacilityUpgradeTemplate]
-DisplayName="Second Cell"
-FacilityName="Psi Lab"
-Summary="Add another cell to the Psi Lab, allowing an additional Psi Operative to train here."
+DisplayName="Segunda Cela"
+FacilityName="Laboratório Psíquico"
+Summary="Adicione outra cela ao Laboratório Psíquico, permitindo que um Operativo Psíquico adicional treine aqui."
 
 [EngineeringStaffSlot X2StaffSlotTemplate]
-EmptyText="OPEN: CHIEF ENGINEER REQUIRED"
-BonusEmptyText="RESERVED FOR LILY SHEN"
+EmptyText="VAGO: ENGENHEIRO CHEFE NECESSÁRIO"
+BonusEmptyText="RESERVADO PARA LILY SHEN"
 BonusText=""
 FilledText=""
-LockedText="LOCKED: PURCHASE UPGRADE"
+LockedText="BLOQUEADO: COMPRE UPGRADE"
 
 [ResearchStaffSlot X2StaffSlotTemplate]
-EmptyText="OPEN: HEAD SCIENTIST REQUIRED"
-BonusEmptyText="RESERVED FOR DR. TYGAN"
+EmptyText="VAGO: CHEFE CIENTISTA NECESSÁRIO"
+BonusEmptyText="RESERVADO PARA DR. TYGAN"
 BonusText=""
 FilledText=""
-LockedText="LOCKED: PURCHASE UPGRADE"
+LockedText="BLOQUEADO: COMPRE UPGRADE"
 
 [BuildStaffSlot X2StaffSlotTemplate]
-EmptyText="OPEN: ENGINEER REQUIRED"
-BonusEmptyText="Begin Excavation."
-BonusText="EXCAVATION TIME -%AVENGERBONUS%"
+EmptyText="VAGO: ENGENHEIRO NECESSÁRIO"
+BonusEmptyText="Iniciar Escavação."
+BonusText="TEMPO DE ESCAVAÇÃO -%AVENGERBONUS%"
 FilledText=""
-LockedText="LOCKED: PURCHASE UPGRADE"
+LockedText="BLOQUEADO: COMPRE UPGRADE"
 
 [WorkshopStaffSlot X2StaffSlotTemplate]
-EmptyText="OPEN: ENGINEER REQUIRED"
-BonusEmptyText="Provides Staffing GREMLINs."
-BonusText="+%SKILL STAFFING GREMLINS"
-FilledText="%UNITNAME is building special GREMLINs, allowing adjacent rooms to be staffed!"
-GhostName="Workshop GREMLIN"
-LockedText="LOCKED: PURCHASE UPGRADE"
+EmptyText="VAGO: ENGENHEIRO NECESSÁRIO"
+BonusEmptyText="Fornece GREMLINs de Equipe."
+BonusText="+%HABILIDADE GREMLINS DE EQUIPE"
+FilledText="%UNITNAME está construindo GREMLINs especiais, permitindo que as salas adjacentes sejam guarnecidas!"
+GhostName="GREMLIN da Oficina"
+LockedText="BLOQUEADO: COMPRE UPGRADE"
 
 [LaboratoryStaffSlot X2StaffSlotTemplate]
-EmptyText="OPEN: SCIENTIST REQUIRED"
-BonusEmptyText="Decreases Research Time."
-BonusText="RESEARCH TIME -%AVENGERBONUS%"
-FilledText="%UNITNAME is providing additional science expertise, decreasing research time!"
-LockedText="LOCKED: PURCHASE UPGRADE"
+EmptyText="VAGO: CIENTISTA NECESSÁRIO"
+BonusEmptyText="Reduz o Tempo de Pesquisa."
+BonusText="TEMPO DE PESQUISA -%AVENGERBONUS%"
+FilledText="%UNITNAME está fornecendo experiência científica adicional, diminuindo o tempo de pesquisa!"
+LockedText="BLOQUEADO: COMPRE UPGRADE"
 
 [ProvingGroundStaffSlot X2StaffSlotTemplate]
-EmptyText="OPEN: ENGINEER REQUIRED"
-BonusEmptyText="Decreases Project Time."
-BonusText="PROJECT TIME -%AVENGERBONUS%"
-FilledText="%UNITNAME's contribution on Proving Ground projects is decreasing production time!"
-LockedText="LOCKED: PURCHASE UPGRADE"
+EmptyText="VAGO: ENGENHEIRO NECESSÁRIO"
+BonusEmptyText="Reduz o Tempo de Projeto."
+BonusText="TEMPO DE PROJETO -%AVENGERBONUS%"
+FilledText="%UNITNAME está contribuindo nos projetos do Proving Ground, diminuindo o tempo de produção!"
+LockedText="BLOQUEADO: COMPRE UPGRADE"
 
 [ResCommsStaffSlot X2StaffSlotTemplate]
-EmptyText="OPEN: ENGINEER REQUIRED"
-BonusEmptyText="Increases Resistance Contacts."
-BonusText="RESISTANCE CONTACTS +%SKILL"
-FilledText="%UNITNAME's upgrades are expanding our Resistance network, increasing the number of possible contacts to %AVENGERBONUS!"
-LockedText="LOCKED: PURCHASE UPGRADE"
+EmptyText="VAGO: ENGENHEIRO NECESSÁRIO"
+BonusEmptyText="Aumenta os Contatos da Resistência."
+BonusText="CONTATOS DA RESISTÊNCIA +%SKILL"
+FilledText="As melhorias de %UNITNAME estão expandindo consideravelmente nossa rede de Resistência, aumentando o número de contatos possíveis para %AVENGERBONUS!"
+LockedText="BLOQUEADO: COMPRE UPGRADE"
 
 [ResCommsBetterStaffSlot X2StaffSlotTemplate]
-EmptyText="OPEN: ENGINEER REQUIRED"
-BonusEmptyText="Increases Resistance Contacts."
-BonusText="RESISTANCE CONTACTS +%SKILL"
-FilledText="%UNITNAME's upgrades are greatly expanding our Resistance network, increasing the number of possible contacts to %AVENGERBONUS!"
-LockedText="LOCKED: PURCHASE UPGRADE"
+EmptyText="VAGO: ENGENHEIRO NECESSÁRIO"
+BonusEmptyText="Aumenta os Contatos da Resistência."
+BonusText="CONTATOS DA RESISTÊNCIA +%SKILL"
+FilledText="As melhorias de %UNITNAME estão ampliando enormemente nossa rede de Resistência, aumentando o número de contatos possíveis para %AVENGERBONUS!"
+LockedText="BLOQUEADO: COMPRE UPGRADE"
 
 [PowerRelayStaffSlot X2StaffSlotTemplate]
-EmptyText="OPEN: ENGINEER REQUIRED"
-BonusEmptyText="Increases Avenger Power."
-BonusText="AVENGER POWER +%SKILL"
-FilledText="%UNITNAME is boosting the relay's power, bringing the Avenger's total power capacity to %AVENGERBONUS!"
-LockedText="LOCKED: PURCHASE UPGRADE"
+EmptyText="VAGO: ENGENHEIRO NECESSÁRIO"
+BonusEmptyText="Aumenta a Energia da Avenger."
+BonusText="ENERGIA DA AVENGER +%SKILL"
+FilledText="%UNITNAME está aumentando a potência do relé, elevando a capacidade total de energia da Avenger para %AVENGERBONUS!"
+LockedText="BLOQUEADO: COMPRE UPGRADE"
 
 [PsiChamberScientistStaffSlot X2StaffSlotTemplate]
-EmptyText="OPEN: ENGINEER REQUIRED"
-BonusEmptyText="Decreases Training Time."
-BonusText="TRAINING TIME -%AVENGERBONUS%"
-FilledText="%UNITNAME's Psionic engineering program is increasing the rate soldiers train as Psi Operatives!"
-LockedText="LOCKED: PURCHASE UPGRADE"
+EmptyText="VAGO: ENGENHEIRO NECESSÁRIO"
+BonusEmptyText="Reduz o Tempo de Treinamento."
+BonusText="TEMPO DE TREINAMENTO -%AVENGERBONUS%"
+FilledText="O programa de engenharia psíquica de %UNITNAME está aumentando a taxa de treinamento dos soldados como Operativos Psíquicos!"
+LockedText="BLOQUEADO: COMPRE UPGRADE"
 
 [PsiChamberSoldierStaffSlot X2StaffSlotTemplate]
-EmptyText="OPEN: SOLDIER REQUIRED"
-BonusEmptyText="Trains Soldiers as Psi Operative."
-BonusDefaultText="PSI OPERATIVE"
-BonusText="%SKILL TRAINING"
-FilledText="%UNITNAME is undergoing a serious of rigorous mental training exercises to strengthen their Psionic ability!"
-LockedText="LOCKED: PURCHASE UPGRADE"
+EmptyText="VAGO: SOLDADO NECESSÁRIO"
+BonusEmptyText="Treina Soldados como Operativo Psíquico."
+BonusDefaultText="OPERATIVO PSÍQUICO"
+BonusText="%SKILL TREINAMENTO"
+FilledText="%UNITNAME está passando por uma série de rigorosos exercícios de treinamento mental para fortalecer sua habilidade Psíquica!"
+LockedText="BLOQUEADO: COMPRE UPGRADE"
 
 [UFODefenseStaffSlot X2StaffSlotTemplate]
-EmptyText="OPEN: ENGINEER REQUIRED"
-BonusEmptyText="Increases Defensive Turret Stats."
-BonusText="DEFENSE TURRET STATS INCREASED"
-FilledText="%UNITNAME's defensive modifications are strengthening our turrets, increasing their aim and damage!"
-LockedText="LOCKED: PURCHASE UPGRADE"
+EmptyText="VAGO: ENGENHEIRO NECESSÁRIO"
+BonusEmptyText="Aumenta as Estatísticas das Torres de Defesa."
+BonusText="TORRES DE DEFESA: AUMENTO DE ESTATÍSTICAS"
+FilledText="As modificações defensivas de %UNITNAME estão fortalecendo nossas torres, aumentando sua precisão e dano!"
+LockedText="BLOQUEADO: COMPRE UPGRADE"
 
 [OTSStaffSlot X2StaffSlotTemplate]
-EmptyText="OPEN: SOLDIER REQUIRED"
-BonusEmptyText="Trains Rookies as Specific Class."
-BonusDefaultText="CLASS"
-BonusText="%SKILL TRAINING"
-FilledText="%UNITNAME is now enrolled in an extensive %SKILL training program!"
-LockedText="LOCKED: PURCHASE UPGRADE"
+EmptyText="VAGO: SOLDADO NECESSÁRIO"
+BonusEmptyText="Treina Recrutas como Classe Específica."
+BonusDefaultText="CLASSE"
+BonusText="%SKILL TREINAMENTO"
+FilledText="%UNITNAME está agora matriculado em um extenso programa de %SKILL!"
+LockedText="BLOQUEADO: COMPRE UPGRADE"
 
 [AWCScientistStaffSlot X2StaffSlotTemplate]
-EmptyText="OPEN: ENGINEER REQUIRED"
-BonusEmptyText="Increases Soldier Healing Rate."
-BonusText="HEALING RATE +%AVENGERBONUS%"
-FilledText="%UNITNAME's advanced medical equipment is increasing the rate soldiers recover from injuries!"
-LockedText="LOCKED: PURCHASE UPGRADE"
+EmptyText="VAGO: ENGENHEIRO NECESSÁRIO"
+BonusEmptyText="Aumenta a Taxa de Cura dos Soldados."
+BonusText="TAXA DE CURA +%AVENGERBONUS%"
+FilledText="O equipamento médico avançado de %UNITNAME está aumentando a taxa de recuperação dos soldados!"
+LockedText="BLOQUEADO: COMPRE UPGRADE"
 
 [AWCSoldierStaffSlot X2StaffSlotTemplate]
-EmptyText="OPEN: SOLDIER REQUIRED"
-BonusEmptyText="Retrains Soldier Abilities."
-BonusText="%SKILL ABILITY RETRAINING"
-FilledText="%UNITNAME is retraining their %SKILL abilites!"
-LockedText="LOCKED: PURCHASE UPGRADE"
+EmptyText="VAGO: SOLDADO NECESSÁRIO"
+BonusEmptyText="Retreina Habilidades do Soldado."
+BonusText="%SKILL TREINAMENTO DE HABILIDADES"
+FilledText="%UNITNAME está retrinando suas habilidades de %SKILL!"
+LockedText="BLOQUEADO: COMPRE UPGRADE"
 
 [ShadowChamberShenStaffSlot X2StaffSlotTemplate]
-EmptyText="RESERVED FOR DR. SHEN"
-BonusEmptyText="Enables Shadow Projects."
+EmptyText="RESERVADO PARA DR. SHEN"
+BonusEmptyText="Ativa Projetos Sombra."
 BonusText=""
 FilledText=""
-LockedText="LOCKED: PURCHASE UPGRADE"
+LockedText="BLOQUEADO: COMPRE UPGRADE"
 
 [ShadowChamberTyganStaffSlot X2StaffSlotTemplate]
-EmptyText="RESERVED FOR DR. TYGAN"
-BonusEmptyText="Enables Shadow Projects."
+EmptyText="RESERVADO PARA DR. TYGAN"
+BonusEmptyText="Ativa Projetos Sombra."
 BonusText=""
 FilledText=""
-LockedText="LOCKED: PURCHASE UPGRADE"
+LockedText="BLOQUEADO: COMPRE UPGRADE"
 
 
 [X2ExperienceConfig]
-RankNames[0]="Rookie"
-RankNames[1]="Squaddie"
-RankNames[2]="Corporal"
-RankNames[3]="Sergeant"
-RankNames[4]="Lieutenant"
-RankNames[5]="Captain"
+RankNames[0]="Recruta"
+RankNames[1]="Soldado"
+RankNames[2]="Cabo"
+RankNames[3]="Sargento"
+RankNames[4]="Tenente"
+RankNames[5]="Capitão"
 RankNames[6]="Major"
-RankNames[7]="Colonel"
-RankNames[8]="Brigadier"
+RankNames[7]="Coronel"
+RankNames[8]="Brigadeiro"
 
-ShortNames[0]="Rk."
-ShortNames[1]="Sq."
-ShortNames[2]="Cpl."
+ShortNames[0]="Rct."
+ShortNames[1]="Sol."
+ShortNames[2]="Cbo."
 ShortNames[3]="Sgt."
-ShortNames[4]="Lt."
-ShortNames[5]="Cpt."
+ShortNames[4]="Ten."
+ShortNames[5]="Cap."
 ShortNames[6]="Maj."
-ShortNames[7]="Col."
+ShortNames[7]="Cel."
 ShortNames[8]="Brig."
 
 ;------------------------------------------------
