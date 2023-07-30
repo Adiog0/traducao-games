@@ -1,42 +1,47 @@
 [Play_DLC3_S_CEN_Dropship_Intro AkEvent]
-SpokenText="We're moving on what looks to be the remains of an ADVENT facility of some kind.  Preliminary scans show the area to be lifeless but we're not gonna take any chances. You'll attempt access from one of the upper levels to avoid detection.  No one knows these systems better then Shen, which is why she'll take point.  Gain entry to the facility, determine the source of that transmission and if it's hostile...take it down. "
+SpokenText="Estamos nos movendo em direção ao que parecem ser os restos de uma instalação da ADVENT. Varreduras preliminares indicam que a área está desabitada, mas não vamos correr nenhum risco. Vamos tentar o acesso a partir de um dos níveis superiores para evitar detecção. Ninguém conhece esses sistemas melhor do que a Shen, por isso ela vai liderar o grupo. Entre na instalação, descubra a origem daquela transmissão e, se for hostil... acabe com ela."
+
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_S_CEN_Investigate_Signal AkEvent]
-SpokenText="Commander, I'm too old to start believing in ghosts which means someone had to access that unit remotely.  If they can access Rover, there's no telling what else they might be able to do. I strongly suggest we make investigating that signal our top priority. "
+SpokenText="Comandante, estou velha demais para começar a acreditar em fantasmas, o que significa que alguém teve que acessar aquela unidade remotamente. Se eles podem acessar o Rover, não há como saber o que mais eles podem fazer. Sugiro fortemente que façamos da investigação desse sinal nossa principal prioridade."
+
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_S_CEN_Pre_Mission_Prep_1 AkEvent]
-SpokenText="Shen, I know this is personal for you, but you don't have to go out there...our troops are more than capable of investigating."
+SpokenText="Shen, eu sei que isso é pessoal para você, mas você não precisa ir para lá... nossas tropas são mais do que capazes de investigar."
+
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_S_CEN_Pre_Mission_Prep_3 AkEvent]
-SpokenText="You heard the lady, lock and load."
+SpokenText="Vocês ouviram a chefe, preparem-se e estejam prontos."
+
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_S_CEN_Pre_Scan_Geo AkEvent]
-SpokenText="Looks like Shen was able to confirm the signal's origin.  Inputting the coordinates on the map now."
+SpokenText="Parece que Shen conseguiu confirmar a origem do sinal. Inserindo as coordenadas no mapa agora."
+
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_S_CEN_Tower_Rumor_Comp_1 AkEvent]
-SpokenText="That tower's been rotting away for years, if not decades.  We're still picking up power readings but no signs of life.  Still, we know that transmission came from this location.  I'm betting somebody's still calling this place home.   "
+SpokenText="Essa torre está apodrecendo há anos, se não décadas. Ainda estamos captando leituras de energia, mas não há sinais de vida. Mesmo assim, sabemos que a transmissão veio desta localização. Aposto que alguém ainda considera este lugar como lar."
+
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
-
