@@ -1,0 +1,175 @@
+[T_Facility_Propaganda_01_Speaker AkEvent]
+SpokenText="Lembre-se, os Anciões estão com você, sempre."
+
+[T_Facility_Propaganda_02_Speaker AkEvent]
+SpokenText="Você serve à vontade dos Anciões."
+
+[T_Facility_Propaganda_03_Speaker AkEvent]
+SpokenText="A vontade dos Anciões é absoluta."
+
+[T_Facility_Propaganda_04_Speaker AkEvent]
+SpokenText="Você é a personificação da vontade dos Anciões."
+
+[T_Facility_Propaganda_05_Speaker AkEvent]
+SpokenText="Nunca esqueça o propósito dos Anciões para você."
+
+[T_Facility_Propaganda_06_Speaker AkEvent]
+SpokenText="Muitos antes de você sacrificaram-se. Em breve, você se unirá aos Anciões."
+
+[T_Facility_Propaganda_07_Speaker AkEvent]
+SpokenText="Orgulhe-se de seu serviço aos Anciões."
+
+[T_Facility_Propaganda_08_Speaker AkEvent]
+SpokenText="Os Anciões veem você. Os Anciões conhecem você."
+
+[T_Facility_Propaganda_09_Speaker AkEvent]
+SpokenText="Sua força vem com o preço da lealdade."
+
+[T_Facility_Propaganda_10_Speaker AkEvent]
+SpokenText="Através de cada conflito, os Anciões estão ao seu lado."
+
+[T_Facility_Propaganda_11_Speaker AkEvent]
+SpokenText="Você é as mãos dos Anciões, o instrumento de sua vontade."
+
+[T_Facility_Propaganda_12_Speaker AkEvent]
+SpokenText="O presente dos Anciões para você exige obediência além da medida."
+
+[T_Facility_Propaganda_13_Speaker AkEvent]
+SpokenText="Seus esforços são cruciais. Sem você, nunca haverá um fim."
+
+[T_Facility_Propaganda_14_Speaker AkEvent]
+SpokenText="Você está ligado aos Anciões, assim como eles estão ligados ao seu próprio poder."
+
+[T_Facility_Propaganda_15_Speaker AkEvent]
+SpokenText="A vontade dos Anciões é a vontade do povo."
+
+[T_Facility_Propaganda_16_Speaker AkEvent]
+SpokenText="Confie nos Anciões, sua visão é absoluta."
+
+[T_Facility_Propaganda_17_Speaker AkEvent]
+SpokenText="Seus sacrifícios palidecem em comparação com as próprias provações dos Anciões."
+
+[T_Facility_Propaganda_18_Speaker AkEvent]
+SpokenText="Todos vocês são os verdadeiros agentes da paz."
+
+[T_Facility_Propaganda_19_Speaker AkEvent]
+SpokenText="O propósito dos Anciões aqui é altruísta, em benefício de todos."
+
+[T_Facility_Propaganda_20_Speaker AkEvent]
+SpokenText="Nunca esqueça os erros do velho mundo."
+
+[T_Facility_Propaganda_21_Speaker AkEvent]
+SpokenText="Enquanto você serve, os Anciões observam."
+
+[T_Facility_Propaganda_22_Speaker AkEvent]
+SpokenText="Você é os primeiros passos em direção à verdadeira liberdade."
+
+[T_Facility_Propaganda_23_Speaker AkEvent]
+SpokenText="Seus esforços marcam o início de nossa salvação."
+
+[T_Facility_Propaganda_24_Speaker AkEvent]
+SpokenText="Nunca vacile em seu compromisso com nossa causa."
+
+[T_Facility_Propaganda_25_Speaker AkEvent]
+SpokenText="Os Anciões guiarão sua mão."
+
+[T_Facility_Propaganda_26_Speaker AkEvent]
+SpokenText="Você é o instrumento dos Anciões."
+
+[T_Facility_Propaganda_27_Speaker AkEvent]
+SpokenText="Você está seguindo o caminho em direção à ascensão."
+
+[T_Facility_Propaganda_28_Speaker AkEvent]
+SpokenText="Os Anciões o aguardam no próximo mundo."
+
+[T_Facility_Propaganda_29_Speaker AkEvent]
+SpokenText="Sirva com honra, sabendo que os Anciões estão com você."
+
+[T_Facility_Propaganda_30_Speaker AkEvent]
+SpokenText="Você é apenas um dos muitos presentes dos Anciões para este mundo."
+
+[T_Facility_Propaganda_31_Speaker AkEvent]
+SpokenText="Você nunca está sozinho. Os Anciões são um, a ADVENT é muitos."
+
+[T_Facility_Propaganda_32_Speaker AkEvent]
+SpokenText="Você é o futuro deste mundo."
+
+[T_Facility_Propaganda_33_Speaker AkEvent]
+SpokenText="Os Anciões irão orientá-lo pelo caminho correto."
+
+[T_Facility_Propaganda_34_Speaker AkEvent]
+SpokenText="Nunca vacile em sua lealdade aos Anciões."
+
+[T_Facility_Propaganda_35_Speaker AkEvent]
+SpokenText="Não tolere nada, a humanidade requer uma mão firme."
+
+[T_Facility_Propaganda_36_Speaker AkEvent]
+SpokenText="Mantenha-se firme e imponha a vontade dos Anciões."
+
+[T_Facility_Propaganda_37_Speaker AkEvent]
+SpokenText="Você é verdadeiramente um com os Anciões."
+
+[T_Facility_Propaganda_38_Speaker AkEvent]
+SpokenText="Eu temo por aqueles que ousam se opor a você."
+
+[T_Facility_Propaganda_39_Speaker AkEvent]
+SpokenText="Aqueles que traem os Anciões devem sofrer as consequências."
+
+[T_Final_Mission_Final_Set_Five_Speaker_03 AkEvent]
+SpokenText="Tanto tempo perdido, você nos deixou com pouca alternativa. O tempo de compromisso acabou. Adeus, Comandante."
+
+[T_Final_Mission_Final_Set_Four_Speaker_04 AkEvent]
+SpokenText="Ainda há tempo, Comandante. Não pense nisso como rendição, pense nisso como um retorno ao seu lugar de direito."
+
+[T_Final_Mission_Final_Showdown_Begins_Speaker_05 AkEvent]
+SpokenText="Sua persistência é admirável, mas cansativa. É hora de aceitar o caminho que traçamos para você, Comandante."
+
+[T_Final_Mission_First_Set_Five_Speaker_01 AkEvent]
+SpokenText="Tempo e novamente você rejeitou nossa sabedoria. E ainda assim, mostramos nada além de
+
+ compaixão e generosidade. Mas, como todas as coisas, isso também deve acabar. Não podemos mais nos dar ao luxo de sofrer suas transgressões."
+
+[T_Final_Mission_First_Set_Five_Speaker_03 AkEvent]
+SpokenText="Ainda há outra maneira."
+
+[T_Final_Mission_First_Set_Four_Speaker_01 AkEvent]
+SpokenText="Tanto tempo gasto desnecessariamente resistindo, lutando contra sua ascensão a algo maior! E, no entanto, aqui está você, exatamente como previmos. Em seus esforços para evitar a criação do Avatar, você seguiu o caminho que traçamos, verdadeiramente superando até nossas próprias expectativas, Comandante."
+
+[T_Final_Mission_First_Set_Four_Speaker_03 AkEvent]
+SpokenText="Você realmente acredita nisso?"
+
+[T_Final_Mission_First_Set_One_Speaker_04 AkEvent]
+SpokenText="...se eles viessem de uma fonte mais familiar..."
+
+[T_Final_Mission_First_Set_Six_Speaker AkEvent]
+SpokenText="Você nos vê como conquistadores de seu mundo, mas essa nunca foi nossa intenção. Cada espécie que você encontrou, os alienígenas que você lutou e matou com tanta ferocidade, nenhum de nós teve escolha. Nosso lar era o mais antigo dos mundos, e o primeiro a ser consumido. Bilhões foram perdidos, se apenas esse fosse o fim."
+
+[T_Final_Mission_First_Set_Three_Speaker_02 AkEvent]
+SpokenText="A ADVENT ofereceu esperança ao seu povo. Um futuro mais brilhante. Ser algo maior. Mas você ainda se recusa. O que mais podemos oferecer além do maior presente de todos?"
+
+[T_Final_Mission_First_Set_Two_Speaker AkEvent]
+SpokenText="Tantas vidas arriscadas para trazê-lo de volta para eles, Comandante. E por quê? Mais violência. Mais guerra. Mais morte. Verdadeiramente, você estava destinado a algo mais do que isso. A forma que você possui agora é testemunho disso..."
+
+[T_Final_Mission_Middle_Set_Four_Speaker_01 AkEvent]
+SpokenText="Quando encontramos a Terra pela primeira vez, choramos por um mundo destruído. Por uma raça torturada clamando às estrelas em agonia. Respondemos ao seu chamado. Vimos seu verdadeiro potencial."
+
+[T_Final_Mission_Middle_Set_Four_Speaker_02 AkEvent]
+SpokenText="O que você chama de primeira invasão foi apenas um teste. Seu povo não falhou como alguns de vocês acreditam. Vocês tiveram sucesso além da medida. Vocês só precisam aceitar seu lugar entre nós..."
+
+[T_Final_Mission_Middle_Set_Four_Speaker_04 AkEvent]
+SpokenText="Nós não perdemos nada. Nossa maior arma está de volta para nós."
+
+[T_Final_Mission_Middle_Set_One_Speaker_02 AkEvent]
+SpokenText="Deste lugar sagrado, podemos convocar uma legião infinita de reforços. Você será superado. No entanto, nossos exércitos podem ser retirados a qualquer momento, Comandante. A paz está ao seu alcance, se você apenas vier até nós."
+
+[T_Final_Mission_Middle_Set_Three_Speaker_03 AkEvent]
+SpokenText="Você fala de trivialidades. Não vacilaremos. Os guerreiros aqui são mais do que dedicados à nossa causa. Eles não precisam de supervisão, pois sabem que o fracasso aqui significa o fim para todos."
+
+[T_Final_Mission_Middle_Set_Three_Speaker_04 AkEvent]
+SpokenText="Considere todos aqueles que sacrificaram-se por sua causa, Comandante. Tantos amigos... tantos aliados... para quê..."
+
+[T_Final_Mission_Middle_Set_Two_Speaker AkEvent]
+SpokenText="Por décadas, você fez parte de nós, Comandante. Você é capaz de muito mais, e ainda assim não consegue compreender a verdadeira natureza de seu poder. Volte para nós, e seu mundo continuará existindo. Resista, e não restará nada para salvar..."
+
+[T_Final_Mission_XCOM_Avatar_Has_Died_Speaker_01 AkEvent]
+SpokenText="Outro sacrifício desnecessário, como tantos outros de sua espécie. Se ao menos você tivesse ouvido."

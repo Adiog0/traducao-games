@@ -1,0 +1,131 @@
+[ETH_Fortress_DarkAvatarDied_Male_01 AkEvent]
+SpokenText="Continuaremos como sempre fizemos. Com esta nova forma, subjulgaremos tudo que nos manteria aprisionados. Sua espécie sobreviverá, mas você não."
+
+[ETH_Fortress_EtherealNag01_Male_01 AkEvent]
+SpokenText="Todos nós estamos ligados pelo mesmo fio. Você nos vê como conquistadores do seu mundo, mas ainda não compreendeu verdadeiramente até onde sua espécie pode cair."
+
+[ETH_Fortress_EtherealNag02_Male_01 AkEvent]
+SpokenText="Houve um tempo em que nossa força era suficiente. Nosso poder era incomparável, e nossa arrogância crescia assim como a sua. Quando você chegar a compreender a verdade, a dificuldade de nossa escolha ficará clara."
+
+[ETH_Fortress_EtherealNag03_Male_01 AkEvent]
+SpokenText="Esperávamos que você resistisse, como é da sua natureza. Sua espécie é jovem e inconsciente. Isolada nos confins deste mundo, vocês não têm meios para crescer."
+
+[ETH_Fortress_EtherealNag04_Male_01 AkEvent]
+SpokenText="Sua sede por justiça está mal direcionada. Pedimos apenas o que era necessário de sua espécie para avançarmos. Nós também sofremos, sacrificamos."
+
+[ETH_Fortress_EtherealNag05_Male_01 AkEvent]
+SpokenText="Nós não pedimos nada que não tenhamos nos dado. Agora, com nosso poder diminuindo, questionamos o caminho. A dúvida nubla nossa visão."
+
+[ETH_Fortress_EtherealNag06_Male_01 AkEvent]
+SpokenText="Não há outro caminho, nenhum mundo em que sua espécie prevaleça sem nós. Ouça-nos antes que seja tarde demais!"
+
+[ETH_Fortress_EtherealNag07_Male_01 AkEvent]
+SpokenText="Quem é o conquistador aqui!? Quem é o salvador!? Suas ações ecoarão por milênios!"
+
+[ETH_Fortress_EtherealNag08_Male_01 AkEvent]
+SpokenText="Nosso fim só trará turbulência e morte àqueles que ainda se apegam ao seu mundo! Vocês não veem nada?!"
+
+[ETH_Fortress_EtherealRNFCall01_Male_01 AkEvent]
+SpokenText="Você ainda nos persegue cegamente, sem questionar nada. Salvando aqueles que não se salvariam."
+
+[ETH_Fortress_EtherealRNFCall02_Male_01 AkEvent]
+SpokenText="A arrogância de sua espécie já era conhecida por nós. Além deste mundo, vocês não sabem de nada."
+
+[ETH_Fortress_EtherealRNFCall03_Male_01 AkEvent]
+SpokenText="Gestos vazios, enfeites de nosso conhecimento, mais do que suficiente para convencer os orgulhosos povos de seu mundo a se submeterem."
+
+[ETH_Fortress_EtherealRNFCall04_Male_01 AkEvent]
+SpokenText="Não buscamos conquista, nem dominação. Sua espécie não representa ameaça para nós. Seguimos o caminho do universo."
+
+[ETH_Fortress_FinalShowdownBegins_Male_01 AkEvent]
+SpokenText="Este confronto desnecessário só aumentará o sofrimento de sua espécie. Oferecemos a você um meio de coexistência. Não temos mais tempo para adiamentos."
+
+[ETH_Fortress_FirstAvatarRevealed_Male_01 AkEvent]
+SpokenText="Por muito tempo, buscamos esta forma, um meio de nos libertarmos da amarra. Seus esforços negam o sacrifício de todos aqueles que tornaram isso possível."
+
+[ETH_Fortress_TacIntro_Male_01 AkEvent]
+SpokenText="Você se mostrou resiliente, mas não vá mais adiante. Nosso propósito vai além de sua compreensão. Existam como permitimos, ou não existam de forma alguma."
+
+[T_Final_Mission_Enemy_Avatar_1_Has_Died_True_Elder_03_a AkEvent]
+SpokenText="Você ataca seu próprio futuro, que loucura é essa?"
+
+[T_Final_Mission_Final_Set_Five_True_Elder_02_a AkEvent]
+SpokenText="Você ouve a verdade, mas ainda ataca. Não pode haver mais dúvidas agora."
+
+[T_Final_Mission_Final_Set_Four_True_Elder_01_a AkEvent]
+SpokenText="Uma raça tão jovem, um fardo terrível para suportar. Muitos seriam perdidos para que todos pudessem sobreviver. Agora, tememos que seja tarde demais."
+
+[T_Final_Mission_Final_Set_One_True_Elder_01_a AkEvent]
+SpokenText="Carregamos o fardo de todos. Somos a última esperança da vida. Não falharemos."
+
+[T_Final_Mission_Final_Set_Three_True_Elder_01_a AkEvent]
+SpokenText="Nós conhecemos a morte de mundos. Assistimos incontáveis espécies perecerem. Você não viu o verdadeiro inimigo. Poupamos você da verdade. Não achamos que conseguiria compreender..."
+
+[T_Final_Mission_Final_Set_Two_True_Elder_01_a AkEvent]
+SpokenText="Se não for por nós, então por seu mundo. Considere as vidas que você salvaria se simplesmente se reunisse a nós."
+
+[T_Final_Mission_Final_Showdown_Begins_True_Elder_01_a AkEvent]
+SpokenText="Você é nosso maior adversário. Você é nosso Avatar. Você pode liderar nossos exércitos. E salvar seu mundo. Volte para nós, não pode haver mais atrasos."
+
+[T_Final_Mission_Final_Showdown_Begins_True_Elder_08_a AkEvent]
+SpokenText="Volte para nós. Você já foi nosso maior trunfo contra este mundo, pode ser novamente."
+
+[T_Final_Mission_First_Hostile_Avatar_Reveal_True_Elder_03_a AkEvent]
+SpokenText="Sua forma é apenas uma sombra de nossa verdade. Buscamos desafiar o que nos consumiria a todos. Seus esforços negam o sacrifício daqueles que vieram antes. Você nos deixa sem escolha."
+
+[T_Final_Mission_First_Set_Five_Angelic_Elder_Alt_01_a AkEvent]
+SpokenText="Tempo e novamente, você rejeitou nossa sabedoria. E ainda assim mostramos compaixão e generosidade. Mas como todas as coisas, isso também deve acabar. Não podemos mais suportar suas transgressões."
+
+[T_Final_Mission_First_Set_Five_Angelic_Elder_Alt_03_a AkEvent]
+SpokenText="Ainda há outra maneira."
+
+[T_Final_Mission_First_Set_Four_Angelic_Elder_Alt_01_a AkEvent]
+SpokenText="Tanto tempo perdido resistindo, lutando contra sua ascensão para algo maior. E ainda assim você está aqui, exatamente como imaginamos. Em seus esforços para evitar a criação do Avatar, você seguiu o caminho que traçamos, excedendo até mesmo nossas expectativas, Comandante."
+
+[T_Final_Mission_First_Set_One_Angelic_Elder_01_a AkEvent]
+SpokenText="Você abriga um ódio cego por nós, não podemos compreender. Nossas intenções para o seu mundo nunca foram hostis. Ainda não são. Você faz parte de nós."
+
+[T_Final_Mission_First_Set_One_Angelic_Elder_03_a AkEvent]
+SpokenText="Mais desconfiança. Talvez você encontre mais tranquilidade em nossas palavras se..."
+
+[T_Final_Mission_First_Set_One_Angelic_Elder_03_a_ALT AkEvent]
+SpokenText="E ainda assim você desconfia de nós. Talvez encontre mais tranquilidade em nossas palavras..."
+
+[T_Final_Mission_First_Set_Six_Angelic_Elder_Alt_a AkEvent]
+SpokenText="Você nos vê como conquistadores do seu mundo, mas nunca foi nossa intenção. Cada espécie que você encontrou, os alienígenas que você lutou e matou. Nenhum teve escolha. Nossa casa era a mais antiga, a primeira a ser consumida. Bilhões foram perdidos, se ao menos isso fosse o fim."
+
+[T_Final_Mission_First_Set_Three_Angelic_Elder_Alt_02_a AkEvent]
+SpokenText="ADVENT ofereceu esperança para o seu mundo. Um futuro mais brilhante. Ser algo maior. Mas você ainda recusa. O que mais podemos oferecer?"
+
+[T_Final_Mission_First_Set_Two_Angelic_Elder_Alt_a AkEvent]
+SpokenText="Tantas vidas arriscadas para trazer você de volta para eles, Comandante. E por quê? Mais violência. Mais guerra. Mais morte. Verdadeiramente, você estava destinado a algo maior que isso."
+
+[T_Final_Mission_Middle_Set_Four_Angelic_Elder_Alt_01_a AkEvent]
+SpokenText="Quando encontramos a Terra pela primeira vez, choramos por um mundo destruído. Por uma raça torturada clamando às estrelas em agonia. Respondemos ao seu chamado. Vimos seu verdadeiro potencial."
+
+[T_Final_Mission_Middle_Set_Four_Angelic_Elder_Alt_02_a AkEvent]
+SpokenText="A primeira invasão foi um teste. Mas sua espécie não falhou como você acredita. Vocês tiveram sucesso além das medidas. Basta aceitar seu lugar entre nós..."
+
+[T_Final_Mission_Middle_Set_Four_Angelic_Elder_Alt_04_a AkEvent]
+SpokenText="Não perdemos nada. Nossa maior arma retorna para nós."
+
+[T_Final_Mission_Middle_Set_Four_True_Elder_05_a AkEvent]
+SpokenText="Você os derrotará aqui como fez uma vez antes, Comandante."
+
+[T_Final_Mission_Middle_Set_One_Angelic_Elder_Alt_02_a AkEvent]
+SpokenText="Daqui podemos chamar uma legião interminável de reforços. Você será superado. Ainda assim, nossos exércitos podem ser retirados a qualquer momento, Comandante. A paz está ao seu alcance, se ao menos se reunir a nós."
+
+[T_Final_Mission_Middle_Set_Three_Angelic_Elder_Alt_03_a AkEvent]
+SpokenText="Nosso poder não vacila. Você encontrará nossas forças aqui leais. Não precisam de coerção, pois sabem que o fracasso aqui significa o fim para todos."
+
+[T_Final_Mission_Middle_Set_Two_Angelic_Elder_Alt_a AkEvent]
+SpokenText="Por décadas você foi parte de nós, Comandante. Você é capaz de muito mais, mas não compreende a verdadeira natureza de seu poder. Volte para nós, e seu mundo viverá. Resista, e não restará nada para salvar..."
+
+[T_Final_Mission_The_Fortress_Angelic_Elder_03_a AkEvent]
+SpokenText="Tanta perda. Tanto desperdício desnecessário. Você nos força a agir. Ainda assim, oferecemos paz. Volte para nós e seu mundo será poupado."
+
+[T_Final_Mission_The_Fortress_Angelic_Elder_05_a AkEvent]
+SpokenText="Lamentável. Mas esperado."
+
+[T_Final_Mission_XCOM_Avatar_Has_Died_True_Elder_02_a AkEvent]
+SpokenText="Recuperamos o que foi perdido. Bem-vindo de volta, Comandante."

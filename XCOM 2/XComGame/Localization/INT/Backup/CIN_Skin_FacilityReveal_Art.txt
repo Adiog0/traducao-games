@@ -1,0 +1,17 @@
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_1 XComInteractiveLevelActor]
+FriendlyDisplayName="Porta Segura"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_13 XComInteractiveLevelActor]
+FriendlyDisplayName="Porta Segura"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_19 XComInteractiveLevelActor]
+FriendlyDisplayName="Porta Segura"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_2 XComInteractiveLevelActor]
+FriendlyDisplayName="Contêiner da ADVENT"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_23 XComInteractiveLevelActor]
+FriendlyDisplayName="Porta de Cela"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_4 XComInteractiveLevelActor]
+FriendlyDisplayName="Contêiner da ADVENT"

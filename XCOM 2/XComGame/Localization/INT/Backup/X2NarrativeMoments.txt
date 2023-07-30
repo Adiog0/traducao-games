@@ -1,0 +1,90 @@
+[Strategy.GP_AvatarAutopsyScreen X2NarrativeMoment]
+UIHeaderText="Examine o Corpo Recuperado do Avatar"
+UIBodyText="Use a Câmara das Sombras para estudar o corpo do Avatar convocado que foi morto em combate pelas forças da XCOM."
+UIArrayText[0]="Complete o Projeto Sombra da Autópsia do Avatar"
+
+[Strategy.GP_BroadcastTheTruthScreen X2NarrativeMoment]
+UIHeaderText="Ataque a Torre de Rede da ADVENT"
+UIBodyText="Realize uma missão de infiltração na principal torre de rede da ADVENT, tentando desativar a rede de comunicação global da ADVENT e interromper o controle mundial da ADVENT."
+UIArrayText[0]="Complete a Missão da Torre de Rede da ADVENT"
+
+[Strategy.GP_BuildShadowChamberScreen X2NarrativeMoment]
+UIHeaderText="Construa a Câmara das Sombras"
+UIBodyText="Construa a instalação da Câmara das Sombras no Avenger."
+UIArrayText[0]="Construa a Instalação da Câmara das Sombras"
+
+[Strategy.GP_BuildStasisSuitScreen X2NarrativeMoment]
+UIHeaderText="Examine o Traje de Estase da ADVENT"
+UIBodyText="Use a Câmara das Sombras para estudar o Traje de Estase recuperado da instalação Forge da ADVENT."
+UIArrayText[0]="Complete o Projeto Sombra do Traje de Estase"
+
+[Strategy.GP_CaptainAutopsyScreen X2NarrativeMoment]
+UIHeaderText="Examine o Corpo de um Oficial da ADVENT"
+UIBodyText="Peça ao Dr. Tygan para fazer uma autópsia do Oficial da ADVENT nos laboratórios de pesquisa."
+UIArrayText[0]="Complete a Pesquisa de Autópsia do Oficial da ADVENT"
+
+[Strategy.GP_ConstructPsiGateScreen X2NarrativeMoment]
+UIHeaderText="Examine o Portão Psíquico"
+UIBodyText="Instale o Portão Psíquico recuperado na Câmara das Sombras, permitindo um estudo detalhado do Portão e para onde ele pode levar."
+UIArrayText[0]="Atualize a Câmara das Sombras"
+UIArrayText[1]="Complete o Projeto Sombra do Portão Psíquico"
+
+[Strategy.GP_ContactBlacksiteRegionScreen X2NarrativeMoment]
+UIHeaderText="Contate a Resistência na Região do Esconderijo"
+UIBodyText="Faça contato com a resistência local na região do esconderijo para obter acesso à instalação da ADVENT."
+UIArrayText[0]="Pesquise Comunicações da Resistência"
+UIArrayText[1]="Voar para a Região do Esconderijo"
+UIArrayText[2]="Faça Contato"
+
+[Strategy.GP_FinalMissionScreen X2NarrativeMoment]
+UIHeaderText="Ataque à Fortaleza Alienígena"
+UIBodyText="Envie o Comandante e um esquadrão de soldados através do Portão Psíquico para o assento de poder dos alienígenas e destrua o domínio dos Anciões na Terra de uma vez por todas."
+UIArrayText[0]="Complete a Missão da Fortaleza Alienígena"
+
+[Strategy.GP_ForgeMissionScreen X2NarrativeMoment]
+UIHeaderText="Investigue as Coordenadas do Frasco no Esconderijo"
+UIBodyText="Após fazer contato com a resistência local na região, investigue a instalação nas coordenadas do mapa recuperadas do frasco no esconderijo."
+UIArrayText[0]="Complete a Missão das Coordenadas do Frasco no Esconderijo"
+
+[Strategy.GP_HackACaptainScreen X2NarrativeMoment]
+UIHeaderText="Acesse a Rede Alienígena"
+UIBodyText="Use o dispositivo Skulljack em um Oficial da ADVENT em combate para acessar a rede de comunicação dos alienígenas."
+UIArrayText[0]="Construa a Instalação Campo de Testes"
+UIArrayText[1]="Complete o Projeto Skulljack no Campo de Testes"
+UIArrayText[2]="Use o Skulljack em um Oficial da ADVENT"
+
+[Strategy.GP_HackACodexScreen X2NarrativeMoment]
+UIHeaderText="Invada a Rede Alienígena"
+UIBodyText="Use o dispositivo Skulljack em um alienígena Codex em combate para acessar dados restritos do Projeto Avatar."
+UIArrayText[0]="Use o Skulljack em um Codex"
+
+[Strategy.GP_InvestigateBlacksiteScreen X2NarrativeMoment]
+UIHeaderText="Investigue o Esconderijo da ADVENT"
+UIBodyText="A misteriosa instalação da ADVENT deve ser investigada por uma equipe de ataque da XCOM, e quaisquer artefatos relevantes devem ser recuperados para estudo."
+UIArrayText[0]="Complete a Missão do Esconderijo da ADVENT"
+
+[Strategy.GP_PsiGateMissionScreen X2NarrativeMoment]
+UIHeaderText="Investigue as Coordenadas do Cérebro do Codex"
+UIBodyText="Após fazer contato com a resistência local na região, investigue as coordenadas do mapa recuperadas do cérebro do Codex."
+UIArrayText[0]="Complete a Missão das Coordenadas do Cérebro do Codex"
+
+[Strategy.GP_ResearchAlienEncryptionScreen X2NarrativeMoment]
+UIHeaderText="Pesquise a Criptografia Alienígena"
+UIBodyText="Peça ao Dr. Tygan para concluir a pesquisa sobre os métodos de criptografia dos alienígenas."
+UIArrayText[0]="Complete a Pesquisa de Criptografia Alienígena"
+
+[Strategy.GP_StudyBlacksiteDataScreen X2NarrativeMoment]
+UIHeaderText="Examine o Frasco Recuperado do Esconderijo"
+UIBodyText="Examine o Frasco Recuperado do Esconderijo"
+UIArrayText[0]="Examine o Frasco Recuperado do Esconderijo"
+
+[Strategy.GP_StudyCodexBrainPt2Screen X2NarrativeMoment]
+UIHeaderText="Descriptografar Dados do Codex"
+UIBodyText="Use a Câmara das Sombras para descriptografar os dados restantes do Codex."
+UIArrayText[0]="Complete o Projeto Sombra de Dados Criptografados do Codex"
+
+[Strategy.GP_StudyCodexBrainScreen X2NarrativeMoment]
+UIHeaderText="Examine o Cérebro do Codex"
+UIBodyText="Use a Câmara das Sombras para examinar o cérebro do Codex recuperado."
+UIArrayText[0]="Estude o Codex"
+UIArrayText[1]="Descriptografar Dados do Codex"

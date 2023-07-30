@@ -1,0 +1,588 @@
+"[NoID_CentralThatGenetic_alta AkEvent]
+SpokenText="Central, aquele material genético, todo esse equipamento que temos visto, só pode ser usado para um propósito."
+
+[NoID_CommanderConstructionOf AkEvent]
+SpokenText="Comandante, a construção desta Câmara das Sombras deve nos permitir analisar e desmontar melhor todos os artefatos e dados alienígenas que temos recuperado."
+
+[NoID_GladWeFound AkEvent]
+SpokenText="Fico feliz que tenhamos encontrado este lugar enquanto ainda há gente suficiente para destruí-lo."
+
+[NoID_ItsLikeThis AkEvent]
+SpokenText="É como se toda essa área estivesse repleta de energia psíquica. Acho que nunca vimos os efeitos da exposição prolongada como isso antes."
+
+[NoID_ThisIsIncredible AkEvent]
+SpokenText="Isso é incrível. Quando eu era mais jovem, meu pai costumava me contar histórias sobre um vale dominado por um poder belo, mas sombrio. Começo a sentir uma intensa sensação de déjà vu."
+
+[NoID_WeCanStart AkEvent]
+SpokenText="Podemos começar a construção da Câmara das Sombras quando você estiver pronto, Comandante."
+
+[NoID_YouAndMe AkEvent]
+SpokenText="Isso vale para nós dois."
+
+[S_Alien_Fortress_Shen_01 AkEvent]
+SpokenText="Odeio fazer isso... Você é o único já equipado para o combate. Você sabe que eu mesmo iria se pudesse."
+
+[S_Alien_Fortress_Shen_02 AkEvent]
+SpokenText="Pronto."
+
+[S_Alien_Fortress_Shen_03 AkEvent]
+SpokenText="Eu conectei o que restou do cérebro do Codex ao Rover. Ele deve estar emitindo o mesmo sinal que o Codex usava para atravessar o portal."
+
+[S_Alien_Fortress_Shen_04 AkEvent]
+SpokenText="Aí está. Estamos prontos para gravar em todos os espectros. Lembre-se, entre, faça algumas leituras rápidas e volte imediatamente. Certo?"
+
+[S_Alien_Fortress_Shen_05 AkEvent]
+SpokenText="Uau... Você está vendo isso?"
+
+[S_Alien_Fortress_Shen_06 AkEvent]
+SpokenText="Não se parece com nenhuma das instalações que já visitamos... nem com qualquer lugar na Terra, aliás."
+
+[S_Alien_Fortress_Shen_07 AkEvent]
+SpokenText="Só há uma maneira de descobrir."
+
+[S_Alien_Fortress_Shen_08 AkEvent]
+SpokenText="Vá em frente. Estamos contando com você."
+
+[S_Alien_Fortress_Shen_09 AkEvent]
+SpokenText="Isso definitivamente não está bem, Doutor."
+
+[S_Alien_Fortress_Shen_10 AkEvent]
+SpokenText="Obviamente."
+
+[S_Alien_Fortress_Shen_11 AkEvent]
+SpokenText="Bem, é melhor nos certificarmos de que temos a chave certa antes de tentarmos de novo. Eu odiaria que isso acontecesse com algo 'orgânico'."
+
+[S_Ambient_ADVENT_Burger_Shen AkEvent]
+SpokenText="Nunca pisei em nenhum desses centros urbanos, então nunca experimentei um desses hambúrgueres da ADVENT que continuo ouvindo rumores. Ninguém parece estar fazendo as perguntas difíceis também, como por exemplo, quando foi a última vez que você viu uma vaca?"
+
+[S_Ambient_Helpers_Shen AkEvent]
+SpokenText="Em certo momento, pensei em tentar trazer um Mec da ADVENT para ver se poderíamos integrar a IA GREMLIN. A ideia era reforçar nossa equipe com assistentes robóticos. Eventualmente, decidi não mencionar isso para Central ou Tygan, pelo menos até as coisas se acalmarem um pouco."
+
+[S_Autopsy_MEC_Blurb AkEvent]
+SpokenText="A ADVENT tem legiões dessas unidades mecanizadas lá fora, ajudando a 'manter a paz'. Pelo que posso dizer, elas são totalmente automatizadas e armadas até os dentes."
+
+[S_Autopsy_Sectopod_Blurb AkEvent]
+SpokenText="Central diz que viu uma dessas coisas de perto no passado. Apesar de muitas especulações, não encontramos nenhum piloto quando a abrimos."
+
+[S_Autopsy_Turret_Blurb AkEvent]
+SpokenText="A ADVENT não parece ter problemas em posicionar armas completamente autônomas próximas às pessoas nas cidades. Isso realmente mostra o quanto eles se importam."
+
+[S_Avenger_Ambient_Shen_ADVENTtech AkEvent]
+SpokenText="Tive a chance de examinar mais de perto algumas das armas da ADVENT recuperadas no campo de batalha. A liga usada em suas estruturas é significativamente mais leve, tornando-as mais adequadas à forma humana. Acredito que é o mesmo material que vimos eles usando em todas as colônias, mas eles devem estar produzindo isso de alguma fonte aqui na Terra, pois parecem ter um suprimento interminável desse material."
+
+[S_Avenger_Ambient_Shen_Alientech AkEvent]
+SpokenText="Tem sido um processo lento, mas eu fiz progressos na interface de nossos equipamentos com a tecnologia alienígena ainda embutida na nave. A maioria dos sistemas principais agora opera com alguma combinação de nossa tecnologia e a deles. Minha esperança é usar o melhor dos dois mundos para criar algo novo, algo que os alienígenas não esperem."
+
+[S_Avenger_Ambient_Shen_CityMigration_01 AkEvent]
+SpokenText="O que você sabe sobre essas clínicas de terapia genética, Doutor? Parecem ser um grande atrativo para as cidades agora."
+
+[S_Avenger_Ambient_Shen_CityMigration_02 AkEvent]
+SpokenText="Contanto que você seja chipado primeiro?"
+
+[S_Avenger_Ambient_Shen_CityMigration_03 AkEvent]
+SpokenText="Estou começando a entender a atração."
+
+[S_Avenger_Ambient_Shen_FacadePeace_02 AkEvent]
+SpokenText="Milhões de pessoas nessas cidades não parecem se importar muito."
+
+[S_Avenger_Ambient_Shen_FacadePeaceB_01 AkEvent]
+SpokenText="Você nunca lamenta ter saído da cidade? Deve sentir falta de algumas coisas, certo? A comida? As camas quentes?"
+
+[S_Avenger_Ambient_Shen
+
+_FacadePeaceB_02 AkEvent]
+SpokenText="Não tinha pensado nisso... A ADVENT provavelmente tinha um laboratório muito bom para você."
+
+[S_Avenger_Ambient_Shen_FacadePeaceB_03 AkEvent]
+SpokenText="Não se preocupe; tenho certeza de que o Comandante encontrará algo bom para você."
+
+[S_Avenger_Ambient_Shen_Father AkEvent]
+SpokenText="Acho que papai ficaria orgulhoso do que estamos fazendo aqui. Pela primeira vez em muito tempo, somos uma ameaça real para os alienígenas, e eles sabem disso. Agora só precisamos fazer com que todas aquelas pessoas nas colônias lembrem do que estamos lutando. Meu pai não morreu para que nos tornássemos uma raça de cobaias acovardadas para os alienígenas brincarem. Só precisamos chamar a atenção das pessoas."
+
+[S_Avenger_Ambient_Shen_Makeshift AkEvent]
+SpokenText="Não tenho certeza de como o resto da tripulação se sentiria se soubessem quantos curativos já coloquei nesta nave. Um pouco de sorte ajuda muito quando você não tem muito com que trabalhar, mas estou preocupado com o que pode acontecer se a forçarmos demais."
+
+[S_Avenger_Ambient_Shen_PowerCore AkEvent]
+SpokenText="Notamos desde o início que o Avenger tende a 'mergulhar' para frente quando o núcleo de energia está sob carga sem os motores engajados. A princípio, pensei que fosse um problema de estabilizador, mas agora estou começando a acreditar que faz parte do grande plano dos alienígenas. O núcleo em si pode não ser totalmente estável, o que explicaria por que os alienígenas fizeram tanto esforço para isolá-lo na proa."
+
+[S_Avenger_Ambient_Shen_Quick_01 AkEvent]
+SpokenText="Eu gostaria que tivéssemos um simulador para Bradford treinar, se ele destruir esta nave, eu mesma o entregarei para a ADVENT."
+
+[S_Avenger_Ambient_Shen_Quick_02 AkEvent]
+SpokenText="Ainda não sei de onde a ADVENT está tirando todos esses reforços. Com certeza não são voluntários."
+
+[S_Avenger_Ambient_Shen_Quick_03 AkEvent]
+SpokenText="Vi Tygan murmurando sozinho em um dos corredores, não tenho certeza se ele nem mesmo me notou. Bradford confia nele, mas eu ainda estou de olhos abertos."
+
+[S_Avenger_Ambient_Shen_Quick_04 AkEvent]
+SpokenText="Você pensaria que teríamos alguns ajudantes robóticos por aqui agora. Hmmm. Talvez eu possa montar algo."
+
+[S_Avenger_Ambient_Shen_Quick_05 AkEvent]
+SpokenText="Recebi um relatório de alguns rangidos perto do elevador de ré ontem. Espero que não seja fadiga do metal."
+
+[S_Avenger_Ambient_Shen_Quick_06 AkEvent]
+SpokenText="As opções de recrutamento são escassas, mas espero encontrar alguns novos recrutas que saibam manusear uma chave inglesa - eu poderia usar a ajuda."
+
+[S_Avenger_Ambient_Shen_Quick_07 AkEvent]
+SpokenText="Provavelmente eu teria economizado muito tempo consertando os sistemas da nave se soubéssemos traduzir o idioma deles. Infelizmente, não encontramos muitos linguistas por aqui."
+
+[S_Avenger_Ambient_Shen_Quick_08 AkEvent]
+SpokenText="Eu me pergunto se foi assim nos velhos tempos. Sempre alerta, pronto para lutar a qualquer momento. Certamente mantém você em alerta."
+
+[S_Avenger_Ambient_Shen_Quick_09 AkEvent]
+SpokenText="Devo ver se algum dos soldados tem contado quantos aliens já mataram. Pode ser uma ferramenta de recrutamento útil."
+
+[S_Avenger_Ambient_Shen_Quick_10 AkEvent]
+SpokenText="Tygan parece ter o hábito de coçar a cicatriz na parte de trás de sua cabeça, eu me pergunto se alguém se certificou de que seu chip foi realmente removido."
+
+[S_Avenger_Ambient_Shen_ShenFather_01 AkEvent]
+SpokenText="Trazer a energia do Avenger de volta foi um milagre. Não tenho certeza de como ele decifrou o sistema deles, mas ainda estaríamos meio enterrados na areia se ele não tivesse feito isso. Ele deu tudo o que tinha para colocar a nave em funcionamento, mas não viveu o suficiente para vê-la voar."
+
+[S_Avenger_Ambient_Shen_ShenFather_02 AkEvent]
+SpokenText="Você pode honrar a memória dele usando esta nave para destruir os alienígenas onde quer que os encontremos."
+
+[S_Avenger_Ambient_Shen_ShenFatherB_01 AkEvent]
+SpokenText="Só queria que ele tivesse vivido o suficiente para nos ver lutando de volta... para saber que não foi tudo em vão."
+
+[S_Avenger_Ambient_Shen_ShenFatherB_02 AkEvent]
+SpokenText="Pelo que vi, você poderia usar a prática."
+
+[S_Avenger_Ambient_Shen_ShensPrideB_01 AkEvent]
+SpokenText="É tudo o que temos... e sei que os alienígenas não estão felizes por perderem um deles..."
+
+[S_Avenger_Ambient_Shen_ShensPrideB_02 AkEvent]
+SpokenText="Estou mais do que feliz em provar que eles estão errados."
+
+[S_Avenger_Ambient_Shen_ShensPrideC_01 AkEvent]
+SpokenText="Foi tudo o que restou para ele... e sei que os alienígenas não estão felizes por perderem um deles..."
+
+[S_Avenger_Ambient_Shen_TyganConscienceB_01 AkEvent]
+SpokenText="Me conte algo, Doutor. Deve ter sido bem tranquilo trabalhar com a ADVENT, morando nas colônias... então por que essa mudança repentina de coração?"
+
+[S_Avenger_Ambient_Shen_TyganConscienceB_02 AkEvent]
+SpokenText="Você deveria saber melhor. Os alienígenas nunca teriam vindo aqui se quisessem paz."
+
+[S_Avenger_Ambient_Shen_TyganConscienceB_03
+
+ AkEvent]
+SpokenText="Então eu diria que você tem um trabalho difícil pela frente."
+
+[S_Avenger_Ambient_ShenFacadePeace_01 AkEvent]
+SpokenText="Você viveu em uma das colônias por alguns anos antes de se juntar à Central, certo?"
+
+[S_Avenger_Attack_Shen_01_Setup_Phase AkEvent]
+SpokenText="Impossível, não há danos aos motores! A menos que... Deve estar usando um pulso eletromagnético! Se eu conseguir apenas ignorar toda essa eletrônica alienígena, aguente firme!"
+
+[S_Avenger_Attack_Shen_02_Setup_Phase AkEvent]
+SpokenText="Não está aceitando a interface de transferência, o sistema está anulando o meu comando."
+
+[S_Avenger_Attack_Shen_03_Setup_Phase AkEvent]
+SpokenText="Certo."
+
+[S_Avenger_Attack_Shen_04_Setup_Phase AkEvent]
+SpokenText="Temos um problema."
+
+[S_Avenger_Attack_Shen_05_Setup_Phase AkEvent]
+SpokenText="Eles acabaram de soltar algum tipo de espinho lá fora. Está gerando o mesmo tipo de pulso que nos derrubou do céu. Não posso ligar nossos motores enquanto ele estiver lá fora!"
+
+[S_Avenger_Attack_Shen_06_Setup_Phase AkEvent]
+SpokenText="Não daqui."
+
+[S_Avenger_Attack_Shen_07_Setup_Phase AkEvent]
+SpokenText="Não posso ligar nossos motores enquanto ele estiver lá fora!"
+
+[S_Avenger_Shen_Exposed_Power_Coil_First AkEvent]
+SpokenText="Essa bobina pode nos fornecer energia adicional para os sistemas do Avenger, mas precisaremos adicionar algum isolamento primeiro para proteger a tripulação."
+
+[S_Avenger_Shen_Not_Enough_Engineers AkEvent]
+SpokenText="Eu poderia usar uma mãozinha com algumas das tarefas de engenharia por aqui, Comandante. Me avise."
+
+[S_Blacksite_Horror_Shen_01 AkEvent]
+SpokenText="Vamos descobrir agora. Eu conectei a Câmara das Sombras diretamente ao computador da nave."
+
+[S_Blacksite_Horror_Shen_02 AkEvent]
+SpokenText="Tem estado em processo de triagem do material que recuperamos sem parar desde que voltamos. Catalogando sequências..."
+
+[S_Blacksite_Horror_Shen_03 AkEvent]
+SpokenText="Por isso precisamos do computador da nave para descobrir de onde vieram."
+
+[S_Blacksite_Horror_Shen_04 AkEvent]
+SpokenText="Cruzando esses dados com as informações que conseguimos hackear da rede da ADVENT."
+
+[S_Blacksite_Horror_Shen_05 AkEvent]
+SpokenText="É... um registro de admissão de uma das clínicas de terapia genética."
+
+[S_Blacksite_Horror_Shen_06 AkEvent]
+SpokenText="As clínicas de genética. Milhões de pessoas, apenas procurando ajuda."
+
+[S_Blacksite_Horror_Shen_07 AkEvent]
+SpokenText="Isso é genocídio, Doutor. E essas pessoas estão indo diretamente para isso!"
+
+[S_Blacksite_Horror_Shen_08 AkEvent]
+SpokenText="Podemos não saber o que eles estão fazendo com isso, mas acho que posso descobrir para onde está indo."
+
+[S_Blacksite_Horror_Shen_09 AkEvent]
+SpokenText="Consegui. É uma instalação de produção de alta segurança - defesas padrão."
+
+[S_Broadcast_Truth_Shen_01 AkEvent]
+SpokenText="Pronto. Embora precisemos estar bem perto para conseguir fazer isso."
+
+[S_Broadcast_Truth_Shen_02 AkEvent]
+SpokenText="Nos aproximando dentro do alcance. Tentando acesso!"
+
+[S_Build_This_Item_Engineering_Tutorial_Shen AkEvent]
+SpokenText="Não posso prometer milagres, Comandante, mas devo ser capaz de montar algumas dessas coisas em pouco tempo. Eu sugeriria começarmos com um Medikit, provavelmente será útil mais cedo ou mais tarde."
+
+[S_Build_This_Item_Engineering_Tutorial_Shen_ALT AkEvent]
+SpokenText="Não posso prometer milagres, Comandante, mas devo ser capaz de montar algumas dessas coisas em pouco tempo. Eu sugeriria começarmos com um Medikit, provavelmente será útil mais cedo ou mais tarde."
+
+[S_Commander_Awakens_Shen_01_Setup_Phase AkEvent]
+SpokenText="Há lugares melhores para fazer isso, Doutor!"
+
+[S_Commander_Awakens_Shen_02_Setup_Phase AkEvent]
+SpokenText="Pronto como vai ficar."
+
+[S_Commander_Awakens_Shen_03_Setup_Phase AkEvent]
+SpokenText="Essas leituras estão ficando muito erráticas."
+
+[S_Commander_Awakens_Shen_04_Setup_Phase AkEvent]
+SpokenText="DOUTOR! Nenhum sinal..."
+
+[S_Dark_Volunteer_01_Shen_01 AkEvent]
+SpokenText="Não será fácil, mas acho que é a única opção que temos neste momento."
+
+[S_Dark_Volunteer_01_Shen_02 AkEvent]
+SpokenText="A sequência precisa ser de um sujeito vivo - a chave só funciona em sincronia com o sinal."
+
+[S_Dark_Volunteer_01_Shen_03 AkEvent]
+SpokenText="Não. Isso nós podemos resolver. Faremos o nosso próprio."
+
+[S_Dark_Volunteer_01_Shen_04 AkEvent]
+SpokenText="Mas eu posso. De certa forma. Manipulando o novo Avatar através da rede psíquica."
+
+[S_Dark_Volunteer_01_Shen_05 AkEvent]
+SpokenText="Não exatamente. E definitivamente não eu."
+
+[S_Dark_Volunteer_01_Shen_06 AkEvent]
+SpokenText="Enquanto isso, vou analisar cada circuito desse traje de estase. Quando chegar a hora, estarei pronta."
+
+[S_Dark_Volunteer_02_Shen_01 AkEvent]
+SpokenText="Conexão final estabelecida. Níveis de energia adequados. Mais uma olhada no buffer..."
+
+[S_Dark_Volunteer_02_Shen_02 AkEvent]
+SpokenText="Estamos prontos."
+
+[S_Dark_Volunteer_02_Shen_03 AkEvent]
+SpokenText="Iniciando conexão na rede."
+
+[S_First_Flight_Shen_01_Setup_Phase AkEvent]
+SpokenText="Resposta curta? "Sim". Mas talvez todos queiram segurar em alguma coisa."
+
+[S_FirstStasisLanceAvailable_Shen AkEvent]
+SpokenText="Temos os esquemas, e nosso equipamento está pronto para começar a montagem, Comandante. É só dar a palavra e construiremos o Skulljack."
+
+[S_FirstStasisLanceBolted_Shen AkEvent]
+SpokenText="O centro de testes está pronto, Comandante, podemos construir o Skulljack sempre que quiser."
+
+[S_Here_they_Come_Shen AkEvent]
+SpokenText="Lá vêm eles."
+
+[S_Human_Tubes_Shen_ALT AkEvent]
+SpokenText="Mas por que aqui? O que mais eles poderiam estar fazendo nesse ponto?"
+
+[S_Intro_Shen_01 AkEvent]
+SpokenText="Sinal recebido. Alto e claro."
+
+[S_Intro_Shen_02 AkEvent]
+SpokenText="Gatecrasher, a janela está aberta."
+
+[S_Item_Selected_Engineering_Tutorial_Shen AkEvent]
+SpokenText="Estou nisso, Comandante."
+
+[S_Old_Gods_01_Shen_01 AkEvent]
+SpokenText="Comandante, estamos progredindo ao montar essa coisa novamente, mas não tem sido bonito."
+
+[S_Old_Gods_01_Shen_02 AkEvent]
+SpokenText="Eu acredito em você, Doutor."
+
+[S_Old_Gods_01_Shen_03 AkEvent]
+SpokenText="Essas são coordenadas - coordenadas de retorno. Acho que temos um ponto de origem! Bem... parte de um. Duvido que seja local..."
+
+[S_Old_Gods_01_Shen_04 AkEvent]
+SpokenText="Não é só isso que está fazendo. Estou perdendo os dados que já deciframos."
+
+[S_Old_Gods_01_Shen_05 AkEvent]
+SpokenText="Esqueça os dados... ele está acessando o núcleo de energia. Anulando minhas salvaguardas. Aumentando os níveis de energia para... Não!"
+
+[S_Old_Gods_01_Shen_06 AkEvent]
+SpokenText="Tygan! Corte a conexão!"
+
+[S_Old_Gods_01_Shen_07 AkEvent]
+SpokenText="Isso é uma quantidade enorme de dados."
+
+[S_Old_Gods_01_Shen_08 AkEvent]
+SpokenText="Melhor começarmos. Acho que não seremos capazes de fazer isso novamente."
+
+[S_Old_Gods_01_Shen_09 AkEvent]
+SpokenText="Se eu conseguir reconstruir os dados perdidos na transferência. Só espero que tenha valido a pena."
+
+[S_Pre_Final_Mission_Broadcast_Shen_01 AkEvent]
+SpokenText="Quando ele não está?"
+
+[S_Pre_Final_Mission_Broadcast_Shen_02 AkEvent]
+SpokenText="Sem problemas."
+
+[S_ResistanceMusing_Shen AkEvent]
+SpokenText="Ter o Comandante por perto parece ter dado um impulso na moral da resistência, além de nossa tripulação. Não acho que já vi Bradford tão feliz. Embora ele e o Comandante conheçam e confiem no Cato desde antes da guerra, estou reservando meu julgamento por enquanto. Por mais que a resistência precise de nossa ajuda, também precisamos de seu apoio."
+
+[S_Setup_Phase_Avoid_Hostile_Detection_Radius_Shen AkEvent]
+SpokenText="Você precisa evitar a linha de visão deles, fique fora do raio de detecção indicado."
+
+[S_Setup_Phase_Build_This_Facility_Shen AkEvent]
+SpokenText="Comandante, acho que construir esta instalação nos traria o maior benefício agora."
+
+[S_Setup_Phase_Excavation_Staff_Confirmed_Shen AkEvent]
+SpokenText="Parece bom para mim, é só dar a palavra e começaremos, Comandante."
+
+[S_Setup_Phase_Excavation_Underway_Shen AkEvent]
+SpokenText="A escavação
+
+ está em andamento, Comandante, mas levará algum tempo para remover tudo isso."
+
+[S_Setup_Phase_First_Build_Item_Screen_Shen AkEvent]
+SpokenText="Você ficaria surpreso com a grande diferença que algumas dessas coisas podem fazer em combate, Comandante. Com alguns suprimentos, posso fabricar qualquer coisa que precisarmos rapidamente."
+
+[S_Setup_Phase_How_To_Excavate_Shen AkEvent]
+SpokenText="Para limpar esses espaços, primeiro precisaremos designar um engenheiro para a tarefa. À medida que começarmos a alcançar as partes distantes da nave, levará mais tempo e mão de obra para abrir espaço para novas instalações."
+
+[S_Setup_Phase_Start_Excavation_Shen AkEvent]
+SpokenText="Agora que temos alguma ajuda, podemos começar a remover os equipamentos antigos e detritos da nave para dar espaço para novas instalações."
+
+[S_Setup_Phase_Use_Overwatch_Against_Reinforcements_Shen AkEvent]
+SpokenText="Se quisermos surpreender as forças de reforço dos alienígenas, podemos usar a Vigilância para nos posicionar e preparar para a chegada deles."
+
+[S_Shen_Greeting_A AkEvent]
+SpokenText="Ei, Comandante."
+
+[S_Shen_Greeting_B AkEvent]
+SpokenText="Olá, Comandante."
+
+[S_Shen_Greeting_C AkEvent]
+SpokenText="Comandante?"
+
+[S_Shen_Greeting_D AkEvent]
+SpokenText="O que posso fazer por você, Comandante?"
+
+[S_Shen_Greeting_E AkEvent]
+SpokenText="Novas ordens, Comandante?"
+
+[S_Shen_Greeting_F AkEvent]
+SpokenText="É só dar a palavra e eu começo, Comandante."
+
+[S_Shen_ThankYouForWorkshop AkEvent]
+SpokenText="Obrigado, Comandante. O novo laboratório vai servir perfeitamente."
+
+[S_Shens_Loot_Shen_01_Setup_Phase AkEvent]
+SpokenText="Por que vocês estão só parados aí?"
+
+[S_Shens_Loot_Shen_02_Setup_Phase AkEvent]
+SpokenText="Está perfeito! Vamos, vamos levá-lo para dentro."
+
+[S_StasisLanceReminder_Shen AkEvent]
+SpokenText="Estamos prontos, Comandante. Se você precisar de um Skulljack, podemos construir um a qualquer momento."
+
+[S_Support_Ambient_Musings_Misc_Shen_01 AkEvent]
+SpokenText="Estive vasculhando alguns dos arquivos antigos que Central tem guardado desde antes da guerra. Continuo encontrando anotações rabiscadas em inglês e o que parece ser alemão quebrado. Devo perguntar a ele sobre isso."
+
+[S_Support_Beam_Weapons_Shen_01 AkEvent]
+SpokenText="Os alienígenas não vão ficar felizes quando descobrirem que agora temos armas de energia iguais às deles."
+
+[S_Support_Build_Proving_Grounds_Shen_01 AkEvent]
+SpokenText="Comandante, se vamos tentar construir esse Skulljack que o Tygan inventou, vamos precisar de uma instalação especializada para testá-lo."
+
+[S_Support_Excavate_Room_No_Engineer_Shen AkEvent]
+SpokenText="Comandante, vou precisar de mais ajuda na equipe de engenharia antes de começar a limpar algumas dessas salas. Devemos recrutar um engenheiro."
+
+[S_Support_First_Engineer_Received_Shen AkEvent]
+SpokenText="Agora que temos mais pessoal na equipe de engenharia, podemos começar a liberar espaço para novas instalações, Comandante. Mas devemos continuar procurando mais recrutas, precisaremos deles para ocupar as instalações assim que forem construídas."
+
+[S_Support_First_Excavating_Room_Shen_01 AkEvent]
+SpokenText="Comandante, até agora não vi nada crítico entre os componentes alienígenas restantes nesta área. Se limparmos essas coisas, podemos usar esse espaço para uma nova instalação."
+
+[S_Support_First_Facility_Construction_Shen_01 AkEvent]
+SpokenText="Começaremos o trabalho na nova instalação imediatamente, Comandante. Mandarei um aviso quando ela estiver operacional."
+
+[S_Support_First_Item_Selected_Shen_01 AkEvent]
+SpokenText="Está em suas mãos, Comandante. Me avise se precisar de mais alguma coisa."
+
+[S_Support_First_Kill_Shen_01 AkEvent]
+SpokenText="Comandante, pode ser que encontremos equipamentos recuperáveis nos corpos dos ADVENT. Qualquer coisa que possamos recuperar será de grande ajuda para fabricar nossas próprias coisas."
+
+[S_Support_First_Time_Construction_Shen AkEvent]
+SpokenText="Há espaço para expandirmos nossas instalações a bordo do Avenger, Comandante, mas precisaremos de mais engenheiros para liberar espaço para a construção primeiro."
+
+[S_Support_Golden_Path_Musings_Advent_Shen_01 AkEvent]
+SpokenText="Até onde posso ver, a tecnologia da ADVENT, junto com a maior parte do que vimos acontecendo nos centros urbanos, é baseada em variações e, em alguns casos, melhorias da tecnologia alienígena existente usada durante a invasão. Felizmente, quanto mais comum isso se tornar, mais fácil será encontrar componentes que possam funcionar em conjunto com os sistemas híbridos do Avenger."
+
+[S_Support_Golden_Path_Musings_Blacksite_Horror_Shen_01 AkEvent]
+SpokenText="Todas essas pessoas, milhões de vidas inocentes caminhando sem saber direto para a armadilha dos alienígenas. Deveríamos ter percebido mais cedo, sabíamos que os alienígenas não podiam ser confiáveis. Mas a mensagem deles sempre foi mais alta do que a nossa, e eles certamente têm muito mais incentivos a oferecer nos centros urbanos do que nós aqui fora. De qualquer forma, não podemos deixar isso continuar, não importa o custo."
+
+[S_Support_Golden_Path_Musings_Dying_Ethereals_Shen_01 AkEvent]
+SpokenText="Não acho que você vai encontrar alguém a bordo desta nave que sinta a menor pena ao ouvir que os Anciões estão morrendo. Se é que algo, a moral provavelmente deu um impulso assim que a notícia se espalhou fora da equipe sênior. Claro, sempre há uma pegadinha - eles sempre têm um plano - e tenho a impressão de que vamos acabar sendo parte da cura deles, gostemos ou não."
+
+[S_Support_Great_Mission_Shen_01 AkEvent]
+SpokenText="Se continuarmos assim, os alienígenas não têm chance, Comandante."
+
+[S_Support_Great_Mission_Shen_02 AkEvent]
+SpokenText="Vamos torcer para que todos sejam assim tão tranquilos, Comandante. Ótimo trabalho."
+
+[S_Support_Great_Mission_Shen_03 AkEvent]
+SpokenText="Bom trabalho, Comandante - sempre é bom para a moral quando acertamos uma missão assim."
+
+[S_Support_Great_Mission_Shen_04 AkEvent]
+SpokenText="Eu me perguntava como o novo equipamento se sairia, Comandante. Parece que está funcionando muito bem."
+
+[S_Support_Great_Mission_Shen_05 AkEvent]
+SpokenText="Fico feliz em ver que nossos novos recrutas não hesitam em enfrentar os alienígenas."
+
+[S_Support_Great_Mission_Shen_06 AkEvent]
+SpokenText="Bom trabalho lá fora, Comandante. Os alienígenas devem estar ficando nervosos agora."
+
+[S_Support_Great_Mission_Shen_07 AkEvent]
+SpokenText="O esquadrão voltou inteiro, e os alienígenas pagaram o preço. Ótimo trabalho, Com
+
+andante."
+
+[S_Support_Great_Mission_Shen_08 AkEvent]
+SpokenText="Não há como os alienígenas estarem esperando uma luta assim. Estou impressionado, Comandante."
+
+[S_Support_Great_Mission_Shen_09 AkEvent]
+SpokenText="Depois de uma missão como essa, os ânimos vão estar lá em cima por aqui. Talvez tenhamos que reabastecer o bar."
+
+[S_Support_Great_Mission_Shen_10 AkEvent]
+SpokenText="Os alienígenas ainda devem estar se perguntando o que aconteceu com eles. Vamos continuar assim, Comandante."
+
+[S_Support_Heavy_Plated_Armor_Shen_01 AkEvent]
+SpokenText="O traje de armadura E.X.O. dá aos nossos soldados o poder necessário para lidar com armas pesadas, com a durabilidade para combinar."
+
+[S_Support_Heavy_Powered_Armor_Shen_01 AkEvent]
+SpokenText="Estamos chamando essa armadura de poder pesado de traje W.A.R. Esta é tão resistente e forte quanto podemos fazer, com muita potência para lidar com armas pesadas."
+
+[S_Support_Light_Plated_Armor_Shen_01 AkEvent]
+SpokenText="O traje Spider aumentará as chances de nossos soldados esquivarem-se de um ataque, ao mesmo tempo que proporciona maior agilidade e capacidade de agarramento."
+
+[S_Support_Light_Powered_Armor_Shen_01 AkEvent]
+SpokenText="Nosso traje mais furtivo, o Wraith, oferece uma variedade de movimentos que tecnicamente violam as leis da física. Também temos um gancho de agarramento, para garantir."
+
+[S_Support_Magnetic_Weapons_Shen_01 AkEvent]
+SpokenText="Essas armas de base magnética são muito parecidas com os primeiros protótipos de railgun, elas disparam projéteis a velocidades extremamente altas."
+
+[S_Support_Medium_Plated_Armor_Shen_01 AkEvent]
+SpokenText="Apropriadamente chamada de armadura Predator, ela dará aos nossos soldados uma maior longevidade no campo."
+
+[S_Support_Medium_Powered_Armor_Shen_01 AkEvent]
+SpokenText="Este é o nosso esqueleto básico para a armadura de poder, proporcionando a durabilidade que se espera de um gigante traje blindado."
+
+[S_Support_Modify_Skulljack_Shen_01 AkEvent]
+SpokenText="Comandante, se realmente quisermos levar vantagem sobre os alienígenas, tenho algumas ideias sobre como podemos modificar o Skulljack para procurar áreas ocultas na rede ADVENT. Não vou mentir para você, nossas tropas terão que executar uma manobra arriscada para fazê-lo funcionar em campo."
+
+[S_Support_More_Engineers_Shen_01 AkEvent]
+SpokenText="Comandante, se encontrar recrutas habilidosos por aí, sempre podemos usar ajuda na Engenharia.
+
+[S_Support_Not_Enough_Comms_Shen AkEvent]
+SpokenText="Comandante, utilizamos toda a nossa capacidade de comunicação disponível, não podemos estabelecer novos contatos até atualizarmos nossos sistemas."
+
+[S_Support_Not_Enough_Power_Shen AkEvent]
+SpokenText="Comandante, nossos sistemas de energia estão no limite, não temos capacidade para expandir nossas instalações ainda mais."
+
+[S_Support_Proving_Ground_Project_First_Shen_01 AkEvent]
+SpokenText="Vou fazer a equipe começar imediatamente, Comandante. Eu te aviso assim que fizermos progresso."
+
+[S_Support_Proving_Ground_Visit_Shen_01 AkEvent]
+SpokenText="Bem-vindo às Proving Grounds, Comandante. Parece uma boa ideia isolar alguns dos nossos conceitos mais experimentais, especialmente quando se trata de desenvolvimento de armas."
+
+[S_Support_Proving_Grounds_Project_Selected_Shen_01 AkEvent]
+SpokenText="Ótimo, Comandante - aviso assim que o projeto estiver pronto para implantação."
+
+[S_Support_Proving_Grounds_Project_Selected_Shen_02 AkEvent]
+SpokenText="Escolha interessante. Avise assim que terminarmos, Comandante."
+
+[S_Support_Proving_Grounds_Project_Selected_Shen_03 AkEvent]
+SpokenText="Começaremos imediatamente, Comandante. Avise quando o projeto estiver concluído."
+
+[S_Support_Psi_Gate_Recovered_Shen AkEvent]
+SpokenText="Comandante, agora que conseguimos trazer o artefato alienígena para a Shadow Chamber, devemos começar a análise o mais rápido possível. É arriscado, mas não vejo outra forma de entender como isso funciona a não ser ativando-o."
+
+[S_Support_Shadow_Chamber_Constructed_Shen AkEvent]
+SpokenText="Comandante, agora que concluímos a Shadow Chamber, poderemos fazer uma análise mais completa dos artefatos e dados alienígenas que recuperamos."
+
+[S_Support_Shadow_Chamber_Nag_Shen AkEvent]
+SpokenText="Comandante, a Shadow Chamber está operacional. Tudo que precisamos fazer agora é usá-la."
+
+[S_Support_Shadow_Chamber_Tactical_UI_First_Shen_01 AkEvent]
+SpokenText="Comandante, a Shadow Chamber analisou os dados e essas são as projeções táticas para a próxima operação no campo."
+
+[S_Support_Staffing_Investment_Shen_01 AkEvent]
+SpokenText="Comandante, quando designamos a equipe de engenharia para uma instalação específica, eles terão que trabalhar lá por um tempo antes de poderem mudar."
+
+[S_Support_Thanks_Workshop_Shen_01 AkEvent]
+SpokenText="Eu sei que o espaço é limitado, Comandante - agradeço pelas instalações adicionais do laboratório. Vamos usá-las bem."
+
+[S_Support_Tough_Mission_Shen_01 AkEvent]
+SpokenText="Isso não correu muito bem. Talvez eu possa melhorar nossas armas ou armaduras de alguma forma, dar melhores chances às nossas tropas."
+
+[S_Support_Tough_Mission_Shen_02 AkEvent]
+SpokenText="Mais algumas missões assim, e os alienígenas terão acabado com o que pouco nos resta."
+
+[S_Support_Tough_Mission_Shen_03 AkEvent]
+SpokenText="Tem que haver algo mais que possamos fazer para ajudar nossas tropas."
+
+[S_Support_Tough_Mission_Shen_04 AkEvent]
+SpokenText="Pensei que estávamos prontos. Vou ter que trabalhar mais - todos nós teremos que trabalhar mais."
+
+[S_Support_Tough_Mission_Shen_05 AkEvent]
+SpokenText="Meus engenheiros estão empenhados em garantir que isso não aconteça novamente, Comandante - faremos tudo o que pudermos."
+
+[S_Support_Unstaffed_Engineer_Shen AkEvent]
+SpokenText="Comandante, agradeço por recrutar novo pessoal para a equipe de engenharia, mas, como está agora, temos pessoas esperando uma atribuição. Podemos tê-las trabalhando em construção, escavação ou ocupando uma instalação."
+
+[S_Support_Urge_Facility_Shen_01 AkEvent]
+SpokenText="Comandante, pode ser que tenhamos que fazer uma limpeza, mas ainda temos espaço para crescer aqui. Devemos considerar construir algumas novas instalações."
+
+[S_Victory_Shen_01 AkEvent]
+SpokenText="Sem os Anciões estabilizando a rede psiônica, tudo está ficando descontrolado! Aquela porta não vai aguentar por muito mais tempo!"
+
+[S_Victory_Shen_02 AkEvent]
+SpokenText="Não foi nada do meu lado. Isso nem deveria ser possível. A menos que..."
+
+[S_Victory_Shen_03 AkEvent]
+SpokenText="Se fizermos isso, corremos o risco de uma sobrecarga completa!"
+
+[S_Victory_Shen_04 AkEvent]
+SpokenText="E uma rede psiónica transdimensional fora de combate."
+
+[S_Welcome_Engineering_Shen_01_Setup_Phase AkEvent]
+SpokenText="Vamos lá, não seja teimoso. Verifiquei as conexões cinco vezes. Por que. Não. Está. Funcionando."
+
+[S_Welcome_Engineering_Shen_02_Setup_Phase AkEvent]
+SpokenText="Comandante! Fazer com que nossa tecnologia converse com a deles é mais difícil do que você pensa. Embora eu tenha certeza de que você, acima de todos, sabe disso."
+
+[S_Welcome_Engineering_Shen_03_Setup_Phase AkEvent]
+SpokenText="Não que eu quisesse... Acho que ainda não fomos apresentados formalmente. Lily Shen, engenheira da nave, à sua disposição. Você provavelmente estava esperando ver meu pai - com tudo o que aconteceu, eu suponho que o Central ainda não tenha te contado."
+
+[S_Welcome_Engineering_Shen_04_Setup_Phase AkEvent]
+SpokenText="Meu pai... deu tudo o que tinha para nos levar até aqui. Esta nave inteira é a obra de sua vida. Eu sei que ele adoraria te mostrar o lugar pessoalmente. Ele costumava falar muito sobre você."
+
+[S_Welcome_Engineering_Shen_05_Setup_Phase AkEvent]
+SpokenText="Você pode ter certeza de que estou pronta para terminar o que ele começou. Posso não parecer, mas a partir daqui, posso fabricar praticamente qualquer coisa que você imaginar. E com
+
+ um pouco mais de ajuda... bem, você ficaria impressionado com o que posso fazer."
+
+[S_Welcome_Engineering_Shen_06_Setup_Phase AkEvent]
+SpokenText="Foi uma honra finalmente te conhecer, Comandante."
+
+[S_Welcome_Engineering_Shen_07_Setup_Phase AkEvent]
+SpokenText="Pronto."
+
+[S_What_he_Said_Shen AkEvent]
+SpokenText="O que ele disse."

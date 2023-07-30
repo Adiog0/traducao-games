@@ -1,0 +1,1738 @@
+[CEN_AvengerDefense_ClearForTakeoff AkEvent]
+SpokenText="Comandante, podemos decolar quando quiser. Devemos embarcar o esquadrão a bordo e partir."
+
+[CEN_AvengerDefense_ClearForTakeoffHL AkEvent]
+SpokenText="Perdemos alguns bons lutadores lá fora, Comandante - devemos fazer o possível para trazer o restante do esquadrão de volta para o Avenger - mas não podemos nos dar ao luxo de perder esta nave, nem mesmo por eles."
+
+[CEN_AvengerDefense_DisruptorDestroyed AkEvent]
+SpokenText="Alvo destruído. Excelente trabalho, Ameaça 1-5. Shen, qual é o nosso status?"
+
+[CEN_AvengerDefense_FailureSquadWipe AkEvent]
+SpokenText="Comandante... perdemos a equipe de ataque. Não há mais ninguém para defender a nave."
+
+[CEN_AvengerDefense_FirstBoardingWarning02 AkEvent]
+SpokenText="Vocês ouviram ela. Ameaça 1-5, eliminem qualquer coisa que tente embarcar na nave. Não permitam que entrem, custe o que custar."
+
+[CEN_AvengerDefense_ForcesExhausted AkEvent]
+SpokenText="Comandante, estamos sem reservas! Não há mais reforços chegando!"
+
+[CEN_AvengerDefense_HeavyLosses AkEvent]
+SpokenText="Comandante, estamos perdendo muitos bons soldados lá embaixo, mas não podemos desistir agora. Temos que fazer o Avenger decolar, custe o que custar."
+
+[CEN_AvengerDefense_HLOnExtract AkEvent]
+SpokenText="Comandante, você sabe que eu daria minha própria vida por qualquer um dos nossos soldados, mas salvar esta nave é maior do que qualquer soldado individual. Não podemos arriscar, se tivermos que sair, talvez tenhamos que deixá-los para trás."
+
+[CEN_AvengerDefense_HostileInThreatZone AkEvent]
+SpokenText="Comandante, temos um alvo hostil na posição para embarcar na nave!"
+
+[CEN_AvengerDefense_HostileKilledClear AkEvent]
+SpokenText="Esse é o último deles, Comandante, eliminamos os hostis restantes que ameaçavam a nave."
+
+[CEN_AvengerDefense_HostileKilledRemaining AkEvent]
+SpokenText="Um abatido, mas ainda temos hostis ameaçando a nave."
+
+[CEN_AvengerDefense_Intro01 AkEvent]
+SpokenText="Ameaça 1-5, situação crítica - os principais sistemas do Avenger estão desativados e os hostis estão se aproximando para atacar. Shen, alguma atualização?"
+
+[CEN_AvengerDefense_Intro03 AkEvent]
+SpokenText="Podemos ter um problema maior, Comandante. Estamos interceptando uma grande atividade de comunicações - dezenas de transportes da ADVENT estão se aproximando de nossa posição - e eles estão acompanhados de naves de batalha. Os alienígenas estão enviando tudo o que têm - temos que fazer essa nave decolar ou talvez não sairemos vivos dessa."
+
+[CEN_AvengerDefense_MultipleHostilesInThreatZone AkEvent]
+SpokenText="Comandante, temos múltiplos alvos hostis na posição para embarcar no Avenger! Temos que eliminá-los!"
+
+[CEN_AvengerDefense_OutroSuccess AkEvent]
+SpokenText="Excelente trabalho, Comandante - parece que o Avenger viverá para lutar outro dia."
+
+[CEN_AvengerDefense_OutroSuccess_HL AkEvent]
+SpokenText="Pagamos um preço alto para salvar esta nave, Comandante - vamos garantir que os alienígenas saibam que valeu a pena."
+
+[CEN_AvengerDefense_PDisruptorSighted_StillHidden AkEvent]
+SpokenText="Ameaça 1-5, temos confirmação visual do disruptor. Destrua-o e vamos sair daqui antes que seja tarde demais."
+
+[CEN_AvengerDefense_RNFFirst AkEvent]
+SpokenText="Comandante, a situação acabou de piorar. Os postos avançados da resistência relatam que os transportes inimigos estão se movendo por toda a região. Eles estão se preparando para um ataque em massa."
+
+[CEN_AvengerDefense_RNFInbound AkEvent]
+SpokenText="Comandante, reforços inimigos a caminho."
+
+[CEN_AvengerDefense_ShipBoarded02 AkEvent]
+SpokenText="Não podemos mais segurá-los! Os hostis estão invadindo a nave - perdemos o controle. Foi uma honra, Comandante."
+
+[CEN_AvengerDefense_XCOMReinforced AkEvent]
+SpokenText="Comandante, estou enviando reforços das reservas do Avenger."
+
+[CEN_AvengerDefenseX_Intro01 AkEvent]
+SpokenText="Temos uma situação aqui. Os alienígenas estão tentando atacar novamente o Avenger - eles lançaram um pico disruptor para nos manter no chão. Já vimos isso antes, Comandante, vamos torcer para que eles não tenham mudado suas táticas."
+
+[CEN_AvengerDefenseX_Intro03 AkEvent]
+SpokenText="Comandante, temos naves de batalha e transportes da ADVENT se aproximando de nossa posição. Ameaça 1-5, vamos encontrar aquele disruptor e destruí-lo. Sobrevivemos a isso uma vez, podemos fazer de novo."
+
+[CEN_AvengerDefenseX_PDisruptorSighted_StillHidden AkEvent]
+SpokenText="Ameaça 1-5, temos confirmação visual do disruptor. Destrua-o, e Shen deve ser capaz de nos fazer decolar novamente."
+
+[CEN_Blacksite_AdviseRetreat AkEvent]
+SpokenText="Comandante, a equipe de ataque está sendo destroçada e ainda não conseguimos garantir o recipiente. Devemos considerar abortar a operação."
+
+[CEN_Blacksite_FailureAbort AkEvent]
+SpokenText="Reconhecido. Comandante, você sabe que apoio sua decisão de abortar a operação, mas pode ser algum tempo antes de termos outra chance em uma dessas instalações. Temos que fazer a próxima valer a pena."
+
+[CEN_Blacksite_FailureAbortHL AkEvent]
+SpokenText="Status confirmado. Comandante, infelizmente não fomos capazes de infiltrar o local da Base Negra, mas apoio sua decisão de recuar considerando a situação no terreno."
+
+[CEN_Blacksite_FailureSquadWipe AkEvent]
+SpokenText
+
+="Comandante, é isso... perdemos o esquadrão."
+
+[CEN_Blacksite_Intro AkEvent]
+SpokenText="Confirmamos que a Base Negra está nas proximidades. Infiltre e investigue a área. Espere resistência pesada, neutralize todos os contatos hostis."
+
+[CEN_Blacksite_Mission_STObjAcquired AkEvent]
+SpokenText="Confirmamos aquisição do recipiente, mova-se para o ponto de extração."
+
+[CEN_Blacksite_Mission_STObjDropped AkEvent]
+SpokenText="Perdemos o controle do recipiente, recupere-o a todo custo - temos que descobrir o que os alienígenas estão fazendo aqui."
+
+[CEN_Blacksite_SecureRetreat AkEvent]
+SpokenText="Comandante, conseguimos o que viemos buscar aqui. O contra-ataque inimigo só vai piorar. Devemos tirar nossas pessoas daqui."
+
+[CEN_Blacksite_STObjDropped AkEvent]
+SpokenText="Perdemos a posse do recipiente. Recupere-o imediatamente. Não podemos permitir que os alienígenas tenham vantagem aqui."
+
+[CEN_Blacksite_STObjReacquired AkEvent]
+SpokenText="Reaquisição do recipiente, confirmada."
+
+[CEN_Blacksite_STObjSpotted AkEvent]
+SpokenText="Ameaça 1-5, alvo à vista. Mova-se para hackear o console de comando."
+
+[CEN_DObj_FailureAbort_01 AkEvent]
+SpokenText="Status de aborto confirmado, Comandante. Perder a Área de Operações e o Relé pode custar-nos a longo prazo, mas dadas as circunstâncias no terreno, as vidas de nossas tropas têm prioridade."
+
+[CEN_DObj_FailureAbort_02 AkEvent]
+SpokenText="Reconhecido. Comandante, abandonar a Área de Operações e o relé alienígena pode acabar custando-nos, mas dadas as circunstâncias no terreno, concordo com sua decisão de recuar."
+
+[CEN_DObj_FailureAbortHL_01 AkEvent]
+SpokenText="Reconhecido. Comandante, não conseguimos destruir o relé ou impedir os alienígenas de fazer o upload em sua rede, mas pelo menos conseguimos salvar o que pudemos para voltar lutando na próxima vez."
+
+[CEN_DObj_FailureAbortHL_02 AkEvent]
+SpokenText="Status de aborto confirmado. Não haverá argumentos de mim, Comandante - perder o Relé e a Área de Operações pode nos prejudicar, mas a vida de nosso pessoal vem em primeiro lugar."
+
+[CEN_DObj_FailureSquadWipe_01 AkEvent]
+SpokenText="Comandante, a missão foi um fracasso - perdemos o Relé e a Área de Operações, mas, o que é mais importante, alguns de nossos melhores soldados caíram na luta. Teremos que encontrar maneiras de garantir que isso não aconteça novamente."
+
+[CEN_DObj_FailureSquadWipe_02 AkEvent]
+SpokenText="Comandante, perdemos o esquadrão de ataque e falhamos em adquirir o objetivo-alvo. Não podemos nos dar ao luxo de ter muitas operações como esta."
+
+[CEN_DObj_Intro AkEvent]
+SpokenText="Ameaça 1-5, a torre de comunicações está adiante. Mova-se para destruir o alvo."
+
+[CEN_DObj_ProceedToSweep AkEvent]
+SpokenText="Perdemos nossa oportunidade de desativar o Relé, mas ainda podemos garantir a segurança da área circundante. Limpe a Área de Operações e elimine todos os hostis restantes."
+
+[CEN_DObj_STObjDestroyed AkEvent]
+SpokenText="Ameaça 1-5, o relé está inoperante, mas inimigos hostis estão a caminho através de transporte da ADVENT. Elimine todos os hostis restantes e todos os reforços."
+
+[CEN_DObj_STObjSpotted AkEvent]
+SpokenText="Comandante, temos uma identificação positiva do relé alienígena."
+
+[CEN_DObj_STWin AkEvent]
+SpokenText="Missão cumprida, Comandante. Acabamos de atingir a ADVENT onde mais dói. Este era um lugar que nenhum ser humano vivo deveria ver. Por mais feliz que eu esteja de vê-lo destruído, algo me diz que os alienígenas não vão aceitar isso de braços cruzados."
+
+[CEN_DObj_STWin_HL AkEvent]
+SpokenText="Status confirmado. Comandante, nós nos infiltramos na instalação e recuperamos uma amostra do que quer que eles estejam produzindo lá dentro, mas pagamos um alto preço no processo."
+
+[CEN_DObj_TimerBurnout AkEvent]
+SpokenText="Comandante, é tarde demais, os alienígenas completaram a transmissão e encerraram a conexão. Perdemos nossa chance."
+
+[CEN_DObj_TimerNagLast AkEvent]
+SpokenText="O sinal da transmissão está enfraquecendo, eles quase terminaram a transferência! Esta é sua última chance de destruir aquele Relé!"
+
+[CEN_DObj_TimerNagThree AkEvent]
+SpokenText="A transmissão alienígena ainda está ativa e estamos ficando sem tempo. Chegue até o Relé e destrua-o o mais rápido possível!"
+
+[CEN_DObj_TimerStarted AkEvent]
+SpokenText="O relé está transmitindo diretamente para a rede da ADVENT. Você precisa destruí-lo e interromper qualquer comunicação adicional!"
+
+[CEN_DObj_Twin_01 AkEvent]
+SpokenText="Status confirmado. Comandante, garantimos a segurança da área, mas não conseguimos evitar que a transmissão alienígena fosse concluída. Devemos permanecer em alerta."
+
+[CEN_DObj_Twin_02 AkEvent]
+SpokenText="Reconhecido. Ótimo trabalho, Ameaça 1-5. É lamentável que não tenhamos conseguido evitar que os alienígenas completassem a transmissão, mas devemos permanecer alerta."
+
+[CEN_DObj_TWin_HL_01 AkEvent]
+SpokenText="Reconhecido. Comandante, conseguimos garantir a segurança da área circundante, mas pagamos um alto preço. Também falhamos em impedir a transmissão, vamos torcer para que isso não volte para nos assombrar."
+
+[CEN_DObj_TWin_HL_02 AkEvent]
+SpokenText="Reconhecido. Comandante, conseguimos garantir
+
+ a segurança da Área de Operações, mas sofremos baixas significativas no processo. Também não conseguimos impedir que a transmissão fosse concluída."
+
+[CEN_ExtrGEN_EndMission AkEvent]
+SpokenText="Ameaça 1-5, confirmado. Encontre-se com Firebrand para extração imediata."
+
+[CEN_ExtrGEN_FailureSquadWipe AkEvent]
+SpokenText="Comandante, o esquadrão de ataque foi aniquilado. Perdemos o VIP."
+
+[CEN_ExtrGEN_HeavyLosses AkEvent]
+SpokenText="Comandante, o esquadrão de ataque está sendo massacrado lá fora, corremos o risco de perder a equipe."
+
+[CEN_ExtrGEN_Intro_01 AkEvent]
+SpokenText="Ameaça 1-5, coordenadas do alvo chegando. Garanta a segurança do VIP e siga para o ponto de EXTRAÇÃO."
+
+[CEN_ExtrGEN_ProceedToSweep AkEvent]
+SpokenText="Ameaça 1-5, elimine os alvos hostis conforme necessário para chegar ao ponto de EXTRAÇÃO. Status de aborto da missão em andamento."
+
+[CEN_ExtrGEN_STObjDestroyed AkEvent]
+SpokenText="Status confirmado. Alvo eliminado."
+
+[CEN_ExtrGEN_STWin AkEvent]
+SpokenText="Comandante, o esquadrão de ataque extraiu com sucesso o VIP e devastou as forças inimigas na área. Os alienígenas não vão esquecer disso."
+
+[CEN_ExtrGEN_STWin_HL AkEvent]
+SpokenText="Comandante, o esquadrão de ataque assegurou o alvo e eliminou toda a oposição local. Isso nos custou caro, perdemos alguns bons soldados hoje."
+
+[CEN_ExtrGEN_SWin AkEvent]
+SpokenText="Comandante, conseguimos garantir a segurança do VIP, mas fomos forçados a ceder a Área de Operações para as forças inimigas. Esperamos que a ADVENT não se vingue da população aqui."
+
+[CEN_ExtrGEN_SWin_HL AkEvent]
+SpokenText="Comandante, tivemos que abrir mão do controle da Área de Operações, mas conseguimos garantir o VIP. Sofremos algumas perdas dolorosas hoje. Vamos garantir que isso tenha valido a pena."
+
+[CEN_ExtrGEN_TWin AkEvent]
+SpokenText="Comandante, perdemos o alvo, mas o esquadrão de ataque conseguiu eliminar as forças inimigas e garantir a Área de Operações."
+
+[CEN_ExtrGEN_TWin_HL AkEvent]
+SpokenText="Comandante, perdemos o alvo e parte do esquadrão de ataque. Felizmente, conseguimos garantir a área e extrair nossas forças restantes."
+
+[CEN_ExtrGEN_VIPsecure AkEvent]
+SpokenText="Confirmado, o VIP está seguro."
+
+[CEN_FlightDevice_IfReinforcements AkEvent]
+SpokenText="Parece que a ADVENT não quer abrir mão desse dispositivo sem lutar. Reforços inimigos estão se aproximando..."
+
+[CEN_FlightDevice_Intro AkEvent]
+SpokenText="Comandante, localizamos o dispositivo, mas parece que ele pode ter sido danificado durante a luta. As leituras de energia estão ficando instáveis, eu diria que não temos muito tempo antes que ele exploda."
+
+[CEN_FlightDevice_Intro_alta AkEvent]
+SpokenText="Comandante, localizamos o dispositivo, mas parece que ele pode ter sido danificado durante a luta. As leituras de energia estão ficando instáveis, eu diria que não temos muito tempo antes que ele exploda."
+
+[CEN_FlightDevice_TimerNagLast AkEvent]
+SpokenText="Comandante, o conversor está prestes a entrar em colapso. Ele está prestes a explodir!"
+
+[CEN_FlightDevice_TimerNagThree AkEvent]
+SpokenText="Comandante, estamos ficando sem tempo aqui. Se não estabilizarmos o conversor em breve, acho que ninguém vai sair vivo hoje..."
+
+[CEN_FlightDevice_TimerStarted AkEvent]
+SpokenText="Shen está trabalhando em uma maneira de estabilizá-lo, desde que possamos chegar perto o suficiente para acessar seu núcleo. Mantenha-se nas sombras até que possamos obter uma leitura mais precisa da situação."
+
+[CEN_FlightDeviceRevealMatinee AkEvent]
+SpokenText="As comunicações com as forças da resistência na área se apagaram... o que só pode significar uma coisa. Essas pessoas sacrificaram tudo para nos dar essa chance. Precisamos recuperar esse conversor custe o que custar."
+
+[CEN_Forge_AdviseRetreat AkEvent]
+SpokenText="
+
+Comandante! O esquadrão de ataque está sendo desmantelado lá embaixo, e não garantimos o objetivo. Devemos considerar abortar a operação e esperar por outra oportunidade."
+
+[CEN_Forge_Intro AkEvent]
+SpokenText="Aqui é a Avenger. A instalação está ao alcance, avance para investigar."
+
+[CEN_Forge_MissionFailure AkEvent]
+SpokenText="Infelizmente, perdemos nossa chance de agir nesta instalação, Comandante. Espero apenas que tenhamos outra oportunidade."
+
+[CEN_Forge_MissionSquadWipe AkEvent]
+SpokenText="Comandante, perdemos o esquadrão de ataque, um grande revés para a nossa operação. Precisaremos estar melhor preparados se tivermos outra chance."
+
+[CEN_Forge_PrototypeReacquired AkEvent]
+SpokenText="Reaquisição confirmada da amostra. Leve-a para o ponto de extração."
+
+[CEN_Forge_SecureRetreat AkEvent]
+SpokenText="Comandante, conseguimos o que viemos buscar. É provável que o inimigo continue enviando reforços, então devemos retirar nossas tropas."
+
+[CEN_Forge_STObjAcquired AkEvent]
+SpokenText="Confirmação de aquisição do pacote. Avance para a EXTRAÇÃO."
+
+[CEN_Forge_STObjDropped AkEvent]
+SpokenText="Perdemos a posse da amostra da ADVENT - recupere-a o mais rápido possível - não podemos permitir que eles tomem o controle dessa situação!"
+
+[CEN_Forge_STObjSpotted AkEvent]
+SpokenText="Aqui é a Avenger. O pacote está ao alcance."
+
+[CEN_Forge_TacOutro AkEvent]
+SpokenText="Conseguimos o que viemos buscar, vamos sair da área."
+
+[CEN_Fortress_AvatarKill_01 AkEvent]
+SpokenText="Esse é mais um Avatar a menos, e mais um Ancião a menos. Continue assim."
+
+[CEN_Fortress_AvatarKill_02 AkEvent]
+SpokenText="Eles não são tão fortes quanto parecem. Você consegue lidar com isso."
+
+[CEN_Fortress_AvatarKill_03 AkEvent]
+SpokenText="Eles estão acabados, excelente trabalho, Comandante."
+
+[CEN_Fortress_DarkAvatarDied AkEvent]
+SpokenText="Chegamos longe demais para acabar assim."
+
+[CEN_Gen_AdviseRetreat_01 AkEvent]
+SpokenText="Comandante, cuidamos do alvo principal - se falharmos em estabelecer o controle da Área de Operações, corremos o risco de perder recursos, mas estamos sofrendo pesadas baixas. Deveríamos considerar abandonar a Área de Operações e retirar o esquadrão."
+
+[CEN_Gen_AdviseRetreat_02 AkEvent]
+SpokenText="Comandante, adquirimos o objetivo da missão. Se falharmos em estabelecer o controle da Área de Operações, perderemos recursos valiosos, mas estamos sofrendo pesadas baixas lá embaixo. Eu aconselharia considerar abandonar a Área de Operações e retirar o esquadrão."
+
+[CEN_Gen_AdviseRetreat_03 AkEvent]
+SpokenText="Comandante, adquirimos o objetivo principal. Se falharmos em estabelecer o controle da Área de Operações, perderemos recursos valiosos - mas estamos sofrendo pesadas baixas lá embaixo. Eu aconselharia considerar abandonar a Área de Operações e retirar o esquadrão."
+
+[CEN_Gen_AdviseRetreat_04 AkEvent]
+SpokenText="Comandante, sofremos algumas perdas críticas nesta operação, aconselho a considerar abandonar a missão. O objetivo não vale a vida de nossas pessoas."
+
+[CEN_Gen_AreaSecured_01 AkEvent]
+SpokenText="Status confirmado - área segura."
+
+[CEN_Gen_AreaSecured_02 AkEvent]
+SpokenText="Confirmação positiva - área segura."
+
+[CEN_Gen_AreaSecured_03 AkEvent]
+SpokenText="Aqui é a Avenger. Status confirmado - Área Segura."
+
+[CEN_Gen_AreaSecured_04 AkEvent]
+SpokenText="Status confirmado, área segura."
+
+[CEN_Gen_BurnoutSecured_01 AkEvent]
+SpokenText="Status confirmado. Todos os hostis foram eliminados, área segura."
+
+[CEN_Gen_BurnoutSecured_02 AkEvent]
+SpokenText="Status confirmado, todos os hostis foram eliminados e a área está segura."
+
+[CEN_Gen_BurnoutSecured_03 AkEvent]
+SpokenText="Entendido, todos os hostis na Área de Operações foram eliminados. Área segura."
+
+[CEN_Gen_ConsiderRetreat_01 AkEvent]
+SpokenText="Comandante, não podemos nos dar ao luxo de sofrer perdas como essas, o objetivo não vale as vidas de nossas tropas restantes. Eu recomendaria abortar enquanto ainda podemos."
+
+[CEN_Gen_ConsiderRetreat_02 AkEvent]
+SpokenText="Comandante, sofremos perdas devastadoras, eu consideraria cancelar a missão. Não podemos nos dar ao luxo de perder nossas melhores tropas na busca desse objetivo."
+
+[CEN_Gen_ConsiderRetreat_03 AkEvent]
+SpokenText="Comandante, sofremos perdas devastadoras nesta operação. Eu aconselho você a considerar abortar, não podemos nos dar ao luxo de perder alguns de nossos melhores soldados na busca desse objetivo."
+
+[CEN_Gen_ConsiderRetreat_04 AkEvent]
+SpokenText="Comandante, sofremos perdas críticas nesta operação, eu aconselharia considerar cancelar a missão. O objetivo não vale a vida de nosso pessoal."
+
+[CEN_Gen_SecureRetreat_01 AkEvent]
+SpokenText="Comandante, estamos perdendo o controle da Área de Operações e nossas forças também! Aconselho fortemente que consideremos retirar o esquadrão!"
+
+[CEN_Gen_SecureRetreat_02 AkEvent]
+SpokenText="Comandante, estamos perdendo o controle da Área de Operações rapidamente. O esquadrão está sendo desmantelado. Deveríamos considerar retirar o esquadrão para reagrupar."
+
+[CEN_Gen_SecureRetreat_03 AkEvent]
+SpokenText="Comand
+
+ante, estamos perdendo o controle da Área de Operações rapidamente. Deveríamos considerar retirar o esquadrão e reagrupar."
+
+[CEN_Hack_FailureAbort AkEvent]
+SpokenText="Status confirmado. Embora não tenhamos conseguido limpar a Área de Operações ou garantir os dados que buscávamos, respeito sua decisão de abortar antes que as coisas piorassem demais, Comandante."
+
+[CEN_Hack_FailureAbortHL AkEvent]
+SpokenText="Reconhecido. Infelizmente, não podemos encarar isso como outra coisa senão um revés, Comandante. Perdemos algumas pessoas boas hoje e falhamos em alcançar nossos objetivos. Temos que fazer melhor, ou não teremos muitas oportunidades como essa."
+
+[CEN_Hack_FailureSquadWipe AkEvent]
+SpokenText="Comandante, perdemos o esquadrão inteiro, falhamos em adquirir os arquivos-alvo e nunca conseguimos garantir a área de operações. Não podemos nos dar ao luxo de sofrer perdas como essa."
+
+[CEN_Hack_Intro AkEvent]
+SpokenText="Menace 1-5, aqui é a Avenger. O ponto de acesso que buscamos está logo à frente. Avance para garantir a área, espere resistência hostil."
+
+[CEN_Hack_StratObjBurnedOut AkEvent]
+SpokenText="Perdemos nossa chance de recuperar dados da rede da ADVENT, mas ainda podemos eliminar os alienígenas. Menace 1-5, prossiga para limpar a Área de Operações e eliminar quaisquer alvos remanescentes."
+
+[CEN_Hack_STWin AkEvent]
+SpokenText="Reconhecido, Menace 1-5. Temos confirmação positiva dos arquivos da ADVENT e a Área de Operações está segura. Bom trabalho lá fora."
+
+[CEN_Hack_STWin_HL AkEvent]
+SpokenText="Reconhecido, Menace 1-5. Conseguimos o que viemos buscar, mas pagamos um preço alto. Teremos que trabalhar mais duro da próxima vez."
+
+[CEN_Hack_SWin AkEvent]
+SpokenText="Status confirmado, Menace 1-5. Embora não tenhamos garantido a área, ainda conseguimos recuperar os dados da ADVENT que buscávamos."
+
+[CEN_Hack_SWin_HL AkEvent]
+SpokenText="Reconhecido. Pagamos um preço alto para recuperar os dados da ADVENT, Comandante. Devemos rever nossas táticas e ver se podemos melhorar no futuro."
+
+[CEN_Hack_TerminalDestroyed_EnemyRemain AkEvent]
+SpokenText="Comandante, o ponto de acesso que estávamos buscando foi destruído. Não conseguiremos entrar na rede deles desta vez. Ainda devemos garantir a área e eliminar os inimigos restantes."
+
+[CEN_Hack_TerminalDestroyed_MissionOver AkEvent]
+SpokenText="Comandante, o ponto de acesso exposto foi destruído. Perdemos nossa oportunidade de adquirir os dados alienígenas."
+
+[CEN_Hack_TerminalHacked AkEvent]
+SpokenText="Menace 1-5, confirmação da aquisição bem-sucedida dos dados da ADVENT. Esteja ciente de que forças hostis estão a caminho da sua posição. Elimine a oposição local e quaisquer tropas de reforço."
+
+[CEN_Hack_TerminalSpotted AkEvent]
+SpokenText="Comandante, temos confirmação do ponto de acesso exposto."
+
+[CEN_Hack_TimerBurnout AkEvent]
+SpokenText="Leituras do transponder da rede ADVENT estão apagadas. As forças inimigas bloquearam o terminal."
+
+[CEN_Hack_TimerNagLast AkEvent]
+SpokenText="Menace 1-5, o terminal da Rede ADVENT está se desligando. Esta é a sua última chance de garantir os dados!"
+
+[CEN_Hack_TimerNagThree AkEvent]
+SpokenText="Menace 1-5, a rede ADVENT está quase completamente bloqueada. Estamos ficando sem tempo, chegue ao terminal!"
+
+[CEN_Hack_TimerStarted AkEvent]
+SpokenText="Menace 1-5, a ADVENT começou a bloquear o acesso à rede nessa área. Você precisa se mover rapidamente, nossa janela de oportunidade está se fechando."
+
+[CEN_Hack_TWin AkEvent]
+SpokenText="Status confirmado, Menace 1-5. Infelizmente, perdemos os dados da ADVENT, mas por enquanto, esta área está segura."
+
+[CEN_Hack_TWin_HL AkEvent]
+SpokenText="Roger, Menace 1-5. Embora tenhamos garantido a área, não conseguimos obter os dados da ADVENT que buscávamos. Também perdemos alguns bons soldados no processo - devemos revisar nossas táticas, Comandante - garantir que isso não aconteça novamente."
+
+[CEN_Intro AkEvent]
+SpokenText="Vocês todos sabem por que estamos aqui e o que está em jogo. Siga a liderança do Comandante, elimine os Avatares e acabe com essa guerra de uma vez por todas."
+
+[CEN_Neut_AdviseRetreat AkEvent]
+SpokenText="Comandante, estamos sofrendo pesadas baixas lá embaixo. Garantimos o alvo, mas o esquadrão ainda está em risco. Aconselho a recuar antes que seja tarde demais."
+
+[CEN_Neut_FailureAbort AkEvent]
+SpokenText="Entendido. Ninguém questiona sua decisão de abortar a operação, Comandante, mas não sei quando teremos outra chance de atacar um dos portais deles."
+
+[CEN_Neut_FailureAbortHL AkEvent]
+SpokenText="Status confirmado. Comandante, falhamos em garantir o portal e sofremos pesadas baixas no processo. Se tivermos outra chance disso, temos que estar melhor preparados."
+
+[CEN_Neut_FailureSquadWipe AkEvent]
+SpokenText="Status Black Confirmado. Comandante, perdemos o esquadrão e qualquer chance que tínhamos de garantir aquele portal junto com eles."
+
+[CEN_Neut_Intro AkEvent]
+SpokenText="Menace 1-5, localização do alvo confirmada, avance para o combate. Elimine todos os contatos hostis."
+
+[CEN_Neut_ProceedToSweep AkEvent]
+SpokenText="Entendido. Menace 1-5, garanta a Área de Operações e elimine todos os inimigos restantes."
+
+[CEN_Neut_RecoverTarget AkEvent]
+SpokenText="Menace 1-5, proceda para o ponto de encontro para a entrega do pacote."
+
+[CEN_Neut_SecureRetreat AkEvent]
+SpokenText="Comandante, estamos perdendo o controle da área, o esquadrão está sofrendo muito lá embaixo. Precisamos garantir o alvo e tirar nossas pessoas de lá rapidamente."
+
+[CEN_Neut_SFailProceedToSweep AkEvent]
+SpokenText="Podemos ter perdido o alvo, mas ainda podemos fazer a diferença aqui. Elimine todos os hostis restantes e as forças da resistência podem garantir a área para recuperação."
+
+[CEN_Neut_STWin AkEvent]
+SpokenText="Status confirmado. Comandante, garantimos o alvo e eliminamos toda a oposição hostil na Área de Operações. Excelente trabalho lá fora."
+
+[CEN_Neut_STWin_HL AkEvent]
+SpokenText="Status confirmado. Comandante, garantimos a Área de Operações e lidamos com o alvo VIP, mas pagamos um preço alto por isso."
+
+[CEN_Neut_SWin AkEvent]
+SpokenText="Status confirmado. Perdemos o controle da Área de Operações, mas conseguimos recuperar o alvo VIP com sucesso."
+
+[CEN_Neut_SWin_HL AkEvent]
+SpokenText="Status confirmado. Comandante, embora tenhamos conseguido recuperar o alvo VIP, perdemos o controle da Área de Operações e sofremos pesadas baixas no processo. Perdemos algumas pessoas boas lá fora hoje."
+
+[CEN_Neut_TargetEscaped AkEvent]
+SpokenText="O alvo foi garantido pelas forças inimigas. Perdemos nossa oportunidade."
+
+[CEN_Neut_TargetInCustody AkEvent]
+SpokenText="Status confirmado, pacote do alvo em custódia."
+
+[CEN_Neut_TargetKilled AkEvent]
+SpokenText="Status confirmado, alvo eliminado."
+
+[CEN_Neut_TargetLost AkEvent]
+SpokenText="Status confirmado, alvo perdido."
+
+[CEN_Neut_TargetSpotted AkEvent]
+SpokenText="Identidade do alvo confirmada."
+
+[CEN_Neut_TWin AkEvent]
+SpokenText="Status confirmado. Comandante, garantimos a área, mas infelizmente o inimigo conseguiu extrair com sucesso o alvo VIP."
+
+[CEN_Neut_TWin_HL AkEvent]
+SpokenText="Entendido, Comandante. Sofremos baixas significativas hoje, e o inimigo conseguiu extrair o VIP-alvo da área. No entanto, conseguimos garantir a segurança da região para a resistência."
+
+[CEN_PsiGate_AdviseRetreat AkEvent]
+SpokenText="Comandante, a situação é grave. Estamos sofrendo baixas pesadas e não está parecendo bom. Eu aconselho fortemente considerar abortar a operação. A vida de nossos soldados é inestimável, e podemos esperar por outra oportunidade."
+
+[CEN_PsiGate_AllEnemiesDefeated AkEvent]
+SpokenText="Confirmado, Comandante. Todos os contatos hostis na área foram eliminados. O portal psíquico está agora seguro."
+
+[CEN_PsiGate_AreaSecured AkEvent]
+SpokenText="Status confirmado. O objetivo está seguro, e temos controle do portal."
+
+[CEN_PsiGate_FailureAbort AkEvent]
+SpokenText="Entendido. É uma decisão difícil, mas às vezes precisamos priorizar a segurança de nossas tropas. Abortar a operação foi a escolha certa, Comandante, mas pode ser que não tenhamos outra chance em um dos portais tão cedo."
+
+[CEN_PsiGate_FailureAbortHL AkEvent]
+SpokenText="Status confirmado. Não conseguimos garantir o portal psíquico e sofremos baixas significativas no processo. Se tivermos outra oportunidade, precisamos estar melhor preparados."
+
+[CEN_PsiGate_FailureSquadWipe AkEvent]
+SpokenText="Status negro confirmado. Perdemos o esquadrão e, junto com eles, qualquer chance de garantir o portal. Um fracasso custoso, Comandante."
+
+[CEN_PsiGate_Intro AkEvent]
+SpokenText="Menace 1-5, siga para as coordenadas-alvo. Investigar o local, mas esteja preparado para resistência hostil."
+
+[CEN_PsiGate_MissionFailure AkEvent]
+SpokenText="Comandante, perdemos uma oportunidade valiosa com o portal psíquico. Devemos aprender com isso e estar melhor preparados na próxima vez que tentarmos rastrear o Codex."
+
+[CEN_PsiGate_STObjSpotted AkEvent]
+SpokenText="Aqui é o Avenger. As coordenadas-alvo estão dentro do alcance."
+
+[CEN_PsiGate_STWin AkEvent]
+SpokenText="Status confirmado. Menace 1-5, garantimos com sucesso o portal psíquico, e as equipes de recuperação estão a caminho do local. Agora cabe a Tygan e Shen descobrir o que essa coisa faz."
+
+[CEN_PsiGate_STWin_HL AkEvent]
+SpokenText="Status confirmado. Garantimos o portal psíquico alienígena, mas isso teve um custo. Perdemos alguns bons soldados no processo, Comandante."
+
+[CEN_Reco_FailureAbort AkEvent]
+SpokenText="Comandante, não conseguimos garantir a área de operações ou o pacote alvo, mas eu apoio sua decisão de retirar as tropas antes da situação piorar."
+
+[CEN_Reco_FailureAbortHL AkEvent]
+SpokenText="Confirmado. As coisas pioraram rapidamente, Comandante. Abortar a operação foi a escolha certa, e pelo menos conseguimos salvar alguém do tormento."
+
+[CEN_Reco_FailureSquadWipe AkEvent]
+SpokenText="Comandante, se pretendemos vencer esta guerra, precisamos fazer melhor. Perdemos o esquadrão e não alcançamos nossos objetivos."
+
+[CEN_Reco_ProceedToSweep AkEvent]
+SpokenText="Confirmado. Menace 1-5, garanta a área de operações e elimine qualquer hostil restante."
+
+[CEN_Reco_STObjAcquired AkEvent]
+SpokenText="Menace 1-5, temos um transporte ADVENT a caminho. Elimine qualquer oposição local e todas as tropas de reforço. Firebrand está posicionado para extrair o pacote, se necessário."
+
+[CEN_Reco_STObjDestroyed_EnemyRemain AkEvent]
+SpokenText="Comandante, o pacote foi destruído. Menace 1-5, limpe a área e elimine todos os hostis restantes."
+
+[CEN_Reco_STObjDestroyed_MissionOver AkEvent]
+SpokenText="Comandante, o pacote foi destruído."
+
+[CEN_Reco_STObjReacquired AkEvent]
+SpokenText="Menace 1-5, confirmamos a recuperação do pacote."
+
+[CEN_Reco_STWin AkEvent]
+SpokenText="Status confirmado. O pacote alvo está seguro, e a área circundante está sob controle. Bom trabalho."
+
+[CEN_Reco_STWin_HL AkEvent]
+SpokenText="Confirmado. Garantimos a área e o pacote alvo, mas sofremos pesadas baixas no processo. Vamos torcer para que os sacrifícios tenham valido a pena."
+
+[CEN_Reco_SWin AkEvent]
+SpokenText="Status confirmado. Embora tenhamos perdido o controle da área de operações, conseguimos recuperar com sucesso o pacote alvo."
+
+[CEN_Reco_SWin_HL AkEvent]
+SpokenText="Confirmado, Menace 1-5. Conseguimos recuperar o pacote-alvo, mas pagamos um preço alto por isso. Não podemos nos dar ao luxo de ter muitas operações como esta, Comandante."
+
+[CEN_Reco_TimerNagLast AkEvent]
+SpokenText="Menace 1-5, você está quase sem tempo! O detonador está prestes a explodir!"
+
+[CEN_Reco_TimerNagThree AkEvent]
+SpokenText="Menace 1-5, o tempo está passando - esse detonador não vai esperar. Vá até o cofre e desarme-o antes que o tempo acabe."
+
+[CEN_Reco_TimerStarted AkEvent]
+SpokenText="Menace 1-5, a segurança da ADVENT ativou um dispositivo de autodestruição dentro do cofre de dados. Você precisa chegar ao alvo, desarmar o mecanismo de segurança e extrair os dados antes que eles tenham a chance de destruí-los."
+
+[CEN_Reco_TWin AkEvent]
+SpokenText="Status confirmado, bloqueamos a área circundante, mas perdemos nossa oportunidade de recuperar o pacote. Talvez na próxima vez."
+
+[CEN_Reco_TWin_HL AkEvent]
+SpokenText="Status confirmado. Comandante, Menace 1-5 garantiu a área de operações. Infelizmente, perdemos alguns de nossos melhores soldados no processo, junto com o pacote-alvo."
+
+[CEN_RecoGEN_Intro AkEvent]
+SpokenText="Menace 1-5, temos a localização do cofre de dados da ADVENT. Avance, neutralize toda a resistência hostil."
+
+[CEN_RecoTRN_Intro AkEvent]
+SpokenText="Menace 1-5, temos a localização do cofre de dados da ADVENT. Avance, neutralize toda a resistência hostil."
+
+[CEN_RecoVEH_Intro AkEvent]
+SpokenText="Menace 1-5, temos a localização do cofre de dados da ADVENT. Avance, neutralize toda a resistência hostil."
+
+[CEN_Recover_AllEnemiesDefeatedContinue AkEvent]
+SpokenText="Menace 1-5, não detectamos mais contatos próximos à sua posição, o local está seguro. Vá garantir o alvo antes que as cargas detonem."
+
+[CEN_Recover_ObjAcquiredNoRNF AkEvent]
+SpokenText="Menace 1-5, status confirmado, as cargas estão inativas e o pacote está seguro. Elimine quaisquer hostis restantes próximos à área de operações."
+
+[CEN_Recover_ObjAcquiredWithRNF AkEvent]
+SpokenText="Menace 1-5, confirmado, o pacote está seguro. Fique atento, reforços estão a caminho. Elimine todos os hostis que ameaçarem a área."
+
+[CEN_Recover_STObjDestroyedEnemyRemain_02 AkEvent]
+SpokenText="Menace 1-5, o pacote-alvo foi destruído, não vamos recuperar nada neste local. Bloqueie a área e elimine todos os hostis restantes."
+
+[CEN_Recover_STObjDropped_02 AkEvent]
+SpokenText="Menace 1-5, perdemos o controle do pacote. Recupere-o a todo custo, não podemos permitir que os alienígenas o peguem."
+
+[CEN_Recover_TacIntro AkEvent]
+SpokenText="Menace 1-5, temos a localização do cofre de dados da ADVENT próximo à sua posição. Fique ciente de que as cargas de autodestruição estão ativadas no alvo. Vá desarmar e extrair o pacote antes que seu conteúdo seja destruído."
+
+[CEN_RecoverGEN_STObjDropped AkEvent]
+SpokenText="Menace 1-5, perdemos o controle do pacote-alvo. Recupere-o a todo custo, não podemos permitir que o inimigo ganhe vantagem aqui."
+
+[CEN_RecoverGEN_STObjSpotted AkEvent]
+SpokenText="Menace 1-5, aqui é o Avenger. Temos confirmação positiva do pacote-alvo. Avance para adquirir."
+
+[CEN_RescGEN_EndMission AkEvent]
+SpokenText="Menace 1-5, estamos te ouvindo. Sua melhor opção agora é se proteger e evitar mais confrontos. A resistência vai te tirar daí assim que tivermos uma oportunidade para o resgate."
+
+[CEN_RescGEN_FailureSquadWipe AkEvent]
+SpokenText="Comandante, a equipe de ataque foi sobrecarregada. Perdemos a equipe e o alvo. Este é um dia sombrio para a resistência."
+
+[CEN_RescGEN_HeavyLosses AkEvent]
+SpokenText="Comandante, a equipe de ataque está sendo dilacerada lá embaixo! A cobertura aérea é intensa demais para o Firebrand se aproximar para uma EVAC - temos que garantir a área!"
+
+[CEN_RescGEN_ProceedToSweep AkEvent]
+SpokenText="Menace 1-5, o Firebrand não pode se aproximar para uma EVAC na área de operações. Vocês estão por conta própria aí - reagrupem e tentem ganhar tempo para o resgate. Eliminem os hostis!"
+
+[CEN_RescGEN_RNFGroupTwo AkEvent]
+SpokenText="Menace 1-5, cautela é aconselhada - estamos rastreando outro transporte da ADVENT a caminho da sua posição. Fiquem atentos."
+
+[CEN_RescGEN_STObjAcquired AkEvent]
+SpokenText="Menace 1-5, status confirmado. Fiquem cientes que transportes da ADVENT estão a caminho, o Firebrand não pode se aproximar da área. Garantam a área e eliminem todos os contatos hostis."
+
+[CEN_RescGEN_STObjDestroyed AkEvent]
+SpokenText="Menace 1-5, status confirmado, negativo na recuperação do pacote."
+
+[CEN_RescGEN_STWin AkEvent]
+SpokenText="Comandante, a equipe de ataque garantiu o alvo. Missão cumprida."
+
+[CEN_RescGEN_STWin_HL AkEvent]
+SpokenText="Comandante, a equipe de ataque garantiu o alvo, mas isso nos custou alguns bons soldados."
+
+[CEN_RescGEN_SWin AkEvent]
+SpokenText="Comandante, a equipe de ataque garantiu o alvo, mas não conseguimos manter o controle da área de operações."
+
+[CEN_RescGEN_SWin_HL AkEvent]
+SpokenText="Comandante, Menace libertou com sucesso o VIP
+
+, mas não conseguimos segurar a área - e perdemos alguns de nossos melhores soldados no processo."
+
+[CEN_RescGEN_TWin AkEvent]
+SpokenText="Comandante, perdemos o alvo, mas a equipe de ataque conseguiu garantir uma oportunidade para a retirada segura."
+
+[CEN_RescGEN_TWin_HL AkEvent]
+SpokenText="Comandante, perdemos o VIP e parte da equipe de ataque. Conseguimos eliminar as forças hostis na área e garantir uma oportunidade para a evacuação."
+
+[CEN_RescVEH_Intro AkEvent]
+SpokenText="Menace 1-5, temos a localização confirmada do VIP. Avance para o ponto de encontro, eliminem todos os contatos hostis." 
+
+[CEN_SaboCC_HeavyLossesIncurred AkEvent]
+SpokenText="Comandante, estamos sofrendo baixas significativas, talvez precisemos ajustar nossa abordagem."
+
+[CEN_SaboCC_TacIntro AkEvent]
+SpokenText="Menace 1-5, temos a localização do alvo. Avance e coloque as cargas X4 na posição designada."
+
+[CEN_Sabotage_AllEnemiesDefeatedContinue AkEvent]
+SpokenText="Menace 1-5, não estamos detectando mais contatos hostis próximos à AO. Prossiga para plantar as cargas X4 e prepare-se para a EVAC."
+
+[CEN_Sabotage_AllEnemiesDefeatedObjComplete AkEvent]
+SpokenText="Menace 1-5, todos os contatos hostis próximos à sua posição foram eliminados. Vá ao ponto de encontro para extração."
+
+[CEN_Sabotage_BombDetonated AkEvent]
+SpokenText="Menace 1-5, status confirmado. Cargas X4 detonadas."
+
+[CEN_Sabotage_BombDetonated_01 AkEvent]
+SpokenText="Menace 1-5, detonação confirmada, o alvo foi destruído."
+
+[CEN_Sabotage_BombDetonated_02 AkEvent]
+SpokenText="Status confirmado, a equipe está segura. Detonando as cargas."
+
+[CEN_Sabotage_BombPlanted AkEvent]
+SpokenText="Menace 1-5, o detonador X4 está armado e contando. Limpe a área antes que ele detone!"
+
+[CEN_Sabotage_BombPlantedNoRNF AkEvent]
+SpokenText="Menace 1-5, status confirmado, as cargas X4 estão armadas. Avance para o ponto de extração para uma evacuação imediata."
+
+[CEN_Sabotage_BombSmartPlanted AkEvent]
+SpokenText="Menace 1-5, o detonador X4 está armado e pronto. Limpe a área e detone-o."
+
+[CEN_Sabotage_BombSpotted_01 AkEvent]
+SpokenText="Menace 1-5, você está próximo à posição-alvo."
+
+[CEN_Sabotage_BombSpotted_02 AkEvent]
+SpokenText="Menace 1-5, você está próximo à posição-alvo."
+
+[CEN_Sabotage_CompletionNag AkEvent]
+SpokenText="Menace 1-5, as cargas X4 estão armadas. Vá para o ponto de extração, não temos tempo a perder."
+
+[CEN_Sabotage_ConsiderRetreat AkEvent]
+SpokenText="Comandante, Menace 1-5 está sofrendo pesadas baixas lá fora, se parece que não conseguiremos completar o objetivo, devemos considerar retirar a equipe."
+
+[CEN_Sabotage_FailureAbort AkEvent]
+SpokenText="Status confirmado. Comandante, acho que você tomou a decisão certa aqui. Sempre é possível que tenhamos outra chance de atingir esse alvo no futuro."
+
+[CEN_Sabotage_FailureAbortHL AkEvent]
+SpokenText="Entendido. Fizemos o possível para recuperar o que restava da equipe, Comandante. Fico feliz que tenha tomado a difícil decisão de retirá-los."
+
+[CEN_Sabotage_FailureSquadWipe AkEvent]
+SpokenText="Comandante, Menace 1-5 caiu, perdemos toda a equipe e o alvo está onde os alienígenas o deixaram. Temos que fazer melhor, todos nós."
+
+[CEN_Sabotage_Intro AkEvent]
+SpokenText="Menace 1-5, coordenadas do alvo bloqueadas. Avance até a posição designada e coloque as cargas X4."
+
+[CEN_Sabotage_RNFIncoming AkEvent]
+SpokenText="Menace 1-5, esteja ciente, estamos rastreando reforços hostis a caminho da sua posição."
+
+[CEN_Sabotage_SecureRetreat AkEvent]
+SpokenText="Comandante, Menace 1-5 está sofrendo pesadas baixas. As cargas X4 estão armadas, precisamos retirar a equipe antes que a situação escape do controle."
+
+[CEN_Sabotage_SignalJammed AkEvent]
+SpokenText="Comandante, a ADVENT está interferindo no sinal do transponder X4, não podemos detonar as cargas. Perdemos nossa oportunidade desta vez."
+
+[CEN_Sabotage_STWin AkEvent]
+SpokenText="Entendido. O alvo foi destruído e a área circundante está segura."
+
+[CEN_Sabotage_STWin_HL AkEvent]
+SpokenText="Status confirmado. Neutralizamos a instalação alienígena, Comandante, mas pagamos um alto preço."
+
+[CEN_Sabotage_SWin AkEvent]
+SpokenText="Entendido. A instalação-alvo foi destruída, Comandante, mas não conseguimos garantir a área circundante para a resistência."
+
+[CEN_Sabotage_SWin_HL AkEvent]
+SpokenText="Entendido. Destruímos o alvo, mas eles conseguiram repelir nossos esforços para garantir a área, e sofremos pesadas baixas no processo."
+
+[CEN_SabotageCC_AreaSecured AkEvent]
+SpokenText="Área segura - não estamos detectando mais contatos inimigos, os scanners estão limpos."
+
+[CEN_SabotageCC_BombPlanted AkEvent]
+SpokenText="Menace 1-5, o módulo X4 está armado. Neutralize quaisquer hostis restantes."
+
+[CEN_SabotageCC_SiteClearBombNotPlaced AkEvent]
+SpokenText="Menace 1-5, coloque as cargas X4 no alvo e vá ao ponto de extração."
+
+[CEN_SabotageCC_SiteClearBombPlaced AkEvent]
+Spoken
+
+Text="Menace 1-5, vá para o ponto de extração."
+
+[CEN_SecureUFO_DistressDeactivated AkEvent]
+SpokenText="O sinal de socorro foi desativado, não estamos detectando mais contatos inimigos próximos. Varra a área e elimine quaisquer hostis restantes."
+
+[CEN_SecureUFO_DistressInitiated AkEvent]
+SpokenText="Menace 1-5, acabamos de detectar um sinal de saída vindo do UFO, é algum tipo de sinal de socorro. Você precisa entrar na nave e desativar o sinal antes que eles enviem toda a frota atrás de nós."
+
+[CEN_SecureUFO_DistressLocated AkEvent]
+SpokenText="Menace 1-5, esse é o sinal de socorro, avance e desative-o antes que os alienígenas localizem o UFO."
+
+[CEN_SecureUFO_DistressResponse AkEvent]
+SpokenText="Menace 1-5, temos confirmação de múltiplos transportes a caminho, parece que eles localizaram o sinal de socorro. Neutralize todos os reforços hostis para garantir o local."
+
+[CEN_SecureUFO_Failure AkEvent]
+SpokenText="Status confirmado. Comandante, não conseguimos garantir o UFO, esperemos que não tenhamos perdido algo muito valioso."
+
+[CEN_SecureUFO_Failure_HeavyLosses AkEvent]
+SpokenText="Entendido. Comandante, esta operação deu errado rapidamente...perdemos algumas pessoas boas lá fora, e o inimigo garantiu o UFO. Temos que fazer melhor se quisermos levar a vantagem."
+
+[CEN_SecureUFO_HeavyLosses AkEvent]
+SpokenText="Comandante, estamos sofrendo pesadas baixas lá fora. O alvo é valioso, mas a vida de nossas tropas também é valiosa. Se você quiser retirar a equipe, eu apoio sua decisão."
+
+[CEN_SecureUFO_Intro AkEvent]
+SpokenText="Menace 1-5, coordenadas do local do UFO bloqueadas. Avance e garanta a área, neutralize todos os inimigos hostis."
+
+[CEN_SecureUFO_ReinforcementsEnteredPlay AkEvent]
+SpokenText="Menace 1-5, reforços hostis estão convergindo para sua posição! Você precisa eliminá-los para garantir aquela nave."
+
+[CEN_SecureUFO_Success AkEvent]
+SpokenText="Por números, Comandante. O UFO está seguro, enviaremos uma equipe de resgate para retirar o que pudermos dele."
+
+[CEN_SecureUFO_Success_HeavyLosses AkEvent]
+SpokenText="Status confirmado, todos os contatos hostis restantes foram eliminados. Isso nos custou algumas boas pessoas, espero que tenha valido a pena."
+
+[CEN_Setup_Phase_Flight_Device_Recovered AkEvent]
+SpokenText="Bom trabalho, as leituras estão voltando ao normal, bem, quase normal. O Firebrand está a caminho, mas eu não arriscaria. Elimine todos os hostis restantes na área antes da EVAC."
+
+[CEN_Setup_Phase_Flight_Device_Recovered__NO_HOSTILES_ALT AkEvent]
+SpokenText="Bom trabalho. As leituras estão voltando ao normal...bem, quase normal."
+
+[CEN_SupplyATT_Intro AkEvent]
+SpokenText="Menace 1-5, o transporte de tropas da ADVENT está próximo, engaje e elimine todas as forças hostis."
+
+[CEN_SupplyCVY_Intro AkEvent]
+SpokenText="Menace 1-5, o comboio da ADVENT desativado está logo à frente, engaje e elimine todas as forças hostis."
+
+[CEN_SupplyGEN_AllCratesDestroyed AkEvent]
+SpokenText="Menace 1-5, as últimas caixas de carga foram destruídas. Perdemos nossa oportunidade de recuperar qualquer coisa útil aqui. Elimine todos os contatos restantes na área."
+
+[CEN_SupplyGEN_FirstCrateDestroyed AkEvent]
+SpokenText="Menace 1-5, cuidado com as caixas de suprimentos! Se você as destruir, não sobrará nada para recuperarmos assim que a área estiver segura."
+
+[CEN_SupplyGEN_ManyCratesDestroyed AkEvent]
+SpokenText="Menace 1-5, mais da metade das caixas que estávamos buscando recuperar foram destruídas. Você precisa ter mais cuidado."
+
+[CEN_SupplyRaid_AllEnemiesDefeated AkEvent]
+SpokenText="Menace 1-5, status confirmado, todas as forças hostis na AO foram eliminadas."
+
+[CEN_SupplyRaid_CrateSpotted AkEvent]
+SpokenText="Menace 1-5, esses contêineres contêm os equipamentos que procuramos. Tenha cuidado para não destruí-los durante o combate."
+
+[CEN_SupplyTRN_Intro AkEvent]
+SpokenText="Menace 1-5, coordenadas do trem da ADVENT foram localizadas. Avance para garantir a segurança e eliminar todos os inimigos."
+
+[CEN_Terr_CivilianKilled_First AkEvent]
+SpokenText="Estamos vendo muitas baixas civis, Comandante! Precisamos acabar com isso!"
+
+[CEN_Terr_CivilianKilled_Rank2 AkEvent]
+SpokenText="Estamos perdendo civis por todos os lados, Comandante! Precisamos tirar essas pessoas daqui!"
+
+[CEN_Terr_CivilianKilled_Rank3 AkEvent]
+SpokenText="Está se tornando um massacre lá fora, Comandante, os alienígenas estão dizimando o acampamento!"
+
+[CEN_Terr_CiviliansSavedT1 AkEvent]
+SpokenText="Status confirmado, garantimos um contato civil."
+
+[CEN_Terr_CiviliansSavedT2 AkEvent]
+SpokenText="Confirmado, múltiplos contatos civis foram garantidos."
+
+[CEN_Terr_CiviliansSavedT3 AkEvent]
+SpokenText="Excelente trabalho, Comandante. Você fez um trabalho excepcional tirando os civis da zona de combate."
+
+[CEN_Terr_CivilianWipe AkEvent]
+SpokenText="Comandante, os alienígenas massacraram a resistência aqui. Não podemos deixar que eles saiam impunes. Menace 1-5, temos que retomar o controle da situação e eliminar esses hostis."
+
+[CEN_Terr_FailureAbort AkEvent]
+SpokenText="Status confirmado. As forças hostis pegaram a gente de surpresa, Comandante, não te culpo por retirar nossas tropas do combate - mas sem nós, a base da resistência foi invadida - é duvidoso que haja sobreviventes."
+
+[CEN_Terr_FailureAbortHL AkEvent]
+SpokenText="Reconhecido. Fizemos o que pudemos, Comandante, apoio sua decisão de abortar a operação. Não podemos permitir que isso aconteça novamente, teremos que revisar nossas táticas daqui para frente."
+
+[CEN_Terr_FailureSquadWipe AkEvent]
+SpokenText="Comandante, Menace 1-5 está fora de combate, e os alienígenas vão varrer esse acampamento até não restar ninguém. A missão foi um fracasso."
+
+[CEN_Terr_STWin AkEvent]
+SpokenText="Reconhecido, Menace 1-5. Todos os hostis restantes foram eliminados, o posto avançado está seguro. Ótimo trabalho."
+
+[CEN_Terr_STWin_HL AkEvent]
+SpokenText="Status confirmado. Repelimos o ataque alienígena, Comandante, mas sofremos algumas perdas significativas no processo. A resistência não esquecerá o sacrifício feito por nossas tropas."
+
+[CEN_Terr_SWin AkEvent]
+SpokenText="Status confirmado. Conseguimos retirar a maioria dos habitantes do acampamento, Comandante, mas perdemos o controle do local para as forças hostis."
+
+[CEN_Terr_SWin_HL AkEvent]
+SpokenText="Status reconhecido. Comandante, evacuamos várias pessoas do posto da resistência, mas custou caro. Perdemos o controle geral do local, e algumas de nossas pessoas não voltarão para casa desta vez."
+
+[CEN_Terr_TWin AkEvent]
+SpokenText="Menace 1-5, status confirmado. Comandante, desbaratamos as forças alienígenas, mas não antes de causarem muitas baixas entre as pessoas deste posto avançado. Não podemos permitir que isso aconteça novamente."
+
+[CEN_Terr_TWin_HL AkEvent]
+SpokenText="Reconhecido. Conseguimos resistir aos alienígenas, Comandante, mas houve pesadas baixas civis, e perdemos algumas de nossas melhores pessoas na luta."
+
+[CEN_Terror_AdviseRetreat AkEvent]
+SpokenText="Comandante, retiramos diversos civis da zona de combate, mas a equipe de ataque está sofrendo baixas graves. Talvez seja hora de considerar abortar a missão enquanto ainda podemos."
+
+[CEN_Terror_AllEnemiesDefeated AkEvent]
+SpokenText="Menace 1-5, status confirmado, não estamos detectando mais contatos hostis, a AO está limpa."
+
+[CEN_Terror_Intro AkEvent]
+SpokenText="Menace 1-5, forças hostis estão atacando o posto avançado. Elimine todas as unidades inimigas e proteja os civis."
+
+[CENTRAL_Generic_Mission_Accomplished AkEvent]
+SpokenText="Missão cumprida, Comandante."
+
+[CENTRAL_Tactical_Tutorial_EVAC_Request_ALT AkEvent]
+SpokenText="Firebrand, aqui é o Central. Precisamos de uma EVAC imediata. Tire-nos daqui!"
+
+[CENTRAL_Tactical_Tutorial_Jane_Your_Turn_ALT AkEvent]
+SpokenText="Menace-2, é sua vez."
+
+[CENTRAL_Tactical_Tutorial_Misison_Two_Melee AkEvent]
+SpokenText="Os Rangers são especialmente equipados para combates de curta distância. Na situação certa, eles podem ser altamente eficazes."
+
+[CENTRAL_Tactical_Tutorial_Mission_Two_Ambush AkEvent]
+SpokenText="Comandante, temos aqui uma oportunidade de causar danos sérios. Antes de entrar em combate, vamos garantir que aproveitaremos ao máximo nossa vantagem."
+
+[DestroyObject_CEN_AllEnemiesDefeatedContinue AkEvent]
+SpokenText="Ameaça 1-5, não estamos detectando mais contatos adicionais perto da Área de Operações, você limpou a área. Mova-se para destruir o relé antes que os alienígenas completem a transmissão."
+
+[DestroyObject_CEN_ObjectDestroyed AkEvent]
+SpokenText="Ameaça 1-5, confirmamos a destruição do relé, a transmissão alienígena está interrompida. Elimine quaisquer inimigos restantes e dirija-se para a EVAC."
+
+[Extract_CEN_VIPKilled_Continue AkEvent]
+SpokenText="O VIP foi abatido. Mova-se para o ponto de encontro com o Firebrand para extração."
+
+[First_Non_ADVENT_Sighted_CENTRAL AkEvent]
+SpokenText="Parece que a ADVENT finalmente está mostrando suas verdadeiras cores. Onde eles estavam escondendo essas coisas?"
+
+[GenTactical_CEN_MissionExtroFailure AkEvent]
+SpokenText="Comandante, falhamos em nossa missão. Precisaremos revisar nossas táticas e melhorar no futuro."
+
+[GenTactical_CEN_MissionExtroPartialSuccess AkEvent]
+SpokenText="Parâmetros da missão completados."
+
+[GenTactical_CEN_MissionExtroTotalSuccess AkEvent]
+SpokenText="Status confirmado, missão cumprida."
+
+[GenTactical_CEN_TacticalWinOnly AkEvent]
+SpokenText="A área atual de operações está segura."
+
+[Neutralize_CEN_VIPKilledAfterCapture AkEvent]
+SpokenText="Ameaça 1-5, o alvo foi abatido, repito, perdemos a embalagem."
+
+[Recover_AllEnemiesDefeatedContinue_FLIGHT AkEvent]
+SpokenText="Ameaça 1-5, todos os contatos hostis perto de sua posição foram eliminados. Precisamos assegurar o alvo e tirar nossa gente de lá rapidamente."
+
+[Rescue_CEN_VIPAcquired AkEvent]
+SpokenText="Ameaça 1-5, status confirmado, o VIP está a reboque. Prossiga para o ponto de extração."
+
+[SecureUFO_CEN_DistressDeactivatedEnd AkEvent]
+SpokenText="Nós neutralizamos o sinal de socorro alienígena, parece que os céus estão tranquilos."
+
+[T_Alien_Facility_Advent_Clone_Pods_Central_01 AkEvent]
+SpokenText="Quando se trata dos alienígenas, sempre é uma grande experiência."
+
+[T_Alien_Fortress_Residential_Diorama_Central_01 AkEvent]
+SpokenText="Sempre houve relatos de civis desaparecidos usados antes da primeira invasão. Será que são eles?"
+
+[T_Avatar_Mind_Control_Central AkEvent]
+SpokenText="Cuidado! Aquilo está controlando nossos soldados!"
+
+[T_Avatar_Teleport_Central AkEvent]
+SpokenText="O que diabos...? Ele saltou para uma nova posição assim que foi atingido!"
+
+[T_Avenger_Defense_EVAC_without_all_soldiers_Central AkEvent]
+SpokenText="Comandante, nem todos os nossos soldados estão a bordo ainda! Se decolarmos agora, deixaremos nossas tropas para trás!"
+
+[T_Blacksite_Body_Containers_Spotted_Central_P2 AkEvent]
+SpokenText="Corpos. Os contêineres, os trens... toda essa instalação... os alienígenas ainda estão abduzindo pessoas. Pelas aparências, eles podem nunca ter parado após a invasão."
+
+[T_Blacksite_Entering_Facility_Spotted_Central_P1 AkEvent]
+SpokenText="Eles estão movendo pessoas por este lugar como gado. Deveríamos ter descoberto isso antes, Deus sabe há quanto tempo isso está acontecendo."
+
+[T_Blacksite_Exterior_Reveal_Central_P2 AkEvent]
+SpokenText="Seja lá o que for, não pode ser bom."
+
+[T_Blacksite_Exterior_Reveal_Central_P2_ALT AkEvent]
+SpokenText="Estou com um mau pressentimento sobre isso."
+
+[T_Blacksite_Interior_Reveal_Central_P1 AkEvent]
+SpokenText="O que é este lugar?"
+
+[T_Blacksite_Interior_Reveal_Central_P3_ALT AkEvent]
+SpokenText="Assim que colocarmos as mãos nessa amostra, teremos certeza."
+
+[T_Blacksite_Interior_Reveal_Central_P4 AkEvent]
+SpokenText="Em breve saberemos. Precisamos dessa amostra."
+
+[T_Blacksite_Liquid_Collection_Spotted_Central_P2 AkEvent]
+SpokenText="Mas o que é tudo isso? Algum tipo de fábrica de armas biológicas ou químicas?"
+
+[T_Blacksite_Soylent_Gold_Spotted_Central_P1 AkEvent]
+SpokenText="Alguma ideia do que é isso? Além de ser o fim da linha..."
+
+[T_Blacksite_Trains_Spotted_Central_01 AkEvent]
+SpokenText="A ADVENT expandiu sua rede ferroviária para tocar todos os centros urbanos que eles construíram, e este parece ser o fim da linha, pelo menos para esta área."
+
+[T_Blacksite_Vial_Pickup_Central_P1 AkEvent]
+SpokenText="Acho que isso não é água ali. Shen, alguma leitura?"
+
+[T_Blacksite_Vial_Pickup_Centrla_P1_ALT AkEvent]
+SpokenText="Acho que isso não é óleo ali. Shen, alguma leitura?"
+
+[T_Broadcast_Rooftops_Narrative_Wrappers_01 AkEvent]
+SpokenText="O Porta-Voz colocou tudo em jogo por nós. Estamos nos dirigindo à torre da Rede ADVENT para desligar a transmissão deles e interromper a rede psíquica que controla suas tropas. Se conseguirmos, as forças da ADVENT em todo o mundo ficarão desabilitadas, espero que tempo suficiente para irmos à fortaleza alienígena. O mundo precisa saber a verdade, e é hora de espalharmos a palavra."
+
+[T_CEN_Hack_AllEnemiesDefeatedContinue AkEvent]
+SpokenText="Todas as forças hostis na Área de Operações foram eliminadas, assegure o terminal antes que o bloqueio da rede seja concluído."
+
+[T_CEN_Hack_TerminalHackedWithRNF AkEvent]
+SpokenText="Confirmamos a aquisição bem-sucedida dos arquivos ADVENT, elimine quaisquer inimigos restantes na área."
+
+[T_CEN_Sabotage_City_Center_CompletionNag AkEvent]
+SpokenText="Ameaça 1-5, temos uma janela limitada para agir antes que a ADVENT responda, precisamos plantar essas cargas o mais rápido possível."
+
+[T_Central_AlienSightings_AdvCaptainM1 AkEvent]
+SpokenText="Os oficiais da ADVENT parecem mais capazes do que os soldados rasos. Não sabemos se isso se deve ao treinamento ou a um controle mental mais rígido."
+
+[T_Central_AlienSightings_AdvCaptainM2 AkEvent]
+SpokenText="Fique de olho nesses Capitães veteranos - nós os vimos marcando alvos no campo para concentração de fogo inimigo."
+
+[T_Central_AlienSightings_AdvCaptainM3 AkEvent]
+SpokenText="Os Capitães de elite da ADVENT aumentam muito a confiança de suas tropas sempre que estão por perto."
+
+[T_Central_AlienSightings_AdvShieldBearerM2 AkEvent]
+SpokenText="Nossos contatos na resistência ouviram rumores de que a ADVENT poderia estar implantando um sistema pesado de armadura para infantaria. Parece bem resistente."
+
+[T_Central_AlienSightings_AdvShieldBearerM3 AkEvent]
+SpokenText="A ADVENT fez esses caras para serem fortes, e parece que estão ficando ainda mais resistentes."
+
+[T_Central_AlienSightings_AdvShieldBearerM4 AkEvent]
+SpokenText="Parece que os alienígenas estão trocando armas e armaduras sempre que podem, até os Portadores de Escudo receberam um upgrade."
+
+[T_Central_AlienSightings_AdvStunLancerM1 AkEvent]
+SpokenText="Inicialmente, a ADVENT implantou unidades de choque não letais para controle de multidões e protestos ocasionais. Não vemos muito disso ultimamente."
+
+[T_Central_AlienSightings_AdvStunLancerM2 AkEvent]
+SpokenText="Parece que a ADVENT está permitindo que seus Lancistas de Choque se tornem um pouco mais agressivos, cuidado."
+
+[T_Central_AlienSightings_AdvStunLancerM3 AkEvent]
+SpokenText="Lembro-me quando a ADVENT usava os Lancistas de Choque apenas para pacificação urbana. Eles definitivamente ficaram mais perigosos desde aqueles tempos."
+
+[T_Central_AlienSightings_AdvTrooperM1 AkEvent]
+SpokenText="Esses caras constituem a maior parte das forças da ADVENT com que lidamos. São disciplinados e bem equipados, mas sua obediência os torna previsíveis."
+
+[T_Central_AlienSightings_AdvTrooperM2 AkEvent]
+SpokenText="Parece que os soldados veteranos agora estão carregando granadas, além de algumas melhorias na armadura."
+
+[T_Central_AlienSightings_AdvTrooperM3 AkEvent]
+SpokenText="Esses são os soldados mais resistentes da ADVENT que já vimos - eles têm muita armadura e a potência de fogo para combinar."
+
+[T_Central_AlienSightings_Andromedon AkEvent]
+SpokenText="Esse negócio parece pronto para esmagar alguma coisa."
+
+[T_Central_AlienSightings_Berserker AkEvent]
+SpokenText="Evite esses Berserkers - eles não são muito eficazes à distância, mas são letais de perto."
+
+[T_Central_AlienSightings_Cryssalid AkEvent]
+SpokenText="Esses Crissálidas parecem um pouco menores do que eu me lembro - mas, novamente, nunca foi realmente o tamanho deles que tivemos que nos preocupar."
+
+[T_Central_AlienSightings_Faceless AkEvent]
+SpokenText="Ouvimos rumores sobre algum tipo de metamorfo - acho que é isso."
+
+[T_Central_AlienSightings_First_Andromedon_Battlesuit AkEvent]
+SpokenText="Todos vimos essa coisa cair... agora, o que diabos ela está fazendo?!"
+
+[T_Central_AlienSightings_Muton AkEvent]
+SpokenText="Esses Mutons parecem um pouco mais ágeis do que os que lutamos no passado; parece que ainda estão servindo como a linha de frente dos alienígenas."
+
+[T_Central_AlienSightings_PsiZombie AkEvent]
+SpokenText="Sem descanso para os mortos - os alienígenas encontraram uma maneira de controlá-los mentalmente agora."
+
+[T_Central_AlienSightings_Viper AkEvent]
+SpokenText="Não há motivo para eles se esconderem, os alienígenas não precisam mais de uma unidade de infiltração."
+
+[T_Central_CodexDeath AkEvent]
+SpokenText="Vocês ouviram o Doutor. Ameaça 1-5, vá recuperar o dispositivo deixado pelo Codex."
+
+[T_Central_FirstCodexAppearsPart2 AkEvent]
+SpokenText="Entendido. Armas preparadas, temos nosso alvo."
+
+[T_City_Center_Alien_Entertainment_Central_01 AkEvent]
+SpokenText="Como se as pessoas nas cidades já não estivessem suficientemente lavadas cerebralmente, quem sabe o que os alienígenas estão colocando em suas mentes como entretenimento."
+
+[T_City_Center_Propaganda_Central_01 AkEvent]
+SpokenText="Às vezes, fico feliz que a ADVENT continue produzindo essa porcaria... quando as pessoas descobrirem a verdade sobre os alienígenas, toda essa conversa só vai alimentar ainda mais o fogo."
+
+[T_Council_Missions_Extract_VIP_Central_01 AkEvent]
+SpokenText="O Porta-Voz nos deu a localização de um VIP preso em algum lugar perto de nossa Área de Operações. Ele quer que asseguremos a área, encontremos o alvo e o escoltemos para fora com segurança. Acredito que a resistência não pediria ajuda se não fosse importante."
+
+[T_Council_Missions_Extract_VIP_Central_02 AkEvent]
+SpokenText="Estamos realizando uma extração de emergência de um VIP que trabalha para a resistência. O Porta-Voz forneceu as coordenadas, mas o resto depende de nós. Localize o VIP e o escolte para fora da área com segurança.Vai sem dizer, mas não deixe nenhum inimigo de pé."
+
+[T_Council_Missions_Extract_VIP_Central_03 AkEvent]
+SpokenText="A resistência está pedindo nossa ajuda para extrair um VIP que estava fornecendo dados de reconhecimento nesta área. Temos as coordenadas, mas provavelmente teremos que eliminar uma força hostil para que isso funcione."
+
+[T_Council_Missions_Extract_VIP_Central_04 AkEvent]
+SpokenText="Recebemos uma transmissão de prioridade máxima do Porta-Voz, a resistência tem um VIP operando nesta área que precisa ser extraído imediatamente. As forças da ADVENT estão alertas nas proximidades; esteja preparado para enfrentar e eliminar quaisquer contatos hostis. Assegure a área e escolte o VIP em segurança."
+
+[T_Council_Missions_Extract_VIP_Central_05 AkEvent]
+SpokenText="O reconhecimento captou um sinal de socorro fraco vindo desta área - a resistência confirmou que é um dos seus códigos - então estamos nos movendo para fornecer uma extração de emergência. Precisaremos assegurar a área e escoltar o VIP até o ponto de EVAC. Fique atento a contatos hostis."
+
+[T_Council_Missions_Neutralize_Target_Central_01 AkEvent]
+SpokenText="A resistência está pedindo nossa ajuda para lidar com um VIP hostil que opera nesta região. É provável que os alienígenas estejam fornecendo segurança. Precisamos assegurar a área e eliminar quaisquer contatos hostis próximos. Capture o VIP se possível, caso contrário, derrube-o."
+
+[T_Council_Missions_Neutralize_Target_Central_02 AkEvent]
+SpokenText="Acabamos de receber um aviso do Porta-Voz, há um VIP inimigo de alguma importância se movendo por esta área que a resistência gostaria que lidássemos. Estamos nos movendo para localizar o alvo. Elimine qualquer resistência hostil e capture o alvo se possível - use força se necessário."
+
+[T_Council_Missions_Neutralize_Target_Central_03 AkEvent]
+SpokenText="O porta-voz confirmou a localização de um VIP valioso para a causa alienígena se movendo nesta área. Ele pediu que aproveitemos esta oportunidade para neutralizar o operativo. Assegure a área circundante e remova todas as forças inimigas de segurança que protegem o alvo. Traga-o vivo se possível, morto se necessário."
+
+[T_Council_Missions_Neutralize_Target_Central_04 AkEvent]
+SpokenText="A resistência tem buscado um colaborador alienígena há algum tempo. Finalmente, conseguiram uma pista sólida sobre sua localização. Estão nos pedindo ajuda para garantir que o alvo seja tratado. Portanto, estamos nos movendo para assegurar a área. Neutralize todas as forças hostis que estiverem em seu caminho. Se possível, capture o VIP vivo. Se tudo mais falhar, elimine-o."
+
+[T_Council_Missions_Neutralize_Target_Central_05 AkEvent]
+SpokenText="A resistência tem rastreado um VIP hostil por algum tempo, e finalmente reduziram o alvo a um quadrante nesta área. Eles nos pediram para entrar e lidar com essa pessoa de uma vez por todas. Como sempre, precisaremos eliminar quaisquer forças hostis que protegem o alvo para assegurar a área. Capture o alvo se possível, use a força se necessário."
+
+[T_Council_Missions_Neutralize_Target_Vehicle_Central_01 AkEvent]
+SpokenText="O porta-voz enviou informações sobre um colaborador alienígena se movendo por esta área em um transporte da ADVENT. Aparentemente, a perda desse indivíduo seria um golpe sério para os alienígenas - então estamos nos movendo para cuidar dele. Localize o veículo de transporte e neutralize o VIP, juntamente com qualquer resistência hostil. Prefeririam que trouxéssemos o alvo vivo, mas use quaisquer meios necessários."
+
+[T_Council_Missions_Neutralize_Target_Vehicle_Central_02 AkEvent]
+SpokenText="Um VIP humano colaborador com a ADVENT está sendo transportado por esta área em um dos veículos deles. A resistência pediu que intervíssemos e neutralizássemos o alvo. Precisaremos assegurar a área e destruir as forças inimigas que fornecem segurança. Traga o pacote vivo, se possível, mas não arrisque demais."
+
+[T_Council_Missions_Neutralize_Target_Vehicle_Central_03 AkEvent]
+SpokenText="Um VIP inimigo foi localizado passando por esta área a bordo de um veículo de transporte da ADVENT, e o alvo aparentemente é valioso o suficiente para que o Porta-Voz tenha nos pedido para intervir. Estamos nos movendo para capturar ou matar o VIP - assegure a área e neutralize qualquer resistência hostil."
+
+[T_Council_Missions_Neutralize_Target_Vehicle_Central_04 AkEvent]
+SpokenText="A ADVENT está transportando um VIP de alto valor por esta área em um de seus veículos de transporte, e o Porta-Voz gostaria que garantíssemos que eles não cheguem ao destino. Localize e capture o alvo se possível, neutralize-o se necessário. Não deixe nenhuma força hostil ficar em seu caminho."
+
+[T_Council_Missions_Neutralize_Target_Vehicle_Central_05 AkEvent]
+SpokenText="A resistência pediu nossa ajuda para lidar com um VIP hostil com o qual eles têm tido problemas recentemente. O alvo está sendo transportado por forças da ADVENT através desta área em um de seus veículos de transporte. Capture o VIP se possível, use a força conforme necessário. Não deixe as forças alienígenas atrapalharem."
+
+[T_Council_Missions_Rescue_VIP_Central_01 AkEvent]
+SpokenText="Acabamos de receber um aviso do Porta-Voz, aparentemente os alienígenas capturaram um VIP de importância crítica para o esforço da resistência, e eles gostariam que cuidássemos da operação de resgate. Precisaremos assegurar a área, libertar o VIP e fazer o EVAC do alvo o mais rápido possível."
+
+[T_Council_Missions_Rescue_VIP_Central_02 AkEvent]
+SpokenText="Estamos nos movendo para tentar realizar uma operação de resgate de emergência para a resistência. O Porta-Voz nos deu as coordenadas de um VIP que está atualmente detido pelas forças da ADVENT nesta área. Precisamos assegurar o local, remover qualquer hostil que estiver em nosso caminho e libertar o prisioneiro."
+
+[T_Council_Missions_Rescue_VIP_Central_03 AkEvent]
+SpokenText="A ADVENT está mantendo um VIP de algum valor para o movimento de resistência, e o Porta-Voz nos pediu para nos movermos e tentarmos uma operação de resgate. Esperamos forte resistência no local, e os alienígenas têm tido extenso apoio aéreo se movendo na região, o que manterá a Firebrand em solo. Assegure a área, elimine todos os contatos hostis e assegure o VIP."
+
+[T_Council_Missions_Rescue_VIP_Central_04 AkEvent]
+SpokenText="A resistência está pedindo nossa ajuda para resgatar um VIP importante deles que foi capturado recentemente pelas forças da ADVENT nesta região. A reconhecimento indica muita atividade hostil na área; precisaremos assegurar a AO, libertar o VIP e eliminar todos os contatos inimigos que estiverem em nosso caminho."
+
+[T_Council_Missions_Rescue_VIP_Central_05 AkEvent]
+SpokenText="Recebemos um pedido de emergência do Porta-Voz pedindo nossa ajuda para libertar um VIP simpático à causa da resistência. As forças da ADVENT estão mantendo o prisioneiro em algum lugar desta área, e esperamos uma continuação constante de reforços para apoiá-los. Mova-se para assegurar a área, eliminar toda resistência hostil e resgatar o VIP."
+
+[T_Council_Missions_Rescue_VIP_Vehicle_Central_01 AkEvent]
+SpokenText="A ADVENT está mantendo um VIP de alguma importância para o movimento de resistência, e o Porta-Voz pediu que interceptemos o veículo de transporte e resgatemos o alvo. Precisaremos eliminar todas as forças hostis que protegem o pacote para assegurar a área."
+
+[T_Council_Missions_Rescue_VIP_Vehicle_Central_02 AkEvent]
+SpokenText="A resistência está pedindo nossa ajuda para resgatar um VIP atualmente detido pela ADVENT nesta região. Estamos nos movendo para neutralizar quaisquer forças alien
+
+ígenas que protejam o veículo de transporte. Assegure a AO e assegure o pacote de destino."
+
+[T_Council_Missions_Rescue_VIP_Vehicle_Central_03 AkEvent]
+SpokenText="As forças da ADVENT estão movendo um VIP por esta área a bordo de um de seus caminhões de transporte, e a resistência está pedindo nossa ajuda para realizar uma operação de resgate. O alvo será bem defendido, esteja preparado para assegurar a área e eliminar quaisquer hostis para agilizar o resgate."
+
+[T_Council_Missions_Rescue_VIP_Vehicle_Central_04 AkEvent]
+SpokenText="O Porta-Voz acabou de enviar notícias de que um VIP amigável foi recentemente capturado pela ADVENT e está sendo movido por esta área em um dos seus veículos de transporte. Estamos nos dirigindo para obter uma vantagem no transporte e libertar o prisioneiro. Espere resistência hostil - assegure a área e elimine qualquer um que fique em seu caminho."
+
+[T_Council_Missions_Rescue_VIP_Vehicle_Central_05 AkEvent]
+SpokenText="O reconhecimento tem acompanhado um comboio de transporte da ADVENT movendo-se por esta área, e aparentemente, um VIP de alguma importância para a resistência está sendo mantido em um dos caminhões. Eles nos pediram para nos movimentarmos e realizar a operação de resgate. Teremos que eliminar quaisquer forças hostis próximas e assegurar a área, e então levar o VIP para um local seguro."
+
+[T_Depleted_Avatar_Sighted_After_Skulljacking_Codex_Central AkEvent]
+SpokenText="Então é isso que está causando todo o alvoroço? Não parece muito para mim. Trate-o como qualquer outro contato alienígena, derrube-o."
+
+[T_Destroy_Object_ProceedToSweep_Central AkEvent]
+SpokenText="Falhamos em impedir a transmissão dos alienígenas, Comandante, mas ainda podemos assegurar a AO para evitar mais ações aqui. Ameaça 1-5, prossiga para varrer a área, eliminar todos os contatos hostis."
+
+[T_Extract_VIP_Evac_Destroyed_Central AkEvent]
+SpokenText="O ponto de encontro foi comprometido, aguarde novas coordenadas de EVAC."
+
+[T_Extract_VIP_Timer_Expired_Central AkEvent]
+SpokenText="Interceptores ADVENT dentro da distância de ataque em 30 segundos, Firebrand, limpe a área!"
+
+[T_Extract_VIP_TimerNagLast_Central AkEvent]
+SpokenText="Ameaça 1-5, você está sem tempo! Chegue ao ponto de EVAC agora!"
+
+[T_Extract_VIP_TimerNagSix_Central AkEvent]
+SpokenText="Ameaça 1-5, seja avisado, interceptores hostis estão a caminho de sua posição atual. Firebrand tem uma janela limitada para fornecer extração."
+
+[T_Extract_VIP_TimerNagThree_Central AkEvent]
+SpokenText="Ameaça 1-5, interceptores hostis estão se aproximando rapidamente, sua janela para extração está se fechando."
+
+[T_Extraction_Reminder_Squad_Not_Concealed_A_Central AkEvent]
+SpokenText="A ADVENT já sabe que estamos aqui, então sua posição não está oculta para a extração."
+
+[T_Extraction_Reminder_Squad_Not_Concealed_B_Central AkEvent]
+SpokenText="A ADVENT sabe que estamos tentando mover o VIP para fora desta área, sua posição não está oculta. Fiquem alertas."
+
+[T_Extraction_Reminder_Squad_Not_Concealed_C_Central AkEvent]
+SpokenText="Os alienígenas sabem que estamos tentando tirar o VIP desta área, vocês não estarão ocultos para o desdobramento."
+
+[T_Final_Mission_Enemy_Avatar_1_Has_Died_Central_01 AkEvent]
+SpokenText="Comunicações da resistência acabaram de acender. As forças da ADVENT em todo o mundo estão em desordem."
+
+[T_Final_Mission_Final_Set_Five_Central_01 AkEvent]
+SpokenText="As forças da resistência eliminaram várias posições-chave da ADVENT, Comandante; eles estão em fuga!"
+
+[T_Final_Mission_Final_Set_Four_Central_03 AkEvent]
+SpokenText="As forças da resistência eliminaram várias posições-chave da ADVENT, Comandante; eles estão em fuga!"
+
+[T_Final_Mission_Final_Set_One_Central_02 AkEvent]
+SpokenText="Vamos ver sobre isso."
+
+[T_Final_Mission_Final_Set_Three_Central_02 AkEvent]
+SpokenText="Oh, nós entendemos muito bem."
+
+[T_Final_Mission_Final_Set_Three_Central_02_Alt AkEvent]
+SpokenText="O que há para entender sobre genocídio."
+
+[T_Final_Mission_Final_Showdown_Begins_Central_03 AkEvent]
+SpokenText="Não viemos aqui para conversar."
+
+[T_Final_Mission_First_Hostile_Avatar_Reveal_Central_02 AkEvent]
+SpokenText="Um problema de cada vez, doutora."
+
+[T_Final_Mission_First_Set_Five_Central_02 AkEvent]
+SpokenText="Comandante! As forças alienígenas estão intensificando seus ataques tanto nos alvos da resistência quanto nos civis!"
+
+[T_Final_Mission_First_Set_Four_Central_02 AkEvent]
+SpokenText="Ignore-os, Comandante. Mais mentiras alienígenas."
+
+[T_Final_Mission_First_Set_One_Central_02 AkEvent]
+SpokenText="Eles realmente esperam que acreditemos em qualquer coisa disso."
+
+[T_Final_Mission_First_Set_Three_Central_01 AkEvent]
+SpokenText="Recebendo relatos de todo o mundo, Comandante. As forças da ADVENT estão revidando com força. Nossa gente está se defendendo, mas não parece bom. Seja o que formos fazer, é melhor fazer rápido."
+
+[T_Final_Mission_Middle_Set_Four_Central_03 AkEvent]
+SpokenText="Continue avançando, Comandante. Eles estão perdendo o controle do mundo e eles sabem disso."
+
+[T_Final_Mission_Middle_Set_One_Central_01 AkEvent]
+SpokenText="Comandante, as forças da resistência estão lutando contra a ADVENT, mas isso está vindo a um preço alto... A esse ritmo, pode não sobrar nada de nenhum dos lados."
+
+[T_Final_Mission_Middle_Set_Three_Central_01 AkEvent]
+SpokenText="Recebendo relatos de algumas interrupções aleatórias nas forças inimigas no campo. Unidades abandonando suas armas no meio da batalha ou atacando uns aos outros."
+
+[T_Final_Mission_Middle_Set_Three_Central_06 AkEvent]
+SpokenText="Você sabe que não é ela, Comandante. Não deixe que eles mexam com sua cabeça."
+
+[T_Final_Mission_The_Fortress_Central_01 AkEvent]
+SpokenText="Ok, Comandante, fiquem alertas. Não há como saber se eles detectaram nossa"
+
+[T_Final_Mission_The_Fortress_Central_02 AkEvent]
+SpokenText="...presença ainda."
+
+[T_Final_Mission_The_Fortress_Central_04 AkEvent]
+SpokenText="Pouco provável."
+
+[T_FirstCodexAppearsPart2_Central AkEvent]
+SpokenText="Entendido. Armas ativas, temos nosso alvo.
+
+[T_Forge_Advent_Bodies_Sighted_Central_01 AkEvent]
+SpokenText="Primeiro eram corpos humanos, agora estamos encontrando ADVENT... algo me diz que eles não raptaram esses."
+
+[T_Forge_Avatar_Suit_Home_Central_P2 AkEvent]
+SpokenText="Você ouviu o doutor. Parece que alguém terá que carregar essa coisa para casa."
+
+[T_Forge_Avatar_Suit_Sighted_Central_P1 AkEvent]
+SpokenText="Isso se parece muito com o traje que retiramos do Comandante."
+
+[T_Forge_Body_Recovery_Central_P1 AkEvent]
+SpokenText="Como isso pode ser? É igualzinho ao que-"
+
+[T_Forge_Body_Recovery_Central_P4 AkEvent]
+SpokenText="Então parece que alguém terá que carregar essa coisa para casa."
+
+[T_Forge_Body_Reveal_Central_P1 AkEvent]
+SpokenText="Isso está começando a parecer muito familiar."
+
+[T_Forge_Body_Reveal_Central_P4 AkEvent]
+SpokenText="Você ouviu ela."
+
+[T_Forge_Interior_Reveal_Central_P3 AkEvent]
+SpokenText="Não admira que eles continuem chegando."
+
+[T_Fortress_Avatar_Sighted_01_Central AkEvent]
+SpokenText="Acho que finalmente veremos o que essas coisas podem fazer."
+
+[T_Fortress_Avatar_Sighted_02_Central AkEvent]
+SpokenText="Pelo menos temos um deles ao nosso lado."
+
+[T_Fortress_Recap_Callouts_Central_01 AkEvent]
+SpokenText="Então vamos garantir que não os mantenham lá por mais tempo do que precisamos."
+
+[T_Fortress_Recap_Callouts_Central_02 AkEvent]
+SpokenText="Eles estão apenas trazendo as grandes armas, sem sinal das forças da ADVENT aqui. Se eles desistiram da fachada, provavelmente estamos no lugar certo."
+
+[T_Fortress_Recap_Callouts_Central_03 AkEvent]
+SpokenText="Espere, você quer dizer que esta instalação esteve aqui o tempo todo?!"
+
+[T_Gene_Therapy_Clinic_Jail_Cells_Central_01 AkEvent]
+SpokenText="Aposto que eles têm muitas mais dessas celas escondidas em algum lugar."
+
+[T_Guerilla_Ops_Destroy_Object_Central_01 AkEvent]
+SpokenText="O Dr. Tygan detectou o sinal de um relé oculto de comunicações alienígenas enviando dados para a rede ADVENT desta área. Qualquer coisa que possamos fazer para interromper a logística dos alienígenas aumenta
+
+ nossas chances de deter o progresso deles. Precisaremos assegurar a área, eliminar quaisquer hostis e depois destruir o relé antes que eles concluam a transmissão."
+
+[T_Guerilla_Ops_Destroy_Object_Central_02 AkEvent]
+SpokenText="Estamos detectando um fluxo constante de comunicações vindas de um relé oculto de comunicações alienígenas enviando dados para a rede ADVENT nesta região. Temos que aproveitar todas as oportunidades para interromper o progresso dos alienígenas em sua última operação, por isso estamos nos movendo para destruir o relé antes que eles concluam a transferência. Não deixe nenhum hostil de pé."
+
+[T_Guerilla_Ops_Destroy_Object_Central_03 AkEvent]
+SpokenText="A triangulação do sinal bloqueou a localização de um relé oculto de comunicações alienígenas enviando dados para a rede ADVENT nesta área. Interromper o progresso dos alienígenas é nossa maior prioridade, então estamos nos movendo para destruir o relé antes que eles concluam a transferência. Elimine todas as forças hostis que operam na área, assegure o local e destrua o alvo."
+
+[T_Guerilla_Ops_Destroy_Object_Central_04 AkEvent]
+SpokenText="Um relé oculto de comunicações alienígenas nesta área está sendo usado pela ADVENT para transmitir dados críticos de volta para sua rede. A perda desses dados interromperá seu projeto mais recente, por isso estamos nos movendo para destruir o relé antes que eles concluam a transferência. Esperamos um forte contingente de forças de segurança. Neutralize-os e assegure o local. Destrua o relé a todo custo."
+
+[T_Guerilla_Ops_Destroy_Object_Central_05 AkEvent]
+SpokenText="Shen encontrou uma série estranha de transmissões que saem desta região, e nós identificamos um relé oculto de comunicações alienígenas transmitindo para a rede ADVENT. Não podemos deixar passar nenhuma oportunidade de interromper o progresso dos alienígenas em sua última operação, então estamos nos movendo para eliminar esse relé. Neutralize quaisquer contatos hostis perto do local, assegurem-no e destruam o alvo."
+
+[T_Guerilla_Ops_Hack_Workstation_Advent_Building_Central_01 AkEvent]
+SpokenText="Recebemos uma informação de que a ADVENT está armazenando dados críticos para a última operação alienígena, e conseguimos localizar um terminal exposto que podemos usar para acessar a rede deles. O problema é que ele está dentro de uma de suas instalações. Não podemos esperar, então estamos nos movendo em direção ao alvo. Neutralize qualquer resistência hostil encontrada e assegurem a área. Temos que recuperar esses dados se quisermos deter o progresso deles."
+
+[T_Guerilla_Ops_Hack_Workstation_Advent_Building_Central_02 AkEvent]
+SpokenText="O Dr. Tygan tem procurado por novos métodos de interceptar os dados dos alienígenas em sua última operação, e parece que ele encontrou a localização de um terminal exposto ao qual podemos ter acesso. Infelizmente, a ADVENT já está posicionada tentando bloquear a conexão. Avancem e neutralizem todos os contatos hostis. Assegurem a área e recuperem esses dados - temos que deter o progresso deles antes que seja tarde demais."
+
+[T_Guerilla_Ops_Hack_Workstation_Advent_Building_Central_03 AkEvent]
+SpokenText="Um terminal conectado à rede da ADVENT através de uma de suas instalações nesta área foi deixado exposto por um hacker da resistência durante uma tentativa anterior de invasão. Acreditamos que é possível recuperar dados críticos para a última operação dos alienígenas e deter o progresso deles, mas teremos que agir rapidamente. A ADVENT já está trabalhando para fechar a conexão. Removam as forças inimigas da área, assegurem-na e recuperem esses dados."
+
+[T_Guerilla_Ops_Hack_Workstation_Advent_Building_Central_04 AkEvent]
+SpokenText="Identificamos um ponto de acesso exposto na rede da ADVENT que poderíamos usar para interceptar dados críticos sobre a última operação dos alienígenas, mas o terminal está em algum lugar dentro de uma de suas instalações nesta área. Não temos muitas oportunidades como essa, então estamos nos movendo para invadir esse terminal. Eliminem todos os contatos hostis e assegurem a área, recuperem o que puderem. Precisamos desses dados se quisermos deter o progresso deles."
+
+[T_Guerilla_Ops_Hack_Workstation_Advent_Building_Central_05 AkEvent]
+SpokenText="Estamos buscando todas as saídas possíveis para obter informações sobre o projeto mais recente dos alienígenas, e nesse caso, isso significa infiltrar uma de suas instalações para acessar um terminal exposto conectado à rede deles. As forças hostis estarão posicionadas para defender o local, então teremos que neutralizar todas as ameaças para assegurar a área. Recuperem o que puderem, precisamos desses dados se quisermos deter o progresso dos alienígenas."
+
+[T_Guerilla_Ops_Hack_Workstation_Central_01 AkEvent]
+SpokenText="Um hacker tentando impressionar a resistência encontrou uma maneira de acessar a rede da ADVENT através de um ponto de acesso perto de nossa área de operações. Pelos indícios, ela descobriu algo crítico relacionado à última operação dos alienígenas. Infelizmente, ela só conseguiu viver o suficiente para recuperar um fragmento dos dados. Estamos nos movendo para assegurar a área, eliminar todas as forças alienígenas próximas e invadir aquele terminal antes que eles consigam bloqueá-lo. Precisamos desses dados se quisermos deter o progresso deles."
+
+[T_Guerilla_Ops_Hack_Workstation_Central_02 AkEvent]
+SpokenText="Operativos da resistência conseguiram invadir a rede da ADVENT através de um ponto de acesso exposto nesta área, mas reforços alienígenas rapidamente acabaram com sua equipe. O relatório inicial indicou que eles podem ter encontrado algo crítico para a última operação dos alienígenas. Teremos que assegurar a área e invadir o terminal antes que a ADVENT tenha tempo de encerrar a conexão. Eliminem todos os alvos hostis com extrema determinação. Essa é nossa chance de deter o progresso deles."
+
+[T_Guerilla_Ops_Hack_Workstation_Central_03 AkEvent]
+SpokenText="Uma equipe de batedores da resistência localizou um ponto de acesso exposto nesta área diretamente conectado à rede da ADVENT. Perdemos o contato com a equipe logo em seguida, mas não antes de enviarem um fragmento de dados ligado à última operação dos alienígenas. Estamos nos movendo para recuperar os dados, mas teremos que agir rapidamente para invadir a rede antes que a ADVENT encerre a conexão. Estejam preparados para neutralizar todos os contatos hostis e assegurem a área. Recuperar esses dados é nossa única chance de deter o progresso deles."
+
+[T_Guerilla_Ops_Hack_Workstation_Central_04 AkEvent]
+SpokenText="Recebemos uma informação de um hacker da resistência operando nesta área, aparentemente ele conseguiu acessar a rede da ADVENT nas proximidades, pouco antes dos reforços alienígenas chegarem. Parece que ele pode ter encontrado algo crítico para a última operação dos alienígenas, mas teremos que agir rapidamente para recuperá-lo. Assegurem a área e invadam antes que a ADVENT encerre a conexão. Precisamos tomar posse desses dados se quisermos ter alguma chance de deter o progresso deles."
+
+[T_Guerilla_Ops_Hack_Workstation_Central_05 AkEvent]
+SpokenText="As informações sugerem que um hacker trabalhando para a resistência descobriu uma vulnerabilidade na rede da ADVENT e tentou obter alguns de seus dados de um terminal nesta área. Infelizmente, os alienígenas foram rápidos em eliminar o operativo, mas pelo que conseguimos apurar, os dados são críticos para a última operação dos alienígenas. Estamos nos movendo para recuperar o que pudermos. Eliminem todos os contatos inimigos e assegurem a área. Acessem a rede antes que eles tenham tempo de bloquear a conexão."
+
+[T_Guerilla_Ops_Hack_Workstation_Train_Central_01 AkEvent]
+SpokenText="O Dr. Tygan identificou indícios de um ponto de acesso exposto ao longo da rede da ADVENT nesta área, e podemos usá-lo para recuperar dados cruciais para o último projeto alienígena. Como sempre, há um porém: o terminal está a bordo de um dos trens de transporte deles que passa pela área. Teremos que nos movimentar rapidamente, assegurar o trem e eliminar qualquer ameaça hostil. Se conseguirmos fazer isso, talvez tenhamos a chance de deter o progresso deles."
+
+[T_Guerilla_Ops_Hack_Workstation_Train_Central_02 AkEvent]
+SpokenText="A reconhecimento remoto detectou um ponto de acesso desprotegido ao longo da rede da ADVENT, aparentemente é um terminal a bordo de um de seus trens. Estamos nos dirigindo para recuperar quaisquer dados que pudermos sobre o último projeto alienígena, antes que eles encerrem a conexão. Neutralizem todos os alvos inimigos e assegurem a área. Precisamos desses dados, não podemos perder nenhuma oportunidade de deter o progresso dos alienígenas."
+
+[T_Guerilla_Ops_Hack_Workstation_Train_Central_03 AkEvent]
+SpokenText="Estivemos acompanhando um sinal intermitente movendo-se nesta área, e acreditamos que ele está ligado a um terminal desprotegido a bordo de um dos trens da ADVENT. Não podemos perder a chance de recuperar seus dados sobre o último projeto alienígena, então estamos nos movendo para tomar o trem. Eliminem todas as forças hostis com extrema determinação. Se conseguirmos tomar posse desses dados, talvez tenhamos uma chance de deter o progresso deles."
+
+[T_Guerilla_Ops_Hack_Workstation_Train_Central_04 AkEvent]
+SpokenText="A ADVENT tem operado equipes de sondagem móvel em alguns de seus trens nesta região, e localizamos um terminal desprotegido conectado à rede deles nas proximidades. Os dados que estamos buscando são críticos para a última operação dos alienígenas, e eles já estão se movendo para destruir o terminal. Estamos nos dirigindo para assegurar a área e proteger o dispositivo antes que eles consigam destruí-lo. Precisamos tomar posse desses dados se quisermos ter alguma chance de deter o progresso deles."
+
+[T_Guerilla_Ops_Hack_Workstation_Train_Central_05 AkEvent]
+SpokenText="Uma de nossas fontes informou que as forças da ADVENT têm conduzido varreduras em áreas locais a partir de trens nesta região, e o terminal que eles estão usando está atualmente exposto em sua rede. Estamos atrás de dados críticos para o último projeto dos alienígenas, então estamos nos movendo para tomar controle do ponto de acesso. Eliminem todos os contatos hostis nesta área e assegurem o trem. Esta é nossa chance de deter o progresso deles."
+
+[T_Guerilla_Ops_Protect_Device_Central_01 AkEvent]
+SpokenText="A resistência instalou um dispositivo de monitoramento na rede da ADVENT através de um ponto de acesso nesta área, e eles têm recuperado dados críticos para a última operação dos alienígenas. Infelizmente, a ADVENT percebeu o sinal e está se movendo para destruir a instalação. Precisamos nos dirigir para eliminar todas as forças hostis que ameaçam esse dispositivo."
+
+[T_Guerilla_Ops_Protect_Device_Central_02 AkEvent]
+SpokenText="Parece que a resistência tem conseguido extrair dados críticos para a operação mais recente dos alienígenas da rede da ADVENT usando algum dispositivo que eles montaram nesta área. Pelo que conseguimos apurar, os alienígenas descobriram o que está acontecendo e estão enviando reforços para destruir o dispositivo. Estamos nos movendo para assegurar a área e proteger o dispositivo antes que eles consigam destruí-lo."
+
+[T_Guerilla_Ops_Protect_Device_Central_03 AkEvent]
+SpokenText="Um hacker trabalhando para a resistência instalou um dispositivo de coleta de dados ao longo da rede da ADVENT nesta área, e os dados que eles estão recuperando são críticos para a última operação dos alienígenas. O reconhecimento sugere que os alienígenas já estão se movendo para destruir o dispositivo. Esses dados são muito valiosos para serem perdidos, então estamos nos dirigindo para assegurar a área. Eliminem todos os contatos hostis e protejam esse equipamento!"
+
+[T_Guerilla_Ops_Protect_Device_Central_04 AkEvent]
+SpokenText="Um operativo da resistência conseguiu montar algum tipo de dispositivo de interceptação de dados através de um ponto de acesso na rede da ADVENT nesta área. Parece que os dados são críticos para a última operação dos alienígenas, e eles já estão se movendo para destruir o dispositivo. Estamos nos dirigindo para garantir que isso não aconteça. Eliminem todos os alvos hostis nas proximidades, assegurem a Área de Operações e protejam esse dispositivo."
+
+[T_Guerilla_Ops_Protect_Device_Central_05 AkEvent]
+SpokenText="Aparentemente, a resistência vem confiando em uma antiga derivação de dados ao longo da rede da ADVENT que, até este ponto, estava escapando da detecção dos alienígenas. As informações recentes sugerem que os dados encontrados pela resistência são críticos para a última operação dos alienígenas. Infelizmente, a ADVENT já está se movendo para destruir o dispositivo, e não podemos permitir que isso aconteça. Eliminem todos os contatos hostis e assegurem a área. Protejam esse dispositivo a todo custo."
+
+[T_Guerilla_Ops_Recover_Item_Advent_Building_Central_01 AkEvent]
+SpokenText="O reconhecimento remoto sugere que uma sala de dados exposta está sendo mantida por forças da ADVENT dentro de uma de suas instalações nesta área. Pelo que podemos apurar, a sala está armazenando dados críticos para a última operação dos alienígenas, então estamos nos movendo para apoderar-nos dela à força. Eliminem todos os contatos inimigos e assegurem a área. Tomem controle desses ativos a qualquer custo."
+
+[T_Guerilla_Ops_Recover_Item_Advent_Building_Central_02 AkEvent]
+SpokenText="O Dr. Tygan tem acompanhado os movimentos de uma sala de dados da ADVENT contendo informações críticas para o projeto mais recente dos alienígenas, e finalmente conseguiu rastreá-la até uma de suas instalações nesta área. Tygan acredita que podemos recuperar o conteúdo, desde que eliminemos quaisquer forças hostis que a protejam. Avancem e assegurem a área, não deixem nenhum alienígena em pé."
+
+[T_Guerilla_Ops_Recover_Item_Advent_Building_Central_03 AkEvent]
+SpokenText="Rastreamos a localização de uma sala de dados da ADVENT através de sua rede até uma instalação situada nesta região. Pelo que pudemos apurar, ela está armazenando dados críticos para a última operação dos alienígenas. Estamos nos movendo para apoderar-nos dos ativos, mas as forças de segurança na área não vão facilitar para nós. Eliminem todos os alvos e capturem o que puderem."
+
+[T_Guerilla_Ops_Recover_Item_Advent_Building_Central_04 AkEvent]
+SpokenText="Um de nossos contatos da resistência nos informou sobre um grupo de patrulha da ADVENT armazenando uma sala de dados segura nesta área. E parece que os arquivos são críticos para a última operação dos alienígenas. Não podemos deixar passar qualquer oportunidade de deter o progresso deles, então estamos nos dirigindo para apoderar-nos desses ativos. Neutralizem quaisquer contatos hostis próximos e assegurem a área."
+
+[T_Guerilla_Ops_Recover_Item_Advent_Building_Central_05 AkEvent]
+SpokenText="Acabamos de receber informações da resistência, um de seus operativos localizou uma sala de dados da ADVENT nesta área, armazenando informações críticas para a última operação alienígena. Estamos nos movendo para apoderar-nos desses dados e deter o progresso deles antes que isso vá mais longe. Eliminem quaisquer contatos hostis e assegurem a área."
+
+[T_Guerilla_Ops_Recover_Item_Central_01 AkEvent]
+SpokenText="O reconhecimento indica que uma sala de dados da ADVENT contendo registros de algum tipo foi escondida nesta área pela resistência durante um conflito recente com as forças alienígenas. A ADVENT já está assegurando a área, mas temos uma oportunidade aqui que não podemos deixar passar. Precisamos neutralizar o inimigo, assegurar o local e recuperar o que pudermos."
+
+[T_Guerilla_Ops_Recover_Item_Central_02 AkEvent]
+SpokenText="Uma nave de transporte da ADVENT caiu algumas dezenas de quilômetros de nossa Área de Operações, e parece que eles estavam lançando salas de dados em toda a região durante o caminho. As forças da ADVENT já estão encurraladas no local do alvo, mas precisamos recuperar tudo o que pudermos deles. Eliminem todas as forças hostis, assegurem a área e recuperem o que puderem encontrar."
+
+[T_Guerilla_Ops_Recover_Item_Central_03 AkEvent]
+SpokenText="Uma equipe da resistência que atuava nesta área localizou uma sala de dados da ADVENT que os alienígenas devem ter usado para coleta de dados remota. Infelizmente, os operativos não conseguiram sair, e a ADVENT está posicionada para assegurar o local. Estamos indo para eliminar a ameaça hostil e recuperar o que pudermos dessa sala de dados."
+
+[T_Guerilla_Ops_Recover_Item_Central_04 AkEvent]
+SpokenText="Recebemos informações de que os alienígenas estão conduzindo varreduras nesta região, procurando por algum tipo de sala de dados que foi roubada durante um ataque anterior da resistência. Se é valioso o suficiente para que eles tenham tropas procurando por ela, então parece ser o alvo perfeito para nós apoderarmos. Estamos seguindo para assegurar a área e localizar a sala de dados. Eliminem todos os contatos hostis."
+
+[T_Guerilla_Ops_Recover_Item_Central_05 AkEvent]
+SpokenText="Pelo que pudemos apurar, alguém vem contrabandeando informações da rede da ADVENT usando uma de suas salas de dados. O sinal que captamos é fraco, mas definitivamente tem alguma coisa lá embaixo. A ADVENT já está posicionada para sua própria operação de recuperação, então esperem resistência hostil. Assegurem o local e localizem a sala de dados em questão. Não deixem nenhum inimigo em pé."
+
+[T_Guerilla_Ops_Recover_Item_Train_Central_01 AkEvent]
+SpokenText="Temos uma oportunidade de ouro aqui para atrapalhar o progresso dos alienígenas em sua última operação. As informações sugerem que a ADVENT está transportando uma sala de dados segura por esta área em um de seus trens, e as informações que ela carrega são críticas para os esforços dos alienígenas. Estamos nos movendo para assegurar o trem. Eliminem todos os contatos hostis e recuperem os ativos."
+
+[T_Guerilla_Ops_Recover_Item_Train_Central_02 AkEvent]
+SpokenText="Dizem que a ADVENT tem transportado salas de dados seguras através desta área a bordo de seus trens de transporte, e parece que temos uma oportunidade de apoderar-nos de material crítico para o último projeto dos alienígenas. Assim que localizarmos os equipamentos, precisaremos assegurar a área e remover quaisquer forças alienígenas que defendam o trem. Essa é nossa chance de atrasá-los. Apossar-se desse material a qualquer custo."
+
+[T_Guerilla_Ops_Recover_Item_Train_Central_03 AkEvent]
+SpokenText="Estamos rastreando um sinal errático da ADVENT movendo-se por esta região, parece ser uma sala de dados - provavelmente escondida a bordo de um de seus trens. A análise inicial sugere que os dados podem estar relacionados ao projeto mais recente dos alienígenas, então estamos nos movendo para bloquear a área. Assegurem a Área de Operações e removam quaisquer forças hostis que protejam o trem, e depois apoderem-se dos ativos por qualquer meio necessário."
+
+[T_Guerilla_Ops_Recover_Item_Train_Central_04 AkEvent]
+SpokenText="Shen tem monitorado um sinal fraco da ADVENT surgindo ocasionalmente nesta região. Pelo que pudemos apurar, é provavelmente uma sala de dados com defeito, e parece estar transportando informações críticas relacionadas à última operação dos alienígenas. Não podemos deixar passar nenhuma oportunidade de atrasar seu progresso, então estamos nos movendo no trem. Neutralizem suas forças de segurança, assegurem a área e apoderem-se dos ativos."
+
+[T_Guerilla_Ops_Recover_Item_Train_Central_05 AkEvent]
+SpokenText="As forças da resistência operando nesta área nos alertaram sobre um trem da ADVENT transportando uma sala de dados com registros críticos para o último projeto dos alienígenas. Esta é nossa chance de atrasar seus esforços, então estamos nos movendo para apoderar-nos dessa sala de dados de uma maneira ou de outra - eliminem todos os contatos hostis e bloqueiem a área. Precisamos assegurar esses ativos."
+
+[T_Guerilla_Ops_Recover_Item_Vehicle_Central_01 AkEvent]
+SpokenText="Nosso reconhecimento indica que a ADVENT está transportando algo valioso por esta área em um veículo de transporte exposto. Se é importante para eles, as chances são de que é ainda mais valioso para nós. Precisamos assegurar a área ao redor, bloquear a carga e eliminar quaisquer forças hostis que ainda estejam por perto."
+
+[T_Guerilla_Ops_Recover_Item_Vehicle_Central_02 AkEvent]
+SpokenText="Recebemos uma dica de que os alienígenas têm transportado salas de coleta de dados remotos em veículos de transporte da ADVENT através desta região. Temos uma oportunidade aqui para apoderar-nos de material crítico para o projeto alienígena sobre o qual recebemos informações. É a única maneira de atrasá-los. Avancem e assegurem a área. Eliminem todos os contatos hostis e recuperem os ativos."
+
+[T_Guerilla_Ops_Recover_Item_Vehicle_Central_03 AkEvent]
+SpokenText="Estamos rastreando um sinal errante de uma sala de dados da ADVENT com defeito, sendo transportada em um de seus veículos de transporte nesta área. Pelo que podemos apurar, ela carrega dados críticos para o projeto sobre o qual nos informamos recentemente. A ADVENT também pode estar ciente do defeito, mas recuperar esses dados é a única maneira de atrasar o progresso de sua operação. Neutralizem todos os alvos hostis e assegurem os ativos."
+
+[T_Guerilla_Ops_Recover_Item_Vehicle_Central_04 AkEvent]
+SpokenText="O reconhecimento remoto captou um sinal fraco da ADVENT movendo-se lentamente por esta área - acreditamos que seja uma de suas salas de dados sendo transportada em um caminhão. O alvo está vulnerável, pelo que podemos apurar, os dados podem estar relacionados à operação alienígena que detectamos recentemente. Eliminem quaisquer forças hostis que protejam o veículo, assegurem a Área de Operações e recuperem os ativos."
+
+[T_Guerilla_Ops_Recover_Item_Vehicle_Central_05 AkEvent]
+SpokenText="Recebemos uma dica de um de nossos contatos da resistência de que a ADVENT está movendo uma sala de dados com arquivos críticos para o último projeto deles através desta área em um veículo de transporte. Estamos nos dirigindo para apoderar-nos desses dados. É a única maneira de atrasar a operação deles. Eliminem quaisquer forças hostis perto do transporte, assegurem a área e bloqueiem os ativos."
+
+[T_Human_Body_Storage_Central_01 AkEvent]
+SpokenText="Quem sabe há quanto tempo eles mantêm essas unidades de armazenamento funcionando aqui embaixo."
+
+[T_Mission_Start_without_Councealment_Central_01 AkEvent]
+SpokenText="O inimigo já sabe que estamos nos movendo em sua direção. Não temos a vantagem da surpresa aqui."
+
+[T_Mission_Start_without_Councealment_Central_02 AkEvent]
+SpokenText="A ADVENT está em alerta total. Eles sabem que vocês estão chegando."
+
+[T_Mission_Start_without_Councealment_Central_03 AkEvent]
+SpokenText="A segurança sabe que vocês estão aqui. Perdemos a vantagem da surpresa."
+
+[T_Mission_Start_without_Councealment_Central_04 AkEvent]
+SpokenText="As forças da ADVENT detectaram sua presença. Não temos mais a vantagem da surpresa."
+
+[T_Mission_Start_without_Councealment_Central_05 AkEvent]
+SpokenText="O Skyranger foi detectado na aproximação. A ADVENT sabe que estamos chegando."
+
+[T_Mission_Start_without_Councealment_Central_06 AkEvent]
+SpokenText="Fomos detectados na aproximação. A ADVENT sabe que estamos aqui."
+
+[T_Protect_Device_AllEnemiesDefeated_Central AkEvent]
+SpokenText="Status confirmado, não há mais contatos hostis próximos à sua posição."
+
+[T_Protect_Device_ConsiderRetreat_Central AkEvent]
+SpokenText="Comandante, o esquadrão está sofrendo pesadas baixas, devemos considerar abortar a missão se isso significar perder o restante de nossa equipe."
+
+[T_Protect_Device_GreatSuccess_Central AkEvent]
+SpokenText="Status confirmado. Removemos as forças inimigas que operavam nesta área e asseguramos os dados coletados pela resistência."
+
+[T_Protect_Device_PartialSuccess_Central AkEvent]
+SpokenText="Recebido. Estabelecemos o controle desta área, mas temo que o inimigo tenha destruído a derivação de dados e perdemos todas as informações que ela coletou."
+
+[T_Protect_Device_PrDv_HurryUp_Central AkEvent]
+SpokenText="Comandante, a derivação de dados da resistência já está sendo atacada por forças inimigas. Precisamos acelerar!"
+
+[T_Protect_Device_PrDv_Intro_Central AkEvent]
+SpokenText="As forças hostis já estão se movendo para destruir a derivação de dados instalada nas proximidades. Precisamos assegurar a área e garantir o dispositivo a todo custo."
+
+[T_Protect_Device_PrDv_ProceedToSweep_Central AkEvent]
+SpokenText="Menace 1-5, neutralizem todos os inimigos restantes e assegurem a Área de Operações."
+
+[T_Protect_Device_PrDv_STObjDestroyed_Central AkEvent]
+SpokenText="Comandante, a derivação de dados foi destruída. Perdemos todas as informações que ela conseguiu extrair da rede da ADVENT."
+
+[T_Protect_Device_SecureRetreat_Central AkEvent]
+SpokenText="Comandante, estamos perdendo o controle da Área de Operações, o Menace 1-5 está sob fogo pesado. Devemos nos reagrupar e resgatar o que pudermos da equipe."
+
+[T_Protect_Device_Sighted_Central AkEvent]
+SpokenText="Menace 1-5, temos uma linha de visão sobre o alvo, movam-se para proteger aquele equipamento a todo custo."
+
+[T_Psi_Gate_Gateway_Spotted_Central_P1 AkEvent]
+SpokenText="Não sei o que esperávamos encontrar aqui, mas isso definitivamente parece promissor."
+
+[T_Psi_Gate_Reveal_Central_P3 AkEvent]
+SpokenText="Então é lá que precisamos estar."
+
+[T_Rescue_VIP_EvacDestroyed_Central AkEvent]
+SpokenText="Menace 1-5, o ponto de encontro foi comprometido, aguarde novas coordenadas para o resgate."
+
+[T_Rescue_VIP_RNFInbound_Central AkEvent]
+SpokenText="Menace 1-5, detectamos um transporte inimigo em rota para sua posição atual."
+
+[T_Rescue_VIP_TacIntroADV_Central AkEvent]
+SpokenText="Temos uma localização confirmada para o VIP. Movam-se para o ponto de encontro, eliminem todos os contatos hostis. Estejam cientes de que os interceptores da ADVENT estão se aproximando, precisaremos agir rápido."
+
+[T_Rescue_VIP_TimerExpired_Central AkEvent]
+SpokenText="Interceptores da ADVENT a uma distância perigosa em 30 segundos. Firebrand, limpe a área!"
+
+[T_Rescue_VIP_TimerNagLast_Central AkEvent]
+SpokenText="Menace 1-5, acabou o tempo! Cheguem ao ponto de resgate agora!"
+
+[T_Rescue_VIP_TimerNagSix_Central AkEvent]
+SpokenText="Menace 1-5, saibam que interceptores hostis estão se aproximando rapidamente de sua posição atual. Firebrand tem uma janela limitada para fornecer o resgate."
+
+[T_Rescue_VIP_TimerNagThree_Central AkEvent]
+SpokenText="Menace 1-5, interceptores hostis estão se aproximando rapidamente. Sua janela para o resgate está
+
+ se fechando."
+
+[T_Retaliation_Reminder_Squad_Not_Concealed_A_Central AkEvent]
+SpokenText="Entramos de forma agressiva, não esperem uma posição de emboscada para o desdobramento. Eles sabem que vocês estão lá."
+
+[T_Retaliation_Reminder_Squad_Not_Concealed_B_Central AkEvent]
+SpokenText="Os alienígenas sabiam que estaríamos vindo atrás deles. Vocês não terão a vantagem do sigilo nesta missão, a menos que tenham um Ranger."
+
+[T_Retaliation_Reminder_Squad_Not_Concealed_C_Central AkEvent]
+SpokenText="A ADVENT entrou com força total, assim como nós. Vocês não terão uma posição de emboscada para o desdobramento desta vez."
+
+[T_Sabotage_Narrative_Wrappers_01 AkEvent]
+SpokenText="As forças da resistência nos informaram sobre a localização de uma instalação alienígena relacionada ao projeto Avatar que está operando nesta área, e estamos entrando para acabar com ela - permanentemente. Aproximem-se do alvo e coloquem as cargas X4 na posição designada, em seguida, afastem-se a uma distância segura para detonar. Se conseguirmos destruir aquela instalação, talvez ganhemos algum tempo."
+
+[T_Sabotage_Narrative_Wrappers_02 AkEvent]
+SpokenText="Estamos nos movendo para destruir uma instalação ADVENT de alta segurança que opera nesta região. Inteligência da resistência sugere que essa instalação está conduzindo pesquisas críticas para o projeto Avatar. Uma vez na posição, se aproximem do alvo designado e coloquem as cargas X4. Assim que estiverem armadas, afastem-se para uma distância segura e destruam aquela instalação."
+
+[T_Sabotage_Narrative_Wrappers_03 AkEvent]
+SpokenText="Os alienígenas precisam saber que estamos falando sério, que estamos prontos para infiltrar nos centros urbanos e atacar seus corações. Para isso, estamos nos movendo para destruir uma instalação de alto perfil que chamará muita atenção, especialmente da ADVENT. Avancem para assegurar a área e eliminar quaisquer forças de segurança próximas."
+
+[T_Sabotage_Narrative_Wrappers_04 AkEvent]
+SpokenText="Temos uma confirmação positiva da localização de uma instalação que conduz pesquisas cruciais para o projeto Avatar nesta região. As coordenadas estão definidas para um ataque tático. Movam-se para a posição designada e coloquem as cargas X4. Quando estiverem armadas, afastem-se para uma distância segura e reduzam aquela instalação a escombros."
+
+[T_Sabotage_Narrative_Wrappers_05 AkEvent]
+SpokenText="Um de nossos contatos da resistência nos alertou sobre uma instalação alienígena que aparentemente conduz pesquisas relacionadas ao projeto Avatar. Estamos nos movendo para atacar o local e fazer o que pudermos para atrasar seu progresso. Aproximem-se da posição designada do alvo e coloquem as cargas X4, em seguida, movam-se para o ponto de extração para o resgate imediato. Uma vez que estiverem em segurança, garantiremos que aquela instalação seja desativada para sempre."
+
+[T_SabotageCC_Narrative_Wrappers_01 AkEvent]
+SpokenText="Agora que estabelecemos uma base, é hora de levar a luta até a ADVENT. Estamos indo para o centro da cidade para atingir um alvo público, algo que chamará a atenção das pessoas. Neutralizem quaisquer forças de segurança na área - mantenham-se discretos."
+
+[T_SabotageCC_Narrative_Wrappers_02 AkEvent]
+SpokenText="Os alienígenas precisam saber que estamos falando sério, que estamos prontos para nos infiltrar nos centros urbanos e atacar seus corações. Para esse efeito, estamos nos movendo para eliminar um alvo de alto perfil que chamará muita atenção, especialmente da ADVENT. Avancem para assegurar a área e eliminar quaisquer forças de segurança próximas."
+
+[T_SabotageCC_Narrative_Wrappers_03 AkEvent]
+SpokenText="Estamos nos dirigindo para o centro da cidade para atingir um grande alvo, algo que abalará a tranquila utopia que a ADVENT vem construindo todos esses anos. Assegurem as coordenadas designadas e eliminem todos os contatos hostis. Firebrand estará na área para o resgate."
+
+[T_SabotageCC_Narrative_Wrappers_04 AkEvent]
+SpokenText="Os alienígenas tiveram tempo suficiente para estabelecer suas enclaves pacíficas nos centros urbanos, é hora de nos infiltrarmos e mostrar que a luta ainda não acabou. Estamos nos preparando para atingir um alvo de alto perfil, algo que eles não conseguirão encobrir tão facilmente. Avancem para assegurar o local do alvo e eliminar quaisquer contatos hostis na área."
+
+[T_SabotageCC_Narrative_Wrappers_05 AkEvent]
+SpokenText="É hora de os alienígenas e o resto da administração da ADVENT aprenderem que podemos atingi-los onde mais dói, então estamos nos movendo para o centro da cidade para atacar um alvo de alto perfil. Avancem e aproximem-se da posição designada, neutralizem quaisquer contatos hostis e assegurem o local."
+
+[T_Secure_UFO_Narrative_Wrappers_01 AkEvent]
+SpokenText="As forças da resistência conseguiram abater
+
+ um OVNI que passava por esta região, e temos uma oportunidade aqui de obter tecnologia valiosa antes que os alienígenas tenham a chance de recuperá-la. Eliminem qualquer resistência hostil na área e assegurem o local para recuperar os ativos."
+
+[T_Secure_UFO_Narrative_Wrappers_02 AkEvent]
+SpokenText="Um grupo de operativos da resistência que trabalha nesta área conseguiu desabilitar um OVNI que estava pousado. Estamos nos aproximando de sua última posição para tomar controle do local. Neutralizem todos os contatos hostis e apreendam qualquer carga que conseguirem colocar as mãos."
+
+[T_Secure_UFO_Narrative_Wrappers_03 AkEvent]
+SpokenText="A resistência vem agindo contra os alienígenas nesta área, e parece que eles conseguiram desabilitar um OVNI que estava no solo. Estamos nos movendo para assegurar o local. Eliminem qualquer resistência hostil e apreendam qualquer equipamento que puderem da nave."
+
+[T_Secure_UFO_Narrative_Wrappers_04 AkEvent]
+SpokenText="Demorou um pouco, mas aparentemente a resistência conseguiu desabilitar um OVNI que pousou nesta área. Infelizmente para eles, reforços alienígenas chegaram antes que tivessem a chance de retirar algo da nave. Estamos nos aproximando para pegar o que pudermos. Assegurem o local e eliminem todos os contatos hostis."
+
+[T_Secure_UFO_Narrative_Wrappers_05 AkEvent]
+SpokenText="De alguma forma, um grupo de operativos da resistência conseguiu desabilitar um OVNI que passava por um de seus acampamentos nesta área. Parece que eles não tinham um plano muito bem pensado além disso. A nave provavelmente está carregando tecnologia alienígena valiosa, então estamos nos movendo para assegurar o local. Neutralizem quaisquer contatos hostis durante a aproximação."
+
+[T_Setup_FirstCodexAppears AkEvent]
+SpokenText="Doutor, isso definitivamente não parece um cofre de dados."
+
+[T_Setup_Flight_Device_Mission_Wrapper AkEvent]
+SpokenText="A reconhecimento remoto indica que a resistência pode ter tentado emboscar um comboio da ADVENT que passava por esta região. Pelo que podemos dizer, o dispositivo de voo que Shen precisa estava a bordo, e ele pode estar instável como resultado do ataque. Não teremos muito tempo, mas estamos nos movendo para assegurar o dispositivo antes que percamos a chance de obtê-lo."
+
+[T_Setup_Phase_Break_Concealment_Central_01 AkEvent]
+SpokenText="Nunca fui de me esconder, Comandante, mesmo quando as chances estavam contra nós. Se tivermos a oportunidade de atacar primeiro, acho que devemos aproveitá-la."
+
+[T_Setup_Phase_Break_Concealment_Central_02 AkEvent]
+SpokenText="O sigilo tem suas vantagens, Comandante, mas nossa gente veio aqui para lutar. Se tivermos a chance, devemos atacar primeiro."
+
+[T_Setup_Phase_Break_Concealment_Central_03 AkEvent]
+SpokenText="Se eu soubesse que estávamos enviando a equipe apenas para observar o inimigo, eu teria sugerido que enviássemos apenas um Gremlin."
+
+[T_Setup_Phase_Combat_Tutorial_Central_34 AkEvent]
+SpokenText="Gatecrasher, reportando."
+
+[T_Setup_Phase_Combat_Tutorial_Central_36 AkEvent]
+SpokenText="Apreciando a vista."
+
+[T_Setup_Phase_Combat_Tutorial_Central_38 AkEvent]
+SpokenText="Eles são como nós. Pelo menos costumavam ser. Soldados híbridos humanos. A recompensa da ADVENT pela obediência e serviço."
+
+[T_Setup_Phase_Combat_Tutorial_Central_40 AkEvent]
+SpokenText="Ninguém queria fazer isso. Mas, se encontrarmos o que estamos procurando hoje, prometo que isso vai mudar. Vamos nos mover."
+
+[T_Setup_Phase_Combat_Tutorial_Central_42 AkEvent]
+SpokenText="Vocês ouviram ela! Cubram o lado esquerdo!"
+
+[T_Setup_Phase_Combat_Tutorial_Central_44 AkEvent]
+SpokenText="Não é o melhor momento para revistar cadáveres."
+
+[T_Setup_Phase_Combat_Tutorial_Central_46 AkEvent]
+SpokenText="Precisamos avançar para pegar o pacote; A entrada principal está livre."
+
+[T_Setup_Phase_Combat_Tutorial_Central_47 AkEvent]
+SpokenText="Menace-3, é sua vez!"
+
+[T_Setup_Phase_Combat_Tutorial_Central_49 AkEvent]
+SpokenText="Está perto, isso é tudo que vocês precisam saber. Vamos nos mover!"
+
+[T_Setup_Phase_Combat_Tutorial_Central_51 AkEvent]
+SpokenText="Eles estão ficando nervosos. Agora eu sei que estamos no lugar certo."
+
+[T_Setup_Phase_Combat_Tutorial_Central_52 AkEvent]
+SpokenText="Menace-1, regroupem!"
+
+[T_Setup_Phase_Combat_Tutorial_Central_53 AkEvent]
+SpokenText="Essa é a nossa porta."
+
+[T_Setup_Phase_Combat_Tutorial_Central_55 AkEvent]
+SpokenText="Estou levando muita porrada aqui!"
+
+[T_Setup_Phase_Combat_Tutorial_Central_61 AkEvent]
+SpokenText="Bom trabalho - estou a caminho."
+
+[T_Setup_Phase_Combat_Tutorial_Central_62 AkEvent]
+SpokenText="Movendo para assegurar o pacote."
+
+[T_Setup_Phase_Combat_Tutorial_Central_64 AkEvent]
+SpokenText="É aqui."
+
+[T_Setup_Phase_Combat_Tutorial_Central_65 Ak
+
+Event]
+SpokenText="Encontramos."
+
+[T_Setup_Phase_Combat_Tutorial_Central_67 AkEvent]
+SpokenText="Da próxima vez..."
+
+[T_Setup_Phase_Combat_Tutorial_Central_68 AkEvent]
+SpokenText="Conseguimos o que viemos buscar. Agora saiamos daqui."
+
+[T_Setup_Phase_Combat_Tutorial_Central_70 AkEvent]
+SpokenText="Sem tempo para explicações. Agora fiquem perto, estamos saindo."
+
+[T_Setup_Phase_Combat_Tutorial_Central_73 AkEvent]
+SpokenText="Precisamos de outra saída! Agora!"
+
+[T_Setup_Phase_Combat_Tutorial_Central_75 AkEvent]
+SpokenText="Funciona para mim!"
+
+[T_Setup_Phase_Combat_Tutorial_Central_77 AkEvent]
+SpokenText="Continuem avançando!"
+
+[T_Setup_Phase_Combat_Tutorial_Central_79 AkEvent]
+SpokenText="Firebrand! Aqui é o Gatecrasher! Precisamos de uma EVAC imediata! Nos tirem daqui!"
+
+[T_Setup_Phase_Flight_Device_Spotted_Central AkEvent]
+SpokenText="Ok, você deveria conseguir hackear os protocolos de segurança desse aparelho e estabilizá-lo. Shen está carregando a correção agora mesmo."
+
+[T_Setup_Phase_Flight_Device_Timer_Mechanic_Central AkEvent]
+SpokenText="Lembrem-se, temos uma janela de oportunidade limitada aqui, a peça que Shen precisa não vai durar muito tempo sem uma fonte de energia conectada. Precisamos recuperá-la e sair daqui antes que exploda."
+
+[T_Small_Town_Advent_Propaganda_Central_01 AkEvent]
+SpokenText="A ADVENT certamente exagera aqui. Eles dizem praticamente qualquer coisa para levar essas pessoas para os centros das cidades."
+
+[T_Small_Town_Advent_Trains_Central_01 AkEvent]
+SpokenText="Eles mantêm esses trens funcionando o tempo todo, mas você nunca os vê carregando ou descarregando qualquer carga - pelo menos não onde alguém possa ver."
+
+[T_Small_Town_Arcade_Machines_Central_01 AkEvent]
+SpokenText="Provavelmente não há muitas chances de ver uma sequência em minha vida."
+
+[T_Small_Town_Meat_Factory_Central_01 AkEvent]
+SpokenText="Impressionante que ninguém nunca questionou como essas fábricas funcionam. A carne sai, mas você não vê nenhum animal indo para dentro, não é?"
+
+[T_Supply_Raids_Advent_Convoy_Central_01 AkEvent]
+SpokenText="Um de nossos contatos na resistência nos informou sobre um comboio da ADVENT que eles conseguiram desabilitar quando passava por aqui como parte de um comboio maior. As forças de segurança da ADVENT já estão se movendo para recuperar seus ativos, mas temos uma chance de encontrar algo valioso aqui. Precisamos assegurar a área, recuperar o item e eliminar qualquer resistência inimiga."
+
+[T_Supply_Raids_Advent_Convoy_Central_02 AkEvent]
+SpokenText="Pelo que podemos entender, alguém tentou sequestrar um comboio da ADVENT por aqui. Os alienígenas os perseguiram e agora sua carga está espalhada por esta região. Sabemos que eles estão procurando essas coisas, mas vale o risco investigar. Precisaremos assegurar o local, eliminar qualquer resistência hostil e recuperar o item."
+
+[T_Supply_Raids_Advent_Convoy_Central_03 AkEvent]
+SpokenText="Recebemos uma dica de que os alienígenas estavam transportando algo importante por esta área, mas parece que eles tiveram problemas. Eles já estão trabalhando para bloquear o local, mas não podemos deixar passar essa oportunidade. Precisamos assegurar a área, eliminar qualquer resistência hostil e recuperar o que eles têm."
+
+[T_Supply_Raids_Advent_Convoy_Central_04 AkEvent]
+SpokenText="A resistência atacou com força um comboio da ADVENT que passava por esta área, eles deixaram muita carga para ser saqueada. É aí que entramos - uma vez que estiver no local, elimine todos os contatos hostis e assegure a área. Pegue o que puder."
+
+[T_Supply_Raids_Advent_Convoy_Central_05 AkEvent]
+SpokenText="O reconhecimento localizou um comboio da ADVENT desabilitado nesta região, aparentemente vítima de algum ataque anterior por forças desconhecidas. Essa é uma oportunidade perfeita para recuperar alguma tecnologia valiosa deles, mas precisaremos assegurar a área e eliminar quaisquer hostis que ainda estiverem lá para que isso aconteça."
+
+[T_Supply_Raids_Advent_Train_Central_01 AkEvent]
+SpokenText="As forças da resistência atingiram com força um trem da ADVENT nesta área, e os alienígenas ainda não conseguiram fazê-lo funcionar novamente. Deve haver muita tecnologia valiosa a bordo daquela coisa. Então, estamos nos movendo para eliminar qualquer hostil na área. Assegure qualquer carga que você encontrar."
+
+[T_Supply_Raids_Advent_Train_Central_02 AkEvent]
+SpokenText="A resistência emboscou um trem da ADVENT que passava por uma área selvagem remota, eles deixaram muita carga para ser saqueada. É aí que entramos - uma vez que você estiver no terreno, elimine todos os contatos hostis e assegure a área. Pegue qualquer coisa de valor."
+
+[T_Supply_Raids_Advent_Train_Central_03 AkEvent]
+SpokenText="O reconhecimento captou uma transmissão de um trem da ADVENT desabilitado que a resistência bloqueou nesta área. Os alienígenas ainda não conseguiram fazer esse trem se mover, então estamos indo lá para tentar recuperar qualquer material que pudermos. Eles não ficarão felizes em nos ver - elimine qualquer resistência hostil e assegure a área."
+
+[T_Supply_Raids_Advent_Train_Central_04 AkEvent]
+SpokenText="Estamos mirando em um trem da ADVENT que as forças da resistência conseguiram desabilitar nesta região, os alienígenas não estão esperando nos ver, então esta é a nossa chance de pegar qualquer tecnologia que eles tenham a bordo daquele trem. Estamos esperando resistência pesada no local - avance e neutralize todos os contatos hostis e assegure a área."
+
+[T_Supply_Raids_Advent_Train_Central_05 AkEvent]
+SpokenText="Operativos locais da resistência conseguiram parar um trem da ADVENT que estava passando por esta área. Até o momento, os alienígenas não conseguiram assegurar o local - então estamos nos aproximando para aproveitar a oportunidade. Neutralize quaisquer contatos hostis na área, assegure o local e pegue qualquer carga que você encontrar."
+
+[T_Supply_Raids_Advent_Transport_Central_01 AkEvent]
+SpokenText="A resistência conseguiu agir antes e desabilitou um transporte de tropas da ADVENT que passava por esta área, e eles deixaram os bens para nós saquearmos. O transporte ainda está desabilitado, mas é provável que encontremos forças hostis tentando bloquear o local. Assegure a área e pegue qualquer coisa que encontrar."
+
+
+
+[T_Supply_Raids_Advent_Transport_Central_02 AkEvent]
+SpokenText="Pegamos uma transmissão alienígena, eles estão tentando mover um transporte de tropas da ADVENT que a resistência desabilitou durante um confronto recente. Há uma oportunidade aqui para retirar alguma tecnologia valiosa do transporte, mas precisaremos assegurar a área e eliminar quaisquer hostis restantes para que isso aconteça."
+
+[T_Supply_Raids_Advent_Transport_Central_03 AkEvent]
+SpokenText="O reconhecimento captou uma transmissão de um transporte de tropas da ADVENT desabilitado que os alienígenas tentam mover por esta área. Eles ainda não conseguiram mover a coisa, então estamos avançando para aproveitar qualquer material que encontrarmos. Eles não ficarão felizes em nos ver - elimine qualquer resistência hostil e assegure a área."
+
+[T_Supply_Raids_Advent_Transport_Central_04 AkEvent]
+SpokenText="Estamos mirando em um transporte de tropas da ADVENT que as forças da resistência conseguiram desabilitar nesta região, os alienígenas não estão esperando nos ver, então esta é a nossa chance de pegar qualquer tecnologia que eles tenham a bordo desse transporte. Estamos esperando resistência pesada no local - avance e neutralize todos os contatos hostis e assegure a área."
+
+[T_Supply_Raids_Advent_Transport_Central_05 AkEvent]
+SpokenText="Um de nossos contatos avistou um transporte de tropas da ADVENT que perdeu energia nesta área, e os alienígenas aparentemente têm lutado para fazê-lo funcionar novamente. Essa é a nossa chance - qualquer coisa que pudermos recuperar daquele transporte será um impulso para nossos esforços. Avance e assegure a área circundante - elimine todos os contatos hostis com extrema determinação."
+
+[T_Support_Alien_Tech_Crate_Spotted_Central AkEvent]
+SpokenText="Esse é o equipamento que estamos procurando, teremos que fazer o possível para evitar destruir o equipamento enquanto asseguramos a área."
+
+[T_Support_Broadcast_Mission_Intro_Central AkEvent]
+SpokenText="Comandante, é hora de derrubar a ADVENT de vez. Isso será um ataque em duas frentes. Primeiro, hackeamos o coração da torre da ADVENT e interrompemos sua rede antes que o locutor termine sua última transmissão. Shen preparou uma pequena surpresa para eles, que com certeza chamará a atenção. Com a ADVENT em alvoroço, acessaremos o portal e levaremos a luta até a porta deles. Se tudo correr bem, eles nem vão nos ver chegando. É arriscado, mas é a melhor chance que teremos. Uma vez que começarmos isso, não há volta."
+
+[T_Support_Carry_Avatar_Body_Central AkEvent]
+SpokenText="Comandante, precisaremos recuperar esse corpo para que o Dr. Tygan possa estudá-lo. Alguém terá que levá-lo de volta para o ponto de encontro para evacuação até o Avenger."
+
+[T_Support_Carry_Soldier_Recover_Loot_Central AkEvent]
+SpokenText="Comandante, se não carregarmos o corpo de nosso soldado caído até o ponto de encontro, perderemos os equipamentos que eles tinham. Carregar um corpo reduzirá a eficácia de combate de um de nossos soldados, mas é a única maneira de recuperar o equipamento. A escolha é sua."
+
+[T_Support_Carry_Unconscious_Soldier_Central AkEvent]
+SpokenText="Comandante, um de nossos soldados está inconsciente. Se não pudermos revivê-lo no campo, teremos que carregá-lo de volta para o ponto de encontro para evacuação."
+
+[T_Support_Evac_Attempt_Incomplete_Objective AkEvent]
+SpokenText="Comandante, temos unidades posicionadas para evacuação, mas ainda não completamos o objetivo da missão. Se abandonarmos o local agora, perderemos nossa chance aqui."
+
+[T_Support_First_Advent_Tower_Spotted_Central AkEvent]
+SpokenText="Comandante, nossos especialistas devem ser capazes de hackear as torres de segurança da ADVENT, mas teremos que ter cuidado ao mover nossas outras forças por perto se quisermos evitar detecção."
+
+[T_Support_Forge_Mission_Intro_Central AkEvent]
+SpokenText="Comandante, Tygan e Shen completaram a análise do frasco da Central do Esconderijo, mas antes de podermos avançar nas coordenadas codificadas em sua base, precisaremos entrar em contato com as forças da resistência local na região."
+
+[T_Support_Psi_Gate_Mission_Intro_Central AkEvent]
+SpokenText="Comandante, Shen confirmou que temos as coordenadas da última posição conhecida do Codex, mas precisaremos entrar em contato com as forças da resistência local na região para coordenar nossa investigação do local."
+
+[T_Support_Reminder_Knock_Out_VIP_Central_01 AkEvent]
+SpokenText="Ameaça 1-5, lembre-se, estamos aqui para capturar o VIP, se possível. Derrube-os e traga-os."
+
+[T_Support_Reminder_Shoot_Escaping_VIP_Central_01 AkEvent]
+SpokenText="Ameaça 1-5, se não pudermos trazer o alvo vivo, elimine-o. Não podemos deixá-lo escapar."
+
+[T_Support_Reminder_Soldier_Bleeding_Out_Central_01 AkEvent]
+SpokenText="Temos que ajudar aquele soldado antes que ele desmaie de hemorragia. Estabilize-o com um kit médico ou chame a evacuação e carregue-o até o ponto de extração. Ele não vai durar muito mais sem ajuda."
+
+[T_Tactical_Callouts_Advent_Central_01 AkEvent]
+SpokenText="A ADVENT tem muitos recursos quando se trata de impulsionar seus esforços de recrutamento, mas ninguém nunca para para pensar no que estão sendo recrutados para."
+
+[T_Tactical_Callouts_Kiosk_Central_01 AkEvent]
+SpokenText="Algo me diz que eles vão precisar de muitos mais quiosques quando terminarmos."
+
+[T_Tactical_Callouts_Resistance_Central_01 AkEvent]
+SpokenText="A resistência conseguiu recuperar e restaurar alguns desses bloqueadores de comunicação móvel ao longo dos anos. Com alguns reparos improvisados, essas coisas têm sido inestimáveis para o esforço de resistência."
+
+[T_Tactical_Callouts_Resistance_Central_02 AkEvent]
+SpokenText="A resistência fez de tudo para convencer as pessoas a se juntarem à causa, mas é uma batalha difícil quando você tem a ADVENT sussurrando propaganda no ouvido 24 horas por dia."
+
+[T_Tactical_Callouts_Resistance_Central_03 AkEvent]
+SpokenText="Estou contente em ver que os novos recrutas da resistência estão sendo treinados, eles precisam estar preparados para a próxima varredura da ADVENT nesta área."
+
+[T_Terror_Narrative_Wrappers_01 AkEvent]
+Sp
+
+okenText="Agora que chamamos a atenção dos alienígenas, eles estão atacando um dos postos avançados da resistência nesta área. Estamos avançando para assegurar o acampamento e proteger o máximo de civis que pudermos. Elimine todas as forças hostis atacando o local, faça-os se arrepender de terem atacado a resistência."
+
+[T_Terror_Narrative_Wrappers_02 AkEvent]
+SpokenText="Os chamados mantenedores da paz da ADVENT estão atacando um dos acampamentos da resistência nesta área, e eles estão matando civis e combatentes indiscriminadamente. Estamos implantando para proteger o máximo de pessoas que pudermos. Assegure o local e elimine quaisquer forças hostis que ainda ameacem a área."
+
+[T_Terror_Narrative_Wrappers_03 AkEvent]
+SpokenText="Acabamos de receber um sinal de socorro intermitente de um dos acampamentos da resistência, os alienígenas estão varrendo toda a área, matando todos que encontram. Estamos nos movendo para assegurar o local o mais rápido possível. Neutralize todos os contatos hostis."
+
+[T_Terror_Narrative_Wrappers_04 AkEvent]
+SpokenText="Um de nossos contatos na resistência informou que os mantenedores da paz da ADVENT foram avistados conduzindo uma varredura perto de um posto avançado nesta área. Os alienígenas não hesitarão em matar qualquer um que encontrarem, então estamos indo para proteger o máximo de pessoas que pudermos. Assegure o acampamento e elimine todas as forças hostis."
+
+[T_Terror_Narrative_Wrappers_05 AkEvent]
+SpokenText="Acabamos de receber a notícia de que os alienígenas estão atacando um posto avançado da resistência nesta região e que eles não têm piedade. Essas pessoas precisam da nossa ajuda, e estamos indo garantir que os alienígenas se arrependam de terem atacado a resistência. Neutralize todos os contatos hostis na área e assegure o acampamento."
+
+[T_Unique_Missions_Blacksite_Central_01 AkEvent]
+SpokenText="Nossos contatos na resistência local nos mostraram como acessar a Base da ADVENT. Os alienígenas trabalharam duro para manter esse lugar sob o radar, e não sabemos o que encontraremos lá dentro. Mantenha-se alerta, espere uma forte oposição."
+
+[T_Unique_Missions_Forge_Central_01 AkEvent]
+SpokenText="Pelo que podemos dizer, esta Forja é algum tipo de instalação de produção alienígena, muito provavelmente relacionada ao material que encontramos na Base da ADVENT. A ADVENT e as forças alienígenas não ficarão felizes em nos ver, então espere uma forte resistência. Temos que fazer o que for preciso para descobrir o que está acontecendo lá dentro."
+
+[T_Unique_Missions_Psi_Gate_Central_01 AkEvent]
+SpokenText="Shen e Tygan mal conseguiram obter essas coordenadas daquele "Codex" que encontramos na Câmara das Sombras. Estamos supondo que este pode ser o ponto de origem, mas não podemos ter certeza. Com base na luta que ele deu, espero uma resistência pesada de qualquer maneira. Boa sorte lá embaixo."
+
+[T_Unique_Missions_Terror_Attack_Central_01 AkEvent]
+SpokenText="Os alienígenas acabaram de atingir um dos postos avançados da resistência - com força total. Pode ser que haja sobreviventes, mas essa é a melhor das hipóteses. Estamos avançando para assegurar o local. Neutralize todos os contatos hostis."
+
+[T_Unique_Missions_Terror_Attack_Central_02 AkEvent]
+SpokenText="Acabamos de receber a notícia de que os alienígenas estão atacando um posto avançado da resistência com tudo o que têm, e nosso pessoal não tem a menor chance contra eles. Estamos indo para assegurar a área e eliminar todos os contatos inimigos."
+
+[T_Unique_Missions_Terror_Attack_Central_03 AkEvent]
+SpokenText="Estamos recebendo um sinal de socorro intermitente, e pelo que sabemos, os alienígenas estão atacando um posto avançado da resistência. Não parece bom. Estamos nos movendo para assegurar o local o mais rápido possível. Neutralize todos os contatos inimigos."
+
+[T_Unique_Missions_Terror_Attack_Central_04 AkEvent]
+SpokenText="O reconhecimento captou um grande tráfego de comunicação de forças alienígenas se movendo para atacar um posto avançado da resistência nesta região, e nós somos os únicos com alguma chance de detê-los. Estamos indo para assegurar a área. Neutralize todos os contatos hostis com extrema determinação."
+
+[T_Unique_Missions_Terror_Attack_Central_05 AkEvent]
+SpokenText="Acabamos de receber um aviso, os alienígenas montaram uma força enorme para atacar um posto avançado da resistência nas proximidades, e essas pessoas precisam desesperadamente de qualquer ajuda que possamos fornecer. Estamos indo para eliminar a ameaça inimiga e assegurar a área."
+
+[Tactical_Fortress_Central_Avatar_Development AkEvent]
+SpokenText="Não tenho certeza se gosto para onde isso está indo."
+
+[Tactical_Fortress_Human_Tubes_Central AkEvent]
+SpokenText="Parece muito com o sistema que encontramos na Base da ADVENT."
