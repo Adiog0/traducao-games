@@ -1,5 +1,5 @@
-[S_Build_Outpost_Long_Female_French_Speaker_01 AkEvent]
-SpokenText="...não temos notícias dele desde o centro de genética..."
+ï»¿[S_Build_Outpost_Long_Female_French_Speaker_01 AkEvent]
+SpokenText="...nÃ£o temos notÃ­cias dele desde o centro de genÃ©tica..."
 
 [S_Build_Outpost_Long_Female_Portuguese_Speaker_01 AkEvent]
 SpokenText="...transporte de alimentos a caminho..."
@@ -8,16 +8,16 @@ SpokenText="...transporte de alimentos a caminho..."
 SpokenText="...monitorando atividades no setor Sul..."
 
 [S_Build_Outpost_Short_Female_French_Speaker_01 AkEvent]
-SpokenText="Viva a resistência."
+SpokenText="Viva a resistÃªncia."
 
 [S_Build_Outpost_Short_Female_Portuguese_Speaker_01 AkEvent]
-SpokenText="Viva a resistência."
+SpokenText="Viva a resistÃªncia."
 
 [S_Build_Outpost_Short_Male_Chinese_Speaker_01 AkEvent]
-SpokenText="Viva a resistência."
+SpokenText="Viva a resistÃªncia."
 
 [S_Build_Outpost_Short_Male_English_Speaker_01 AkEvent]
-SpokenText="Viva a resistência."
+SpokenText="Viva a resistÃªncia."
 
 [S_Intro_Advent_Trooper_01 AkEvent]
 SpokenText="Mor Balaten."
@@ -26,49 +26,49 @@ SpokenText="Mor Balaten."
 SpokenText="Mor Balaten!"
 
 [S_Intro_Female_Anchor_01_01 AkEvent]
-SpokenText="A empolgação continua crescendo enquanto os centros urbanos ao redor do mundo se preparam para o 20º aniversário do Dia da Unificação."
+SpokenText="A empolgaÃ§Ã£o continua crescendo enquanto os centros urbanos ao redor do mundo se preparam para o 20Âº aniversÃ¡rio do Dia da UnificaÃ§Ã£o."
 
 [S_Intro_Female_Anchor_01_02 AkEvent]
-SpokenText="As forças de paz já fizeram várias prisões preventivas de colaboradores conhecidos."
+SpokenText="As forÃ§as de paz jÃ¡ fizeram vÃ¡rias prisÃµes preventivas de colaboradores conhecidos."
 
 [S_Intro_Female_Anchor_01_03 AkEvent]
-SpokenText="A ADVENT mais uma vez garante a todos os cidadãos que as celebrações de hoje continuarão conforme planejado."
+SpokenText="A ADVENT mais uma vez garante a todos os cidadÃ£os que as celebraÃ§Ãµes de hoje continuarÃ£o conforme planejado."
 
 [S_Intro_Female_Anchor_02_01 AkEvent]
-SpokenText="Já milhares de pessoas aguardam no local do Grande Acordo, celebrando a formação da Coalizão ADVENT."
+SpokenText="JÃ¡ milhares de pessoas aguardam no local do Grande Acordo, celebrando a formaÃ§Ã£o da CoalizÃ£o ADVENT."
 
 [S_Intro_Female_Anchor_03_01 AkEvent]
-SpokenText="Apesar da tentativa de ataque por elementos marginais, as operações no novo centro em Paris permanecem ilesas, graças a Deus."
+SpokenText="Apesar da tentativa de ataque por elementos marginais, as operaÃ§Ãµes no novo centro em Paris permanecem ilesas, graÃ§as a Deus."
 
 [S_Intro_Male_Anchor_01_01 AkEvent]
-SpokenText="E em cumprimento à sua promessa à humanidade, 12 novas clínicas de terapia genética serão inauguradas em cidades selecionadas até o final do próximo ano."
+SpokenText="E em cumprimento Ã  sua promessa Ã  humanidade, 12 novas clÃ­nicas de terapia genÃ©tica serÃ£o inauguradas em cidades selecionadas atÃ© o final do prÃ³ximo ano."
 
 [S_Intro_Male_Anchor_02_01 AkEvent]
-SpokenText="Em resposta à intrusão não provocada na véspera de nossa celebração mais querida, o Porta-voz se dirige a nós..."
+SpokenText="Em resposta Ã  intrusÃ£o nÃ£o provocada na vÃ©spera de nossa celebraÃ§Ã£o mais querida, o Porta-voz se dirige a nÃ³s..."
 
 [S_Victory_Ethereal_Consc_01 AkEvent]
-SpokenText="VOCÊ!"
+SpokenText="VOCÃŠ!"
 
 [S_Victory_Ethereal_Consc_02 AkEvent]
 SpokenText="Aquele que presumiria nos completar?!"
 
 [S_Victory_Ethereal_Consc_03 AkEvent]
-SpokenText="Agora nada pode detê-lo."
+SpokenText="Agora nada pode detÃª-lo."
 
 [S_Victory_Ethereal_Consc_04 AkEvent]
-SpokenText="Sua vitória aqui significa o fim para todos os outros."
+SpokenText="Sua vitÃ³ria aqui significa o fim para todos os outros."
 
 [S_Victory_Ethereal_Consc_05 AkEvent]
-SpokenText="Isso o seguirá assim como nos seguiu..."
+SpokenText="Isso o seguirÃ¡ assim como nos seguiu..."
 
 [S_Victory_Ethereal_Consc_06 AkEvent]
-SpokenText="E você falhará. Assim como nós falhamos."
+SpokenText="E vocÃª falharÃ¡. Assim como nÃ³s falhamos."
 
 [S_Victory_Female_Resistance_Op_01_01 AkEvent]
-SpokenText="Esta é a Rede de Libertação transmitindo em todas as frequências. A ADVENT está em plena retirada em todas as áreas..."
+SpokenText="Esta Ã© a Rede de LibertaÃ§Ã£o transmitindo em todas as frequÃªncias. A ADVENT estÃ¡ em plena retirada em todas as Ã¡reas..."
 
 [S_Victory_Female_Resistance_Op_02_01 AkEvent]
-SpokenText="Antes chamadas de "terras perdidas", as regiões periféricas estão cheias de atividade enquanto as pessoas fogem dos Centros Urbanos controlados pela ADVENT."
+SpokenText="Antes chamadas de "terras perdidas", as regiÃµes perifÃ©ricas estÃ£o cheias de atividade enquanto as pessoas fogem dos Centros Urbanos controlados pela ADVENT."
 
 [S_Victory_Male_Resistance_Op_01_01 AkEvent]
-SpokenText="Pesados combates continuam nos Centros Urbanos enquanto as forças ADVENT tentam se reagrupar..."
+SpokenText="Pesados combates continuam nos Centros Urbanos enquanto as forÃ§as ADVENT tentam se reagrupar..."

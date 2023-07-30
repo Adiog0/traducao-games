@@ -1,14 +1,14 @@
-[CS_Strategy_WelcomeToTheLabs SoundNodeWave]
-SpokenText="Ol·, Comandante, meu nome È Dra. Vahlen. Sou respons·vel pelos laboratÛrios de pesquisa. … aqui que ocorrem todas as pesquisas e desenvolvimentos da XCom."
+Ôªø[CS_Strategy_WelcomeToTheLabs SoundNodeWave]
+SpokenText="Ol√°, Comandante, meu nome √© Dra. Vahlen. Sou respons√°vel pelos laborat√≥rios de pesquisa. √â aqui que ocorrem todas as pesquisas e desenvolvimentos da XCom."
 
 [TP01_1stUFOShotDown_02_CEN SoundNodeWave]
-SpokenText="CÛpia sÛlida, Voodoo TrÍs-Sete. Bom trabalho. Central, desligo. Certo, pessoal-"
+SpokenText="C√≥pia s√≥lida, Voodoo Tr√™s-Sete. Bom trabalho. Central, desligo. Certo, pessoal-"
 
 [TP01_1stUFOShotDown_03_CEN SoundNodeWave]
-SpokenText="-redirecione o SatÈlite RECON Bravo e me dÍ uma visualizaÁ„o do local da queda."
+SpokenText="-redirecione o Sat√©lite RECON Bravo e me d√™ uma visualiza√ß√£o do local da queda."
 
 [TP01_1stUFOShotDown_04_CONTROLLER1 SoundNodeWave]
-SpokenText="Ela est· entrando no alcance agora, senhor."
+SpokenText="Ela est√° entrando no alcance agora, senhor."
 
 [TP01_1stUFOShotDown_05_CEN SoundNodeWave]
 SpokenText="Na tela."
@@ -26,102 +26,102 @@ SpokenText="Ainda inteiro..."
 SpokenText="Comandante, eu recomendo que enviemos uma equipe de ataque para o local da queda imediatamente."
 
 [TP01A_ArcThrower_01_CEN SoundNodeWave]
-SpokenText="VocÍ est· me dizendo que devemos arriscar a vida de nossas tropas para capturar um desses seres... vivo?"
+SpokenText="Voc√™ est√° me dizendo que devemos arriscar a vida de nossas tropas para capturar um desses seres... vivo?"
 
 [TP01A_ArcThrower_02_CS SoundNodeWave]
-SpokenText="Sim. Sem um espÈcime vivo, temo que tenhamos atingido o ·pice do que minha equipe È capaz de realizar."
+SpokenText="Sim. Sem um esp√©cime vivo, temo que tenhamos atingido o √°pice do que minha equipe √© capaz de realizar."
 
 [TP01A_ArcThrower_03_CEN SoundNodeWave]
-SpokenText="E como vocÍ sugere que faÁamos isso, Dra.?"
+SpokenText="E como voc√™ sugere que fa√ßamos isso, Dra.?"
 
 [TP01A_ArcThrower_04_CS SoundNodeWave]
-SpokenText="A autÛpsia que acabei de concluir confirma que a fisiologia dos alienÌgenas È bastante similar ‡ nossa. Uma corrente elÈtrica altamente concentrada, entregue a curta dist‚ncia, deve causar incapacitaÁ„o neuromuscular, interrompendo-"
+SpokenText="A aut√≥psia que acabei de concluir confirma que a fisiologia dos alien√≠genas √© bastante similar √† nossa. Uma corrente el√©trica altamente concentrada, entregue a curta dist√¢ncia, deve causar incapacita√ß√£o neuromuscular, interrompendo-"
 
 [TP01A_ArcThrower_05_CEN SoundNodeWave]
-SpokenText="Curta dist‚ncia? E se n„o funcionar? VocÍ realmente acha que vale o risco?"
+SpokenText="Curta dist√¢ncia? E se n√£o funcionar? Voc√™ realmente acha que vale o risco?"
 
 [TP01A_ArcThrower_06_CE SoundNodeWave]
 SpokenText="Acredito que sim."
 
 [TP01A_ArcThrower_07_CE SoundNodeWave]
-SpokenText="N„o conhecemos nosso inimigo. Como podemos esperar parar algo que n„o entendemos? Se pudermos capturar um desses seres vivos, talvez possamos... nos comunicar com ele."
+SpokenText="N√£o conhecemos nosso inimigo. Como podemos esperar parar algo que n√£o entendemos? Se pudermos capturar um desses seres vivos, talvez possamos... nos comunicar com ele."
 
 [TP01A_ArcThrower_08_CEN SoundNodeWave]
-SpokenText="...e interrog·-lo. Descobrir o que eles querem... de onde est„o operando..."
+SpokenText="...e interrog√°-lo. Descobrir o que eles querem... de onde est√£o operando..."
 
 [TP01A_ArcThrower_09_CE SoundNodeWave]
 SpokenText="Sim. Essa possibilidade supera todos os riscos."
 
 [TP01A_ArcThrower_10_CE SoundNodeWave]
-SpokenText="Posso construir uma instalaÁ„o segura para abrigar nosso prisioneiro, mas n„o sei como poderÌamos nos comunicar com ele."
+SpokenText="Posso construir uma instala√ß√£o segura para abrigar nosso prisioneiro, mas n√£o sei como poder√≠amos nos comunicar com ele."
 
 [TP01A_ArcThrower_11_CS SoundNodeWave]
-SpokenText="N„o se preocupe. Eu cuidarei disso..."
+SpokenText="N√£o se preocupe. Eu cuidarei disso..."
 
 [TP01A_ArcThrower_12_CEN SoundNodeWave]
 SpokenText="Certo. Vou falar com o Comandante."
 
 [TP02_Terror_01_CE SoundNodeWave]
-SpokenText="Parece que eles mudaram suas t·ticas. Mas por quÍ? Por que fazer isso?"
+SpokenText="Parece que eles mudaram suas t√°ticas. Mas por qu√™? Por que fazer isso?"
 
 [TP02_Terror_02_CEN SoundNodeWave]
-SpokenText="… uma mensagem... para o mundo inteiro... que nada pode detÍ-los."
+SpokenText="√â uma mensagem... para o mundo inteiro... que nada pode det√™-los."
 
 [TP03_CodeReveal_01_CE SoundNodeWave]
-SpokenText="Isso È tudo o que restou do espÈcime que tentamos capturar?"
+SpokenText="Isso √© tudo o que restou do esp√©cime que tentamos capturar?"
 
 [TP03_CodeReveal_02_CS SoundNodeWave]
 SpokenText="Sim. Acredito que possamos ter encontrado a origem das estranhas leituras que detectamos quando o encontramos pela primeira vez."
 
 [TP03_CodeReveal_03_CEN SoundNodeWave]
-SpokenText="O que È isso, Dra.?"
+SpokenText="O que √© isso, Dra.?"
 
 [TP03_CodeReveal_04_CS SoundNodeWave]
-SpokenText="N„o temos certeza exata. … org‚nico, mas altamente magnetizado. E parece ressoar, muito fracamente
+SpokenText="N√£o temos certeza exata. √â org√¢nico, mas altamente magnetizado. E parece ressoar, muito fracamente
 
-, em um espectro eletromagnÈtico especÌfico. Atualmente, n„o est· claro como ou-"
+, em um espectro eletromagn√©tico espec√≠fico. Atualmente, n√£o est√° claro como ou-"
 
 [TP03_CodeReveal_05_CE SoundNodeWave]
-SpokenText="Talvez... isso aconteÁa porque isso est· alÈm de sua ·rea de especializaÁ„o, Dra. Se o que vocÍ est· dizendo for verdade, esse objeto È uma antena, que est· recebendo um sinal."
+SpokenText="Talvez... isso aconte√ßa porque isso est√° al√©m de sua √°rea de especializa√ß√£o, Dra. Se o que voc√™ est√° dizendo for verdade, esse objeto √© uma antena, que est√° recebendo um sinal."
 
 [TP03_CodeReveal_06_CEN SoundNodeWave]
-SpokenText="Esse sinal... Podemos rastre·-lo?"
+SpokenText="Esse sinal... Podemos rastre√°-lo?"
 
 [TP03_CodeReveal_07_CE SoundNodeWave]
-SpokenText="N„o. Pelo menos, ainda n„o. Primeiro precisamos determinar o algoritmo de criptografia."
+SpokenText="N√£o. Pelo menos, ainda n√£o. Primeiro precisamos determinar o algoritmo de criptografia."
 
 [TP03_CodeReveal_08_CS SoundNodeWave]
 SpokenText="Minha equipe pode lidar com isso."
 
 [TP03_CodeReveal_09_CE SoundNodeWave]
-SpokenText="Nesse caso, vou me concentrar em construir uma interface entre esse objeto e nossa matriz de comunicaÁıes global, o que precisaremos para rastrear o sinal."
+SpokenText="Nesse caso, vou me concentrar em construir uma interface entre esse objeto e nossa matriz de comunica√ß√µes global, o que precisaremos para rastrear o sinal."
 
 [TP03_CodeReveal_10_CEN SoundNodeWave]
-SpokenText="Ent„o parece que pesquisar esse 'Cristal' deve ser nossa principal prioridade."
+SpokenText="Ent√£o parece que pesquisar esse 'Cristal' deve ser nossa principal prioridade."
 
 [TP04_AlienPact_01_Council SoundNodeWave]
-SpokenText="A incapacidade deste projeto de manter o apoio de v·rios membros cruciais do conselho... reduziu significativamente a efic·cia de ambas as entidades. Todo esse empreendimento foi resultado de um plano mal concebido... Uma sÈrie de simples... mal-entendidos, respondidos com uma... resposta exagerada. Acreditamos que a melhor aÁ„o agora È cooperar com os alienÌgenas, para o... benefÌcio... de toda a humanidade. Estamos unidos nessa decis„o... O caminho ‡ frente... est· claro..."
+SpokenText="A incapacidade deste projeto de manter o apoio de v√°rios membros cruciais do conselho... reduziu significativamente a efic√°cia de ambas as entidades. Todo esse empreendimento foi resultado de um plano mal concebido... Uma s√©rie de simples... mal-entendidos, respondidos com uma... resposta exagerada. Acreditamos que a melhor a√ß√£o agora √© cooperar com os alien√≠genas, para o... benef√≠cio... de toda a humanidade. Estamos unidos nessa decis√£o... O caminho √† frente... est√° claro..."
 
 [TP05_AlienBaseDetected_01_CEN SoundNodeWave]
-SpokenText="AÌ est· vocÍ... T·tico, temos uma ·guia sobre estas coordenadas?"
+SpokenText="A√≠ est√° voc√™... T√°tico, temos uma √°guia sobre estas coordenadas?"
 
 [TP05_AlienBaseDetected_03_CEN SoundNodeWave]
 SpokenText="Nada..."
 
 [TP05_AlienBaseDetected_04_CE SoundNodeWave]
-SpokenText="N„o, isso È impossÌvel. Eu sei que est· l·."
+SpokenText="N√£o, isso √© imposs√≠vel. Eu sei que est√° l√°."
 
 [TP05_AlienBaseDetected_05_CEN SoundNodeWave]
-SpokenText="Mude para tÈrmico."
+SpokenText="Mude para t√©rmico."
 
 [TP05_AlienBaseDetected_06_CEN SoundNodeWave]
-SpokenText="Ol·... Me mostre o subsolo."
+SpokenText="Ol√°... Me mostre o subsolo."
 
 [TP05_AlienBaseDetected_07_CEN SoundNodeWave]
 SpokenText="Aha!"
 
 [TP05_AlienBaseDetected_09_CS SoundNodeWave]
-SpokenText="Pense no que podemos encontrar quando entrarmos nessa instalaÁ„o... Imagine o que eles podem estar fazendo l· embaixo."
+SpokenText="Pense no que podemos encontrar quando entrarmos nessa instala√ß√£o... Imagine o que eles podem estar fazendo l√° embaixo."
 
 [TP05_AlienBaseDetected_10_CE SoundNodeWave]
 SpokenText="Tenho certeza de que descobriremos em breve."
@@ -130,75 +130,75 @@ SpokenText="Tenho certeza de que descobriremos em breve."
 SpokenText="OK, encontramos... Agora, como vamos entrar?"
 
 [TP05_AlienBaseDetected_12_CE SoundNodeWave]
-SpokenText="Eu sabia que vocÍ nunca ia perguntar..."
+SpokenText="Eu sabia que voc√™ nunca ia perguntar..."
 
 [TP06_HyperwaveRetrieved_01_CS SoundNodeWave]
-SpokenText="Comandante... Fico feliz em ver que n„o sou o ˙nico que entende que essa guerra ainda n„o acabou."
+SpokenText="Comandante... Fico feliz em ver que n√£o sou o √∫nico que entende que essa guerra ainda n√£o acabou."
 
 [TP06_HyperwaveRetrieved_02_CS SoundNodeWave]
-SpokenText="A existÍncia deste artefato, que acreditamos ser um dispositivo de comunicaÁ„o de alguma espÈcie, levanta a pergunta - Se o Comandante SectÛide era o lÌder alienÌgena, ent„o com quem, ou o que, ele estava se comunicando?"
+SpokenText="A exist√™ncia deste artefato, que acreditamos ser um dispositivo de comunica√ß√£o de alguma esp√©cie, levanta a pergunta - Se o Comandante Sect√≥ide era o l√≠der alien√≠gena, ent√£o com quem, ou o que, ele estava se comunicando?"
 
 [TP06_HyperwaveRetrieved_03_CS SoundNodeWave]
-SpokenText="Acredito que este seja o mesmo ser que encontramos quando fizemos o primeiro contato com os alienÌgenas. Como observamos, ele È de alguma forma capaz de usar a mente como uma arma. Se estud·ssemos o tecido cerebral desse espÈcime, talvez pudÈssemos adaptar essa habilidade para nossos prÛprios propÛsitos."
+SpokenText="Acredito que este seja o mesmo ser que encontramos quando fizemos o primeiro contato com os alien√≠genas. Como observamos, ele √© de alguma forma capaz de usar a mente como uma arma. Se estud√°ssemos o tecido cerebral desse esp√©cime, talvez pud√©ssemos adaptar essa habilidade para nossos pr√≥prios prop√≥sitos."
 
 [TP06A_Victory_02_CEN SoundNodeWave]
-SpokenText="Entendi, Voodoo TrÍs-Um. Nos vemos l· dentro. Central, encerrando."
+SpokenText="Entendi, Voodoo Tr√™s-Um. Nos vemos l√° dentro. Central, encerrando."
 
 [TP06A_Victory_03_CEN SoundNodeWave]
 SpokenText="Algo errado, Dra.?"
 
 [TP06A_Victory_04_CS SoundNodeWave]
-SpokenText="VocÍ acha prematuro celebrar uma vitÛria neste momento?"
+SpokenText="Voc√™ acha prematuro celebrar uma vit√≥ria neste momento?"
 
 [TP06A_Victory_05_CEN SoundNodeWave]
-SpokenText="Prazer em falar com vocÍ tambÈm, ent„o."
+SpokenText="Prazer em falar com voc√™ tamb√©m, ent√£o."
 
 [TP06A_Victory_06_CEN SoundNodeWave]
 SpokenText="Neutralizamos o comando central deles-"
 
 [TP06A_Victory_07_CEN SoundNodeWave]
-SpokenText="N„o recebemos nenhum outro alerta em todo o sistema-"
+SpokenText="N√£o recebemos nenhum outro alerta em todo o sistema-"
 
 [TP06A_Victory_08_CEN SoundNodeWave]
-SpokenText="E acabamos com o lÌder deles. No meu livro, isso È uma vitÛria, Dra."
+SpokenText="E acabamos com o l√≠der deles. No meu livro, isso √© uma vit√≥ria, Dra."
 
 [TP07_HyperwaveUplink_01_CONTROLLER3 SoundNodeWave]
-SpokenText="Espera, o que vocÍ fez?"
+SpokenText="Espera, o que voc√™ fez?"
 
 [TP07_HyperwaveUplink_02_CONTROLLER4 SoundNodeWave]
 SpokenText="Desliguem tudo!"
 
 [TP07_HyperwaveUplink_03_CS SoundNodeWave]
-SpokenText="N„o toquem em nada!"
+SpokenText="N√£o toquem em nada!"
 
 [TP07_HyperwaveUplink_04_CS SoundNodeWave]
-SpokenText="Isso pode ser o que est·vamos esperando!"
+SpokenText="Isso pode ser o que est√°vamos esperando!"
 
 [TP07_HyperwaveUplink_05_CE SoundNodeWave]
-SpokenText="Est· se desintegrando! Desliguem agora! Pode destruir toda a base!"
+SpokenText="Est√° se desintegrando! Desliguem agora! Pode destruir toda a base!"
 
 [TP07_HyperwaveUplink_06_CS SoundNodeWave]
-SpokenText="Nein! DÍem tempo!"
+SpokenText="Nein! D√™em tempo!"
 
 [TP07_HyperwaveUplink_07_CS SoundNodeWave]
 SpokenText="Pela primeira vez, confiem em mim."
 
 [TP07_HyperwaveUplink_08_CONTROLLER4 SoundNodeWave]
-SpokenText="O que est· acontecendo agora?"
+SpokenText="O que est√° acontecendo agora?"
 
 [TP07_HyperwaveUplink_09_CE SoundNodeWave]
-SpokenText="Est·... funcionando."
+SpokenText="Est√°... funcionando."
 
 [TP08_FirestormBuilt_01_CEN SoundNodeWave]
 SpokenText="Acho que acabamos de nivelar o campo de jogo..."
 
 [TP10_DeviceRetrieved_01_CE SoundNodeWave]
-SpokenText="Recuperado de uma nave camuflada... E guardado pela criatura mais poderosa que j· encontramos... O que vocÍ a
+SpokenText="Recuperado de uma nave camuflada... E guardado pela criatura mais poderosa que j√° encontramos... O que voc√™ a
 
-cha que È?"
+cha que √©?"
 
 [TP10_DeviceRetrieved_02_CS SoundNodeWave]
-SpokenText="Um objeto de imenso poder. Pense em tudo o que poderÌamos fazer se desvend·ssemos seus segredos."
+SpokenText="Um objeto de imenso poder. Pense em tudo o que poder√≠amos fazer se desvend√°ssemos seus segredos."
 
 [TP10_DeviceRetrieved_03_CE SoundNodeWave]
 SpokenText="Um sentimento perigoso, Dra."
@@ -207,61 +207,61 @@ SpokenText="Um sentimento perigoso, Dra."
 SpokenText="Outra nave camuflada?"
 
 [TP10_DeviceRetrieved_07_CEN SoundNodeWave]
-SpokenText="Nada do que temos faria sequer um arranh„o naquela coisa."
+SpokenText="Nada do que temos faria sequer um arranh√£o naquela coisa."
 
 [TP10_DeviceRetrieved_08_CE SoundNodeWave]
 SpokenText="Vamos precisar de armas maiores."
 
 [TP10_DeviceRetrieved_09_CEN SoundNodeWave]
-SpokenText="Nada do que temos faria sequer um arranh„o naquela coisa."
+SpokenText="Nada do que temos faria sequer um arranh√£o naquela coisa."
 
 [TP10_DeviceRetrieved_10_CE SoundNodeWave]
 SpokenText="Vamos precisar de um novo plano."
 
 [TP10_DeviceRetrieved_11_CEN SoundNodeWave]
-SpokenText="Diga que foi uma coincidÍncia."
+SpokenText="Diga que foi uma coincid√™ncia."
 
 [TP10_DeviceRetrieved_13_CEN SoundNodeWave]
-SpokenText="Se vocÍs dois tÍm mais ideias brilhantes... agora È a hora."
+SpokenText="Se voc√™s dois t√™m mais ideias brilhantes... agora √© a hora."
 
 [TP1B_PostInterrogation_01_CEN SoundNodeWave]
-SpokenText="Ent„o... como foi, Dra.?"
+SpokenText="Ent√£o... como foi, Dra.?"
 
 [TP1B_PostInterrogation_02_CS SoundNodeWave]
-SpokenText="Melhor do que o esperado. Antes que a criatura morresse, consegui extrair algumas informaÁıes novas dela."
+SpokenText="Melhor do que o esperado. Antes que a criatura morresse, consegui extrair algumas informa√ß√µes novas dela."
 
 [TP1B_PostInterrogation_03_CEN SoundNodeWave]
-SpokenText="VocÍ est· dizendo que aquela coisa... falou com vocÍ?"
+SpokenText="Voc√™ est√° dizendo que aquela coisa... falou com voc√™?"
 
 [TP1B_PostInterrogation_04_CS SoundNodeWave]
-SpokenText="N„o exatamente, mas quando vocÍ tem acesso ao cÈrebro de uma criatura, certos padrıes podem ser discernidos. Imagens recentes e pensamentos..."
+SpokenText="N√£o exatamente, mas quando voc√™ tem acesso ao c√©rebro de uma criatura, certos padr√µes podem ser discernidos. Imagens recentes e pensamentos..."
 
 [TP1B_PostInterrogation_05_CEN SoundNodeWave]
 SpokenText="E sobre o que exatamente nosso amigo falecido estava pensando?"
 
 [TP1B_PostInterrogation_06_CS SoundNodeWave]
-SpokenText="Essa imagem em particular apareceu nos padrıes de pensamento da criatura v·rias vezes durante o procedimento..."
+SpokenText="Essa imagem em particular apareceu nos padr√µes de pensamento da criatura v√°rias vezes durante o procedimento..."
 
 [TP1B_PostInterrogation_07_CEN SoundNodeWave]
-SpokenText="J· conhecemos aquela coisa, Dra. Isso est· longe de ser o avanÁo que esper·vamos-"
+SpokenText="J√° conhecemos aquela coisa, Dra. Isso est√° longe de ser o avan√ßo que esper√°vamos-"
 
 [TP1B_PostInterrogation_08_CS SoundNodeWave]
-SpokenText="...e, havia uma conex„o neural na mente da criatura entre essa imagem..."
+SpokenText="...e, havia uma conex√£o neural na mente da criatura entre essa imagem..."
 
 [TP1B_PostInterrogation_09_CS SoundNodeWave]
 SpokenText="... e esta aqui."
 
 [TP1B_PostInterrogation_10_CEN SoundNodeWave]
-SpokenText="Essa È a coisa que desapareceu quando derrubamos nosso primeiro OVNI. E deixe-me adivinhar, vocÍ quer mexer na mente dela tambÈm."
+SpokenText="Essa √© a coisa que desapareceu quando derrubamos nosso primeiro OVNI. E deixe-me adivinhar, voc√™ quer mexer na mente dela tamb√©m."
 
 [TP1B_PostInterrogation_11_CS SoundNodeWave]
-SpokenText="… a prÛxima peÁa do quebra-cabeÁa. E desta vez, ao invÈs de atirarmos nela, sugiro que tentemos captur·-la viva."
+SpokenText="√â a pr√≥xima pe√ßa do quebra-cabe√ßa. E desta vez, ao inv√©s de atirarmos nela, sugiro que tentemos captur√°-la viva."
 
 [TP_ChryssalidVictim_02_DELTA2 SoundNodeWave]
-SpokenText="Central, acho que acabei de encontrar outro membro da equipe de reconhecimento. Ou o que sobrou dele. Mas isso n„o faz sentido... parece que ele est· morto h· uma semana."
+SpokenText="Central, acho que acabei de encontrar outro membro da equipe de reconhecimento. Ou o que sobrou dele. Mas isso n√£o faz sentido... parece que ele est√° morto h√° uma semana."
 
 [TP_ChryssalidVictim_03_CS SoundNodeWave]
-SpokenText="Ainda mais perplexo È a causa da morte. Parece que ele foi eviscerado quando algo saiu de dentro dele."
+SpokenText="Ainda mais perplexo √© a causa da morte. Parece que ele foi eviscerado quando algo saiu de dentro dele."
 
 [TP_FirstContact_03_DELTA3 SoundNodeWave]
 SpokenText="Meu Deus..."
@@ -273,23 +273,23 @@ SpokenText="Caramba..."
 SpokenText="Parece ser um membro da equipe de reconhecimento, senhor. Parece que algo..."
 
 [TP_Soldier1Discovered_07_DELTA4 SoundNodeWave]
-SpokenText="Negativo, senhor. Esse È outra pessoa..."
+SpokenText="Negativo, senhor. Esse √© outra pessoa..."
 
 [TP_SurvivorReturns_01_CS SoundNodeWave]
-SpokenText="O que s„o eles?"
+SpokenText="O que s√£o eles?"
 
 [TP_SurvivorReturns_02_CEN SoundNodeWave]
-SpokenText="Seja o que for, quase acabaram com um esquadr„o de nossos melhores soldados. Se me der licenÁa, Doutores, o Comandante est· esperando no Controle de Miss„o."
+SpokenText="Seja o que for, quase acabaram com um esquadr√£o de nossos melhores soldados. Se me der licen√ßa, Doutores, o Comandante est√° esperando no Controle de Miss√£o."
 
 [TP_SurvivorReturns_03_CE SoundNodeWave]
-SpokenText="Sua tecnologia est· muito alÈm da nossa."
+SpokenText="Sua tecnologia est√° muito al√©m da nossa."
 
 [TP_SurvivorReturns_04_CS SoundNodeWave]
-SpokenText="Ent„o diria que nosso trabalho est· cortado, Dra."
+SpokenText="Ent√£o diria que nosso trabalho est√° cortado, Dra."
 
 [TP_SurvivorReturns_05_CEN SoundNodeWave]
-SpokenText="Bem-vindo ‡ sede da XCOM, Comandante."
+SpokenText="Bem-vindo √† sede da XCOM, Comandante."
 
 [TP_SurvivorReturns_06_CEN SoundNodeWave]
-SpokenText="Eu sou o Oficial Central Bradford. Meu papel neste projeto È fornecer suporte t·tico para nossas operaÁıes de campo e mantÍ-lo informado sobre a situaÁ„o atual. Meus esforÁos devem permitir que vocÍ se concentre nas questıes maiores em m„os. Falando nisso, temos um soldado esperando por uma promoÁ„o nos Alojamentos. Vou deixar vocÍ resolver isso." [TUT_ScienceLab_02_CS SoundNodeWave]
-SpokenText="J· comeÁamos a analisar os artefatos recuperados de nosso primeiro encontro com os alienÌgenas. Com base em nossas descobertas preliminares, acreditamos que podemos desenvolver alguns equipamentos novos para nossos soldados."
+SpokenText="Eu sou o Oficial Central Bradford. Meu papel neste projeto √© fornecer suporte t√°tico para nossas opera√ß√µes de campo e mant√™-lo informado sobre a situa√ß√£o atual. Meus esfor√ßos devem permitir que voc√™ se concentre nas quest√µes maiores em m√£os. Falando nisso, temos um soldado esperando por uma promo√ß√£o nos Alojamentos. Vou deixar voc√™ resolver isso." [TUT_ScienceLab_02_CS SoundNodeWave]
+SpokenText="J√° come√ßamos a analisar os artefatos recuperados de nosso primeiro encontro com os alien√≠genas. Com base em nossas descobertas preliminares, acreditamos que podemos desenvolver alguns equipamentos novos para nossos soldados."

@@ -1,53 +1,53 @@
-[NoID_CarefulIFind AkEvent]
+Ôªø[NoID_CarefulIFind AkEvent]
 SpokenText="Cuidado. Eu percebo que carros tendem a explodir quando expostos ao fogo das armas."
 
 [NoID_CarefulPressThe AkEvent]
 SpokenText="Cuidado. Aproveite a vantagem antes que eles te cercem."
 
 [NoID_GettingThatClose AkEvent]
-SpokenText="Chegar t„o perto pode lhe dar um tiro melhor, mas È arriscado. A ADVENT aproveitar· qualquer oportunidade que encontrar."
+SpokenText="Chegar t√£o perto pode lhe dar um tiro melhor, mas √© arriscado. A ADVENT aproveitar√° qualquer oportunidade que encontrar."
 
 [NoID_YoureLateWhat AkEvent]
-SpokenText="VocÍ est· atrasado. O que vocÍ estava fazendo l· embaixo?"
+SpokenText="Voc√™ est√° atrasado. O que voc√™ estava fazendo l√° embaixo?"
 
 [SHEN_Tactical_Tutorial_Cars_Make_Poor_Cover_ALT AkEvent]
-SpokenText="VocÍ est· perigosamente perto agora... A ADVENT vai aproveitar qualquer oportunidade que dermos a eles. Tenha cuidado!"
+SpokenText="Voc√™ est√° perigosamente perto agora... A ADVENT vai aproveitar qualquer oportunidade que dermos a eles. Tenha cuidado!"
 
 [SHEN_Tactical_Tutorial_Matinee_Curb_Stomp_ALT AkEvent]
-SpokenText="Est· cortando muito perto. Onde vocÍ estava?"
+SpokenText="Est√° cortando muito perto. Onde voc√™ estava?"
 
 [SHEN_Tactical_Tutorial_Matinee_Security_Reveal AkEvent]
-SpokenText="N„o parece que eles est„o indo embora. Mantenha-se escondido atÈ estarmos prontos para agir."
+SpokenText="N√£o parece que eles est√£o indo embora. Mantenha-se escondido at√© estarmos prontos para agir."
 
 [SHEN_Tactical_Tutorial_Matinee_Transition AkEvent]
-SpokenText="As forÁas da ADVENT est„o se aproximando do ponto da explos„o. Precisamos avanÁar para a localizaÁ„o antes que eles descubram o que estamos fazendo."
+SpokenText="As for√ßas da ADVENT est√£o se aproximando do ponto da explos√£o. Precisamos avan√ßar para a localiza√ß√£o antes que eles descubram o que estamos fazendo."
 
 [SHEN_Tactical_Tutorial_Ramirez_Move_Up AkEvent]
-SpokenText="Crasher-2, È a sua vez. Lembre-se, n„o chegue muito perto. VocÍ ser· detectado com certeza e perderemos a vantagem."
+SpokenText="Crasher-2, √© a sua vez. Lembre-se, n√£o chegue muito perto. Voc√™ ser√° detectado com certeza e perderemos a vantagem."
 
 [SHN_AvengerDefense_AllSystemsGreen AkEvent]
-SpokenText="Seja l· o que for, destruÌ-lo parece ter dissipado o campo de interferÍncia. Os sistemas de controle do motor est„o voltando ao normal. DeverÌamos estar prontos para decolar dentro de sessenta segundos."
+SpokenText="Seja l√° o que for, destru√≠-lo parece ter dissipado o campo de interfer√™ncia. Os sistemas de controle do motor est√£o voltando ao normal. Dever√≠amos estar prontos para decolar dentro de sessenta segundos."
 
 [SHN_AvengerDefense_FirstBoardingWarning01 AkEvent]
-SpokenText="Comandante, n„o podemos permitir que as tropas alienÌgenas acessem os sistemas do Avenger! Se eles tiverem os cÛdigos de comando originais, poder„o desligar completamente o N˙cleo de Energia - se isso acontecer, n„o teremos como decolar antes que eles nos aniquilem."
+SpokenText="Comandante, n√£o podemos permitir que as tropas alien√≠genas acessem os sistemas do Avenger! Se eles tiverem os c√≥digos de comando originais, poder√£o desligar completamente o N√∫cleo de Energia - se isso acontecer, n√£o teremos como decolar antes que eles nos aniquilem."
 
 [SHN_AvengerDefense_Intro02 AkEvent]
-SpokenText="Comandante, temos uma falha crÌtica no sistema - o Avenger est· parado. Estou desviando energia reserva para os scanners - e eles est„o detectando uma fonte de radiaÁ„o poderosa nas proximidades - precisamos localizar e destruir o que est· interferindo em nossos sistemas."
+SpokenText="Comandante, temos uma falha cr√≠tica no sistema - o Avenger est√° parado. Estou desviando energia reserva para os scanners - e eles est√£o detectando uma fonte de radia√ß√£o poderosa nas proximidades - precisamos localizar e destruir o que est√° interferindo em nossos sistemas."
 
 [SHN_AvengerDefense_ShipBoarded01 AkEvent]
-SpokenText="Comandante! N„o h· como eu colocar os motores de volta online agora! Estamos parados... N„o h· mais nada que eu possa fazer."
+SpokenText="Comandante! N√£o h√° como eu colocar os motores de volta online agora! Estamos parados... N√£o h√° mais nada que eu possa fazer."
 
 [SHN_AvengerDefenseX_Intro02 AkEvent]
-SpokenText="Comandante, os alienÌgenas tÍm um pico de interferÍncia no campo. N„o posso colocar os motores online atÈ que o removamos. VocÍ sabe o que fazer."
+SpokenText="Comandante, os alien√≠genas t√™m um pico de interfer√™ncia no campo. N√£o posso colocar os motores online at√© que o removamos. Voc√™ sabe o que fazer."
 
 [T_Alien_Fortress_Residential_Diorama_Shen_01 AkEvent]
-SpokenText="O que È isso?! Algum tipo de recinto humano?"
+SpokenText="O que √© isso?! Algum tipo de recinto humano?"
 
 [T_Blacksite_Body_Containers_Spotted_Shen_P1 AkEvent]
-SpokenText="Espere! S„o aqueles...!?"
+SpokenText="Espere! S√£o aqueles...!?"
 
 [T_Blacksite_Body_Containers_Spotted_Shen_P3 AkEvent]
-SpokenText="Esses recipientes parecem ter cÈlulas de energia autossuficientes, pode ser algum tipo de sistema de estase. … possÌvel que pelo menos algumas dessas pessoas ainda estejam vivas."
+SpokenText="Esses recipientes parecem ter c√©lulas de energia autossuficientes, pode ser algum tipo de sistema de estase. √â poss√≠vel que pelo menos algumas dessas pessoas ainda estejam vivas."
 
 [T_Blacksite_Interior_Reveal_Shen_P2_ALT AkEvent]
 SpokenText="Parece mais uma refinaria para mim, doutor."
@@ -56,109 +56,109 @@ SpokenText="Parece mais uma refinaria para mim, doutor."
 SpokenText="Ou uma refinaria."
 
 [T_Blacksite_Liquid_Collection_Spotted_Shen_P1 AkEvent]
-SpokenText="Acho que o Tygan est· certo, alguÈm passou muito tempo projetando essa instalaÁ„o."
+SpokenText="Acho que o Tygan est√° certo, algu√©m passou muito tempo projetando essa instala√ß√£o."
 
 [T_Blacksite_Soylent_Gold_Spotted_Shen_P2 AkEvent]
-SpokenText="N„o estamos detectando leituras incomuns, nenhuma assinatura de energia significativa. Deve ser seguro se aproximar."
+SpokenText="N√£o estamos detectando leituras incomuns, nenhuma assinatura de energia significativa. Deve ser seguro se aproximar."
 
 [T_Blacksite_Vial_Pickup_Shen_P2 AkEvent]
-SpokenText="Nenhum sinal de radioatividade, nenhuma assinatura de energia significativa de qualquer tipo. O que quer que seja, È seguro manusear."
+SpokenText="Nenhum sinal de radioatividade, nenhuma assinatura de energia significativa de qualquer tipo. O que quer que seja, √© seguro manusear."
 
 [T_Broadcast_Flyover_Shen_P3 AkEvent]
-SpokenText="Sim, e teremos que acessar a unidade diretamente se tivermos alguma esperanÁa de romper esse campo de interferÍncia."
+SpokenText="Sim, e teremos que acessar a unidade diretamente se tivermos alguma esperan√ßa de romper esse campo de interfer√™ncia."
 
 [T_Broadcast_Rooftops_Env_Callouts_Shen_01 AkEvent]
-SpokenText="Essa È uma das transmissıes deles. Eles n„o se esforÁaram muito para disfarÁar a tecnologia alienÌgena envolvida."
+SpokenText="Essa √© uma das transmiss√µes deles. Eles n√£o se esfor√ßaram muito para disfar√ßar a tecnologia alien√≠gena envolvida."
 
 [T_City_Center_Chip_Transmitter_Shen_01 AkEvent]
-SpokenText="Os alienÌgenas certamente n„o facilitam a decifraÁ„o de sua tecnologia. ¿s vezes, È difÌcil dizer se o componente org‚nico ou mec‚nico est· no controle."
+SpokenText="Os alien√≠genas certamente n√£o facilitam a decifra√ß√£o de sua tecnologia. √Äs vezes, √© dif√≠cil dizer se o componente org√¢nico ou mec√¢nico est√° no controle."
 
 [T_City_Center_Propaganda_Shen_01 AkEvent]
-SpokenText="Acho que, se vocÍ estiver desesperado o suficiente, pode acreditar em qualquer coisa - atÈ que os alienÌgenas s„o nossos amigos."
+SpokenText="Acho que, se voc√™ estiver desesperado o suficiente, pode acreditar em qualquer coisa - at√© que os alien√≠genas s√£o nossos amigos."
 
 [T_Final_Mission_Final_Set_Four_Shen_02 AkEvent]
-SpokenText="N„o tenho certeza de que gosto do som disso."
+SpokenText="N√£o tenho certeza de que gosto do som disso."
 
 [T_Final_Mission_Final_Showdown_Begins_Shen_04 AkEvent]
 SpokenText="Sim, derrube-o."
 
 [T_Forge_Advent_Bodies_Sighted_Shen_01 AkEvent]
-SpokenText="Parece mais uma instalaÁ„o de produÁ„o para mim, a configuraÁ„o È diferente... È possÌvel? Ser· que È aqui que as forÁas da ADVENT est„o surgindo?!"
+SpokenText="Parece mais uma instala√ß√£o de produ√ß√£o para mim, a configura√ß√£o √© diferente... √© poss√≠vel? Ser√° que √© aqui que as for√ßas da ADVENT est√£o surgindo?!"
 
 [T_Forge_Avatar_Suit_Sighted_Shen_P3 AkEvent]
-SpokenText="Ent„o, quem eles est„o colocando neste?"
+SpokenText="Ent√£o, quem eles est√£o colocando neste?"
 
 [T_Forge_Interior_Reveal_Shen_P1 AkEvent]
-SpokenText="Esses n„o s„o civis. S„o ADVENT."
+SpokenText="Esses n√£o s√£o civis. S√£o ADVENT."
 
 [T_Fortress_Recap_Callouts_Shen_01 AkEvent]
-SpokenText="Suponho que n„o devamos nos surpreender, mas n„o estou recebendo leituras de posicionamento da equipe."
+SpokenText="Suponho que n√£o devamos nos surpreender, mas n√£o estou recebendo leituras de posicionamento da equipe."
 
 [T_Fortress_Recap_Callouts_Shen_02 AkEvent]
-SpokenText="Isso deve ser a etapa final do processo. Eles colheram nosso material genÈtico, o transformaram nesses Avatares e agora est„o tentando completar a transferÍncia. Um novo comeÁo para os Anciıes, ao custo de milhıes de vidas humanas."
+SpokenText="Isso deve ser a etapa final do processo. Eles colheram nosso material gen√©tico, o transformaram nesses Avatares e agora est√£o tentando completar a transfer√™ncia. Um novo come√ßo para os Anci√µes, ao custo de milh√µes de vidas humanas."
 
 [T_Fortress_Recap_Callouts_Shen_03 AkEvent]
-SpokenText="Por tudo o que sabemos, pode ser anterior ‡ prÛpria invas„o."
+SpokenText="Por tudo o que sabemos, pode ser anterior √† pr√≥pria invas√£o."
 
 [T_Gene_Therapy_Clinic_Torture_Table_Shen_01 AkEvent]
-SpokenText="Isso n„o parece algo que vocÍ usaria para ajudar alguÈm, n„o È mesmo?"
+SpokenText="Isso n√£o parece algo que voc√™ usaria para ajudar algu√©m, n√£o √© mesmo?"
 
 [T_Overwatch_Shen AkEvent]
-SpokenText="Fique atento, n„o sabemos o que est· vindo."
+SpokenText="Fique atento, n√£o sabemos o que est√° vindo."
 
 [T_Psi_Gate_Gateway_Spotted_Shen_P2 AkEvent]
-SpokenText="Essa n„o È a mesma fenda que o Codex usou quando apareceu. Esse portal pode levar para qualquer lugar, pode nem mesmo estar apontando para a Terra."
+SpokenText="Essa n√£o √© a mesma fenda que o Codex usou quando apareceu. Esse portal pode levar para qualquer lugar, pode nem mesmo estar apontando para a Terra."
 
 [T_Psi_Gate_Reveal_Shen_P2 AkEvent]
 SpokenText="Nenhum lugar local, tenho certeza."
 
 [T_Setup_Phase_Avoid_Detection_Shen AkEvent]
-SpokenText="N„o chegue muito perto, vocÍ certamente ser· detectado e perderemos nossa vantagem."
+SpokenText="N√£o chegue muito perto, voc√™ certamente ser√° detectado e perderemos nossa vantagem."
 
 [T_Setup_Phase_Break_Concealment_Shen_01 AkEvent]
-SpokenText="NÛs gastamos muito tempo equipando nossas tropas, Comandante. Eles est„o prontos para lutar. Se tivermos a chance de atacar primeiro, eu digo que aproveitemos."
+SpokenText="N√≥s gastamos muito tempo equipando nossas tropas, Comandante. Eles est√£o prontos para lutar. Se tivermos a chance de atacar primeiro, eu digo que aproveitemos."
 
 [T_Setup_Phase_Break_Concealment_Shen_02 AkEvent]
-SpokenText="Comandante, posso n„o ser um especialista nas ˙ltimas t·ticas, mas n„o vamos conseguir fazer muita coisa aqui se nossas tropas ficarem escondidas o tempo todo."
+SpokenText="Comandante, posso n√£o ser um especialista nas √∫ltimas t√°ticas, mas n√£o vamos conseguir fazer muita coisa aqui se nossas tropas ficarem escondidas o tempo todo."
 
 [T_Setup_Phase_Break_Concealment_Shen_03 AkEvent]
-SpokenText="Ent„o, vamos matar alienÌgenas ou apenas deixar nossas tropas se esgueirando nas sombras?"
+SpokenText="Ent√£o, vamos matar alien√≠genas ou apenas deixar nossas tropas se esgueirando nas sombras?"
 
 [T_Setup_Phase_Cars_make_poor_cover_Shen AkEvent]
-SpokenText="Normalmente, eu diria para evitar usar veÌculos como cobertura, pois eles tendem a pegar fogo quando atingidos por tiros. Mas n„o temos muitas opÁıes agora."
+SpokenText="Normalmente, eu diria para evitar usar ve√≠culos como cobertura, pois eles tendem a pegar fogo quando atingidos por tiros. Mas n√£o temos muitas op√ß√µes agora."
 
 [T_Setup_Phase_Combat_Tutorial_Shen_01 AkEvent]
-SpokenText="Certo, Quebra-portıes, estamos deixando vocÍ do lado de fora do perÌmetro de seguranÁa. ETA 30 segundos."
+SpokenText="Certo, Quebra-port√µes, estamos deixando voc√™ do lado de fora do per√≠metro de seguran√ßa. ETA 30 segundos."
 
 [T_Setup_Phase_Combat_Tutorial_Shen_03 AkEvent]
-SpokenText="N„o se acomode muito. Certamente chamamos a atenÁ„o deles. V· para o ponto de encontro e pegue o pacote."
+SpokenText="N√£o se acomode muito. Certamente chamamos a aten√ß√£o deles. V√° para o ponto de encontro e pegue o pacote."
 
 [T_Setup_Phase_Combat_Tutorial_Shen_04 AkEvent]
-SpokenText="Primeiro, vocÍ precisa sair da vista. Use aquela parede baixa como cobertura."
+SpokenText="Primeiro, voc√™ precisa sair da vista. Use aquela parede baixa como cobertura."
 
 [T_Setup_Phase_Combat_Tutorial_Shen_07 AkEvent]
-SpokenText="… melhor do que nada, mas tente encontrar uma posiÁ„o mais segura mais adiante."
+SpokenText="√â melhor do que nada, mas tente encontrar uma posi√ß√£o mais segura mais adiante."
 
 [T_Setup_Phase_Combat_Tutorial_Shen_09 AkEvent]
 SpokenText="Menace-2, fique perto. Mantenha-se junto com Menace-1."
 
 [T_Setup_Phase_Combat_Tutorial_Shen_11 AkEvent]
-SpokenText="A seguranÁa est· reforÁada, mas temos a vantagem - eles ainda n„o sabem que vocÍ est· l·."
+SpokenText="A seguran√ßa est√° refor√ßada, mas temos a vantagem - eles ainda n√£o sabem que voc√™ est√° l√°."
 
 [T_Setup_Phase_Combat_Tutorial_Shen_12 AkEvent]
-SpokenText="Permanecendo escondidos, podemos surpreender as forÁas da ADVENT. Avance com cuidado."
+SpokenText="Permanecendo escondidos, podemos surpreender as for√ßas da ADVENT. Avance com cuidado."
 
 [T_Setup_Phase_Combat_Tutorial_Shen_13 AkEvent]
-SpokenText="VocÍ est· em desvantagem, È melhor surpreendÍ-los. Fique fora de vista e faÁa o primeiro tiro contar."
+SpokenText="Voc√™ est√° em desvantagem, √© melhor surpreend√™-los. Fique fora de vista e fa√ßa o primeiro tiro contar."
 
 [T_Setup_Phase_Combat_Tutorial_Shen_14 AkEvent]
-SpokenText="Bom trabalho. A partir daÌ, vocÍ deve estar seguro para-"
+SpokenText="Bom trabalho. A partir da√≠, voc√™ deve estar seguro para-"
 
 [T_Setup_Phase_Combat_Tutorial_Shen_14_a AkEvent]
-SpokenText="Mais do que esper·vamos, mas eles ainda n„o sabem que vocÍ est· l·, vamos manter assim."
+SpokenText="Mais do que esper√°vamos, mas eles ainda n√£o sabem que voc√™ est√° l√°, vamos manter assim."
 
 [T_Setup_Phase_Combat_Tutorial_Shen_14_ALT AkEvent]
-SpokenText="Bom trabalho. A partir daÌ, vocÍ deve estar seguro para atacar."
+SpokenText="Bom trabalho. A partir da√≠, voc√™ deve estar seguro para atacar."
 
 [T_Setup_Phase_Combat_Tutorial_Shen_14b AkEvent]
 SpokenText="Bom trabalho. Precisamos estar prontos para atacar, com ou sem nosso apoio."
@@ -167,112 +167,112 @@ SpokenText="Bom trabalho. Precisamos estar prontos para atacar, com ou sem nosso
 SpokenText="Patrulha se aproximando! Fique fora de vista!"
 
 [T_Setup_Phase_Combat_Tutorial_Shen_18 AkEvent]
-SpokenText="VocÍ ter· sua chance. Mantenha o foco no objetivo."
+SpokenText="Voc√™ ter√° sua chance. Mantenha o foco no objetivo."
 
 [T_Setup_Phase_Combat_Tutorial_Shen_21 AkEvent]
-SpokenText="FaÁa isso."
+SpokenText="Fa√ßa isso."
 
 [T_Setup_Phase_Combat_Tutorial_Shen_22 AkEvent]
-SpokenText="… agora ou nunca, faÁa isso."
+SpokenText="√â agora ou nunca, fa√ßa isso."
 
 [T_Setup_Phase_Combat_Tutorial_Shen_24 AkEvent]
-SpokenText="Agora eles podem te ver. Que tal todos vocÍs atirarem primeiro e comemorarem depois."
+SpokenText="Agora eles podem te ver. Que tal todos voc√™s atirarem primeiro e comemorarem depois."
 
 [T_Setup_Phase_Combat_Tutorial_Shen_28 AkEvent]
-SpokenText="Droga! Sua armadura improvisada n„o aguenta tiros assim! Cuidado com seus flancos!"
+SpokenText="Droga! Sua armadura improvisada n√£o aguenta tiros assim! Cuidado com seus flancos!"
 
 [T_Setup_Phase_Combat_Tutorial_Shen_32 AkEvent]
-SpokenText="Ela est· chamando reforÁos! Pare com isso-"
+SpokenText="Ela est√° chamando refor√ßos! Pare com isso-"
 
 [T_Setup_Phase_Combat_Tutorial_Shen_33 AkEvent]
-SpokenText="...transmiss„o."
+SpokenText="...transmiss√£o."
 
 [T_Setup_Phase_Combat_Tutorial_Shen_35 AkEvent]
-SpokenText="VocÍ est· atrasado, Central. O que diabos vocÍ estava fazendo l· embaixo?"
+SpokenText="Voc√™ est√° atrasado, Central. O que diabos voc√™ estava fazendo l√° embaixo?"
 
 [T_Setup_Phase_Combat_Tutorial_Shen_39 AkEvent]
-SpokenText="Todos nÛs ouvimos rumores. Eu simplesmente nunca acreditei que fossem verdadeiros."
+SpokenText="Todos n√≥s ouvimos rumores. Eu simplesmente nunca acreditei que fossem verdadeiros."
 
 [T_Setup_Phase_Combat_Tutorial_Shen_41 AkEvent]
-SpokenText="Parece que a transmiss„o foi concluÌda. Um transporte da ADVENT est· se aproximando de sua posiÁ„o!"
+SpokenText="Parece que a transmiss√£o foi conclu√≠da. Um transporte da ADVENT est√° se aproximando de sua posi√ß√£o!"
 
 [T_Setup_Phase_Combat_Tutorial_Shen_43 AkEvent]
-SpokenText="Espere, vocÍ deveria verificar aquele corpo em busca de equipamento aproveit·vel, precisamos de tudo o que conseguirmos neste momento. Melhor se apressar, ouvi rumores de que a ADVENT programa as coisas para se autodestruÌrem."
+SpokenText="Espere, voc√™ deveria verificar aquele corpo em busca de equipamento aproveit√°vel, precisamos de tudo o que conseguirmos neste momento. Melhor se apressar, ouvi rumores de que a ADVENT programa as coisas para se autodestru√≠rem."
 
 [T_Setup_Phase_Combat_Tutorial_Shen_45 AkEvent]
-SpokenText="Quando ser· ent„o?"
+SpokenText="Quando ser√° ent√£o?"
 
 [T_Setup_Phase_Combat_Tutorial_Shen_50 AkEvent]
-SpokenText="ReforÁos chegaram!"
+SpokenText="Refor√ßos chegaram!"
 
 [T_Setup_Phase_Combat_Tutorial_Shen_59 AkEvent]
-SpokenText="VocÍ deve conseguir passar pelos protocolos de seguranÁa da porta. Eles nunca esperavam que alguÈm chegasse t„o perto."
+SpokenText="Voc√™ deve conseguir passar pelos protocolos de seguran√ßa da porta. Eles nunca esperavam que algu√©m chegasse t√£o perto."
 
 [T_Setup_Phase_Combat_Tutorial_Shen_63 AkEvent]
-SpokenText="Vamos torcer para que nossas informaÁıes sejam boas."
+SpokenText="Vamos torcer para que nossas informa√ß√µes sejam boas."
 
 [T_Setup_Phase_Combat_Tutorial_Shen_66 AkEvent]
-SpokenText="Parece que h· um painel de acesso. Se vocÍ me der uma vis„o melhor, talvez eu consiga..."
+SpokenText="Parece que h√° um painel de acesso. Se voc√™ me der uma vis√£o melhor, talvez eu consiga..."
 
 [T_Setup_Phase_Combat_Tutorial_Shen_71 AkEvent]
-SpokenText="Toda a rede de seguranÁa da ADVENT acabou de acender! A Firebrand est· nas proximidades para evacuaÁ„o, mas È agora ou nunca, Central!"
+SpokenText="Toda a rede de seguran√ßa da ADVENT acabou de acender! A Firebrand est√° nas proximidades para evacua√ß√£o, mas √© agora ou nunca, Central!"
 
 [T_Setup_Phase_Combat_Tutorial_Shen_72 AkEvent]
-SpokenText="N„o! Central! Menace-1 est· caÌdo! VocÍ tem que sair daÌ!"
+SpokenText="N√£o! Central! Menace-1 est√° ca√≠do! Voc√™ tem que sair da√≠!"
 
 [T_Setup_Phase_Flight_Device_Spotted_Shen AkEvent]
-SpokenText="Esse È o componente que preciso! Se vocÍ conseguir trazÍ-lo inteiro, talvez tenhamos uma chance de verdade."
+SpokenText="Esse √© o componente que preciso! Se voc√™ conseguir traz√™-lo inteiro, talvez tenhamos uma chance de verdade."
 
 [T_Shen_AlienSightings_ACV AkEvent]
-SpokenText="A ADVENT tem enviado esses veÌculos de ataque n„o tripulados para pacificar os assentamentos perifÈricos. Talvez seja possÌvel hackear um se chegarmos perto o suficiente."
+SpokenText="A ADVENT tem enviado esses ve√≠culos de ataque n√£o tripulados para pacificar os assentamentos perif√©ricos. Talvez seja poss√≠vel hackear um se chegarmos perto o suficiente."
 
 [T_Shen_AlienSightings_AdvMEC_M1 AkEvent]
-SpokenText="Essa È uma unidade de combate mecanizada extremamente bem equipada. Precisaremos procurar vulnerabilidades se quisermos elimin·-la."
+SpokenText="Essa √© uma unidade de combate mecanizada extremamente bem equipada. Precisaremos procurar vulnerabilidades se quisermos elimin√°-la."
 
 [T_Shen_AlienSightings_Andromedon AkEvent]
-SpokenText="Aquilo È uma roupa de ambiente... Talvez algo que n„o suporte nossa atmosfera?"
+SpokenText="Aquilo √© uma roupa de ambiente... Talvez algo que n√£o suporte nossa atmosfera?"
 
 [T_Shen_AlienSightings_Archon AkEvent]
-SpokenText="Os alienÌgenas podem ter aprimorado o design, mas essas criaturas s„o t„o problem·ticas quanto as que meu pai enfrentava."
+SpokenText="Os alien√≠genas podem ter aprimorado o design, mas essas criaturas s√£o t√£o problem√°ticas quanto as que meu pai enfrentava."
 
 [T_Shen_AlienSightings_Drone AkEvent]
-SpokenText="Os alienÌgenas parecem usar esses Drones principalmente para apoio e reconhecimento, mas eles tambÈm est„o armados para combate."
+SpokenText="Os alien√≠genas parecem usar esses Drones principalmente para apoio e reconhecimento, mas eles tamb√©m est√£o armados para combate."
 
 [T_Shen_AlienSightings_Faceless AkEvent]
-SpokenText="N„o pense nem por um segundo."
+SpokenText="N√£o pense nem por um segundo."
 
 [T_Shen_AlienSightings_Gatekeeper AkEvent]
-SpokenText="Este È estranhamente gracioso em comparaÁ„o com outras espÈcies que vimos - tambÈm emite leituras psÌquicas muito fortes."
+SpokenText="Este √© estranhamente gracioso em compara√ß√£o com outras esp√©cies que vimos - tamb√©m emite leituras ps√≠quicas muito fortes."
 
 [T_Shen_AlienSightings_Sectopod AkEvent]
-SpokenText="Os alienÌgenas usaram isso para derrotar a maioria das forÁas pesadas convencionais da Terra. Ele pode perfurar armaduras tanto quanto despedaÁa infantaria. Cuidado."
+SpokenText="Os alien√≠genas usaram isso para derrotar a maioria das for√ßas pesadas convencionais da Terra. Ele pode perfurar armaduras tanto quanto despeda√ßa infantaria. Cuidado."
 
 [T_Shen_AlienSightings_Synthoid AkEvent]
-SpokenText="Isso parece algum tipo de androide, um avanÁo em relaÁ„o a seus desenvolvimentos biomec‚nicos anteriores."
+SpokenText="Isso parece algum tipo de androide, um avan√ßo em rela√ß√£o a seus desenvolvimentos biomec√¢nicos anteriores."
 
 [T_Shen_AlienSightings_Turret AkEvent]
-SpokenText="Fique longe dessas torres, ainda n„o temos certeza se est„o completamente automatizadas ou acionadas remotamente."
+SpokenText="Fique longe dessas torres, ainda n√£o temos certeza se est√£o completamente automatizadas ou acionadas remotamente."
 
 [T_Shen_AlienSightings_Turret_MK2 AkEvent]
-SpokenText="Aquela torre est· rastreando de maneira diferente das outras que vimos, provavelmente atualizaram os sensores dela. Eu ficaria em baixa, ela pode agora mirar em v·rios alvos se o sistema for suficientemente responsivo."
+SpokenText="Aquela torre est√° rastreando de maneira diferente das outras que vimos, provavelmente atualizaram os sensores dela. Eu ficaria em baixa, ela pode agora mirar em v√°rios alvos se o sistema for suficientemente responsivo."
 
 [T_Small_Town_Advent_Propaganda_Shen_01 AkEvent]
-SpokenText="Por que os alienÌgenas n„o deixam essas pessoas em paz? Se eles est„o aqui fora, È porque j· fizeram sua escolha."
+SpokenText="Por que os alien√≠genas n√£o deixam essas pessoas em paz? Se eles est√£o aqui fora, √© porque j√° fizeram sua escolha."
 
 [T_Small_Town_Modified_Cars_Shen_01 AkEvent]
-SpokenText="Devo dizer que estou impressionado com o que essas pessoas conseguiram construir sem nenhuma das fontes de combustÌvel antigas. Nunca subestime a engenhosidade humana."
+SpokenText="Devo dizer que estou impressionado com o que essas pessoas conseguiram construir sem nenhuma das fontes de combust√≠vel antigas. Nunca subestime a engenhosidade humana."
 
 [T_Small_Town_Shen_Shen_01 AkEvent]
-SpokenText="Eu costumava adorar aquele jogo quando era crianÁa."
+SpokenText="Eu costumava adorar aquele jogo quando era crian√ßa."
 
 [T_Support_First_Advent_Tower_Spotted_Shen AkEvent]
-SpokenText="Nosso Gremlin pode tentar acessar a Rede ADVENT daqui. Talvez possamos hackear seus sistemas e obter uma vantagem, mas tenha cuidado. Se eles nos detectarem, as coisas sÛ v„o piorar."
+SpokenText="Nosso Gremlin pode tentar acessar a Rede ADVENT daqui. Talvez possamos hackear seus sistemas e obter uma vantagem, mas tenha cuidado. Se eles nos detectarem, as coisas s√≥ v√£o piorar."
 
 [T_Tactical_Callouts_Advent_Shen_01 AkEvent]
-SpokenText="Sempre me perguntei quem a ADVENT emprega para projetar seus veÌculos e equipamentos. Eles definitivamente tÍm uma estÈtica intimidadora bem desenvolvida."
+SpokenText="Sempre me perguntei quem a ADVENT emprega para projetar seus ve√≠culos e equipamentos. Eles definitivamente t√™m uma est√©tica intimidadora bem desenvolvida."
 
 [T_UFO_Alien_Computer_Shen_01 AkEvent]
-SpokenText="Eu n„o me importaria de dar uma olhada mais de perto no computador de voo deles - o nosso provavelmente poderia usar algumas atualizaÁıes."
+SpokenText="Eu n√£o me importaria de dar uma olhada mais de perto no computador de voo deles - o nosso provavelmente poderia usar algumas atualiza√ß√µes."
 
 [T_UFO_Power_Supply_Shen_01 AkEvent]
-SpokenText="A fonte de energia desta nave provavelmente È uma variaÁ„o mais recente do n˙cleo de …lerio que impulsiona os sistemas do Avenger."
+SpokenText="A fonte de energia desta nave provavelmente √© uma varia√ß√£o mais recente do n√∫cleo de √âlerio que impulsiona os sistemas do Avenger."

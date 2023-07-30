@@ -1,44 +1,44 @@
-[T_Setup_Phase_Combat_Tutorial_Osei_02 AkEvent]
-SpokenText="Haven, Crasher-1 em posição. Nenhum contato inimigo. Tudo tranquilo."
+ï»¿[T_Setup_Phase_Combat_Tutorial_Osei_02 AkEvent]
+SpokenText="Haven, Crasher-1 em posiÃ§Ã£o. Nenhum contato inimigo. Tudo tranquilo."
 
 [T_Setup_Phase_Combat_Tutorial_Osei_05 AkEvent]
-SpokenText="Entendido, avançando."
+SpokenText="Entendido, avanÃ§ando."
 
 [T_Setup_Phase_Combat_Tutorial_Osei_06 AkEvent]
-SpokenText="Na posição, mas estou exposto aqui."
+SpokenText="Na posiÃ§Ã£o, mas estou exposto aqui."
 
 [T_Setup_Phase_Combat_Tutorial_Osei_08 AkEvent]
 SpokenText="Parece que tem cobertura total adiante; me movendo."
 
 [T_Setup_Phase_Combat_Tutorial_Osei_16 AkEvent]
-SpokenText="Eles talvez não nos dêem muita escolha."
+SpokenText="Eles talvez nÃ£o nos dÃªem muita escolha."
 
 [T_Setup_Phase_Combat_Tutorial_Osei_17 AkEvent]
 SpokenText="Me lembre de agradecer o velho."
 
 [T_Setup_Phase_Combat_Tutorial_Osei_19 AkEvent]
-SpokenText="Estou em posição para surpreendê-los -"
+SpokenText="Estou em posiÃ§Ã£o para surpreendÃª-los -"
 
 [T_Setup_Phase_Combat_Tutorial_Osei_20 AkEvent]
-SpokenText="Permissão para atacar."
+SpokenText="PermissÃ£o para atacar."
 
 [T_Setup_Phase_Combat_Tutorial_Osei_23 AkEvent]
-SpokenText="Menace-1 está na jogada."
+SpokenText="Menace-1 estÃ¡ na jogada."
 
 [T_Setup_Phase_Combat_Tutorial_Osei_27 AkEvent]
-SpokenText="Não! Menace-2 foi abatida! Ela se foi!"
+SpokenText="NÃ£o! Menace-2 foi abatida! Ela se foi!"
 
 [T_Setup_Phase_Combat_Tutorial_Osei_29 AkEvent]
-SpokenText="Então é assim que você quer jogar? Ok!"
+SpokenText="EntÃ£o Ã© assim que vocÃª quer jogar? Ok!"
 
 [T_Setup_Phase_Combat_Tutorial_Osei_30 AkEvent]
-SpokenText="Não vou sair assim!"
+SpokenText="NÃ£o vou sair assim!"
 
 [T_Setup_Phase_Combat_Tutorial_Osei_31 AkEvent]
-SpokenText="O quê?"
+SpokenText="O quÃª?"
 
 [T_Setup_Phase_Combat_Tutorial_Osei_57 AkEvent]
-SpokenText="Apenas vá! Vou tentar detê-los aqui."
+SpokenText="Apenas vÃ¡! Vou tentar detÃª-los aqui."
 
 [T_Tutorial_Osei_Concealed AkEvent]
 SpokenText="Nas sombras."
@@ -59,7 +59,7 @@ SpokenText="Pronto para seguir."
 SpokenText="Fazendo isso."
 
 [T_Tutorial_Osei_Confirmations_6 AkEvent]
-SpokenText="Não precisa pedir duas vezes."
+SpokenText="NÃ£o precisa pedir duas vezes."
 
 [T_Tutorial_Osei_Confirmations_7 AkEvent]
 SpokenText="Afirmativo."
@@ -80,31 +80,31 @@ SpokenText="Estou nisso."
 SpokenText="Vamos ver como eles gostam disso!"
 
 [T_Tutorial_Osei_WILD_05 AkEvent]
-SpokenText="Não vou sair ASSIM tão fácil!"
+SpokenText="NÃ£o vou sair ASSIM tÃ£o fÃ¡cil!"
 
 [T_Tutorial_Osei_WILD_06 AkEvent]
-SpokenText="Não vou facilitar para eles."
+SpokenText="NÃ£o vou facilitar para eles."
 
 [T_Tutorial_Osei_WILD_07 AkEvent]
 SpokenText="Mantendo baixo."
 
 [T_Tutorial_Osei_WILD_08 AkEvent]
-SpokenText="Eles talvez não nos dêem muita escolha."
+SpokenText="Eles talvez nÃ£o nos dÃªem muita escolha."
 
 [T_Tutorial_Osei_WILD_09 AkEvent]
-SpokenText="Eles estão se aproximando de mim!"
+SpokenText="Eles estÃ£o se aproximando de mim!"
 
 [T_Tutorial_Osei_WILD_10 AkEvent]
-SpokenText="Eles não vão me derrubar tão facilmente."
+SpokenText="Eles nÃ£o vÃ£o me derrubar tÃ£o facilmente."
 
 [T_Tutorial_Osei_WILD_11 AkEvent]
-SpokenText="É? Vamos ver como eles gostam disso!"
+SpokenText="Ã‰? Vamos ver como eles gostam disso!"
 
 [T_Tutorial_Osei_WILD_12 AkEvent]
 SpokenText="Sim, senhora."
 
 [T_Tutorial_Osei_WILD_13 AkEvent]
-SpokenText="Você não precisa me dizer duas vezes."
+SpokenText="VocÃª nÃ£o precisa me dizer duas vezes."
 
 [T_Tutorial_Osei_WILD_14 AkEvent]
 SpokenText="Entendido."

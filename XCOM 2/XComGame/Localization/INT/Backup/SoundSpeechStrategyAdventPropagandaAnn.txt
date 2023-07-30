@@ -1,11 +1,11 @@
-[S_Broadcast_Truth_Advent_Propaganda_Announcer_01 AkEvent]
-SpokenText="A ADVENT assegura que essa descoberta estar· disponÌvel imediatamente para todos os cidad„os."
+Ôªø[S_Broadcast_Truth_Advent_Propaganda_Announcer_01 AkEvent]
+SpokenText="A ADVENT assegura que essa descoberta estar√° dispon√≠vel imediatamente para todos os cidad√£os."
 
 [S_Broadcast_Truth_Advent_Propaganda_Announcer_02 AkEvent]
-SpokenText="Vamos agora ao vivo com o Porta-Voz para mais informaÁıes..."
+SpokenText="Vamos agora ao vivo com o Porta-Voz para mais informa√ß√µes..."
 
 [S_Intro_Advent_Propaganda_Announcer_01 AkEvent]
-SpokenText="A AdministraÁ„o ADVENT lembra a todos para reportar qualquer atividade suspeita ao guarda da paz mais prÛximo. Lembre-se, sÛ juntos podemos construir um amanh„ melhor."
+SpokenText="A Administra√ß√£o ADVENT lembra a todos para reportar qualquer atividade suspeita ao guarda da paz mais pr√≥ximo. Lembre-se, s√≥ juntos podemos construir um amanh√£ melhor."
 
 [S_Victory_Advent_Propaganda_Announcer_01 AkEvent]
-SpokenText="O toque de recolher completo continua em vigor enquanto a administraÁ„o lida com a crise contÌnua."
+SpokenText="O toque de recolher completo continua em vigor enquanto a administra√ß√£o lida com a crise cont√≠nua."

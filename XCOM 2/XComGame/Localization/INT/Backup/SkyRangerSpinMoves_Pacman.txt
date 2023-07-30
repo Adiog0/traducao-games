@@ -1,4 +1,4 @@
-[TheWorld:PersistentLevel.XComInteractiveLevelActor_12 XComInteractiveLevelActor]
+﻿[TheWorld:PersistentLevel.XComInteractiveLevelActor_12 XComInteractiveLevelActor]
 FriendlyDisplayName="Porta Segura"
 
 [TheWorld:PersistentLevel.XComInteractiveLevelActor_15 XComInteractiveLevelActor]
@@ -14,5 +14,5 @@ FriendlyDisplayName="Porta Segura"
 FriendlyDisplayName="Porta Segura"
 
 [TheWorld:PersistentLevel.XComInteractiveLevelActor_8 XComInteractiveLevelActor]
-FriendlyDisplayName="Port�o de Cela"
+FriendlyDisplayName="Portão de Cela"
 

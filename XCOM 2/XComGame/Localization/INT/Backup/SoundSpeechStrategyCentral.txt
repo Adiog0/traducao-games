@@ -1,140 +1,140 @@
-[CENTRAL_Flight_Device_Bridge_Transition AkEvent]
-SpokenText="Parece que a Shen conseguiu colocar aquele conversor para funcionar. Quando tiver um momento, estamos prontos para vocÍ na ponte."
+Ôªø[CENTRAL_Flight_Device_Bridge_Transition AkEvent]
+SpokenText="Parece que a Shen conseguiu colocar aquele conversor para funcionar. Quando tiver um momento, estamos prontos para voc√™ na ponte."
 
 [CENTRAL_Generic_Commander_Bridge_A AkEvent]
 SpokenText="Comandante, para a ponte."
 
 [CENTRAL_Generic_Commander_Bridge_B AkEvent]
-SpokenText="Comandante, vocÍ È necess·rio na ponte."
+SpokenText="Comandante, voc√™ √© necess√°rio na ponte."
 
 [CENTRAL_Generic_Commander_Chamber_A AkEvent]
-SpokenText="Comandante, para a C‚mara das Sombras."
+SpokenText="Comandante, para a C√¢mara das Sombras."
 
 [CENTRAL_Generic_Commander_Chamber_B AkEvent]
-SpokenText="Comandante, vocÍ È necess·rio na C‚mara das Sombras."
+SpokenText="Comandante, voc√™ √© necess√°rio na C√¢mara das Sombras."
 
 [CENTRAL_Generic_Commander_Engineering_A AkEvent]
 SpokenText="Comandante, para a Engenharia."
 
 [CENTRAL_Generic_Commander_Engineering_B AkEvent]
-SpokenText="Comandante, vocÍ È necess·rio na Engenharia."
+SpokenText="Comandante, voc√™ √© necess√°rio na Engenharia."
 
 [CENTRAL_Generic_Commander_Lab_A AkEvent]
-SpokenText="Comandante, para o LaboratÛrio de Pesquisa."
+SpokenText="Comandante, para o Laborat√≥rio de Pesquisa."
 
 [CENTRAL_Generic_Commander_Lab_B AkEvent]
-SpokenText="Comandante, vocÍ È necess·rio no LaboratÛrio de Pesquisa."
+SpokenText="Comandante, voc√™ √© necess√°rio no Laborat√≥rio de Pesquisa."
 
 [CENTRAL_Generic_Commander_Quarters_A AkEvent]
 SpokenText="Comandante, para os seus aposentos."
 
 [CENTRAL_Generic_Commander_Quarters_B AkEvent]
-SpokenText="Comandante, vocÍ È necess·rio em seus aposentos."
+SpokenText="Comandante, voc√™ √© necess√°rio em seus aposentos."
 
 [Central_NoFilename_RealWarForAChange AkEvent]
-SpokenText="e dar aos alienÌgenas uma guerra de verdade para variar."
+SpokenText="e dar aos alien√≠genas uma guerra de verdade para variar."
 
 [Central_Strategy_Ambient_Contraband AkEvent]
-SpokenText="Eu n„o sei de onde as pessoas est„o conseguindo essas malditas hamb˙rgueres da ADVENT, mas se eu encontrar outro embrulho escondido sob um desses consoles de comando, vai ter inferno para pagar."
+SpokenText="Eu n√£o sei de onde as pessoas est√£o conseguindo essas malditas hamb√∫rgueres da ADVENT, mas se eu encontrar outro embrulho escondido sob um desses consoles de comando, vai ter inferno para pagar."
 
 [S_Avenger_Ambient_Central_AlienInvasionB_01 AkEvent]
-SpokenText="Nunca cheguei a perguntar, Doutor, mas... o que exatamente vocÍ fazia antes da invas„o?"
+SpokenText="Nunca cheguei a perguntar, Doutor, mas... o que exatamente voc√™ fazia antes da invas√£o?"
 
 [S_Avenger_Ambient_Central_AlienInvasionB_02 AkEvent]
-SpokenText="Ent„o, eu diria que temos sorte de tÍ-lo conosco."
+SpokenText="Ent√£o, eu diria que temos sorte de t√™-lo conosco."
 
 [S_Avenger_Ambient_Central_AlienInvasionC_01 AkEvent]
-SpokenText="Pelo menos n„o precisamos mais nos preocupar em manter o Conselho satisfeito, mesmo com o Porta-Voz espreitando nas sombras."
+SpokenText="Pelo menos n√£o precisamos mais nos preocupar em manter o Conselho satisfeito, mesmo com o Porta-Voz espreitando nas sombras."
 
 [S_Avenger_Ambient_Central_ChipFunctionB_01 AkEvent]
-SpokenText="Espero que vocÍ esteja mantendo aquele chip do Comandante sob trancas e barrancas..."
+SpokenText="Espero que voc√™ esteja mantendo aquele chip do Comandante sob trancas e barrancas..."
 
 [S_Avenger_Ambient_Central_ChipFunctionB_02 AkEvent]
-SpokenText="”timo, vamos manter assim."
+SpokenText="√ìtimo, vamos manter assim."
 
 [S_Avenger_Ambient_Central_CityMigrationB_01 AkEvent]
-SpokenText="A m·quina de propaganda da ADVENT est· trabalhando a todo vapor... ainda estamos vendo um fluxo constante de migrantes indo para as cidades."
+SpokenText="A m√°quina de propaganda da ADVENT est√° trabalhando a todo vapor... ainda estamos vendo um fluxo constante de migrantes indo para as cidades."
 
 [S_Avenger_Ambient_Central_CityMigrationB_02 AkEvent]
-SpokenText="...E eu n„o tenho certeza se trocaria ter um chip na minha cabeÁa por algumas refeiÁıes quentes e a cura para o resfriado comum."
+SpokenText="...E eu n√£o tenho certeza se trocaria ter um chip na minha cabe√ßa por algumas refei√ß√µes quentes e a cura para o resfriado comum."
 
 [S_Avenger_Ambient_Central_CityMigrationB_03 AkEvent]
-SpokenText="VocÍ est· errado sobre isso, Doutor. Podemos oferecer-lhes liberdade, mesmo que signifique que eles tenham que suportar as dores de serem humanos."
+SpokenText="Voc√™ est√° errado sobre isso, Doutor. Podemos oferecer-lhes liberdade, mesmo que signifique que eles tenham que suportar as dores de serem humanos."
 
 [S_Avenger_Ambient_Central_CrewDis AkEvent]
-SpokenText="Estamos avanÁando contra os alienÌgenas, e parece que estamos comeÁando a chamar a atenÁ„o dos civis nas colÙnias. … importante que a tripulaÁ„o saiba que h· pessoas l· fora precisando de nÛs e querendo que ajudemos a reverter esta situaÁ„o. Eles precisam saber que h· uma raz„o para suportar tudo isso."
+SpokenText="Estamos avan√ßando contra os alien√≠genas, e parece que estamos come√ßando a chamar a aten√ß√£o dos civis nas col√¥nias. √â importante que a tripula√ß√£o saiba que h√° pessoas l√° fora precisando de n√≥s e querendo que ajudemos a reverter esta situa√ß√£o. Eles precisam saber que h√° uma raz√£o para suportar tudo isso."
 
 [S_Avenger_Ambient_Central_Quick_01 AkEvent]
-SpokenText="A maioria dos nossos novos recrutas nunca trabalhou em espaÁos t„o apertados como o Avenger. Antes da guerra, talvez tivÈssemos tempo para treinamento, mas agora... eles ter„o que aprender no meio do caminho."
+SpokenText="A maioria dos nossos novos recrutas nunca trabalhou em espa√ßos t√£o apertados como o Avenger. Antes da guerra, talvez tiv√©ssemos tempo para treinamento, mas agora... eles ter√£o que aprender no meio do caminho."
 
 [S_Avenger_Ambient_Central_Quick_02 AkEvent]
-SpokenText="Temos captado algumas transmissıes estranhas ultimamente; soam um pouco como alem„o, mas È difÌcil dizer."
+SpokenText="Temos captado algumas transmiss√µes estranhas ultimamente; soam um pouco como alem√£o, mas √© dif√≠cil dizer."
 
 [S_Avenger_Ambient_Central_Quick_03 AkEvent]
-SpokenText="DeverÌamos conversar com aquela vigarista que comanda o mercado negro; talvez ela possa nos ajudar a reabastecer o bar."
+SpokenText="Dever√≠amos conversar com aquela vigarista que comanda o mercado negro; talvez ela possa nos ajudar a reabastecer o bar."
 
 [S_Avenger_Ambient_Central_Quick_04 AkEvent]
-SpokenText="N„o culpo a Dra. Shen por querer ficar de olho em Tygan, mas, neste ponto, precisamos de toda a ajuda que pudermos obter."
+SpokenText="N√£o culpo a Dra. Shen por querer ficar de olho em Tygan, mas, neste ponto, precisamos de toda a ajuda que pudermos obter."
 
 [S_Avenger_Ambient_Central_Quick_05 AkEvent]
-SpokenText="Tenho que dar crÈdito a eles, o que esses novos recrutas podem n„o ter em experiÍncia, eles compensam com determinaÁ„o."
+SpokenText="Tenho que dar cr√©dito a eles, o que esses novos recrutas podem n√£o ter em experi√™ncia, eles compensam com determina√ß√£o."
 
 [S_Avenger_Ambient_Central_Quick_06 AkEvent]
-SpokenText="Houve muitas reclamaÁıes sobre meu voo, mas n„o vejo ninguÈm mais se oferecendo para fazer isso alÈm do piloto autom·tico."
+SpokenText="Houve muitas reclama√ß√µes sobre meu voo, mas n√£o vejo ningu√©m mais se oferecendo para fazer isso al√©m do piloto autom√°tico."
 
 [S_Avenger_Ambient_Central_Quick_07 AkEvent]
-SpokenText="… escuro, ˙mido e quase todo metal. Esta nave n„o È muito diferente da base antiga."
+SpokenText="√â escuro, √∫mido e quase todo metal. Esta nave n√£o √© muito diferente da base antiga."
 
 [S_Avenger_Ambient_Central_Quick_08 AkEvent]
-SpokenText="Talvez, quando tudo isso acabar, deverÌamos pegar esta nave e colonizar um dos planetas deles."
+SpokenText="Talvez, quando tudo isso acabar, dever√≠amos pegar esta nave e colonizar um dos planetas deles."
 
 [S_Avenger_Ambient_Central_Quick_09 AkEvent]
-SpokenText="Eu entendo o apelo da clÌnica de terapia da ADVENT, alguns minutos sob a faca e vocÍ tem uma certid„o de sa˙de limpa. Pena que vocÍ precisa de um chip para entrar."
+SpokenText="Eu entendo o apelo da cl√≠nica de terapia da ADVENT, alguns minutos sob a faca e voc√™ tem uma certid√£o de sa√∫de limpa. Pena que voc√™ precisa de um chip para entrar."
 
 [S_Avenger_Ambient_Central_Quick_10 AkEvent]
-SpokenText="A m·quina de propaganda da ADVENT est· a todo vapor; estamos captando as transmissıes deles mesmo no meio do nada."
+SpokenText="A m√°quina de propaganda da ADVENT est√° a todo vapor; estamos captando as transmiss√µes deles mesmo no meio do nada."
 
 [S_Avenger_Ambient_Central_Quick_11 AkEvent]
-SpokenText="Eu avisei a tripulaÁ„o para ficar longe das raÁıes de carne da ADVENT; ainda n„o sabemos o que eles est„o colocando naquilo."
+SpokenText="Eu avisei a tripula√ß√£o para ficar longe das ra√ß√µes de carne da ADVENT; ainda n√£o sabemos o que eles est√£o colocando naquilo."
 
 [S_Avenger_Ambient_Central_ShenFather_01 AkEvent]
-SpokenText="Sabe, provavelmente eu n„o estaria vivo hoje se n„o fosse pelo seu pai. Ele era uma espÈcie de gÍnio."
+SpokenText="Sabe, provavelmente eu n√£o estaria vivo hoje se n√£o fosse pelo seu pai. Ele era uma esp√©cie de g√™nio."
 
 [S_Avenger_Ambient_Central_ShenFather_02 AkEvent]
-SpokenText="Devemos a vocÍs dois uma dÌvida de gratid„o."
+SpokenText="Devemos a voc√™s dois uma d√≠vida de gratid√£o."
 
 [S_Avenger_Ambient_Central_ShenFather_03 AkEvent]
-SpokenText="N„o discordo disso."
+SpokenText="N√£o discordo disso."
 
 [S_Avenger_Ambient_Central_ShenFatherB_01 AkEvent]
-SpokenText="Seu pai ficaria orgulhoso do que conseguimos fazer aqui... do que vocÍ conseguiu fazer com esta nave."
+SpokenText="Seu pai ficaria orgulhoso do que conseguimos fazer aqui... do que voc√™ conseguiu fazer com esta nave."
 
 [S_Avenger_Ambient_Central_ShenFatherB_02 AkEvent]
-SpokenText="Pode acreditar, ele sabia. Se havia uma coisa que seu pai sempre tinha em mente, era a fÈ na humanidade. Ele sabia que poderÌamos vencer, em nossos prÛprios termos."
+SpokenText="Pode acreditar, ele sabia. Se havia uma coisa que seu pai sempre tinha em mente, era a f√© na humanidade. Ele sabia que poder√≠amos vencer, em nossos pr√≥prios termos."
 
 [S_Avenger_Ambient_Central_ShenFatherB_03 AkEvent]
-SpokenText="AlÈm de conseguir colocar essa nave para funcionar, que foi principalmente o trabalho da Dra. Shen, n„o tenho me sentido particularmente ˙til h· muito tempo. Estou mais do que feliz em deixar as decisıes difÌceis para o Comandante."
+SpokenText="Al√©m de conseguir colocar essa nave para funcionar, que foi principalmente o trabalho da Dra. Shen, n√£o tenho me sentido particularmente √∫til h√° muito tempo. Estou mais do que feliz em deixar as decis√µes dif√≠ceis para o Comandante."
 
 [S_Avenger_Ambient_Central_ShenFatherB_04 AkEvent]
-SpokenText="Eu fiz o meu melhor para preparar os novos recrutas para o que eles enfrentariam, mas ter o Comandante de volta È um impulso de confianÁa maior do que qualquer discurso."
+SpokenText="Eu fiz o meu melhor para preparar os novos recrutas para o que eles enfrentariam, mas ter o Comandante de volta √© um impulso de confian√ßa maior do que qualquer discurso."
 
 [S_Avenger_Ambient_Central_ShenFatherB_05 AkEvent]
 SpokenText="Com o Comandante cuidando das coisas, tenho muito tempo para me concentrar em aprender a pilotar este navio."
 
 [S_Avenger_Ambient_Central_ShensPrideB_01 AkEvent]
-SpokenText="VocÍ fez um trabalho incrÌvel para manter este navio funcionando, Doutora."
+SpokenText="Voc√™ fez um trabalho incr√≠vel para manter este navio funcionando, Doutora."
 
 [S_Avenger_Ambient_Central_ShensPrideB_02 AkEvent]
-SpokenText="Duvido que eles pensassem que alguÈm conseguiria fazer essa lata decolar novamente."
+SpokenText="Duvido que eles pensassem que algu√©m conseguiria fazer essa lata decolar novamente."
 
 [S_Avenger_Ambient_Central_Spokesman AkEvent]
-SpokenText="Antes de ele entrar em contato, eu sÛ assumia que o Porta-Voz tinha morrido ou seguido em frente apÛs o Conselho se dissolver. Pelo que ele me contou, parece que ele conseguiu um cargo dentro do governo da ADVENT desde o inÌcio, apenas para comeÁar a vazar informaÁıes para a resistÍncia."
+SpokenText="Antes de ele entrar em contato, eu s√≥ assumia que o Porta-Voz tinha morrido ou seguido em frente ap√≥s o Conselho se dissolver. Pelo que ele me contou, parece que ele conseguiu um cargo dentro do governo da ADVENT desde o in√≠cio, apenas para come√ßar a vazar informa√ß√µes para a resist√™ncia."
 
 [S_Avenger_Ambient_Central_SpokesmanB AkEvent]
-SpokenText="O Porta-Voz assumiu um grande risco ao se infiltrar na ADVENT, o suficiente para me fazer acreditar que ele È leal ‡ nossa causa. Pode haver alguns cÈticos no movimento, mas temos coisas maiores com que nos preocupar do que um homem em uma tela."
+SpokenText="O Porta-Voz assumiu um grande risco ao se infiltrar na ADVENT, o suficiente para me fazer acreditar que ele √© leal √† nossa causa. Pode haver alguns c√©ticos no movimento, mas temos coisas maiores com que nos preocupar do que um homem em uma tela."
 
 [S_Avenger_Attack_Central_01_Setup_Phase AkEvent]
-SpokenText="Perdi energia! Estamos caindo r·pido!"
+SpokenText="Perdi energia! Estamos caindo r√°pido!"
 
 [S_Avenger_Attack_Central_02_Setup_Phase AkEvent]
 SpokenText="Shen"
@@ -143,40 +143,40 @@ SpokenText="Shen"
 SpokenText="SHEN!"
 
 [S_Avenger_Attack_Central_04_Setup_Phase AkEvent]
-SpokenText="AlguÈm me traga um relatÛrio de danos!"
+SpokenText="Algu√©m me traga um relat√≥rio de danos!"
 
 [S_Avenger_Attack_Central_05_Setup_Phase AkEvent]
 SpokenText="Apenas um?"
 
 [S_Avenger_Attack_Central_06_Setup_Phase AkEvent]
-SpokenText="Eles n„o querem nÛs. Eles querem a nave. N„o h· alguma forma de vocÍ poder anular isso?"
+SpokenText="Eles n√£o querem n√≥s. Eles querem a nave. N√£o h√° alguma forma de voc√™ poder anular isso?"
 
 [S_Avenger_Attack_Central_07_Setup_Phase AkEvent]
-SpokenText="Comandante, vamos ter que fazer isso do jeito antigo. Destruir aquela lanÁa È a nossa ˙nica chance de sair daqui. N„o podemos deixar os alienÌgenas levar esta nave!"
+SpokenText="Comandante, vamos ter que fazer isso do jeito antigo. Destruir aquela lan√ßa √© a nossa √∫nica chance de sair daqui. N√£o podemos deixar os alien√≠genas levar esta nave!"
 
 [S_Avenger_Central_First_Avatar_Facility AkEvent]
-SpokenText="Precisamos acabar com aquela instalaÁ„o alienÌgena antes que eles tenham tempo de mudar suas operaÁıes."
+SpokenText="Precisamos acabar com aquela instala√ß√£o alien√≠gena antes que eles tenham tempo de mudar suas opera√ß√µes."
 
 [S_Avenger_Central_First_Avatar_RepeatA AkEvent]
-SpokenText="Coordenadas da instalaÁ„o alienÌgena bloqueadas, Comandante."
+SpokenText="Coordenadas da instala√ß√£o alien√≠gena bloqueadas, Comandante."
 
 [S_Avenger_Central_First_Avatar_RepeatB AkEvent]
-SpokenText="Comandante, localizamos uma de suas instalaÁıes."
+SpokenText="Comandante, localizamos uma de suas instala√ß√µes."
 
 [S_Avenger_Central_No_Soldiers AkEvent]
-SpokenText="Comandante, n„o h· mais ninguÈm para implantar! Temos que conseguir novos recrutas aqui!"
+SpokenText="Comandante, n√£o h√° mais ningu√©m para implantar! Temos que conseguir novos recrutas aqui!"
 
 [S_Avenger_Central_Not_Enough_Soldiers AkEvent]
-SpokenText="Estamos ficando com pouca m„o de obra, Comandante. Devemos verificar com a ResistÍncia por novos recrutas."
+SpokenText="Estamos ficando com pouca m√£o de obra, Comandante. Devemos verificar com a Resist√™ncia por novos recrutas."
 
 [S_Avenger_Central_Post_Final_Tentpole AkEvent]
-SpokenText="Comandante, coordenadas de destino bloqueadas - estamos prontos para avanÁar."
+SpokenText="Comandante, coordenadas de destino bloqueadas - estamos prontos para avan√ßar."
 
 [S_Blacksite_Horror_Central_01 AkEvent]
-SpokenText="...ainda n„o posso acreditar que chegamos a isso."
+SpokenText="...ainda n√£o posso acreditar que chegamos a isso."
 
 [S_Blacksite_Horror_Central_02 AkEvent]
-SpokenText="Eles est„o nos massacrando, Doutor. O que poderia ser pior?!"
+SpokenText="Eles est√£o nos massacrando, Doutor. O que poderia ser pior?!"
 
 [S_Blacksite_Horror_Central_03 AkEvent]
 SpokenText="Devem haver milhares deles."
@@ -191,64 +191,64 @@ SpokenText="O que exatamente tem nesse frasco?"
 SpokenText="Doutor."
 
 [S_Blacksite_Horror_Central_07 AkEvent]
-SpokenText="Isso... isso È impossÌvel."
+SpokenText="Isso... isso √© imposs√≠vel."
 
 [S_Blacksite_Horror_Central_08 AkEvent]
 SpokenText="Mas... por que fazer isso?"
 
 [S_Blacksite_Horror_Central_09 AkEvent]
-SpokenText="J· È um comeÁo."
+SpokenText="J√° √© um come√ßo."
 
 [S_Blacksite_Horror_Central_10 AkEvent]
-SpokenText="Ent„o, eu sugiro fortemente que paguemos uma visita a eles, Comandante."
+SpokenText="Ent√£o, eu sugiro fortemente que paguemos uma visita a eles, Comandante."
 
 [S_Blacksite_Horror_Central_11 AkEvent]
-SpokenText="E depois de encontrarmos o que procuramos, encerramos para sempre toda essa maldita operaÁ„o."
+SpokenText="E depois de encontrarmos o que procuramos, encerramos para sempre toda essa maldita opera√ß√£o."
 
 [S_BlacksiteTransmission_Central AkEvent]
-SpokenText="Comandante, temos uma transmiss„o de prioridade um chegando atravÈs de canais seguros. … da resistÍncia..."
+SpokenText="Comandante, temos uma transmiss√£o de prioridade um chegando atrav√©s de canais seguros. √â da resist√™ncia..."
 
 [S_Broadcast_Marked_On_Geoscape_Central AkEvent]
-SpokenText="Se formos infiltrar a torre de rede da ADVENT, teremos que usar uma equipe menor, tentar chamar menos atenÁ„o para nÛs mesmos do que j· fazemos."
+SpokenText="Se formos infiltrar a torre de rede da ADVENT, teremos que usar uma equipe menor, tentar chamar menos aten√ß√£o para n√≥s mesmos do que j√° fazemos."
 
 [S_Broadcast_Mission_Appears_Central AkEvent]
-SpokenText="Temos o local alvo bloqueado, Comandante. Esta È a nossa chance de atacar o coraÁ„o da ADVENT. Uma vez que controlarmos a torre de rede, poderemos finalmente mostrar ao mundo o que os alienÌgenas est„o fazendo. N„o h· volta depois disso."
+SpokenText="Temos o local alvo bloqueado, Comandante. Esta √© a nossa chance de atacar o cora√ß√£o da ADVENT. Uma vez que controlarmos a torre de rede, poderemos finalmente mostrar ao mundo o que os alien√≠genas est√£o fazendo. N√£o h√° volta depois disso."
 
 [S_Broadcast_Mission_No_Turning_Back_Central AkEvent]
-SpokenText="Comandante, uma vez que avanÁarmos para a torre de rede da ADVENT, È tudo ou nada. N„o teremos tempo para avanÁar em nossa pesquisa ou lidar com os feridos. SÛ devemos implantar quando estivermos totalmente preparados."
+SpokenText="Comandante, uma vez que avan√ßarmos para a torre de rede da ADVENT, √© tudo ou nada. N√£o teremos tempo para avan√ßar em nossa pesquisa ou lidar com os feridos. S√≥ devemos implantar quando estivermos totalmente preparados."
 
 [S_Broadcast_Truth_Central_01 AkEvent]
 SpokenText="Muito bem, Doutor..."
 
 [S_Broadcast_Truth_Central_02 AkEvent]
-SpokenText="Shen? Como est· a situaÁ„o?"
+SpokenText="Shen? Como est√° a situa√ß√£o?"
 
 [S_Broadcast_Truth_Central_03 AkEvent]
 SpokenText="Estou trabalhando nisso."
 
 [S_Broadcast_Truth_Central_04 AkEvent]
-SpokenText="”timo. Melhor fazermos isso valer a pena!"
+SpokenText="√ìtimo. Melhor fazermos isso valer a pena!"
 
 [S_Broadcast_Truth_Central_05 AkEvent]
-SpokenText="Tragam-me um relatÛrio de danos! Funcionou?"
+SpokenText="Tragam-me um relat√≥rio de danos! Funcionou?"
 
 [S_Build_Outpost_Long_Central_01 AkEvent]
-SpokenText="Sinal chegando alto e claro, Ref˙gio."
+SpokenText="Sinal chegando alto e claro, Ref√∫gio."
 
 [S_Build_Outpost_Long_Central_02 AkEvent]
-SpokenText="Bem-vindo ‡ luta."
+SpokenText="Bem-vindo √† luta."
 
 [S_Commander_Awakens_Central_01_Setup_Phase AkEvent]
-SpokenText="”timo. Ent„o vamos nessa."
+SpokenText="√ìtimo. Ent√£o vamos nessa."
 
 [S_Commander_Awakens_Central_02_Setup_Phase AkEvent]
-SpokenText="Como h· 20 anos atr·s... ainda est·vamos chamando aquilo de guerra naquela Època."
+SpokenText="Como h√° 20 anos atr√°s... ainda est√°vamos chamando aquilo de guerra naquela √©poca."
 
 [S_Commander_Awakens_Central_03_Setup_Phase AkEvent]
-SpokenText="...n„o tÌnhamos ideia do que estava por vir."
+SpokenText="...n√£o t√≠nhamos ideia do que estava por vir."
 
 [S_Commander_Awakens_Central_04_Setup_Phase AkEvent]
-SpokenText="Sem Plano B aqui, pessoal. FaÁam."
+SpokenText="Sem Plano B aqui, pessoal. Fa√ßam."
 
 [S_Commander_Awakens_Central_05_Setup_Phase AkEvent]
 SpokenText="Eu disse a eles que levaria mais que isso para te derrubar."
@@ -257,31 +257,31 @@ SpokenText="Eu disse a eles que levaria mais que isso para te derrubar."
 SpokenText="Bem-vindo de volta... Comandante."
 
 [S_Commander_Awakens_Central_07_Setup_Phase AkEvent]
-SpokenText="Fico feliz em ver que vocÍ finalmente est· saindo disso. Mas n„o invejo a dor de cabeÁa que vocÍ deve ter..."
+SpokenText="Fico feliz em ver que voc√™ finalmente est√° saindo disso. Mas n√£o invejo a dor de cabe√ßa que voc√™ deve ter..."
 
 [S_Commander_Awakens_Central_08_Setup_Phase AkEvent]
-SpokenText="Mesmo assim, n„o posso culpar o Dr. Tygan. Especialmente considerando que ninguÈm nunca tentou algo assim antes."
+SpokenText="Mesmo assim, n√£o posso culpar o Dr. Tygan. Especialmente considerando que ningu√©m nunca tentou algo assim antes."
 
 [S_Commander_Awakens_Central_09_Setup_Phase AkEvent]
-SpokenText="Com calma - ainda n„o temos certeza do que eles fizeram com vocÍ... aquele chip estava enterrado pela metade em seu cr‚nio."
+SpokenText="Com calma - ainda n√£o temos certeza do que eles fizeram com voc√™... aquele chip estava enterrado pela metade em seu cr√¢nio."
 
 [S_Commander_Awakens_Central_10_Setup_Phase AkEvent]
-SpokenText="Perdemos muitos bons soldados te procurando ao longo dos anos. Quase desisti da esperanÁa de que vocÍ ainda estava l· fora. Agi com base na inteligÍncia assim que recebi a notÌcia."
+SpokenText="Perdemos muitos bons soldados te procurando ao longo dos anos. Quase desisti da esperan√ßa de que voc√™ ainda estava l√° fora. Agi com base na intelig√™ncia assim que recebi a not√≠cia."
 
 [S_Commander_Awakens_Central_11_Setup_Phase AkEvent]
-SpokenText="N„o tenho certeza do que vocÍ lembra, mas muita coisa mudou. Fiz o melhor que pude, mas os ˙ltimos 20 anos foram difÌceis sem vocÍ."
+SpokenText="N√£o tenho certeza do que voc√™ lembra, mas muita coisa mudou. Fiz o melhor que pude, mas os √∫ltimos 20 anos foram dif√≠ceis sem voc√™."
 
 [S_Commander_Awakens_Central_12_Setup_Phase AkEvent]
 SpokenText="Se quiser se atualizar, Shen tem o arquivo rodando em seu terminal."
 
 [S_Commander_Awakens_Central_13_Setup_Phase AkEvent]
-SpokenText="Caso contr·rio, v· ver o Dr. Tygan quando estiver pronto. H· algumas coisas que vocÍ deve saber. Ele ser· melhor em explicar do que eu."
+SpokenText="Caso contr√°rio, v√° ver o Dr. Tygan quando estiver pronto. H√° algumas coisas que voc√™ deve saber. Ele ser√° melhor em explicar do que eu."
 
 [S_Commander_Awakens_Central_14_Setup_Phase AkEvent]
-SpokenText="… Ûtimo tÍ-lo de volta, Comandante."
+SpokenText="√â √≥timo t√™-lo de volta, Comandante."
 
 [S_Commander_Awakens_Central_15_Setup_Phase AkEvent]
-SpokenText="... ainda est·vamos chamando aquilo de guerra naquela Època."
+SpokenText="... ainda est√°vamos chamando aquilo de guerra naquela √©poca."
 
 [S_Dark_Volunteer_01_Central_01 AkEvent]
 SpokenText="Siga em frente."
@@ -290,31 +290,31 @@ SpokenText="Siga em frente."
 SpokenText="Perfeito. Podemos finalmente encerrar este projeto Avatar de uma vez por todas."
 
 [S_Dark_Volunteer_01_Central_02 AkEvent]
-SpokenText="E È aÌ que entramos."
+SpokenText="E √© a√≠ que entramos."
 
 [S_Dark_Volunteer_01_Central_03 AkEvent]
-SpokenText="VocÍ est· falando sÈrio?"
+SpokenText="Voc√™ est√° falando s√©rio?"
 
 [S_Dark_Volunteer_01_Central_04 AkEvent]
-SpokenText="Ent„o... qual È a pegadinha?"
+SpokenText="Ent√£o... qual √© a pegadinha?"
 
 [S_Dark_Volunteer_01_Central_05 AkEvent]
-SpokenText="Ent„o vocÍ quer operar uma dessas coisas... por controle remoto."
+SpokenText="Ent√£o voc√™ quer operar uma dessas coisas... por controle remoto."
 
 [S_Dark_Volunteer_01_Central_06 AkEvent]
 SpokenText="Aquilo foi diferente. O traje de estase..."
 
 [S_Dark_Volunteer_01_Central_07 AkEvent]
-SpokenText="Muito provavelmente n„o È suficiente, Doutor."
+SpokenText="Muito provavelmente n√£o √© suficiente, Doutor."
 
 [S_Dark_Volunteer_01_Central_08 AkEvent]
-SpokenText="Precisamos elaborar um plano antes de avanÁarmos pela porta da frente do inimigo."
+SpokenText="Precisamos elaborar um plano antes de avan√ßarmos pela porta da frente do inimigo."
 
 [S_Dark_Volunteer_01_Central_09 AkEvent]
-SpokenText="Isso lhe dar· um tempo para pensar sobre isso, Comandante."
+SpokenText="Isso lhe dar√° um tempo para pensar sobre isso, Comandante."
 
 [S_Dark_Volunteer_02_Central_01 AkEvent]
-SpokenText="Shen. J· vi vocÍ revisando esse equipamento umas 50 vezes. Respire fundo."
+SpokenText="Shen. J√° vi voc√™ revisando esse equipamento umas 50 vezes. Respire fundo."
 
 [S_Dark_Volunteer_02_Central_02 AkEvent]
 SpokenText="Mande ver, Comandante..."
@@ -326,25 +326,25 @@ SpokenText="Me coloquem na linha. Muito bem, pessoal. O mundo recebeu seu chamad
 SpokenText="E agora eles sabem a verdade."
 
 [S_Dark_Volunteer_02_Central_05 AkEvent]
-SpokenText="A ADVENT È uma mentira. E o tempo deles acabou. Eles tÍm uma guerra em pleno andamento agora!"
+SpokenText="A ADVENT √© uma mentira. E o tempo deles acabou. Eles t√™m uma guerra em pleno andamento agora!"
 
 [S_Dark_Volunteer_02_Central_06 AkEvent]
-SpokenText="Embora os alienÌgenas lutem para conter nosso mundo, nÛs vamos atacar o deles."
+SpokenText="Embora os alien√≠genas lutem para conter nosso mundo, n√≥s vamos atacar o deles."
 
 [S_Dark_Volunteer_02_Central_07 AkEvent]
-SpokenText="N„o ser· f·cil."
+SpokenText="N√£o ser√° f√°cil."
 
 [S_Dark_Volunteer_02_Central_08 AkEvent]
-SpokenText="Mas vocÍ est· acostumado com isso."
+SpokenText="Mas voc√™ est√° acostumado com isso."
 
 [S_Dark_Volunteer_02_Central_09 AkEvent]
-SpokenText="VocÍ fez o que foi necess·rio. Nunca desistiu da luta."
+SpokenText="Voc√™ fez o que foi necess√°rio. Nunca desistiu da luta."
 
 [S_Dark_Volunteer_02_Central_10 AkEvent]
-SpokenText="VocÍ È XCOM."
+SpokenText="Voc√™ √© XCOM."
 
 [S_Dark_Volunteer_02_Central_11 AkEvent]
-SpokenText="E vocÍ vai acabar com isso!"
+SpokenText="E voc√™ vai acabar com isso!"
 
 [S_Dark_Volunteer_02_Central_12 AkEvent]
 SpokenText="A humanidade conta conosco, pessoal."
@@ -353,99 +353,99 @@ SpokenText="A humanidade conta conosco, pessoal."
 SpokenText="Boa sorte. Comandante."
 
 [S_Equip_New_Item_SquadSelect_Engineering_Tutorial_Central AkEvent]
-SpokenText="Comandante, parece que o Shen preparou um Kit MÈdico para nÛs. Devemos equipar um de nossos soldados com ele antes de envi·-los para a miss„o."
+SpokenText="Comandante, parece que o Shen preparou um Kit M√©dico para n√≥s. Devemos equipar um de nossos soldados com ele antes de envi√°-los para a miss√£o."
 
 [S_First_Council_Mission_Geoscape_Central AkEvent]
-SpokenText="Embora tenhamos aliados espalhados por cidades em todo o mundo dispostos a compartilhar seu conhecimento sobre as operaÁıes da ADVENT, os alienÌgenas est„o os perseguindo ativamente. Caber· a vocÍ garantir a seguranÁa de nossos agentes, Comandante. Boa sorte."
+SpokenText="Embora tenhamos aliados espalhados por cidades em todo o mundo dispostos a compartilhar seu conhecimento sobre as opera√ß√µes da ADVENT, os alien√≠genas est√£o os perseguindo ativamente. Caber√° a voc√™ garantir a seguran√ßa de nossos agentes, Comandante. Boa sorte."
 
 [S_First_Flight_Central_01_Setup_Phase AkEvent]
-SpokenText="Comandante, Ûtimo. Temos uma situaÁ„o aqui."
+SpokenText="Comandante, √≥timo. Temos uma situa√ß√£o aqui."
 
 [S_First_Flight_Central_02_Setup_Phase AkEvent]
-SpokenText="Apesar de todos os esforÁos da ADVENT, cÈlulas da resistÍncia continuam operando em todo o mundo."
+SpokenText="Apesar de todos os esfor√ßos da ADVENT, c√©lulas da resist√™ncia continuam operando em todo o mundo."
 
 [S_First_Flight_Central_03_Alt_Setup_Phase AkEvent]
-SpokenText="Apesar de todos os esforÁos da ADVENT, ainda existem pessoas l· fora que se recusam a acreditar em suas mentiras."
+SpokenText="Apesar de todos os esfor√ßos da ADVENT, ainda existem pessoas l√° fora que se recusam a acreditar em suas mentiras."
 
 [S_First_Flight_Central_03_Setup_Phase AkEvent]
-SpokenText="E algumas delas est„o pedindo nossa ajuda. Mas n„o podemos chegar a tempo em ambas."
+SpokenText="E algumas delas est√£o pedindo nossa ajuda. Mas n√£o podemos chegar a tempo em ambas."
 
 [S_First_Flight_Central_04_Setup_Phase AkEvent]
 SpokenText="Quem disse alguma coisa sobre o Skyranger."
 
 [S_First_Flight_Central_05_Setup_Phase AkEvent]
-SpokenText="Shen - relatÛrio de status. Estamos prontos?"
+SpokenText="Shen - relat√≥rio de status. Estamos prontos?"
 
 [S_First_Flight_Central_06_Setup_Phase AkEvent]
-SpokenText="VocÍs ouviram a moÁa."
+SpokenText="Voc√™s ouviram a mo√ßa."
 
 [S_First_LandedUFO_Geoscape_Central AkEvent]
-SpokenText="Comandante, temos a posiÁ„o de um UFO vulner·vel que pousou nesta regi„o. Se nos movermos r·pido, h· uma chance de conseguirmos recuperar um bom lote de suprimentos e equipamentos da nave."
+SpokenText="Comandante, temos a posi√ß√£o de um UFO vulner√°vel que pousou nesta regi√£o. Se nos movermos r√°pido, h√° uma chance de conseguirmos recuperar um bom lote de suprimentos e equipamentos da nave."
 
 [S_First_Retaliation_Geoscape_Central AkEvent]
-SpokenText="Comandante, temos uma equipe pronta para avanÁar sobre o Ref˙gio da ResistÍncia atualmente sob ataque dos alienÌgenas. DÍ a ordem e partiremos."
+SpokenText="Comandante, temos uma equipe pronta para avan√ßar sobre o Ref√∫gio da Resist√™ncia atualmente sob ataque dos alien√≠genas. D√™ a ordem e partiremos."
 
 [S_First_Sabotage_Geoscape_Central AkEvent]
-SpokenText="Comandante, agora que estabelecemos contato com a resistÍncia local, temos os detalhes necess·rios para atacar a instalaÁ„o dos alienÌgenas. Esta È a nossa chance de retardar o projeto Avatar deles."
+SpokenText="Comandante, agora que estabelecemos contato com a resist√™ncia local, temos os detalhes necess√°rios para atacar a instala√ß√£o dos alien√≠genas. Esta √© a nossa chance de retardar o projeto Avatar deles."
 
 [S_First_Scientist_Received_Central AkEvent]
 SpokenText="Obrigado por enviar equipe de apoio adicional para me ajudar, Comandante. Vou garantir que eles sejam bem aproveitados."
 
 [S_First_Supply_Raid_Geoscape_Central AkEvent]
-SpokenText="Comandante, acabamos de receber notÌcias de que a resistÍncia atacou uma linha de suprimentos da ADVENT. Temos a oportunidade de recuperar alguns materiais de alto valor, desde que possamos eliminar as forÁas alienÌgenas que guardam o local primeiro."
+SpokenText="Comandante, acabamos de receber not√≠cias de que a resist√™ncia atacou uma linha de suprimentos da ADVENT. Temos a oportunidade de recuperar alguns materiais de alto valor, desde que possamos eliminar as for√ßas alien√≠genas que guardam o local primeiro."
 
 [S_Forge_marked_on_Geoscape_Central AkEvent]
-SpokenText="Comandante, temos as coordenadas da instalaÁ„o alienÌgena Forge. Eu marquei sua posiÁ„o no mapa. Precisamos entrar em contato com a resistÍncia local antes de tentarmos avanÁar."
+SpokenText="Comandante, temos as coordenadas da instala√ß√£o alien√≠gena Forge. Eu marquei sua posi√ß√£o no mapa. Precisamos entrar em contato com a resist√™ncia local antes de tentarmos avan√ßar."
 
 [S_Fortress_Marked_On_Geoscape_Central AkEvent]
-SpokenText="Comandante, detectamos as coordenadas aproximadas de uma instalaÁ„o alienÌgena previamente desconhecida. Eles fizeram um grande esforÁo para manter esta em segredo, acho que podemos ter encontrado o fim da linha."
+SpokenText="Comandante, detectamos as coordenadas aproximadas de uma instala√ß√£o alien√≠gena previamente desconhecida. Eles fizeram um grande esfor√ßo para manter esta em segredo, acho que podemos ter encontrado o fim da linha."
 
 [S_Golden_Path_Musings_Advent_Central_01 AkEvent]
-SpokenText="Tenho que dar crÈdito aos alienÌgenas, a invas„o foi uma coisa, toda a tecnologia avanÁada deles, eles pegaram a gente de surpresa com certeza. Mas a ADVENT, isso È algo para o qual nunca poderÌamos ter nos preparado, mesmo com equipamentos melhores. Entre a propaganda, as distribuiÁıes de "ajuda" e um suprimento aparentemente infinito de "mantenedores da paz" reforÁando suas fileiras, eles s„o nada alÈm de problemas para um movimento de resistÍncia iniciante."
+SpokenText="Tenho que dar cr√©dito aos alien√≠genas, a invas√£o foi uma coisa, toda a tecnologia avan√ßada deles, eles pegaram a gente de surpresa com certeza. Mas a ADVENT, isso √© algo para o qual nunca poder√≠amos ter nos preparado, mesmo com equipamentos melhores. Entre a propaganda, as distribui√ß√µes de "ajuda" e um suprimento aparentemente infinito de "mantenedores da paz" refor√ßando suas fileiras, eles s√£o nada al√©m de problemas para um movimento de resist√™ncia iniciante."
 
 [S_Golden_Path_Musings_Blacksite_Horror_Central_01 AkEvent]
-SpokenText="Os alienÌgenas sempre foram monstros. Desde o comeÁo, foi um experimento cientÌfico fracassado apÛs o outro. Mesmo com as forÁas da ADVENT, eles tentam disfarÁar isso, mas por baixo de toda essa armadura eles n„o s„o diferentes. E agora chegamos a isso. Uma instalaÁ„o inteira dedicada a nos eliminar, e n„o sÛ isso, mas nos transformar em quÍ? Algum tipo de subst‚ncia que eles usam para sabe-se l· o quÍ. DeverÌamos ter sabido que os Anciıes voltariam. DeverÌamos ter sabido que eles nunca partiram."
+SpokenText="Os alien√≠genas sempre foram monstros. Desde o come√ßo, foi um experimento cient√≠fico fracassado ap√≥s o outro. Mesmo com as for√ßas da ADVENT, eles tentam disfar√ßar isso, mas por baixo de toda essa armadura eles n√£o s√£o diferentes. E agora chegamos a isso. Uma instala√ß√£o inteira dedicada a nos eliminar, e n√£o s√≥ isso, mas nos transformar em qu√™? Algum tipo de subst√¢ncia que eles usam para sabe-se l√° o qu√™. Dever√≠amos ter sabido que os Anci√µes voltariam. Dever√≠amos ter sabido que eles nunca partiram."
 
 [S_Golden_Path_Musings_Dying_Ethereals_Central_01 AkEvent]
-SpokenText="Por um segundo, Tygan me deu esperanÁas, com toda essa conversa sobre os Anciıes morrendo, pensei que poderÌamos ter dado um golpe de sorte. Eu deveria saber que n„o seria t„o simples. E È claro que as soluÁıes deles sempre parecem envolver experimentos em nÛs, destruindo o planeta ou alguma combinaÁ„o dos dois. Pelo que consigo ver, esta pode ser nossa chance de acabar com eles de uma vez por todas. Se pararmos a cura, paramos os Anciıes."
+SpokenText="Por um segundo, Tygan me deu esperan√ßas, com toda essa conversa sobre os Anci√µes morrendo, pensei que poder√≠amos ter dado um golpe de sorte. Eu deveria saber que n√£o seria t√£o simples. E √© claro que as solu√ß√µes deles sempre parecem envolver experimentos em n√≥s, destruindo o planeta ou alguma combina√ß√£o dos dois. Pelo que consigo ver, esta pode ser nossa chance de acabar com eles de uma vez por todas. Se pararmos a cura, paramos os Anci√µes."
 
 [S_Golden_Path_Musings_Risistance_Central_01 AkEvent]
-SpokenText="Pelo que ouvi, a resistÍncia j· teve um aumento em seus esforÁos de recrutamento depois que a notÌcia da chegada do Comandante se espalhou. Eles precisavam de um lÌder tanto quanto nÛs, e agora eles estar„o esperando que nÛs ataquemos onde mais dÛi nos alienÌgenas. N„o que esteja preocupado, temos muitas pessoas ansiosas para enfrentar a ADVENT. As coisas est„o ficando interessantes."
+SpokenText="Pelo que ouvi, a resist√™ncia j√° teve um aumento em seus esfor√ßos de recrutamento depois que a not√≠cia da chegada do Comandante se espalhou. Eles precisavam de um l√≠der tanto quanto n√≥s, e agora eles estar√£o esperando que n√≥s ataquemos onde mais d√≥i nos alien√≠genas. N√£o que esteja preocupado, temos muitas pessoas ansiosas para enfrentar a ADVENT. As coisas est√£o ficando interessantes."
 
 [S_GP_Avatar_Bar_Geoscape_Central AkEvent]
-SpokenText="Estamos monitorando o progresso dos alienÌgenas neste Projeto Avatar aqui; se eles concluÌrem o que comeÁaram, parece que ser· o fim para todos nÛs."
+SpokenText="Estamos monitorando o progresso dos alien√≠genas neste Projeto Avatar aqui; se eles conclu√≠rem o que come√ßaram, parece que ser√° o fim para todos n√≥s."
 
 [S_GP_Avatar_Reveal_Comm_Feeder_Central AkEvent]
-SpokenText="Comandante, temos uma mensagem priorit·ria chegando, parece ser um sinal codificado da resistÍncia. Estou redirecionando para os seus aposentos agora."
+SpokenText="Comandante, temos uma mensagem priorit√°ria chegando, parece ser um sinal codificado da resist√™ncia. Estou redirecionando para os seus aposentos agora."
 
 [S_GP_Doom_Rising_Central AkEvent]
-SpokenText="Comandante, se quisermos retardar o progresso dos alienÌgenas no Projeto Avatar, devemos atacar uma de suas instalaÁıes o mais r·pido possÌvel."
+SpokenText="Comandante, se quisermos retardar o progresso dos alien√≠genas no Projeto Avatar, devemos atacar uma de suas instala√ß√µes o mais r√°pido poss√≠vel."
 
 [S_GP_First_Alien_Facility_Buit_Central AkEvent]
-SpokenText="Os alienÌgenas acabaram de concluir uma nova instalaÁ„o ligada ao Projeto Avatar, Comandante. Se conseguirmos fazer contato com as forÁas da resistÍncia na regi„o, poderemos atacar essa instalaÁ„o e prejudicar o trabalho dos alienÌgenas."
+SpokenText="Os alien√≠genas acabaram de concluir uma nova instala√ß√£o ligada ao Projeto Avatar, Comandante. Se conseguirmos fazer contato com as for√ßas da resist√™ncia na regi√£o, poderemos atacar essa instala√ß√£o e prejudicar o trabalho dos alien√≠genas."
 
 [S_GP_PreBlacksite_Objective_Ambient_CEN AkEvent]
-SpokenText="TÌnhamos nossas suspeitas
+SpokenText="T√≠nhamos nossas suspeitas
 
-, mas atÈ agora nunca tivemos os recursos para investigar a possibilidade de instalaÁıes clandestinas da ADVENT construÌdas fora dos centros das cidades. Agora que recebemos notÌcias desse local secreto, admito que estou preocupado com o que podemos encontrar. Eles podem estar fazendo qualquer coisa l· dentro."
+, mas at√© agora nunca tivemos os recursos para investigar a possibilidade de instala√ß√µes clandestinas da ADVENT constru√≠das fora dos centros das cidades. Agora que recebemos not√≠cias desse local secreto, admito que estou preocupado com o que podemos encontrar. Eles podem estar fazendo qualquer coisa l√° dentro."
 
 [S_GP_PreBroadcast_Objective_Ambient_CEN AkEvent]
-SpokenText="Parece que finalmente temos a chance de quebrar o domÌnio da ADVENT sobre os coraÁıes e mentes da populaÁ„o civil que vive nessas cidades, mas n„o ser· f·cil. Sem o Comandante, nunca terÌamos chegado t„o longe, mas agora temos que levar isso atÈ o fim, n„o importa o custo."
+SpokenText="Parece que finalmente temos a chance de quebrar o dom√≠nio da ADVENT sobre os cora√ß√µes e mentes da popula√ß√£o civil que vive nessas cidades, mas n√£o ser√° f√°cil. Sem o Comandante, nunca ter√≠amos chegado t√£o longe, mas agora temos que levar isso at√© o fim, n√£o importa o custo."
 
 [S_GP_PreCaptain_Objective_Ambient_CEN AkEvent]
-SpokenText="Os oficiais da ADVENT podem ser mais perspicazes do que seus soldados comuns, mas duvido que nossas forÁas tenham dificuldades para conseguir um sujeito de teste para Tygan examinar, especialmente porque ele n„o est· pedindo um vivo. N„o h· muita coisa que me surpreenda hoje em dia, mas estou definitivamente curioso para ver se o chip que retiramos do Comandante est· realmente conectado aos que a ADVENT tem usado em seus Capit„es."
+SpokenText="Os oficiais da ADVENT podem ser mais perspicazes do que seus soldados comuns, mas duvido que nossas for√ßas tenham dificuldades para conseguir um sujeito de teste para Tygan examinar, especialmente porque ele n√£o est√° pedindo um vivo. N√£o h√° muita coisa que me surpreenda hoje em dia, mas estou definitivamente curioso para ver se o chip que retiramos do Comandante est√° realmente conectado aos que a ADVENT tem usado em seus Capit√£es."
 
 [S_GP_PreForge_Objective_Ambient_CEN AkEvent]
-SpokenText="Shen conseguiu extrair um conjunto de coordenadas codificadas do frasco que recuperamos no Sitio Negro alienÌgena, e parece que estamos nos dirigindo para outra instalaÁ„o ainda n„o identificada. H· v·rias teorias circulando sobre o que encontraremos, mas neste momento, n„o estou pronto para me comprometer com nenhuma atÈ ver com meus prÛprios olhos."
+SpokenText="Shen conseguiu extrair um conjunto de coordenadas codificadas do frasco que recuperamos no Sitio Negro alien√≠gena, e parece que estamos nos dirigindo para outra instala√ß√£o ainda n√£o identificada. H√° v√°rias teorias circulando sobre o que encontraremos, mas neste momento, n√£o estou pronto para me comprometer com nenhuma at√© ver com meus pr√≥prios olhos."
 
 [S_GP_PreFortress_Objective_Ambient_CEN AkEvent]
-SpokenText="Fomos o mais longe que pudemos, È hora de atravessarmos este port„o deles e ver o que os alienÌgenas est„o realmente escondendo do outro lado. Se nossas experiÍncias anteriores servirem de indicaÁ„o, precisamos estar preparados para lanÁar tudo o que temos contra eles."
+SpokenText="Fomos o mais longe que pudemos, √© hora de atravessarmos este port√£o deles e ver o que os alien√≠genas est√£o realmente escondendo do outro lado. Se nossas experi√™ncias anteriores servirem de indica√ß√£o, precisamos estar preparados para lan√ßar tudo o que temos contra eles."
 
 [S_GP_PreLiveCodex_Objective_Ambient_CEN AkEvent]
-SpokenText="Tygan insiste que nossas forÁas n„o devem ter problemas em desativar um Codex no campo, pelo menos tempo suficiente para hackear a rede da ADVENT. A parte difÌcil ser· convencer nossas tropas a n„o matar essa coisa assim que ela aparecer; ninguÈm fica particularmente animado em se aproximar e ficar cara a cara com essas espÈcies alienÌgenas obscuras, exceto talvez nossos Rangers."
+SpokenText="Tygan insiste que nossas for√ßas n√£o devem ter problemas em desativar um Codex no campo, pelo menos tempo suficiente para hackear a rede da ADVENT. A parte dif√≠cil ser√° convencer nossas tropas a n√£o matar essa coisa assim que ela aparecer; ningu√©m fica particularmente animado em se aproximar e ficar cara a cara com essas esp√©cies alien√≠genas obscuras, exceto talvez nossos Rangers."
 
 [S_GP_PrePsiGate_Objective_Ambient_CEN AkEvent]
-SpokenText="N„o gosto do fato de estarmos perseguindo outro conjunto de coordenadas no meio do nada. J· fizemos isso antes, e tambÈm n„o gostamos do que encontramos naquela ocasi„o. Selvagem ou n„o, os alienÌgenas podem estar preparando uma emboscada ou algo pior, quem sabe. Nossa equipe estar· preparada e pronta para lutar, sÛ queria ter mais informaÁıes."
+SpokenText="N√£o gosto do fato de estarmos perseguindo outro conjunto de coordenadas no meio do nada. J√° fizemos isso antes, e tamb√©m n√£o gostamos do que encontramos naquela ocasi√£o. Selvagem ou n√£o, os alien√≠genas podem estar preparando uma emboscada ou algo pior, quem sabe. Nossa equipe estar√° preparada e pronta para lutar, s√≥ queria ter mais informa√ß√µes."
 
 [S_Humans_Obsolete_Central_01 AkEvent]
 SpokenText="Assim como aquele que encontramos o Comandante..."
@@ -454,22 +454,22 @@ SpokenText="Assim como aquele que encontramos o Comandante..."
 SpokenText="Procure seu recrutador local da ADVENT hoje mesmo."
 
 [S_Humans_Obsolete_Central_03 AkEvent]
-SpokenText="O futuro comeÁa com vocÍ."
+SpokenText="O futuro come√ßa com voc√™."
 
 [S_Humans_Obsolete_Central_04 AkEvent]
-SpokenText="VocÍ quer dizer clones? N„o È de admirar que eles continuem surgindo."
+SpokenText="Voc√™ quer dizer clones? N√£o √© de admirar que eles continuem surgindo."
 
 [S_Humans_Obsolete_Central_05 AkEvent]
-SpokenText="Deixado aberto para quÍ?"
+SpokenText="Deixado aberto para qu√™?"
 
 [S_Humans_Obsolete_Central_06 AkEvent]
-SpokenText="Material Humano. VocÍ quer dizer aquilo que encontramos na instalaÁ„o do Sitio Negro."
+SpokenText="Material Humano. Voc√™ quer dizer aquilo que encontramos na instala√ß√£o do Sitio Negro."
 
 [S_Humans_Obsolete_Central_07 AkEvent]
-SpokenText="Ent„o, estivemos lutando contra nÛs mesmos o tempo todo."
+SpokenText="Ent√£o, estivemos lutando contra n√≥s mesmos o tempo todo."
 
 [S_Humans_Obsolete_Central_08 AkEvent]
-SpokenText="O processo de triagem nos centros mÈdicos. Avatar."
+SpokenText="O processo de triagem nos centros m√©dicos. Avatar."
 
 [S_Humans_Obsolete_Central_09 AkEvent]
 SpokenText="Eu entendo, Doutor. Continue sua pesquisa. Avise-nos se descobrir mais alguma coisa."
@@ -481,31 +481,31 @@ SpokenText="Estou a caminho."
 SpokenText="Mantenha o foco."
 
 [S_Intro_Central_04 AkEvent]
-SpokenText="Prepare a equipe de Invas„o, 60 segundos."
+SpokenText="Prepare a equipe de Invas√£o, 60 segundos."
 
 [S_Intro_Central_06 AkEvent]
 SpokenText="Agora."
 
 [S_Loot_Mission_Wrapper_Central AkEvent]
-SpokenText="Localizamos a instalaÁ„o da ADVENT que abriga o componente do sistema de voo que Shen precisa. Infiltre o local, assegure o alvo e retorne ‡ nave antes que os alienÌgenas percebam o que fizemos."
+SpokenText="Localizamos a instala√ß√£o da ADVENT que abriga o componente do sistema de voo que Shen precisa. Infiltre o local, assegure o alvo e retorne √† nave antes que os alien√≠genas percebam o que fizemos."
 
 [S_Missing_Supply_Cache_Central AkEvent]
-SpokenText="Comandante, a ResistÍncia escondeu um estoque secreto de recursos fora do alcance da ADVENT, mas isso significa que teremos que voar atÈ l· e vasculhar a ·rea se quisermos recuperar essas coisas para nÛs."
+SpokenText="Comandante, a Resist√™ncia escondeu um estoque secreto de recursos fora do alcance da ADVENT, mas isso significa que teremos que voar at√© l√° e vasculhar a √°rea se quisermos recuperar essas coisas para n√≥s."
 
 [S_Old_Gods_02_Central_01 AkEvent]
-SpokenText="Aquilo È... um Anci„o. N„o vejo um h· pelo menos uma dÈcada - fora dos monumentos que a ADVENT continua erguendo em honra a eles."
+SpokenText="Aquilo √©... um Anci√£o. N√£o vejo um h√° pelo menos uma d√©cada - fora dos monumentos que a ADVENT continua erguendo em honra a eles."
 
 [S_Old_Gods_02_Central_02 AkEvent]
-SpokenText="Ent„o, eles est„o morrendo. Parece que nosso trabalho acabou de ficar muito mais f·cil."
+SpokenText="Ent√£o, eles est√£o morrendo. Parece que nosso trabalho acabou de ficar muito mais f√°cil."
 
 [S_Old_Gods_02_Central_03 AkEvent]
-SpokenText="Qual È a pegadinha?"
+SpokenText="Qual √© a pegadinha?"
 
 [S_Old_Gods_02_Central_04 AkEvent]
 SpokenText="Uma cura?"
 
 [S_Old_Gods_02_Central_05 AkEvent]
-SpokenText="A invas„o. A ocupaÁ„o. A ADVENT. Um grande experimento de laboratÛrio. E nÛs somos os ratos."
+SpokenText="A invas√£o. A ocupa√ß√£o. A ADVENT. Um grande experimento de laborat√≥rio. E n√≥s somos os ratos."
 
 [S_Old_Gods_02_Central_06 AkEvent]
 SpokenText="Avatar. Precisamos desses arquivos."
@@ -517,31 +517,31 @@ SpokenText="Ou explodimos toda a nave de uma vez desta vez."
 SpokenText="Isso podemos providenciar, Doutor."
 
 [S_Old_Gods_02_Central_09 AkEvent]
-SpokenText="Isso n„o ser· f·cil, Comandante, mas se alguÈm pode fazer isso, È vocÍ. Vou ter uma equipe pronta para agir quando vocÍ der a ordem."
+SpokenText="Isso n√£o ser√° f√°cil, Comandante, mas se algu√©m pode fazer isso, √© voc√™. Vou ter uma equipe pronta para agir quando voc√™ der a ordem."
 
 [S_Pre_Final_Mission_Broadcast_Central_01 AkEvent]
 SpokenText="Na tela."
 
 [S_Pre_Final_Mission_Broadcast_Central_02 AkEvent]
-SpokenText="VocÍ me ouviu. Ele est· correndo um grande risco nos contatando assim."
+SpokenText="Voc√™ me ouviu. Ele est√° correndo um grande risco nos contatando assim."
 
 [S_Pre_Final_Mission_Broadcast_Central_03 AkEvent]
-SpokenText="FazÌvel?"
+SpokenText="Faz√≠vel?"
 
 [S_PreFinalMission_MissionUI_Geoscape_Central AkEvent]
-SpokenText="… isso aÌ, Comandante. … hora de acabarmos com isso, de uma vez por todas."
+SpokenText="√â isso a√≠, Comandante. √â hora de acabarmos com isso, de uma vez por todas."
 
 [S_Psi_Gate_marked_on_Geoscape_Central AkEvent]
-SpokenText="Eu marquei a localizaÁ„o que Shen obteve do Codex, Comandante. … uma regi„o remota, no meio da floresta, longe de ·reas habitadas. Precisaremos entrar em contato com as forÁas da resistÍncia local se quisermos dar uma olhada mais de perto."
+SpokenText="Eu marquei a localiza√ß√£o que Shen obteve do Codex, Comandante. √â uma regi√£o remota, no meio da floresta, longe de √°reas habitadas. Precisaremos entrar em contato com as for√ßas da resist√™ncia local se quisermos dar uma olhada mais de perto."
 
 [S_Psi_Network_Central_01_GoldenPath AkEvent]
-SpokenText="Suponho que isso tenha sido mais f·cil do que o seu ˙ltimo procedimento, Doutor?"
+SpokenText="Suponho que isso tenha sido mais f√°cil do que o seu √∫ltimo procedimento, Doutor?"
 
 [S_Psi_Network_Central_02_GoldenPath AkEvent]
-SpokenText="Que tipo de diferenÁas?"
+SpokenText="Que tipo de diferen√ßas?"
 
 [S_Psi_Network_Central_03_GoldenPath AkEvent]
-SpokenText="Eles estavam usando vocÍ contra nÛs."
+SpokenText="Eles estavam usando voc√™ contra n√≥s."
 
 [S_Psi_Network_Central_04_GoldenPath AkEvent]
 SpokenText="Rede?"
@@ -550,366 +550,366 @@ SpokenText="Rede?"
 SpokenText="Ou uma fraqueza..."
 
 [S_Psi_Network_Central_06_GoldenPath AkEvent]
-SpokenText="Aposto que isso n„o ser· f·cil."
+SpokenText="Aposto que isso n√£o ser√° f√°cil."
 
 [S_Psi_Network_Central_07_GoldenPath AkEvent]
-SpokenText="Como eu disse, n„o ser· f·cil."
+SpokenText="Como eu disse, n√£o ser√° f√°cil."
 
 [S_Psi_Network_Central_08_GoldenPath AkEvent]
-SpokenText="Ainda assim, È a melhor pista que temos. Sua decis„o, Comandante."
+SpokenText="Ainda assim, √© a melhor pista que temos. Sua decis√£o, Comandante."
 
 [S_Retaliation_Central_01_Setup_Phase AkEvent]
-SpokenText="Com prazer, M„e da Toca. Aproveite enquanto pode."
+SpokenText="Com prazer, M√£e da Toca. Aproveite enquanto pode."
 
 [S_Retaliation_Central_02_Setup_Phase AkEvent]
-SpokenText="VocÍ acertou essa parte."
+SpokenText="Voc√™ acertou essa parte."
 
 [S_Retaliation_Central_03_Setup_Phase AkEvent]
-SpokenText="Ataquem o posto avanÁado!"
+SpokenText="Ataquem o posto avan√ßado!"
 
 [S_Retaliation_Central_04_Setup_Phase AkEvent]
-SpokenText="VocÍs tÍm inimigos se aproximando! Eles est„o bem..."
+SpokenText="Voc√™s t√™m inimigos se aproximando! Eles est√£o bem..."
 
 [S_Retaliation_Central_05_Setup_Phase AkEvent]
-SpokenText="Eles n„o tÍm chance..."
+SpokenText="Eles n√£o t√™m chance..."
 
 [S_Retaliation_Central_06_Setup_Phase AkEvent]
-SpokenText="Comandante, devemos preparar uma equipe para entrar em aÁ„o..."
+SpokenText="Comandante, devemos preparar uma equipe para entrar em a√ß√£o..."
 
 [S_Retaliation_Central_07_Setup_Phase AkEvent]
-SpokenText="ALERTA GERAL! TIREM SEU POVO DE L¡!"
+SpokenText="ALERTA GERAL! TIREM SEU POVO DE L√Å!"
 
 [S_Setup_Phase_Armory_Promote_Jane_Central AkEvent]
-SpokenText="Comandante, Jane Kelly foi fundamental na operaÁ„o para trazÍ-lo de volta. Ela ganhou experiÍncia suficiente para uma promoÁ„o, devemos cuidar disso agora."
+SpokenText="Comandante, Jane Kelly foi fundamental na opera√ß√£o para traz√™-lo de volta. Ela ganhou experi√™ncia suficiente para uma promo√ß√£o, devemos cuidar disso agora."
 
 [S_Setup_Phase_Blacksite_Bridge_Matinee_Central AkEvent]
-SpokenText="Acabamos de receber notÌcias da resistÍncia, eles conseguiram localizar um SÌtio Negro da ADVENT sobre o qual ouvimos rumores. Eu bloquei as coordenadas, mas temos um problema."
+SpokenText="Acabamos de receber not√≠cias da resist√™ncia, eles conseguiram localizar um S√≠tio Negro da ADVENT sobre o qual ouvimos rumores. Eu bloquei as coordenadas, mas temos um problema."
 
 [S_Setup_Phase_Facility_Adds_Doom_Central AkEvent]
-SpokenText="Comandante, os alienÌgenas ainda est„o avanÁando com o Projeto Avatar. Derrubar essa instalaÁ„o seria um golpe sÈrio para os esforÁos deles."
+SpokenText="Comandante, os alien√≠genas ainda est√£o avan√ßando com o Projeto Avatar. Derrubar essa instala√ß√£o seria um golpe s√©rio para os esfor√ßos deles."
 
 [S_Setup_Phase_First_Geoscape_Central AkEvent]
-SpokenText="Os alienÌgenas podem ter o mundo sob controle, mas j· passou da hora de mudarmos isso. No momento, a resistÍncia est· espalhada em pequenos grupos. Nosso primeiro passo È nos conectarmos."
+SpokenText="Os alien√≠genas podem ter o mundo sob controle, mas j√° passou da hora de mudarmos isso. No momento, a resist√™ncia est√° espalhada em pequenos grupos. Nosso primeiro passo √© nos conectarmos."
 
 [S_Setup_Phase_First_Geoscape_Hideout_Central AkEvent]
-SpokenText="Esta È nossa posiÁ„o atual. Estamos no ch„o, mas se conseguirmos a ˙ltima peÁa desse quebra-cabeÁa para Shen, talvez vejamos essa coisa voar."
+SpokenText="Esta √© nossa posi√ß√£o atual. Estamos no ch√£o, mas se conseguirmos a √∫ltima pe√ßa desse quebra-cabe√ßa para Shen, talvez vejamos essa coisa voar."
 
 [S_Setup_Phase_First_Geoscape_Mission_Site_Central AkEvent]
-SpokenText="Infelizmente, a peÁa que estamos procurando est· dentro de uma instalaÁ„o da ADVENT altamente protegida. N„o h· como evitar, estamos indo para uma luta."
+SpokenText="Infelizmente, a pe√ßa que estamos procurando est√° dentro de uma instala√ß√£o da ADVENT altamente protegida. N√£o h√° como evitar, estamos indo para uma luta."
 
 [S_Setup_Phase_First_Geoscape_Ready_Deploy_Central AkEvent]
-SpokenText="O esquadr„o est· pronto para entrar em aÁ„o, Comandante."
+SpokenText="O esquadr√£o est√° pronto para entrar em a√ß√£o, Comandante."
 
 [S_Setup_Phase_First_Living_Quarters_Central AkEvent]
-SpokenText="Para a maioria dos nossos soldados, os alojamentos a bordo do Avenger s„o um passo acima das condiÁıes em que tiveram que viver no campo."
+SpokenText="Para a maioria dos nossos soldados, os alojamentos a bordo do Avenger s√£o um passo acima das condi√ß√µes em que tiveram que viver no campo."
 
 [S_Setup_Phase_First_Memorial_Central AkEvent]
-SpokenText="Fizemos o que pudemos para honrar nossos soldados caÌdos, Comandante. N„o È muito, mas d· a nossas pessoas a chance de prestar seus respeitos."
+SpokenText="Fizemos o que pudemos para honrar nossos soldados ca√≠dos, Comandante. N√£o √© muito, mas d√° a nossas pessoas a chance de prestar seus respeitos."
 
 [S_Setup_Phase_First_Rumor_Central AkEvent]
-SpokenText="Comandante, um dos nossos contatos da resistÍncia nos deu uma dica sobre um local que pode valer a pena investigar."
+SpokenText="Comandante, um dos nossos contatos da resist√™ncia nos deu uma dica sobre um local que pode valer a pena investigar."
 
 [S_Setup_Phase_First_Scan_Central AkEvent]
-SpokenText="J· estamos obtendo leituras de algumas regiıes. N„o podemos estar em todos os lugares ao mesmo tempo, Comandante. Precisamos escolher nossos movimentos cuidadosamente, ajudar nossos aliados enquanto perturbamos as operaÁıes inimigas para fortalecer a resistÍncia."
+SpokenText="J√° estamos obtendo leituras de algumas regi√µes. N√£o podemos estar em todos os lugares ao mesmo tempo, Comandante. Precisamos escolher nossos movimentos cuidadosamente, ajudar nossos aliados enquanto perturbamos as opera√ß√µes inimigas para fortalecer a resist√™ncia."
 
 [S_Setup_Phase_Forge_Coordinates_But_No_Contact_Central AkEvent]
-SpokenText="Comandante, temos a localizaÁ„o da instalaÁ„o alienÌgena Forge, mas ainda precisaremos estabelecer contato com as forÁas da resistÍncia local antes de prosseguirmos com a investigaÁ„o."
+SpokenText="Comandante, temos a localiza√ß√£o da instala√ß√£o alien√≠gena Forge, mas ainda precisaremos estabelecer contato com as for√ßas da resist√™ncia local antes de prosseguirmos com a investiga√ß√£o."
 
 [S_Setup_Phase_Fortress_Adds_Doom_Central AkEvent]
-SpokenText="Comandante, os alienÌgenas continuam progredindo no Projeto Avatar. Se vamos retard·-los, precisamos agir r·pido."
+SpokenText="Comandante, os alien√≠genas continuam progredindo no Projeto Avatar. Se vamos retard√°-los, precisamos agir r√°pido."
 
 [S_Setup_Phase_Geoscape_Avenger_Focus_Central AkEvent]
-SpokenText="N„o devemos esperar muito para isso, Comandante. Precisamos comeÁar a fazer contato com outras regiıes em breve se quisermos construir uma resistÍncia global e enfrentar a ADVENT."
+SpokenText="N√£o devemos esperar muito para isso, Comandante. Precisamos come√ßar a fazer contato com outras regi√µes em breve se quisermos construir uma resist√™ncia global e enfrentar a ADVENT."
 
 [S_Setup_Phase_Geoscape_Avenger_Parked_Central AkEvent]
-SpokenText="Comandante, nossa posiÁ„o atual È aqui, do lado de fora da sede da resistÍncia. Quando n„o estamos em movimento, isso servir· como nossa casa e fonte de suprimentos."
+SpokenText="Comandante, nossa posi√ß√£o atual √© aqui, do lado de fora da sede da resist√™ncia. Quando n√£o estamos em movimento, isso servir√° como nossa casa e fonte de suprimentos."
 
 [S_Setup_Phase_Geoscape_Avenger_Parked_Central_ALT AkEvent]
-SpokenText="Comandante, nossa posiÁ„o atual È aqui, do lado de fora da sede da resistÍncia. Quando n„o estamos em movimento, isso servir· como nossa casa e fonte de suprimentos. O conselheiro rastreou o SÌtio Negro alienÌgena nesta regi„o. Infelizmente, ainda n„o temos suas coordenadas exatas. Se quisermos ter alguma chance de encontrar esta instalaÁ„o, precisaremos fazer contato com a cÈlula local da resistÍncia nas proximidades. Tygan tem uma teoria sobre como podemos contat·-los sem chamar a atenÁ„o dos alienÌgenas, mas precisaremos dar tempo a ele para conduzir suas pesquisas. N„o devemos esperar muito para isso, Comandante. Precisamos comeÁar a fazer contato com outras regiıes em breve se quisermos construir uma resistÍncia global e enfrentar a ADVENT."
+SpokenText="Comandante, nossa posi√ß√£o atual √© aqui, do lado de fora da sede da resist√™ncia. Quando n√£o estamos em movimento, isso servir√° como nossa casa e fonte de suprimentos. O conselheiro rastreou o S√≠tio Negro alien√≠gena nesta regi√£o. Infelizmente, ainda n√£o temos suas coordenadas exatas. Se quisermos ter alguma chance de encontrar esta instala√ß√£o, precisaremos fazer contato com a c√©lula local da resist√™ncia nas proximidades. Tygan tem uma teoria sobre como podemos contat√°-los sem chamar a aten√ß√£o dos alien√≠genas, mas precisaremos dar tempo a ele para conduzir suas pesquisas. N√£o devemos esperar muito para isso, Comandante. Precisamos come√ßar a fazer contato com outras regi√µes em breve se quisermos construir uma resist√™ncia global e enfrentar a ADVENT."
 
 [S_Setup_Phase_Geoscape_Blacksite_Focus_Central AkEvent]
-SpokenText="O conselheiro rastreou o SÌtio Negro alienÌgena nesta regi„o. Infelizmente, ainda n„o temos suas coordenadas exatas. Se quisermos ter alguma chance de encontrar esta instalaÁ„o, precisaremos fazer contato com a cÈlula local da resistÍncia nas proximidades. Tygan tem uma teoria sobre como podemos contat·-los sem chamar a atenÁ„o dos alienÌgenas, mas precisaremos dar tempo a ele para conduzir suas pesquisas."
+SpokenText="O conselheiro rastreou o S√≠tio Negro alien√≠gena nesta regi√£o. Infelizmente, ainda n√£o temos suas coordenadas exatas. Se quisermos ter alguma chance de encontrar esta instala√ß√£o, precisaremos fazer contato com a c√©lula local da resist√™ncia nas proximidades. Tygan tem uma teoria sobre como podemos contat√°-los sem chamar a aten√ß√£o dos alien√≠genas, mas precisaremos dar tempo a ele para conduzir suas pesquisas."
 
 [S_Setup_Phase_Geoscape_Blacksite_Region_Contact_Made_Central AkEvent]
-SpokenText="Comandante, estabelecemos contato com a resistÍncia local e podemos avanÁar para o SÌtio Negro da ADVENT sob suas ordens. Devemos garantir que nossas tropas estejam totalmente equipadas e prontas para uma miss„o difÌcil, suponho que a seguranÁa na instalaÁ„o ser· reforÁada."
+SpokenText="Comandante, estabelecemos contato com a resist√™ncia local e podemos avan√ßar para o S√≠tio Negro da ADVENT sob suas ordens. Devemos garantir que nossas tropas estejam totalmente equipadas e prontas para uma miss√£o dif√≠cil, suponho que a seguran√ßa na instala√ß√£o ser√° refor√ßada."
 
 [S_Setup_Phase_Geoscape_Blacksite_Region_Focus_Central AkEvent]
-SpokenText="Agora que estabelecemos uma ligaÁ„o, podemos usar nossos recursos de Intel para fazer contato com a cÈlula local da resistÍncia nesta regi„o. AlÈm de nos levar ao SÌtio Negro, nosso acesso a suprimentos deve melhorar agora que expandimos nossa influÍncia."
+SpokenText="Agora que estabelecemos uma liga√ß√£o, podemos usar nossos recursos de Intel para fazer contato com a c√©lula local da resist√™ncia nesta regi√£o. Al√©m de nos levar ao S√≠tio Negro, nosso acesso a suprimentos deve melhorar agora que expandimos nossa influ√™ncia."
 
 [S_Setup_Phase_Geoscape_First_GOP_Central AkEvent]
-SpokenText="Estamos prontos para comeÁar a agir, Comandante. Atacando a ADVENT onde quer que os encontremos, podemos ajudar a fortalecer o movimento de resistÍncia global. Em troca, eles contribuir„o com apoio material para alimentar nossas operaÁıes. Acho que È hora de ver o que essa coisa pode fazer."
+SpokenText="Estamos prontos para come√ßar a agir, Comandante. Atacando a ADVENT onde quer que os encontremos, podemos ajudar a fortalecer o movimento de resist√™ncia global. Em troca, eles contribuir√£o com apoio material para alimentar nossas opera√ß√µes. Acho que √© hora de ver o que essa coisa pode fazer."
 
 [S_Setup_Phase_Geoscape_First_GOP_Central_ALT AkEvent]
-SpokenText="Estamos prontos para comeÁar a agir, Comandante. Atacando a ADVENT onde quer que os encontremos, podemos ajud
+SpokenText="Estamos prontos para come√ßar a agir, Comandante. Atacando a ADVENT onde quer que os encontremos, podemos ajud
 
-ar a fortalecer a resistÍncia. Em troca, eles contribuir„o com material e pessoal para apoiar nossas operaÁıes."
+ar a fortalecer a resist√™ncia. Em troca, eles contribuir√£o com material e pessoal para apoiar nossas opera√ß√µes."
 
 [S_Setup_Phase_Geoscape_First_Make_Contact_Central AkEvent]
-SpokenText="Depois de pagar o custo inicial de Intel para fazer contato, teremos que escanear a regi„o por alguns dias antes que a cÈlula local da resistÍncia saia do esconderijo. Assim que os encontrarmos, estaremos prontos para agir na nova regi„o."
+SpokenText="Depois de pagar o custo inicial de Intel para fazer contato, teremos que escanear a regi√£o por alguns dias antes que a c√©lula local da resist√™ncia saia do esconderijo. Assim que os encontrarmos, estaremos prontos para agir na nova regi√£o."
 
 [S_Setup_Phase_Geoscape_Objectives_Appear_Central AkEvent]
-SpokenText="Estou rastreando nossos objetivos operacionais atuais aqui. Se vocÍ precisar de uma an·lise mais detalhada, tenho tudo encaminhado para o terminal de Arquivo em seus alojamentos. Parece que vocÍ ainda n„o ter· tempo para isso, pois estamos recebendo uma transmiss„o da resistÍncia, parece que eles tÍm informaÁıes novas para nÛs."
+SpokenText="Estou rastreando nossos objetivos operacionais atuais aqui. Se voc√™ precisar de uma an√°lise mais detalhada, tenho tudo encaminhado para o terminal de Arquivo em seus alojamentos. Parece que voc√™ ainda n√£o ter√° tempo para isso, pois estamos recebendo uma transmiss√£o da resist√™ncia, parece que eles t√™m informa√ß√µes novas para n√≥s."
 
 [S_Setup_Phase_Geoscape_Objectives_Appear_Central_ALT AkEvent]
-SpokenText="Parece que vocÍ ainda n„o ter· tempo para isso. O reconhecimento remoto pode ter encontrado algo n„o muito longe de nossa posiÁ„o atual."
+SpokenText="Parece que voc√™ ainda n√£o ter√° tempo para isso. O reconhecimento remoto pode ter encontrado algo n√£o muito longe de nossa posi√ß√£o atual."
 
 [S_Setup_Phase_Geoscape_Player_Leaves_Without_Scanning_Central AkEvent]
-SpokenText="Comandante, precisamos escanear completamente esta regi„o antes de estabelecer contato com a resistÍncia local. Eu aconselharia que fic·ssemos por perto e termin·ssemos o trabalho, mas a decis„o È sua."
+SpokenText="Comandante, precisamos escanear completamente esta regi√£o antes de estabelecer contato com a resist√™ncia local. Eu aconselharia que fic√°ssemos por perto e termin√°ssemos o trabalho, mas a decis√£o √© sua."
 
 [S_Setup_Phase_Geoscape_Resistance_Comms_Focus_Central AkEvent]
-SpokenText="… hora de iniciar o novo sistema de comunicaÁıes da resistÍncia. Vamos fazer a chamada e ver quem responde."
+SpokenText="√â hora de iniciar o novo sistema de comunica√ß√µes da resist√™ncia. Vamos fazer a chamada e ver quem responde."
 
 [S_Setup_Phase_Geoscape_Scan_Attempt_With_Timed_Mission_Central AkEvent]
-SpokenText="Comandante, temos uma miss„o disponÌvel que depende de informaÁıes sensÌveis ao tempo. Podemos continuar nossos escaneamentos mais tarde, mas n„o cumprir a miss„o poderia ter sÈrias repercussıes para o movimento de resistÍncia."
+SpokenText="Comandante, temos uma miss√£o dispon√≠vel que depende de informa√ß√µes sens√≠veis ao tempo. Podemos continuar nossos escaneamentos mais tarde, mas n√£o cumprir a miss√£o poderia ter s√©rias repercuss√µes para o movimento de resist√™ncia."
 
 [S_Setup_Phase_Lab_Transition_Central AkEvent]
-SpokenText="Parece que Tygan progrediu em suas pesquisas. Devemos encontr·-lo no laboratÛrio."
+SpokenText="Parece que Tygan progrediu em suas pesquisas. Devemos encontr√°-lo no laborat√≥rio."
 
 [S_Setup_Phase_Multiple_Missions_Available_Central AkEvent]
-SpokenText="Certo, Comandante, temos v·rias opÁıes em termos do que enfrentar primeiro, mas essas decisıes s„o suas. Nossos ˙ltimos objetivos de miss„o ser„o sempre atualizados aqui. Se vocÍ quiser uma an·lise mais detalhada, o arquivo em seus alojamentos tem todas as informaÁıes disponÌveis. Enquanto isso, monitoraremos as comunicaÁıes da resistÍncia em busca de novas pistas. Ali·s, parece que podemos ter uma agora..."
+SpokenText="Certo, Comandante, temos v√°rias op√ß√µes em termos do que enfrentar primeiro, mas essas decis√µes s√£o suas. Nossos √∫ltimos objetivos de miss√£o ser√£o sempre atualizados aqui. Se voc√™ quiser uma an√°lise mais detalhada, o arquivo em seus alojamentos tem todas as informa√ß√µes dispon√≠veis. Enquanto isso, monitoraremos as comunica√ß√µes da resist√™ncia em busca de novas pistas. Ali√°s, parece que podemos ter uma agora..."
 
 [S_Setup_Phase_New_Ability_Confirmed_Central AkEvent]
-SpokenText="Estamos comeÁando bem. Nossas tropas sÛ v„o ficar mais fortes ‡ medida que ganham experiÍncia."
+SpokenText="Estamos come√ßando bem. Nossas tropas s√≥ v√£o ficar mais fortes √† medida que ganham experi√™ncia."
 
 [S_Setup_Phase_Pass_time_Geoscape_Central AkEvent]
-SpokenText="Ao selecionar um local de escaneamento no Geoscape, vocÍ pode usar os sensores a bordo do Avenger para escanear a ·rea em busca de informaÁıes enquanto o tempo passa. VocÍ tambÈm pode passar o tempo escaneando por Intel na Sede da ResistÍncia."
+SpokenText="Ao selecionar um local de escaneamento no Geoscape, voc√™ pode usar os sensores a bordo do Avenger para escanear a √°rea em busca de informa√ß√µes enquanto o tempo passa. Voc√™ tamb√©m pode passar o tempo escaneando por Intel na Sede da Resist√™ncia."
 
 [S_Setup_Phase_Pass_time_Geoscape_Central_ALT AkEvent]
-SpokenText="Enquanto nos preparamos para novas operaÁıes e continuamos nossas pesquisas, podemos passar o tempo escaneando em locais como este. Ao seu comando, comeÁaremos nossos escaneamentos na ·rea circundante."
+SpokenText="Enquanto nos preparamos para novas opera√ß√µes e continuamos nossas pesquisas, podemos passar o tempo escaneando em locais como este. Ao seu comando, come√ßaremos nossos escaneamentos na √°rea circundante."
 
 [S_Setup_Phase_Pass_time_Geoscape_Specific_Alt_Central AkEvent]
-SpokenText="Comandante, enquanto esperamos por novas missıes ou a conclus„o de nossas pesquisas, podemos passar o tempo escaneando em locais como este. Ao seu comando, comeÁaremos nossos escaneamentos na ·rea circundante."
+SpokenText="Comandante, enquanto esperamos por novas miss√µes ou a conclus√£o de nossas pesquisas, podemos passar o tempo escaneando em locais como este. Ao seu comando, come√ßaremos nossos escaneamentos na √°rea circundante."
 
 [S_Setup_Phase_Psi_Gate_Coordinates_But_No_Contact_Central AkEvent]
-SpokenText="Trancamos as coordenadas que Shen e Tygan obtiveram do Codex, Comandante, mas teremos que fazer contato com a cÈlula local da resistÍncia antes de prosseguirmos com a investigaÁ„o do local."
+SpokenText="Trancamos as coordenadas que Shen e Tygan obtiveram do Codex, Comandante, mas teremos que fazer contato com a c√©lula local da resist√™ncia antes de prosseguirmos com a investiga√ß√£o do local."
 
 [S_Setup_Phase_Radio_Relay_Bridge_Matinee_Central AkEvent]
-SpokenText="De acordo com o relatÛrio mais recente do Dr. Tygan, podemos aumentar o alcance da rede de comunicaÁıes da resistÍncia usando torres de r·dio."
+SpokenText="De acordo com o relat√≥rio mais recente do Dr. Tygan, podemos aumentar o alcance da rede de comunica√ß√µes da resist√™ncia usando torres de r√°dio."
 
 [S_Setup_Phase_Recruit_Soldiers_After_Meeting_Resistance_Central AkEvent]
-SpokenText="Agora que estabelecemos contato com as forÁas locais da resistÍncia, podemos recrutar novos operativos de suas fileiras para reforÁar nossas prÛprias forÁas."
+SpokenText="Agora que estabelecemos contato com as for√ßas locais da resist√™ncia, podemos recrutar novos operativos de suas fileiras para refor√ßar nossas pr√≥prias for√ßas."
 
 [S_Setup_Phase_Resistance_Comms_Bridge_Matinee_Central AkEvent]
-SpokenText="Tygan acabou de informar que o novo sistema de comunicaÁıes da resistÍncia est· totalmente operacional. Agora sÛ precisamos espalhar a notÌcia."
+SpokenText="Tygan acabou de informar que o novo sistema de comunica√ß√µes da resist√™ncia est√° totalmente operacional. Agora s√≥ precisamos espalhar a not√≠cia."
 
 [S_Setup_Phase_Soldier_Walkup_Promote_Central AkEvent]
-SpokenText="Alguns de nossos soldados receberam promoÁıes bem merecidas, Comandante. Acredito que o Shen tambÈm deve querer falar com vocÍ."
+SpokenText="Alguns de nossos soldados receberam promo√ß√µes bem merecidas, Comandante. Acredito que o Shen tamb√©m deve querer falar com voc√™."
 
 [S_Setup_Phase_Welcome_to_Avenger_Post_Research_Central AkEvent]
-SpokenText="Essa pesquisa manter· Tygan ocupado
+SpokenText="Essa pesquisa manter√° Tygan ocupado
 
- por um tempo. Enquanto isso, vocÍ pode querer ir ao Arsenal."
+ por um tempo. Enquanto isso, voc√™ pode querer ir ao Arsenal."
 
 [S_Skipped_or_Failed_Mission_Central AkEvent]
-SpokenText="As forÁas locais da resistÍncia nesta regi„o se esconderam apÛs o revÈs recente, Comandante. Teremos que esperar que eles se reagrupem antes de tentarmos fazer contato novamente."
+SpokenText="As for√ßas locais da resist√™ncia nesta regi√£o se esconderam ap√≥s o rev√©s recente, Comandante. Teremos que esperar que eles se reagrupem antes de tentarmos fazer contato novamente."
 
 [S_Skulljack_Objective_Active_Not_Equipped_B_Central AkEvent]
-SpokenText="Comandante, precisaremos que um de nossos soldados equipe o Skulljack para us·-lo em campo se quisermos fazer algum progresso em relaÁ„o ao objetivo atual."
+SpokenText="Comandante, precisaremos que um de nossos soldados equipe o Skulljack para us√°-lo em campo se quisermos fazer algum progresso em rela√ß√£o ao objetivo atual."
 
 [S_Skulljack_Objective_Active_Not_Equipped_Central AkEvent]
-SpokenText="Comandante, Tygan e Shen n„o ficar„o felizes se n„o usarmos o Skulljack adequadamente. DeverÌamos ter um de nossos soldados equipando-o antes de irem para a miss„o."
+SpokenText="Comandante, Tygan e Shen n√£o ficar√£o felizes se n√£o usarmos o Skulljack adequadamente. Dever√≠amos ter um de nossos soldados equipando-o antes de irem para a miss√£o."
 
 [S_Support_Advent_Progress_Warning_Central_01 AkEvent]
-SpokenText="Comandante, os alienÌgenas avanÁaram significativamente em direÁ„o a seus objetivos. Novas instalaÁıes da ADVENT est„o surgindo em todo o mundo."
+SpokenText="Comandante, os alien√≠genas avan√ßaram significativamente em dire√ß√£o a seus objetivos. Novas instala√ß√µes da ADVENT est√£o surgindo em todo o mundo."
 
 [S_Support_Ambient_Musings_Misc_Central_01 AkEvent]
-SpokenText="Estamos recebendo uma transmiss„o n„o segura de um sujeito se autodenominando Van Doorn... n„o parece ser o tipo de recruta que procuramos."
+SpokenText="Estamos recebendo uma transmiss√£o n√£o segura de um sujeito se autodenominando Van Doorn... n√£o parece ser o tipo de recruta que procuramos."
 
 [S_Support_Ambient_Musings_Misc_Central_02 AkEvent]
-SpokenText="O novo uniforme n„o È ruim, considerando tudo, mas ‡s vezes sinto falta daquela maldita blusa."
+SpokenText="O novo uniforme n√£o √© ruim, considerando tudo, mas √†s vezes sinto falta daquela maldita blusa."
 
 [S_Support_Ambient_Musings_Misc_Central_03 AkEvent]
-SpokenText="Com tudo o que aconteceu, nunca tivemos tempo para considerar a possibilidade, mas eu tenho que acreditar que a Dra. Vahlen ainda est· l· fora em algum lugar. Ela n„o era do tipo que deixaria o colapso da XCOM interromper suas pesquisas."
+SpokenText="Com tudo o que aconteceu, nunca tivemos tempo para considerar a possibilidade, mas eu tenho que acreditar que a Dra. Vahlen ainda est√° l√° fora em algum lugar. Ela n√£o era do tipo que deixaria o colapso da XCOM interromper suas pesquisas."
 
 [S_Support_Avenger_Lands_First_Contact_Central AkEvent]
-SpokenText="Comandante, usando a InteligÍncia coletada atÈ agora, conseguimos localizar uma cÈlula da resistÍncia operando nesta regi„o. Vai demorar um pouco para escanearmos para encontrar sua posiÁ„o exata."
+SpokenText="Comandante, usando a Intelig√™ncia coletada at√© agora, conseguimos localizar uma c√©lula da resist√™ncia operando nesta regi√£o. Vai demorar um pouco para escanearmos para encontrar sua posi√ß√£o exata."
 
 [S_Support_Avoid_UFOs_Central_01 AkEvent]
-SpokenText="Precisamos escolher nossas rotas de voo com cuidado, Comandante. O Avenger pode ser resistente, mas n„o resiste a uma batalha aÈrea com um OVNI totalmente tripulado. Devemos fazer o possÌvel para evitar contato sempre que possÌvel."
+SpokenText="Precisamos escolher nossas rotas de voo com cuidado, Comandante. O Avenger pode ser resistente, mas n√£o resiste a uma batalha a√©rea com um OVNI totalmente tripulado. Devemos fazer o poss√≠vel para evitar contato sempre que poss√≠vel."
 
 [S_Support_Begin_Scanning_Activity_Central AkEvent]
-SpokenText="Comandante, as capacidades de escaneamento remoto do Avenger nos ajudar„o a procurar pistas ou outros recursos na ·rea. Isso levar· algum tempo, pois temos muitas ·reas para cobrir."
+SpokenText="Comandante, as capacidades de escaneamento remoto do Avenger nos ajudar√£o a procurar pistas ou outros recursos na √°rea. Isso levar√° algum tempo, pois temos muitas √°reas para cobrir."
 
 [S_Support_Blacksite_Mission_Locked_Central AkEvent]
-SpokenText="Comandante, temos uma pista sobre o Alien Blacksite, mas teremos que depender da resistÍncia local para nos levar atÈ a instalaÁ„o. Devemos tentar entrar em contato com suas forÁas na regi„o o mais r·pido possÌvel, È a ˙nica maneira de descobrirmos o que est· por tr·s desse projeto chamado Avatar."
+SpokenText="Comandante, temos uma pista sobre o Alien Blacksite, mas teremos que depender da resist√™ncia local para nos levar at√© a instala√ß√£o. Devemos tentar entrar em contato com suas for√ßas na regi√£o o mais r√°pido poss√≠vel, √© a √∫nica maneira de descobrirmos o que est√° por tr√°s desse projeto chamado Avatar."
 
 [S_Support_Class_Callouts_Central_01 AkEvent]
-SpokenText="Os Rangers servem como nossa principal unidade de reconhecimento, capazes de se mover independentemente em modo de ocultaÁ„o enquanto combatem inimigos a curta dist‚ncia."
+SpokenText="Os Rangers servem como nossa principal unidade de reconhecimento, capazes de se mover independentemente em modo de oculta√ß√£o enquanto combatem inimigos a curta dist√¢ncia."
 
 [S_Support_Class_Callouts_Central_02 AkEvent]
-SpokenText="Servindo como nossos especialistas em demoliÁ„o, os Grenadiers fornecem entregas pesadas de muniÁ„o sempre que e onde precisarmos."
+SpokenText="Servindo como nossos especialistas em demoli√ß√£o, os Grenadiers fornecem entregas pesadas de muni√ß√£o sempre que e onde precisarmos."
 
 [S_Support_Class_Callouts_Central_03 AkEvent]
-SpokenText="Operando alguns de nossos equipamentos mais avanÁados, os Especialistas implantam drones robÛticos no campo de batalha que podem ser equipados para combate ou para fins de medicina no campo."
+SpokenText="Operando alguns de nossos equipamentos mais avan√ßados, os Especialistas implantam drones rob√≥ticos no campo de batalha que podem ser equipados para combate ou para fins de medicina no campo."
 
 [S_Support_Class_Callouts_Central_04 AkEvent]
-SpokenText="Como o prÛprio nome sugere, nossos atiradores de elite envolvem alvos inimigos com precis„o extrema a longa dist‚ncia. Eles tambÈm s„o treinados em precis„o com pistolas para encontros mais prÛximos."
+SpokenText="Como o pr√≥prio nome sugere, nossos atiradores de elite envolvem alvos inimigos com precis√£o extrema a longa dist√¢ncia. Eles tamb√©m s√£o treinados em precis√£o com pistolas para encontros mais pr√≥ximos."
 
 [S_Support_Class_Callouts_Psi_Central AkEvent]
-SpokenText="Dependendo de quem vocÍ perguntar, a Psionia pode ser considerada a maior forÁa dos alienÌgenas. Agora, nossos prÛprios Operativos Psi podem acessar esse mesmo poder."
+SpokenText="Dependendo de quem voc√™ perguntar, a Psionia pode ser considerada a maior for√ßa dos alien√≠genas. Agora, nossos pr√≥prios Operativos Psi podem acessar esse mesmo poder."
 
 [S_Support_Contact_Blacksite_Region_Central AkEvent]
-SpokenText="Comandante, estabelecemos contato com a resistÍncia local e estamos prontos para prosseguir com o Blacksite alienÌgena sob suas ordens."
+SpokenText="Comandante, estabelecemos contato com a resist√™ncia local e estamos prontos para prosseguir com o Blacksite alien√≠gena sob suas ordens."
 
 [S_Support_Established_Contact_Mission_Available_Central_01 AkEvent]
-SpokenText="Estabelecemos contato com as forÁas da resistÍncia, Comandante, e eles j· tÍm algo que precisa da nossa ajuda."
+SpokenText="Estabelecemos contato com as for√ßas da resist√™ncia, Comandante, e eles j√° t√™m algo que precisa da nossa ajuda."
 
 [S_Support_Established_Contact_Mission_Blacksite_Central_01 AkEvent]
-SpokenText="Comandante, estabelecemos contato com as forÁas locais da resistÍncia nesta ·rea - e eles est„o dispostos a nos levar atÈ o Blacksite da ADVENT."
+SpokenText="Comandante, estabelecemos contato com as for√ßas locais da resist√™ncia nesta √°rea - e eles est√£o dispostos a nos levar at√© o Blacksite da ADVENT."
 
 [S_Support_Established_Contact_Mission_Forge_Central_01 AkEvent]
-SpokenText="Estabelecemos contato inicial com os agentes da resistÍncia que operam nesta ·rea, Comandante. Eles v„o nos mostrar como chegar ‡ instalaÁ„o alienÌgena Forge."
+SpokenText="Estabelecemos contato inicial com os agentes da resist√™ncia que operam nesta √°rea, Comandante. Eles v√£o nos mostrar como chegar √† instala√ß√£o alien√≠gena Forge."
 
 [S_Support_Established_Contact_Mission_PsiGate_Central AkEvent]
-SpokenText="Estabelecemos contato com as forÁas locais da resistÍncia nesta regi„o, Comandante. Estamos prontos para agir nas coordenadas que obtivemos do Codex."
+SpokenText="Estabelecemos contato com as for√ßas locais da resist√™ncia nesta regi√£o, Comandante. Estamos prontos para agir nas coordenadas que obtivemos do Codex."
 
 [S_Support_Final_Avatar_Countdown_Central AkEvent]
-SpokenText="Comandante, estamos quase sem tempo! O projeto Avatar est· entrando em suas ˙ltimas etapas. A ˙nica maneira de desacelerar o progresso dos Anci„os È destruir uma de suas instalaÁıes. Temos que nos mover r·pido ou tudo o que trabalhamos ser· perdido."
+SpokenText="Comandante, estamos quase sem tempo! O projeto Avatar est√° entrando em suas √∫ltimas etapas. A √∫nica maneira de desacelerar o progresso dos Anci√£os √© destruir uma de suas instala√ß√µes. Temos que nos mover r√°pido ou tudo o que trabalhamos ser√° perdido."
 
 [S_Support_First_Alien_Facility_Constructed_Central AkEvent]
-SpokenText="Comandante, recebemos informaÁıes de que os alienÌgenas concluÌram uma instalaÁ„o dedicada ao projeto Avatar. Se conseguirmos estabelecer contato com as forÁas da resistÍncia local nesta regi„o, podemos agir nessa instalaÁ„o e destruÌ-la para atrasar a operaÁ„o dos alienÌgenas."
+SpokenText="Comandante, recebemos informa√ß√µes de que os alien√≠genas conclu√≠ram uma instala√ß√£o dedicada ao projeto Avatar. Se conseguirmos estabelecer contato com as for√ßas da resist√™ncia local nesta regi√£o, podemos agir nessa instala√ß√£o e destru√≠-la para atrasar a opera√ß√£o dos alien√≠genas."
 
 [S_Support_First_Armored_Enemy_Sighted_Central AkEvent]
-SpokenText="Duvido que suas balas normais consigam sequer penetrar a armadura daquela coisa. VocÍ vai ter que usar granadas para derrub·-la."
+SpokenText="Duvido que suas balas normais consigam sequer penetrar a armadura daquela coisa. Voc√™ vai ter que usar granadas para derrub√°-la."
 
 [S_Support_First_Dark_Events_Central AkEvent]
-SpokenText="Comandante, temos InteligÍncia sugerindo que os alienÌgenas est„o trabalhando em desenvolvimentos que ameaÁam nossa capacidade de impedir o projeto Avatar. Podemos conduzir operaÁıes de guerrilha para interromper um desses esforÁos, mas teremos que escolher com cuidado, n„o temos recursos para intervir em todos os lugares."
+SpokenText="Comandante, temos Intelig√™ncia sugerindo que os alien√≠genas est√£o trabalhando em desenvolvimentos que amea√ßam nossa capacidade de impedir o projeto Avatar. Podemos conduzir opera√ß√µes de guerrilha para interromper um desses esfor√ßos, mas teremos que escolher com cuidado, n√£o temos recursos para intervir em todos os lugares."
 
 [S_Support_First_Doom_Central AkEvent]
-SpokenText="Comandante, compilando nossos relatÛrios de inteligÍncia, podemos tentar rastrear o progresso dos alienÌgenas em relaÁ„o ‡ conclus„o do projeto Avatar. Se eles chegarem ao final dessa escala,
+SpokenText="Comandante, compilando nossos relat√≥rios de intelig√™ncia, podemos tentar rastrear o progresso dos alien√≠genas em rela√ß√£o √† conclus√£o do projeto Avatar. Se eles chegarem ao final dessa escala,
 
- ent„o j· ser· tarde demais."
+ ent√£o j√° ser√° tarde demais."
 
 [S_Support_First_Guerilla_Operation_Central AkEvent]
-SpokenText="Comandante, ‡ medida que a resistÍncia continua crescendo, teremos uma chance melhor de encontrar oportunidades para atacar a ADVENT. Como est·, j· identificamos um alvo potencial para interromper as operaÁıes dos alienÌgenas nesta regi„o. Nossa janela de oportunidade È limitada, ent„o teremos que nos mover r·pido."
+SpokenText="Comandante, √† medida que a resist√™ncia continua crescendo, teremos uma chance melhor de encontrar oportunidades para atacar a ADVENT. Como est√°, j√° identificamos um alvo potencial para interromper as opera√ß√µes dos alien√≠genas nesta regi√£o. Nossa janela de oportunidade √© limitada, ent√£o teremos que nos mover r√°pido."
 
 [S_Support_First_Hidden_Doom_Central AkEvent]
-SpokenText="Comandante, temos v·rios relatÛrios n„o confirmados de que os alienÌgenas est„o avanÁando no projeto Avatar em uma instalaÁ„o que ainda n„o conseguimos localizar. Temos que continuar trabalhando para descobrir o plano dos alienÌgenas."
+SpokenText="Comandante, temos v√°rios relat√≥rios n√£o confirmados de que os alien√≠genas est√£o avan√ßando no projeto Avatar em uma instala√ß√£o que ainda n√£o conseguimos localizar. Temos que continuar trabalhando para descobrir o plano dos alien√≠genas."
 
 [S_Support_First_Radio_Relays_Central AkEvent]
-SpokenText="Comandante, agora podemos construir torres de retransmiss„o de r·dio em qualquer regi„o onde estabelecemos contato com a resistÍncia local."
+SpokenText="Comandante, agora podemos construir torres de retransmiss√£o de r√°dio em qualquer regi√£o onde estabelecemos contato com a resist√™ncia local."
 
 [S_Support_First_Regions_Available_Central AkEvent]
-SpokenText="Comandante, agora podemos trabalhar para estabelecer contato com grupos de resistÍncia locais operando em regiıes ao redor do mundo. Assim que tivermos coletado inteligÍncia suficiente para estabelecer contato, precisaremos escanear a regi„o-alvo para encontrar o sinal do operativo."
+SpokenText="Comandante, agora podemos trabalhar para estabelecer contato com grupos de resist√™ncia locais operando em regi√µes ao redor do mundo. Assim que tivermos coletado intelig√™ncia suficiente para estabelecer contato, precisaremos escanear a regi√£o-alvo para encontrar o sinal do operativo."
 
 [S_Support_Geoscape_Connections_Central AkEvent]
-SpokenText="Comandante, podemos acompanhar o progresso de nossos esforÁos para contatar grupos de resistÍncia em todo o mundo usando o sistema de mapeamento do Hologlobo. TambÈm podemos usar essas informaÁıes para planejar futuras aÁıes contra os alienÌgenas."
+SpokenText="Comandante, podemos acompanhar o progresso de nossos esfor√ßos para contatar grupos de resist√™ncia em todo o mundo usando o sistema de mapeamento do Hologlobo. Tamb√©m podemos usar essas informa√ß√µes para planejar futuras a√ß√µes contra os alien√≠genas."
 
 [S_Support_Great_Mission_Central_01 AkEvent]
 SpokenText="Eu diria que valeu a pena a viagem."
 
 [S_Support_Great_Mission_Central_02 AkEvent]
-SpokenText="VocÍs ouviram a chefe, pessoal, VAMOS!"
+SpokenText="Voc√™s ouviram a chefe, pessoal, VAMOS!"
 
 [S_Support_Great_Mission_Central_03 AkEvent]
-SpokenText="A moral com certeza ser· alta apÛs uma operaÁ„o como essa. ”timo trabalho, Comandante."
+SpokenText="A moral com certeza ser√° alta ap√≥s uma opera√ß√£o como essa. √ìtimo trabalho, Comandante."
 
 [S_Support_Great_Mission_Central_04 AkEvent]
-SpokenText="Trabalho impressionante, Comandante - os alienÌgenas provavelmente ainda est„o se perguntando o que os atingiu."
+SpokenText="Trabalho impressionante, Comandante - os alien√≠genas provavelmente ainda est√£o se perguntando o que os atingiu."
 
 [S_Support_Great_Mission_Central_05 AkEvent]
-SpokenText="NÛs realmente demos uma surra nos alienÌgenas desta vez, Comandante. Eles n„o v„o esquecer disso."
+SpokenText="N√≥s realmente demos uma surra nos alien√≠genas desta vez, Comandante. Eles n√£o v√£o esquecer disso."
 
 [S_Support_Great_Mission_Central_06 AkEvent]
-SpokenText="Um de cada vez, estamos nivelando o campo, Comandante. Bom trabalho l· fora."
+SpokenText="Um de cada vez, estamos nivelando o campo, Comandante. Bom trabalho l√° fora."
 
 [S_Support_Great_Mission_Central_07 AkEvent]
-SpokenText="Nossas tropas est„o fazendo parecer f·cil l· fora, Comandante, tudo graÁas a vocÍ."
+SpokenText="Nossas tropas est√£o fazendo parecer f√°cil l√° fora, Comandante, tudo gra√ßas a voc√™."
 
 [S_Support_Great_Mission_Central_08 AkEvent]
-SpokenText="Bom trabalho l· fora, Comandante - estamos um passo mais perto de retomar nosso planeta."
+SpokenText="Bom trabalho l√° fora, Comandante - estamos um passo mais perto de retomar nosso planeta."
 
 [S_Support_Great_Mission_Central_09 AkEvent]
-SpokenText="N„o consigo imaginar que os alienÌgenas est„o muito felizes com isso, Comandante. Trabalho excelente."
+SpokenText="N√£o consigo imaginar que os alien√≠genas est√£o muito felizes com isso, Comandante. Trabalho excelente."
 
 [S_Support_Great_Mission_Central_10 AkEvent]
-SpokenText="Estamos desmontando a ADVENT, uma miss„o de cada vez, Comandante. Trabalho impressionante."
+SpokenText="Estamos desmontando a ADVENT, uma miss√£o de cada vez, Comandante. Trabalho impressionante."
 
 [S_Support_Multiple_Mission_Sites_Available_Central AkEvent]
-SpokenText="Comandante, com o n˙mero de contatos que estabelecemos, estamos recebendo pedidos de apoio de v·rios locais ao redor do mundo. Infelizmente, sÛ temos recursos para responder a um deles. A decis„o È sua."
+SpokenText="Comandante, com o n√∫mero de contatos que estabelecemos, estamos recebendo pedidos de apoio de v√°rios locais ao redor do mundo. Infelizmente, s√≥ temos recursos para responder a um deles. A decis√£o √© sua."
 
 [S_Support_No_Supply_Income_Central AkEvent]
-SpokenText="Comandante, atualmente n„o temos novos suprimentos chegando, precisamos encontrar novas formas de reabastecer nossos recursos."
+SpokenText="Comandante, atualmente n√£o temos novos suprimentos chegando, precisamos encontrar novas formas de reabastecer nossos recursos."
 
 [S_Support_Region_High_Alert_Central_01 AkEvent]
-SpokenText="Comandante, a ADVENT est· em alerta m·ximo nesta ·rea, n„o h· como prosseguirmos com essa operaÁ„o agora; as coordenadas foram desativadas."
+SpokenText="Comandante, a ADVENT est√° em alerta m√°ximo nesta √°rea, n√£o h√° como prosseguirmos com essa opera√ß√£o agora; as coordenadas foram desativadas."
 
 [S_Support_Reminder_Alien_Facilities_Constructed_Central_01 AkEvent]
-SpokenText="Comandante, os alienÌgenas n„o est„o desacelerando. Eles j· tÍm v·rias instalaÁıes operando em todo o globo - estamos ficando sem tempo."
+SpokenText="Comandante, os alien√≠genas n√£o est√£o desacelerando. Eles j√° t√™m v√°rias instala√ß√µes operando em todo o globo - estamos ficando sem tempo."
 
 [S_Support_Reminder_Make_Contact_Central_01 AkEvent]
-SpokenText="Comandante, temos forÁas locais da resistÍncia esperando para estabelecer contato - mas teremos que dar o primeiro passo."
+SpokenText="Comandante, temos for√ßas locais da resist√™ncia esperando para estabelecer contato - mas teremos que dar o primeiro passo."
 
 [S_Support_Reminder_Need_More_Intel_Central_01 AkEvent]
-SpokenText="Comandante, no momento, n„o temos inteligÍncia suficiente para ter uma noÁ„o clara das forÁas locais da resistÍncia naquela ·rea."
+SpokenText="Comandante, no momento, n√£o temos intelig√™ncia suficiente para ter uma no√ß√£o clara das for√ßas locais da resist√™ncia naquela √°rea."
 
 [S_Support_Soldier_Shaken_Central AkEvent]
-SpokenText="Comandante, o estresse contÌnuo do combate pode abalar atÈ os melhores de nossos soldados. Contanto que os mantenhamos saud·veis, tenho certeza de que se recuperar„o com o tempo."
+SpokenText="Comandante, o estresse cont√≠nuo do combate pode abalar at√© os melhores de nossos soldados. Contanto que os mantenhamos saud√°veis, tenho certeza de que se recuperar√£o com o tempo."
 
 [S_Support_Squad_Select_Wounded_Soldiers_Central AkEvent]
-SpokenText="Comandante, n„o podemos nos dar ao luxo de deixar essa operaÁ„o escapar de nossas m„os, mesmo que signifique enviar nossas forÁas feridas de
+SpokenText="Comandante, n√£o podemos nos dar ao luxo de deixar essa opera√ß√£o escapar de nossas m√£os, mesmo que signifique enviar nossas for√ßas feridas de
 
  volta ao combate. Temos que ter sucesso, a qualquer custo."
 
 [S_Support_Tough_Mission_Central_01 AkEvent]
-SpokenText="Deve haver mais que possamos fazer, n„o podemos nos dar ao luxo de ter muitas operaÁıes como essa."
+SpokenText="Deve haver mais que possamos fazer, n√£o podemos nos dar ao luxo de ter muitas opera√ß√µes como essa."
 
 [S_Support_Tough_Mission_Central_02 AkEvent]
-SpokenText="Essa foi feia, Comandante. Perdas como essa custam mais do que apenas m„o de obra."
+SpokenText="Essa foi feia, Comandante. Perdas como essa custam mais do que apenas m√£o de obra."
 
 [S_Support_Tough_Mission_Central_03 AkEvent]
-SpokenText="Ser· difÌcil para a equipe superar isso, Comandante. Teremos que trabalhar mais duro no futuro."
+SpokenText="Ser√° dif√≠cil para a equipe superar isso, Comandante. Teremos que trabalhar mais duro no futuro."
 
 [S_Support_Tough_Mission_Central_04 AkEvent]
-SpokenText="Tivemos muitas baixas l· fora, Comandante. Precisamos garantir que isso n„o aconteÁa novamente."
+SpokenText="Tivemos muitas baixas l√° fora, Comandante. Precisamos garantir que isso n√£o aconte√ßa novamente."
 
 [S_Support_Tough_Mission_Central_05 AkEvent]
-SpokenText="Aquilo n„o correu bem, Comandante. Precisamos avaliar nossas t·ticas, melhorar nosso equipamento - seja o que for preciso."
+SpokenText="Aquilo n√£o correu bem, Comandante. Precisamos avaliar nossas t√°ticas, melhorar nosso equipamento - seja o que for preciso."
 
 [S_Support_UFO_Inbound_Evasive_Maneuvers_Central AkEvent]
 SpokenText="Comandante! Aquele contato de OVNI nos prendeu! Temos que tomar manobras evasivas!"
 
 [S_Support_UFO_Inbound_Now_Hunting_Central AkEvent]
-SpokenText="Comandante, a reconhecimento remoto indica que os alienÌgenas tÍm um OVNI caÁando nossa posiÁ„o. Precisamos ter cuidado com os caminhos de voo que escolhemos."
+SpokenText="Comandante, a reconhecimento remoto indica que os alien√≠genas t√™m um OVNI ca√ßando nossa posi√ß√£o. Precisamos ter cuidado com os caminhos de voo que escolhemos."
 
 [S_Support_UFO_Inbound_Shot_Down_Central AkEvent]
 SpokenText="Estamos caindo, Comandante! O contato do OVNI desativou nossos sistemas! Preparem-se!"
 
 [S_Support_UFO_Inbound_UFO_Evaded_Central AkEvent]
-SpokenText="Estamos limpos, Comandante. N„o h· mais sinal do OVNI perseguindo-nos."
+SpokenText="Estamos limpos, Comandante. N√£o h√° mais sinal do OVNI perseguindo-nos."
 
 [S_Victory_Central_01 AkEvent]
-SpokenText="Diria que valeu a pena o esforÁo."
+SpokenText="Diria que valeu a pena o esfor√ßo."
 
 [S_Victory_Central_02 AkEvent]
-SpokenText="VocÍs ouviram, pessoal, AJAM!"
+SpokenText="Voc√™s ouviram, pessoal, AJAM!"
 
 [S_Victory_Central_03 AkEvent]
-SpokenText="Shen, me diga que vocÍ tem um Plano B aqui."
+SpokenText="Shen, me diga que voc√™ tem um Plano B aqui."
 
 [S_Victory_Central_04 AkEvent]
-SpokenText="Isso foi r·pido... bom trabalho."
+SpokenText="Isso foi r√°pido... bom trabalho."
 
 [S_Victory_Central_05 AkEvent]
-SpokenText="Comandante, o que quer que vocÍ esteja fazendo, est· funcionando. Apenas certifique-se de salvar energia suficiente para sua prÛpria viagem de volta."
+SpokenText="Comandante, o que quer que voc√™ esteja fazendo, est√° funcionando. Apenas certifique-se de salvar energia suficiente para sua pr√≥pria viagem de volta."
 
 [S_Victory_Central_06 AkEvent]
-SpokenText="Comandante! VocÍ est· bem! Acabamos de perder-"
+SpokenText="Comandante! Voc√™ est√° bem! Acabamos de perder-"
 
 [S_Victory_Central_07 AkEvent]
-SpokenText="Que diabos est· acontecendo aqui, Doutora!"
+SpokenText="Que diabos est√° acontecendo aqui, Doutora!"
 
 [S_Victory_Central_08 AkEvent]
-SpokenText="Ent„o, corte a conex„o!"
+SpokenText="Ent√£o, corte a conex√£o!"
 
 [S_Victory_Central_09 AkEvent]
-SpokenText="Miss„o cumprida, Comandante."
+SpokenText="Miss√£o cumprida, Comandante."
 
 [S_Welcome_HQ_Central_01_Setup_Phase AkEvent]
-SpokenText="Eu ouvi vocÍ, Shen. Quando conseguirmos essa coisa, vocÍ ser· a primeira a saber."
+SpokenText="Eu ouvi voc√™, Shen. Quando conseguirmos essa coisa, voc√™ ser√° a primeira a saber."
 
 [S_Welcome_HQ_Central_02_Setup_Phase AkEvent]
-SpokenText="Comandante. Me dÍ um segundo."
+SpokenText="Comandante. Me d√™ um segundo."
 
 [S_Welcome_HQ_Central_03_Setup_Phase AkEvent]
 SpokenText="Execute o Protocolo Echelon!"
@@ -918,79 +918,79 @@ SpokenText="Execute o Protocolo Echelon!"
 SpokenText="Eu queria que fosse um pouco mais cerimonioso, mas temos algo."
 
 [S_Welcome_HQ_Central_05_Setup_Phase AkEvent]
-SpokenText="Shen tem nos pressionado por meses para encontrar esse tal "conversor magnÈtico hÌbrido"."
+SpokenText="Shen tem nos pressionado por meses para encontrar esse tal "conversor magn√©tico h√≠brido"."
 
 [S_Welcome_HQ_Central_06_Setup_Phase AkEvent]
-SpokenText="A ADVENT finalmente tem um que podemos pegar, embora duvide que estejam dispostos a abrir m„o dele. Se conseguirmos trazer este "conversor" de volta inteiro, podemos realmente fazer este lugar funcionar. Sem mencionar tirar Shen das minhas costas por alguns dias."
+SpokenText="A ADVENT finalmente tem um que podemos pegar, embora duvide que estejam dispostos a abrir m√£o dele. Se conseguirmos trazer este "conversor" de volta inteiro, podemos realmente fazer este lugar funcionar. Sem mencionar tirar Shen das minhas costas por alguns dias."
 
 [S_Welcome_HQ_Central_07_Setup_Phase AkEvent]
-SpokenText="Um esquadr„o est· preparado e pronto para partir sob suas ordens, Comandante. Basta dar a palavra."
+SpokenText="Um esquadr√£o est√° preparado e pronto para partir sob suas ordens, Comandante. Basta dar a palavra."
 
 [S_Welcome_HQ_NS_Central_01 AkEvent]
-SpokenText="Comandante, È bom vÍ-lo de pÈ novamente. Bem-vindo ‡ Ponte. O centro nervoso de nossa operaÁ„o."
+SpokenText="Comandante, √© bom v√™-lo de p√© novamente. Bem-vindo √† Ponte. O centro nervoso de nossa opera√ß√£o."
 
 [S_Welcome_HQ_NS_Central_02 AkEvent]
-SpokenText="Os alienÌgenas tÍm todo o nosso mundo em suas m„os. A ADVENT controla tudo - governo, comunicaÁıes, ind˙stria, sem mencionar o exÈrcito. E cabe a nÛs recuperar tudo isso."
+SpokenText="Os alien√≠genas t√™m todo o nosso mundo em suas m√£os. A ADVENT controla tudo - governo, comunica√ß√µes, ind√∫stria, sem mencionar o ex√©rcito. E cabe a n√≥s recuperar tudo isso."
 
 [S_Welcome_HQ_NS_Central_03 AkEvent]
-SpokenText="Recursos e tempo s„o escassos, Comandante. Caber· a vocÍ decidir como melhor us·-los. A nave È sua."
+SpokenText="Recursos e tempo s√£o escassos, Comandante. Caber√° a voc√™ decidir como melhor us√°-los. A nave √© sua."
 
 [S_Welcome_Resistance_Incoming_Trans_Central AkEvent]
-SpokenText="Comandante, temos uma transmiss„o segura chegando, fonte desconhecida. Encaminhando-a para seus aposentos."
+SpokenText="Comandante, temos uma transmiss√£o segura chegando, fonte desconhecida. Encaminhando-a para seus aposentos."
 
 [S_Wild_Central_01 AkEvent]
-SpokenText="Mensagem recebida para vocÍ, Comandante. Encaminhando-a para seus aposentos agora."
+SpokenText="Mensagem recebida para voc√™, Comandante. Encaminhando-a para seus aposentos agora."
 
 [S_Wild_Central_02 AkEvent]
-SpokenText="Recebendo uma comunicaÁ„o urgente para vocÍ agora, Comandante."
+SpokenText="Recebendo uma comunica√ß√£o urgente para voc√™ agora, Comandante."
 
 [S_Wild_Central_03 AkEvent]
-SpokenText="Mensagem priorit·ria chegando, Comandante, colocando-a na tela agora."
+SpokenText="Mensagem priorit√°ria chegando, Comandante, colocando-a na tela agora."
 
 [S_Wild_Central_04 AkEvent]
-SpokenText="Parece que È melhor comeÁarmos, Comandante. Estarei na Ponte quando vocÍ estiver pronto."
+SpokenText="Parece que √© melhor come√ßarmos, Comandante. Estarei na Ponte quando voc√™ estiver pronto."
 
 [S_Wild_Central_05 AkEvent]
 SpokenText="Sim!"
 
 [S_Wild_Central_06 AkEvent]
-SpokenText="Estamos prontos para comeÁar a agir, Comandante. Acho que j· est· na hora de ver o que essa coisa pode fazer."
+SpokenText="Estamos prontos para come√ßar a agir, Comandante. Acho que j√° est√° na hora de ver o que essa coisa pode fazer."
 
 [S_Wild_Central_07 AkEvent]
-SpokenText="Conseguimos uma pista sobre esse "Conversor MagnÈtico HÌbrido" que a Shen est· nos pressionando para encontrar."
+SpokenText="Conseguimos uma pista sobre esse "Conversor Magn√©tico H√≠brido" que a Shen est√° nos pressionando para encontrar."
 
 [S_Wild_Central_08 AkEvent]
-SpokenText="A reconhecimento local rastreou o dispositivo atÈ um comboio da ADVENT nas proximidades. Eles est„o ao alcance, mas n„o por muito tempo."
+SpokenText="A reconhecimento local rastreou o dispositivo at√© um comboio da ADVENT nas proximidades. Eles est√£o ao alcance, mas n√£o por muito tempo."
 
 [S_Wild_Central_09 AkEvent]
-SpokenText="As comunicaÁıes locais ficaram inativas. N„o temos certeza do que aconteceu l·, mas imagino que n„o seja bom. Essas pessoas nos deram o tempo que precisamos, È melhor aproveitarmos."
+SpokenText="As comunica√ß√µes locais ficaram inativas. N√£o temos certeza do que aconteceu l√°, mas imagino que n√£o seja bom. Essas pessoas nos deram o tempo que precisamos, √© melhor aproveitarmos."
 
 [S_Wild_Central_10 AkEvent]
-SpokenText="Comandante, detectando fogo pesado perto da ˙ltima posiÁ„o do comboio. Acessando vigil‚ncia remota agora."
+SpokenText="Comandante, detectando fogo pesado perto da √∫ltima posi√ß√£o do comboio. Acessando vigil√¢ncia remota agora."
 
 [S_Wild_Central_11 AkEvent]
-SpokenText="Recebendo relatos de que o comboio est· saindo de sua posiÁ„o. As forÁas locais est„o se preparando para enfrent·-los..."
+SpokenText="Recebendo relatos de que o comboio est√° saindo de sua posi√ß√£o. As for√ßas locais est√£o se preparando para enfrent√°-los..."
 
 [S_Wild_Central_12 AkEvent]
-SpokenText="MaldiÁ„o!"
+SpokenText="Maldi√ß√£o!"
 
 [S_Wounded_Soldiers_Can_Go_Central AkEvent]
-SpokenText="Comandante, podemos enviar de volta ao combate alguns de nossos soldados feridos se vocÍ achar necess·rio. Esta operaÁ„o È crucial para nossos esforÁos, talvez n„o tenhamos muita escolha se quisermos prosseguir."
+SpokenText="Comandante, podemos enviar de volta ao combate alguns de nossos soldados feridos se voc√™ achar necess√°rio. Esta opera√ß√£o √© crucial para nossos esfor√ßos, talvez n√£o tenhamos muita escolha se quisermos prosseguir."
 
 [Strategy_New_Objective_Generic_Central_A AkEvent]
 SpokenText="Parece que temos trabalho pela frente, Comandante."
 
 [Strategy_New_Objective_Generic_Central_B AkEvent]
-SpokenText="Atualizei nossos ˙ltimos objetivos operacionais, Comandante."
+SpokenText="Atualizei nossos √∫ltimos objetivos operacionais, Comandante."
 
 [Strategy_New_Objective_Generic_Central_C AkEvent]
-SpokenText="Estamos progredindo, Comandante. Atualizei nossos objetivos com base nas ˙ltimas descobertas."
+SpokenText="Estamos progredindo, Comandante. Atualizei nossos objetivos com base nas √∫ltimas descobertas."
 
 [Strategy_New_Objective_Generic_Central_D AkEvent]
-SpokenText="Estou acompanhando todas as nossas operaÁıes, Comandante. Nossa equipe est· pronta para suas ordens."
+SpokenText="Estou acompanhando todas as nossas opera√ß√µes, Comandante. Nossa equipe est√° pronta para suas ordens."
 
 [Strategy_New_Objective_Generic_Central_E AkEvent]
-SpokenText="Estamos prontos para avanÁar quando vocÍ estiver, Comandante. Atualizei nossos objetivos com base nas informaÁıes mais recentes."
+SpokenText="Estamos prontos para avan√ßar quando voc√™ estiver, Comandante. Atualizei nossos objetivos com base nas informa√ß√µes mais recentes."
 
 [Strategy_New_Objective_Generic_Central_F AkEvent]
 SpokenText="Comandante, atualizei nossos objetivos atuais com base nas descobertas mais recentes."

@@ -1,4 +1,4 @@
-[TheWorld:PersistentLevel.XComInteractiveLevelActor_10 XComInteractiveLevelActor]
+﻿[TheWorld:PersistentLevel.XComInteractiveLevelActor_10 XComInteractiveLevelActor]
 FriendlyDisplayName="Porta Segura"
 
 [TheWorld:PersistentLevel.XComInteractiveLevelActor_3 XComInteractiveLevelActor]

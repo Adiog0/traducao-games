@@ -1,14 +1,14 @@
-[TheWorld:PersistentLevel.XComInteractiveLevelActor_0 XComInteractiveLevelActor]
+ï»¿[TheWorld:PersistentLevel.XComInteractiveLevelActor_0 XComInteractiveLevelActor]
 FriendlyDisplayName="Porta Segura"
 
 [TheWorld:PersistentLevel.XComInteractiveLevelActor_10 XComInteractiveLevelActor]
-FriendlyDisplayName="Contêiner ADVENT"
+FriendlyDisplayName="ContÃªiner ADVENT"
 
 [TheWorld:PersistentLevel.XComInteractiveLevelActor_2 XComInteractiveLevelActor]
-FriendlyDisplayName="Contêiner ADVENT"
+FriendlyDisplayName="ContÃªiner ADVENT"
 
 [TheWorld:PersistentLevel.XComInteractiveLevelActor_23 XComInteractiveLevelActor]
 FriendlyDisplayName="Porta Segura"
 
 [TheWorld:PersistentLevel.XComInteractiveLevelActor_9 XComInteractiveLevelActor]
-FriendlyDisplayName="Contêiner ADVENT"
+FriendlyDisplayName="ContÃªiner ADVENT"

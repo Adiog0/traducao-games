@@ -1,5 +1,5 @@
-[General]
-Start=XComGame (In�cio)
+﻿[General]
+Start=XComGame (Início)
 Exit=XComGame (Encerrando)
 Run=XComGame (Executando)
 Product=XComGame

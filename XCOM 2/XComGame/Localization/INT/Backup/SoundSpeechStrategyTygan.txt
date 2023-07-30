@@ -1,194 +1,194 @@
-[S_ADVENTmusing_Tygan AkEvent]
-SpokenText="Embora grande parte do meu envolvimento no processo de desenvolvimento do chip tenha sido do lado teÛrico, n„o posso deixar de sentir alguma responsabilidade pelo produto final que vemos em uso hoje. Quando estava intensamente focado em um aspecto singular do projeto, no meu caso, em combater a rejeiÁ„o do corpo ao chip implantado, ‡s vezes era f·cil evitar ver o quadro geral. AtÈ hoje, ainda me pergunto se foi ignor‚ncia volunt·ria ou curiosidade desenfreada que me levou a perseguir cegamente minha pesquisa com tanto zelo."
+Ôªø[S_ADVENTmusing_Tygan AkEvent]
+SpokenText="Embora grande parte do meu envolvimento no processo de desenvolvimento do chip tenha sido do lado te√≥rico, n√£o posso deixar de sentir alguma responsabilidade pelo produto final que vemos em uso hoje. Quando estava intensamente focado em um aspecto singular do projeto, no meu caso, em combater a rejei√ß√£o do corpo ao chip implantado, √†s vezes era f√°cil evitar ver o quadro geral. At√© hoje, ainda me pergunto se foi ignor√¢ncia volunt√°ria ou curiosidade desenfreada que me levou a perseguir cegamente minha pesquisa com tanto zelo."
 
 [S_Alien_Fortress_Tygan_01 AkEvent]
-SpokenText="A passagem est· pronta. O sujeito est· preparado?"
+SpokenText="A passagem est√° pronta. O sujeito est√° preparado?"
 
 [S_Alien_Fortress_Tygan_02 AkEvent]
-SpokenText="Excelente. Vamos comeÁar."
+SpokenText="Excelente. Vamos come√ßar."
 
 [S_Alien_Fortress_Tygan_03 AkEvent]
-SpokenText="J· vimos o Codex abrindo uma fenda semelhante no campo. Tenho certeza de que seu dispositivo ficar· bem."
+SpokenText="J√° vimos o Codex abrindo uma fenda semelhante no campo. Tenho certeza de que seu dispositivo ficar√° bem."
 
 [S_Alien_Fortress_Tygan_04 AkEvent]
-SpokenText="Parece que nosso sinal foi recebido. Aumentando a potÍncia."
+SpokenText="Parece que nosso sinal foi recebido. Aumentando a pot√™ncia."
 
 [S_Alien_Fortress_Tygan_05 AkEvent]
-SpokenText="Talvez esta seja a fonte. O "centro de poder" dos Aliens, por assim dizer. Protegido alÈm de quaisquer limitaÁıes fÌsicas."
+SpokenText="Talvez esta seja a fonte. O "centro de poder" dos Aliens, por assim dizer. Protegido al√©m de quaisquer limita√ß√µes f√≠sicas."
 
 [S_Alien_Fortress_Tygan_06 AkEvent]
-SpokenText="O processo funcionou. Houve um instante em que o dispositivo estava entre locais. No entanto, uma vez que isso ocorreu, a passagem exigiu uma segunda assinatura. Uma assinatura org‚nica. Quando n„o pudemos fornecer, ela gerou uma espÈcie de pulso de feedback."
+SpokenText="O processo funcionou. Houve um instante em que o dispositivo estava entre locais. No entanto, uma vez que isso ocorreu, a passagem exigiu uma segunda assinatura. Uma assinatura org√¢nica. Quando n√£o pudemos fornecer, ela gerou uma esp√©cie de pulso de feedback."
 
 [S_Alien_Fortress_Tygan_07 AkEvent]
-SpokenText="Se o codex cria a porta, essa assinatura org‚nica deve ser a chave."
+SpokenText="Se o codex cria a porta, essa assinatura org√¢nica deve ser a chave."
 
 [S_Alien_Fortress_Tygan_08 AkEvent]
 SpokenText="Concordo. Vou informar imediatamente ao Comandante nossas descobertas."
 
 [S_Autopsy_Andromedon_Blurb AkEvent]
-SpokenText="O fato de que este traje ambiental blindado È capaz de funcionar em combate mesmo depois que o usu·rio original tenha falecido È impressionante. Preciso consultar a Shen para um estudo mais aprofundado sobre esse comportamento incomum."
+SpokenText="O fato de que este traje ambiental blindado √© capaz de funcionar em combate mesmo depois que o usu√°rio original tenha falecido √© impressionante. Preciso consultar a Shen para um estudo mais aprofundado sobre esse comportamento incomum."
 
 [S_Autopsy_Andromedon_Tygan AkEvent]
-SpokenText="Como Shen suspeitou inicialmente, parece que essa criatura est· restrita aos limites de seu prÛprio traje ambiental gigantesco. Infelizmente para nossas tropas, o traje em si representa uma ameaÁa fÌsica poderosa, independentemente do status do operador, como descobrimos com surpresa no campo."
+SpokenText="Como Shen suspeitou inicialmente, parece que essa criatura est√° restrita aos limites de seu pr√≥prio traje ambiental gigantesco. Infelizmente para nossas tropas, o traje em si representa uma amea√ßa f√≠sica poderosa, independentemente do status do operador, como descobrimos com surpresa no campo."
 
 [S_Autopsy_Archon_Blurb AkEvent]
-SpokenText="Certamente È impressionante em termos de aparÍncia, se nada mais, embora eu ainda n„o tenha certeza do que os Aliens esperavam alcanÁar com esse grande design."
+SpokenText="Certamente √© impressionante em termos de apar√™ncia, se nada mais, embora eu ainda n√£o tenha certeza do que os Aliens esperavam alcan√ßar com esse grande design."
 
 [S_Autopsy_ArchonKing_Blurb AkEvent]
-SpokenText="Ainda n„o tenho certeza do porquÍ de os Aliens terem dedicado tanto tempo ao avanÁo estÈtico desses Archons. Por algum motivo, eles parecem dar grande Ínfase ‡s aparÍncias."
+SpokenText="Ainda n√£o tenho certeza do porqu√™ de os Aliens terem dedicado tanto tempo ao avan√ßo est√©tico desses Archons. Por algum motivo, eles parecem dar grande √™nfase √†s apar√™ncias."
 
 [S_Autopsy_ArchonKing_Tygan AkEvent]
-SpokenText="Embora seja fisicamente semelhante ‡s unidades Archon que encontramos no passado, nossas tropas descobriram rapidamente que essa variante incomum tem uma propens„o para ataques fÌsicos, carregando e depois soltando vÌtimas desprevenidas de alturas extremas."
+SpokenText="Embora seja fisicamente semelhante √†s unidades Archon que encontramos no passado, nossas tropas descobriram rapidamente que essa variante incomum tem uma propens√£o para ataques f√≠sicos, carregando e depois soltando v√≠timas desprevenidas de alturas extremas."
 
 [S_Autopsy_Avatar_Blurb AkEvent]
-SpokenText="Este espÈcime, este ser, È algo completamente diferente, algo alÈm de tudo que j· vimos. E, no entanto, de alguma forma, nossas tropas prevaleceram novamente."
+SpokenText="Este esp√©cime, este ser, √© algo completamente diferente, algo al√©m de tudo que j√° vimos. E, no entanto, de alguma forma, nossas tropas prevaleceram novamente."
 
 [S_Autopsy_Berserker_Blurb AkEvent]
-SpokenText="Como se o tÌpico Muton j· n„o fosse agressivo o suficiente, essa fera enorme parece perigosa mesmo apÛs a morte. Ficarei mais do que feliz em me livrar dela depois de apresentar meu relatÛrio."
+SpokenText="Como se o t√≠pico Muton j√° n√£o fosse agressivo o suficiente, essa fera enorme parece perigosa mesmo ap√≥s a morte. Ficarei mais do que feliz em me livrar dela depois de apresentar meu relat√≥rio."
 
 [S_Autopsy_BerserkerQueen_Blurb AkEvent]
-SpokenText="Minha suposiÁ„o neste momento È que a Rainha Berserker exerce autoridade sobre os outros Mutons por meio de algum tipo de feromÙnio. AtÈ o momento, n„o consegui sintetizar um composto artificial com o mesmo efeito."
+SpokenText="Minha suposi√ß√£o neste momento √© que a Rainha Berserker exerce autoridade sobre os outros Mutons por meio de algum tipo de ferom√¥nio. At√© o momento, n√£o consegui sintetizar um composto artificial com o mesmo efeito."
 
 [S_Autopsy_BerserkerQueen_Tygan AkEvent]
-SpokenText="Este ser j· ganhou notoriedade entre nossas tropas como "Rainha Berserker", com base no comportamento subordinado incomum exibido pelos outros Mutons geralmente encontrados na companhia dela. Um impressionante conjunto de armaduras melhora ainda mais sua j· resistente fisiologia."
+SpokenText="Este ser j√° ganhou notoriedade entre nossas tropas como "Rainha Berserker", com base no comportamento subordinado incomum exibido pelos outros Mutons geralmente encontrados na companhia dela. Um impressionante conjunto de armaduras melhora ainda mais sua j√° resistente fisiologia."
 
 [S_Autopsy_Captain_Blurb AkEvent]
-SpokenText="Os Oficiais da ADVENT parecem fornecer um meio de estabilizar a conex„o entre os subordinados locais e a torre de rede ADVENT em si."
+SpokenText="Os Oficiais da ADVENT parecem fornecer um meio de estabilizar a conex√£o entre os subordinados locais e a torre de rede ADVENT em si."
 
 [S_Autopsy_Chryssalid_Blurb AkEvent]
-SpokenText="Mesmo minha prÛpria curiosidade intelectual n„o È suficiente para superar minhas d˙vidas sobre se foi realmente uma decis„o s·bia permitir que nossas tropas trouxessem esse espÈcime em particular para a nave."
+SpokenText="Mesmo minha pr√≥pria curiosidade intelectual n√£o √© suficiente para superar minhas d√∫vidas sobre se foi realmente uma decis√£o s√°bia permitir que nossas tropas trouxessem esse esp√©cime em particular para a nave."
 
 [S_Autopsy_Codex_Tygan AkEvent]
-SpokenText="No campo, o Codex aparece como uma forma anÙmala em um estado quase constante de fluxo, aparentemente presente em nosso mundo por milissegundos de cada vez. No entanto, aparentemente n„o era imune aos efeitos de armamento convencional, pois se dissipou antes de deixar este objeto para tr·s."
+SpokenText="No campo, o Codex aparece como uma forma an√¥mala em um estado quase constante de fluxo, aparentemente presente em nosso mundo por milissegundos de cada vez. No entanto, aparentemente n√£o era imune aos efeitos de armamento convencional, pois se dissipou antes de deixar este objeto para tr√°s."
 
 [S_Autopsy_Faceless_Blurb AkEvent]
-SpokenText="Muitas vezes me perguntei como os Aliens poderiam conceber um ser assim. Ser· que h· outro mundo l· fora, cheio dessas criaturas metamÛrficas? Ou eles s„o apenas mais uma criaÁ„o de manipulaÁ„o genÈtica alienÌgena?"
+SpokenText="Muitas vezes me perguntei como os Aliens poderiam conceber um ser assim. Ser√° que h√° outro mundo l√° fora, cheio dessas criaturas metam√≥rficas? Ou eles s√£o apenas mais uma cria√ß√£o de manipula√ß√£o gen√©tica alien√≠gena?"
 
 [S_Autopsy_Gatekeeper_Blurb AkEvent]
-SpokenText="Eu comecei a suspeitar que a aparÍncia incomum desta criatura est· de alguma forma diretamente ligada ‡ sua not·vel aptid„o psÌquica. Os Aliens sempre tÍm algum motivo para suas aÁıes, mesmo que seja revelado como algo distorcido."
+SpokenText="Eu comecei a suspeitar que a apar√™ncia incomum desta criatura est√° de alguma forma diretamente ligada √† sua not√°vel aptid√£o ps√≠quica. Os Aliens sempre t√™m algum motivo para suas a√ß√µes, mesmo que seja revelado como algo distorcido."
 
 [S_Autopsy_Muton_Blurb AkEvent]
-SpokenText="Os Aliens fazem uma declaraÁ„o forte ao usar essas criaturas massivas como suas unidades de combate de linha de frente. Duvido que eles pensaram que alguÈm resistiria quando confrontado com a alternativa de enfrentar um Muton."
+SpokenText="Os Aliens fazem uma declara√ß√£o forte ao usar essas criaturas massivas como suas unidades de combate de linha de frente. Duvido que eles pensaram que algu√©m resistiria quando confrontado com a alternativa de enfrentar um Muton."
 
 [S_Autopsy_Sectoid_Blurb AkEvent]
-SpokenText="A r·pida evoluÁ„o fÌsica dos Sectoides nos ˙ltimos vinte anos È um testemunho tanto do domÌnio dos Aliens em engenharia genÈtica quanto de sua busca pelo avanÁo, independentemente dos riscos."
+SpokenText="A r√°pida evolu√ß√£o f√≠sica dos Sectoides nos √∫ltimos vinte anos √© um testemunho tanto do dom√≠nio dos Aliens em engenharia gen√©tica quanto de sua busca pelo avan√ßo, independentemente dos riscos."
 
 [S_Autopsy_Shieldbearer_Blurb AkEvent]
-SpokenText="Esses portadores de escudo n„o s„o muito diferentes de seus diversos colegas ADVENT; sua armadura È talvez a caracterÌstica mais distintiva que os diferencia."
+SpokenText="Esses portadores de escudo n√£o s√£o muito diferentes de seus diversos colegas ADVENT; sua armadura √© talvez a caracter√≠stica mais distintiva que os diferencia."
 
 [S_Autopsy_StunLancer_Blurb AkEvent]
-SpokenText="Embora a ADVENT claramente pretendesse usar essas unidades para lidar com qualquer civil incontrol·vel nos centros urbanos, parece que eles tÍm recorrido a meios mais brutais de pacificaÁ„o desde ent„o."
+SpokenText="Embora a ADVENT claramente pretendesse usar essas unidades para lidar com qualquer civil incontrol√°vel nos centros urbanos, parece que eles t√™m recorrido a meios mais brutais de pacifica√ß√£o desde ent√£o."
 
 [S_Autopsy_Trooper_Blurb AkEvent]
-SpokenText="Apesar de uma an·lise completa, ainda n„o descobri qual, se houver, vantagem os enormes olhos do soldado hÌbrido da ADVENT oferecem. Testar a acuidade visual deles, sem d˙vida, ser· difÌcil."
+SpokenText="Apesar de uma an√°lise completa, ainda n√£o descobri qual, se houver, vantagem os enormes olhos do soldado h√≠brido da ADVENT oferecem. Testar a acuidade visual deles, sem d√∫vida, ser√° dif√≠cil."
 
 [S_Autopsy_Viper_Blurb AkEvent]
-SpokenText="Acho estranho, para dizer o mÌnimo, que o sujeito frequentemente mencionado no passado como o "Homem Magro" tenha sido revelado como um derivado genÈtico dessa criatura inteiramente reptiliana."
+SpokenText="Acho estranho, para dizer o m√≠nimo, que o sujeito frequentemente mencionado no passado como o "Homem Magro" tenha sido revelado como um derivado gen√©tico dessa criatura inteiramente reptiliana."
 
 [S_Autopsy_ViperQueen_Blurb AkEvent]
-SpokenText="Muitas das criaturas encontradas entre as forÁas implantadas pelos Aliens s„o incomuns, mas devo dizer que essa espÈcie em particular beira o mitolÛgico."
+SpokenText="Muitas das criaturas encontradas entre as for√ßas implantadas pelos Aliens s√£o incomuns, mas devo dizer que essa esp√©cie em particular beira o mitol√≥gico."
 
 [S_Autopsy_ViperQueen_Tygan AkEvent]
-SpokenText="Embora este espÈcime seja claramente um parente distinto do Viper comum, parece que estamos vendo outra tentativa de evoluÁ„o genÈtica forÁada dos Aliens. Enquanto o Viper È conhecido por depender de um veneno altamente tÛxico, este sujeito possui uma subst‚ncia extremamente inflam·vel em seu lugar."
+SpokenText="Embora este esp√©cime seja claramente um parente distinto do Viper comum, parece que estamos vendo outra tentativa de evolu√ß√£o gen√©tica for√ßada dos Aliens. Enquanto o Viper √© conhecido por depender de um veneno altamente t√≥xico, este sujeito possui uma subst√¢ncia extremamente inflam√°vel em seu lugar."
 
 [S_Avenger_Ambient_Tygan_Advent AkEvent]
-SpokenText="A ADVENT tem feito progresso constante ao convencer a populaÁ„o civil restante a migrar para os centros das cidades deles. Com a campanha de propaganda fornecendo um fluxo constante de lembretes sobre os benefÌcios da migraÁ„o, eles tÍm mantido um influxo constante de novos convertidos. Infelizmente, a maioria desses refugiados involunt·rios tem pouca ideia do que est„o realmente assinando."
+SpokenText="A ADVENT tem feito progresso constante ao convencer a popula√ß√£o civil restante a migrar para os centros das cidades deles. Com a campanha de propaganda fornecendo um fluxo constante de lembretes sobre os benef√≠cios da migra√ß√£o, eles t√™m mantido um influxo constante de novos convertidos. Infelizmente, a maioria desses refugiados involunt√°rios tem pouca ideia do que est√£o realmente assinando."
 
 [S_Avenger_Ambient_Tygan_AlienInvasionB_01 AkEvent]
-SpokenText="Em algum momento, eu trabalhava como bioquÌmico na ind˙stria farmacÍutica, principalmente pesquisando tÈcnicas de produÁ„o de vacinas. Por causa do meu histÛrico, fui capturado pela ADVENT e colocado para trabalhar em uma das primeiras clÌnicas de terapia genÈtica. Vi em primeira m„o do que sua tecnologia È capaz, para o bem ou para o mal."
+SpokenText="Em algum momento, eu trabalhava como bioqu√≠mico na ind√∫stria farmac√™utica, principalmente pesquisando t√©cnicas de produ√ß√£o de vacinas. Por causa do meu hist√≥rico, fui capturado pela ADVENT e colocado para trabalhar em uma das primeiras cl√≠nicas de terapia gen√©tica. Vi em primeira m√£o do que sua tecnologia √© capaz, para o bem ou para o mal."
 
 [S_Avenger_Ambient_Tygan_AlienInvasionB_02 AkEvent]
-SpokenText="AgradeÁo o sentimento."
+SpokenText="Agrade√ßo o sentimento."
 
 [S_Avenger_Ambient_Tygan_ChipFunctionB_01 AkEvent]
-SpokenText="Eu tive que fazer mais do que isso. Mesmo desativado, ainda È capaz de enviar transmissıes de baixa potÍncia. Eu o armazenei em uma gaiola Faraday improvisada que deve impedir que os alienÌgenas o rastreiem. Shen È a ˙nica pessoa com acesso."
+SpokenText="Eu tive que fazer mais do que isso. Mesmo desativado, ainda √© capaz de enviar transmiss√µes de baixa pot√™ncia. Eu o armazenei em uma gaiola Faraday improvisada que deve impedir que os alien√≠genas o rastreiem. Shen √© a √∫nica pessoa com acesso."
 
 [S_Avenger_Ambient_Tygan_CityMigration_01 AkEvent]
-SpokenText="Tendo trabalhado em uma das instalaÁıes, posso dizer em primeira m„o que eles oferecem um nÌvel de cuidado mÈdico incompar·vel por qualquer esforÁo anterior em nossa histÛria. Os alienÌgenas efetivamente curaram todos os maiores males da humanidade... C‚ncer, Mal·ria, AIDS. O processo È relativamente simples."
+SpokenText="Tendo trabalhado em uma das instala√ß√µes, posso dizer em primeira m√£o que eles oferecem um n√≠vel de cuidado m√©dico incompar√°vel por qualquer esfor√ßo anterior em nossa hist√≥ria. Os alien√≠genas efetivamente curaram todos os maiores males da humanidade... C√¢ncer, Mal√°ria, AIDS. O processo √© relativamente simples."
 
 [S_Avenger_Ambient_Tygan_CityMigration_02 AkEvent]
-SpokenText="Sim, o preÁo de admiss„o È a aceitaÁ„o de todas as polÌticas da ADVENT. Para muitas pessoas, isso mal È considerado, sendo um pequeno incÙmodo no m·ximo."
+SpokenText="Sim, o pre√ßo de admiss√£o √© a aceita√ß√£o de todas as pol√≠ticas da ADVENT. Para muitas pessoas, isso mal √© considerado, sendo um pequeno inc√¥modo no m√°ximo."
 
 [S_Avenger_Ambient_Tygan_CityMigrationB_01 AkEvent]
-SpokenText="N„o tenho certeza se eles precisam convencer muito nesse ponto."
+SpokenText="N√£o tenho certeza se eles precisam convencer muito nesse ponto."
 
 [S_Avenger_Ambient_Tygan_CityMigrationB_02 AkEvent]
-SpokenText="Talvez n„o, mas e quanto aos doentes terminais? Os idosos ou os deficientes? Os alienÌgenas podem oferecer-lhes algo que nÛs n„o podemos, algo que a maioria das pessoas trocaria qualquer coisa para ter."
+SpokenText="Talvez n√£o, mas e quanto aos doentes terminais? Os idosos ou os deficientes? Os alien√≠genas podem oferecer-lhes algo que n√≥s n√£o podemos, algo que a maioria das pessoas trocaria qualquer coisa para ter."
 
 [S_Avenger_Ambient_Tygan_CityMigrationB_03 AkEvent]
-SpokenText="SÛ espero que eles vejam as coisas dessa maneira."
+SpokenText="S√≥ espero que eles vejam as coisas dessa maneira."
 
 [S_Avenger_Ambient_Tygan_CrewDis AkEvent]
-SpokenText="Embora a maioria da equipe tenha sido acolhedora e amig·vel, n„o consigo evitar sentir que a Dra. Shen continua a nutrir uma profunda desconfianÁa em relaÁ„o ‡ minha participaÁ„o aqui. Embora ela mantenha um discurso civil, parece ser unicamente por respeito ao Comandante, e n„o por qualquer desejo genuÌno de trabalhar comigo. De qualquer forma, continuarei fazendo o meu melhor para provar meu valor."
+SpokenText="Embora a maioria da equipe tenha sido acolhedora e amig√°vel, n√£o consigo evitar sentir que a Dra. Shen continua a nutrir uma profunda desconfian√ßa em rela√ß√£o √† minha participa√ß√£o aqui. Embora ela mantenha um discurso civil, parece ser unicamente por respeito ao Comandante, e n√£o por qualquer desejo genu√≠no de trabalhar comigo. De qualquer forma, continuarei fazendo o meu melhor para provar meu valor."
 
 [S_Avenger_Ambient_Tygan_FacadePeace_01 AkEvent]
-SpokenText="Sim, uma das vantagens de trabalhar com a ADVENT. Na superfÌcie, era muito confort·vel. Mas havia um preÁo por esse conforto."
+SpokenText="Sim, uma das vantagens de trabalhar com a ADVENT. Na superf√≠cie, era muito confort√°vel. Mas havia um pre√ßo por esse conforto."
 
 [S_Avenger_Ambient_Tygan_FacadePeace_02 AkEvent]
-SpokenText="Mas a ADVENT est· sempre observando. Entre suas forÁas e os prÛprios alienÌgenas, eles veem tudo, sem mencionar os sistemas automatizados. N„o h· nada como fornecer identificaÁ„o para um poste de luz."
+SpokenText="Mas a ADVENT est√° sempre observando. Entre suas for√ßas e os pr√≥prios alien√≠genas, eles veem tudo, sem mencionar os sistemas automatizados. N√£o h√° nada como fornecer identifica√ß√£o para um poste de luz."
 
 [S_Avenger_Ambient_Tygan_FacadePeaceB_01 AkEvent]
-SpokenText="Sinceramente... nada disso realmente me incomoda. O que mais sinto falta È do meu equipamento."
+SpokenText="Sinceramente... nada disso realmente me incomoda. O que mais sinto falta √© do meu equipamento."
 
 [S_Avenger_Ambient_Tygan_FacadePeaceB_02 AkEvent]
-SpokenText="Certamente n„o havia escassez de recursos do lado deles."
+SpokenText="Certamente n√£o havia escassez de recursos do lado deles."
 
 [S_Avenger_Ambient_Tygan_GeneTherapy AkEvent]
-SpokenText="Trabalhando nas clÌnicas da ADVENT, vi avanÁos mÈdicos que seriam considerados verdadeiros milagres em qualquer momento antes da chegada dos alienÌgenas. Os idosos e enfermos, revitalizados com um ˙nico tratamento a ponto de muitas vezes chorarem de alegria. … algo poderoso, extremamente poderoso, que os alienÌgenas desenvolveram, talvez sua criaÁ„o mais insidiosa de todas. Quanto ao meu papel nisso, permaneÁo profundamente dividido."
+SpokenText="Trabalhando nas cl√≠nicas da ADVENT, vi avan√ßos m√©dicos que seriam considerados verdadeiros milagres em qualquer momento antes da chegada dos alien√≠genas. Os idosos e enfermos, revitalizados com um √∫nico tratamento a ponto de muitas vezes chorarem de alegria. √â algo poderoso, extremamente poderoso, que os alien√≠genas desenvolveram, talvez sua cria√ß√£o mais insidiosa de todas. Quanto ao meu papel nisso, permane√ßo profundamente dividido."
 
 [S_Avenger_Ambient_Tygan_LabQuirks AkEvent]
-SpokenText="Embora eu tivesse expectativas realistas em relaÁ„o aos recursos e instalaÁıes limitadas disponÌveis a bordo do Avenger, devo dizer que tem sido um processo de adaptaÁ„o. Mesmo com o campo de amortecimento da nave, a turbulÍncia frequente e a manobra evasiva ocasional dificultam a realizaÁ„o de experimentos sensÌveis. Talvez eu tenha que adaptar minhas tÈcnicas de pesquisa para manter a eficiÍncia nessas condiÁıes."
+SpokenText="Embora eu tivesse expectativas realistas em rela√ß√£o aos recursos e instala√ß√µes limitadas dispon√≠veis a bordo do Avenger, devo dizer que tem sido um processo de adapta√ß√£o. Mesmo com o campo de amortecimento da nave, a turbul√™ncia frequente e a manobra evasiva ocasional dificultam a realiza√ß√£o de experimentos sens√≠veis. Talvez eu tenha que adaptar minhas t√©cnicas de pesquisa para manter a efici√™ncia nessas condi√ß√µes."
 
 [S_Avenger_Ambient_Tygan_Quick_01 AkEvent]
-SpokenText="Talvez devÍssemos comeÁar a treinar outra pessoa para pilotar o Avenger. Nunca vou conseguir fazer nenhum trabalho se o Sr. Bradford n„o conseguir manter a nave est·vel."
+SpokenText="Talvez dev√™ssemos come√ßar a treinar outra pessoa para pilotar o Avenger. Nunca vou conseguir fazer nenhum trabalho se o Sr. Bradford n√£o conseguir manter a nave est√°vel."
 
 [S_Avenger_Ambient_Tygan_Quick_02 AkEvent]
-SpokenText="Devo admitir que h· algo emocionante em trabalhar sob as condiÁıes mais intensas encontradas no Avenger. Cada decis„o, cada desenvolvimento È de extrema import‚ncia. N„o h· espaÁo para erros aqui."
+SpokenText="Devo admitir que h√° algo emocionante em trabalhar sob as condi√ß√µes mais intensas encontradas no Avenger. Cada decis√£o, cada desenvolvimento √© de extrema import√¢ncia. N√£o h√° espa√ßo para erros aqui."
 
 [S_Avenger_Ambient_Tygan_Quick_03 AkEvent]
-SpokenText="A vigil‚ncia constante da Dra. Shen sobre minhas atividades est· comeÁando a me cansar. Eu me considero uma pessoa paciente, mas eventualmente ela ter· que confiar em mim se quisermos alcanÁar nossos objetivos."
+SpokenText="A vigil√¢ncia constante da Dra. Shen sobre minhas atividades est√° come√ßando a me cansar. Eu me considero uma pessoa paciente, mas eventualmente ela ter√° que confiar em mim se quisermos alcan√ßar nossos objetivos."
 
 [S_Avenger_Ambient_Tygan_Quick_04 AkEvent]
-SpokenText="Comecei a me perguntar como a administraÁ„o da ADVENT vÍ nosso grupo de renegados. Eles nos veem como uma ameaÁa real ou mais como um incÙmodo?"
+SpokenText="Comecei a me perguntar como a administra√ß√£o da ADVENT v√™ nosso grupo de renegados. Eles nos veem como uma amea√ßa real ou mais como um inc√¥modo?"
 
 [S_Avenger_Ambient_Tygan_Quick_05 AkEvent]
-SpokenText="Os alienÌgenas tÍm recursos consider·veis ‡ disposiÁ„o, mas mesmo com nossas prÛprias limitaÁıes, conseguimos nos sair razoavelmente bem contra eles."
+SpokenText="Os alien√≠genas t√™m recursos consider√°veis √† disposi√ß√£o, mas mesmo com nossas pr√≥prias limita√ß√µes, conseguimos nos sair razoavelmente bem contra eles."
 
 [S_Avenger_Ambient_Tygan_Quick_06 AkEvent]
-SpokenText="Certamente admiro a coragem e a tenacidade de nossas tropas em campo. Eles enfrentam um inimigo bem armado e bem treinado, e ainda assim nunca vacilam em sua lealdade ‡ causa."
+SpokenText="Certamente admiro a coragem e a tenacidade de nossas tropas em campo. Eles enfrentam um inimigo bem armado e bem treinado, e ainda assim nunca vacilam em sua lealdade √† causa."
 
 [S_Avenger_Ambient_Tygan_Quick_07 AkEvent]
-SpokenText="Sem acesso a combustÌveis fÛsseis refinados, energia È difÌcil de conseguir fora das cidades. Mesmo entre os mais ferrenhos dissidentes anti-alienÌgenas, o equipamento recuperado da ADVENT È muito cobiÁado."
+SpokenText="Sem acesso a combust√≠veis f√≥sseis refinados, energia √© dif√≠cil de conseguir fora das cidades. Mesmo entre os mais ferrenhos dissidentes anti-alien√≠genas, o equipamento recuperado da ADVENT √© muito cobi√ßado."
 
 [S_Avenger_Ambient_Tygan_Quick_08 AkEvent]
-SpokenText="Estou satisfeito com os avanÁos nas pesquisas que fizemos atÈ agora, mas ainda h· muito mais a aprender sobre as motivaÁıes dos alienÌgenas."
+SpokenText="Estou satisfeito com os avan√ßos nas pesquisas que fizemos at√© agora, mas ainda h√° muito mais a aprender sobre as motiva√ß√µes dos alien√≠genas."
 
 [S_Avenger_Ambient_Tygan_Quick_09 AkEvent]
-SpokenText="Trabalhando dentro das restriÁıes apertadas do Avenger, tive dificuldade em encontrar espaÁo para conduzir alguns de nossos experimentos mais teÛricos. Talvez da prÛxima vez que pousarmos..."
+SpokenText="Trabalhando dentro das restri√ß√µes apertadas do Avenger, tive dificuldade em encontrar espa√ßo para conduzir alguns de nossos experimentos mais te√≥ricos. Talvez da pr√≥xima vez que pousarmos..."
 
 [S_Avenger_Ambient_Tygan_Quick_10 AkEvent]
-SpokenText="Vi membros da tripulaÁ„o olhando discretamente para a cicatriz em meu pescoÁo. Se eu n„o fosse forÁado a remover o chip sozinho, as incisıes poderiam ter sido mais limpas."
+SpokenText="Vi membros da tripula√ß√£o olhando discretamente para a cicatriz em meu pesco√ßo. Se eu n√£o fosse for√ßado a remover o chip sozinho, as incis√µes poderiam ter sido mais limpas."
 
 [S_Avenger_Ambient_Tygan_TyganConscienceB_01 AkEvent]
-SpokenText="Como a maioria das pessoas, eu queria acreditar que os alienÌgenas estavam legitimamente interessados na paz. Embora eles n„o me dessem muita escolha quando se tratava de trabalhar com eles, admito que fui atraÌdo pela sensaÁ„o de normalidade que ofereciam. Foi um erro."
+SpokenText="Como a maioria das pessoas, eu queria acreditar que os alien√≠genas estavam legitimamente interessados na paz. Embora eles n√£o me dessem muita escolha quando se tratava de trabalhar com eles, admito que fui atra√≠do pela sensa√ß√£o de normalidade que ofereciam. Foi um erro."
 
 [S_Avenger_Ambient_Tygan_TyganConscienceB_02 AkEvent]
-SpokenText="Como eu disse, foi um erro. Um erro pelo qual espero expiar por meio de meus esforÁos aqui, com a XCOM."
+SpokenText="Como eu disse, foi um erro. Um erro pelo qual espero expiar por meio de meus esfor√ßos aqui, com a XCOM."
 
 [S_Avenger_Tygan_Not_Enough_Scientists AkEvent]
-SpokenText="Comandante, se vocÍ encontrar alguÈm com aptid„o para as ciÍncias, envie-os para mim, eu poderia usar a ajuda."
+SpokenText="Comandante, se voc√™ encontrar algu√©m com aptid√£o para as ci√™ncias, envie-os para mim, eu poderia usar a ajuda."
 
 [S_Avenger_Tygan_Wounded_Soldiers_No_Infirmary AkEvent]
-SpokenText="Comandante, atÈ agora conseguimos triar os feridos, mas eles seriam muito melhor atendidos se tivÈssemos uma enfermaria disponÌvel."
+SpokenText="Comandante, at√© agora conseguimos triar os feridos, mas eles seriam muito melhor atendidos se tiv√©ssemos uma enfermaria dispon√≠vel."
 
 [S_Blacksite_Horror_Tygan_01 AkEvent]
-SpokenText="Sinceramente espero que essas imagens horrÌveis sejam o pior do que encontraremos hoje..."
+SpokenText="Sinceramente espero que essas imagens horr√≠veis sejam o pior do que encontraremos hoje..."
 
 [S_Blacksite_Horror_Tygan_02 AkEvent]
-SpokenText="SequÍncias genÈticas. Em combinaÁıes quase infinitas. Mas todas com marcadores genÈticos humanos."
+SpokenText="Sequ√™ncias gen√©ticas. Em combina√ß√µes quase infinitas. Mas todas com marcadores gen√©ticos humanos."
 
 [S_Blacksite_Horror_Tygan_03 AkEvent]
-SpokenText="Dezenas de milhares. E o procedimento ainda est· longe de ser concluÌdo."
+SpokenText="Dezenas de milhares. E o procedimento ainda est√° longe de ser conclu√≠do."
 
 [S_Blacksite_Horror_Tygan_04 AkEvent]
 SpokenText="Nos meus piores pesadelos, eu jamais teria..."
@@ -197,45 +197,45 @@ SpokenText="Nos meus piores pesadelos, eu jamais teria..."
 SpokenText="Eu acredito que encontramos os civis desaparecidos."
 
 [S_Blacksite_Horror_Tygan_06 AkEvent]
-SpokenText="Selecionados apÛs triagem mÈdica. Candidatos adequados
+SpokenText="Selecionados ap√≥s triagem m√©dica. Candidatos adequados
 
- levados a essa instalaÁ„o desprezÌvel para serem processados. Transformados no material que vemos agora."
+ levados a essa instala√ß√£o desprez√≠vel para serem processados. Transformados no material que vemos agora."
 
 [S_Blacksite_Horror_Tygan_07 AkEvent]
-SpokenText="Eu n„o consigo nem imaginar um palpite neste momento. N„o existe pesquisa que justificaria algo assim..."
+SpokenText="Eu n√£o consigo nem imaginar um palpite neste momento. N√£o existe pesquisa que justificaria algo assim..."
 
 [S_Blacksite_Horror_Tygan_08 AkEvent]
-SpokenText="Concordo. As informaÁıes que obtermos podem ser inestim·veis para impedir a verdadeira agenda dos alienÌgenas."
+SpokenText="Concordo. As informa√ß√µes que obtermos podem ser inestim√°veis para impedir a verdadeira agenda dos alien√≠genas."
 
 [S_Broadcast_Truth_Tygan_01 AkEvent]
-SpokenText="Sim, parece que o pulso de feedback est· tendo o efeito desejado."
+SpokenText="Sim, parece que o pulso de feedback est√° tendo o efeito desejado."
 
 [S_CaptainAutopsy_Tygan AkEvent]
-SpokenText="Os Oficiais da ADVENT foram claramente modificados para permitir que seus subordinados recebam novas ordens por meios psiÛnicos. O chip implantado È a chave."
+SpokenText="Os Oficiais da ADVENT foram claramente modificados para permitir que seus subordinados recebam novas ordens por meios psi√≥nicos. O chip implantado √© a chave."
 
 [S_CaptainAutopsyReminder_Tygan AkEvent]
-SpokenText="Comandante, como o Oficial da ADVENT est· atualmente em armazenamento frio, devemos realizar a autÛpsia assim que possÌvel."
+SpokenText="Comandante, como o Oficial da ADVENT est√° atualmente em armazenamento frio, devemos realizar a aut√≥psia assim que poss√≠vel."
 
 [S_Commander_Awakens_Tygan_01_Setup_Phase AkEvent]
-SpokenText="Com cuidado! H· potencialmente dÈcadas de atrofia para lidar!"
+SpokenText="Com cuidado! H√° potencialmente d√©cadas de atrofia para lidar!"
 
 [S_Commander_Awakens_Tygan_02_Setup_Phase AkEvent]
-SpokenText="N„o discordo. Mas como est· agora, corremos o risco de perder o paciente se n„o iniciarmos imediatamente o procedimento de remoÁ„o."
+SpokenText="N√£o discordo. Mas como est√° agora, corremos o risco de perder o paciente se n√£o iniciarmos imediatamente o procedimento de remo√ß√£o."
 
 [S_Commander_Awakens_Tygan_03_Setup_Phase AkEvent]
-SpokenText="Not·vel!"
+SpokenText="Not√°vel!"
 
 [S_Commander_Awakens_Tygan_04_Setup_Phase AkEvent]
-SpokenText="...resposta do cÛrtex cerebral. Bom. Preparando para intrus„o craniana."
+SpokenText="...resposta do c√≥rtex cerebral. Bom. Preparando para intrus√£o craniana."
 
 [S_Commander_Awakens_Tygan_05_Setup_Phase AkEvent]
-SpokenText="...identifiquei a conex„o final. Preparando para fazer a incis„o final."
+SpokenText="...identifiquei a conex√£o final. Preparando para fazer a incis√£o final."
 
 [S_Commander_Awakens_Tygan_06_Setup_Phase AkEvent]
-SpokenText="Como eu disse anteriormente, "n„o". Remover esses implantes nunca fez parte-"
+SpokenText="Como eu disse anteriormente, "n√£o". Remover esses implantes nunca fez parte-"
 
 [S_Commander_Awakens_Tygan_07_Setup_Phase AkEvent]
-SpokenText="...pulso err·tico."
+SpokenText="...pulso err√°tico."
 
 [S_Commander_Awakens_Tygan_08_Setup_Phase AkEvent]
 SpokenText="...resposta pupilar normal. Sinais vitais estabilizando. Procedimento completo."
@@ -247,388 +247,388 @@ SpokenText="Concordo. Precisamos informar imediatamente o Comandante."
 SpokenText="Comandante. Central."
 
 [S_Dark_Volunteer_01_Tygan_03 AkEvent]
-SpokenText="A c‚mara das sombras concluiu a an·lise do DNA da amostra do alienÌgena. Identificou a sequÍncia genÈtica necess·ria para viajar pelo portal psiÛnico."
+SpokenText="A c√¢mara das sombras concluiu a an√°lise do DNA da amostra do alien√≠gena. Identificou a sequ√™ncia gen√©tica necess√°ria para viajar pelo portal psi√≥nico."
 
 [S_Dark_Volunteer_01_Tygan_04 AkEvent]
-SpokenText="No entanto, o portal requer mais do que apenas uma transmiss„o de dados genÈticos."
+SpokenText="No entanto, o portal requer mais do que apenas uma transmiss√£o de dados gen√©ticos."
 
 [S_Dark_Volunteer_01_Tygan_05 AkEvent]
-SpokenText="Exato. Simplificando, acredito que esses Avatares s„o a evoluÁ„o pretendida do modelo genÈtico que descobrimos na instalaÁ„o de fabricaÁ„o."
+SpokenText="Exato. Simplificando, acredito que esses Avatares s√£o a evolu√ß√£o pretendida do modelo gen√©tico que descobrimos na instala√ß√£o de fabrica√ß√£o."
 
 [S_Dark_Volunteer_01_Tygan_06 AkEvent]
-SpokenText="DNA humano carregado psionicamente combinado com o dos Anciıes. J· possuÌmos o modelo. Minha autÛpsia deste ser forneceu tanto o projeto genÈtico quanto o DNA necess·rio dos Anciıes. Com tempo, tenho confianÁa de que podemos replicar o procedimento aqui."
+SpokenText="DNA humano carregado psionicamente combinado com o dos Anci√µes. J√° possu√≠mos o modelo. Minha aut√≥psia deste ser forneceu tanto o projeto gen√©tico quanto o DNA necess√°rio dos Anci√µes. Com tempo, tenho confian√ßa de que podemos replicar o procedimento aqui."
 
 [S_Dark_Volunteer_01_Tygan_07 AkEvent]
-SpokenText="Sim, exatamente. Enquanto a engenharia genÈtica pode construir um corpo, n„o pode criar a mente para conduzi-lo."
+SpokenText="Sim, exatamente. Enquanto a engenharia gen√©tica pode construir um corpo, n√£o pode criar a mente para conduzi-lo."
 
 [S_Dark_Volunteer_01_Tygan_08 AkEvent]
-SpokenText="Interagir diretamente com sua rede causaria trauma severo, se n„o fatal, ao sistema nervoso central despreparado. Como est·, sÛ conhecemos um indivÌduo que sobreviveu a esse tipo de provaÁ„o."
+SpokenText="Interagir diretamente com sua rede causaria trauma severo, se n√£o fatal, ao sistema nervoso central despreparado. Como est√°, s√≥ conhecemos um indiv√≠duo que sobreviveu a esse tipo de prova√ß√£o."
 
 [S_Dark_Volunteer_01_Tygan_09 AkEvent]
-SpokenText="Criei a interface perfeita para a rede. Uma adaptada especificamente para sua biologia, Comandante. De todos os candidatos humanos, vocÍ È o mais prov·vel de sobreviver ‡ conex„o."
+SpokenText="Criei a interface perfeita para a rede. Uma adaptada especificamente para sua biologia, Comandante. De todos os candidatos humanos, voc√™ √© o mais prov√°vel de sobreviver √† conex√£o."
 
 [S_Dark_Volunteer_01_Tygan_10 AkEvent]
-SpokenText="Essa È a ˙nica resposta que posso lhe dar. E nossa ˙nica opÁ„o para atravessar o portal alienÌgena."
+SpokenText="Essa √© a √∫nica resposta que posso lhe dar. E nossa √∫nica op√ß√£o para atravessar o portal alien√≠gena."
 
 [S_Dark_Volunteer_02_Tygan_01 AkEvent]
-SpokenText="AÌ est·. Infundi esse material com toda a nossa DNA vi·vel dos Anciıes. N„o teremos outra chance disso."
+SpokenText="A√≠ est√°. Infundi esse material com toda a nossa DNA vi√°vel dos Anci√µes. N√£o teremos outra chance disso."
 
 [S_Dark_Volunteer_02_Tygan_02 AkEvent]
-SpokenText="SÌntese prestes a ser concluÌda."
+SpokenText="S√≠ntese prestes a ser conclu√≠da."
 
 [S_Dark_Volunteer_02_Tygan_03 AkEvent]
 SpokenText="Agora, Lily!"
 
 [S_Despite_The_Unexpected_Tygan AkEvent]
-SpokenText="Apesar do resultado inesperado dos nossos testes no portal psiÛnico alienÌgena, acredito firmemente que o experimento em si foi absolutamente crucial para nossas operaÁıes futuras. Agora entendemos exatamente como o portal funciona e o que ser· necess·rio caso tentemos atravess·-lo. Ainda assim, devo admitir que sinto algum pesar pelos danos causados ao GREMLIN da Shen, mesmo que seja apenas uma m·quina."
+SpokenText="Apesar do resultado inesperado dos nossos testes no portal psi√≥nico alien√≠gena, acredito firmemente que o experimento em si foi absolutamente crucial para nossas opera√ß√µes futuras. Agora entendemos exatamente como o portal funciona e o que ser√° necess√°rio caso tentemos atravess√°-lo. Ainda assim, devo admitir que sinto algum pesar pelos danos causados ao GREMLIN da Shen, mesmo que seja apenas uma m√°quina."
 
 [S_First_Scientist_Received_Tygan AkEvent]
 SpokenText="Obrigado por enviar pessoal de apoio adicional para me ajudar, Comandante. Vou garantir que eles sejam bem aproveitados."
 
 [S_Golden_Path_Mission_Loot_Blacksite_Vial_Tygan AkEvent]
-SpokenText="Agora que recuperamos o aparente produto da instalaÁ„o Blacksite, imagino que levar· tempo e recursos consider·veis para descobrir o verdadeiro propÛsito dessa subst‚ncia. Vou
+SpokenText="Agora que recuperamos o aparente produto da instala√ß√£o Blacksite, imagino que levar√° tempo e recursos consider√°veis para descobrir o verdadeiro prop√≥sito dessa subst√¢ncia. Vou
 
- comeÁar os preparativos para uma an·lise completa imediatamente, Comandante."
+ come√ßar os preparativos para uma an√°lise completa imediatamente, Comandante."
 
 [S_Golden_Path_Mission_Loot_Forge_Body_Tygan AkEvent]
-SpokenText="Dentro das restriÁıes da roupa que recuperamos, encontramos o que poderia muito bem ser o protÛtipo das forÁas aparentemente ilimitadas da ADVENT. Mesmo concentrando meus esforÁos apenas nessa pesquisa, ser· necess·rio um comprometimento significativo de tempo e recursos para analisar completamente esse espÈcime."
+SpokenText="Dentro das restri√ß√µes da roupa que recuperamos, encontramos o que poderia muito bem ser o prot√≥tipo das for√ßas aparentemente ilimitadas da ADVENT. Mesmo concentrando meus esfor√ßos apenas nessa pesquisa, ser√° necess√°rio um comprometimento significativo de tempo e recursos para analisar completamente esse esp√©cime."
 
 [S_Golden_Path_Mission_Loot_Psi_Gate_Tygan AkEvent]
-SpokenText="O distintivo artefato alienÌgena que recuperamos do campo se assemelha a um portal ou portal de alguma forma. Embora acreditemos que isso forneÁa aos alienÌgenas um meio de viagem de longa dist‚ncia, potencialmente alÈm das fronteiras de nosso prÛprio mundo, levar· tempo antes que possamos entender completamente a funÁ„o do portal."
+SpokenText="O distintivo artefato alien√≠gena que recuperamos do campo se assemelha a um portal ou portal de alguma forma. Embora acreditemos que isso forne√ßa aos alien√≠genas um meio de viagem de longa dist√¢ncia, potencialmente al√©m das fronteiras de nosso pr√≥prio mundo, levar√° tempo antes que possamos entender completamente a fun√ß√£o do portal."
 
 [S_Golden_Path_Musings_Blacksite_Horror_Tygan_01 AkEvent]
-SpokenText="Eu esperava encontrar que os alienÌgenas estavam conduzindo experimentos question·veis com refÈns humanos na "Blacksite" que invadimos com a ajuda de operativos da resistÍncia local. O que encontramos foi algo mais repreensÌvel do que eu poderia imaginar. Uma instalaÁ„o dedicada exclusivamente ‡ obtenÁ„o e refinamento de material genÈtico humano em escala industrial. Os alienÌgenas ultrapassaram os limites da ciÍncia conhecida, sem se importar com as consequÍncias."
+SpokenText="Eu esperava encontrar que os alien√≠genas estavam conduzindo experimentos question√°veis com ref√©ns humanos na "Blacksite" que invadimos com a ajuda de operativos da resist√™ncia local. O que encontramos foi algo mais repreens√≠vel do que eu poderia imaginar. Uma instala√ß√£o dedicada exclusivamente √† obten√ß√£o e refinamento de material gen√©tico humano em escala industrial. Os alien√≠genas ultrapassaram os limites da ci√™ncia conhecida, sem se importar com as consequ√™ncias."
 
 [S_Golden_Path_Musings_Dying_Ethereals_Tygan_01 AkEvent]
-SpokenText="Os Anciıes sempre foram elusivos, exceto pelo ocasional monumento. N„o imagino que a maioria das pessoas nos centros urbanos j· tenha visto um pessoalmente. Saber agora que os Anciıes aparentemente est„o sofrendo nas m„os de alguma afliÁ„o terminal explica sua ausÍncia da vida p˙blica. Mais importante, que tipo de doenÁa poderia estar alÈm de suas vastas habilidades curativas?"
+SpokenText="Os Anci√µes sempre foram elusivos, exceto pelo ocasional monumento. N√£o imagino que a maioria das pessoas nos centros urbanos j√° tenha visto um pessoalmente. Saber agora que os Anci√µes aparentemente est√£o sofrendo nas m√£os de alguma afli√ß√£o terminal explica sua aus√™ncia da vida p√∫blica. Mais importante, que tipo de doen√ßa poderia estar al√©m de suas vastas habilidades curativas?"
 
 [S_Golden_Path_Musings_Risistance_Tygan_01 AkEvent]
-SpokenText="A resistÍncia est· um pouco mais organizada do que eu imaginava com base nos rumores, mas ainda assim parece que eles contar„o muito conosco para lidar com os engajamentos estratÈgicos e t·ticos com os alienÌgenas. EsperanÁosamente, sua rede de contatos nos fornecer· informaÁıes valiosas sobre os movimentos e posiÁıes da ADVENT."
+SpokenText="A resist√™ncia est√° um pouco mais organizada do que eu imaginava com base nos rumores, mas ainda assim parece que eles contar√£o muito conosco para lidar com os engajamentos estrat√©gicos e t√°ticos com os alien√≠genas. Esperan√ßosamente, sua rede de contatos nos fornecer√° informa√ß√µes valiosas sobre os movimentos e posi√ß√µes da ADVENT."
 
 [S_GP_Avatar_Body_Recovered_But_Prereqs_Not_Met_Tygan AkEvent]
-SpokenText="Comandante, embora eu acredite firmemente que a amostra que recuperamos È crucial para os esforÁos dos alienÌgenas, atualmente n„o temos os meios para estud·-la adequadamente."
+SpokenText="Comandante, embora eu acredite firmemente que a amostra que recuperamos √© crucial para os esfor√ßos dos alien√≠genas, atualmente n√£o temos os meios para estud√°-la adequadamente."
 
 [S_GP_PreBlacksite_Objective_Ambient AkEvent]
-SpokenText="Com base em minha prÛpria experiÍncia, a ADVENT geralmente implanta seguranÁa pesada em vez de subterf˙gio quando se trata de proteger suas instalaÁıes principais, pelo menos nas que tive acesso pessoal. Se eles se deram ao trabalho de esconder esse blacksite, suspeito que nossas descobertas l· nos levar„o a perguntas ainda maiores."
+SpokenText="Com base em minha pr√≥pria experi√™ncia, a ADVENT geralmente implanta seguran√ßa pesada em vez de subterf√∫gio quando se trata de proteger suas instala√ß√µes principais, pelo menos nas que tive acesso pessoal. Se eles se deram ao trabalho de esconder esse blacksite, suspeito que nossas descobertas l√° nos levar√£o a perguntas ainda maiores."
 
 [S_GP_PreBroadcast_Objective_Ambient AkEvent]
-SpokenText="Se pudermos interromper o campo de amortecimento da ADVENT e sua rede no processo, temos uma chance razo·vel de derrubar o controle dos alienÌgenas sobre nosso mundo. A ideia de que eu possivelmente possa viver para ver esse dia nunca me ocorreu. O mundo conhecer· a verdade, e nÛs tornaremos isso possÌvel."
+SpokenText="Se pudermos interromper o campo de amortecimento da ADVENT e sua rede no processo, temos uma chance razo√°vel de derrubar o controle dos alien√≠genas sobre nosso mundo. A ideia de que eu possivelmente possa viver para ver esse dia nunca me ocorreu. O mundo conhecer√° a verdade, e n√≥s tornaremos isso poss√≠vel."
 
 [S_GP_PreCaptain_Objective_Ambient AkEvent]
-SpokenText="Devo admitir que, tendo concluÌdo com sucesso a operaÁ„o necess·ria para remover o chip do Comandante, estou intrigado com a possibilidade de examinar outro sujeito para an·lise comparativa. Uma vez que o Oficial em quest„o provavelmente ter· expirado muito antes de chegar aqui, posso recorrer a um mÈtodo mais r·pido e invasivo para remover o chip desta vez."
+SpokenText="Devo admitir que, tendo conclu√≠do com sucesso a opera√ß√£o necess√°ria para remover o chip do Comandante, estou intrigado com a possibilidade de examinar outro sujeito para an√°lise comparativa. Uma vez que o Oficial em quest√£o provavelmente ter√° expirado muito antes de chegar aqui, posso recorrer a um m√©todo mais r√°pido e invasivo para remover o chip desta vez."
 
 [S_GP_PreForge_Objective_Ambient AkEvent]
-SpokenText="As coordenadas que descobrimos codificadas na amostra genÈtica recuperada da instalaÁ„o Blacksite da ADVENT implicam que sÛ arranhamos a superfÌcie da infraestrutura dos alienÌgenas relacionada com esse Projeto Avatar. Tivemos a sorte de recuperar a amostra genÈtica quando o fizemos, caso contr·rio, nosso caminho poderia ter terminado aqui."
+SpokenText="As coordenadas que descobrimos codificadas na amostra gen√©tica recuperada da instala√ß√£o Blacksite da ADVENT implicam que s√≥ arranhamos a superf√≠cie da infraestrutura dos alien√≠genas relacionada com esse Projeto Avatar. Tivemos a sorte de recuperar a amostra gen√©tica quando o fizemos, caso contr√°rio, nosso caminho poderia ter terminado aqui."
 
 [S_GP_PreFortress_Objective_Ambient AkEvent]
-SpokenText="N„o tenho ideia do que encontraremos do outro lado desse portal, mas atÈ certo ponto, invejo nossas tropas, enquanto elas atravessam o que poderia muito bem ser um portal para outro mundo. Eles s„o exploradores tanto quanto soldados, e nosso destino depende deles."
+SpokenText="N√£o tenho ideia do que encontraremos do outro lado desse portal, mas at√© certo ponto, invejo nossas tropas, enquanto elas atravessam o que poderia muito bem ser um portal para outro mundo. Eles s√£o exploradores tanto quanto soldados, e nosso destino depende deles."
 
 [S_GP_PreLiveCodex_Objective_Ambient AkEvent]
-SpokenText="Independentemente das insinuaÁıes de Shen, acho altamente improv·vel que terÌamos obtido informaÁıes adicionais do primeiro Codex se tivÈssemos adotado uma abordagem menos assertiva. De qualquer forma, tenho certeza de que nossas tropas n„o ter„o problemas em usar o Skulljack contra o prÛximo Codex que encontrarem no campo."
+SpokenText="Independentemente das insinua√ß√µes de Shen, acho altamente improv√°vel que ter√≠amos obtido informa√ß√µes adicionais do primeiro Codex se tiv√©ssemos adotado uma abordagem menos assertiva. De qualquer forma, tenho certeza de que nossas tropas n√£o ter√£o problemas em usar o Skulljack contra o pr√≥ximo Codex que encontrarem no campo."
 
 [S_GP_PrePsiGate_Objective_Ambient AkEvent]
-SpokenText="Estou intrigado com a ideia de que, apesar dos melhores esforÁos do Codex para resistir ‡ nossa intrus„o na rede ADVENT, conseguimos obter um conjunto de coordenadas que levam a uma regi„o aparentemente desabitada. Os alienÌgenas certamente nos mantÍm em movimento, de uma forma ou de outra."
+SpokenText="Estou intrigado com a ideia de que, apesar dos melhores esfor√ßos do Codex para resistir √† nossa intrus√£o na rede ADVENT, conseguimos obter um conjunto de coordenadas que levam a uma regi√£o aparentemente desabitada. Os alien√≠genas certamente nos mant√™m em movimento, de uma forma ou de outra."
 
 [S_Humans_Obsolete_Tygan_01 AkEvent]
-SpokenText="Superficialmente, sim. Mas em funÁ„o..."
+SpokenText="Superficialmente, sim. Mas em fun√ß√£o..."
 
 [S_Humans_Obsolete_Tygan_02 AkEvent]
-SpokenText="Ah, Comandante - Excelente. Podemos comeÁar."
+SpokenText="Ah, Comandante - Excelente. Podemos come√ßar."
 
 [S_Humans_Obsolete_Tygan_03 AkEvent]
-SpokenText="N„o È segredo que os soldados da ADVENT possuem caracterÌsticas genÈticas tanto humanas quanto alienÌgenas. A an·lise preliminar me levou a acreditar que isso era resultado de modificaÁıes diretas feitas em um hospedeiro humano prÈ-existente. Prisioneiros ou talvez atÈ volunt·rios inconscientes."
+SpokenText="N√£o √© segredo que os soldados da ADVENT possuem caracter√≠sticas gen√©ticas tanto humanas quanto alien√≠genas. A an√°lise preliminar me levou a acreditar que isso era resultado de modifica√ß√µes diretas feitas em um hospedeiro humano pr√©-existente. Prisioneiros ou talvez at√© volunt√°rios inconscientes."
 
 [S_Humans_Obsolete_Tygan_04 AkEvent]
-SpokenText="No entanto, a realidade È algo completamente diferente."
+SpokenText="No entanto, a realidade √© algo completamente diferente."
 
 [S_Humans_Obsolete_Tygan_05 AkEvent]
-SpokenText="Os soldados da ADVENT na instalaÁ„o que descobrimos, incluindo o espÈcime diante de vocÍ, foram Fabricados."
+SpokenText="Os soldados da ADVENT na instala√ß√£o que descobrimos, incluindo o esp√©cime diante de voc√™, foram Fabricados."
 
 [S_Humans_Obsolete_Tygan_06 AkEvent]
-SpokenText="N„o. N„o clones. Mais como modelos."
+SpokenText="N√£o. N√£o clones. Mais como modelos."
 
 [S_Humans_Obsolete_Tygan_07 AkEvent]
-SpokenText="Cada soldado possui um cÛdigo genÈtico ˙nico. Predominantemente humano, È claro, mas com alguns fragmentos deixados abertos..."
+SpokenText="Cada soldado possui um c√≥digo gen√©tico √∫nico. Predominantemente humano, √© claro, mas com alguns fragmentos deixados abertos..."
 
 [S_Humans_Obsolete_Tygan_08 AkEvent]
-SpokenText="Qualquer DNA alienÌgena que a ADVENT deseje inserir. Sectoid. Muton. AtÈ mesmo a espÈcie que nossos soldados chamam de "Berserker"."
+SpokenText="Qualquer DNA alien√≠gena que a ADVENT deseje inserir. Sectoid. Muton. At√© mesmo a esp√©cie que nossos soldados chamam de "Berserker"."
 
 [S_Humans_Obsolete_Tygan_09 AkEvent]
-SpokenText="Em todos os casos, o material genÈtico humano serve como um agente "aglutinante" que mantÈm os filamentos juntos."
+SpokenText="Em todos os casos, o material gen√©tico humano serve como um agente "aglutinante" que mant√©m os filamentos juntos."
 
 [S_Humans_Obsolete_Tygan_10 AkEvent]
-SpokenText="Exatamente. O componente chave em seu processo de fabricaÁ„o de soldados."
+SpokenText="Exatamente. O componente chave em seu processo de fabrica√ß√£o de soldados."
 
 [S_Humans_Obsolete_Tygan_11 AkEvent]
-SpokenText="De certa forma. Mas acredito que h· mais do que isso."
+SpokenText="De certa forma. Mas acredito que h√° mais do que isso."
 
 [S_Humans_Obsolete_Tygan_12 AkEvent]
-SpokenText="O DNA humano neste espÈcime possui uma diferenÁa chave de todas as sequÍncias decodificadas na C‚mara das Sombras. Sensibilidade psiÛnica. Dada a quantidade de filamentos envolvidos, isso n„o pode ser acidental."
+SpokenText="O DNA humano neste esp√©cime possui uma diferen√ßa chave de todas as sequ√™ncias decodificadas na C√¢mara das Sombras. Sensibilidade psi√≥nica. Dada a quantidade de filamentos envolvidos, isso n√£o pode ser acidental."
 
 [S_Humans_Obsolete_Tygan_13 AkEvent]
-SpokenText="Minha conclus„o tambÈm. O potencial de poder de um ser criado com esse modelo È... significativo. Central, se n„o tivÈssemos interceptado antes que o processo fosse concluÌdo..."
+SpokenText="Minha conclus√£o tamb√©m. O potencial de poder de um ser criado com esse modelo √©... significativo. Central, se n√£o tiv√©ssemos interceptado antes que o processo fosse conclu√≠do..."
 
 [S_Humans_Obsolete_Tygan_14 AkEvent]
-SpokenText="Utilizando a C‚mara das Sombras, fizemos esforÁos contÌnuos para analisar o DNA desse espÈcime."
+SpokenText="Utilizando a C√¢mara das Sombras, fizemos esfor√ßos cont√≠nuos para analisar o DNA desse esp√©cime."
 
 [S_I_Wasn_t_Going_To_Admit_Tygan AkEvent]
-SpokenText="Eu n„o ia admitir isso para a Shen, mas h· uma coisa que sinto falta mais do que meu equipamento de laboratÛrio... s„o aqueles malditos hamb˙rgueres da ADVENT. N„o sei de onde eles tiram a carne, e francamente, n„o quero saber."
+SpokenText="Eu n√£o ia admitir isso para a Shen, mas h√° uma coisa que sinto falta mais do que meu equipamento de laborat√≥rio... s√£o aqueles malditos hamb√∫rgueres da ADVENT. N√£o sei de onde eles tiram a carne, e francamente, n√£o quero saber."
 
 [S_Misc_Alien_Encryp_Tygan_01 AkEvent]
-SpokenText="Os alienÌgenas est„o usando uma forma de criptografia alÈm de tudo que j· encontramos - muito menos teorizamos. Teremos que encontrar uma maneira de quebrar o cÛdigo, mas espero que isso leve algum tempo."
+SpokenText="Os alien√≠genas est√£o usando uma forma de criptografia al√©m de tudo que j√° encontramos - muito menos teorizamos. Teremos que encontrar uma maneira de quebrar o c√≥digo, mas espero que isso leve algum tempo."
 
 [S_Misc_Thanks_Codex_Brain_Tygan_01 AkEvent]
 SpokenText="Comandante,
 
- por favor, agradeÁa ‡s nossas tropas por completarem o que certamente foi uma tarefa difÌcil na aquisiÁ„o do CÈrebro do Codex. ComeÁaremos a trabalhar nele o mais r·pido possÌvel."
+ por favor, agrade√ßa √†s nossas tropas por completarem o que certamente foi uma tarefa dif√≠cil na aquisi√ß√£o do C√©rebro do Codex. Come√ßaremos a trabalhar nele o mais r√°pido poss√≠vel."
 
 [S_Old_Gods_01_Tygan_01 AkEvent]
-SpokenText="Nossos soldados desativaram completamente esta unidade no campo. O que estamos ouvindo È apenas um subproduto de impulsos elÈtricos - eu garanto, j· passou do ponto de sentir dor."
+SpokenText="Nossos soldados desativaram completamente esta unidade no campo. O que estamos ouvindo √© apenas um subproduto de impulsos el√©tricos - eu garanto, j√° passou do ponto de sentir dor."
 
 [S_Old_Gods_01_Tygan_02 AkEvent]
-SpokenText="Estou enviando a vocÍ uma nova sequÍncia agora."
+SpokenText="Estou enviando a voc√™ uma nova sequ√™ncia agora."
 
 [S_Old_Gods_01_Tygan_03 AkEvent]
-SpokenText="H· algo mais. Algo - por baixo. Um momento."
+SpokenText="H√° algo mais. Algo - por baixo. Um momento."
 
 [S_Old_Gods_01_Tygan_04 AkEvent]
-SpokenText="A unidade est· tentando bloquear mais acesso."
+SpokenText="A unidade est√° tentando bloquear mais acesso."
 
 [S_Old_Gods_01_Tygan_05 AkEvent]
-SpokenText="Quase l·... SÛ mais um ajuste..."
+SpokenText="Quase l√°... S√≥ mais um ajuste..."
 
 [S_Old_Gods_01_Tygan_06 AkEvent]
 SpokenText="Pronto."
 
 [S_Old_Gods_01_Tygan_07 AkEvent]
-SpokenText="Algum tipo de protocolo de seguranÁa, imagino. O Codex deve ter sobrecarregado intencionalmente a interface para evitar qualquer roubo adicional de informaÁıes."
+SpokenText="Algum tipo de protocolo de seguran√ßa, imagino. O Codex deve ter sobrecarregado intencionalmente a interface para evitar qualquer roubo adicional de informa√ß√µes."
 
 [S_Old_Gods_01_Tygan_08 AkEvent]
-SpokenText="Mesmo assim, acredito que estava um passo ‡ frente dele."
+SpokenText="Mesmo assim, acredito que estava um passo √† frente dele."
 
 [S_Old_Gods_01_Tygan_09 AkEvent]
-SpokenText="Sim. E acho que pode levar algum tempo para decifr·-lo."
+SpokenText="Sim. E acho que pode levar algum tempo para decifr√°-lo."
 
 [S_Old_Gods_01_Tygan_10 AkEvent]
-SpokenText="Vou prosseguir com a pesquisa e preparaÁ„o necess·rias - com sua aprovaÁ„o, È claro, Comandante. TambÈm sugiro que investiguemos aquelas coordenadas-"
+SpokenText="Vou prosseguir com a pesquisa e prepara√ß√£o necess√°rias - com sua aprova√ß√£o, √© claro, Comandante. Tamb√©m sugiro que investiguemos aquelas coordenadas-"
 
 [S_Old_Gods_02_Alt_Tygan_02 AkEvent]
-SpokenText="As informaÁıes que descobri atÈ agora j· justificam os danos causados ‡ c‚mara das sombras durante nossos testes, como vocÍ ver·..."
+SpokenText="As informa√ß√µes que descobri at√© agora j√° justificam os danos causados √† c√¢mara das sombras durante nossos testes, como voc√™ ver√°..."
 
 [S_Old_Gods_02_Tygan_01 AkEvent]
-SpokenText="Comandante, Bradford... excelente. Minha an·lise dos dados fragmentados do Codex est· quase completa."
+SpokenText="Comandante, Bradford... excelente. Minha an√°lise dos dados fragmentados do Codex est√° quase completa."
 
 [S_Old_Gods_02_Tygan_02 AkEvent]
-SpokenText="As informaÁıes que descobri atÈ agora superam a perda da c‚mara das sombras, como vocÍ ver·..."
+SpokenText="As informa√ß√µes que descobri at√© agora superam a perda da c√¢mara das sombras, como voc√™ ver√°..."
 
 [S_Old_Gods_02_Tygan_03 AkEvent]
 SpokenText="Sim. E acredito que agora entendo o motivo."
 
 [S_Old_Gods_02_Tygan_04 AkEvent]
-SpokenText="Os "Anciıes" parecem estar sofrendo de uma forma agressiva de degeneraÁ„o tecidual. Atrofia muscular r·pida a um grau que eu nem sequer imaginava ser possÌvel."
+SpokenText="Os "Anci√µes" parecem estar sofrendo de uma forma agressiva de degenera√ß√£o tecidual. Atrofia muscular r√°pida a um grau que eu nem sequer imaginava ser poss√≠vel."
 
 [S_Old_Gods_02_Tygan_05 AkEvent]
-SpokenText="Como na maioria das coisas envolvendo esse advers·rio, nunca È t„o simples."
+SpokenText="Como na maioria das coisas envolvendo esse advers√°rio, nunca √© t√£o simples."
 
 [S_Old_Gods_02_Tygan_06 AkEvent]
-SpokenText="Somos. E com isso, quero dizer a prÛpria humanidade."
+SpokenText="Somos. E com isso, quero dizer a pr√≥pria humanidade."
 
 [S_Old_Gods_02_Tygan_07 AkEvent]
-SpokenText="Os Anciıes tÍm procurado agressivamente uma cura para sua condiÁ„o h· sÈculos. Cada vez que encontravam uma nova espÈcie, eles obtinham as informaÁıes genÈticas e o material que precisavam e seguiam para o prÛximo mundo. AtÈ agora."
+SpokenText="Os Anci√µes t√™m procurado agressivamente uma cura para sua condi√ß√£o h√° s√©culos. Cada vez que encontravam uma nova esp√©cie, eles obtinham as informa√ß√µes gen√©ticas e o material que precisavam e seguiam para o pr√≥ximo mundo. At√© agora."
 
 [S_Old_Gods_02_Tygan_08 AkEvent]
-SpokenText="Acredito que encontraram algo em nÛs. Algo importante o suficiente para fazÍ-los se fixar aqui."
+SpokenText="Acredito que encontraram algo em n√≥s. Algo importante o suficiente para faz√™-los se fixar aqui."
 
 [S_Old_Gods_02_Tygan_09 AkEvent]
-SpokenText="N„o posso determinar isso. V·rios arquivos importantes foram excluÌdos anteriormente como parte do que chamam de Diretiva Avatar."
+SpokenText="N√£o posso determinar isso. V√°rios arquivos importantes foram exclu√≠dos anteriormente como parte do que chamam de Diretiva Avatar."
 
 [S_Old_Gods_02_Tygan_10 AkEvent]
-SpokenText="Essencialmente, sim. E infelizmente, ainda n„o estamos mais perto de determinar o resultado pretendido desse experimento. V·rios arquivos importantes foram excluÌdos anteriormente como parte do que chamam de Diretiva Avatar."
+SpokenText="Essencialmente, sim. E infelizmente, ainda n√£o estamos mais perto de determinar o resultado pretendido desse experimento. V√°rios arquivos importantes foram exclu√≠dos anteriormente como parte do que chamam de Diretiva Avatar."
 
 [S_Old_Gods_02_Tygan_11 AkEvent]
-SpokenText="Se eu tivesse acesso a um Codex totalmente funcional, talvez pudesse recuper·-los."
+SpokenText="Se eu tivesse acesso a um Codex totalmente funcional, talvez pudesse recuper√°-los."
 
 [S_Old_Gods_02_Tygan_12 AkEvent]
-SpokenText="Eu n„o disse que precisava da criatura aqui, Bradford. Estou confiante de que posso acessar a unidade remotamente, desde que seus soldados consigam se aproximar o suficiente dela no campo sem destruÌ-la."
+SpokenText="Eu n√£o disse que precisava da criatura aqui, Bradford. Estou confiante de que posso acessar a unidade remotamente, desde que seus soldados consigam se aproximar o suficiente dela no campo sem destru√≠-la."
 
 [S_PostIntroStasisLanceReminder_Tygan AkEvent]
-SpokenText="Comandante, agora que temos o Skulljack, devemos tentar us·-lo em um dos oficiais da ADVENT. Estou razoavelmente confiante de que funcionar· conforme o projetado."
+SpokenText="Comandante, agora que temos o Skulljack, devemos tentar us√°-lo em um dos oficiais da ADVENT. Estou razoavelmente confiante de que funcionar√° conforme o projetado."
 
 [S_Pre_Final_Mission_Broadcast_Tygan_01 AkEvent]
 SpokenText="Teoricamente."
 
 [S_Psi_Network_Tygan_01_GoldenPath AkEvent]
-SpokenText="Central, Comandante. Sim, acho o processo muito menos perturbador quando o sujeito j· est· morto. No entanto, os resultados... <suspiro> È melhor vocÍ ver por si mesmo."
+SpokenText="Central, Comandante. Sim, acho o processo muito menos perturbador quando o sujeito j√° est√° morto. No entanto, os resultados... <suspiro> √© melhor voc√™ ver por si mesmo."
 
 [S_Psi_Network_Tygan_02_GoldenPath AkEvent]
-SpokenText="Minha autÛpsia do Capit„o da ADVENT confirmou a existÍncia de um implante similar em design ‡ unidade que extraÌ de vocÍ, Comandante. Mas h· diferenÁas."
+SpokenText="Minha aut√≥psia do Capit√£o da ADVENT confirmou a exist√™ncia de um implante similar em design √† unidade que extra√≠ de voc√™, Comandante. Mas h√° diferen√ßas."
 
 [S_Psi_Network_Tygan_03_GoldenPath AkEvent]
-SpokenText="Os dados que vocÍ vÍ est„o sendo extraÌdos diretamente do implante deste Capit„o da ADVENT. Esta sequÍncia aqui È basicamente vocÍ, Comandante. Ou pelo menos as informaÁıes t·ticas que eles estavam processando atravÈs de sua mente. Como vocÍ pode ver, os dados s„o quase idÍnticos."
+SpokenText="Os dados que voc√™ v√™ est√£o sendo extra√≠dos diretamente do implante deste Capit√£o da ADVENT. Esta sequ√™ncia aqui √© basicamente voc√™, Comandante. Ou pelo menos as informa√ß√µes t√°ticas que eles estavam processando atrav√©s de sua mente. Como voc√™ pode ver, os dados s√£o quase id√™nticos."
 
 [S_Psi_Network_Tygan_04_GoldenPath AkEvent]
 SpokenText="Sim. No entanto..."
 
 [S_Psi_Network_Tygan_05_GoldenPath AkEvent]
-SpokenText="Os dados da ADVENT mostram sinais de deterioraÁ„o. Remover o Comandante de sua rede provavelmente causou danos significativos."
+SpokenText="Os dados da ADVENT mostram sinais de deteriora√ß√£o. Remover o Comandante de sua rede provavelmente causou danos significativos."
 
 [S_Psi_Network_Tygan_06_GoldenPath AkEvent]
-SpokenText="Sim, o que estamos vendo aqui È uma rede psÌquica. Esses implantes s„o capazes de receber e transmitir informaÁıes - uma grande quantidade de informaÁıes de alguma forma codificada em uma corrente de energia psÌquica."
+SpokenText="Sim, o que estamos vendo aqui √© uma rede ps√≠quica. Esses implantes s√£o capazes de receber e transmitir informa√ß√µes - uma grande quantidade de informa√ß√µes de alguma forma codificada em uma corrente de energia ps√≠quica."
 
 [S_Psi_Network_Tygan_07_GoldenPath AkEvent]
-SpokenText="Minha teoria de trabalho - a ADVENT usa essa rede para aumentar a prontid„o t·tica de suas tropas, bem como disseminar ordens de seu Comando Central. Observe..."
+SpokenText="Minha teoria de trabalho - a ADVENT usa essa rede para aumentar a prontid√£o t√°tica de suas tropas, bem como disseminar ordens de seu Comando Central. Observe..."
 
 [S_Psi_Network_Tygan_08_GoldenPath AkEvent]
 SpokenText
 
-="Mesmo nas condiÁıes diminuÌdas do sujeito, o implante continua tendo um efeito. Uma conquista verdadeiramente impressionante."
+="Mesmo nas condi√ß√µes diminu√≠das do sujeito, o implante continua tendo um efeito. Uma conquista verdadeiramente impressionante."
 
 [S_Psi_Network_Tygan_09_GoldenPath AkEvent]
-SpokenText="Potencialmente, mas eu precisaria de acesso direto ‡ rede deles para ter certeza."
+SpokenText="Potencialmente, mas eu precisaria de acesso direto √† rede deles para ter certeza."
 
 [S_Psi_Network_Tygan_10_GoldenPath AkEvent]
-SpokenText="PrecisarÌamos de uma conex„o ativa. E isso significaria hackear um oficial da ADVENT ativo no campo."
+SpokenText="Precisar√≠amos de uma conex√£o ativa. E isso significaria hackear um oficial da ADVENT ativo no campo."
 
 [S_Psi_Network_Tygan_11_GoldenPath AkEvent]
-SpokenText="Me dÍ acesso ‡ rede deles, e estou confiante de que valer· o risco."
+SpokenText="Me d√™ acesso √† rede deles, e estou confiante de que valer√° o risco."
 
 [S_Setup_Phase_ADVENT_Officer_Corpse_Recovered_Tygan AkEvent]
-SpokenText="Excelente, posso comeÁar a estudar o espÈcime recuperado quando vocÍ ordenar, Comandante."
+SpokenText="Excelente, posso come√ßar a estudar o esp√©cime recuperado quando voc√™ ordenar, Comandante."
 
 [S_Setup_Phase_First_Loot_Screen_Tygan AkEvent]
-SpokenText="Esses itens devem ser ˙teis em nossos esforÁos contÌnuos contra os alienÌgenas. Quando tiver um momento, Comandante, fiz algumas descobertas interessantes relacionadas ao implante que removemos de vocÍ anteriormente."
+SpokenText="Esses itens devem ser √∫teis em nossos esfor√ßos cont√≠nuos contra os alien√≠genas. Quando tiver um momento, Comandante, fiz algumas descobertas interessantes relacionadas ao implante que removemos de voc√™ anteriormente."
 
 [S_Setup_Phase_Geoscape_Build_Radio_Relays_To_Reduce_Costs_Tygan AkEvent]
-SpokenText="Comandante, com base em minha pesquisa em colaboraÁ„o com Shen, acredito que podemos reduzir os custos de Intel ao contatar regiıes adicionais construindo torres de retransmiss„o de r·dio ao longo de nossa rede. Quanto mais distante uma regi„o estiver de uma retransmiss„o, mais custar· em Intel, ent„o eu sugeriria construir retransmissores ao longo das bordas remotas de nossa rede existente. Acredito que a resistÍncia ficar· grata pela construÁ„o desses retransmissores, eles podem nos recompensar da mesma forma."
+SpokenText="Comandante, com base em minha pesquisa em colabora√ß√£o com Shen, acredito que podemos reduzir os custos de Intel ao contatar regi√µes adicionais construindo torres de retransmiss√£o de r√°dio ao longo de nossa rede. Quanto mais distante uma regi√£o estiver de uma retransmiss√£o, mais custar√° em Intel, ent√£o eu sugeriria construir retransmissores ao longo das bordas remotas de nossa rede existente. Acredito que a resist√™ncia ficar√° grata pela constru√ß√£o desses retransmissores, eles podem nos recompensar da mesma forma."
 
 [S_Setup_Phase_Research_In_Progress_Tygan AkEvent]
-SpokenText="Ol·, Comandante. O trabalho est· em andamento, mas levar· mais algum tempo atÈ que minha pesquisa esteja concluÌda."
+SpokenText="Ol√°, Comandante. O trabalho est√° em andamento, mas levar√° mais algum tempo at√© que minha pesquisa esteja conclu√≠da."
 
 [S_Setup_Phase_Study_The_Chip__Tygan AkEvent]
-SpokenText="Sob sua ordem, Comandante, comeÁarei a pesquisar o chip da ADVENT em busca de possÌveis informaÁıes sobre sua funÁ„o."
+SpokenText="Sob sua ordem, Comandante, come√ßarei a pesquisar o chip da ADVENT em busca de poss√≠veis informa√ß√µes sobre sua fun√ß√£o."
 
 [S_Shadow_Chamber_Tygan_01 AkEvent]
-SpokenText="Embora eu esteja impressionado com os avanÁos que fizemos na infiltraÁ„o na rede psÌquica alienÌgena, as profundezas de seu avanÁo tecnolÛgico continuam nos deixando um passo atr·s."
+SpokenText="Embora eu esteja impressionado com os avan√ßos que fizemos na infiltra√ß√£o na rede ps√≠quica alien√≠gena, as profundezas de seu avan√ßo tecnol√≥gico continuam nos deixando um passo atr√°s."
 
 [S_Shadow_Chamber_Tygan_02 AkEvent]
-SpokenText="No entanto, com as capacidades avanÁadas de decodificaÁ„o desta c‚mara, estou confiante de que encontraremos muito mais informaÁıes do que esper·vamos."
+SpokenText="No entanto, com as capacidades avan√ßadas de decodifica√ß√£o desta c√¢mara, estou confiante de que encontraremos muito mais informa√ß√µes do que esper√°vamos."
 
 [S_Support_Ambient_Musings_Misc_Tygan_01 AkEvent]
-SpokenText="Aparentemente, minha antecessora era um tanto bruta quando se tratava de interrogar e autopsiar sujeitos alienÌgenas. Pelo que ouvi, ela estava ansiosa para sujar as m„os sempre que possÌvel."
+SpokenText="Aparentemente, minha antecessora era um tanto bruta quando se tratava de interrogar e autopsiar sujeitos alien√≠genas. Pelo que ouvi, ela estava ansiosa para sujar as m√£os sempre que poss√≠vel."
 
 [S_Support_Avatar_Corpse_Recovered_Tygan AkEvent]
-SpokenText="Este espÈcime que recuperamos... mesmo em um estado incompleto, eu tenho que acreditar que este È o Avatar que est·vamos perseguindo. Devemos comeÁar uma autÛpsia o mais r·pido possÌvel, precisamos descobrir o que torna essa entidade t„o especial para os alienÌgenas."
+SpokenText="Este esp√©cime que recuperamos... mesmo em um estado incompleto, eu tenho que acreditar que este √© o Avatar que est√°vamos perseguindo. Devemos come√ßar uma aut√≥psia o mais r√°pido poss√≠vel, precisamos descobrir o que torna essa entidade t√£o especial para os alien√≠genas."
 
 [S_Support_First_PCS_Interface_Tygan AkEvent]
-SpokenText="Comandante, usando os programas de simulaÁ„o t·tica da ADVENT que recuperamos, podemos melhorar o desempenho de combate de nossos soldados no campo. No entanto, suas toler‚ncias variadas para a tÈcnica exigir„o que limitemos o n˙mero que atribuÌmos ao mesmo tempo."
+SpokenText="Comandante, usando os programas de simula√ß√£o t√°tica da ADVENT que recuperamos, podemos melhorar o desempenho de combate de nossos soldados no campo. No entanto, suas toler√¢ncias variadas para a t√©cnica exigir√£o que limitemos o n√∫mero que atribu√≠mos ao mesmo tempo."
 
 [S_Support_First_Tech_Changed_Tygan_01 AkEvent]
-SpokenText="Comandante, j· dedicamos recursos consider·veis ao projeto de pesquisa atual. No entanto, podemos passar para outra coisa se preferir."
+SpokenText="Comandante, j√° dedicamos recursos consider√°veis ao projeto de pesquisa atual. No entanto, podemos passar para outra coisa se preferir."
 
 [S_Support_First_Tech_Selected_Tygan_01 AkEvent]
-SpokenText="Acho aquela ·rea de pesquisa uma das opÁıes mais intrigantes disponÌveis. ComeÁaremos o trabalho imediatamente. Enviarei um relatÛrio completo quando estiver disponÌvel."
+SpokenText="Acho aquela √°rea de pesquisa uma das op√ß√µes mais intrigantes dispon√≠veis. Come√ßaremos o trabalho imediatamente. Enviarei um relat√≥rio completo quando estiver dispon√≠vel."
 
 [S_Support_Great_Mission_Tygan_01 AkEvent]
-SpokenText="Uma atuaÁ„o impressionante, Comandante. As habilidades de nossas tropas est„o melhorando a cada implantaÁ„o."
+SpokenText="Uma atua√ß√£o impressionante, Comandante. As habilidades de nossas tropas est√£o melhorando a cada implanta√ß√£o."
 
 [S_Support_Great_Mission_Tygan_02 AkEvent]
-SpokenText="Nenhuma baixa relatada, Comandante. Espero que todas as nossas missıes corram t„o bem."
+SpokenText="Nenhuma baixa relatada, Comandante. Espero que todas as nossas miss√µes corram t√£o bem."
 
 [S_Support_Great_Mission_Tygan_03 AkEvent]
-SpokenText="Eu esperava algo como uma curva de aprendizado para nossos novos recrutas - mas eles fizeram um trabalho not·vel, Comandante."
+SpokenText="Eu esperava algo como uma curva de aprendizado para nossos novos recrutas - mas eles fizeram um trabalho not√°vel, Comandante."
 
 [S_Support_Great_Mission_Tygan_04 AkEvent]
-SpokenText="Se cada miss„o for t„o tranquila assim, È apenas uma quest„o de tempo antes de recuperarmos o controle do planeta."
+SpokenText="Se cada miss√£o for t√£o tranquila assim, √© apenas uma quest√£o de tempo antes de recuperarmos o controle do planeta."
 
 [S_Support_Great_Mission_Tygan_05 AkEvent]
-SpokenText="Executado com os mais altos padrıes. Excelente trabalho, Comandante."
+SpokenText="Executado com os mais altos padr√µes. Excelente trabalho, Comandante."
 
 [S_Support_Great_Mission_Tygan_06 AkEvent]
-SpokenText="Estou feliz em ver que nossas tropas est„o encontrando sucesso no campo, isso È bom para o moral de toda a equipe."
+SpokenText="Estou feliz em ver que nossas tropas est√£o encontrando sucesso no campo, isso √© bom para o moral de toda a equipe."
 
 [S_Support_Great_Mission_Tygan_07 AkEvent]
 SpokenText="Nossas tropas continuam superando as expectativas, mesmo trabalhando com recursos limitados. Impressionante, Comandante."
 
 [S_Support_Great_Mission_Tygan_08 AkEvent]
-SpokenText="Estou realmente impressionado, Comandante, outro esforÁo heroico no campo."
+SpokenText="Estou realmente impressionado, Comandante, outro esfor√ßo heroico no campo."
 
 [S_Support_Great_Mission_Tygan_09 AkEvent]
-SpokenText="Excelente trabalho, Comandante. Seus esforÁos no campo certamente encorajaram a equipe."
+SpokenText="Excelente trabalho, Comandante. Seus esfor√ßos no campo certamente encorajaram a equipe."
 
 [S_Support_Great_Mission_Tygan_10 AkEvent]
-SpokenText="Sempre fico satisfeito quando as tropas retornam sem relatar baixas. N„o posso esperar por um resultado melhor."
+SpokenText="Sempre fico satisfeito quando as tropas retornam sem relatar baixas. N√£o posso esperar por um resultado melhor."
 
 [S_Support_Great_Mission_Tygan_11 AkEvent]
-SpokenText="Outro sucesso, alÈm de todas as expectativas. Estou continuamente impressionado, Comandante."
+SpokenText="Outro sucesso, al√©m de todas as expectativas. Estou continuamente impressionado, Comandante."
 
 [S_Support_More_Scientists_Tygan_01 AkEvent]
-SpokenText="Comandante, ‡ medida que desenvolvemos e implantamos rapidamente novas tecnologias avanÁadas, qualquer recruta que vocÍ encontrar com inclinaÁ„o para as ciÍncias seria de grande utilidade para mim."
+SpokenText="Comandante, √† medida que desenvolvemos e implantamos rapidamente novas tecnologias avan√ßadas, qualquer recruta que voc√™ encontrar com inclina√ß√£o para as ci√™ncias seria de grande utilidade para mim."
 
 [S_Support_Red_UI_Player_Not_Researching_Tygan AkEvent]
-SpokenText="Comandante, o laboratÛrio est· atualmente ocioso, estamos desperdiÁando tempo e recursos valiosos ao n„o conduzir nenhuma pesquisa. Por favor, considere nos dar uma diretiva o mais r·pido possÌvel."
+SpokenText="Comandante, o laborat√≥rio est√° atualmente ocioso, estamos desperdi√ßando tempo e recursos valiosos ao n√£o conduzir nenhuma pesquisa. Por favor, considere nos dar uma diretiva o mais r√°pido poss√≠vel."
 
 [S_Support_Reminder_Alien_Biotech_Tygan AkEvent]
-SpokenText="Comandante, se pretendemos descobrir o propÛsito do chip que extraÌmos de vocÍ, precisaremos realizar a pesquisa apropriada o mais r·pido possÌvel."
+SpokenText="Comandante, se pretendemos descobrir o prop√≥sito do chip que extra√≠mos de voc√™, precisaremos realizar a pesquisa apropriada o mais r√°pido poss√≠vel."
 
 [S_Support_Staffing_Investment_Tygan_01 AkEvent]
-SpokenText="Comandante, vocÍ deve saber que quaisquer cientistas que designarmos para uma determinada instalaÁ„o ter„o que cumprir um compromisso mÌnimo de tempo l· antes de poderem se mover para outro lugar."
+SpokenText="Comandante, voc√™ deve saber que quaisquer cientistas que designarmos para uma determinada instala√ß√£o ter√£o que cumprir um compromisso m√≠nimo de tempo l√° antes de poderem se mover para outro lugar."
 
 [S_Support_Tech_Changed_Tygan_01 AkEvent]
-SpokenText="Direcionarei nossos esforÁos para o novo projeto de pesquisa imediatamente, Comandante. Assim que fizermos progresso, eu enviarei uma mensagem."
+SpokenText="Direcionarei nossos esfor√ßos para o novo projeto de pesquisa imediatamente, Comandante. Assim que fizermos progresso, eu enviarei uma mensagem."
 
 [S_Support_Tech_Changed_Tygan_02 AkEvent]
-SpokenText="Posso entender por que vocÍ consideraria redirecionar nossos esforÁos, Comandante. Vamos comeÁar a trabalhar no novo projeto imediatamente."
+SpokenText="Posso entender por que voc√™ consideraria redirecionar nossos esfor√ßos, Comandante. Vamos come√ßar a trabalhar no novo projeto imediatamente."
 
 [S_Support_Tech_Changed_Tygan_03 AkEvent]
-SpokenText="Garantirei que este novo projeto tenha prioridade m·xima, Comandante. Assim que tivermos algo para relatar, eu o notificarei imediatamente."
+SpokenText="Garantirei que este novo projeto tenha prioridade m√°xima, Comandante. Assim que tivermos algo para relatar, eu o notificarei imediatamente."
 
 [S_Support_Tech_Selected_Tygan_01 AkEvent]
-SpokenText="Prevejo v·rias aplicaÁıes valiosas advindas desta tecnologia. Eu prepararei um relatÛrio assim que a pesquisa estiver concluÌda."
+SpokenText="Prevejo v√°rias aplica√ß√µes valiosas advindas desta tecnologia. Eu prepararei um relat√≥rio assim que a pesquisa estiver conclu√≠da."
 
 [S_Support_Tech_Selected_Tygan_02 AkEvent]
-SpokenText="Eu sabia que vocÍ daria prioridade a essa pesquisa, Comandante. Eu o notificarei assim que o relatÛrio estiver disponÌvel."
+SpokenText="Eu sabia que voc√™ daria prioridade a essa pesquisa, Comandante. Eu o notificarei assim que o relat√≥rio estiver dispon√≠vel."
 
 [S_Support_Tech_Selected_Tygan_03 AkEvent]
-SpokenText="Irei garantir que o trabalho comece imediatamente, Comandante. Entrarei em contato quando tiver um relatÛrio completo disponÌvel."
+SpokenText="Irei garantir que o trabalho comece imediatamente, Comandante. Entrarei em contato quando tiver um relat√≥rio completo dispon√≠vel."
 
 [S_Support_Tough_Mission_Tygan_01 AkEvent]
-SpokenText="Fiz o que pude para ajudar nossas tropas, mas obviamente n„o foi suficiente."
+SpokenText="Fiz o que pude para ajudar nossas tropas, mas obviamente n√£o foi suficiente."
 
 [S_Support_Tough_Mission_Tygan_02 AkEvent]
-SpokenText="Terei que trabalhar mais duro, considerar novas ·reas de pesquisa - n„o podemos deixar isso acontecer novamente."
+SpokenText="Terei que trabalhar mais duro, considerar novas √°reas de pesquisa - n√£o podemos deixar isso acontecer novamente."
 
 [S_Support_Tough_Mission_Tygan_03 AkEvent]
-SpokenText="N„o posso deixar de me sentir um pouco respons·vel, se ao menos houvesse mais que pudÈssemos fazer por nossas tropas."
+SpokenText="N√£o posso deixar de me sentir um pouco respons√°vel, se ao menos houvesse mais que pud√©ssemos fazer por nossas tropas."
 
 [S_Support_Tough_Mission_Tygan_04 AkEvent]
-SpokenText="Um resultado infeliz, Comandante. Teremos que redirecionar nossos esforÁos e trabalhar para evitar outras tragÈdias."
+SpokenText="Um resultado infeliz, Comandante. Teremos que redirecionar nossos esfor√ßos e trabalhar para evitar outras trag√©dias."
 
 [S_Support_Tough_Mission_Tygan_05 AkEvent]
-SpokenText="Todos tÌnhamos expectativas mais altas, e teremos que trabalhar mais para superar essa perda preocupante."
+SpokenText="Todos t√≠nhamos expectativas mais altas, e teremos que trabalhar mais para superar essa perda preocupante."
 
 [S_Support_Unstaffed_Scientist_Tygan AkEvent]
-SpokenText="Comandante, fui informado recentemente de que temos pelo menos um membro da equipe de ciÍncias aguardando uma atribuiÁ„o. Devemos designar nossa equipe de ciÍncias para as instalaÁıes para manter uma operaÁ„o eficiente."
+SpokenText="Comandante, fui informado recentemente de que temos pelo menos um membro da equipe de ci√™ncias aguardando uma atribui√ß√£o. Devemos designar nossa equipe de ci√™ncias para as instala√ß√µes para manter uma opera√ß√£o eficiente."
 
 [S_Tygan_Generic_ResearchComplete_A AkEvent]
-SpokenText="Tenho certeza de que vocÍ achar· os resultados t„o intrigantes quanto eu, Comandante."
+SpokenText="Tenho certeza de que voc√™ achar√° os resultados t√£o intrigantes quanto eu, Comandante."
 
 [S_Tygan_Generic_ResearchComplete_B AkEvent]
-SpokenText="N„o acho que eu poderia ter previsto esse resultado, embora seja intrigante."
+SpokenText="N√£o acho que eu poderia ter previsto esse resultado, embora seja intrigante."
 
 [S_Tygan_Generic_ResearchComplete_C AkEvent]
-SpokenText="O resultado dessa pesquisa sÛ pode impulsionar ainda mais nossos avanÁos, Comandante."
+SpokenText="O resultado dessa pesquisa s√≥ pode impulsionar ainda mais nossos avan√ßos, Comandante."
 
 [S_Tygan_Generic_ResearchComplete_D AkEvent]
-SpokenText="Essas descobertas provavelmente ser„o cruciais para nossos esforÁos contÌnuos, Comandante."
+SpokenText="Essas descobertas provavelmente ser√£o cruciais para nossos esfor√ßos cont√≠nuos, Comandante."
 
 [S_Tygan_Generic_ResearchComplete_E AkEvent]
-SpokenText="Fiz v·rias descobertas interessantes, Comandante."
+SpokenText="Fiz v√°rias descobertas interessantes, Comandante."
 
 [S_Tygan_Greeting_A AkEvent]
-SpokenText="Ol·, Comandante."
+SpokenText="Ol√°, Comandante."
 
 [S_Tygan_Greeting_B AkEvent]
-SpokenText="SaudaÁıes, Comandante."
+SpokenText="Sauda√ß√µes, Comandante."
 
 [S_Tygan_Greeting_C AkEvent]
 SpokenText="Comandante?"
@@ -640,112 +640,112 @@ SpokenText="Sim, Comandante?"
 SpokenText="Aguardando suas ordens, Comandante."
 
 [S_Tygan_Greeting_F AkEvent]
-SpokenText="Estou pronto para comeÁar a trabalhar, Comandante."
+SpokenText="Estou pronto para come√ßar a trabalhar, Comandante."
 
 [S_Tygan_New_Objective_AvatarAutopsy AkEvent]
-SpokenText="Agora estamos preparados para realizar a autÛpsia do corpo do poderoso ser que recuperamos, Comandante. Sinto que estamos prestes a obter uma compreens„o completa desse Avatar que tanto procuramos."
+SpokenText="Agora estamos preparados para realizar a aut√≥psia do corpo do poderoso ser que recuperamos, Comandante. Sinto que estamos prestes a obter uma compreens√£o completa desse Avatar que tanto procuramos."
 
 [S_Tygan_New_Objective_BlacksiteVial AkEvent]
-SpokenText="Estamos totalmente preparados para comeÁar nossa an·lise do material recuperado do Blacksite da ADVENT, Comandante."
+SpokenText="Estamos totalmente preparados para come√ßar nossa an√°lise do material recuperado do Blacksite da ADVENT, Comandante."
 
 [S_Tygan_New_Objective_BuildShadowChamber AkEvent]
-SpokenText="Tendo desenvolvido uma compreens„o maior dos mÈtodos de criptografia dos alienÌgenas, agora podemos construir uma instalaÁ„o projetada especificamente para analisar qualquer material que recuperamos relacionado ao projeto Avatar deles. Sugiro que comecemos imediatamente, Comandante."
+SpokenText="Tendo desenvolvido uma compreens√£o maior dos m√©todos de criptografia dos alien√≠genas, agora podemos construir uma instala√ß√£o projetada especificamente para analisar qualquer material que recuperamos relacionado ao projeto Avatar deles. Sugiro que comecemos imediatamente, Comandante."
 
 [S_Tygan_New_Objective_CodexBrain AkEvent]
-SpokenText="Com a C‚mara das Sombras totalmente operacional, podemos usar suas capacidades avanÁadas de decodificaÁ„o para analisar o artefato Codex recuperado por nossas forÁas."
+SpokenText="Com a C√¢mara das Sombras totalmente operacional, podemos usar suas capacidades avan√ßadas de decodifica√ß√£o para analisar o artefato Codex recuperado por nossas for√ßas."
 
 [S_Tygan_New_Objective_UpgradeShadowChamber AkEvent]
-SpokenText="Para analisar o portal psiÛnico alienÌgena que recuperamos, precisaremos fazer as modificaÁıes apropriadas na C‚mara das Sombras primeiro, Comandante."
+SpokenText="Para analisar o portal psi√≥nico alien√≠gena que recuperamos, precisaremos fazer as modifica√ß√µes apropriadas na C√¢mara das Sombras primeiro, Comandante."
 
 [S_Tygan_Research_InProgress_A AkEvent]
-SpokenText="Nosso trabalho est· progredindo conforme o esperado, Comandante."
+SpokenText="Nosso trabalho est√° progredindo conforme o esperado, Comandante."
 
 [S_Tygan_Research_InProgress_B AkEvent]
-SpokenText="O trabalho est· bem encaminhado, Comandante."
+SpokenText="O trabalho est√° bem encaminhado, Comandante."
 
 [S_Tygan_Research_InProgress_C AkEvent]
-SpokenText="A pesquisa est· progredindo como planejado, Comandante."
+SpokenText="A pesquisa est√° progredindo como planejado, Comandante."
 
 [S_Tygan_Research_InProgress_D AkEvent]
-SpokenText="Nossa pesquisa est· avanÁando conforme o esperado, Comandante."
+SpokenText="Nossa pesquisa est√° avan√ßando conforme o esperado, Comandante."
 
 [S_Tygan_Research_InProgress_E AkEvent]
 SpokenText="Ainda estou trabalhando duro na prioridade de pesquisa atual, Comandante."
 
 [S_Tygan_ThankYouForLab AkEvent]
-SpokenText="AgradeÁo as novas instalaÁıes do laboratÛrio, Comandante."
+SpokenText="Agrade√ßo as novas instala√ß√µes do laborat√≥rio, Comandante."
 
 [S_Victory_Tygan_01 AkEvent]
-SpokenText="S„o os Anci„os! Eles est„o sobrecarregando nossa ligaÁ„o... envolvendo a consciÍncia do Comandante!"
+SpokenText="S√£o os Anci√£os! Eles est√£o sobrecarregando nossa liga√ß√£o... envolvendo a consci√™ncia do Comandante!"
 
 [S_Victory_Tygan_02 AkEvent]
-SpokenText="Sinais vitais estabilizando. Atividade sin·ptica voltando a nÌveis aceit·veis."
+SpokenText="Sinais vitais estabilizando. Atividade sin√°ptica voltando a n√≠veis aceit√°veis."
 
 [S_Welcome_Lab_01_Tygan_01 AkEvent]
-SpokenText="Impressionante, n„o È? Capaz de gerar imensa energia, mas completamente inofensivo para a vida humana. Se ao menos o mesmo pudesse ser dito para o restante da tecnologia dos alienÌgenas, Comandante."
+SpokenText="Impressionante, n√£o √©? Capaz de gerar imensa energia, mas completamente inofensivo para a vida humana. Se ao menos o mesmo pudesse ser dito para o restante da tecnologia dos alien√≠genas, Comandante."
 
 [S_Welcome_Lab_01_Tygan_02 AkEvent]
-SpokenText="Dr. Richard Tygan, Chefe de CiÍncias. Sou respons·vel por toda a nossa pesquisa aqui, assim como pelo procedimento ao qual vocÍ foi submetido recentemente. Bem-vindo ao meu laboratÛrio, por mais modesto que seja."
+SpokenText="Dr. Richard Tygan, Chefe de Ci√™ncias. Sou respons√°vel por toda a nossa pesquisa aqui, assim como pelo procedimento ao qual voc√™ foi submetido recentemente. Bem-vindo ao meu laborat√≥rio, por mais modesto que seja."
 
 [S_Welcome_Lab_01_Tygan_03 AkEvent]
-SpokenText="N„o tenho certeza do que Central pode ter lhe dito, mas encontramos algo ao removÍ-lo do traje de estase alienÌgena."
+SpokenText="N√£o tenho certeza do que Central pode ter lhe dito, mas encontramos algo ao remov√™-lo do traje de estase alien√≠gena."
 
 [S_Welcome_Lab_01_Tygan_04 AkEvent]
-SpokenText="Um dispositivo implantado diretamente em seu lobo occipital. Se eu tivesse acesso ao equipamento disponÌvel durante minha estadia na ADVENT, j· saberia a natureza exata de sua funÁ„o. No entanto, com o tempo e sua aprovaÁ„o, Comandante, tenho certeza de que descobrirei."
+SpokenText="Um dispositivo implantado diretamente em seu lobo occipital. Se eu tivesse acesso ao equipamento dispon√≠vel durante minha estadia na ADVENT, j√° saberia a natureza exata de sua fun√ß√£o. No entanto, com o tempo e sua aprova√ß√£o, Comandante, tenho certeza de que descobrirei."
 
 [S_Welcome_Lab_01_Tygan_05 AkEvent]
-SpokenText="O que nos leva a outro ponto, Comandante. Embora alguns aspectos desta instalaÁ„o sejam realmente impressionantes, sou apenas um homem. Se vocÍ direcionar pessoal de apoio adicional e recursos para mim, eu poderia melhorar substancialmente a velocidade de toda a nossa pesquisa. AtÈ logo, Comandante."
+SpokenText="O que nos leva a outro ponto, Comandante. Embora alguns aspectos desta instala√ß√£o sejam realmente impressionantes, sou apenas um homem. Se voc√™ direcionar pessoal de apoio adicional e recursos para mim, eu poderia melhorar substancialmente a velocidade de toda a nossa pesquisa. At√© logo, Comandante."
 
 [S_Welcome_Lab_02_Tygan_01 AkEvent]
-SpokenText="Tanto da minha prÛpria pesquisa baseado nesse simples design. Se ao menos eu soubesse."
+SpokenText="Tanto da minha pr√≥pria pesquisa baseado nesse simples design. Se ao menos eu soubesse."
 
 [S_Welcome_Lab_02_Tygan_02 AkEvent]
 SpokenText="Ah, Comandante. Excelente timing. Houve algum progresso."
 
 [S_Welcome_Lab_02_Tygan_03 AkEvent]
-SpokenText="Consegui desmembrar v·rios componentes-chave do "chip" implantado em seu cr‚nio. Minha an·lise revela que sua funÁ„o prim·ria era a de um condutor, transmitindo uma vasta quantidade de dados diretamente para o seu cÛrtex cerebral."
+SpokenText="Consegui desmembrar v√°rios componentes-chave do "chip" implantado em seu cr√¢nio. Minha an√°lise revela que sua fun√ß√£o prim√°ria era a de um condutor, transmitindo uma vasta quantidade de dados diretamente para o seu c√≥rtex cerebral."
 
 [S_Welcome_Lab_02_Tygan_04 AkEvent]
-SpokenText="Com a conex„o principal interrompida, muitos desses dados foram perdidos. No entanto, alguns fragmentos permanecem."Fantasmas", se preferir. Observe."
+SpokenText="Com a conex√£o principal interrompida, muitos desses dados foram perdidos. No entanto, alguns fragmentos permanecem."Fantasmas", se preferir. Observe."
 
 [S_Welcome_Lab_02_Tygan_05 AkEvent]
-SpokenText="SimulaÁıes t·ticas de combate. Jogos de guerra. A quantidade de encontros que vocÍ estava processando era impressionante. … verdadeiramente not·vel que vocÍ tenha sobrevivido por tanto tempo."
+SpokenText="Simula√ß√µes t√°ticas de combate. Jogos de guerra. A quantidade de encontros que voc√™ estava processando era impressionante. √â verdadeiramente not√°vel que voc√™ tenha sobrevivido por tanto tempo."
 
 [S_Welcome_Lab_02_Tygan_06 AkEvent]
-SpokenText="Embora isso possa ser desconcertante, h· algumas "boas notÌcias". Este "chip" tem uma semelhanÁa impressionante com um implante "mÈdico" que eu estava brevemente envolvido na pesquisa durante minha estadia na ADVENT."
+SpokenText="Embora isso possa ser desconcertante, h√° algumas "boas not√≠cias". Este "chip" tem uma semelhan√ßa impressionante com um implante "m√©dico" que eu estava brevemente envolvido na pesquisa durante minha estadia na ADVENT."
 
 [S_Welcome_Lab_02_Tygan_07 AkEvent]
-SpokenText="Minha compreens„o era de que os implantes eram destinados apenas a oficiais da ADVENT de alta patente. Capit„es ou superiores. Recuperar um "chip" de um desses oficiais seria a ˙nica maneira de saber com certeza. Uma compreens„o mais profunda de como esses implantes beneficiam o inimigo, sem d˙vida, ser· de grande utilidade daqui para frente, Comandante."
+SpokenText="Minha compreens√£o era de que os implantes eram destinados apenas a oficiais da ADVENT de alta patente. Capit√£es ou superiores. Recuperar um "chip" de um desses oficiais seria a √∫nica maneira de saber com certeza. Uma compreens√£o mais profunda de como esses implantes beneficiam o inimigo, sem d√∫vida, ser√° de grande utilidade daqui para frente, Comandante."
 
 [S_Welcome_Lab_Tygan_01_Setup_Phase AkEvent]
-SpokenText="...impossÌvel. Espelha o trabalho nas respostas imunossupressoras que eu estava fazendo antes do Acordo."
+SpokenText="...imposs√≠vel. Espelha o trabalho nas respostas imunossupressoras que eu estava fazendo antes do Acordo."
 
 [S_Welcome_Lab_Tygan_02_Setup_Phase AkEvent]
-SpokenText="Ah, Comandante. Excelente timing. H· algo que devemos discutir."
+SpokenText="Ah, Comandante. Excelente timing. H√° algo que devemos discutir."
 
 [S_Welcome_Lab_Tygan_03_Setup_Phase AkEvent]
-SpokenText="Ah, sim - suponho que as apresentaÁıes s„o necess·rias. Dr. Richard Tygan, Chefe de CiÍncias. Sou respons·vel pelo "procedimento" ao qual vocÍ foi submetido recentemente. Bem-vindo ao meu laboratÛrio, por mais modesto que seja."
+SpokenText="Ah, sim - suponho que as apresenta√ß√µes s√£o necess√°rias. Dr. Richard Tygan, Chefe de Ci√™ncias. Sou respons√°vel pelo "procedimento" ao qual voc√™ foi submetido recentemente. Bem-vindo ao meu laborat√≥rio, por mais modesto que seja."
 
 [S_Welcome_Lab_Tygan_04_Setup_Phase AkEvent]
-SpokenText="N„o tenho certeza do que Central pode ter lhe dito, mas encontramos algo ao removÍ-lo do traje de estase alienÌgena."
+SpokenText="N√£o tenho certeza do que Central pode ter lhe dito, mas encontramos algo ao remov√™-lo do traje de estase alien√≠gena."
 
 [S_Welcome_Lab_Tygan_05_Setup_Phase AkEvent]
 SpokenText="Este dispositivo foi implantado diretamente em seu lobo occ
 
-ipital. Embora eu n„o saiba a natureza exata de sua funÁ„o, uma coisa eu sei..."
+ipital. Embora eu n√£o saiba a natureza exata de sua fun√ß√£o, uma coisa eu sei..."
 
 [S_Welcome_Lab_Tygan_06_Setup_Phase AkEvent]
-SpokenText="De alguma forma, ele estava transmitindo uma vasta quantidade de dados diretamente para o seu cÛrtex cerebral. Consegui reconstruir alguns fragmentos, mas... talvez seja melhor que vocÍ veja por si mesmo."
+SpokenText="De alguma forma, ele estava transmitindo uma vasta quantidade de dados diretamente para o seu c√≥rtex cerebral. Consegui reconstruir alguns fragmentos, mas... talvez seja melhor que voc√™ veja por si mesmo."
 
 [S_Welcome_Lab_Tygan_07_Setup_Phase AkEvent]
-SpokenText="Estas s„o simulaÁıes t·ticas de combate... Jogos de guerra. A quantidade de encontros que vocÍ estava processando era impressionante. … not·vel que vocÍ tenha sobrevivido por tanto tempo."
+SpokenText="Estas s√£o simula√ß√µes t√°ticas de combate... Jogos de guerra. A quantidade de encontros que voc√™ estava processando era impressionante. √â not√°vel que voc√™ tenha sobrevivido por tanto tempo."
 
 [S_Welcome_Lab_Tygan_08_Setup_Phase AkEvent]
-SpokenText="Eu imagino que isso possa ser desconcertante para vocÍ, mas h· algumas "boas notÌcias". O dispositivo que removi tem uma semelhanÁa impressionante com um implante "mÈdico" no qual estive brevemente envolvido em pesquisa durante minha estadia na ADVENT."
+SpokenText="Eu imagino que isso possa ser desconcertante para voc√™, mas h√° algumas "boas not√≠cias". O dispositivo que removi tem uma semelhan√ßa impressionante com um implante "m√©dico" no qual estive brevemente envolvido em pesquisa durante minha estadia na ADVENT."
 
 [S_Welcome_Lab_Tygan_09_Setup_Phase AkEvent]
-SpokenText="Embora minha exposiÁ„o tenha sido limitada, pelo que entendi, os implantes eram destinados apenas a oficiais da ADVENT de alta patente. Se nossas tropas pudessem "recuperar" um deles no campo, eu poderia aprender mais. Uma compreens„o maior de como esses implantes beneficiam o inimigo, sem d˙vida, ser· de grande utilidade para o futuro."
+SpokenText="Embora minha exposi√ß√£o tenha sido limitada, pelo que entendi, os implantes eram destinados apenas a oficiais da ADVENT de alta patente. Se nossas tropas pudessem "recuperar" um deles no campo, eu poderia aprender mais. Uma compreens√£o maior de como esses implantes beneficiam o inimigo, sem d√∫vida, ser√° de grande utilidade para o futuro."
 
 [S_Welcome_Lab_Tygan_10_Setup_Phase AkEvent]
-SpokenText="Ah, e Comandante? Embora esta instalaÁ„o seja adequada para nossas necessidades atuais, sou apenas um homem. Se vocÍ direcionar algum pessoal de apoio adicional e equipamentos para mim, eu poderia melhorar substancialmente a velocidade de nossa pesquisa. AtÈ logo, Comandante."
+SpokenText="Ah, e Comandante? Embora esta instala√ß√£o seja adequada para nossas necessidades atuais, sou apenas um homem. Se voc√™ direcionar algum pessoal de apoio adicional e equipamentos para mim, eu poderia melhorar substancialmente a velocidade de nossa pesquisa. At√© logo, Comandante."
 

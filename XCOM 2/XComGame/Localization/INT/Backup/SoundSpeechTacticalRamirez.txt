@@ -1,11 +1,11 @@
-[T_Setup_Phase_Combat_Tutorial_Ramirez_10 AkEvent]
+ï»¿[T_Setup_Phase_Combat_Tutorial_Ramirez_10 AkEvent]
 SpokenText="Em movimento."
 
 [T_Setup_Phase_Combat_Tutorial_Ramirez_25 AkEvent]
 SpokenText="Sem problema!"
 
 [T_Setup_Phase_Combat_Tutorial_Ramirez_26 AkEvent]
-SpokenText="Você ainda está contando os pontos, né?"
+SpokenText="VocÃª ainda estÃ¡ contando os pontos, nÃ©?"
 
 [T_Tutorial_Ramirez_Concealed AkEvent]
 SpokenText="Fora de vista."
@@ -26,7 +26,7 @@ SpokenText="Pronto para seguir."
 SpokenText="Fazendo isso."
 
 [T_Tutorial_Ramirez_Confirmations_6 AkEvent]
-SpokenText="Não precisa pedir duas vezes."
+SpokenText="NÃ£o precisa pedir duas vezes."
 
 [T_Tutorial_Ramirez_Confirmations_7 AkEvent]
 SpokenText="Afirmativo."

@@ -1,11 +1,11 @@
-[FB04_en_us_EvacAllDead_00 AkEvent]
-SpokenText="Eles se foram, Comandante. … hora de partir."
+Ôªø[FB04_en_us_EvacAllDead_00 AkEvent]
+SpokenText="Eles se foram, Comandante. √â hora de partir."
 
 [FB04_en_us_EvacAllDead_01 AkEvent]
-SpokenText="Avenger, aqui È Firebrand. Todos os agentes do XCOM est„o mortos ou desaparecidos. Estou voltando ‡ base."
+SpokenText="Avenger, aqui √© Firebrand. Todos os agentes do XCOM est√£o mortos ou desaparecidos. Estou voltando √† base."
 
 [FB04_en_us_EvacAllDead_02 AkEvent]
-SpokenText="N„o h· mais ninguÈm para evacuar; estou voltando para casa."
+SpokenText="N√£o h√° mais ningu√©m para evacuar; estou voltando para casa."
 
 [FB04_en_us_EvacAllDead_03 AkEvent]
 SpokenText="Menace sofreu pesadas baixas; estamos recuando."
@@ -14,31 +14,31 @@ SpokenText="Menace sofreu pesadas baixas; estamos recuando."
 SpokenText="As coisas deram errado; estou voltando sozinho."
 
 [FB04_en_us_EvacAllDead_05 AkEvent]
-SpokenText="O esquadr„o est· abatido; estamos recuando."
+SpokenText="O esquadr√£o est√° abatido; estamos recuando."
 
 [FB04_en_us_EvacAllOut_00 AkEvent]
 SpokenText="Menace seguro e a salvo; estamos indo embora."
 
 [FB04_en_us_EvacAllOut_02 AkEvent]
-SpokenText="Esquadr„o seguro; decolando."
+SpokenText="Esquadr√£o seguro; decolando."
 
 [FB04_en_us_EvacAllOut_03 AkEvent]
-SpokenText="NÛs os pegamos; indo para casa."
+SpokenText="N√≥s os pegamos; indo para casa."
 
 [FB04_en_us_EvacAllOut_04 AkEvent]
-SpokenText="Todos est„o a bordo; trazendo-os para casa."
+SpokenText="Todos est√£o a bordo; trazendo-os para casa."
 
 [FB04_en_us_EvacAllOut_05 AkEvent]
-SpokenText="Todos est„o aqui; estaremos em casa rapidinho."
+SpokenText="Todos est√£o aqui; estaremos em casa rapidinho."
 
 [FB04_en_us_EvacSomeOut_00 AkEvent]
 SpokenText="Eu tenho os que conseguiram sair; decolando."
 
 [FB04_en_us_EvacSomeOut_02 AkEvent]
-SpokenText="NÛs conseguimos todos que puderam sair; partindo."
+SpokenText="N√≥s conseguimos todos que puderam sair; partindo."
 
 [FB04_en_us_EvacSomeOut_03 AkEvent]
-SpokenText="Perdemos alguns no caminho; o resto est· voltando para casa."
+SpokenText="Perdemos alguns no caminho; o resto est√° voltando para casa."
 
 [FB04_en_us_EvacSomeOut_04 AkEvent]
 SpokenText="Menace levou alguns golpes; estou trazendo-os."
@@ -47,52 +47,52 @@ SpokenText="Menace levou alguns golpes; estou trazendo-os."
 SpokenText="Nem todos conseguiram; tenho aqueles que conseguiram."
 
 [FB04_en_us_InDropPosition_00 AkEvent]
-SpokenText="Esquadr„o pronto para implantaÁ„o!"
+SpokenText="Esquadr√£o pronto para implanta√ß√£o!"
 
 [FB04_en_us_InDropPosition_01 AkEvent]
-SpokenText="Em posiÁ„o para aterrissar!"
+SpokenText="Em posi√ß√£o para aterrissar!"
 
 [FB04_en_us_InDropPosition_02 AkEvent]
-SpokenText="Menace pronto para implantaÁ„o."
+SpokenText="Menace pronto para implanta√ß√£o."
 
 [FB04_en_us_InDropPosition_03 AkEvent]
-SpokenText="Estamos no t˙nel, tudo tranquilo."
+SpokenText="Estamos no t√∫nel, tudo tranquilo."
 
 [FB04_en_us_InDropPosition_04 AkEvent]
-SpokenText="Em posiÁ„o para implantaÁ„o."
+SpokenText="Em posi√ß√£o para implanta√ß√£o."
 
 [SKY_ExtrGEN_STObjSecured AkEvent]
-SpokenText="Aqui È Firebrand, o VIP est· seguro."
+SpokenText="Aqui √© Firebrand, o VIP est√° seguro."
 
 [SKY_Gen_EvacRequested_01 AkEvent]
-SpokenText="Aqui È Firebrand, confirmaÁ„o do pedido de evac, estamos a caminho."
+SpokenText="Aqui √© Firebrand, confirma√ß√£o do pedido de evac, estamos a caminho."
 
 [SKY_Gen_EvacRequested_02 AkEvent]
-SpokenText="Aqui È Firebrand, confirmaÁ„o do pedido de evac, aguentem firme."
+SpokenText="Aqui √© Firebrand, confirma√ß√£o do pedido de evac, aguentem firme."
 
 [SKY_Gen_FullEVAC_01 AkEvent]
-SpokenText="Todos os agentes do XCOM est„o seguros. Firebrand est· retornando ‡ base."
+SpokenText="Todos os agentes do XCOM est√£o seguros. Firebrand est√° retornando √† base."
 
 [SKY_Gen_PartialEVAC_01 AkEvent]
-SpokenText="Todos os agentes do XCOM sobreviventes est„o seguros. Firebrand est· retornando ‡ base."
+SpokenText="Todos os agentes do XCOM sobreviventes est√£o seguros. Firebrand est√° retornando √† base."
 
 [SKY_Gen_SquadWipe_02 AkEvent]
-SpokenText="Avenger, aqui È Firebrand. Todos os agentes do XCOM est„o mortos ou desaparecidos. Estou retornando ‡ base."
+SpokenText="Avenger, aqui √© Firebrand. Todos os agentes do XCOM est√£o mortos ou desaparecidos. Estou retornando √† base."
 
 [SKY_Gen_SquadWipe_03 AkEvent]
-SpokenText="Avenger, todos os agentes do XCOM est„o mortos ou desaparecidos. Estou retornando ‡ base."
+SpokenText="Avenger, todos os agentes do XCOM est√£o mortos ou desaparecidos. Estou retornando √† base."
 
 [SKY_Neut_TargetCaptured AkEvent]
-SpokenText="Aqui È Firebrand, o alvo foi assegurado."
+SpokenText="Aqui √© Firebrand, o alvo foi assegurado."
 
 [SKY_RecoGEN_ItemSecured AkEvent]
-SpokenText="Avenger, aqui È Firebrand. O pacote est· seguro."
+SpokenText="Avenger, aqui √© Firebrand. O pacote est√° seguro."
 
 [T_Broadcast_Flyover_Firebrand_P1 AkEvent]
-SpokenText="Firebrand em posiÁ„o para aterrissar."
+SpokenText="Firebrand em posi√ß√£o para aterrissar."
 
 [T_Psi_Gate_Retreival_Firebrand AkEvent]
-SpokenText="Aproximando-se do pacote. Eles n„o v„o acreditar no que estou trazendo..."
+SpokenText="Aproximando-se do pacote. Eles n√£o v√£o acreditar no que estou trazendo..."
 
 [T_Setup_Phase_Flight_Device_Retrieval AkEvent]
-SpokenText="Em posiÁ„o. Pacote ‡ vista."
+SpokenText="Em posi√ß√£o. Pacote √† vista."
