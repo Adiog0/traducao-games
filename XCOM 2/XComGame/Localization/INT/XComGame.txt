@@ -12149,7 +12149,7 @@ POIImages[0]="img:///UILibrary_StrategyImages.X2StrategyMap.POI_OvergrownCity"
 m_sNewGame=NOVO JOGO
 m_sMultiplayer=MULTIJOGADOR
 m_sExitToDesktop=SAIR PARA O DESKTOP
-m_sCharacterPool=POÇO DE PERSONAGENS
+m_sCharacterPool=LISTA DE PERSONAGENS
 
 [UIOptionsShell]
 m_sAutoSaveOptionText=Ativar Salvamento Automático
