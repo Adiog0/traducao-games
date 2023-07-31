@@ -9564,7 +9564,7 @@ m_strCustomizeSoldierDesc=Modifique o nome, aparência, personalidade e nacional
 
 [UIArmory_Loadout]
 m_strInventoryTitle=INVENTÁRIO
-m_strLockerTitle=SELECIONAR XGParam:StrValue0/!InventorySlotName/
+m_strLockerTitle=SELECIONAR <XGParam:StrValue0/!InventorySlotName/>
 m_strInventoryLabels[eInvSlot_Armor]=ARMADURA
 m_strInventoryLabels[eInvSlot_PrimaryWeapon]=ARMA PRINCIPAL
 m_strInventoryLabels[eInvSlot_SecondaryWeapon]=ARMA SECUNDÁRIA
@@ -9573,10 +9573,10 @@ m_strInventoryLabels[eInvSlot_Utility]=ITEM DE UTILIDADE
 m_strInventoryLabels[eInvSlot_GrenadePocket]=GRANADA
 m_strInventoryLabels[eInvSlot_CombatSim]=SIM DE COMBATE
 m_strInventoryLabels[eInvSlot_AmmoPocket]=TIPO DE MUNIÇÃO
-m_strNeedsSoldierClass=SOMENTE PARA XGParam:StrValue0/!SoldierClassName/
-m_strUnavailableToClass/=>INDISPONÍVEL PARA XGParam:StrValue0/!SoldierClassName/
-m_strAmmoIncompatible=MUNIÇÃO NÃO COMPATÍVEL COM XGParam:StrValue0/!WeaponName/
-m_strCategoryRestricted=MÁX. 1 ITEM DE XGParam:StrValue0/!ItemCategory/ POR SOLDADO
+m_strNeedsSoldierClass=SOMENTE PARA <XGParam:StrValue0/!SoldierClassName/>
+m_strUnavailableToClass/=>INDISPONÍVEL PARA <XGParam:StrValue0/!SoldierClassName/>
+m_strAmmoIncompatible=MUNIÇÃO NÃO COMPATÍVEL COM <XGParam:StrValue0/!WeaponName/>
+m_strCategoryRestricted=MÁX. 1 ITEM DE <XGParam:StrValue0/!ItemCategory/> POR SOLDADO
 m_strMissingAllowedClass=CLASSE PERMITIDA AUSENTE
 m_strCannotEdit=NÃO É POSSÍVEL EDITAR
 
@@ -9603,7 +9603,7 @@ m_strDropItem=DESCARTAR ITEM
 m_strAvailableLabel=DISPONÍVEL
 m_strAvailableDescription=Selecionar para instalar PCS.
 m_strLockedLabel=TRAVADO
-m_strLockedDescription=Desbloqueia no Nível XGParam:StrValue0/!ClassRankName/.
+m_strLockedDescription=Desbloqueia no Nível <XGParam:StrValue0/!ClassRankName/>.
 
 [UIArmory_Promotion]
 m_strSelectAbility=SELECIONAR HABILIDADE:
@@ -9669,7 +9669,7 @@ m_strCustomizeNickName=DEFINIR APELIDO
 
 [UIArmory_WeaponUpgrade]
 m_strTitle=UPGRADE DE ARMA
-m_strUpgradeWeapon=UPGRADE DE XGParam:StrValue0/!WeaponName/
+m_strUpgradeWeapon=UPGRADE DE <XGParam:StrValue0/!WeaponName/>
 m_strEmptySlot=SLOT DISPONÍVEL
 m_strSelectUpgrade=SELECIONAR UPGRADE
 m_strSlotsAvailable=SLOTS DISPONÍVEIS
@@ -9686,7 +9686,7 @@ m_strUpgradeAvailable=UPGRADE DISPONÍVEL
 m_strNoUpgradeAvailable=NENHUM UPGRADE DISPONÍVEL
 m_strWeaponNotEquipped=NÃO EQUIPADO
 m_strWeaponEquippedOn=EQUIPADO EM
-m_strCustomizeWeaponTitle=CUSTOMIZAR XGParam:StrValue0/!WeaponName/
+m_strCustomizeWeaponTitle=CUSTOMIZAR <XGParam:StrValue0/!WeaponName/>
 m_strCustomizeWeaponName=Nome da Arma
 m_strRotateNavHelp=RODAR
 m_strTabNavHelp=BROWSE SOLDIERS
@@ -10225,14 +10225,14 @@ m_strLocked=MISSÃO BLOQUEADA!
 m_strGOpsTitle=OPERAÇÕES DE GUERRILHA
 m_strGOpsSites=LOCAIS-ALVO
 m_strGOpsSite=LOCAL-ALVO
-m_strGOPUnlockHelp=Uma operação bem-sucedida de Guerrilha em XGParam:StrValue0/!WorldRegionName/ tornará a Resistência local disponível para contato!
+m_strGOPUnlockHelp=Uma operação bem-sucedida de Guerrilha em <XGParam:StrValue0/!WorldRegionName/> tornará a Resistência local disponível para contato!
 m_strDarkEventLabel=COUNTERS EVENTO SOMBRIO
 
 [[UIMission_SupplyRaid]
 m_strSupplyMission=RAIDE DE SUPRIMENTOS
 m_strBuyRaid=COMPRAR
 m_strLockedHelp=Esta missão está bloqueada no momento. Depois de pagar ao Mercado Negro, eles nos darão as informações necessárias para atacar as linhas de suprimentos da ADVENT.
-m_strRaidDesc=A ADVENT está transportando valiosa tecnologia alienígena por XGParam:StrValue0/!WorldRegionName/. Se atacarmos rapidamente, podemos recuperar a tecnologia alienígena para nossos próprios propósitos.
+m_strRaidDesc=A ADVENT está transportando valiosa tecnologia alienígena por <XGParam:StrValue0/!WorldRegionName/>. Se atacarmos rapidamente, podemos recuperar a tecnologia alienígena para nossos próprios propósitos.
 m_strSupplyRaidGreeble=TRANSMISSÃO SEGURA
 m_strSupplyRaidTitleGreeble=INTEL CONFIDENCIAL
 
@@ -10240,7 +10240,7 @@ m_strSupplyRaidTitleGreeble=INTEL CONFIDENCIAL
 m_strLandedUFOMission=OVNI POUSADO
 m_strBuyMission=COMPRAR
 m_strLockedHelp=Esta missão está bloqueada no momento. Depois de pagar ao Mercado Negro, eles nos darão as informações necessárias para atacar esse OVNI vulnerável.
-m_strMissionDesc=A Resistência localizou um OVNI escondido em XGParam:StrValue0/!WorldRegionName/. Devemos atacar agora, enquanto ele está no solo e vulnerável!
+m_strMissionDesc=A Resistência localizou um OVNI escondido em <XGParam:StrValue0/!WorldRegionName/>. Devemos atacar agora, enquanto ele está no solo e vulnerável!
 m_strLandedUFOGreeble=TRANSMISSÃO SEGURA
 m_strLandedUFOTitleGreeble=INTEL CONFIDENCIAL
 
@@ -10251,7 +10251,7 @@ m_strImageGreeble=TRANSMISSÃO SEGURA
 [UIMission_Retaliation]
 m_strRetaliationMission=RETALIAÇÃO
 m_strRetaliationWarning=AVISO
-m_strRetaliationDesc=A ADVENT está atacando um dos Refúgios da Resistência em XGParam:StrValue0/!WorldRegionName/! Devemos responder rapidamente para evitar mais vítimas civis!
+m_strRetaliationDesc=A ADVENT está atacando um dos Refúgios da Resistência em <XGParam:StrValue0/!WorldRegionName/>! Devemos responder rapidamente para evitar mais vítimas civis!
 
 [UIMission_AlienFacility]
 m_strFacilityMission=INSTALAÇÃO ALIENÍGENA
