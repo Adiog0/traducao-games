@@ -2526,18 +2526,18 @@ m_strUnlimitedLabel="ILIMITADO"
 
 [XComHQPresentationLayer]
 m_strPsiPromoteDialogTitle="PROMOVER SOLDADO DOTADO"
-m_strPsiPromoteDialogText="<XGParam:StrValue0/!NomeSoldado/> possui habilidades psíquicas. Eles podem ser treinados para se tornarem um Operativo Psi no Laboratório Psi. Deseja treinar este soldado para se tornar um Operativo Psi agora?\n\nNOTA: Se você selecionar 'Sim', este soldado será transferido para um Laboratório Psi para começar o treinamento imediatamente. Se você selecionar 'Não', poderá promover este soldado como de costume. Você pode treinar este soldado para se tornar um Operativo Psi a qualquer momento visitando o Laboratório Psi."
+m_strPsiPromoteDialogText="<XGParam:StrValue0/!SoldierName/> possui habilidades psíquicas. Eles podem ser treinados para se tornarem um Operativo Psi no Laboratório Psi. Deseja treinar este soldado para se tornar um Operativo Psi agora?\n\nNOTA: Se você selecionar 'Sim', este soldado será transferido para um Laboratório Psi para começar o treinamento imediatamente. Se você selecionar 'Não', poderá promover este soldado como de costume. Você pode treinar este soldado para se tornar um Operativo Psi a qualquer momento visitando o Laboratório Psi."
 m_strPsiPromoteNoSpaceDialogTitle="LABORATÓRIOS PSI LOTADOS"
-m_strPsiPromoteNoSpaceDialogText="<XGParam:StrValue0/!NomeUnidade/> possui habilidades psíquicas. Eles podem ser treinados para se tornarem um Operativo Psi no Laboratório Psi. Infelizmente, nossos Laboratórios Psi estão com capacidade máxima e não podem aceitar mais treinados. Você pode treinar este soldado para se tornar um Operativo Psi assim que uma vaga abrir em nossos Laboratórios Psi."
+m_strPsiPromoteNoSpaceDialogText="<XGParam:StrValue0/!UnitName/> possui habilidades psíquicas. Eles podem ser treinados para se tornarem um Operativo Psi no Laboratório Psi. Infelizmente, nossos Laboratórios Psi estão com capacidade máxima e não podem aceitar mais treinados. Você pode treinar este soldado para se tornar um Operativo Psi assim que uma vaga abrir em nossos Laboratórios Psi."
 m_strResearchReportTitle="RELATÓRIO DE PESQUISA"
 m_strResearchCodenameLabel="Codinome:"
 m_strNewResearchLabel="NOVA PESQUISA DISPONÍVEL:"
 m_strNewItemsLabel="NOVOS ITENS DISPONÍVEIS:"
 m_strNewFacilitiesLabel="NOVAS INSTALAÇÕES DISPONÍVEIS:"
 m_strPauseShadowProjectLabel="PAUSAR PROJETO SOMBRA?"
-m_strPauseShadowProjectText="Todo o progresso no <XGParam:StrValue0/!NomeProjetoSombra/> será salvo."
+m_strPauseShadowProjectText="Todo o progresso no <XGParam:StrValue0/!ShadowProjectName/> será salvo."
 m_strShadowProjectInProgressLabel="PROJETO SOMBRA EM PROGRESSO"
-m_strShadowProjectInProgressText="Todos os recursos científicos estão dedicados ao projeto <XGParam:StrValue0/!NomeProjetoSombra/>, portanto, nenhuma nova pesquisa pode ser iniciada neste momento."
+m_strShadowProjectInProgressText="Todos os recursos científicos estão dedicados ao projeto <XGParam:StrValue0/!ShadowProjectName/>, portanto, nenhuma nova pesquisa pode ser iniciada neste momento."
 m_strRoomLockedLabel="EXCAVAÇÃO NECESSÁRIA"
 m_strRoomLockedText="Esta sala está atualmente cercada por obstáculos e não pode ser acessada. Limpe uma sala adjacente para desbloqueá-la."
 
@@ -2558,13 +2558,13 @@ m_strExtractWithAllSoldiers="Todos os soldados estão dentro da zona de extraç�
 m_strExtractAccept="EXTRAIR UNIDADES"
 m_strAbortCancel="CONTINUAR MISSÃO"
 m_strSuppressed="Suprimido!"
-m_strItemDestroyed="<XGParam:StrValue0/!NomeItem/> destruído na explosão!"
-m_strItemExplodeFragments="<XGParam:StrValue0/!NomeItem/> explode em fragmentos!"
-m_strArmorExplodeFragments="<XGParam:StrValue0/!NomeItem/> armadura explode em fragmentos!"
-m_strUnitPanicked="<XGParam:StrValue0/!NomeUnidade/> entrou em pânico!"
-m_strAutoLoot="(<XGParam:IntValue0/>) <XGParam:StrValue0/!NomeItem/> deixado."
-m_strTimedLoot="<XGParam:StrValue0/!NomeItem/> coletado."
-m_strUnitDied="<XGParam:StrValue0/!NomeUnidade/> foi morto!"
+m_strItemDestroyed="<XGParam:StrValue0/!ItemName/> destruído na explosão!"
+m_strItemExplodeFragments="<XGParam:StrValue0/!ItemName/> explode em fragmentos!"
+m_strArmorExplodeFragments="<XGParam:StrValue0/!ItemName/> armadura explode em fragmentos!"
+m_strUnitPanicked="<XGParam:StrValue0/!UnitName/> entrou em pânico!"
+m_strAutoLoot="(<XGParam:IntValue0/>) <XGParam:StrValue0/!ItemName/> deixado."
+m_strTimedLoot="<XGParam:StrValue0/!ItemName/> coletado."
+m_strUnitDied="<XGParam:StrValue0/!UnitName/> foi morto!"
 m_strRestartMission="Fracassar nesta missão resultará na derrota do jogo. Você deseja reiniciar a missão?"
 m_strStartChallenge="Clique em Aceitar para começar o desafio."
 
@@ -5919,7 +5919,7 @@ EverVigilantWithCoveringFire="Sempre Vigilante: Fogo de Cobertura"
 ShakenDebuffName="Amedrontado"
 ShakenDebuffDesc="Este soldado está amedrontado pelo estresse de uma lesão anterior e está sofrendo uma penalidade de Vontade."
 
-CountryBackground="País de Origem: <XGParam:StrValue0/!Nome do País/>"
+CountryBackground="País de Origem: <XGParam:StrValue0/!CountryName/>"
 DateOfBirthBackground="Data de Nascimento: <XGParam:StrValue0/!Data/>"
 
 AmbushTutorialTitle="Emboscada"
@@ -8462,7 +8462,7 @@ Summary="Nossas forças recentemente descobriram informações que podem nos lev
 CodeName="Visão"
 LongDescription="Embora tenha sido um processo demorado, consegui decifrar com sucesso os dados da ADVENT recuperados por nossas tropas no campo de batalha. Como esperado, as informações incluem as coordenadas exatas de uma das instalações remotas da ADVENT. Com esse conhecimento em mãos, deveríamos ser capazes de enviar uma equipe de ataque para infiltrar e destruir a instalação. Não tenho dúvidas de que a perda desse local infligirá um golpe significativo nos esforços dos alienígenas em relação ao Projeto Avatar. R. Tygan."
 
-UnlockedDescription="Missão de Instalação Alienígena em <XGParam:StrValue0/!NomeRegião/> Desbloqueada"
+UnlockedDescription="Missão de Instalação Alienígena em <XGParam:StrValue0/!RegionName/> Desbloqueada"
 
 [ModularWeapons X2TechTemplate]
 DisplayName="Armas Modulares"
@@ -10677,7 +10677,7 @@ m_kTheOrString=OU
 [UIObjectiveList]
 m_strTitle=OBJETIVOS
 m_strObjectivesCompleteTitle=RESUMO DE OBJETIVOS CONCLUÍDOS
-m_strObjectivesCompleteBody=Objetivos entregues com sucesso:\n\n<XGParam:StrValue0/!Desconhecido/>\n\nRECOMPENSA: <XGParam:IntValue0/> Suprimentos
+m_strObjectivesCompleteBody=Objetivos entregues com sucesso:\n\n<XGParam:StrValue0/!Unknown/>\n\nRECOMPENSA: <XGParam:IntValue0/> Suprimentos
 
 [UIObjectivesPopup]
 m_strAcceptLabel=CONTINUAR
@@ -10761,7 +10761,7 @@ AlreadyTreatingMessage=Todos os soldados feridos estão sendo tratados no moment
 [UIStrategyObjectives]
 m_strTitle=OBJETIVOS
 m_strObjectivesCompleteTitle=RESUMO DE OBJETIVOS CONCLUÍDOS
-m_strObjectivesCompleteBody=Objetivos entregues com sucesso:\n\n<XGParam:StrValue0/!Desconhecido/>\n\nRECOMPENSA: <XGParam:IntValue0/> Suprimentos
+m_strObjectivesCompleteBody=Objetivos entregues com sucesso:\n\n<XGParam:StrValue0/!Unknown/>\n\nRECOMPENSA: <XGParam:IntValue0/> Suprimentos
 
 [UIRecruitSoldiers]
 m_strListTitle=RECRUTAS
@@ -10802,7 +10802,7 @@ MapPin_Header=POSTO DE TROCA
 MapPin_Tooltip=Dica do Posto de Troca ainda não preenchida.
 
 [UIStrategyMapItem_Continent]
-MapPin_Tooltip=<XGParam:StrValue0/!Desconhecido/>: <XGParam:StrValue1/!Desconhecido/> \n\n<XGParam:StrValue2/!Desconhecido/>
+MapPin_Tooltip=<XGParam:StrValue0/!Unknown/>: <XGParam:StrValue1/!Desconhecido/> \n\n<XGParam:StrValue2/!Desconhecido/>
 m_strBonusAchieved=Você alcançou esse bônus!
 m_strBonusHelp=Faça contato e instale relés de rádio neste continente para receber esse bônus!
 
@@ -10814,10 +10814,10 @@ MapPin_TooltipResistanceGoodsOutOfStock=Mercadorias da Resistência esgotadas na
 
 [UIStrategyMapItem_Region]
 m_strLockedTT=Não podemos fazer contato com a resistência nesta região. Primeiro, devemos fazer contato com uma região conectada ou concluir uma Operação Guerilha nesta região.
-m_strUnlockedTT=A resistência em <XGParam:StrValue0/!NomeRegiãoMundial/> geraria uma renda de <XGParam:StrValue1/!Quantidade/> suprimentos se fizéssemos contato com eles!
-m_strContactTT=A resistência em <XGParam:StrValue0/!NomeRegiãoMundial/> está gerando uma renda de <XGParam:StrValue1/!Quantidade/> suprimentos para nós.
+m_strUnlockedTT=A resistência em <XGParam:StrValue0/!WorldRegionName/> geraria uma renda de <XGParam:StrValue1/!Quantidade/> suprimentos se fizéssemos contato com eles!
+m_strContactTT=A resistência em <XGParam:StrValue0/!WorldRegionName/> está gerando uma renda de <XGParam:StrValue1/!Quantidade/> suprimentos para nós.
 m_strOutpostTT=Instalamos um relé de rádio nesta região! O relé aumenta nossa renda de suprimentos nesta região e reduz o custo do contato com quaisquer regiões conectadas.
-m_strControlTT=A resistência em <XGParam:StrValue0/!NomeRegiãoMundial/> está gerando apenas <XGParam:StrValue1/!Quantidade/> suprimentos porque a ADVENT tem controle total desta região.
+m_strControlTT=A resistência em <XGParam:StrValue0/!WorldRegionName/> está gerando apenas <XGParam:StrValue1/!Quantidade/> suprimentos porque a ADVENT tem controle total desta região.
 m_strScanForIntelLabel=FAZENDO CONTATO
 m_strScanForOutpostLabel=CONSTRUINDO RELÉ DE RÁDIO
 m_strButtonMakeContact=FAZER CONTATO
@@ -11022,7 +11022,7 @@ m_strUnassignedSoldierLocation=ARMEIRO
 m_strUnassignedPersonnelLocation=NÃO ALOCADO
 
 m_strReassignStaffTitle=CONFIRMAR REASSIGNAÇÃO DE FUNCIONÁRIOS
-m_strReassignStaffBody=<XGParam:StrValue0/!NomeUnidade/> está atualmente designado para <XGParam:StrValue1/!NomeLocalização/>. Você tem certeza de que deseja reatribuí-lo para <XGParam:StrValue2/!NomeLocalização/>?
+m_strReassignStaffBody=<XGParam:StrValue0/!UnitName/> está atualmente designado para <XGParam:StrValue1/!NomeLocalização/>. Você tem certeza de que deseja reatribuí-lo para <XGParam:StrValue2/!NomeLocalização/>?
 
 m_strMissionType_AdventOp=OPERAÇÃO ADVENT: CONSTRUINDO PEQUENA INSTALAÇÃO ALIENÍGENA
 m_strMissionType_AlienBase=BASE ALIENÍGENA
@@ -11844,7 +11844,7 @@ strETAInstant="INSTANTÂNEO"
 strETADay="<XGParam:IntValue0/> dia"
 strETADays="<XGParam:IntValue0/> dias"
 strErrInsufficientData="Dados Insuficientes."
-strCostLabel="<XGParam:IntValue0/> <XGParam:StrValue0/!Desconhecido/>"
+strCostLabel="<XGParam:IntValue0/> <XGParam:StrValue0/!Unknown/>"
 strCostData="Dados"
 strNoScientists="SEM CIENTISTAS"
 strStaffArrived="%STAFF chegou no Avenger."
@@ -14405,7 +14405,7 @@ Title="Pesquisar Comunicações de Resistência"
 LocLongDescription="Faça com que o Dr. Tygan conclua a pesquisa na tecnologia de Comunicações de Resistência, permitindo que a XCOM entre em contato com a resistência local de diferentes regiões ao redor do mundo."
 
 [T2_M1_S2_MakeContactWithBlacksiteRegion X2ObjectiveTemplate]
-Title="Contatar <XGParam:StrValue0/!NomeDaRegiãoMundial/>"
+Title="Contatar <XGParam:StrValue0/!WorldRegionName/>"
 LocLongDescription="Leve a Avenger para a região especificada e pesquise por contatos selecionando o botão \"Fazer Contato\" da região e pagando a quantidade necessária de Inteligência."
 
 [T2_M1_InvestigateBlacksite X2ObjectiveTemplate]
@@ -15658,7 +15658,6 @@ m_arrAmLastNames[215]="Campos"
 m_arrAmLastNames[216]="Monteiro"
 m_arrAmLastNames[217]="Ramos"
 m_arrAmLastNames[218]="Mendes"
-m_arrAmLastNames[219]="Pinto"
 m_arrAmLastNames[220]="Corrêa"
 m_arrAmLastNames[221]="Guedes"
 m_arrAmLastNames[222]="Dantas"
@@ -17396,8 +17395,6 @@ m_arrBgMFirstNames[8]="Jonas"
 m_arrBgMFirstNames[9]="Jarne"
 m_arrBgMFirstNames[10]="Niels"
 m_arrBgMFirstNames[11]="Adrien"
-
-
 
 m_arrBgFFirstNames[0]="Lina"
 m_arrBgFFirstNames[1]="Clara"
