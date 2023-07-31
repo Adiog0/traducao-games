@@ -1,6 +1,6 @@
 KEY	VALUE	COMMENTS
-__id	en
-__name	English
+__id	pt-br
+__name	Português
 
 button.play	Jogar
 button.ok	OK
@@ -10,12 +10,12 @@ button.close	Fechar
 button.continue	Continuar
 button.install	Instalar
 button.build	Construir
-button.start	Começar
+button.start	Iniciar
 button.confirm	Confirmar
-button.decline	Negar
+button.decline	Recusar
 button.dontshow	Não mostrar novamente
-button.endgame-continue	Continue jogando
-button.throne	Vá para o seu escritório
+button.endgame-continue	Continuar jogando
+button.throne	Ir para seu escritório
 
 
 button.xclose	X
@@ -23,75 +23,75 @@ button.qmark	?
 button.info	i
 button.back	<<
 
-autosave.filename	Autosave
+autosave.filename	Salvamento automático
 
-	;; date/time
-datetime.format.s.0	{month} {dayth}				;; August 1st
-datetime.format.l.0	{month} {dayth}, {year}
-datetime.format.s.1	{month} {day}				;; August 1
-datetime.format.l.1	{month} {day}, {year}
-datetime.format.s.2	{day} {month}				;; 1 August
-datetime.format.l.2	{day} {month} {year}
+	;; data/hora
+datetime.format.s.0	{day} de {month}				;; 1º de agosto
+datetime.format.l.0	{day} de {month}, {year}
+datetime.format.s.1	{day} {month}				;; 1 de agosto
+datetime.format.l.1	{day} de {month}, {year}
+datetime.format.s.2	{day} de {month}				;; 1 de agosto
+datetime.format.l.2	{day} de {month} de {year}
 datetime.min	N/A
 datetime.max	N/A
 
 datetime.month.1	Janeiro
 datetime.month.2	Fevereiro
-datetime.month.3	Marchar
-datetime.month.4	abril
-datetime.month.5	Poderia
+datetime.month.3	Março
+datetime.month.4	Abril
+datetime.month.5	Maio
 datetime.month.6	Junho
 datetime.month.7	Julho
 datetime.month.8	Agosto
 datetime.month.9	Setembro
 datetime.month.10	Outubro
-datetime.month.11	novembro
-datetime.month.12	dezembro
+datetime.month.11	Novembro
+datetime.month.12	Dezembro
 
-datetime.month.short.1	JAN
-datetime.month.short.2	FEV
-datetime.month.short.3	MAR
-datetime.month.short.4	ABR
-datetime.month.short.5	MAI
-datetime.month.short.6	JUN
-datetime.month.short.7	JUL
-datetime.month.short.8	AGO
-datetime.month.short.9	SET
-datetime.month.short.10	OUT
-datetime.month.short.11	NOV
-datetime.month.short.12	DEZ
+datetime.month.short.1 JAN
+datetime.month.short.2 FEV
+datetime.month.short.3 MAR
+datetime.month.short.4 ABR
+datetime.month.short.5 MAI
+datetime.month.short.6 JUN
+datetime.month.short.7 JUL
+datetime.month.short.8 AGO
+datetime.month.short.9 SET
+datetime.month.short.10 OUT
+datetime.month.short.11 NOV
+datetime.month.short.12 DEZ
 
-datetime.day.1	1st
-datetime.day.2	2nd
-datetime.day.3	3rd
-datetime.day.4	4th
-datetime.day.5	5th
-datetime.day.6	6th
-datetime.day.7	7th
-datetime.day.8	8th
-datetime.day.9	9th
-datetime.day.10	10th
-datetime.day.11	11th
-datetime.day.12	12th
-datetime.day.13	13th
-datetime.day.14	14th
-datetime.day.15	15th
-datetime.day.16	16th
-datetime.day.17	17th
-datetime.day.18	18th
-datetime.day.19	19th
-datetime.day.20	20th
-datetime.day.21	21st
-datetime.day.22	22nd
-datetime.day.23	23rd
-datetime.day.24	24th
-datetime.day.25	25th
-datetime.day.26	26th
-datetime.day.27	27th
-datetime.day.28	28th
-datetime.day.29	29th
-datetime.day.30	30th
-datetime.day.31	31st
+datetime.day.1 1º
+datetime.day.2 2º
+datetime.day.3 3º
+datetime.day.4 4º
+datetime.day.5 5º
+datetime.day.6 6º
+datetime.day.7 7º
+datetime.day.8 8º
+datetime.day.9 9º
+datetime.day.10 10º
+datetime.day.11 11º
+datetime.day.12 12º
+datetime.day.13 13º
+datetime.day.14 14º
+datetime.day.15 15º
+datetime.day.16 16º
+datetime.day.17 17º
+datetime.day.18 18º
+datetime.day.19 19º
+datetime.day.20 20º
+datetime.day.21 21º
+datetime.day.22 22º
+datetime.day.23 23º
+datetime.day.24 24º
+datetime.day.25 25º
+datetime.day.26 26º
+datetime.day.27 27º
+datetime.day.28 28º
+datetime.day.29 29º
+datetime.day.30 30º
+datetime.day.31 31º
 
 	;; ui dialogs
 
@@ -106,13 +106,13 @@ ui.convoline	{icon}<indent=40>{text}</indent>
 ui.checkline	<sprite name="ui check"><indent=20>{text}</indent>
 ui.crossline	<sprite name="ui cross"><indent=20>{text}</indent>
 ui.cash	<sprite name="res cash">
-	
+
 ui.ticket	<sprite name="ui tickets">
 ui.ticketsp	<sprite name="ui tickets special">
 ui.affiliate	<sprite name="ui biz associate">
-ui.affiliate.desc	Afiliado. Essa pessoa tem um longo histórico de negócios com você e deve a você pelo menos {level} favores ao longo dos anos. 
+ui.affiliate.desc	Afiliado. Essa pessoa tem uma longa história de negócios com você e já lhe deve pelo menos {level} favores ao longo dos anos.
 
-ui.favors-avail	+{num} <sprite name="ui tickets"> favors
+ui.favors-avail	+{num} <sprite name="ui tickets"> favores
 ui.favors-avail.1	+{num} <sprite name="ui tickets"> favor
 ui.favors-accrued	<b>Você acumulou: {favors}</b>
 
@@ -132,39 +132,39 @@ ui.heatlevel.2	<sprite name="ui heat level 2">
 ui.heatlevel.3	<sprite name="ui heat level 3">
 ui.heatlevel.4	<sprite name="ui heat level 4">
 
-ui.heatleveltext	Nível de calor: <i>none</i>
-ui.heatlevelexpn	Esta é uma parte tranquila da cidade, ninguém deixou uma impressão duradoura aqui. Ainda não.
-ui.heatleveltext.1	Nível de calor: <i>quase nenhum</i>
-ui.heatlevelexpn.1	A polícia ouviu falar de alguns acontecimentos suspeitos nesta esquina, mas eles não estão muito interessados.
-ui.heatleveltext.2	Nível de calor: <i>algum</i>
-ui.heatlevelexpn.2	Dizem que a polícia está farejando. Seja cauteloso para não ser mordido.
-ui.heatleveltext.3	Nível de calor: <i>alto</i>
-ui.heatlevelexpn.3	A polícia está definitivamente interessada no que acontece por aqui. Espere visitas policiais, a menos que sejam subornados.
-ui.heatleveltext.4	Nível de calor: <i>extremo</i>
-ui.heatlevelexpn.4	Este canto é um forno em chamas. Espere visitas frequentes da polícia, a menos que sejam subornados.
+ui.heatleveltext	Nível de Ameaça: <i>nada</i>
+ui.heatlevelexpn	Este é uma parte tranquila da cidade, ninguém deixou uma impressão duradoura aqui. Ainda não, pelo menos.
+ui.heatleveltext.1	Nível de Ameaça: <i>quase nenhum</i>
+ui.heatlevelexpn.1	A polícia ouviu falar de atividades suspeitas nesta área, mas não estão muito interessados.
+ui.heatleveltext.2	Nível de Ameaça: <i>alguma</i>
+ui.heatlevelexpn.2	Dizem que a polícia está rondando a área. Seja cauteloso para não ser pego.
+ui.heatleveltext.3	Nível de Ameaça: <i>alto</i>
+ui.heatlevelexpn.3	A polícia está definitivamente interessada no que acontece por aqui. Espere visitas policiais, a menos que eles sejam subornados.
+ui.heatleveltext.4	Nível de Ameaça: <i>extremo</i>
+ui.heatlevelexpn.4	Este local está pegando fogo. Espere visitas policiais frequentes, a menos que sejam subornados.
 
-ui.indays	in {num} days
-ui.indays.1	in {num} day
-ui.days	{num} days
-ui.days.1	{num} day
-ui.turns	{num} turns
-ui.turns.1	{num} turn
+ui.indays	em {num} dias
+ui.indays.1	em {num} dia
+ui.days	{num} dias
+ui.days.1	{num} dia
+ui.turns	{num} turnos
+ui.turns.1	{num} turno
 
 ui.trade.sellonce	<sprite name="ui sell">
-ui.trade.sellonce.text	Ofertas para vender
-ui.trade.sellonce.up-to	(Vendas até {qtyString})
+ui.trade.sellonce.text	Oferecer para vender
+ui.trade.sellonce.up-to	(Vende até {qtyString})
 ui.trade.sellonce.sales	Vendas: {price}
 
 ui.trade.buyonce	<sprite name="ui buy">
-ui.trade.buyonce.text	Ofertas de Compra
-ui.trade.buyonce.up-to	(Eles desejam comprar um montante de {qtyString})
-ui.trade.buyonce.costvcash	Custo: {price}. Você tem: {cash}
+ui.trade.buyonce.text	Oferecer para comprar
+ui.trade.buyonce.up-to	(Eles querem comprar até {qtyString})
+ui.trade.buyonce.costvcash	Custo: {price}.   Você tem: {cash}
 
 ui.trade.buysell	<sprite name="ui buy sell">
 
-ui.trade.delivery.sell	Vendeu {resdesc} para {bizdesc} de acordo com nosso pedido agendado.
+ui.trade.delivery.sell	Vendeu {resdesc} para {bizdesc} conforme nosso pedido agendado.
 ui.trade.delivery.sinfo	{status} {extra}\n\nRecebemos {cash}.
-ui.trade.delivery.buy	Comprei {resdesc} de {bizdesc} de acordo com nosso pedido agendado.
+ui.trade.delivery.buy	Comprou {resdesc} de {bizdesc} conforme nosso pedido agendado.
 ui.trade.delivery.binfo	{status} {extra}\n\nCusto total: {cash}.
 
 ui.trade.transfer	Transferir dinheiro
@@ -173,30 +173,30 @@ ui.trade.transfer	Transferir dinheiro
 ui.qty	{qty}
 ui.percentage	{x}%
 ui.amt-full	({percentage} full)
-ui.trade.order.mo	Definir um pedido único
-ui.trade.trade.mo	Defina um pedido recorrente, supondo que você tenha um relacionamento bom o suficiente.
-ui.trade.cancel.mo	Cancelar este pedido
+ui.trade.order.mo	Set up a one-time order
+ui.trade.trade.mo	Set up a recurring order, assuming you have a good enough relationship.
+ui.trade.cancel.mo	Cancel this order
 
-ui.itempicker.one-time.buy	Faça uma compra única
-ui.itempicker.one-time.sell	Faça uma venda única
-ui.itempicker.biz-stock	O estoque deles
-ui.itempicker.offer	Sua oferta
-ui.itempicker.car-inv	Seu inventário de carros
+ui.itempicker.one-time.buy	Make a one-time purchase
+ui.itempicker.one-time.sell	Make a one-time sale
+ui.itempicker.biz-stock	Their stock
+ui.itempicker.offer	You offer
+ui.itempicker.car-inv	Your car inventory
 
-ui.moneypicker.money-header	transferir dinheiro entre seu carro e a Casa de apostas
-ui.moneypicker.building-inventory	Dinheiro no prédio
-ui.moneypicker.vehicle-inventory	Dinheiro no seu carro
+ui.moneypicker.money-header	Move money between your car and the Gambling House
+ui.moneypicker.building-inventory	Cash in the building
+ui.moneypicker.vehicle-inventory	Cash in your car
 
 ui.volume	Volume: {vol}
 ui.volume.ft3	{num} ft³
 ui.volume.m3	{num} m³
 
-ui.length.in	{num} em
+ui.length.in	{num} in
 ui.length.ft	{big}'{small}"
 ui.length.m	{big}.{small}m
 
-ui.arrowpick.icon.mo	Entrega {icon}
-ui.arrowpick.no-icon.mo	Entrega
+ui.arrowpick.icon.mo	Delivery: {icon}
+ui.arrowpick.no-icon.mo	Delivery
 
 ui.moneypos	${amt}
 ui.moneyneg	-${amt}
@@ -204,7 +204,7 @@ ui.numpos	+{num}
 ui.numneg	-{num}
 
 ui.list.1	{0}
-ui.list.2	{0} e {1}
+ui.list.2	{0} and {1}
 ui.list	{0}, {rest}
 
 ui.value.prop-none	{name}: 0
@@ -220,10 +220,10 @@ ui.resource.line-ax-b-c	{a}x {b} {c}
 ui.resource.line-a-at-b	{a} @ {b} each
 ui.resource.is-illegal	\n\n<i>Illegal resource</i>
 
-ui.every-x-days.1	diariamente
-ui.every-x-days	a cada {num} dias
-ui.in-x-days.1	em 1 dia
-ui.in-x-days	em {num} dias
+ui.every-x-days.1	every day
+ui.every-x-days	every {num} days
+ui.in-x-days.1	in 1 day
+ui.in-x-days	in {num} days
 
 ui.numberplacement.1	1st
 ui.numberplacement.2	2nd
@@ -296,90 +296,90 @@ ui.numberplacement.68	68th
 ui.numberplacement.69	69th
 ui.numberplacement.70	70th
 
-ui.init.loading	Carregando jogo: {cityname}
-ui.init.mapgen	Gerando mapa da cidade: {cityname}
-ui.init.citygen	Preenchendo o mapa da cidade: {cityname}, {year}
-ui.init.final	Finalizando
-ui.init.alphabeta	Viu algum bug? Nos avise! Pressione F1 quando estiver no jogo.
+ui.init.loading	Loading game: {cityname}
+ui.init.mapgen	Generating city map: {cityname}
+ui.init.citygen	Populating city map: {cityname}, {year}
+ui.init.final	Finalizing
+ui.init.alphabeta	See a bug? Report it! Press F1 when in the game.
 
-ui.hud.dateturn	{date} (Turn #{turn})
-ui.hud.nextturn	PRÓXIMO TURNO
-ui.hud.player	IA: {percent}
-ui.hud.money-turn	{money} <size=75%>({deltaString} neste turno)</size>
-ui.hud.money-turn-short	{money} <size=75%>{deltaString}</size>
+ui.hud.dateturn	{date}  (Turn #{turn})
+ui.hud.nextturn	NEXT TURN
+ui.hud.player	AI: {percent}
+ui.hud.money-turn	{money}   <size=75%>({deltaString} this turn)</size>
+ui.hud.money-turn-short	{money}   <size=75%>{deltaString}</size>
 
-ui.hud.saving.up	<sprite name="ui clock"> SALVANDO O JOGO...
-ui.hud.writing.up	<sprite name="ui clock"> GRAVANDO NO DISCO...
-ui.hud.saving	Salvando, por favor espere...
+ui.hud.saving.up	<sprite name="ui clock"> SAVING THE GAME...
+ui.hud.writing.up	<sprite name="ui clock"> WRITING TO DISK...
+ui.hud.saving	Saving, please wait...
 
 ui.hud.peeps	<sprite name="ui peep">: {num}/{max}
 ui.hud.cars	<sprite name="ui car">: {num}/{max}
 ui.hud.trucks	<sprite name="ui truck">: {num}/{max}
 ui.hud.corners	<sprite name="ui corner"> : {num}
-ui.hud.peeps.mo	Capacidade da capangas: {max} ou menos\nO limite da capangas é baseado no tamanho do seu território.\n\n{explanation}
-ui.hud.cars.mo	Limite de veículos de passageiros: {max} ou menos\nA capacidade do carro é baseada no tamanho da gangue e do estacionamento disponível.\n\n{explanation}
-ui.hud.trucks.mo	Limite de veículo de carga: {max} ou menos\nA capacidade do caminhão é baseada em habilidades e estacionamentos disponíveis.\n\n{explanation}
-ui.hud.corners.mo	Quadras sob seu controle: {num}
+ui.hud.peeps.mo	Crew capacity: {max} or less\nCrew cap is based on your territory size.\n\n{explanation}
+ui.hud.cars.mo	Passenger vehicle limit: {max} or less\nCar capacity is based on crew size and available parking.\n\n{explanation}
+ui.hud.trucks.mo	Cargo vehicle limit: {max} or less\nTruck capacity is based on skills and available parking.\n\n{explanation}
+ui.hud.corners.mo	Corners under your control: {num}
 
 ui.hud.unknown	<b>{name}</b>\n{desc}\n\n{footer}
-ui.hud.unknown.resname	Residência desconhecida
-ui.hud.unknown.bizname	Negócio desconhecido
-ui.hud.unknown.civicname	Edifício desconhecido
-ui.hud.unknown.notexplored	Esta área ainda não foi explorada. Mande alguém da sua equipe para conferir!
+ui.hud.unknown.resname	Unknown residence
+ui.hud.unknown.bizname	Unknown business
+ui.hud.unknown.civicname	Unknown building
+ui.hud.unknown.notexplored	This area has not been explored yet. Send someone from your crew to check it out!
 
-ui.hud.known.resfooter.1	Nome na caixa de correio: {names}
-ui.hud.known.resfooter	Nomes nas caixas de correio: {names}
-ui.hud.known.resfooter.many	Os nomes nas caixas de correio incluem: {names} e mais
-ui.hud.known.bizsmall	Apenas mais uma pequena empresa, como tantas em toda a cidade. Você não sabe o que se passa lá dentro.
-ui.hud.known.bizlarge	Um edifício de aparência impressionante. Você não sabe o que se passa lá dentro.
+ui.hud.known.resfooter.1	Name on the mailbox: {names}
+ui.hud.known.resfooter	Names on the mailboxes: {names}
+ui.hud.known.resfooter.many	Names on the mailboxes include: {names}, and more
+ui.hud.known.bizsmall	Just another small business, like so many across the city. You don't know what goes on in there.
+ui.hud.known.bizlarge	An impressive looking building. You don't know what goes on in there.
 
-ui.rename.title	<b>Ganhando Renome</b>
-ui.rename.header.you	Você está ganhando bastante reputação por aqui! Você pode escolher um nome de rua(Apelido) pelo qual as pessoas o conhecerão:
-ui.rename.header.m	Seu capanga {name} está ganhando bastante reputação por aqui! Você pode escolher um nome de rua adequado para ele, que será usado a partir de agora:
-ui.rename.header.f	Sua capanga {name} está ganhando bastante reputação por aqui! Você pode escolher um nome de rua adequado para ela, que será usado a partir de agora:
+ui.rename.title	<b>Gaining Renown</b>
+ui.rename.header.you	You're gaining quite the reputation around these parts! You can pick a street name that people will know you by:
+ui.rename.header.m	Your crew member {name} is gaining quite the reputation around these parts! You can pick a fitting street name for him, which will be used from now on:
+ui.rename.header.f	Your crew member {name} is gaining quite the reputation around these parts! You can pick a fitting street name for her, which will be used from now on:
 ui.rename.example-nickname	Scarface
-ui.rename.describe	O nome será exibido como:\n<align=center><b>{longname}</b></align>\nou "{shortname}" na sua lista de gangue.
-ui.rename.footer	Por favor, considere o nome da rua com cuidado, ele só pode ser atribuído uma vez. Você também pode recusar e permanecer com seu nome.
+ui.rename.describe	The name will be displayed as:\n<align=center><b>{longname}</b></align>\nor "{shortname}" in your crew list.
+ui.rename.footer	Please consider the street name carefully, it can only be assigned once. You can also decline, and stay with your given name.
 
 ui.rename.random-nickname.m	Scarface
-ui.rename.random-nickname.m	Medonho
-ui.rename.random-nickname.m	Espertinho
-ui.rename.random-nickname.m	Valentão
-ui.rename.random-nickname.m	Larápio
-ui.rename.random-nickname.m	Apressadinho
-ui.rename.random-nickname.m	Rabugento
-ui.rename.random-nickname.m	Jeitoso
-ui.rename.random-nickname.m	Velhote
+ui.rename.random-nickname.m	Scary
+ui.rename.random-nickname.m	Wiseguy
+ui.rename.random-nickname.m	Brave
+ui.rename.random-nickname.m	Silver Tongue
+ui.rename.random-nickname.m	Live Wire
+ui.rename.random-nickname.m	Short Fuse
+ui.rename.random-nickname.m	Dapper
+ui.rename.random-nickname.m	Old Man
 
-ui.rename.random-nickname.f	Esquentadinha
-ui.rename.random-nickname.f	Rostinho de Anjo
-ui.rename.random-nickname.f	Docinho
-ui.rename.random-nickname.f	Furiosa
-ui.rename.random-nickname.f	Agitadora
-ui.rename.random-nickname.f	Lesada
-ui.rename.random-nickname.f	Charmosa
-ui.rename.random-nickname.f	Raposinha
-ui.rename.random-nickname.f	Bela Morte
-ui.rename.random-nickname.f	Pompósa
+ui.rename.random-nickname.f	Dangerous
+ui.rename.random-nickname.f	Babyface
+ui.rename.random-nickname.f	Live Wire
+ui.rename.random-nickname.f	Short Fuse
+ui.rename.random-nickname.f	Flapper
+ui.rename.random-nickname.f	Late Owl
+ui.rename.random-nickname.f	Ritzy
+ui.rename.random-nickname.f	Foxy
+ui.rename.random-nickname.f	Sheba
+ui.rename.random-nickname.f	Swell Dame
 
 ui.name.simple	{title} {first} {last}
 ui.name.nicklong	{title} {first} "{nickname}" {last}
 ui.name.nickshort	{title} {nickname} {last}
-ui.name.title-cops	Policial
-ui.name.title-feds	Agente
+ui.name.title-cops	Officer
+ui.name.title-feds	Agent
 
-ui.vehicle-cond.good	bom
-ui.vehicle-cond.clunker	aceitável
-ui.vehicle-cond.junk	inutilizável
-ui.vehicle-cond.worn	desgastado
-ui.vehicle-cexp.good	boa condição
-ui.vehicle-cexp.clunker	condição aceitável
-ui.vehicle-cexp.junk	condição inutilizável
-ui.vehicle-cext.worn	condição desgastada
-	
-ui.convo.person.mo	Mostrar informações do proprietário
-ui.convo.biz.mo	Mostrar informações comerciais
-ui.convo.rel.mo	Mostrar informações de relacionamento
+ui.vehicle-cond.good	good
+ui.vehicle-cond.clunker	acceptable
+ui.vehicle-cond.junk	unusable
+ui.vehicle-cond.worn	worn
+ui.vehicle-cexp.good	good condition
+ui.vehicle-cexp.clunker	acceptable condition
+ui.vehicle-cexp.junk	unusable condition
+ui.vehicle-cext.worn	worn condition
+
+ui.convo.person.mo	Show owner info
+ui.convo.biz.mo	Show business info
+ui.convo.rel.mo	Show relationship info
 
 ui.personinfo.mouseover	{name}\n\n{ethAndAge}\n\n{workplace}
 ui.personinfo.mouseover.short	{name}\n{workplace}\n{details}
@@ -389,133 +389,133 @@ ui.personinfo.infostring.short	{reltoyou}. {age}. {eth}.
 ui.personinfo.age-eth	{age}. {eth}.
 
 
-ui.personinfo.crew.you	Você é o Padrinho da Gangue.
-ui.personinfo.crew.peep	{name} pertence à sua gangue.
-ui.personinfo.crew.action	Atividade atual: {action}
-ui.personinfo.crew.skills	Habilidades compartilhadas: {num} <sprite name="ui skills">
-ui.personinfo.crew.skills.1	Habilidade compartilhada: {num} <sprite name="ui skills">
-ui.personinfo.crew.skills.mo	Essas habilidades são compartilhadas por todos os membros da tripulação.\nVeja o relatório "habilidades da tripulação" para saber mais.\n
-ui.personinfo.crew.levelups	Nova <sprite name="ui level up"> experiência disponível!
-ui.personinfo.crew.levelups.mo	Os membros da gangue ganham experiência com as tarefas que executam.
+ui.personinfo.crew.you	You are the boss of your crew.
+ui.personinfo.crew.peep	{name} belongs to your crew.
+ui.personinfo.crew.action	Current activity: {action}
+ui.personinfo.crew.skills	Shared skills: {num} <sprite name="ui skills">
+ui.personinfo.crew.skills.1	Shared skill: {num} <sprite name="ui skills">
+ui.personinfo.crew.skills.mo	These skills are shared by all of your crew members.\nView the "crew skills" report to learn more.\n
+ui.personinfo.crew.levelups	New <sprite name="ui level up"> experience available!
+ui.personinfo.crew.levelups.mo	Crew members gain experience from the tasks they do.
 
-ui.personinfo.conn.yours	Suas conexões:
-ui.personinfo.conn.common	Conexões que vocês têm em comum:
+ui.personinfo.conn.yours	Your connections:
+ui.personinfo.conn.common	Connections you have in common:
 
 ui.personinfo.skill.oneline	·<indent=15>{item}</indent>
 
-ui.personinfo.goto.mo	Vá para o local
-ui.personinfo.traits-header	Traços de personalidade:
+ui.personinfo.goto.mo	Go to the location
+ui.personinfo.traits-header	Personality traits:
 ui.personinfo.trait	·<indent=15>{traitname}</indent>
 ui.personinfo.trait.details	·<indent=15><b>{traitname}</b> <i>({traitdesc})</i></indent>
 ui.personinfo.trait.icons	{traits}: <size=125%>{icons}</size>
 
-ui.personinfo.levelups.header	<b>{name}</b>\nSelecione qual habilidade melhorar:
+ui.personinfo.levelups.header	<b>{name}</b>\nSelect which ability to improve:
 
-ui.personinfo.levelups-none	Experiência: nenhuma ainda
+ui.personinfo.levelups-none	Experience: none yet
 ui.personinfo.levelups.oneline	·<indent=15>{levelup}</indent>
 ui.personinfo.levelups.details	·<indent=15>{levelup}\n<i>{details}</i></indent>
-ui.personinfo.levelups.ticker	{name} ganhou experiência com todo o trabalho duro.\n\nSelecione qual habilidade eles devem melhorar.
-ui.personinfo.levelups.available	<b>{name}</b> - melhore para o nível {num}\n{desc}
-ui.personinfo.levelups.icons.0	Experiência: nenhuma ainda
-ui.personinfo.levelups.icons	Experiência: {icons}
+ui.personinfo.levelups.ticker	{name} has gained experience from all the hard work.\n\nSelect what ability they should improve.
+ui.personinfo.levelups.available	<b>{name}</b> - improve to level {num}\n{desc}
+ui.personinfo.levelups.icons.0	Experience: none yet
+ui.personinfo.levelups.icons	Experience: {icons}
 
-ui.personinfo.filter.header	Filtro:
-ui.personinfo.filter.everyone	Todas as conexões compartilhadas
-ui.personinfo.filter.family	Todos os familiares conhecidos
-ui.personinfo.filter.friends	Todos os chegados conhecidos
-ui.personinfo.filter.gangs	Membros  da "Chicago Outfit"
-ui.personinfo.filter.goons	encrenqueiros
-ui.personinfo.filter.cops	Policiais e agentes federais
+ui.personinfo.filter.header	Filter:
+ui.personinfo.filter.everyone	All shared connections
+ui.personinfo.filter.family	All known family members
+ui.personinfo.filter.friends	All known acquaintances
+ui.personinfo.filter.gangs	Outfit members
+ui.personinfo.filter.goons	Troublemakers
+ui.personinfo.filter.cops	Police and federal agents
 
-ui.personinfo.unemployed	Desempregado
-ui.personinfo.age	{years} anos de idade
-ui.personinfo.dead	Morto
+ui.personinfo.unemployed	Unemployed
+ui.personinfo.age	{years} years old
+ui.personinfo.dead	Deceased
 
-ui.personinfo.status.defiant	Status da demanda: <i>defiant</i>
-ui.personinfo.status.compliant	Status da demanda: <i>compliant</i>
-ui.personinfo.occ.none	Desempregado
-ui.personinfo.occ.unk	Ocupação desconhecida
-ui.personinfo.occ.info	Trabalha na empresa {bizname}
-ui.personinfo.occ.politician	Político na {ward}
-ui.personinfo.selected.human	Este é você:
-ui.personinfo.selected.not-human	Trabalham para você:
+ui.personinfo.status.defiant	Demand status: <i>defiant</i>
+ui.personinfo.status.compliant	Demand status: <i>compliant</i>
+ui.personinfo.occ.none	Not employed
+ui.personinfo.occ.unk	Occupation unknown
+ui.personinfo.occ.info	Works at {bizname}
+ui.personinfo.occ.politician	Politician at {ward}
+ui.personinfo.selected.human	This is you:
+ui.personinfo.selected.not-human	Works for you:
 
-ui.personinfo.selected.goon	Encrenqueiro local
-ui.personinfo.selected.opp.boss	Chefe de
-ui.personinfo.selected.opp.goon	Trabalha para
+ui.personinfo.selected.goon	Local troublemaker
+ui.personinfo.selected.opp.boss	Boss of
+ui.personinfo.selected.opp.goon	Works for
 
-ui.personinfo.selected.unknown	Trabalha para alguém que você não conhece
+ui.personinfo.selected.unknown	Works for someone you don't know
 
-ui.personinfo.rel-exp.opinion	<b>A opinião deles sobre você: {rating} pts</b>	
-ui.personinfo.rel-exp.none	<b>A opinião deles sobre você: nenhuma</b>	
-		
-ui.personinfo.action-string.idle	Parado	
-ui.personinfo.action-string.driving	Dirigindo	
-ui.personinfo.action-string.busy	Ocupado	
-		
-ui.personinfo.selected.compose	{prefix}: {groupname} {compliance}	
-		
+ui.personinfo.rel-exp.opinion	<b>Their opinion of you: {rating} pts</b>
+ui.personinfo.rel-exp.none	<b>Their opinion of you: none</b>
+
+ui.personinfo.action-string.idle	Idle
+ui.personinfo.action-string.driving	Driving
+ui.personinfo.action-string.busy	Busy
+
+ui.personinfo.selected.compose	{prefix}: {groupname} {compliance}
+
 ui.personinfo.dialog.header	<size=150%>{name}</size>\n{workplace}\n{details}
 
 
 
 ui.stationinfo.header	{groupname}\n{precinct}
 ui.stationinfo.loc	Location:\n{cornerinfo}
-ui.stationinfo.status.coop	Status:\nCooperando
-ui.stationinfo.status.noop	Status:\nNão está cooperando
-ui.stationinfo.officers	Oficiais de plantão:
-ui.stationinfo.officers.card.influenced	\n<i>(Sob sua influência)</i>
-ui.stationinfo.officers.card.name	{name} {influencied}
-	
+ui.stationinfo.status.coop	Status:\nCooperating
+ui.stationinfo.status.noop	Status:\nNot cooperating
+ui.stationinfo.officers	Officers on duty:
+ui.stationinfo.officers.card.influenced	\n<i>(Under your influence)</i>
+ui.stationinfo.officers.card.name	{name} {influenced}
+
 ui.icon.movement	<sprite name="ui movement pts">
 ui.icon.actions	<sprite name="ui action pts">
 ui.icon.health	<sprite name="ui health">
 ui.icon.car	<sprite name="ui car">
 ui.icon.weapon	<sprite name="res cat weapons">
 ui.icon.tire	<sprite name="ui tire">
-	
+
 ui.combine.icon-and-name	{icon} {name}
 ui.combine.icon-name-and-units	{icon} {name}: {qtyunits}
 ui.combine.icon-and-desc	{icon}<indent=30>{desc}</indent>
-	
+
 ui.xp	<sprite name="xp general">
 ui.xp.num	{num} <sprite name="xp general">
 ui.xp.plus	<sprite name="ui level up"><sprite name="ui xp arrow">
-	
+
 ui.conn	<sprite name="ui pip social">
 ui.conn.num	{num} <sprite name="ui pip social">
 ui.conn.qmark	<sprite name="ui pip social">
-	
+
 ui.movementcost	<size=75%>{num} <sprite name="ui movement pts"></size>
-ui.movementcost.fail	INSUFICIENTE\n<sprite name="ui movement pts"> PONTOS DE MOVIMENTO
-ui.actioncost.fail	INSUFFICIENTE\n<sprite name="ui action pts"> PONTOS DE AÇÃO
-	
-ui.playerskills.learned	Sua gangue aprendeu uma nova habilidade: <b>{name}</b>\n\n{desc}\n\nTodos na sua equipe agora podem se beneficiar desse novo conhecimento.
-ui.playerskills.resource	Você ficou sabendo de um novo recurso!\n\n{name}: {desc}\n\nAlgumas empresas podem se interessar por este recurso, tanto os que você já conhece quanto os que ainda serão descobertos.
-	
-ui.crewlistinfo.header	Informações da Gangue
-ui.crewlistinfo.desc	Clique em uma entrada para obter mais informações sobre eles
-ui.crewlistinfo.current	Gangue atual
-ui.crewlistinfo.past	Gangue anterior
-ui.crewlistinfo.potential	Pessoas que desejam se juntar à sua equipe
+ui.movementcost.fail	INSUFFICIENT\n<sprite name="ui movement pts"> MOVEMENT POINTS
+ui.actioncost.fail	INSUFFICIENT\n<sprite name="ui action pts"> ACTION POINTS
+
+ui.playerskills.learned	Your crew learned a new skill: <b>{name}</b>\n\n{desc}\n\nEveryone in your crew can now benefit from this new knowledge.
+ui.playerskills.resource	You learned about a new resource!\n\n{name}: {desc}\n\nSome businesses may be interested in this resource, either the ones you already know about, or ones that are yet to be discovered.
+
+ui.crewlistinfo.header	Crew Information
+ui.crewlistinfo.desc	Click on an entry for more information about them
+ui.crewlistinfo.current	Current crew
+ui.crewlistinfo.past	Past crew
+ui.crewlistinfo.potential	People looking to join your crew
 ui.crewlistinfo.tmpl.current	{name}
 ui.crewlistinfo.tmpl.past	{name} <size=80%>(Deceased)</size>
-ui.crewlistinfo.tmpl.potential	{name}\n<size=80%>Interessado em seus recursos</size>
+ui.crewlistinfo.tmpl.potential	{name}\n<size=80%>Interested in your outfit</size>
 ui.crewlistinfo.desc.header	<size=150%>{name}</size>\n{workplace}\n{details}
-ui.crewlistinfo.desc.current	Salário atual: {money} por turno.\n{details}
-ui.crewlistinfo.desc.past	Esse membro morreu em {year}.\nPagamentos de apoio falmiar: {money} por turno.
-ui.crewlistinfo.desc.potential	{firstname} está procurando emprego. Se você estiver interessado em expandir seus recursos, vá falar com {friendname} para obter uma apresentação.
+ui.crewlistinfo.desc.current	Current salary: {money} per turn.\n{details}
+ui.crewlistinfo.desc.past	This crew member died in {year}.\nFamily support payments: {money} per turn.
+ui.crewlistinfo.desc.potential	{firstname} is looking for a job. If you're interested in expanding your outfit, go talk to {friendname} to get an introduction.
 ui.crewlistinfo.desc.details	{traits}\n\n{levelups}
-ui.crewlistinfo.with-trait	Com Traço:
-ui.crewlistinfo.any-trait	Qualquer
-	
-ui.crewinfo.manage.mo	Gerenciar membros de gangue
-ui.crewinfo.peep.mo	Obtenha mais informações\nsobre este membro
-ui.crewinfo.corner.mo	Obtenha mais informações sobre\nesta quadra
-ui.crewinfo.scheme.mo	Abra o esquema atual desta gangue
-ui.crewinfo.goto.mo	Focar a visualização nesta quadra
-ui.crewinfo.vehicle.mo	Atribua a um de seus veículos\nou para gerenciar seus edifícios
-ui.crewinfo.automate.mo	Editar rota de entrega
+ui.crewlistinfo.with-trait	With Trait:
+ui.crewlistinfo.any-trait	Any
+
+ui.crewinfo.manage.mo	Manage crew
+ui.crewinfo.peep.mo	Get more information\nabout this crew member
+ui.crewinfo.corner.mo	Get more information about\nthis corner
+ui.crewinfo.scheme.mo	Open this crew's current scheme
+ui.crewinfo.goto.mo	Focus view on this corner
+ui.crewinfo.vehicle.mo	Assign to one of your vehicles\nor to manage your buildings
+ui.crewinfo.automate.mo	Edit delivery route
 ui.crewinfo.name	<b>{name}</b>
 ui.crewinfo.namedead	{name}
 ui.crewinfo.descdead	<i>Deceased</i>
