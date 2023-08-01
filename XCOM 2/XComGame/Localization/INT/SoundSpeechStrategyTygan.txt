@@ -378,7 +378,7 @@ SpokenText="Eu não ia admitir isso para a Shen, mas há uma coisa que sinto fal
 SpokenText="Os alienígenas estão usando uma forma de criptografia além de tudo que já encontramos - muito menos teorizamos. Teremos que encontrar uma maneira de quebrar o código, mas espero que isso leve algum tempo."
 
 [S_Misc_Thanks_Codex_Brain_Tygan_01 AkEvent]
-SpokenText="Comandante,
+SpokenText="Comandante, por favor, agradeça às nossas tropas por completarem o que certamente foi uma tarefa difícil de adquirir o Cérebro do Codex. Começaremos a trabalhar nele o mais rápido possível."
 
  por favor, agradeça às nossas tropas por completarem o que certamente foi uma tarefa difícil na aquisição do Cérebro do Codex. Começaremos a trabalhar nele o mais rápido possível."
 

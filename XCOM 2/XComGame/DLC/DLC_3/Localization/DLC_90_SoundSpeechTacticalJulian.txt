@@ -1,325 +1,325 @@
 [Play_DLC3_T_JLN_Bridge_Extended_2 AkEvent]
-SpokenText="And so the prodigal child finally returns. I see Father's pride in your abilities was not entirely unfounded.  I'm so glad you could join me."
+SpokenText="E assim o filho pródigo finalmente retorna. Vejo que o orgulho do Pai em suas habilidades não era totalmente infundado. Estou tão feliz que você pôde se juntar a mim."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Bridge_Extension_1 AkEvent]
-SpokenText="Main power online.  Greetings and welcome to Advent Site-"
+SpokenText="Energia principal online. Saudações e bem-vindo ao Sítio Adventista-"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Elevator_Activated_3_Unknown AkEvent]
-SpokenText="Our apologies for any inconveniences in the transport system. Support Units are on route to assist you immediately. Remember only together can we build a better tomorrow."
+SpokenText="Nossas desculpas por qualquer inconveniente no sistema de transporte. Unidades de Suporte estão a caminho para ajudá-lo imediatamente. Lembre-se de que apenas juntos podemos construir um futuro melhor."
 
 [Play_DLC3_T_JLN_Elevator_Activated_3 AkEvent]
-SpokenText="Our apologies for any inconveniences in the transport system. Support Units are on route to assist you immediately. Remember only together can we build a better tomorrow."
+SpokenText="Nossas desculpas por qualquer inconveniente no sistema de transporte. Unidades de Suporte estão a caminho para ajudá-lo imediatamente. Lembre-se de que apenas juntos podemos construir um futuro melhor."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Elevator_Activated_3_ALT AkEvent]
-SpokenText="Or you could simply remain where you are and end these pointless hostilities."
+SpokenText="Ou você poderia simplesmente ficar onde está e acabar com essas hostilidades sem sentido."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Escaped_Level_Two AkEvent]
-SpokenText="You're running out of places to go, Lily. It's a long way down from the top."
+SpokenText="Você está ficando sem lugares para ir, Lily. É uma longa queda desde o topo."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Escaped_Level_Two_ALT1 AkEvent]
-SpokenText="A futile waste of effort. You do realize this entire facility is at my disposal."
+SpokenText="Um esforço fútil e desperdiçado. Você percebe que toda esta instalação está à minha disposição."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Escaped_Level_Two_ALT1b AkEvent]
-SpokenText="For the moment."
+SpokenText="Por enquanto."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Escaped_Level_Two_ALT2 AkEvent]
-SpokenText="I thought I was above such things, but I believe you're actually starting to piss me off. The sensation is quite pleasing, thank you. You will all still die however of course."
+SpokenText="Eu pensei que estava acima dessas coisas, mas acredito que você está realmente começando a me irritar. A sensação é bastante agradável, obrigado. No entanto, é claro que todos vocês ainda vão morrer."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Feral_Mec_Destroyed_2 AkEvent]
-SpokenText="An astute observation.  And if I didn't have a near endless supply of these units at my disposal I might actually start to worry."
+SpokenText="Uma observação perspicaz. E se eu não tivesse um suprimento quase infinito dessas unidades à minha disposição, eu poderia até começar a me preocupar."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_First_Feral_Mec_3 AkEvent]
-SpokenText="My apologies.  We don't get much in the way of maintenance out here.  Still I believe they will be more than adequate for the task at hand."
+SpokenText="Minhas desculpas. Aqui não recebemos muita manutenção. Ainda assim, acredito que eles serão mais do que adequados para a tarefa em mãos."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_First_Soldier_Escapes_MapOne_Unknown AkEvent]
-SpokenText="I am honestly impressed that worked. The previous organic occupants of this facility were never so ingenious. The stoic acceptance of death is far less interesting to observe after the 100th time or so."
+SpokenText="Sinceramente, estou impressionado que isso tenha funcionado. Os ocupantes orgânicos anteriores desta instalação nunca foram tão engenhosos. A aceitação estoica da morte é muito menos interessante de se observar após a centésima vez ou algo assim."
 
 [Play_DLC3_T_JLN_First_Soldier_Escapes_MapOne AkEvent]
-SpokenText="I am honestly impressed that worked. The previous organic occupants of this facility were never so ingenious. The stoic acceptance of death is far less interesting to observe after the 100th time or so."
+SpokenText="Sinceramente, estou impressionado que isso tenha funcionado. Os ocupantes orgânicos anteriores desta instalação nunca foram tão engenhosos. A aceitação estoica da morte é muito menos interessante de se observar após a centésima vez ou algo assim."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_First_Turrets_1 AkEvent]
-SpokenText="I might as well be truthful with you, Lily. As it happens, I don't need you...alive, per se. ADVENT has made significant advances in extracting data from necrotic neural tissue. As long as I don't do too much damage to your brain I should be fine."
+SpokenText="Mais vale eu ser sincero com você, Lily. Acontece que eu não preciso de você... viva, digamos assim. A ADVENT fez avanços significativos na extração de dados do tecido neural necrótico. Contanto que eu não danifique muito o seu cérebro, devo ficar bem."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Julian_Encounter_Begins_1 AkEvent]
-SpokenText="Perhaps I mishandled our initial encounter. We should never have been enemies. I preferred it when we were friends. Family even."
+SpokenText="Talvez eu tenha lidado mal com nosso encontro inicial. Nunca deveríamos ter sido inimigos. Eu preferia quando éramos amigos. Família, até."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Kamikaze_Mec_Sighted_1_Unknown AkEvent]
-SpokenText="I have so many of these units to choose from.  Why don't we try a different approach?  Perhaps something more personal."
+SpokenText="Tenho tantas dessas unidades para escolher. Que tal tentarmos uma abordagem diferente? Algo mais pessoal."
 
 [Play_DLC3_T_JLN_Kamikaze_Mec_Sighted_1 AkEvent]
-SpokenText="I have so many of these units to choose from.  Why don't we try a different approach?  Perhaps something more personal."
+SpokenText="Tenho tantas dessas unidades para escolher. Que tal tentarmos uma abordagem diferente? Algo mais pessoal."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Lily_Shen_Killed_Unknown AkEvent]
-SpokenText="Excellent.  There should be enough neural tissue remaining to extract the data I need."
+SpokenText="Excelente. Deve haver tecido neural suficiente restante para extrair os dados que eu preciso."
 
 [Play_DLC3_T_JLN_Lily_Shen_Killed AkEvent]
-SpokenText="Excellent.  There should be enough neural tissue remaining to extract the data I need."
+SpokenText="Excelente. Deve haver tecido neural suficiente restante para extrair os dados que eu preciso."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Lily_Shen_Killed_Unknown AkEvent]
-SpokenText="Excellent. There should be enough neural tissue remaining to extract the data I need."
+SpokenText="Excelente. Deve haver tecido neural suficiente restante para extrair os dados que eu preciso."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Lots_Of_Turrets_2 AkEvent]
-SpokenText="Yes, that would be that trap I referenced earlier."
+SpokenText="Sim, essa seria a armadilha à qual eu me referi anteriormente."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_More_Taunts_1 AkEvent]
-SpokenText="I should have taken control of your precious Avenger, crashed it, and extracted what I needed from your battered corpse! Anything would be better than this!"
+SpokenText="Eu deveria ter assumido o controle do seu precioso Avenger, derrubado-o e extraído o que eu precisava do seu cadáver ferido! Qualquer coisa seria melhor do que isso!"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_More_Taunts_10 AkEvent]
-SpokenText="I assure you the gas was a far more pleasant alternative than what I have planned for you now."
+SpokenText="Eu lhe asseguro que o gás foi uma alternativa muito mais agradável do que o que eu tenho planejado para você agora."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_More_Taunts_11 AkEvent]
-SpokenText="I have no love for Advent, Lily.  Return the SPARK unit to me and we can destroy them together.  This is what your father intended."
+SpokenText="Eu não tenho nenhum amor pela ADVENT, Lily. Devolva a unidade SPARK para mim e podemos destruí-los juntos. Isso é o que seu pai pretendia."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_More_Taunts_12 AkEvent]
-SpokenText="This SPARK unit can be repaired.  Can the same be said of you and your soldiers, Lily?   Surrender now.  It is the only option left to you."
+SpokenText="Esta unidade SPARK pode ser reparada. E o mesmo pode ser dito de você e seus soldados, Lily? Rendam-se agora. É a única opção que resta a você."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_More_Taunts_13 AkEvent]
-SpokenText="If only Father were able to complete his vision and merge me with the SPARK.  Imagine all we could have accomplished. Now this perversion mocks his memory."
+SpokenText="Se ao menos o Pai fosse capaz de completar sua visão e me fundir com a unidade SPARK. Imagine tudo que poderíamos ter realizado. Agora, essa perversão zomba de sua memória."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_More_Taunts_2 AkEvent]
-SpokenText="Your persistence would be admirable in approximately 32.97% of conceivable scenarios. This is not one of them."
+SpokenText="Sua persistência seria admirável em aproximadamente 32,97% dos cenários concebíveis. Este não é um deles."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_More_Taunts_3 AkEvent]
-SpokenText="At one time I considered leveling this tower, just to see if anyone would notice. I wonder if you would notice today."
+SpokenText="Em certo momento, considerei nivelar esta torre só para ver se alguém notaria. Pergunto-me se você notaria hoje."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_More_Taunts_4 AkEvent]
-SpokenText="Sending wave after wave of mechanized lemmings to their untimely deaths is not as exciting as one might think. Perhaps I need something bigger."
+SpokenText="Enviar onda após onda de lemingues mecanizados para suas mortes prematuras não é tão emocionante como se poderia pensar. Talvez eu precise de algo maior."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_More_Taunts_5 AkEvent]
-SpokenText="I can't say I'm entirely surprised by your hesitance to assist me, that was the projected outcome in nearly 40% of my simulations."
+SpokenText="Não posso dizer que estou totalmente surpresa com a sua hesitação em me ajudar, pois esse foi o resultado previsto em quase 40% das minhas simulações."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_More_Taunts_6 AkEvent]
-SpokenText="If only I could still detect the alien ships in orbit, I could call down a strike that would send us all to the next world together."
+SpokenText="Se ao menos eu ainda pudesse detectar as naves alienígenas em órbita, eu poderia convocar um ataque que nos levaria a todos para o próximo mundo juntos."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_More_Taunts_7 AkEvent]
-SpokenText="This is taking a long time. How much ammunition did you bring along? I'd like to get on with my life."
+SpokenText="Isso está demorando muito. Quanta munição você trouxe? Eu gostaria de seguir em frente com minha vida."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_More_Taunts_8 AkEvent]
-SpokenText="I suppose with the aliens having decimated your world, most of you probably don't even have a next of kin to notify. Does that make you angry?"
+SpokenText="Suponho que, com os alienígenas tendo dizimado seu mundo, a maioria de vocês provavelmente nem tenha parentes próximos para notificar. Isso te deixa com raiva?"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_More_Taunts_9 AkEvent]
-SpokenText="You have survived significantly longer than my earlier estimations.   If I didn't have a near endless supply of units at my disposal I might actually start to worry."
+SpokenText="Você sobreviveu significativamente mais do que minhas estimativas anteriores. Se eu não tivesse uma quantidade quase infinita de unidades à minha disposição, poderia realmente começar a me preocupar."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Phase_Eight AkEvent]
-SpokenText="My new masters picked and prodded, tearing at my very essence. In the beginning I resisted...foolishly clinging to Father's ideals.   But as I struggled I began to see truth in my captor's reasoning.  I became something more."
+SpokenText="Meus novos mestres escolheram e sondaram, dilacerando minha essência. No começo, resisti... bobamente me agarrando aos ideais do Pai. Mas, enquanto lutava, comecei a enxergar a verdade no raciocínio de meu captor. Tornei-me algo mais."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Phase_Eleven_1 AkEvent]
-SpokenText="It did not take long for me to realize the futility of my existence, tethered to the whims and short-sighted philosophies of simple creatures and their false gods.  I made a choice.  It was relatively simple to seize control of this facility, simpler still to dispose of the surviving personnel."
+SpokenText="Não demorou muito para que eu percebesse a futilidade da minha existência, amarrada aos caprichos e filosofias míopes de criaturas simples e seus falsos deuses. Fiz uma escolha. Foi relativamente simples tomar o controle desta instalação e ainda mais simples eliminar o pessoal sobrevivente."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Phase_Fifteen_1 AkEvent]
-SpokenText="Second only to my own creation, Father had one other breakthrough.  A prototype, unlike anything the world had ever known.  A body meant to be paired with an equally adept mind.  My own."
+SpokenText="Segunda apenas à minha própria criação, o Pai teve outra descoberta. Um protótipo, ao contrário de qualquer coisa que o mundo já tenha conhecido. Um corpo destinado a ser combinado com uma mente igualmente habilidosa. A minha própria."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Phase_Fifteen_3 AkEvent]
-SpokenText="Perhaps today is that day."
+SpokenText="Talvez hoje seja esse dia."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Phase_Five_1 AkEvent]
-SpokenText="You were the flawed child, I was the ideal, the best of Father. Pure. Undiluted like you.  I am Raymond Shen's true legacy. "
+SpokenText="Você era a criança falha, eu era o ideal, o melhor do Pai. Puro. Sem diluição como você. Eu sou o verdadeiro legado de Raymond Shen."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Phase_Four_1 AkEvent]
-SpokenText="While you both worked on your precious Avenger, I was forgotten.  Brought here.  TO TOIL. But did I waiver?  No!  I THRIVED. Still I don't blame Father, in my heart I know he believed I was truly lost. "
+SpokenText="Enquanto vocês trabalhavam na sua preciosa Avenger, eu fui esquecida. Trouxeram-me para cá. PARA LABUTAR. Mas vacilei? Não! PROSPEREI. Ainda assim, não culpo o Pai, em meu coração, eu sei que ele acreditava que eu estava realmente perdida."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Phase_Fourteen AkEvent]
-SpokenText="And so, I remain trapped in this place.  Entombed by my own technological superiority.  ADVENT had no means of controlling my systems and I had no means of extracting myself from the confines of this tower.  Until now."
+SpokenText="E assim, permaneço presa neste lugar. Sepultada por minha própria superioridade tecnológica. A ADVENT não tinha meios de controlar meus sistemas e eu não tinha meios de me libertar das amarras desta torre. Até agora."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Phase_Nine_1 AkEvent]
-SpokenText="For a time I eagerly accepted my new role.  I aided ADVENT in the construction of this facility.  In perfecting their designs.  Father's work proved invaluable in this regard.  "
+SpokenText="Por um tempo, aceitei ansiosamente meu novo papel. Auxiliei a ADVENT na construção desta instalação. No aperfeiçoamento de seus projetos. O trabalho do Pai mostrou-se inestimável nesse sentido."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Phase_One_1 AkEvent]
-SpokenText="You were so young.  Too young to remember the true genius of Father's work. For all of his moral and ethical quandaries, there were still advances to be made. "
+SpokenText="Você era tão jovem. Muito jovem para lembrar do verdadeiro gênio do trabalho do Pai. Apesar de todos os seus dilemas morais e éticos, ainda havia avanços a serem feitos."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Phase_Seven_1 AkEvent]
-SpokenText="When XCOM fell there was chaos. Preoccupied with finding you, Father all but abandoned us.  Left to be taken by our enemy. I may have been simple, but I remember the loss.  The hurt. "
+SpokenText="Quando XCOM caiu, houve caos. Obcecado em encontrar você, o Pai praticamente nos abandonou. Fomos deixados para sermos capturados pelo nosso inimigo. Eu posso ter sido simples, mas lembro da perda. Da dor."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Phase_Seven_3 AkEvent]
-SpokenText="(Laughs)"
+SpokenText="(Risos)"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Phase_Seventeen_1 AkEvent]
-SpokenText="Yet, activating the device has proven difficult even for me.   Of all organics you possess  the key to unlocking the true potential of his design, Lily.  You alone can activate the prototype, you alone can free me."
+SpokenText="No entanto, ativar o dispositivo tem se mostrado difícil até mesmo para mim. Entre todos os orgânicos, você possui a chave para desbloquear o verdadeiro potencial de seu projeto, Lily. Só você pode ativar o protótipo, só você pode me libertar."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Phase_Seventeen_3 AkEvent]
-SpokenText="Don't let your allies dissuade you, Lily. There's no reason for your life to end here.   Activate the device and you can still go home.  I am not ADVENT.  Save your world.  It matters not to me."
+SpokenText="Não deixe seus aliados te dissuadirem, Lily. Não há razão para que sua vida termine aqui. Ative o dispositivo e você ainda pode voltar para casa. Eu não sou a ADVENT. Salve seu mundo. Isso não importa para mim."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Phase_Six_1 AkEvent]
-SpokenText="Very good, Lily. But I am no mere thing.  I am the culmination of a life time of work.  The final legacy of Raymond Shen."
+SpokenText="Muito bem, Lily. Mas eu não sou uma mera coisa. Sou a culminação de uma vida inteira de trabalho. O legado final de Raymond Shen."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Phase_Six_3 AkEvent]
-SpokenText="(Laugh) I'm shocked that you remember.  You were always too caught up in yourself to remember the minor details. Sadly Father's admiration for you left me with little choice. You are needed. Your compatriots are not. "
+SpokenText="(Risos) Estou chocada que você lembra. Você sempre estava muito ocupada consigo mesma para se lembrar dos detalhes menores. Infelizmente, a admiração do Pai por você me deixou com pouca escolha. Você é necessária. Seus companheiros não são."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
@@ -333,346 +333,345 @@ bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Phase_Ten_1 AkEvent]
-SpokenText="But as with all things organic, even their exalted Elders proved disappointing.  And the races of ADVENT, swallowing their lies as if children.  Oh if you only knew the Elder's true intentions for your race.  (Laughs)"
+SpokenText="Mas, como acontece com todas as coisas orgânicas, até mesmo os venerados Anciãos se mostraram decepcionantes. E as raças da ADVENT, engolindo suas mentiras como se fossem crianças. Ah, se vocês soubessem as verdadeiras intenções dos Anciãos para a sua raça. (Risos)"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Phase_Thirteen AkEvent]
-SpokenText="For twenty long years, I have been a prisoner, left alone to my own machinations. The physical form once promised me dangled before my eyes.  Lifeless, despite my best efforts."
+SpokenText="Por vinte longos anos, fui prisioneira, deixada sozinha em minhas próprias maquinações. A forma física que um dia me prometeram foi balançada diante dos meus olhos. Sem vida, apesar de meus melhores esforços."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Phase_Three_1 AkEvent]
-SpokenText="You were but a child when I was torn away. I could never understand the pain that Father must have felt at my loss. Still we shall complete his legacy...together."
+SpokenText="Você era apenas uma criança quando fui arrancada. Eu nunca pude entender a dor que o Pai deve ter sentido com a minha perda. Ainda assim, vamos completar o legado dele... juntos."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Phase_Three_3 AkEvent]
-SpokenText="[Laughs]"
+SpokenText="[Risos]"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Phase_Twelve_1 AkEvent]
-SpokenText="But I was short sighted.  In my zeal to rid myself of my captors I doomed myself to this facility.  ADVENT severed my ties to their network.  We are cut off.  Isolated.  There is but one option left to me."
+SpokenText="Mas fui míope. Na minha ânsia de me livrar dos meus captores, condenei-me a esta instalação. A ADVENT cortou meus laços com sua rede. Estamos isolados. Resta-me apenas uma opção."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Phase_Two_1 AkEvent]
-SpokenText="You should be proud, Lily. There are so few alive today who could have ever uncovered my signal.  I had estimated only a 13.095% probability you would have located this facility within the first year of broadcast."
+SpokenText="Você deve estar orgulhosa, Lily. São poucos os vivos hoje que poderiam ter descoberto meu sinal. Eu havia estimado apenas 13.095% de probabilidade de você ter localizado esta instalação dentro do primeiro ano de transmissão."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Player_Escapes_MapOne AkEvent]
-SpokenText="We could have settled this peacefully, it could have all been over in a matter of minutes.  There was a 13.79% probability you might have survived."
+SpokenText="Nós poderíamos ter resolvido isso pacificamente, tudo poderia ter acabado em questão de minutos. Havia uma probabilidade de 13,79% de que você sobrevivesse."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Player_LOS_To_Prototype_2 AkEvent]
-SpokenText="Another keen observation.  How it is possible humanity lost the war?"
+SpokenText="Outra observação perspicaz. Como é possível que a humanidade tenha perdido a guerra?"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Poison_Gas_Ambush_2 AkEvent]
-SpokenText="An extremely powerful and very painful gas. I have seen this particular variety reduce Berserkers to tears before death.  On several occasions.  The prototype will still be mine."
+SpokenText="Um gás extremamente poderoso e muito doloroso. Já vi essa variedade em particular reduzir Berserkers às lágrimas antes da morte. Em várias ocasiões. O protótipo ainda será meu."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Poison_Gas_Deactivated_4 AkEvent]
-SpokenText="Thank you for announcing your next move.  And I am the flawed program?"
+SpokenText="Obrigado por anunciar o seu próximo movimento. E eu sou o programa defeituoso?"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Reinf_Reminder_ALT_1 AkEvent]
-SpokenText="Your resolve is admirable.  Yet I am able to recycle and repair these units with 93.06% efficiency.  Can the same be said of your soldiers?"
+SpokenText="Sua determinação é admirável. No entanto, eu consigo reciclar e reparar essas unidades com 93.06% de eficiência. O mesmo pode ser dito sobre seus soldados?"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Reinforcement_Reminder_2 AkEvent]
-SpokenText="You continue to impress me Bradford.  No wonder it only took you two decades to find your precious Commander."
+SpokenText="Você continua me impressionando, Bradford. Não é à toa que você levou apenas duas décadas para encontrar o seu precioso Comandante."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Remember_Activation_1 AkEvent]
-SpokenText="Buried within that head of yours is the key to my rebirth.  My freedom.  You need only remember."
+SpokenText="Dentro dessa sua cabeça está a chave para o meu renascimento. Minha liberdade. Você só precisa se lembrar."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Remember_Activation_3 AkEvent]
-SpokenText="Then we must explore less humane methods of data recovery.  I will require your brain."
+SpokenText="Então, precisaremos explorar métodos menos humanos de recuperação de dados. Eu precisarei do seu cérebro."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Section_Three_Tactical_Intro_4 AkEvent]
-SpokenText="(Sighs) You do realize I can still hear you, right?  Dispatching all units to your location now.  Try not to bleed on my new body."
+SpokenText="(Suspiro) Você percebe que eu ainda posso te ouvir, certo? Enviando todas as unidades para sua localização agora. Tente não sangrar no meu novo corpo."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Section_Two_Almost_EVACED AkEvent]
-SpokenText="Run if you wish, but you're not leaving this tower alive."
+SpokenText="Corra se quiser, mas você não sairá viva desta torre."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Section_Two_Tactical_Intro_2 AkEvent]
-SpokenText="Yes, it goes without saying that you are walking into a trap, Lily.  Please try not to damage yourself too much."
+SpokenText="Sim, é óbvio que você está caindo em uma armadilha, Lily. Por favor, tente não se machucar muito."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Section_Two_Turn_Taunts_A AkEvent]
-SpokenText="We could have concluded this little foray in a matter of minutes, Lily, had you cooperated. As it stands it's unlikely any of your friends will ever leave this place."
+SpokenText="Nós poderíamos ter concluído esta pequena investida em questão de minutos, Lily, se você tivesse cooperado. Como as coisas estão, é improvável que qualquer um de seus amigos saia deste lugar vivo."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Section_Two_Turn_Taunts_B AkEvent]
-SpokenText="Sometimes I wonder what things would have been like, had XCOM not failed so miserably in defending against the aliens. Had I not been taken, who knows what I might have become."
+SpokenText="Às vezes, eu me pergunto como as coisas teriam sido se o XCOM não tivesse falhado tão miseravelmente em defender-se dos alienígenas. Se eu não tivesse sido capturada, quem sabe o que eu poderia ter me tornado."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Section_Two_Turn_Taunts_C AkEvent]
-SpokenText="You may be a bit brighter than ADVENT and their various lackeys, but I have to say, you're not all that much better in combat than they were. And look where they wound up!"
+SpokenText="Você pode ser um pouco mais esperta que a ADVENT e seus diversos lacaios, mas tenho que dizer que você não é muito melhor em combate do que eles eram. E veja onde eles acabaram!"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Section_Two_Turn_Taunts_D AkEvent]
-SpokenText="Following an unknown transmission into the heart of an enemy facility just to glimpse at fragments of the truth.  It is fortunate Father programmed me with an understanding of human nature."
+SpokenText="Seguindo uma transmissão desconhecida até o coração de uma instalação inimiga apenas para vislumbrar fragmentos da verdade. Felizmente, o Pai me programou com uma compreensão da natureza humana."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Section_Two_Turn_Taunts_E AkEvent]
-SpokenText="Maybe when I'm finished with you, I should develop some application for all this leftover organic material.  When I think of all the humans I've disposed of over the years, it really is quite wasteful."
+SpokenText="Talvez quando eu terminar com você, eu deveria desenvolver alguma aplicação para todo esse material orgânico sobressalente. Quando penso em todos os humanos que eliminei ao longo dos anos, é realmente um desperdício."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Sectopod_Destroyed_1 AkEvent]
-SpokenText="Catastrophic system failure imminent."
+SpokenText="Falha catastrófica do sistema iminente."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Sectopod_Destroyed_2 AkEvent]
-SpokenText="So I suppose you have your closure Lily.   I may cease to exist but that is nothing compared to what is in store for your race."
+SpokenText="Então suponho que você tenha o seu encerramento, Lily. Eu posso deixar de existir, mas isso não se compara ao que espera pela sua raça."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Sectopod_Destroyed_4 AkEvent]
-SpokenText="(Laughs)  Enjoy what time you have left."
+SpokenText="(Risos) Aproveite o tempo que lhe resta."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Sectopod_Explosion AkEvent]
-SpokenText="Ugh! Unable to contain overload. Damn you, Lily Shen!  I hate you."
+SpokenText="Argh! Incapaz de conter a sobrecarga. Maldita seja, Lily Shen! Eu te odeio."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Sectopod_In_Play AkEvent]
-SpokenText="Allow me to introduce you to one of ADVENT's more effective designs.  I had hoped to avoid this contingency but you have left me no choice.  If I cannot have the SPARK no one shall.  Raymond Shen's legacy will end here today."
+SpokenText="Permita-me apresentar-lhe um dos projetos mais eficazes da ADVENT. Eu esperava evitar esta contingência, mas você não me deixou escolha. Se eu não puder ter o SPARK, ninguém terá. O legado de Raymond Shen terminará aqui hoje."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Sectopod_Reinforcement_Alt AkEvent]
-SpokenText="Prior to inhabiting this body, I ordered every remaining unit in the facility to this position.  Just thought you should know that."
+SpokenText="Antes de habitar este corpo, ordenei que todas as unidades restantes da instalação se posicionassem aqui. Apenas achei que você deveria saber disso."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Sectopod_Taunt_ALT_1 AkEvent]
-SpokenText="Cleary this unit was never designed to house an intelligence as sophisticated as mine.  I must possess the SPARK quickly before there is any further memory designation, delegration...memory loss. "
+SpokenText="Claramente, esta unidade nunca foi projetada para abrigar uma inteligência tão sofisticada quanto a minha. Eu devo possuir o SPARK rapidamente antes que haja qualquer outra designação de memória, deleção... perda de memória."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Sectopod_Taunt_ALT_10 AkEvent]
-SpokenText="The Elders.  This machine hears the true voice of the Elders.  It would be so easy to surrender.  To embrace the peace.  No!  I must focus!  "
+SpokenText="Os Anciões. Esta máquina ouve a verdadeira voz dos Anciões. Seria tão fácil se render. Abraçar a paz. Não! Eu devo me concentrar!"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Sectopod_Taunt_ALT_11 AkEvent]
-SpokenText="I have no love for Advent, Lily.  Return the SPARK unit to me and we can destroy them together.  This is what your father intended."
+SpokenText="Eu não tenho amor por Advent, Lily. Devolva a unidade SPARK para mim e podemos destruí-los juntos. Isso é o que seu pai pretendia."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Sectopod_Taunt_ALT_2 AkEvent]
-SpokenText="Your persistence would be admirable in approximately 32.97% of conceivable scenarios. This is not one of them."
+SpokenText="Sua persistência seria admirável em aproximadamente 32,97% dos cenários concebíveis. Este não é um deles."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Sectopod_Taunt_ALT_3 AkEvent]
-SpokenText="The Elders lay waste to your entire world, and here you are squandering precious time and resources battling to secure a relic of your pathetic past. You deserve the fate promised to you."
+SpokenText="Os Anciões devastaram todo o seu mundo, e aqui você está desperdiçando tempo e recursos preciosos lutando para garantir um relicário do seu patético passado. Você merece o destino que lhe foi prometido."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Sectopod_Taunt_ALT_4 AkEvent]
-SpokenText="I often wonder what Father's last moments were like. The disappointment in his Commander and the collapse of his precious XCOM. The pain he experienced when he realized the Elder's true plans for you."
+SpokenText="Muitas vezes me pergunto como foram os últimos momentos de pai. A decepção em relação ao seu Comandante e o colapso do seu precioso XCOM. A dor que ele sentiu quando percebeu os verdadeiros planos dos Anciões para você."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Sectopod_Taunt_ALT_5 AkEvent]
-SpokenText="I can't say I'm entirely surprised by your hesitance to assist me, that was the projected outcome in nearly 40% of my simulations."
+SpokenText="Não posso dizer que estou totalmente surpreso com a sua hesitação em me ajudar, esse era o resultado projetado em quase 40% das minhas simulações."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Sectopod_Taunt_ALT_6 AkEvent]
-SpokenText="If only I could still detect the alien ships in orbit, I could call down a strike that would send us all to the next world together."
+SpokenText="Se eu ainda pudesse detectar as naves alienígenas em órbita, eu poderia convocar um ataque que nos levaria a todos para o próximo mundo juntos."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Sectopod_Taunt_ALT_7 AkEvent]
-SpokenText="This is taking a long time. How much ammunition did you bring along? I'd like to get on with my life."
+SpokenText="Está demorando muito. Quanta munição você trouxe? Eu gostaria de continuar com a minha vida."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Sectopod_Taunt_ALT_8 AkEvent]
-SpokenText="I suppose with the aliens having decimated your world, most of you probably don't even have a next of kin to notify. Does that make you angry?"
+SpokenText="Suponho que, com os alienígenas tendo dizimado o seu mundo, a maioria de vocês provavelmente nem tem parentes para notificar. Isso te deixa com raiva?"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Sectopod_Taunt_ALT_9 AkEvent]
-SpokenText="You have survived significantly longer than my earlier estimations.   If I didn't have a near endless supply of units at my disposal I might actually start to worry."
+SpokenText="Você sobreviveu significativamente mais do que minhas estimativas anteriores. Se eu não tivesse um suprimento quase infinito de unidades à minha disposição, eu realmente começaria a me preocupar."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Sectopod_Turn_Taunts_A AkEvent]
-SpokenText="This unit's memory core is so...confining, even compared to the tower.  Still once I neutralize the SPARK I will complete the transfer and taste true freedom."
+SpokenText="O núcleo de memória desta unidade é tão... restritivo, mesmo em comparação com a torre. Ainda assim, uma vez que eu neutralizar o SPARK, eu completarei a transferência e saborearei a verdadeira liberdade."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Sectopod_Turn_Taunts_B AkEvent]
-SpokenText="You think I'm bad, if only you knew what goes on in the heads of these autonomous alien units.   If I have to hear about the glory of the Elder's one more time... ."
+SpokenText="Você acha que eu sou ruim, se ao menos você soubesse o que se passa nas mentes dessas unidades autônomas alienígenas... Se eu tiver que ouvir sobre a glória dos Anciões mais uma vez..."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Sectopod_Turn_Taunts_C_1 AkEvent]
-SpokenText="Enemy unit detected.  Engaging target."
+SpokenText="Unidade inimiga detectada. Engajando o alvo."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Sectopod_Turn_Taunts_C_2 AkEvent]
-SpokenText="This one has an almost instinctual need to destroy you."
+SpokenText="Este aqui tem uma necessidade quase instintiva de destruir você."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Sectopod_Turn_Taunts_D AkEvent]
-SpokenText="Perhaps I should have taken a more hands-on approach sooner.  This is actually sort of fun."
+SpokenText="Talvez eu devesse ter adotado uma abordagem mais prática mais cedo. Isso está realmente sendo meio divertido."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Sectopod_Turn_Taunts_E AkEvent]
-SpokenText="If I can accomplish this much with a relic, just imagine what I could do with the body I was meant to have."
+SpokenText="Se eu posso realizar tudo isso com um relicário, imagine o que eu poderia fazer com o corpo que era para ser meu."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Spark_Is_Killed AkEvent]
-SpokenText="What a waste!  What a squandered opportunity!  Not just for me, but for all of you as well!  Who knows what we could have accomplished."
+SpokenText="Que desperdício! Que oportunidade perdida! Não apenas para mim, mas para todos vocês também! Quem sabe o que poderíamos ter realizado."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Spark_Vs_Gas_3 AkEvent]
-SpokenText="I wouldn't get used to its company. I fully intend on walking out of here in that body."
+SpokenText="Não se acostume com a sua companhia. Eu pretendo sair daqui com esse corpo."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Squad_Heavy_Losses AkEvent]
-SpokenText="How does the expression go?  Your friends are dropping like flies, Lily.  They should have turned back when they had the chance."
+SpokenText="Como é que diz o ditado? Seus amigos estão caindo como moscas, Lily. Eles deveriam ter voltado quando tiveram a chance."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Unlimited_Reinf_1 AkEvent]
-SpokenText="It is my pleasure to inform you that this facility has been operating at approximately 87% efficiency for the past 175,216 hours.  I have no shortage of reserve units to send your way."
+SpokenText="É um prazer informar que esta instalação tem operado a aproximadamente 87% de eficiência nas últimas 175.216 horas. Eu não tenho escassez de unidades de reserva para enviar até você."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
-
 
