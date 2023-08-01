@@ -6,7 +6,7 @@ bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_JLN_Bridge_Extension_1 AkEvent]
-SpokenText="Energia principal online. Saudações e bem-vindo ao site ADVENT-"
+SpokenText="Sistema de energia principal online. Saudações e bem-vindo ao Complexo da ADVENT-"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
