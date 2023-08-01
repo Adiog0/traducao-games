@@ -9575,7 +9575,7 @@ m_strInventoryLabels[eInvSlot_CombatSim]=SIM DE COMBATE
 m_strInventoryLabels[eInvSlot_AmmoPocket]=TIPO DE MUNIÇÃO
 m_strNeedsSoldierClass=SOMENTE PARA <XGParam:StrValue0/!SoldierClassName/>
 m_strUnavailableToClass/=>INDISPONÍVEL PARA <XGParam:StrValue0/!SoldierClassName/>
-m_strAmmoIncompatible=MUNIÇÃO NÃO COMPATÍVEL COM <XGParam:StrValue0/!WeaponName/>
+m_strAmmoIncompatible=MUNIÇÃO NÃO COMPATÍVEL COM <<XGParam:StrValue0/!WeaponName/>>
 m_strCategoryRestricted=MÁX. 1 ITEM DE <XGParam:StrValue0/!ItemCategory/> POR SOLDADO
 m_strMissingAllowedClass=CLASSE PERMITIDA AUSENTE
 m_strCannotEdit=NÃO É POSSÍVEL EDITAR
@@ -9669,27 +9669,27 @@ m_strCustomizeNickName=DEFINIR APELIDO
 
 [UIArmory_WeaponUpgrade]
 m_strTitle=UPGRADE DE ARMA
-m_strUpgradeWeapon=UPGRADE DE <XGParam:StrValue0/!WeaponName/>
+m_strUpgradeWeapon=UPGRADE DE <<XGParam:StrValue0/!WeaponName/>>
 m_strEmptySlot=SLOT DISPONÍVEL
 m_strSelectUpgrade=SELECIONAR UPGRADE
 m_strSlotsAvailable=SLOTS DISPONÍVEIS
 m_strSlotsLocked=REQUER PROJETO NO LABORATÓRIO AVANÇADO
 m_strCost=CUSTO:
-m_strWeaponFullyUpgraded=XGParam:StrValue0/!WeaponName/ TOTALMENTE UPGRADE
+m_strWeaponFullyUpgraded=<<XGParam:StrValue0/!WeaponName/>> COMPLETAMENTE APRIMORADA
 m_strInvalidUpgrade=NÃO PODE EQUIPAR O UPGRADE
 m_strRequiresContinentBonus=REQUER BÔNUS DE CONTINENTE
 m_strConfirmDialogTitle=CONFIRMAR UPGRADE
 m_strConfirmDialogDescription=Uma vez que um upgrade de arma é aplicado, ele pode ser substituído, mas não reutilizado. Tem certeza de que deseja aplicar <XGParam:StrValue0/!WeaponUpgradeName/> a esta arma?
 m_strReplaceUpgradeTitle=CONFIRMAR SUBSTITUIÇÃO DE UPGRADE
-m_strReplaceUpgradeText=Um upgrade de arma não é reutilizável, remover <XGParam:StrValue0/!WeaponUpgradeName/> irá destruí-lo. Tem certeza de que deseja substituir <XGParam:StrValue0/!WeaponUpgradeName/> por XGParam:StrValue1/!WeaponUpgradeName/?
+m_strReplaceUpgradeText=Um upgrade de arma não é reutilizável, remover <XGParam:StrValue0/!WeaponUpgradeName/> irá destruí-lo. Tem certeza de que deseja substituir <XGParam:StrValue0/!WeaponUpgradeName/> por <XGParam:StrValue1/!WeaponUpgradeName/>?
 m_strUpgradeAvailable=UPGRADE DISPONÍVEL
 m_strNoUpgradeAvailable=NENHUM UPGRADE DISPONÍVEL
 m_strWeaponNotEquipped=NÃO EQUIPADO
 m_strWeaponEquippedOn=EQUIPADO EM
-m_strCustomizeWeaponTitle=CUSTOMIZAR <XGParam:StrValue0/!WeaponName/>
+m_strCustomizeWeaponTitle=CUSTOMIZAR <<XGParam:StrValue0/!WeaponName/>>
 m_strCustomizeWeaponName=Nome da Arma
 m_strRotateNavHelp=RODAR
-m_strTabNavHelp=BROWSE SOLDIERS
+m_strTabNavHelp=VER SOLDADOS
 
 [UIArmory_WeaponList]
 m_strTitle=SELECIONAR ARMA PARA UPGRADE
