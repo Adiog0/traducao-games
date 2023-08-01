@@ -583,7 +583,7 @@ SpokenText="ALERTA GERAL! TIREM SEU POVO DE LÁ!"
 SpokenText="Comandante, Jane Kelly foi fundamental na operação para trazê-lo de volta. Ela ganhou experiência suficiente para uma promoção, devemos cuidar disso agora."
 
 [S_Setup_Phase_Blacksite_Bridge_Matinee_Central AkEvent]
-SpokenText="Acabamos de receber notícias da resistência, eles conseguiram localizar um Sítio Negro da ADVENT sobre o qual ouvimos rumores. Eu bloquei as coordenadas, mas temos um problema."
+SpokenText="Acabamos de receber notícias da resistência, eles conseguiram localizar um Complexo Secreto da ADVENT sobre o qual ouvimos rumores. Eu bloquei as coordenadas, mas temos um problema."
 
 [S_Setup_Phase_Facility_Adds_Doom_Central AkEvent]
 SpokenText="Comandante, os alienígenas ainda estão avançando com o Projeto Avatar. Derrubar essa instalação seria um golpe sério para os esforços deles."
@@ -625,16 +625,16 @@ SpokenText="Não devemos esperar muito para isso, Comandante. Precisamos começa
 SpokenText="Comandante, nossa posição atual é aqui, do lado de fora da sede da resistência. Quando não estamos em movimento, isso servirá como nossa casa e fonte de suprimentos."
 
 [S_Setup_Phase_Geoscape_Avenger_Parked_Central_ALT AkEvent]
-SpokenText="Comandante, nossa posição atual é aqui, do lado de fora da sede da resistência. Quando não estamos em movimento, isso servirá como nossa casa e fonte de suprimentos. O conselheiro rastreou o Sítio Negro alienígena nesta região. Infelizmente, ainda não temos suas coordenadas exatas. Se quisermos ter alguma chance de encontrar esta instalação, precisaremos fazer contato com a célula local da resistência nas proximidades. Tygan tem uma teoria sobre como podemos contatá-los sem chamar a atenção dos alienígenas, mas precisaremos dar tempo a ele para conduzir suas pesquisas. Não devemos esperar muito para isso, Comandante. Precisamos começar a fazer contato com outras regiões em breve se quisermos construir uma resistência global e enfrentar a ADVENT."
+SpokenText="Comandante, nossa posição atual é aqui, do lado de fora da sede da resistência. Quando não estamos em movimento, isso servirá como nossa casa e fonte de suprimentos. O conselheiro rastreou o Complexo Secreto alienígena nesta região. Infelizmente, ainda não temos suas coordenadas exatas. Se quisermos ter alguma chance de encontrar esta instalação, precisaremos fazer contato com a célula local da resistência nas proximidades. Tygan tem uma teoria sobre como podemos contatá-los sem chamar a atenção dos alienígenas, mas precisaremos dar tempo a ele para conduzir suas pesquisas. Não devemos esperar muito para isso, Comandante. Precisamos começar a fazer contato com outras regiões em breve se quisermos construir uma resistência global e enfrentar a ADVENT."
 
 [S_Setup_Phase_Geoscape_Blacksite_Focus_Central AkEvent]
-SpokenText="O conselheiro rastreou o Sítio Negro alienígena nesta região. Infelizmente, ainda não temos suas coordenadas exatas. Se quisermos ter alguma chance de encontrar esta instalação, precisaremos fazer contato com a célula local da resistência nas proximidades. Tygan tem uma teoria sobre como podemos contatá-los sem chamar a atenção dos alienígenas, mas precisaremos dar tempo a ele para conduzir suas pesquisas."
+SpokenText="O conselheiro rastreou o Complexo Secreto alienígena nesta região. Infelizmente, ainda não temos suas coordenadas exatas. Se quisermos ter alguma chance de encontrar esta instalação, precisaremos fazer contato com a célula local da resistência nas proximidades. Tygan tem uma teoria sobre como podemos contatá-los sem chamar a atenção dos alienígenas, mas precisaremos dar tempo a ele para conduzir suas pesquisas."
 
 [S_Setup_Phase_Geoscape_Blacksite_Region_Contact_Made_Central AkEvent]
-SpokenText="Comandante, estabelecemos contato com a resistência local e podemos avançar para o Sítio Negro da ADVENT sob suas ordens. Devemos garantir que nossas tropas estejam totalmente equipadas e prontas para uma missão difícil, suponho que a segurança na instalação será reforçada."
+SpokenText="Comandante, estabelecemos contato com a resistência local e podemos avançar para o Complexo Secreto da ADVENT sob suas ordens. Devemos garantir que nossas tropas estejam totalmente equipadas e prontas para uma missão difícil, suponho que a segurança na instalação será reforçada."
 
 [S_Setup_Phase_Geoscape_Blacksite_Region_Focus_Central AkEvent]
-SpokenText="Agora que estabelecemos uma ligação, podemos usar nossos recursos de Intel para fazer contato com a célula local da resistência nesta região. Além de nos levar ao Sítio Negro, nosso acesso a suprimentos deve melhorar agora que expandimos nossa influência."
+SpokenText="Agora que estabelecemos uma ligação, podemos usar nossos recursos de Intel para fazer contato com a célula local da resistência nesta região. Além de nos levar ao Complexo Secreto, nosso acesso a suprimentos deve melhorar agora que expandimos nossa influência."
 
 [S_Setup_Phase_Geoscape_First_GOP_Central AkEvent]
 SpokenText="Estamos prontos para começar a agir, Comandante. Atacando a ADVENT onde quer que os encontremos, podemos ajudar a fortalecer o movimento de resistência global. Em troca, eles contribuirão com apoio material para alimentar nossas operações. Acho que é hora de ver o que essa coisa pode fazer."
