@@ -7161,7 +7161,7 @@ DistrictSecondName[4]=Quarteirão
 DistrictSecondName[5]=Distrito Policial
 
 [CityCenter X2MissionSiteDescriptionTemplate]
-DescriptionString="Distrito <XGParam:StrValue1/!DistrictSecondName/> <XGParam:StrValue0/!DistrictFirstName/>, <CidadeADVENT>"
+DescriptionString="Distrito <XGParam:StrValue1/!DistrictSecondName/> <XGParam:StrValue0/!DistrictFirstName/>, <AdventCity>"
 
 [Wilderness X2MissionSiteDescriptionTemplate]
 DescriptionString="Região Selvagem de <Region>"
