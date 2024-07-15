@@ -3,7 +3,7 @@
 ;---------------------------
 
 [KevlarArmor_DLC_Day30 X2ArmorTemplate]
-FriendlyName="Armadura Kevlar dos Filhos da Anarquia"
+FriendlyName="Armadura Kevlar dos Filhos da Anarquiassss"
 BriefSummary="Essa armadura básica consiste em proteção improvisada montada a partir de sucata e caches de armas da Resistência. Ela oferece proteção mínima contra armamento da ADVENT e é praticamente inútil contra armas alienígenas."
 TacticalText="<Bullet/> Todos os soldados recebem a armadura Kevlar como parte de seu kit básico.\n<Bullet/> Pesquisas podem nos dar acesso a armaduras melhores; isso ajudará tremendamente em combate."
 
