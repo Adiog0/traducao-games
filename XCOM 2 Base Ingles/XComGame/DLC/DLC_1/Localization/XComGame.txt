@@ -80,7 +80,7 @@ DisplayName="Descoberto"
 DisplayName="Peitoral"
 
 [DLC_30_Torso_A2_M X2BodyPartTemplate]
-DisplayName="Peitoral com Espigões e Tiras"
+DisplayName="Peitoral com Espinhos e Tiras"
 
 [DLC_30_Torso_B_M X2BodyPartTemplate]
 DisplayName="Colete de Aranha com Corrente"
@@ -116,10 +116,10 @@ DisplayName="Tiras de Couro"
 DisplayName="Tiras de Couro"
 
 [DLC_30_Arms_Left_D_M X2BodyPartTemplate]
-DisplayName="Manopla com Espigões"
+DisplayName="Manopla com Espinhos"
 
 [DLC_30_Arms_Right_D_M X2BodyPartTemplate]
-DisplayName="Manopla com Espigões"
+DisplayName="Manopla com Espinhos"
 
 [DLC_30_Shoulder_Left_Bare_M X2BodyPartTemplate]
 DisplayName="Ombro Descoberto"
@@ -134,10 +134,10 @@ DisplayName="Espaldeira"
 DisplayName="Espaldeira"
 
 [DLC_30_Shoulder_Left_B_M X2BodyPartTemplate]
-DisplayName="Espaldeira com Espigões"
+DisplayName="Espaldeira com Espinhos"
 
 [DLC_30_Shoulder_Right_B_M X2BodyPartTemplate]
-DisplayName="Espaldeira com Espigões"
+DisplayName="Espaldeira com Espinhos"
 
 [DLC_30_Shoulder_Left_C_M X2BodyPartTemplate]
 DisplayName="Protetor de Ombro com Penas"
@@ -182,7 +182,7 @@ DisplayName="Descoberto"
 DisplayName="Peitoral"
 
 [DLC_30_Torso_A2_F X2BodyPartTemplate]
-DisplayName="Peitoral com Espigões e Tiras"
+DisplayName="Peitoral com Espinhos e Tiras"
 
 [DLC_30_Torso_B_F X2BodyPartTemplate]
 DisplayName="Colete de Aranha com Corrente"
@@ -218,10 +218,10 @@ DisplayName="Tiras de Couro"
 DisplayName="Tiras de Couro"
 
 [DLC_30_Arms_Left_D_F X2BodyPartTemplate]
-DisplayName="Manopla com Espigões"
+DisplayName="Manopla com Espinhos"
 
 [DLC_30_Arms_Right_D_F X2BodyPartTemplate]
-DisplayName="Manopla com Espigões"
+DisplayName="Manopla com Espinhos"
 
 [DLC_30_Shoulder_Left_Bare_F X2BodyPartTemplate]
 DisplayName="Ombro Descoberto"
@@ -236,10 +236,10 @@ DisplayName="Espaldeira"
 DisplayName="Espaldeira"
 
 [DLC_30_Shoulder_Left_B_F X2BodyPartTemplate]
-DisplayName="Espaldeira com Espigões"
+DisplayName="Espaldeira com Espinhos"
 
 [DLC_30_Shoulder_Right_B_F X2BodyPartTemplate]
-DisplayName="Espaldeira com Espigões"
+DisplayName="Espaldeira com Espinhos"
 
 [DLC_30_Shoulder_Left_C_F X2BodyPartTemplate]
 DisplayName="Protetor de Ombro com Penas"
@@ -294,7 +294,7 @@ DisplayName="Soco Inglês"
 DisplayName="Tiras de Couro"
 
 [DLC_30_Arms_Right_PltLt_D_M X2BodyPartTemplate]
-DisplayName="Manopla com Espigões"
+DisplayName="Manopla com Espinhos"
 
 [DLC_30_Shoulder_Left_PltLt_Bare_M X2BodyPartTemplate]
 DisplayName="Ombro Descoberto"
@@ -309,10 +309,10 @@ DisplayName="Espaldeira"
 DisplayName="Espaldeira"
 
 [DLC_30_Shoulder_Left_PltLt_B_M X2BodyPartTemplate]
-DisplayName="Espaldeira com Espigões"
+DisplayName="Espaldeira com Espinhos"
 
 [DLC_30_Shoulder_Right_PltLt_B_M X2BodyPartTemplate]
-DisplayName="Espaldeira com Espigões"
+DisplayName="Espaldeira com Espinhos"
 
 [DLC_30_Shoulder_Left_PltLt_C_M X2BodyPartTemplate]
 DisplayName="Protetor de Ombro com Penas"
@@ -358,7 +358,7 @@ DisplayName="Soco Inglês"
 DisplayName="Tiras de Couro"
 
 [DLC_30_Arms_Right_PltLt_D_F X2BodyPartTemplate]
-DisplayName="Manopla com Espigões"
+DisplayName="Manopla com Espinhos"
 
 [DLC_30_Shoulder_Left_PltLt_Bare_F X2BodyPartTemplate]
 DisplayName="Ombro Descoberto"
@@ -373,10 +373,10 @@ DisplayName="Espaldeira"
 DisplayName="Espaldeira"
 
 [DLC_30_Shoulder_Left_PltLt_B_F X2BodyPartTemplate]
-DisplayName="Espaldeira com Espigões"
+DisplayName="Espaldeira com Espinhos"
 
 [DLC_30_Shoulder_Right_PltLt_B_F X2BodyPartTemplate]
-DisplayName="Espaldeira com Espigões"
+DisplayName="Espaldeira com Espinhos"
 
 [DLC_30_Shoulder_Left_PltLt_C_F X2BodyPartTemplate]
 DisplayName="Protetor de Ombro com Penas"
@@ -431,10 +431,10 @@ DisplayName="Tiras de Couro"
 DisplayName="Tiras de Couro"
 
 [DLC_30_Arms_Left_Plt_D_M X2BodyPartTemplate]
-DisplayName="Manopla com Espigões"
+DisplayName="Manopla com Espinhos"
 
 [DLC_30_Arms_Right_Plt_D_M X2BodyPartTemplate]
-DisplayName="Manopla com Espigões"
+DisplayName="Manopla com Espinhos"
 
 [DLC_30_Shoulder_Left_Plt_Bare_M X2BodyPartTemplate]
 DisplayName="Ombro Descoberto"
@@ -449,10 +449,10 @@ DisplayName="Espaldeira"
 DisplayName="Espaldeira"
 
 [DLC_30_Shoulder_Left_Plt_B_M X2BodyPartTemplate]
-DisplayName="Espaldeira com Espigões"
+DisplayName="Espaldeira com Espinhos"
 
 [DLC_30_Shoulder_Right_Plt_B_M X2BodyPartTemplate]
-DisplayName="Espaldeira com Espigões"
+DisplayName="Espaldeira com Espinhos"
 
 [DLC_30_Shoulder_Left_Plt_C_M X2BodyPartTemplate]
 DisplayName="Protetor de Ombro com Penas"
@@ -507,10 +507,10 @@ DisplayName="Tiras de Couro"
 DisplayName="Tiras de Couro"
 
 [DLC_30_Arms_Left_Plt_D_F X2BodyPartTemplate]
-DisplayName="Manopla com Espigões"
+DisplayName="Manopla com Espinhos"
 
 [DLC_30_Arms_Right_Plt_D_F X2BodyPartTemplate]
-DisplayName="Manopla com Espigões"
+DisplayName="Manopla com Espinhos"
 
 [DLC_30_Shoulder_Left_Plt_Bare_F X2BodyPartTemplate]
 DisplayName="Ombro Descoberto"
@@ -525,10 +525,10 @@ DisplayName="Espaldeira"
 DisplayName="Espaldeira"
 
 [DLC_30_Shoulder_Left_Plt_B_F X2BodyPartTemplate]
-DisplayName="Espaldeira com Espigões"
+DisplayName="Espaldeira com Espinhos"
 
 [DLC_30_Shoulder_Right_Plt_B_F X2BodyPartTemplate]
-DisplayName="Espaldeira com Espigões"
+DisplayName="Espaldeira com Espinhos"
 
 [DLC_30_Shoulder_Left_Plt_C_F X2BodyPartTemplate]
 DisplayName="Protetor de Ombro com Penas"
@@ -583,10 +583,10 @@ DisplayName="Espaldeira"
 DisplayName="Espaldeira"
 
 [DLC_30_Shoulder_Left_PltHvy_B_M X2BodyPartTemplate]
-DisplayName="Espaldeira com Espigões"
+DisplayName="Espaldeira com Espinhos"
 
 [DLC_30_Shoulder_Right_PltHvy_B_M X2BodyPartTemplate]
-DisplayName="Espaldeira com Espigões"
+DisplayName="Espaldeira com Espinhos"
 
 [DLC_30_Shoulder_Left_PltHvy_C_M X2BodyPartTemplate]
 DisplayName="Protetor de Ombro com Penas"
@@ -641,10 +641,10 @@ DisplayName="Espaldeira"
 DisplayName="Espaldeira"
 
 [DLC_30_Shoulder_Left_PltHvy_B_F X2BodyPartTemplate]
-DisplayName="Espaldeira com Espigões"
+DisplayName="Espaldeira com Espinhos"
 
 [DLC_30_Shoulder_Right_PltHvy_B_F X2BodyPartTemplate]
-DisplayName="Espaldeira com Espigões"
+DisplayName="Espaldeira com Espinhos"
 
 [DLC_30_Shoulder_Left_PltHvy_C_F X2BodyPartTemplate]
 DisplayName="Protetor de Ombro com Penas"
