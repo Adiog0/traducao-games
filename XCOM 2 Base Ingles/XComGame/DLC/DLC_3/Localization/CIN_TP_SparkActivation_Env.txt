@@ -1,15 +1,14 @@
 [TheWorld:PersistentLevel.XComInteractiveLevelActor_1 XComInteractiveLevelActor]
-FriendlyDisplayName="Elevator Hook"
+FriendlyDisplayName="Gancho do Elevador"
 
 [TheWorld:PersistentLevel.XComInteractiveLevelActor_2 XComInteractiveLevelActor]
-FriendlyDisplayName="Secure Door"
+FriendlyDisplayName="Porta Segura"
 
 [TheWorld:PersistentLevel.XComInteractiveLevelActor_3 XComInteractiveLevelActor]
-FriendlyDisplayName="Secure Door"
+FriendlyDisplayName="Porta Segura"
 
 [TheWorld:PersistentLevel.XComInteractiveLevelActor_4 XComInteractiveLevelActor]
-FriendlyDisplayName="Elevator Hook"
+FriendlyDisplayName="Gancho do Elevador"
 
 [TheWorld:PersistentLevel.XComInteractiveLevelActor_5 XComInteractiveLevelActor]
-FriendlyDisplayName="Atmospheric Control Computer"
-
+FriendlyDisplayName="Computador de Controle Atmosférico"

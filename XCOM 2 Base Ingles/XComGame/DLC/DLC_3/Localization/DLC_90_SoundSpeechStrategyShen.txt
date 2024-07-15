@@ -1,42 +1,41 @@
 [Play_DLC3_S_SHN_Julian_Lives AkEvent]
-SpokenText="Commander, I think there's...something you should know about Julian. It turns out he wasn't entirely wiped when we took down that Sectopod. There was still an imprint of his core memory left behind when he accessed Rover. I've isolated the nodes on a detached system for now. You know...if we wanted to...he could actually be pretty effective at operating the SPARK, if we stripped out some of his higher level reasoning...I could look into it."
+SpokenText="Comandante, acho que há... algo que você deveria saber sobre o Julian. Acontece que ele não foi completamente apagado quando derrubamos aquele Sectopod. Ainda havia uma impressão de sua memória central deixada para trás quando ele acessou o Rover. Isolei os nós em um sistema separado por enquanto. Sabe... se quiséssemos... ele poderia ser bastante eficiente operando o SPARK, se removêssemos parte de seu raciocínio de nível mais elevado... Posso investigar isso."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_S_SHN_Pre_Mission_Prep_2 AkEvent]
-SpokenText="I'm going Central...I know how to handle myself. Let's not waste any more time than we have to. "
+SpokenText="Vou para o Central... Eu sei me cuidar. Não vamos perder mais tempo do que o necessário."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_S_SHN_Spark_Has_Honor AkEvent]
-SpokenText="Dad gave the SPARK prototype the kind of voice that he thought would be comforting to me 20 years ago. Things have changed a bit since then, for our purposes I figured we could use a variation better suited to a warrior."
+SpokenText="Meu pai deu ao protótipo do SPARK uma voz que ele achava reconfortante para mim há 20 anos. As coisas mudaram um pouco desde então; para nossos propósitos, pensei que poderíamos usar uma variação mais adequada para um guerreiro."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_S_SHN_Spark_Is_Ours AkEvent]
-SpokenText="Commander, we have the SPARK, and with our current technology I'm confident we can manufacture additional reinforcements based on its design. I can get started in the Proving Ground as soon as you give the order."
+SpokenText="Comandante, temos o SPARK e, com nossa tecnologia atual, tenho confiança de que podemos fabricar reforços adicionais com base em seu design. Posso começar no Campo de Provas assim que você der a ordem."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_S_SHN_Spark_Repairs_Available AkEvent]
-SpokenText="Commander, if we have to we can send the SPARK units back into combat even when they're beat up."
+SpokenText="Comandante, se for necessário, podemos enviar as unidades SPARK de volta ao combate mesmo quando elas estiverem danificadas."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC3_S_SHN_Tower_Rumor_Comp_2 AkEvent]
-SpokenText="Commander, if we're sending in a squad, I'd like permission to go along...whoever sent that message, they know as much about my father's systems as I do...and I want to find out why. I'm the only one who knows what to look for, I should be there. "
+SpokenText="Comandante, se vamos enviar um esquadrão, gostaria de permissão para acompanhá-los... quem quer que tenha enviado essa mensagem, sabe tanto sobre os sistemas do meu pai quanto eu... e eu quero descobrir o motivo. Sou a única que sabe o que procurar, eu deveria estar lá."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
-
