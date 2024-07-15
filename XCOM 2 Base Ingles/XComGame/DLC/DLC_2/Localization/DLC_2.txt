@@ -1,12 +1,12 @@
 [X2Effect_DLC_Day60Freeze]
-FreezeName="Frozen"
-FreezeDesc="Frozen units cannot move or take any actions, and are easier to hit."
-RulerFreezeTickFlyover="Frozen: <Ability:TurnsRemaining/>"
-FreezeEffectAddedString="<XGParam:StrValue0/!UnitName/> is Frozen."
-FreezeEffectPersistsString="<XGParam:StrValue0/!UnitName/> is still Frozen."
-FreezeEffectRemovedString="<XGParam:StrValue0/!UnitName/> is no longer Frozen."
-FreezeLostFlyover="Thawed"
-LargeUnitFreezeLostFlyover="Thawed: Lost One Action Point"
+FreezeName="Congelado"
+FreezeDesc="Unidades congeladas não podem se mover ou realizar ações, e são mais fáceis de serem acertadas."
+RulerFreezeTickFlyover="Congelado: <Ability:TurnsRemaining/>"
+FreezeEffectAddedString="<XGParam:StrValue0/!UnitName/> está Congelado."
+FreezeEffectPersistsString="<XGParam:StrValue0/!UnitName/> continua Congelado."
+FreezeEffectRemovedString="<XGParam:StrValue0/!UnitName/> não está mais Congelado."
+FreezeLostFlyover="Descongelado"
+LargeUnitFreezeLostFlyover="Descongelado: Perdeu um ponto de ação"
 
 
 ;-----------------------
@@ -14,33 +14,33 @@ LargeUnitFreezeLostFlyover="Thawed: Lost One Action Point"
 ;-----------------------
 
 [UIAlert_DLC_Day60]
-m_strHunterWeaponsAvailableTitle="Weapons of the Hunt"
-m_strHunterWeaponsAvailableLabel="NEW EQUIPMENT DISCOVERED"
-m_strHunterWeaponsAvailableBody="Commander, the unique weapons we discovered in the cargo hold of the crashed Skyranger can now be equipped by our soldiers."
-m_strHunterWeaponsAvailableGoToArmory="EQUIP NEW WEAPONS"
+m_strHunterWeaponsAvailableTitle="Armas da Caçada"
+m_strHunterWeaponsAvailableLabel="NOVOS EQUIPAMENTOS DESCOBERTOS"
+m_strHunterWeaponsAvailableBody="Comandante, as armas únicas que encontramos na área de carga do Skyranger caído agora podem ser equipadas por nossos soldados."
+m_strHunterWeaponsAvailableGoToArmory="EQUIPAR NOVAS ARMAS"
 
-m_strHunterWeaponsPOIAvailableBody="Commander, our long range scanners just picked up an emergency locator beacon transmitting on a frequency we haven't used since the invasion. It may be a long shot, but it's possible someone could have survived out there. We should investigate as soon possible."
-m_strAlienNestPOIAvailableBody="Commander, we successfully triangulated the position of Big Sky's origin point. We're picking up a weak transmission on an open channel in the area,  and it sounds like a lot like Dr. Vahlen.  If there's any chance she's still alive we need to get to the site immediately!"
+m_strHunterWeaponsPOIAvailableBody="Comandante, nossos scanners de longo alcance acabaram de detectar um sinal de localizador de emergência transmitindo em uma frequência que não usamos desde a invasão. Pode ser uma chance remota, mas é possível que alguém possa ter sobrevivido lá fora. Devemos investigar o mais rápido possível."
+m_strAlienNestPOIAvailableBody="Comandante, conseguimos triangular a posição do ponto de origem do Big Sky. Estamos captando uma transmissão fraca em um canal aberto na área, e parece muito com a Dra. Vahlen. Se há alguma chance de ela ainda estar viva, precisamos chegar ao local imediatamente!"
 
 [UIMission_AlienNest]
-m_strFlavorText="We've triangulated the crashed Skyranger's original point of departure; Energy readings in the area are spotty, but there are definitely signs of life down there."
-m_strLaunchMission="INVESTIGATE"
+m_strFlavorText="Temos a posição triangular de partida do Skyranger caído; As leituras de energia na área estão instáveis, mas definitivamente há sinais de vida lá embaixo."
+m_strLaunchMission="INVESTIGAR"
 
 ;-----------------------
 ; NARRATIVE CONTENT
 ;-----------------------
 
 [X2DownloadableContentInfo_DLC_Day60]
-NarrativeContentLabel="Alien Hunters: \"The Nest\""
-NarrativeContentSummary="This mission introduces the story of the Alien Hunters content. All gameplay content (including weapons, armors, and new enemies) will still be enabled without this mission."
+NarrativeContentLabel="Caçadores Alienígenas: \"O Ninho\""
+NarrativeContentSummary="Esta missão apresenta a história do conteúdo dos Caçadores Alienígenas. Todo o conteúdo de jogabilidade (incluindo armas, armaduras e novos inimigos) continuará habilitado sem esta missão."
 
-PartContentLabel="Alien Hunters"
-PartContentSummary="Adjust the likelyhood that new soldiers will appear with Alien Hunters customization options"
+PartContentLabel="Caçadores Alienígenas"
+PartContentSummary="Ajuste a probabilidade de novos soldados aparecerem com opções de personalização dos Caçadores Alienígenas"
 
-EnableContentLabel="Enable Alien Hunters Gameplay?"
-EnableContentSummary="Alien Hunters adds challenging new enemies to missions, along with powerful new weapons, armor, and items for XCOM. Do you want to enable the Alien Hunters gameplay content for this campaign?\n\nNew soldier customization options are automatically enabled.\n\nThe full narrative context for the Alien Hunters gameplay content, including an exciting new story mission, can be experienced by starting a new campaign."
-EnableContentAcceptLabel="Enable Alien Hunters"
-EnableContentCancelLabel="Cancel"
+EnableContentLabel="Ativar Jogabilidade dos Caçadores Alienígenas?"
+EnableContentSummary="Caçadores Alienígenas adiciona novos inimigos desafiadores às missões, juntamente com poderosas novas armas, armaduras e itens para a XCOM. Deseja ativar o conteúdo de jogabilidade dos Caçadores Alienígenas para esta campanha?\n\nAs novas opções de personalização de soldados são habilitadas automaticamente.\n\nO contexto narrativo completo para o conteúdo de jogabilidade dos Caçadores Alienígenas, incluindo uma nova e empolgante missão, pode ser experimentado iniciando uma nova campanha."
+EnableContentAcceptLabel="Ativar Caçadores Alienígenas"
+EnableContentCancelLabel="Cancelar"
 
 [XComGameState_AlienRulerManager]
 NestCentralFirstName="John"
