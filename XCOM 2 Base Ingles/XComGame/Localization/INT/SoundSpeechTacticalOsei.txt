@@ -1,111 +1,110 @@
 [T_Setup_Phase_Combat_Tutorial_Osei_02 AkEvent]
-SpokenText="Haven, Crasher-1 in position. No enemy contacts. All's quiet."
+SpokenText="Haven, Crasher-1 em posição. Nenhum contato inimigo. Tudo tranquilo."
 
 [T_Setup_Phase_Combat_Tutorial_Osei_05 AkEvent]
-SpokenText="Copy that, moving up."
+SpokenText="Entendido, avançando."
 
 [T_Setup_Phase_Combat_Tutorial_Osei_06 AkEvent]
-SpokenText="In position, but I'm exposed here."
+SpokenText="Na posição, mas estou exposto aqui."
 
 [T_Setup_Phase_Combat_Tutorial_Osei_08 AkEvent]
-SpokenText="Looks like full cover ahead; moving out."
+SpokenText="Parece que tem cobertura total adiante; me movendo."
 
 [T_Setup_Phase_Combat_Tutorial_Osei_16 AkEvent]
-SpokenText="They might not give us much of choice."
+SpokenText="Eles talvez não nos dêem muita escolha."
 
 [T_Setup_Phase_Combat_Tutorial_Osei_17 AkEvent]
-SpokenText="Remind me to thank the old man. "
+SpokenText="Me lembre de agradecer o velho."
 
 [T_Setup_Phase_Combat_Tutorial_Osei_19 AkEvent]
-SpokenText="I've got the drop on 'em -"
+SpokenText="Estou em posição para surpreendê-los -"
 
 [T_Setup_Phase_Combat_Tutorial_Osei_20 AkEvent]
-SpokenText="Permission to engage."
+SpokenText="Permissão para atacar."
 
 [T_Setup_Phase_Combat_Tutorial_Osei_23 AkEvent]
-SpokenText="Menace-1 is on the board."
+SpokenText="Menace-1 está na jogada."
 
 [T_Setup_Phase_Combat_Tutorial_Osei_27 AkEvent]
-SpokenText="No! Menace-2 is down! She's gone!"
+SpokenText="Não! Menace-2 foi abatida! Ela se foi!"
 
 [T_Setup_Phase_Combat_Tutorial_Osei_29 AkEvent]
-SpokenText="So that's how you wanna play it? Ok!"
+SpokenText="Então é assim que você quer jogar? Ok!"
 
 [T_Setup_Phase_Combat_Tutorial_Osei_30 AkEvent]
-SpokenText="I'm not goin out like that!"
+SpokenText="Não vou sair assim!"
 
 [T_Setup_Phase_Combat_Tutorial_Osei_31 AkEvent]
-SpokenText="What the?!"
+SpokenText="O quê?"
 
 [T_Setup_Phase_Combat_Tutorial_Osei_57 AkEvent]
-SpokenText="Just go! I'll try to stall 'em here."
+SpokenText="Apenas vá! Vou tentar detê-los aqui."
 
 [T_Tutorial_Osei_Concealed AkEvent]
-SpokenText="In the shadows."
+SpokenText="Nas sombras."
 
 [T_Tutorial_Osei_Confirmations_1 AkEvent]
-SpokenText="Roger that."
+SpokenText="Recebido."
 
 [T_Tutorial_Osei_Confirmations_2 AkEvent]
-SpokenText="Solid copy."
+SpokenText="Entendido."
 
 [T_Tutorial_Osei_Confirmations_3 AkEvent]
-SpokenText="Copy that."
+SpokenText="Compreendido."
 
 [T_Tutorial_Osei_Confirmations_4 AkEvent]
-SpokenText="Good to go."
+SpokenText="Pronto para seguir."
 
 [T_Tutorial_Osei_Confirmations_5 AkEvent]
-SpokenText="Gettin' it done."
+SpokenText="Fazendo isso."
 
 [T_Tutorial_Osei_Confirmations_6 AkEvent]
-SpokenText="No need to ask twice."
+SpokenText="Não precisa pedir duas vezes."
 
 [T_Tutorial_Osei_Confirmations_7 AkEvent]
-SpokenText="Affirmative. "
+SpokenText="Afirmativo."
 
 [T_Tutorial_Osei_Confirmations_8 AkEvent]
-SpokenText="Got it covered."
+SpokenText="Tenho tudo sob controle."
 
 [T_Tutorial_Osei_WILD_01 AkEvent]
-SpokenText="I could use some cover right about now."
+SpokenText="Eu poderia usar alguma cobertura agora."
 
 [T_Tutorial_Osei_WILD_02 AkEvent]
-SpokenText="I got eyes on 'em."
+SpokenText="Tenho eles na mira."
 
 [T_Tutorial_Osei_WILD_03 AkEvent]
-SpokenText="I'm on it."
+SpokenText="Estou nisso."
 
 [T_Tutorial_Osei_WILD_04 AkEvent]
-SpokenText="Let's see how you like this!"
+SpokenText="Vamos ver como eles gostam disso!"
 
 [T_Tutorial_Osei_WILD_05 AkEvent]
-SpokenText="Not going out THAT easy!"
+SpokenText="Não vou sair ASSIM tão fácil!"
 
 [T_Tutorial_Osei_WILD_06 AkEvent]
-SpokenText="I'm NOT gonna make it EASY for 'em."
+SpokenText="Não vou facilitar para eles."
 
 [T_Tutorial_Osei_WILD_07 AkEvent]
-SpokenText="Staying low."
+SpokenText="Mantendo baixo."
 
 [T_Tutorial_Osei_WILD_08 AkEvent]
-SpokenText="They might now give us much of a choice."
+SpokenText="Eles talvez não nos dêem muita escolha."
 
 [T_Tutorial_Osei_WILD_09 AkEvent]
-SpokenText="They're closing in on me!"
+SpokenText="Eles estão se aproximando de mim!"
 
 [T_Tutorial_Osei_WILD_10 AkEvent]
-SpokenText="They're not taking me down that easy."
+SpokenText="Eles não vão me derrubar tão facilmente."
 
 [T_Tutorial_Osei_WILD_11 AkEvent]
-SpokenText="Yeah?  Let's see how they like this!"
+SpokenText="É? Vamos ver como eles gostam disso!"
 
 [T_Tutorial_Osei_WILD_12 AkEvent]
-SpokenText="Yes ma'am."
+SpokenText="Sim, senhora."
 
 [T_Tutorial_Osei_WILD_13 AkEvent]
-SpokenText="You don't have to tell me twice."
+SpokenText="Você não precisa me dizer duas vezes."
 
 [T_Tutorial_Osei_WILD_14 AkEvent]
-SpokenText="You got it."
-
+SpokenText="Entendido."

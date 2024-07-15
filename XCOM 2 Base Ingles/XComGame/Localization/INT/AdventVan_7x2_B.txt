@@ -1,3 +1,2 @@
 [TheWorld:PersistentLevel.XComInteractiveLevelActor_0 XComInteractiveLevelActor]
-FriendlyDisplayName="Van Door"
-
+FriendlyDisplayName="Porta de Van"

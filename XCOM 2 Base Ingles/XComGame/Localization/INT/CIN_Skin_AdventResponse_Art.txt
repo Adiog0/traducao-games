@@ -1,18 +1,17 @@
 [TheWorld:PersistentLevel.XComInteractiveLevelActor_1 XComInteractiveLevelActor]
-FriendlyDisplayName="Secure Door"
+FriendlyDisplayName="Porta Segura"
 
 [TheWorld:PersistentLevel.XComInteractiveLevelActor_13 XComInteractiveLevelActor]
-FriendlyDisplayName="Secure Door"
+FriendlyDisplayName="Porta Segura"
 
 [TheWorld:PersistentLevel.XComInteractiveLevelActor_19 XComInteractiveLevelActor]
-FriendlyDisplayName="Secure Door"
+FriendlyDisplayName="Porta Segura"
 
 [TheWorld:PersistentLevel.XComInteractiveLevelActor_2 XComInteractiveLevelActor]
-FriendlyDisplayName="ADVENT Container"
+FriendlyDisplayName="Contêiner ADVENT"
 
 [TheWorld:PersistentLevel.XComInteractiveLevelActor_23 XComInteractiveLevelActor]
-FriendlyDisplayName="Jail Cell Door"
+FriendlyDisplayName="Porta de Cela"
 
 [TheWorld:PersistentLevel.XComInteractiveLevelActor_4 XComInteractiveLevelActor]
-FriendlyDisplayName="ADVENT Container"
-
+FriendlyDisplayName="Contêiner ADVENT"

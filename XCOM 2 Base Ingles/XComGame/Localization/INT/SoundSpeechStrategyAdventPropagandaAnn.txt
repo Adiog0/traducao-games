@@ -1,12 +1,11 @@
 [S_Broadcast_Truth_Advent_Propaganda_Announcer_01 AkEvent]
-SpokenText="ADVENT assures us this breakthrough will be available to all citizens immediately."
+SpokenText="A ADVENT assegura que essa descoberta estará disponível imediatamente para todos os cidadãos."
 
 [S_Broadcast_Truth_Advent_Propaganda_Announcer_02 AkEvent]
-SpokenText="We go live to the Speaker for more..."
+SpokenText="Vamos agora ao vivo com o Porta-Voz para mais informações..."
 
 [S_Intro_Advent_Propaganda_Announcer_01 AkEvent]
-SpokenText="The ADVENT Administration reminds you to report all suspicious activity to your nearest peace keeper.  Remember, only together can we build a better tomorrow.  "
+SpokenText="A Administração ADVENT lembra a todos para reportar qualquer atividade suspeita ao guarda da paz mais próximo. Lembre-se, só juntos podemos construir um amanhã melhor."
 
 [S_Victory_Advent_Propaganda_Announcer_01 AkEvent]
-SpokenText="Full curfew remains in effect as the administration deals with the ongoing crisis."
-
+SpokenText="O toque de recolher completo continua em vigor enquanto a administração lida com a crise contínua."

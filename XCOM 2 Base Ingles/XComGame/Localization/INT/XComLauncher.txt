@@ -1,5 +1,5 @@
 [XComLauncher]
-ModsTitle=Mods
-PlayButton=Play
-WorkshopButton=Workshop
-QuitButton=Quit
+ModsTitle=Títulos de Mods
+PlayButton=Jogar
+WorkshopButton=Oficina
+QuitButton=Sair

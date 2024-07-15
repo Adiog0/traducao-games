@@ -1,48 +1,47 @@
 [S_Broadcast_Truth_Advent_Speaker_01 AkEvent]
-SpokenText="Fellow citizens.  For 20 years we have put our trust in ADVENT, in the Elders - because we believed a better future is possible for all.  Today, that trust, that belief, has been rewarded."
+SpokenText="Caros cidadãos. Por 20 anos, depositamos nossa confiança na ADVENT, nos Anciões, porque acreditávamos que um futuro melhor é possível para todos. Hoje, essa confiança, essa crença, foi recompensada."
 
 [S_Broadcast_Truth_Advent_Speaker_02 AkEvent]
-SpokenText="ADVENT peacekeeping forces are traveling across the world carrying the greatest gift from the elders."
+SpokenText="As forças de paz da ADVENT estão viajando pelo mundo carregando o maior presente dos Anciões."
 
 [S_Broadcast_Truth_Advent_Speaker_03 AkEvent]
-SpokenText="A revolutionary gene therapy yes.  But so much more.  This is an end to to disease.  To decay.  To pain.  The beginnings of a new tomorrow.  Available to all of us.  Today."
+SpokenText="Uma terapia genética revolucionária, sim. Mas muito mais do que isso. É o fim da doença. Do declínio. Da dor. O início de um novo amanhã. Disponível para todos nós. Hoje."
 
 [S_Broadcast_Truth_Advent_Speaker_04 AkEvent]
-SpokenText="Truly humanity finally takes its rightful place amongst the stars."
+SpokenText="Verdadeiramente, a humanidade finalmente assume seu lugar de direito entre as estrelas."
 
 [S_Game_Over_Advent_Speaker_01 AkEvent]
-SpokenText="Loyal citizens - I stand before you truly humbled.  So many lives lost, so many needless sacrifices endured, as we've struggled to cope with those who would see our great coalition fall.  Today, our struggle ends."
+SpokenText="Cidadãos leais, estou verdadeiramente humilde diante de vocês. Tantas vidas perdidas, tantos sacrifícios desnecessários suportados, enquanto lutávamos para lidar com aqueles que queriam ver nossa grande coalizão cair. Hoje, nossa luta termina."
 
 [S_Game_Over_Advent_Speaker_02 AkEvent]
-SpokenText="XCOM is no more."
+SpokenText="A XCOM não existe mais."
 
 [S_Game_Over_Advent_Speaker_03 AkEvent]
-SpokenText="ADVENT Peacekeepers have reduced the last of their strongholds to ashes.  And with it, the fragmented remains of the old world are finally washed away."
+SpokenText="As forças de paz da ADVENT reduziram as últimas fortalezas deles a cinzas. E com isso, os fragmentos restantes do mundo antigo finalmente são varridos."
 
 [S_Game_Over_Advent_Speaker_04 AkEvent]
-SpokenText="Thank you for your continued support.  And thank you to the Elders for their guidance through this crisis."
+SpokenText="Obrigado por seu apoio contínuo. E obrigado aos Anciões por sua orientação durante essa crise."
 
 [S_Game_Over_Advent_Speaker_05 AkEvent]
-SpokenText="Long live Advent.  Long Live the Elders."
+SpokenText="Longa vida à ADVENT. Longa vida aos Anciões."
 
 [S_Intro_Advent_Speaker_01 AkEvent]
-SpokenText="A small number of dissidents again repeat the mistakes of the old world.  Striking as we celebrate a benevolent savior who time and again offers only friendship and compassion.  Yet these trivial actions could never break the bond between humanity and the Elders..."
+SpokenText="Um pequeno número de dissidentes repete novamente os erros do mundo antigo. Atacando-nos enquanto celebramos um salvador benevolente que, repetidamente, oferece apenas amizade e compaixão. No entanto, essas ações triviais nunca poderiam quebrar o vínculo entre a humanidade e os Anciões..."
 
 [S_Liberation_Network_One_Speaker_01 AkEvent]
-SpokenText="A better life is possible. Embrace the wisdom of the Elders and cast off the filth and decay of the old world. Join ADVENT. Join the Elders. Help build a better future for... "
+SpokenText="Uma vida melhor é possível. Abraçe a sabedoria dos Anciões e livre-se da sujeira e decadência do mundo antigo. Junte-se à ADVENT. Junte-se aos Anciões. Ajude a construir um futuro melhor para..."
 
 [S_Retaliation_Advent_Spokesman_01_Setup_Phase AkEvent]
-SpokenText="Fellow citizens.  For 20 years the ADVENT Coalition has worked tirelessly to repair the ravages and injustices of the old world.  Under our stewardship, our cities prosper, our people flourish, and our world heals."
+SpokenText="Caros cidadãos. Por 20 anos, a Coalizão ADVENT trabalhou incansavelmente para reparar os estragos e injustiças do mundo antigo. Sob nosso comando, nossas cidades prosperam, nosso povo floresce e nosso mundo se cura."
 
 [S_Retaliation_Advent_Spokesman_02_Setup_Phase AkEvent]
-SpokenText="And yet among us there are still those who would refuse to acknowledge the truth! Dissidents who strike from the shadows of the rot and ruin outside our walls.  Who are determined to see all that we have achieved crumble!"
+SpokenText="E ainda entre nós, há aqueles que se recusam a reconhecer a verdade! Dissidentes que atacam das sombras do apodrecimento e ruína fora de nossas muralhas. Determinados a ver tudo o que conquistamos desmoronar!"
 
 [S_Retaliation_Advent_Spokesman_03_Setup_Phase AkEvent]
-SpokenText="That must end. Which is why...even as I speak to you today, ADVENT peacekeepers are advancing into the outlying territories to end this scourge once and for all.  We will ensure your continued safety and well-being throughout this crisis."
+SpokenText="Isso deve acabar. Por isso... enquanto falo com vocês hoje, as forças de paz da ADVENT estão avançando para os territórios periféricos para acabar com essa praga de uma vez por todas. Garantiremos sua segurança e bem-estar contínuos durante essa crise."
 
 [S_Retaliation_Advent_Spokesman_04_Setup_Phase AkEvent]
-SpokenText="With your cooperation, we will overcome these radical elements..."
+SpokenText="Com a cooperação de vocês, superaremos esses elementos radicais..."
 
 [S_Retaliation_Advent_Spokesman_05_Setup_Phase AkEvent]
-SpokenText="...And usher in another 20 years of peace and prosperity"
-
+SpokenText="...E iniciaremos outros 20 anos de paz e prosperidade."
