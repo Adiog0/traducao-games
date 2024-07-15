@@ -1,0 +1,139 @@
+[Play_DLC2_T_VAH_MATINEE_Boots_Ground_3 AkEvent]
+SpokenText="Os dados devem ser preservados a todo custo! Você precisa se apressar! Pegue isso e encontre o Bradford!"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_VAH_Post_Ambush_Research_Five_1 AkEvent]
+SpokenText="Eu cometi um terrível erro. Comandante... Às vezes, eu desejo que você estivesse aqui para conter minhas ambições. O Sujeito Gama escapou. Um tremor abriu uma pequena fissura na unidade de contenção. Foi tudo que a criatura precisou. Ela quebrou o metal, rachando-o como se fosse vidro. Ou uma fina folha de gelo."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_VAH_Post_Ambush_Research_Four AkEvent]
+SpokenText="Com recursos limitados à minha disposição, pergunto-me se deveria ter focado meus esforços em um único sujeito, em vez dos três sobre os quais agora devo presidir. Poucos de minha equipe se sentem à vontade na instalação de contenção. Eu mesma devo, portanto, manter uma vigilância constante. Ainda assim, os benefícios potenciais superam essas preocupações... embora a apreensão em torno do Sujeito Gama, em particular, seja, admito, contagiosa."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_VAH_Post_Ambush_Research_One AkEvent]
+SpokenText="Sucesso! Eu consegui remover os bloqueadores genéticos do DNA dos espécimes, permitindo que os traços reprimidos floresçam. Enquanto os Sujeitos Alfa e Beta mostram promessa, é o Sujeito Gama que eu acho mais intrigante."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_VAH_Post_Ambush_Research_Six AkEvent]
+SpokenText="Fisher foi em busca da criatura. Malditas sejam suas ações heroicas. Ela não encontrou sinal do Gama, mas descobriu um ninho de ovos. A análise preliminar revela que eles têm natureza reptiliana. Se o Gama está de fato se reproduzindo, se está de alguma forma se comunicando com outros de sua espécie, então... estamos perdidos."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_VAH_Post_Ambush_Research_Three_1 AkEvent]
+SpokenText="A extensão em que os Anciões manipulam o tecido genético de suas raças subordinadas não conhece limites. Percebo que este é o primeiro macho da espécie que já encontrei. Será uma forma de controle populacional ou algo mais? Estou olhando para o destino da minha própria espécie?"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_VAH_Post_Ambush_Research_Two AkEvent]
+SpokenText="Enquanto os Sujeitos Alfa e Beta continuam a exibir variações exageradas e às vezes erráticas em seus comportamentos tradicionalmente observados, o Sujeito Gama cresceu e se tornou algo totalmente diferente. Por trás daqueles olhos, há uma inteligência que não testemunhei em nenhum espécime não alterado de sua espécie."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_VAH_Post_King_Research_Five AkEvent]
+SpokenText="A transferência de dados foi concluída. Também preparei várias armas exclusivas que espero que sejam úteis. Tenho certeza de que ele questionará a ética por trás de sua construção, mas acredito que o Bradford ainda encontrará uma maneira de usá-las para o bem. Ele provou ser bastante eficaz em manter a resistência unida todos esses anos. Só espero que ele um dia perdoe minha partida."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_VAH_Post_King_Research_Four AkEvent]
+SpokenText="Estamos perdidos. A cada hora, mais Víperes aparecem. Sejam convocados pelo Gama ou chocados desses malditos ovos. Eu codifiquei todos os dados relevantes sobre essas criaturas neste datapad. Um gesto sentimental, talvez, mas só posso esperar que ele alcance o Bradford ou a resistência. Ainda há uma chance de que eles possam deter essas criaturas. Se ao menos tivéssemos o Comandante..."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_VAH_Post_King_Research_One_2 AkEvent]
+SpokenText="Eu vi. Por um momento... na instalação de contenção. O Gama. A criatura cresceu consideravelmente desde sua fuga... se o restante da equipe não tivesse chegado, tenho certeza de que eu não estaria aqui agora."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_VAH_Post_King_Research_Six AkEvent]
+SpokenText="Eles cercaram o Skyranger. As malditas coisas ficam mais inteligentes a cada dia. Pelo menos o Gama fica. Se Big Sky e os outros quiserem te encontrar, eles precisarão de uma distração, Bradford. Não vou decepcioná-los... mesmo que eu precise derrubar toda essa caverna comigo. Desejo-lhe o melhor. Sei que você virá. Dra. M. Vahlen, Chefe Cientista, XCOM, desligando."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_VAH_Post_King_Research_Three AkEvent]
+SpokenText="Fomos dominados. As paredes pareciam se encher de Víperes. Por um momento, pensei que a Fisher pudesse detê-los, mas eram muitos. Pelo menos ela me deu tempo suficiente para preparar o sinal de alerta. O último som que me lembro foi a destruição das outras duas unidades de contenção. Se os sujeitos Alfa e Beta também estão livres, só posso rezar para que a mensagem do sinal de alerta seja eficaz."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_VAH_Post_King_Research_Two AkEvent]
+SpokenText="Nossos poucos batedores restantes relatam aumentos significativos na densidade biológica na área. Está claro... não estamos sozinhos. Não posso mais me enganar... o Gama está claramente se comunicando com outros de sua espécie. E há os ovos."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_VAH_Pre_Ambush_Research_Five AkEvent]
+SpokenText="O crescimento dos espécimes continua acelerando. Dada a aparente maleabilidade dessas criaturas quando se trata de mudanças drásticas em sua composição genética, acredito que seja possível reverter certos traços que os alienígenas engenheiraram para a latência."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_VAH_Pre_Ambush_Research_Four AkEvent]
+SpokenText="Embora eu tenha certeza de que alguns de meus antigos colegas da XCOM achariam a natureza do meu trabalho aqui perturbadora, devo perseverar. Não tenho dúvidas de que essas criaturas alcançariam a maturidade um dia, independentemente de minhas intenções. Deixadas aqui sozinhas, os resultados poderiam ter sido desastrosos. Com minha orientação, pelo menos estou evitando uma catástrofe em potencial."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_VAH_Pre_Ambush_Research_One AkEvent]
+SpokenText="[Tosse] Testando... Ditado do sistema... aqui é a Dra. M. Vahlen... entrada inicial. Demorou mais do que eu gostaria de admitir, mas o sistema de energia secundário finalmente está operacional, o suficiente para que eu possa prosseguir com trabalhos mais interessantes."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_VAH_Pre_Ambush_Research_Six AkEvent]
+SpokenText="O grau de manipulação genética ao qual os alienígenas expuseram essas criaturas é notável. Se eu tivesse mais tempo, estudaria a natureza exata dos traços reprimidos que descobri. No entanto, há uma guerra a ser travada, e o mundo não pode esperar por curiosidade ociosa."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_VAH_Pre_Ambush_Research_Three AkEvent]
+SpokenText="Com três embriões únicos e viáveis recuperados da unidade de criostase sobrevivente, agora tenho uma rara oportunidade - uma que nunca me foi concedida durante meu tempo na XCOM. Estou livre para seguir uma diretriz de pesquisa de minha própria escolha."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_VAH_Pre_Ambush_Research_Two_1 AkEvent]
+SpokenText="Enquanto tentava recuperar materiais de um sistema de armazenamento aparentemente inerte, fiz uma descoberta surpreendente - uma única unidade de criostase permanecia intacta e ocupada. Isso muda tudo."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_VAH_Unbroken_Transmission_1 AkEvent]
+SpokenText="Um perigo biológico extremo está presente nesta área. Espécies alienígenas geneticamente aprimoradas nesta região são motivo de preocupação particular para a população civil. Não se aproxime sob nenhuma circunstância. Devem ser feitas todas as tentativas para evitar contato com essas formas de vida."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""

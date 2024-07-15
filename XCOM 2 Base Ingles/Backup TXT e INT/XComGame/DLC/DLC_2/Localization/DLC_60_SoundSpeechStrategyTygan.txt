@@ -1,0 +1,139 @@
+[Play_DLC2_S_TYG_Archon_King_Autopsy_Blurb AkEvent]
+SpokenText="Eu cheguei a acreditar firmemente que a ambição desenfreada da Dra. Vahlen, deixada sem a orientação do Comandante para manter algum senso de razão, a levou a seguir um caminho de pesquisa tão equivocado e lamentável quanto o meu próprio serviço para a ADVENT."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_S_TYG_Autopsy_Reminder_Nag AkEvent]
+SpokenText="Comandante, ainda temos o corpo do sujeito de teste alienígena recuperado armazenado. Posso começar a autópsia a qualquer momento - ela pode levar a avanços críticos em nossa própria pesquisa e desenvolvimento científico."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_S_TYG_Berserker_Queen_Autopsy_Blurb AkEvent]
+SpokenText="Como a Dra. Vahlen observou em seu próprio relatório, foi irresponsável e quase irracional que ela tenha perseguido essa pesquisa, sabendo dos incríveis riscos envolvidos, não apenas para si mesma, mas para o que resta da humanidade como um todo."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_S_TYG_Dropship_Mission_Briefing AkEvent]
+SpokenText="Estou monitorando continuamente as assinaturas de energia que detectamos perto do local-alvo. Possível atividade subterrânea detectada... forte interferência cobrindo a área... os sensores não conseguem penetrar a rocha. Ainda estamos recebendo o sinal de Vahlen, porém. Eu aconselharia extrema cautela, Central."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_S_TYG_Equip_Hunter_Weapons_1 AkEvent]
+SpokenText="Comandante, eu recomendaria fortemente que nossas forças equipassem as armas especializadas que recuperamos do campo. Suas capacidades únicas podem ser inestimáveis nesta missão."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_S_TYG_Hunter_Weapons_UI_Pop AkEvent]
+SpokenText="Comandante, essas armas são diferentes de qualquer design que já encontrei antes. Eu poderia tentar uma análise mais aprofundada, mas a probabilidade de conseguirmos engenharia reversa nelas parece baixa, independentemente."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_S_TYG_King_Dead_Other_Escapees_Remain AkEvent]
+SpokenText="Embora tenhamos tido sucesso em derrotar a Víbora geneticamente aprimorada, devemos permanecer vigilantes, Comandante. Todas as indicações são de que outros dois sujeitos de teste ainda estão em liberdade, sem dúvida tendo escapado da instalação antes de nossa chegada. Continuarei a investigar os registros de pesquisa da Dra. Vahlen em busca de mais detalhes que possam nos ajudar a lidar com essas criaturas."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_S_TYG_King_Lives_Escapees_Remain_2 AkEvent]
+SpokenText="Também devemos estar preparados para a possibilidade de que encontraremos os outros dois sujeitos de teste restantes - aqueles que ainda não identificamos. É provável que eles tenham um meio similar de escape através de fendas psíquicas, o que significa que podemos encontrá-los em qualquer lugar."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_S_TYG_Ruler_Autopsy_Available AkEvent]
+SpokenText="Comandante, tendo recuperado com sucesso um dos sujeitos de teste geneticamente modificados da Dra. Vahlen, estou ansioso para começar a realizar uma autópsia o mais rápido possível. Minha esperança é que, seguindo suas próprias anotações de pesquisa, eu ganhe um entendimento ainda maior de como ela conseguiu realizar essas mudanças rápidas."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_S_TYG_Ruler_Autopsy_Available_B AkEvent]
+SpokenText="Comandante, sob sua ordem, posso começar a realizar uma autópsia no último dos sujeitos de teste de Vahlen. Temos aqui uma oportunidade de avançar nossa própria pesquisa além dos limites de nossa experiência atual; devemos começar o mais rápido possível."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_S_TYG_Ruler_Autopsy_Available_C AkEvent]
+SpokenText="Agora que recuperamos um dos sujeitos de teste da Dra. Vahlen, posso começar a autópsia no espécime assim que você der a ordem, Comandante."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_S_TYG_Ruler_Autopsy_Available_D AkEvent]
+SpokenText="Tendo recuperado mais um dos sujeitos de teste alienígenas modificados da Dra. Vahlen, devemos começar a autópsia o mais rápido possível. Seguindo suas próprias anotações de pesquisa, minha esperança é que descubramos o verdadeiro propósito de seu trabalho."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_S_TYG_Site_Readings AkEvent]
+SpokenText="Há uma série de assinaturas de energia incomuns permeando esta área, Comandante. Estou vendo flutuações de energia, calor intenso, alguma atividade psíquica... todos sinais de um possível conflito. Devemos nos mover rapidamente."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_S_TYG_Viper_King_Autopsy_Blurb AkEvent]
+SpokenText="Apesar de um estudo extensivo dos relatórios de pesquisa da Dra. Vahlen, ainda não descobri como ela conseguiu adquirir uma compreensão tão impressionante dos processos envolvidos na edição e manipulação do material genético alienígena."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[S_Autopsy_ArchonKing_Blurb AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[S_Autopsy_ArchonKing_Tygan AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[S_Autopsy_BerserkerQueen_Blurb AkEvent]
+SpokenText="Como a Dra. Vahlen observou em seu próprio relatório, foi irresponsável e quase irracional que ela tenha perseguido essa pesquisa, sabendo dos incríveis riscos envolvidos, não apenas para si mesma, mas para o que resta da humanidade como um todo."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[S_Autopsy_BerserkerQueen_Tygan AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[S_Autopsy_ViperQueen_Blurb AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[S_Autopsy_ViperQueen_Tygan AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""

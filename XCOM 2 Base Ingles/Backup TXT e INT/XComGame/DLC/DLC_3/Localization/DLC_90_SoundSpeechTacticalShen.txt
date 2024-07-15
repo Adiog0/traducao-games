@@ -1,0 +1,307 @@
+[Play_DLC3_T_SHN_Boots_Ground_2 AkEvent]
+SpokenText="Pelo que parece, somos as primeiras pessoas a pisar aqui em muito tempo. Este lugar é enorme... por que a ADVENT o abandonaria?"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Bridge_Extended_1 AkEvent]
+SpokenText="As funções básicas do sistema ainda estão online, devemos conseguir acessar todo o sistema deles."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Bridge_Extended_3 AkEvent]
+SpokenText="Central?! O que diabos foi isso?"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Bridge_Extension_3 AkEvent]
+SpokenText="Sim, esses sistemas podem ser mais antigos, mas ainda seguem o design básico da ADVENT. Estamos prontos para ir."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Elevator_Activated_1 AkEvent]
+SpokenText="O sistema de elevação está voltando online, mas este dispositivo foi projetado para mover MECs, não pessoas. Vamos ter que fazer isso um de cada vez."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Elevator_Control_LOS_2 AkEvent]
+SpokenText="Entendido. Se eu hackear aquele console de controle do elevador, devo conseguir restaurar a energia e nos dar acesso."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Escaped_Level_Two_ALT1 AkEvent]
+SpokenText="Aparentemente, não o sistema de elevadores."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Facility_Elevator_Reveal_1 AkEvent]
+SpokenText="Definitivamente algum tipo de instalação de desenvolvimento de robótica. Coisas bem avançadas... de cerca de 20 anos atrás."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Facility_Elevator_Reveal_3 AkEvent]
+SpokenText="Entendido. Se eu hackear aquele console de controle do elevador, devo conseguir restaurar a energia e nos dar acesso aos níveis superiores."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Feral_Mec_Destroyed_1 AkEvent]
+SpokenText="Parece que essas coisas já viram dias melhores. Estamos cortando essa armadura velha com facilidade."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_First_Feral_Mec_2 AkEvent]
+SpokenText="Temos algum tipo de MECs aqui, pelo menos acho que são MECs sob toda essa ferrugem."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_First_Turrets_2 AkEvent]
+SpokenText="Talvez se a ADVENT não tivesse fritado os seus."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Hack_The_Bridge_2 AkEvent]
+SpokenText="Fácil."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Hack_The_Bridge_ALT_1 AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Julian_Awakens_2 AkEvent]
+SpokenText="E mais deles continuam chegando a cada minuto. Não sei como vamos sair dessa."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Julian_Awakens_4 AkEvent]
+SpokenText="Então, se destruirmos o Sectopod, destruímos o Julian. Pelo menos tempo suficiente para que Firebrand nos tire daqui."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Julian_Awakens_6 AkEvent]
+SpokenText="Faça isso!"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Julian_Encounter_Begins_2 AkEvent]
+SpokenText="Eu preferia quando você era apenas um programa de xadrez."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Julian_Mec_Reinforcements_1 AkEvent]
+SpokenText="Ótimo, se o robô gigante não fosse o suficiente, parece que ele está jogando todos os MECs do prédio contra nós."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Kamikaze_Mec_Sighted_2 AkEvent]
+SpokenText="Não gosto do som disso... não deixe eles chegarem muito perto, ele pode tentar sobrecarregar as células de energia deles!"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Lots_Of_Turrets_1 AkEvent]
+SpokenText="Uau, ele colocou este lugar cheio de torres!"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Lots_Of_Turrets_1_ALT AkEvent]
+SpokenText="Acho que temos um problema."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Lots_Of_Turrets_1_ALT_B AkEvent]
+SpokenText="Uau, parece que estamos cercados."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Phase_Eleven_2 AkEvent]
+SpokenText="Pela primeira vez, quase sinto pena da ADVENT."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Phase_Fifteen_2 AkEvent]
+SpokenText="Confie em mim, se essa fosse a verdadeira intenção do meu pai, já teria acontecido."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Phase_Five_3 AkEvent]
+SpokenText="Você não encontrará nenhum. Não se eu estiver certo sobre isso."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Phase_Four_3 AkEvent]
+SpokenText="Ele parece saber demais sobre nós... sobre mim, será que ele conseguiu acessar nossos arquivos?"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Phase_Nine_2 AkEvent]
+SpokenText="Seu bastardo."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Phase_Seven_2 AkEvent]
+SpokenText="Espera... quem somos nós?"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Phase_Six_2 AkEvent]
+SpokenText="Lembro de você. Papai estava tentando atualizar a inteligência artificial da base para algo mais... como nós. Mas você era diferente naquela época. Mais simples. Ele te chamava de... Julian."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Phase_Three_2 AkEvent]
+SpokenText="Tenho quase certeza de que meu pai teria mencionado que eu tinha um irmão psicótico. Você poderia desistir disso logo."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Phase_Twelve_2 AkEvent]
+SpokenText="Deixe-me adivinhar, é por isso que estou aqui."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Phase_Two_2 AkEvent]
+SpokenText="E ele está falando comigo. Claro."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Poison_Gas_Deactivated_2 AkEvent]
+SpokenText="Temos tudo o que precisamos aqui. Vamos embora!"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Remember_Activation_2 AkEvent]
+SpokenText="Sinceramente, não faço ideia do que essa coisa está falando."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Section_Three_Tactical_Intro_1 AkEvent]
+SpokenText="Central, estamos no telhado. Onde está a Firebrand?"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Section_Three_Tactical_Intro_3 AkEvent]
+SpokenText="Então precisamos abrir caminho para ela."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Section_Three_Tactical_Intro_ALT1 AkEvent]
+SpokenText="Sem discussões. Vamos nos posicionar perto da plataforma de pouso."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Sectopod_Destroyed_5 AkEvent]
+SpokenText="Sim, ganhamos... acho."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Shen_Almost_Dead_2 AkEvent]
+SpokenText="Não me dê como derrotada ainda."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Spark_Is_Specialist_1 AkEvent]
+SpokenText="Pelo que parece, papai adaptou essa coisa para atuar como Especialista. Nunca vi um drone assim antes."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Spark_Is_Specialist_3 AkEvent]
+SpokenText="Papai sempre esteve à frente de seu tempo."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Spark_Vs_Gas_2 AkEvent]
+SpokenText="Estou começando a gostar dessa coisa."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SHN_Squad_Hack_Bridge_2 AkEvent]
+SpokenText="Estamos nisso."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""

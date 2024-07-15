@@ -1,0 +1,62 @@
+[T_Setup_Phase_Combat_Tutorial_Kelly_37 AkEvent]
+SpokenText="Que diabos são essas coisas?!"
+
+[T_Setup_Phase_Combat_Tutorial_Kelly_48 AkEvent]
+SpokenText="Poderia ajudar se eu soubesse o que procurar."
+
+[T_Setup_Phase_Combat_Tutorial_Kelly_54 AkEvent]
+SpokenText="Ele não vai a lugar nenhum!"
+
+[T_Setup_Phase_Combat_Tutorial_Kelly_56 AkEvent]
+SpokenText="Precisamos nos mover!"
+
+[T_Setup_Phase_Combat_Tutorial_Kelly_58 AkEvent]
+SpokenText="Vou em direção à porta!"
+
+[T_Setup_Phase_Combat_Tutorial_Kelly_60 AkEvent]
+SpokenText="Estamos dentro!"
+
+[T_Setup_Phase_Combat_Tutorial_Kelly_69 AkEvent]
+SpokenText="É esse o pacote? Tudo isso por um-"
+
+[T_Setup_Phase_Combat_Tutorial_Kelly_74 AkEvent]
+SpokenText="Fogo na abertura!"
+
+[T_Setup_Phase_Combat_Tutorial_Kelly_76 AkEvent]
+SpokenText="Eles estão bem atrás de nós!"
+
+[T_Setup_Phase_Combat_Tutorial_Kelly_78 AkEvent]
+SpokenText="Você não precisa dizer duas vezes!"
+
+[T_Tutorial_Kelly_Confirmations_1 AkEvent]
+SpokenText="Entendido."
+
+[T_Tutorial_Kelly_Confirmations_2 AkEvent]
+SpokenText="Entendido, confirmado."
+
+[T_Tutorial_Kelly_Confirmations_3 AkEvent]
+SpokenText="Recebido."
+
+[T_Tutorial_Kelly_Confirmations_4 AkEvent]
+SpokenText="Tudo certo."
+
+[T_Tutorial_Kelly_Confirmations_5 AkEvent]
+SpokenText="Estamos fazendo isso."
+
+[T_Tutorial_Kelly_Confirmations_6 AkEvent]
+SpokenText="Não precisa perguntar duas vezes."
+
+[T_Tutorial_Kelly_Confirmations_7 AkEvent]
+SpokenText="Afirmação."
+
+[T_Tutorial_Kelly_Confirmations_8 AkEvent]
+SpokenText="Temos a situação sob controle."
+
+[T_Tutorial_Kelly_Taking_Fire_01 AkEvent]
+SpokenText="Ai! Estamos sendo alvejados."
+
+[T_Tutorial_Kelly_Taking_Fire_02 AkEvent]
+SpokenText="Ai! Isso foi perto."
+
+[T_Tutorial_Kelly_Taking_Fire_03 AkEvent]
+SpokenText="Ai! Bem demais para o meu gosto."

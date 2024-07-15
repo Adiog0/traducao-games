@@ -1,0 +1,17 @@
+[S_Resistance_Outpost_Black_Market_Resistance_01 AkEvent]
+SpokenText="O mercado está aberto."
+
+[S_Resistance_Outpost_Contact_Established_Resistance_01 AkEvent]
+SpokenText="Recebendo você alto e claro."
+
+[S_Resistance_Outpost_Contact_Established_Resistance_02 AkEvent]
+SpokenText="Viva a resistência."
+
+[S_Resistance_Outpost_Contact_Established_Resistance_04 AkEvent]
+SpokenText="Estamos recebendo você."
+
+[S_Resistance_Outpost_Contact_Established_Resistance_05 AkEvent]
+SpokenText="O sinal está chegando claro."
+
+[S_Resistance_Outpost_Resistance_Market_Resistance_01 AkEvent]
+SpokenText="Bem-vindo, Comandante."

@@ -1,0 +1,230 @@
+[Play_DLC3_T_CEN_Boots_Ground_1 AkEvent]
+SpokenText="Firebrand te deixou no ponto de acesso mais alto que encontramos. A energia ainda está ativa nesta área da instalação, então você deveria conseguir entrar lá."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Boots_Ground_3 AkEvent]
+SpokenText="A ADVENT não abandona nada assim facilmente. Fiquem alertas."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Bridge_Extended_4 AkEvent]
+SpokenText="Trabalhando nisso..."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Bridge_Extension_2 AkEvent]
+SpokenText="Bom trabalho."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Elevator_Activated_2 AkEvent]
+SpokenText="Entendido. Tenham cuidado!"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Elevator_Control_LOS_1 AkEvent]
+SpokenText="Recebendo leituras incomuns dos níveis acima de vocês. Acredito que é lá que o encontraremos."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Facility_Elevator_Reveal_2 AkEvent]
+SpokenText="Da última vez que vi, suas armas funcionavam muito bem. Fiquem atentos. Estou rastreando o sinal vindo dos andares superiores."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Feral_Mec_Destroyed_2 AkEvent]
+SpokenText="Suas armas funcionam muito bem. Mantenham o foco. Não dá para saber se há mais por aí."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_First_Feral_Mec_1 AkEvent]
+SpokenText="Shen! As leituras de energia acabam de disparar perto da sua posição!"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_First_Feral_Mec_3 AkEvent]
+SpokenText="Provavelmente o sistema de defesa automático original da instalação. Derrubem-nos antes que alertem mais alguém sobre nossa presença."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Hack_The_Bridge_1 AkEvent]
+SpokenText="Shen, veja se consegue estender aquela ponte. Há um terminal de acesso direto à frente da sua posição."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Hack_The_Bridge_ALT_2 AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Julian_Awakens_1 AkEvent]
+SpokenText="Firebrand está de prontidão, mas não há como ela se aproximar com aquilo por perto."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Julian_Mec_Reinforcements_2 AkEvent]
+SpokenText="Vocês ouviram o SPARK. Derrubem aquele Sectopod ou ninguém sairá daqui!"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Phase_Five_2 AkEvent]
+SpokenText="Radares em potência máxima e ainda não conseguimos detectar mais nenhum sinal de vida na sua área."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Phase_Four_2 AkEvent]
+SpokenText="Conheci seu pai por anos, Lily. Ele teria dito alguma coisa. Esse cara só está tentando te manipular."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Phase_One_2 AkEvent]
+SpokenText="Ainda não consigo determinar exatamente onde ele está. Parece que está pulando por toda a instalação."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Phase_Seventeen_2 AkEvent]
+SpokenText="Por que diabos faríamos isso?"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Phase_Ten_2 AkEvent]
+SpokenText="Shen, quando tiver um minuto, seria gentil se explodisse aquilo."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Player_LOS_To_Prototype_1 AkEvent]
+SpokenText="Detectando uma assinatura de energia estranha à frente da sua posição, Shen. É fraca, mas definitivamente diferente de qualquer outra coisa nesta instalação."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Player_LOS_To_Prototype_1_ALT AkEvent]
+SpokenText="Recebendo uma leitura muito mais forte da fonte da transmissão de seu pai, Lily. Quase como se quisesse que a encontrássemos."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Player_LOS_To_Prototype_3 AkEvent]
+SpokenText="Shen, não tem algum tipo de botão mudo nisso?"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Poison_Gas_Ambush_1 AkEvent]
+SpokenText="Shen! Está inundando as câmaras externas com algum tipo de gás!"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Poison_Gas_Ambush_4 AkEvent]
+SpokenText="Vocês ouviram ele, entrem naquela sala."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Reinf_Reminder_ALT_2 AkEvent]
+SpokenText="Odeio dizer isso, mas ele está certo. Vocês precisam sair daí imediatamente!"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Reinforcement_Reminder_1 AkEvent]
+SpokenText="Aquilo vai continuar enviando unidades até cercá-los completamente. Vocês precisam sair daí."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Section_Three_Tactical_Intro_2 AkEvent]
+SpokenText="Ela não pode chegar perto o suficiente para aterrissar, ele ativou quase todas as unidades daquele prédio!"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Section_Three_Tactical_Intro_ALT1 AkEvent]
+SpokenText="Firebrand está se aproximando agora. Preparados para evacuação."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Section_Two_Tactical_Intro_1 AkEvent]
+SpokenText="Os níveis de energia estão aumentando ao redor de você, Shen. Fiquem atentos."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Sectopod_Destroyed_3 AkEvent]
+SpokenText="Os sistemas de defesa acabaram de desativar em toda a instalação. Bom trabalho, Shen!"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Shen_Almost_Dead_1 AkEvent]
+SpokenText="Shen, seus sinais vitais estão baixos! Cuide de si mesma lá embaixo!"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Squad_Hack_Bridge_1 AkEvent]
+SpokenText="Veja se consegue estender aquela ponte. Há um terminal de acesso direto à frente da sua posição."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_CEN_Unlimited_Reinf_2 AkEvent]
+SpokenText="Eu acredito nele. Não percam tempo aí embaixo."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""

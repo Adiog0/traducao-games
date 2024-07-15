@@ -1,0 +1,8 @@
+[S_Avatar_Autopsy_Angelic_Elder_02 AkEvent]
+SpokenText="Tínhamos tanta esperança em você..."
+
+[T_Final_Mission_The_Fortress_Angelic_Elder_03_a AkEvent]
+SpokenText="Tamanha perda. Tanto desperdício desnecessário. Você nos obriga a agir. No entanto, ainda oferecemos paz. Reúna-se a nós e seu mundo será poupado."
+
+[T_Final_Mission_The_Fortress_Angelic_Elder_05_a AkEvent]
+SpokenText="Lamentável. Mas esperado."

@@ -1,0 +1,29 @@
+
+[Subtitles]
+
+DLC3_TP_ShenMessage_01="Agora que finalmente colocamos este lugar em funcionamento, deveríamos conseguir acessar alguns desses sistemas alienígenas dormentes. Vamos ver se vocês dois conseguem se dar bem."
+DLC3_TP_ShenMessage_02="O que diabos está acontecendo...?"
+DLC3_TP_ShenMessage_03="Shen, estou recebendo algum tipo de interferência aqui em cima. Parece estar afetando tudo."
+DLC3_TP_ShenMessage_04="Estou trabalhando nisso."
+DLC3_TP_ShenMessage_05="Algo ativou sua conexão remota... mas como isso é possível? Ninguém conhece esses sistemas."
+DLC3_TP_ShenMessage_06="Shen... as leituras de energia acabaram de disparar. O que está acontecendo aí embaixo?"
+DLC3_TP_ShenMessage_07="Pai?"
+
+DLC3_TP_SparkActivation_01="Então é isso... do que essa coisa vem falando tanto."
+DLC3_TP_SparkActivation_02="Você chegou até aqui. Tudo o que precisa fazer é conectar meus sistemas para a transferência. Não há necessidade de mais conflitos."
+DLC3_TP_SparkActivation_03="Shen... Diga-me que você não está realmente ouvindo essa coisa."
+DLC3_TP_SparkActivation_04="Isso com certeza foi projetado pelo pai."
+DLC3_TP_SparkActivation_05="Identidade: SHEN, LILY. Aguardando impressão."
+DLC3_TP_SparkActivation_06="Não! Impossível! ISSO NÃO PODE SER O QUE O PAI QUERIA!"
+DLC3_TP_SparkActivation_07="Algo me diz que é exatamente isso que ele queria."
+DLC3_TP_SparkActivation_08="Identidade confirmada. Iniciando protocolos de inicialização."
+DLC3_TP_SparkActivation_09="Não! Eu não vou permitir que você-"
+DLC3_TP_SparkActivation_10="É... realmente ele."
+DLC3_TP_SparkActivation_11="Lily, se você está vendo esta mensagem, significa que você ativou com sucesso o protótipo SPARK. Também significa que, muito provavelmente, eu não estou mais com você. Sempre foi um dos meus maiores medos te deixar sozinha neste mundo."
+DLC3_TP_SparkActivation_12="Você não deixou."
+DLC3_TP_SparkActivation_13="Eu tinha esperança de que esse dia nunca chegasse. Mas desde a perda do Comandante, o projeto XCOM tem... sofrido. Nossos relatórios mais recentes indicam que não poderemos manter esta base por muito mais tempo."
+DLC3_TP_SparkActivation_14="Com esse propósito, acelerei o desenvolvimento do protótipo robótico SPARK. Acredito que um dia essa máquina será crucial para a sobrevivência da humanidade. Embora a unidade ainda não esteja pronta para ser fabricada, este protótipo foi programado para uma tarefa específica."
+DLC3_TP_SparkActivation_15="Ele vai protegê-la, talvez melhor do que eu jamais poderia. Por tudo o que vi e alcancei nesta vida, Lily, tenho uma certeza: você é o meu maior presente para este mundo."
+
+
+

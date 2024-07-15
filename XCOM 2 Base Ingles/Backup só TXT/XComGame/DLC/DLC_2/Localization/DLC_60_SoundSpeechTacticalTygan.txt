@@ -1,0 +1,216 @@
+[Play_DLC2_T_TYG_Ambush_1 AkEvent]
+SpokenText="Central, estou detectando traços fracos de DNA humano mais adiante nas instalações. Pode ser que seja..."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_Ambush_2 AkEvent]
+SpokenText="Espere! Múltiplas assinaturas biológicas se aproximando de sua posição. As leituras estão erráticas... difícil de localizar."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_Ambush_4 AkEvent]
+SpokenText="Não é possível determinar neste momento."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_Approach_The_King_1 AkEvent]
+SpokenText="Central, leitura de uma queda massiva de temperatura diretamente à frente. Uma discrepância tão grande desafia qualquer explicação natural."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_Archon_King_Dead_2 AkEvent]
+SpokenText="Estou ansioso para começar a examinar o sujeito assim que pudermos levá-lo de volta ao laboratório. Podemos aproveitar as experiências existentes da Dra. Vahlen, pois não tenho a intenção de tentar replicá-las."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_Archon_King_Reveal_1 AkEvent]
+SpokenText="Esta... esta variação do Arconte que encontramos antes deve ser, sem dúvida, o sujeito modificado no qual a Dra. Vahlen vinha experimentando."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_Beacon_Located AkEvent]
+SpokenText="Central, o sinal da Dra. Vahlen está sendo gerado de algum lugar dentro daquele abrigo improvisado. Sugeriria que o acessemos rapidamente antes que seja completamente perdido."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_Berseker_Queen_Dead_2 AkEvent]
+SpokenText="Gostaria de ouvir o raciocínio dela, embora questione se a razão esteve presente nessa decisão."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_Berserker_Queen_Reveal_2 AkEvent]
+SpokenText="Sua curiosidade não era infundada, embora eu concorde que talvez não tenha sido a escolha mais prudente."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_Egg_Warning AkEvent]
+SpokenText="Esses parecem ser os aglomerados de ovos aos quais a Dra. Vahlen se referia em seus registros. Como ainda não temos certeza sobre suas propriedades letais, eu evitaria o contato direto com eles... especialmente em um cenário de combate."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_Facility_Entry_One AkEvent]
+SpokenText="Parece ser o que restou de uma instalação de genética alienígena. Com o dano dessas unidades de contenção sendo tão severo, posso apenas imaginar o trabalho que estava sendo realizado aqui."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_King_Attempting_Escape_1 AkEvent]
+SpokenText="É uma espécie de fenda psíquica! Eu não consigo nem começar a entender por que a Vahlen permitiria que ela tivesse essa habilidade!"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_MATINEE_Boots_Ground_1 AkEvent]
+SpokenText="As leituras biológicas nesta área são... erráticas. Além de várias espécies de fauna alienígena-"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_MATINEE_King_Reveal_2 AkEvent]
+SpokenText="Não é possível dizer a essa distância. Os sinais vitais estão sendo obscurecidos por..."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_MATINEE_King_Reveal_3 AkEvent]
+SpokenText="Eu acredito que este seria o sujeito Gama."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_Mission_Final AkEvent]
+SpokenText="Central, não estou detectando mais sinais vitais, humanos ou de outra espécie. A caverna está limpa."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_Neophytes_Spotted_2 AkEvent]
+SpokenText="Embora eu compartilhe suas reservas sobre esta espécie, há algo diferente nessas criaturas. Elas parecem quase subdesenvolvidas. Talvez uma fase anterior de crescimento ou algum tipo de organismo precursor."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_Post_Ambush_Research_Segue AkEvent]
+SpokenText="Eu acessei mais a fundo os arquivos da Dra. Vahlen. Acredito ter encontrado uma seção relevante para a nossa busca."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_Post_King_Research_One_1 AkEvent]
+SpokenText="Central, estou recuperando todos os registros relevantes sobre esse Rei Víper agora."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_Post_Matinee_2 AkEvent]
+SpokenText="Compartilho da sua preocupação. Não há como saber quais efeitos o trabalho da Dra. Vahlen teve sobre essa criatura. Sugiro que tornemos sua subjugação nossa principal prioridade."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_Post_Pad_1 AkEvent]
+SpokenText="Parece ser algum tipo de repositório de dados físicos, extraído de um terminal de rede antiquado. Tentando acesso remoto agora."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_Push_Forward_1 AkEvent]
+SpokenText="Acredito que este pode ser o último deles, Central. Não estou detectando assinaturas adicionais."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_Reinforcements_Wont_Stop AkEvent]
+SpokenText="Central, a conclusão da Dra. Vahlen parece acertada. Este Rei Víper continuará a convocar reforços até que possamos silenciá-lo permanentemente. Você deve focar seus esforços."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_Research_Segue AkEvent]
+SpokenText="Central, consegui restaurar partes dos registros pessoais da Dra. Vahlen, começarei a transmitir o que puder imediatamente."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_Rulers_Move_Always AkEvent]
+SpokenText="Parece que as criações da Vahlen não têm a intenção de facilitar as coisas, fiquem alertas para movimentos rápidos, pois ele tentará reposicionar-se."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_The_Beacon_1 AkEvent]
+SpokenText="Eu esperava conhecer minha antecessora sob circunstâncias menos extremas. Ainda assim, rastreei o sinal dela para uma área não muito distante daqui."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_Transmission_Cleared AkEvent]
+SpokenText="Eu redirecionei o sinal de saída, a unidade deve ter sido danificada durante qualquer conflito que ocorreu aqui. A mensagem completa está chegando agora."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_Unbroken_Transmission_3_ALT AkEvent]
+SpokenText="...E agora enfrentamos seus medos, de frente."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_Viper_Boltguns_Sighted_2 AkEvent]
+SpokenText="Eu acredito que você está certo, Central, outra possível conexão com este local."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_Viper_King_Freeze_Breath_1 AkEvent]
+SpokenText="Central, o sopro concentrado daquela criatura está registrando temperaturas incrivelmente baixas... você corre o risco de danos graves no tecido se for exposto."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_T_TYG_Viper_King_Ice_1 AkEvent]
+SpokenText="Onde antes havia um veneno venenoso, agora vemos gelo, como se estivesse canalizando o ar ao seu redor sob pressão extrema, congelando instantaneamente os componentes vulneráveis."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""

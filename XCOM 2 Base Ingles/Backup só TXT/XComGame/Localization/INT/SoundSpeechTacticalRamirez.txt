@@ -1,0 +1,35 @@
+[T_Setup_Phase_Combat_Tutorial_Ramirez_10 AkEvent]
+SpokenText="Em movimento."
+
+[T_Setup_Phase_Combat_Tutorial_Ramirez_25 AkEvent]
+SpokenText="Sem problema!"
+
+[T_Setup_Phase_Combat_Tutorial_Ramirez_26 AkEvent]
+SpokenText="Você ainda está contando os pontos, né?"
+
+[T_Tutorial_Ramirez_Concealed AkEvent]
+SpokenText="Fora de vista."
+
+[T_Tutorial_Ramirez_Confirmations_1 AkEvent]
+SpokenText="Recebido."
+
+[T_Tutorial_Ramirez_Confirmations_2 AkEvent]
+SpokenText="Entendido."
+
+[T_Tutorial_Ramirez_Confirmations_3 AkEvent]
+SpokenText="Compreendido."
+
+[T_Tutorial_Ramirez_Confirmations_4 AkEvent]
+SpokenText="Pronto para seguir."
+
+[T_Tutorial_Ramirez_Confirmations_5 AkEvent]
+SpokenText="Fazendo isso."
+
+[T_Tutorial_Ramirez_Confirmations_6 AkEvent]
+SpokenText="Não precisa pedir duas vezes."
+
+[T_Tutorial_Ramirez_Confirmations_7 AkEvent]
+SpokenText="Afirmativo."
+
+[T_Tutorial_Ramirez_Confirmations_8 AkEvent]
+SpokenText="Tenho tudo sob controle."

@@ -1,0 +1,32 @@
+[X2CharacterTemplateManager.Gremlin X2CharacterTemplate]
+strCharacterName="Gremlin"
+
+[X2CharacterTemplateManager.Zombie X2CharacterTemplate]
+strCharacterName="Zumbi"
+
+[X2CharacterTemplateManager.Zombie2 X2CharacterTemplate]
+strCharacterName="Zumbi"
+
+[X2ItemTemplateManager.ACVCannon X2WeaponTemplate]
+FriendlyName="Rifle de Assalto"
+
+[X2ItemTemplateManager.Berserker_Blade X2WeaponTemplate]
+FriendlyName="Garra do Berserker"
+
+[X2ItemTemplateManager.Cryssalid_Claw X2WeaponTemplate]
+FriendlyName="Garra do Cryssalid"
+
+[X2ItemTemplateManager.Gremlin_WPN X2WeaponTemplate]
+FriendlyName="Rifle de Assalto"
+
+[X2ItemTemplateManager.MutonRifle X2WeaponTemplate]
+FriendlyName="Rifle de Assalto"
+
+[X2ItemTemplateManager.SectoidPlasmaPistol X2WeaponTemplate]
+FriendlyName="Rifle de Assalto"
+
+[X2ItemTemplateManager.ViperRifle X2WeaponTemplate]
+FriendlyName="Rifle de Assalto"
+
+[X2ItemTemplateManager.ZombieFist X2WeaponTemplate]
+FriendlyName="Punho do Zumbi"

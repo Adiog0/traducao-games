@@ -1,0 +1,20 @@
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_0 XComInteractiveLevelActor]
+FriendlyDisplayName="Porta Segura"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_1 XComInteractiveLevelActor]
+FriendlyDisplayName="Porta de Cela"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_2 XComInteractiveLevelActor]
+FriendlyDisplayName="Porta de Cela"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_56 XComInteractiveLevelActor]
+FriendlyDisplayName="Porta Segura"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_57 XComInteractiveLevelActor]
+FriendlyDisplayName="Porta Segura"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_61 XComInteractiveLevelActor]
+FriendlyDisplayName="Porta Segura"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_62 XComInteractiveLevelActor]
+FriendlyDisplayName="Porta Segura"

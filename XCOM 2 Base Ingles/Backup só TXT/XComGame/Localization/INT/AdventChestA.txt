@@ -1,0 +1,9 @@
+[Archetypes.ARC_IA_AdventChest XComInteractiveLevelActor]
+FriendlyDisplayName="Contêiner ADVENT"
+
+[Archetypes.ARC_IA_AdventChestObjective XComInteractiveLevelActor]
+FriendlyDisplayName="Contêiner ADVENT"
+
+[Archetypes.ARC_IA_AlienChest XComInteractiveLevelActor]
+FriendlyDisplayName="Contêiner Alien"
+

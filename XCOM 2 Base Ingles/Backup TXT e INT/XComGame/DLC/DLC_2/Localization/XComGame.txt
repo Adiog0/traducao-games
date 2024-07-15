@@ -1,0 +1,602 @@
+;Adicional de Localização para o DLC do Dia 60
+
+;Strings relacionadas à missão
+;----------------------------
+[MissionSource_AlienNest X2MissionSourceTemplate]
+MissionPinLabel="Ninho Alienígena"
+BattleOpName="Operação Fera Real"
+
+[DerelictFacility X2MissionSiteDescriptionTemplate]
+DescriptionString="Instalação de Pesquisa Abandonada"
+
+[AlienNest X2MissionTemplate]
+DisplayName="Investigar o Sinal"
+Briefing="Investigação - Local Desconhecido"
+PostMissionType="Ninho Alienígena"
+BriefingImage="img:///UILibrary_DLC2Images.Alert_Alien_NestPOI"
+ObjectiveTextPools[0]="Investigar o Sinal de Vahlen"
+PreMissionNarratives[0]="DLC_60_NarrativeMoments.DLC2_S_Dropship_Mission_Briefing"
+
+[DefaultAlienNest X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Investigar o Acampamento de Vahlen"
+ObjectiveTextPools[1]="Recuperar os Registros de Vahlen"
+ObjectiveTextPools[2]="Localizar o Transponder de Vahlen"
+ObjectiveTextPools[3]="Opcional: Matar o Rei Viper"
+ObjectiveTextPools[4]="Central Deve Sobreviver"
+ObjectiveTextPools[5]="Neutralizar Todos os Víboras Restantes"
+
+;-----------------------
+; GEOSCAPE
+;-----------------------
+
+[POI_HunterWeapons X2PointOfInterestTemplate]
+DisplayNames[0]="Baliza Localizadora"
+
+CompletedSummaries[0]="Entre os destroços de um Skyranger desgastado, os corpos de vários jovens soldados permanecem presos em seus assentos. Não há sinal do piloto, mas a baliza localizadora de emergência soa incessantemente no cockpit. No compartimento de carga, uma grande caixa com o distintivo desbotado da XCOM contém várias armas incomuns."  
+
+POIImages[0]="img:///UILibrary_DLC2Images.Alert_Downed_Skyranger"
+
+[POI_AlienNest X2PointOfInterestTemplate]
+DisplayNames[0]="Posição Triangulada"
+
+CompletedSummaries[0]="Após triangular a posição original do Skyranger e seguir sua trilha, encontramos um nicho rochoso repleto de destroços. De cima, há poucas evidências do que aconteceu aqui."
+
+POIImages[0]="img:///UILibrary_DLC2Images.Alert_Alien_Nest"
+
+;-----------------------
+; RECOMPENSAS
+;-----------------------
+
+[Reward_HunterWeapons X2RewardTemplate]
+DisplayName="Carga Recuperada"
+
+[Reward_AlienNest X2RewardTemplate]
+DisplayName="Missão de Investigação"
+
+[ResAct_AlienNestInvestigated X2ResistanceActivityTemplate]
+DisplayName="Ninho Alienígena Investigado:"
+
+[ResAct_AlienRulersKilled X2ResistanceActivityTemplate]
+DisplayName="Líderes Alienígenas Mortos:"
+
+
+;-----------------------
+; ITENS
+;-----------------------
+
+[CorpseViperKing X2ItemTemplate]
+FriendlyName="Cadáver do Rei Viper"
+FriendlyNamePlural="Cadáveres do Rei Viper"
+BriefSummary="Entre as várias modificações genéticas realizadas pela Dra. Vahlen enquanto experimentava com essa criatura, a mudança completa de gênero é talvez a mais evidente. Há também a questão do gelo que parece produzir em vez de veneno." 
+
+[CorpseBerserkerQueen X2ItemTemplate]
+FriendlyName="Cadáver da Rainha Berserker"
+FriendlyNamePlural="Cadáveres da Rainha Berserker"
+BriefSummary="Esse gigante não apenas foi geneticamente modificado, mas também recebeu equipamentos substancialmente alterados ligados diretamente ao seu sistema nervoso central. É preciso tomar extremo cuidado ao tentar desconectar qualquer um dos sistemas incorporados."
+
+[CorpseArchonKing X2ItemTemplate]
+FriendlyName="Cadáver do Rei Archon"
+FriendlyNamePlural="Cadáveres do Rei Archon"
+BriefSummary="Entre todos os sujeitos de teste de Vahlen, a variante modificada do Archon se assemelha mais de perto à espécie precursora. Como todos sabemos, as aparências podem enganar, e essa criatura não deve ser subestimada nem mesmo na morte."
+
+;-----------------------
+; TECNOLOGIAS
+;-----------------------
+
+[AutopsyViperKing X2TechTemplate]
+DisplayName="Autópsia do Rei Viper"
+Summary="Embora claramente reminiscente das espécies conhecidas de Víboras que encontramos com alguma regularidade, este espécime é único por várias razões, principalmente por ser o único Viper macho já relatado. Pode ser possível reutilizar alguma faceta de sua biologia para o desenvolvimento de nossas próprias armaduras."
+CodeName="Escorpião"
+LongDescription="Tendo estudado cuidadosamente o que resta dos relatórios pessoais de pesquisa da Dra. Vahlen, gradualmente comecei a entender as profundezas de sua curiosidade intelectual e o grau em que ela foi consumida por sua ambição. Ao reverter mudanças-chave na estrutura genética do Viper, traços intencionalmente suprimidos pelos alienígenas, ela criou este, o assunto \"Gamma\" - o Viper \"Rei\".\n\nA ideia de um patriarca Viper é intrigante por si só, considerando que nunca houve avistamentos anteriores de membros machos da espécie. Vahlen teorizou que isso pode ter sido uma forma intencional de controle populacional, com os Anciões restringindo a capacidade de reprodução de suas espécies subordinadas. Tendo visto o aparente local de nidificação criado por Gamma e a descoberta de ninhadas de ovos (nenhuma das quais estava viável para amostragem), posso afirmar com confiança que a criatura imediatamente partiu para seguir os instintos naturais que haviam sido suprimidos por meio de manipulação genética.\n\nAté o momento, não tenho explicação para como as glândulas de veneno do Viper foram afetadas de tal maneira a mudar sua forma e função de forma tão dramática; serão necessários estudos adicionais, mas prometi permitir que alguns dos restos de Gamma sejam utilizados para um novo conceito de design de armadura. R. Tygan."
+
+[AutopsyBerserkerQueen X2TechTemplate]
+DisplayName="Autópsia da Rainha Berserker"
+Summary="Como se o Berserker padrão já não fosse suficiente para nossas tropas lidarem, este espécime em particular foi substancialmente modificado com algum tipo de sistema de injeção auxiliar que circula fluidos por todo o corpo. Acredito que seja possível modificar esses sistemas para uso em uma armadura própria, mas o processo de fabricação pode ser um desafio."
+CodeName="Hulk"
+LongDescription="Apesar de uma minuciosa análise da variante modificada do Berserker conhecida como assunto \"Beta\", ainda não descobri qualquer justificativa significativa para o equipamento aprimorado fornecido pela Dra. Vahlen à criatura em relação à sua própria pesquisa. Deixe-me ser claro, entendo completamente que o sistema endócrino aprimorado da criatura requer a adição desse mecanismo de transporte e filtragem suplementar para manter o equilíbrio hormonal. Além disso, admito que é uma solução razoavelmente elegante para uma questão bastante difícil.\n\nO que não consigo entender é por que era necessário que a Dra. Vahlen levasse essa certeza relativa além do estágio teórico. Não havia necessidade de uma \"prova de conceito\" aqui, o resultado final não deixava dúvidas tanto para ela na época quanto para mim agora. Acredito firmemente que ela tomou a decisão consciente de levar seu trabalho até o fim, sabendo muito bem os riscos não apenas para ela mesma, mas para todos os outros que poderiam encontrar o assunto Beta no futuro. Sou grato por termos encontrado a criatura quando o fizemos e que nossas forças foram capazes de neutralizar um inimigo tão formidável.\n\nA equipe sênior concordou que os restos de Beta seriam melhor utilizados como parte de uma armadura aprimorada, embora o processo real de conversão pareça algo que deveria ter sido tratado pela Dra. Vahlen. R. Tygan."
+
+[AutopsyArchonKing X2TechTemplate]
+DisplayName="Autópsia do Rei Archon"
+Summary="A Dra. Vahlen conseguiu aprimorar os sistemas-chave dessa criatura, mantendo de alguma forma a aparência cuidadosamente projetada concebida pelos alienígenas. Embora aparentemente semelhante à variante padrão do Archon, como visto em campo, esse espécime possui capacidades avançadas de voo além de tudo o que já encontramos. Pode ser possível adaptar essa tecnologia para uma armadura própria capaz de voar."
+CodeName="Dédalo"
+LongDescription="A variante modificada do Archon conhecida pela Dra. Vahlen como \"Alpha\" não apenas foi geneticamente alterada, mas também atualizada com equipamentos diretamente relacionados às suas habilidades incomuns. Mais uma vez, tenho que questionar a lógica de fornecer capacidades ofensivas aprimoradas a uma espécie alienígena hostil, mesmo que Vahlen tivesse a intenção de voltar essas criaturas contra seus mestres anteriores.\n\nEmbora eu tenha tido pouca exposição aos predecessores biomecânicos rudimentares do Archon moderno, posso afirmar com certeza que o Alpha de Vahlen é, sem dúvida, o mais avançado fisicamente e tecnologicamente de todas as versões anteriores desta espécie criadas pelos alienígenas. De acordo com nossos relatórios de campo, a criatura tinha uma tendência aterradora de se lançar sobre seu alvo antes de subir rapidamente em altitude e, em seguida, soltar a vítima indefesa. Acredito que nossas tropas prestaram um grande serviço ao eliminar essa ameaça em particular. R. Tygan."
+
+[RAGESuit X2TechTemplate]
+DisplayName="Traje R.A.G.E."
+Summary="Pode ser possível adaptar a pele excepcionalmente resistente da Rainha Berserker em um traje de alta potência."
+
+[SerpentSuit X2TechTemplate]
+DisplayName="Traje Serpente"
+Summary="As escamas do Rei Viper são surpreendentemente leves e flexíveis, e devem fornecer resistência substancial uma vez reforçadas."
+
+[IcarusArmor X2TechTemplate]
+DisplayName="Armadura Ícaro"
+Summary="Após uma cuidadosa análise do Archon Rei falecido, é viável construir um conjunto de armadura que incorpora seus sistemas únicos de propulsão a jato."
+
+;-----------------------
+; ARMADURAS DE CHEFES ALIENÍGENAS
+;-----------------------
+[MediumAlienArmor X2ArmorTemplate]
+FriendlyName="Armadura Ícaro"
+FriendlyNamePlural="Armaduras Ícaro"
+BriefSummary="Os componentes de voo recuperados do Archon Rei, combinados com nossos sistemas de armadura padrão, resultam em uma armadura com alta resistência a danos e mobilidade aprimorada. O sistema de propulsão integrado permite voo temporário, permitindo que o usuário mude rapidamente de posição."
+TacticalText="<Bullet/> A Armadura Ícaro é uma armadura de classe média, fornecendo dois slots de itens no inventário e mobilidade aumentada.\n<Bullet/> A Armadura Ícaro permite que um soldado pule instantaneamente para uma nova localização.\n<Bullet/> Usar esta armadura tem uma chance de causar pânico em Archons encontrados em combate."
+
+[LightAlienArmor X2ArmorTemplate]
+FriendlyName="Traje Serpente"
+FriendlyNamePlural="Trajes Serpente"
+BriefSummary="Construído a partir das escamas leves e excepcionalmente duráveis do Rei Viper, o Traje Serpente melhora significativamente os reflexos e a velocidade de nossos soldados. Ele também possui um mecanismo de agarrar infundido com o veneno congelante do Rei Viper, que pode ser usado para retirar inimigos de suas coberturas e congelá-los no lugar."
+TacticalText="<Bullet/> O Traje Serpente adiciona mobilidade e aumenta a chance de sofrer tiros superficiais em vez de acertos diretos.\n<Bullet/> O Traje Serpente possui um dispositivo de agarrar montado no pulso, que pode ser usado para atravessar terrenos ou retirar unidades inimigas de suas coberturas.\n<Bullet/> Usar esta armadura tem uma chance de causar pânico em Vipers encontrados em combate."
+
+[LightAlienArmorMk2 X2ArmorTemplate]
+FriendlyName="Armadura Serpente"
+FriendlyNamePlural="Armaduras Serpente"
+BriefSummary="Uma versão aprimorada do Traje Serpente reforçada com Elerium, esta armadura mantém todas as capacidades de seu predecessor, enquanto aumenta ainda mais a sobrevivência, velocidade e reflexos de quem a veste."
+TacticalText="<Bullet/> A Armadura Serpente adiciona mobilidade e aumenta a chance de sofrer tiros superficiais em vez de acertos diretos.\n<Bullet/> A Armadura Serpente possui um dispositivo de agarrar montado no pulso, que pode ser usado para atravessar terrenos ou retirar unidades inimigas de suas coberturas.\n<Bullet/> Usar esta armadura tem uma chance de causar pânico em Vipers encontrados em combate."
+
+[HeavyAlienArmor X2ArmorTemplate]
+FriendlyName="Traje R.A.G.E."
+FriendlyNamePlural="Trajes R.A.G.E."
+BriefSummary="A pele quase impenetrável da Rainha Berserker funciona perfeitamente como um traje de corpo, concedendo proteção incrível, resistência a danos e mobilidade. O Traje R.A.G.E. também possui um mecanismo para aumentar rapidamente a adrenalina do usuário, permitindo que eles ataquem inimigos com poderosos ataques corpo a corpo."
+TacticalText="<Bullet/> O Traje R.A.G.E. é uma armadura de classe pesada, concedendo mobilidade aumentada e permitindo que o soldado equipe uma arma pesada.\n<Bullet/> O Traje R.A.G.E. permite ao usuário atacar inimigos e causar danos brutais com ataques corpo a corpo.\n<Bullet/> Usar esta armadura tem uma chance de causar pânico em Mutons e Berserkers encontrados em combate."
+
+[HeavyAlienArmorMk2 X2ArmorTemplate]
+FriendlyName="Armadura R.A.G.E."
+FriendlyNamePlural="Armaduras R.A.G.E."
+BriefSummary="Ao injetar a Armadura R.A.G.E. com Elerium adicional, suas qualidades de proteção são aprimoradas, mantendo sua mobilidade inerente e o potencial para ataques corpo a corpo devastadores."
+TacticalText="<Bullet/> A Armadura R.A.G.E. é uma armadura de classe pesada, concedendo mobilidade aumentada e permitindo que o soldado equipe uma arma pesada.\n<Bullet/> A Armadura R.A.G.E. permite ao usuário atacar inimigos e causar danos brutais com ataques corpo a corpo.\n<Bullet/> Usar esta armadura tem uma chance de causar pânico em Mutons e Berserkers encontrados em combate."
+
+[FreezingLash X2AbilityTemplate]
+LocFriendlyName="Mordida Gélida"
+LocLongDescription="Golpeie um alvo com seu dispositivo de agarrar, congelando-o no lugar. Alvos humanos da ADVENT também podem ser retirados de suas coberturas."
+LocHelpText="Congele um inimigo no lugar. Alvos humanos da ADVENT também podem ser retirados de suas coberturas."
+LocFlyOverText="Mordida Gélida"
+LocMissMessage="Mordida Gélida Errou!"
+
+[RagePanic X2AbilityTemplate]
+LocFriendlyName="Pânico R.A.G.E."
+LocLongDescription="Mutons e Berserkers têm uma chance de entrar em pânico quando veem esta armadura."
+LocHelpText="Mutons e Berserkers têm uma chance de entrar em pânico quando veem esta armadura."
+LocFlyOverText="Traje R.A.G.E.: Pânico"
+
+[Ragestrike X2AbilityTemplate]
+LocFriendlyName="Ataque Frenético"
+LocLongDescription="Ataque qualquer inimigo dentro do alcance de movimento com um assalto corpo a corpo devastador."
+LocHelpText="Ataque um inimigo dentro do alcance de movimento com um assalto corpo a corpo devastador."
+
+[IcarusPanic X2AbilityTemplate]
+LocFriendlyName="Pânico Ícaro"
+LocLongDescription="Archons têm uma chance de entrar em pânico quando veem esta armadura."
+LocHelpText="Archons têm uma chance de entrar em pânico quando veem esta armadura."
+LocFlyOverText="Armadura Ícaro: Pânico"
+
+[IcarusJump X2AbilityTemplate]
+LocFriendlyName="Salto Ícaro"
+LocLongDescription="Os propulsores incorporados à Armadura Ícaro permitem que um soldado salte instantaneamente para uma nova posição."
+LocHelpText="Pule para uma nova localização. Ignora toda a mira de vigilância e fogo de reação."
+LocFlyOverText="Salto Ícaro"
+
+[SerpentPanic X2AbilityTemplate]
+LocFriendlyName="Pânico de Serpente"
+LocLongDescription="Vipers têm uma chance de entrar em pânico quando veem esta armadura."
+LocHelpText="Vipers têm uma chance de entrar em pânico quando veem esta armadura."
+LocFlyOverText="Armadura Serpente: Pânico"
+
+[VaultAbility X2AbilityTemplate]
+LocFriendlyName="Salto com Impulso"
+LocLongDescription="Salte até o topo de beiradas e estruturas, em vez de escalar."
+LocHelpText="Salte até o topo de beiradas e estruturas, em vez de escalar."
+LocFlyOverText="Salto com Impulso"
+
+[VaultAbilityPassive X2AbilityTemplate]
+LocFriendlyName="Salto com Impulso"
+LocLongDescription="Salte até o topo de beiradas e estruturas, em vez de escalar."
+LocHelpText="Salte até o topo de beiradas e estruturas, em vez de escalar."
+LocFlyOverText="Salto com Impulso"
+
+;-----------------------
+; ARMAS CAÇADORAS ALIENÍGENAS
+;-----------------------
+[AlienHunterRifle_CV X2WeaponTemplate]
+FriendlyName="Bolt Caster"
+FriendlyNamePlural="Bolt Casters"
+BriefSummary="Descoberto entre um estoque de armas aparentemente arcaicas, o Bolt Caster é surpreendentemente poderoso, mas limitado por uma taxa de tiro lenta. Inimigos atingidos têm uma chance de serem atordoados no impacto. Essa arma é única e não pode ser duplicada ou substituída."
+TacticalText="<Bullet/> A precisão do Bolt Caster o torna mais poderoso que um Rifle de Assalto padrão.\n<Bullet/> Cada ataque tem uma chance de atordoar o alvo e não pode ser esquivado.\n<Bullet/> Aliens com alterações genéticas são altamente suscetíveis a serem atordoados.\n<Bullet/> Lança um único projétil de alto dano, mas precisa ser recarregado após cada uso."
+AbilityDescName="bolt caster"
+
+[AlienHunterRifle_MG X2WeaponTemplate]
+FriendlyName="Bolt Caster Magnético"
+FriendlyNamePlural="Bolt Casters Magnéticos"
+BriefSummary="Ao modificar o armador e fixar permanentemente uma série de ímãs ao longo de sua coronha, conseguimos aumentar substancialmente o poder de saída do tradicional Bolt Caster por meio de propulsão eletromagnética."
+TacticalText="<Bullet/> A adição de uma bobina magnética aumenta o dano de cada projétil individual.\n<Bullet/> Cada ataque tem uma chance de atordoar o alvo e não pode ser esquivado.\n<Bullet/> Aliens com alterações genéticas são altamente suscetíveis a serem atordoados.\n<Bullet/> Lança um único projétil de alto dano, mas precisa ser recarregado após cada uso."
+AbilityDescName="magnetic bolt caster"
+
+[AlienHunterRifle_BM X2WeaponTemplate]
+FriendlyName="Bolt Caster de Plasma"
+FriendlyNamePlural="Bolt Casters de Plasma"
+BriefSummary="A introdução de uma célula de energia de Elerium em miniatura permite que o Bolt Caster gere rajadas de plasma com cada projétil disparado, com foco eletromagneticamente."
+TacticalText="<Bullet/> Um lançador aprimorado com Elerium torna esta a versão mais mortal do Bolt Caster.\n<Bullet/> Cada ataque tem uma chance de atordoar o alvo e não pode ser esquivado.\n<Bullet/> Aliens com alterações genéticas são altamente suscetíveis a serem atordoados.\n<Bullet/> Lança um único projétil de alto dano, mas precisa ser recarregado após cada uso."
+AbilityDescName="plasma bolt caster"
+
+[AlienHunterPistol_CV X2WeaponTemplate]
+FriendlyName="Shadowkeeper"
+FriendlyNamePlural="Shadowkeepers"
+BriefSummary="Embora possa parecer antiqueta em comparação com nossos designs mais recentes, esta pistola é notavelmente precisa, garantindo que mesmo os soldados menos experientes acertem seu alvo pretendido. Existe também a chance de que possam matar o alvo e escapar despercebidos. Esta arma é única e não pode ser duplicada ou substituída."
+TacticalText="<Bullet/> O Shadowkeeper causa um dano semelhante a uma pistola padrão, mas possui mira aprimorada e chance de acerto crítico.\n<Bullet/> Ao contrário do rifle de atirador, pistolas podem ser disparadas com uma única ação.\n<Bullet/> Abates feitos com a habilidade \"Queda das Sombras\" instantaneamente ocultam a unidade."
+
+[AlienHunterPistol_MG X2WeaponTemplate]
+FriendlyName="Shadowkeeper Melhorado"
+FriendlyNamePlural="Shadowkeepers Melhorados"
+BriefSummary="Refinamentos cuidadosos no mecanismo interno do Shadowkeeper básico permitiram a adição de um simples sistema de lançamento magnético, aumentando o poder de fogo geral."
+TacticalText="<Bullet/> O Shadowkeeper Melhorado corresponde à eficácia de uma Pistola Magnética, mas possui mira aprimorada e chance de acerto crítico.\n<Bullet/> Ao contrário do rifle de atirador, pistolas podem ser disparadas com uma única ação.\n<Bullet/> Abates feitos com a habilidade \"Queda das Sombras\" instantaneamente ocultam a unidade."
+
+[AlienHunterPistol_BM X2WeaponTemplate]
+FriendlyName="Shadowkeeper Potencializado"
+FriendlyNamePlural="Shadowkeepers Potencializados"
+BriefSummary="Embora ainda dependente de um projétil tradicional, nossos vários aprimoramentos no Shadowkeeper culminaram nesta arma lateral extremamente poderosa." 
+TacticalText="<Bullet/> A força do Shadowkeeper Potencializado é comparável a uma Pistola de Feixe, mas possui mira aprimorada e chance de acerto crítico.\n<Bullet/> Ao contrário do rifle de atirador, pistolas podem ser disparadas com uma única ação.\n<Bullet/> Abates feitos com a habilidade \"Queda das Sombras\" instantaneamente ocultam a unidade."
+
+[AlienHunterAxe_CV X2PairedWeaponTemplate]
+FriendlyName="Machado do Caçador"
+FriendlyNamePlural="Machados do Caçador"
+BriefSummary="Afiados a um grau incrível, esses machados de arremesso ricamente trabalhados são compactos o suficiente para que nossos soldados os usem à distância. Essas armas são únicas e não podem ser duplicadas ou substituídas."
+TacticalText="<Bullet/> Carregar dois machados fornece aos Rangers as mesmas habilidades de combate corpo a corpo que uma Espada tradicional.\n<Bullet/> Um machado pode ser arremessado à distância para causar dano instantâneo."
+AbilityDescName="axe"
+
+[AlienHunterAxe_MG X2PairedWeaponTemplate]
+FriendlyName="Machado Iônico"
+FriendlyNamePlural="Machados Iônicos"
+BriefSummary="Usando nossa experiência no trabalho com ligas alienígenas, conseguimos aprimorar ainda mais o Machado do Caçador em uma arma corpo a corpo incrivelmente perigosa."
+TacticalText="<Bullet/> Esses machados são afiados com uma lâmina incrivelmente fina e temperados para uma durabilidade incrível, aumentando seu dano potencial e adicionando uma chance de atordoar os alvos inimigos.\n<Bullet/> Um machado pode ser arremessado à distância para causar dano instantâneo."
+AbilityDescName="axe"
+
+[AlienHunterAxe_BM X2PairedWeaponTemplate]
+FriendlyName="Machado de Fusão"
+FriendlyNamePlural="Machados de Fusão"
+BriefSummary="A adição de pequenas células de energia embutidas nos cabos dos machados fornece uma poderosa descarga elétrica capaz de incendiar os alvos inimigos."
+TacticalText="<Bullet/> Uma corrente elétrica volátil percorre cada lâmina, proporcionando um dano aumentado e uma chance de queimar os alvos inimigos.\n<Bullet/> Um machado pode ser arremessado à distância para causar dano instantâneo."
+AbilityDescName="axe"
+
+[AlienHunterAxeThrown_CV X2WeaponTemplate]
+FriendlyName="Machado do Caçador"
+FriendlyNamePlural="Machados do Caçador"
+BriefSummary="Afiados a um grau incrível, esses machados de arremesso ricamente trabalhados são compactos o suficiente para que nossos soldados os usem à distância. Essas armas são únicas e não podem ser duplicadas ou substituídas."
+TacticalText="<Bullet/> Carregar dois machados fornece aos Rangers as mesmas habilidades de combate corpo a corpo que uma Espada tradicional.\n<Bullet/> Um machado pode ser arremessado à distância para causar dano instantâneo."
+AbilityDescName="axe"
+
+[AlienHunterAxeThrown_MG X2WeaponTemplate]
+FriendlyName="Machado Iônico"
+FriendlyNamePlural="Machados Iônicos"
+BriefSummary="Atualização de Nível 2 para o Machado do Caçador."
+TacticalText="<Bullet/> Esses machados são afiados com uma lâmina incrivelmente fina e temperados para uma durabilidade incrível, aumentando seu dano potencial e adicionando uma chance de atordoar os alvos inimigos.\n<Bullet/> Um machado pode ser arremessado à distância para causar dano instantâneo."
+AbilityDescName="axe"
+
+[AlienHunterAxeThrown_BM X2WeaponTemplate]
+FriendlyName="Machado de Fusão"
+FriendlyNamePlural="Machados de Fusão"
+BriefSummary="Atualização de Nível 3 para o Machado do Caçador."
+TacticalText="<Bullet/> Uma corrente elétrica volátil percorre cada lâmina, proporcionando um dano aumentado e uma chance de queimar os alvos inimigos.\n<Bullet/> Um machado pode ser arremessado à distância para causar dano instantâneo."
+AbilityDescName="axe"
+
+[Frostbomb X2GrenadeTemplate]
+FriendlyName="Bomba de Gelo"
+FriendlyNamePlural="Bombas de Gelo"
+BriefSummary="Dependendo de um agente químico ainda não identificado, esses explosivos portáteis parecem capazes de reduzir instantaneamente a temperatura ambiente da área circundante. Tecidos expostos serão congelados ao contato. Essa arma é única e não pode ser duplicada ou substituída."
+TacticalText="<Bullet/> As bombas de gelo congelam todas as unidades no raio de explosão, impedindo que elas tomem qualquer ação por um turno.\n<Bullet/> As bombas de gelo têm um raio menor do que granadas de fragmentação padrão."
+ThrownAbilityName="Arremessar Bomba de Gelo"
+ThrownAbilityHelpText="Congele todas as unidades na área-alvo."
+LaunchedAbilityname="Lançar Bomba de Gelo"
+LaunchedAbilityHelpText="Congele todas as unidades na área-alvo."
+
+[Shadowfall X2AbilityTemplate]
+LocFriendlyName="Queda das Sombras"
+LocHelpText="Disparo de pistola garantido para acertar. Se o alvo for morto, o atirador fica oculto."
+LocLongDescription="Disparo de pistola garantido para acertar. Se o alvo for morto, o atirador fica oculto."
+LocFlyOverText="Queda das Sombras"
+
+[ShadowfallConcealment X2AbilityTemplate]
+LocFriendlyName="Queda das Sombras"
+LocHelpText="Disparo de pistola garantido para acertar. Se o alvo for morto, o atirador fica oculto."
+LocLongDescription="Disparo de pistola garantido para acertar. Se o alvo for morto, o atirador fica oculto."
+LocFlyOverText="Queda das Sombras"
+
+[ThrowAxe X2AbilityTemplate]
+LocFriendlyName="Arremessar Machado"
+LocHelpText="Arremesse o machado em um alvo. Esse ataque não consome uma ação."
+LocLongDescription="Arremesse o machado em um alvo. Esse ataque não consome uma ação."
+
+[ViperKing_Wpn X2WeaponTemplate]
+FriendlyName="Bolt Caster do Rei Viper"
+FriendlyNamePlural="Bolt Casters do Rei Viper"
+BriefSummary="A XCOM conseguiu recuperar vários tipos de armas pequenas de infantaria padrão; esta é a variedade mais comum, semelhante ao rifle usado vinte anos atrás. Embora decididamente inferior à tecnologia magnética da ADVENT, ela pode ser melhorada usando mais partes de armas recuperadas, assim que uma abordagem técnica padrão for descoberta."
+TacticalText="<Bullet/> Disparar a arma principal sempre encerra a vez do soldado\n<Bullet/> Se o soldado atirar com ambas as ações disponíveis, três tiros serão disparados com precisão reduzida, mas eficiência geral aumentada\n<Bullet/> Use melhorias saqueadas de inimigos para aprimorar a eficácia tática do rifle de assalto."
+
+[ArchonKing_Wpn X2WeaponTemplate]
+FriendlyName="Cajado do Rei Archon"
+FriendlyNamePlural="Cajados do Rei Archon"
+BriefSummary="A XCOM conseguiu recuperar vários tipos de armas pequenas de infantaria padrão; esta é a variedade mais comum, semelhante ao rifle usado vinte anos atrás. Embora decididamente inferior à tecnologia magnética da ADVENT, ela pode ser melhorada usando mais partes de armas recuperadas, assim que uma abordagem técnica padrão for descoberta."
+TacticalText="<Bullet/> Disparar a arma principal sempre encerra a vez do soldado\n<Bullet/> Se o soldado atirar com ambas as ações disponíveis, três tiros serão disparados com precisão reduzida, mas eficiência geral aumentada\n<Bullet/> Use melhorias saqueadas de inimigos para aprimorar a eficácia tática do rifle de assalto."
+
+[ArchonKingStaff X2WeaponTemplate]
+FriendlyName="Cajado do Rei Archon"
+FriendlyNamePlural="Cajados do Rei Archon"
+BriefSummary="A XCOM conseguiu recuperar vários tipos de armas pequenas de infantaria padrão; esta é a variedade mais comum, semelhante ao rifle usado vinte anos atrás. Embora decididamente inferior à tecnologia magnética da ADVENT, ela pode ser melhorada usando mais partes de armas recuperadas, assim que uma abordagem técnica padrão for descoberta."
+TacticalText="<Bullet/> Disparar a arma principal sempre encerra a vez do soldado\n<Bullet/> Se o soldado atirar com ambas as ações disponíveis, três tiros serão disparados com precisão reduzida, mas eficiência geral aumentada\n<Bullet/> Use melhorias saqueadas de inimigos para aprimorar a eficácia tática do rifle de assalto"
+
+[ViperNeonate_Wpn X2WeaponTemplate]
+FriendlyName="Bolt Caster Viper"
+FriendlyNamePlural="Bolt Casters Viper"
+BriefSummary="A XCOM conseguiu recuperar vários tipos de armas pequenas de infantaria padrão; esta é a variedade mais comum, semelhante ao rifle usado vinte anos atrás. Embora decididamente inferior à tecnologia magnética da ADVENT, ela pode ser melhorada usando mais partes de armas recuperadas, assim que uma abordagem técnica padrão for descoberta."
+TacticalText="<Bullet/> Disparar a arma principal sempre encerra a vez do soldado\n<Bullet/> Se o soldado atirar com ambas as ações disponíveis, três tiros serão disparados com precisão reduzida, mas eficiência geral aumentada\n<Bullet/> Use melhorias saqueadas de inimigos para aprimorar a eficácia tática do rifle de assalto"
+
+;--------------------------------
+;-Definições temporárias de localização para suportar protótipo de ninho jogável
+;Strings de Unidades Proxy
+;--------------------------------
+
+[DrVahlen X2CharacterTemplate]
+strCharacterName="Dra. Vahlen"
+
+[ViperKing X2CharacterTemplate]
+strCharacterName="Rei Víbora"
+
+[BerserkerQueen X2CharacterTemplate]
+strCharacterName="Rainha Berserker"
+
+[ArchonKing X2CharacterTemplate]
+strCharacterName="Rei Arconte"
+
+[ViperNeonate X2CharacterTemplate]
+strCharacterName="Víbora Filhote"
+
+[StandardMelee_NoEnd X2AbilityTemplate]
+LocFriendlyName="Ataque de Combate Corpo a Corpo"
+LocLongDescription="Realiza um ataque de combate corpo a corpo contra um alvo adjacente."
+LocHelpText="Realiza um ataque de combate corpo a corpo contra um alvo adjacente."
+
+[KingGetOverHere X2AbilityTemplate]
+LocFriendlyName="Puxão de Língua"
+LocLongDescription="A língua e o pescoço de uma Víbora são extremamente fortes, capazes de puxar um ser humano adulto para suas bobinas a longa distância."
+LocHelpText="Agarre um alvo com sua língua e puxe-o para o alcance corpo a corpo. Apenas alvos humanoides podem ser puxados."
+LocFlyOverText="Agarrar com a Língua"
+LocMissMessage="Agarre Falhou!"
+
+[KingBind X2AbilityTemplate]
+LocFriendlyName="Asfixiar"
+LocLongDescription="As bobinas de uma Víbora são incrivelmente fortes e podem esmagar um inimigo humanoide adjacente."
+LocHelpText="Asfixie um inimigo humanoide adjacente."
+LocFlyOverText="Asfixiar"
+LocMissMessage="Asfixia Falhou!"
+
+[Frostbite X2AbilityTemplate]
+LocFriendlyName="Sopro Gélido"
+LocLongDescription="O Rei Víbora pode projetar uma rajada gelada à longa distância para congelar os inimigos no lugar."
+LocHelpText="Congele inimigos em uma área."
+LocFlyOverText="Sopro Gélido"
+
+[EndBind X2AbilityTemplate]
+LocFriendlyName="Libertar Agarrar"
+LocLongDescription="Caso a situação tática mude, a Víbora pode libertar o alvo em suas bobinas antes de matá-lo."
+LocHelpText="Liberte o alvo nas bobinas da Víbora."
+LocFlyOverText="Liberar"
+
+[AlienRulerCallForEscape X2AbilityTemplate]
+LocFriendlyName="Escapar"
+LocLongDescription="Após sofrer ferimentos ou eliminar inimigos, o governante alienígena pode escolher escapar do campo de batalha."
+LocHelpText="Invocar um portal para deixar o campo de batalha."
+LocFlyOverText="Invocar Portal!"
+
+[Quake X2AbilityTemplate]
+LocFriendlyName="Terremoto"
+LocLongDescription="Um poderoso golpe no solo capaz de desorientar e repelir os inimigos."
+LocHelpText="Um poderoso golpe no solo capaz de desorientar e repelir os inimigos."
+LocFlyOverText="Terremoto"
+
+[QueenDevastatingPunch X2AbilityTemplate]
+LocFriendlyName="Golpe Devastador"
+LocLongDescription="A força da Rainha Berserker é suficiente para golpear seus inimigos até a morte apenas com os punhos. Este ataque pode atordoar ou desorientar o alvo."
+LocHelpText="Ataque corpo a corpo contra um alvo, podendo atordoá-lo."
+LocFlyOverText="Soco Devastador"
+
+[ArchonKingBlazingPinionsStage1 X2AbilityTemplate]
+LocFriendlyName="Devastar"
+LocLongDescription="O Rei Arconte voa pelos céus e lança uma barragem de mísseis energéticos de suas asas. Os lasers de mira que guiam os mísseis dão um aviso momentâneo de onde eles vão atingir."
+LocHelpText="Barragem de mísseis atrasada disparada contra vários alvos inimigos."
+LocFlyOverText="Devastar"
+
+[Faithbreaker X2AbilityTemplate]
+LocFriendlyName="Quebrar Fé"
+LocLongDescription="A Rainha Berserker ruge com toda sua força e raiva, provocando medo até nos soldados mais experientes em batalha."
+LocHelpText="Chance de causar pânico em todas as unidades inimigas visíveis."
+LocFlyOverText="Quebrar Fé"
+
+[IcarusDropGrab X2AbilityTemplate]
+LocFriendlyName="Icarus Drop"
+LocLongDescription="O Rei Arconte voa diretamente em direção a um inimigo humanoide, agarrando-o e levantando-o no ar."
+LocHelpText="Ataque atrasado onde um inimigo é lançado para o alto e jogado no chão."
+LocFlyOverText="Icarus Drop"
+
+[IcarusDropSlam X2AbilityTemplate]
+LocFriendlyName="Golpe Icarus"
+LocLongDescription="Jogue o inimigo cativo em direção ao chão com uma força incrível."
+LocHelpText="Jogue um inimigo em direção ao chão com força."
+LocFlyOverText="Golpe Icarus"
+
+[Interact_DLC2Transmitter X2AbilityTemplate]
+LocFriendlyName="Baixar Registros"
+LocHelpText="Baixe os registros de pesquisa da Dra. Vahlen"
+
+[ViperNeonateBindAbility X2AbilityTemplate]
+LocFriendlyName="Agarrar e Esmagar"
+LocLongDescription="As bobinas de uma Víbora são incrivelmente fortes e podem prender e esmagar um inimigo humanoide adjacente."
+LocHelpText="Prenda e esmague um inimigo humanoide adjacente."
+LocFlyOverText="Agarrar"
+LocMissMessage="Agarrar Falhou!"
+
+[CentralOfficer X2SoldierClassTemplate]
+DisplayName="Patrulheiro"
+ClassSummary="O Patrulheiro é nossa principal unidade de reconhecimento, capaz de se mover independentemente em modo oculto enquanto combate inimigos em curta distância."
+LeftAbilityTreeTitle=""
+RightAbilityTreeTitle=""
+
+RankNames[0]="Recruta"
+RankNames[1]="Oficial Central"
+
+ShortNames[0]="Rc."
+ShortNames[1]="Of."
+
+RankIcons[0]="UILibrary_Common.rank_rookie"
+RankIcons[1]="UILibrary_Common.rank_commander"
+
+
+;-----------------------
+; Personalização de Soldado - Capacetes
+;-----------------------
+[DLC_60_Helmet_A_AdvCaptain_M X2BodyPartTemplate]
+DisplayName="Capitão ADVENT (Masculino)"
+
+[DLC_60_Helmet_A_AdvCaptain_F X2BodyPartTemplate]
+DisplayName="Capitão ADVENT (Feminino)"
+
+[DLC_60_Helmet_B_AdvStunLancer_M X2BodyPartTemplate]
+DisplayName="StunLancer ADVENT (Masculino)"
+
+[DLC_60_Helmet_B_AdvStunLancer_F X2BodyPartTemplate]
+DisplayName="StunLancer ADVENT (Feminino)"
+
+[DLC_60_Helmet_C_AdvShieldBearer_M X2BodyPartTemplate]
+DisplayName="ShieldBearer ADVENT (Masculino)"
+
+[DLC_60_Helmet_C_AdvShieldBearer_F X2BodyPartTemplate]
+DisplayName="ShieldBearer ADVENT (Feminino)"
+
+[DLC_60_Helmet_D_AdvTrooper_M X2BodyPartTemplate]
+DisplayName="Trooper ADVENT (Masculino)"
+
+[DLC_60_Helmet_D_AdvTrooper_F X2BodyPartTemplate]
+DisplayName="Trooper ADVENT (Feminino)"
+
+[DLC_60_Helmet_E_AdvPsiWitch_M X2BodyPartTemplate]
+DisplayName="Avatar (Masculino)"
+
+[DLC_60_Helmet_E_AdvPsiWitch_F X2BodyPartTemplate]
+DisplayName="Avatar (Feminino)"
+
+[DLC_60_Helmet_F_Andromedon_M X2BodyPartTemplate]
+DisplayName="Andromedon (Masculino)"
+
+[DLC_60_Helmet_F_Andromedon_F X2BodyPartTemplate]
+DisplayName="Andromedon (Feminino)"
+
+[DLC_60_Helmet_Serpent_M X2BodyPartTemplate]
+DisplayName="Serpente (Masculino)"
+
+[DLC_60_Helmet_Serpent_F X2BodyPartTemplate]
+DisplayName="Serpente (Feminino)"
+
+[DLC_60_Helmet_SerpentMk2_M X2BodyPartTemplate]
+DisplayName="Serpente (Masculino)"
+
+[DLC_60_Helmet_SerpentMk2_F X2BodyPartTemplate]
+DisplayName="Serpente (Feminino)"
+
+[DLC_60_Helmet_Archon_M X2BodyPartTemplate]
+DisplayName="Ícaro (Masculino)"
+
+[DLC_60_Helmet_Archon_F X2BodyPartTemplate]
+DisplayName="Ícaro (Feminino)"
+
+;-----------------------
+; Personalização de Soldado - LowerFace
+;-----------------------
+[DLC_60_Accessory_A_MutonMask_M X2BodyPartTemplate]
+DisplayName="Máscara de Muton"
+
+[DLC_60_Accessory_A_MutonMask_F X2BodyPartTemplate]
+DisplayName="Máscara de Muton"
+
+;-----------------------
+; Personalização de Soldado - Cicatrizes
+;-----------------------
+[DLC_60_Scar_A X2BodyPartTemplate]
+DisplayName="Sorriso Sério"
+
+[DLC_60_Scar_B X2BodyPartTemplate]
+DisplayName="Ex"
+
+[DLC_60_Scar_C X2BodyPartTemplate]
+DisplayName="Reconstituído"
+
+[DLC_60_Scar_D X2BodyPartTemplate]
+DisplayName="Corte Duplo nos Olhos"
+
+[DLC_60_Scar_E X2BodyPartTemplate]
+DisplayName="Corte Duplo no Nariz"
+
+[DLC_60_Scar_F X2BodyPartTemplate]
+DisplayName="Queimadura"
+
+;-----------------------
+; Personalização de Soldado - Padrões de Armadura
+;-----------------------
+[DLC_60_Patterns_A X2BodyPartTemplate]
+DisplayName="Estrutura Alienígena"
+
+[DLC_60_Patterns_B X2BodyPartTemplate]
+DisplayName="Armadura de Víbora"
+
+[DLC_60_Patterns_C X2BodyPartTemplate]
+DisplayName="Célula Alienígena"
+
+[DLC_60_Patterns_D X2BodyPartTemplate]
+DisplayName="Armadura de Muton"
+
+[DLC_60_Patterns_E X2BodyPartTemplate]
+DisplayName="Pele de Serpente"
+
+;-----------------------
+; Personalização de Soldado - Tinta Facial
+;-----------------------
+
+[DLC_60_Facepaint_A X2BodyPartTemplate]
+DisplayName="Arconte"
+
+[DLC_60_Facepaint_B X2BodyPartTemplate]
+DisplayName="Berserker"
+
+[DLC_60_Facepaint_C X2BodyPartTemplate]
+DisplayName="Chryssalid"
+
+[DLC_60_Facepaint_D X2BodyPartTemplate]
+DisplayName="Faceless"
+
+[DLC_60_Facepaint_E X2BodyPartTemplate]
+DisplayName="GateKeeper"
+
+[DLC_60_Facepaint_F X2BodyPartTemplate]
+DisplayName="Muton"
+
+[DLC_60_Facepaint_G X2BodyPartTemplate]
+DisplayName="Maori A"
+
+[DLC_60_Facepaint_H X2BodyPartTemplate]
+DisplayName="Maori B"
+
+[DLC_60_Facepaint_I X2BodyPartTemplate]
+DisplayName="Maori C"
+
+[DLC_60_Facepaint_J X2BodyPartTemplate]
+DisplayName="Maori D"
+
+[DLC_60_Facepaint_K X2BodyPartTemplate]
+DisplayName="Maori E"
+
+;-----------------------
+; Personalização de Soldado - Cabelo
+;-----------------------
+
+[DLC_60_Hair_AdvPsiWitch_M X2BodyPartTemplate]
+DisplayName="Avatar"
+
+[DLC_60_Hair_AdvPsiWitch_F X2BodyPartTemplate]
+DisplayName="Avatar"

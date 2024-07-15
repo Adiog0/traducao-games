@@ -1,0 +1,48 @@
+[X2Effect_DLC_Day60Freeze]
+FreezeName="Congelado"
+FreezeDesc="Unidades congeladas não podem se mover ou realizar ações, e são mais fáceis de serem acertadas."
+RulerFreezeTickFlyover="Congelado: <Ability:TurnsRemaining/>"
+FreezeEffectAddedString="<XGParam:StrValue0/!UnitName/> está Congelado."
+FreezeEffectPersistsString="<XGParam:StrValue0/!UnitName/> continua Congelado."
+FreezeEffectRemovedString="<XGParam:StrValue0/!UnitName/> não está mais Congelado."
+FreezeLostFlyover="Descongelado"
+LargeUnitFreezeLostFlyover="Descongelado: Perdeu um ponto de ação"
+
+
+;-----------------------
+; UI
+;-----------------------
+
+[UIAlert_DLC_Day60]
+m_strHunterWeaponsAvailableTitle="Armas da Caçada"
+m_strHunterWeaponsAvailableLabel="NOVOS EQUIPAMENTOS DESCOBERTOS"
+m_strHunterWeaponsAvailableBody="Comandante, as armas únicas que encontramos na área de carga do Skyranger caído agora podem ser equipadas por nossos soldados."
+m_strHunterWeaponsAvailableGoToArmory="EQUIPAR NOVAS ARMAS"
+
+m_strHunterWeaponsPOIAvailableBody="Comandante, nossos scanners de longo alcance acabaram de detectar um sinal de localizador de emergência transmitindo em uma frequência que não usamos desde a invasão. Pode ser uma chance remota, mas é possível que alguém possa ter sobrevivido lá fora. Devemos investigar o mais rápido possível."
+m_strAlienNestPOIAvailableBody="Comandante, conseguimos triangular a posição do ponto de origem do Big Sky. Estamos captando uma transmissão fraca em um canal aberto na área, e parece muito com a Dra. Vahlen. Se há alguma chance de ela ainda estar viva, precisamos chegar ao local imediatamente!"
+
+[UIMission_AlienNest]
+m_strFlavorText="Temos a posição triangular de partida do Skyranger caído; As leituras de energia na área estão instáveis, mas definitivamente há sinais de vida lá embaixo."
+m_strLaunchMission="INVESTIGAR"
+
+;-----------------------
+; NARRATIVE CONTENT
+;-----------------------
+
+[X2DownloadableContentInfo_DLC_Day60]
+NarrativeContentLabel="Caçadores Alienígenas: \"O Ninho\""
+NarrativeContentSummary="Esta missão apresenta a história do conteúdo dos Caçadores Alienígenas. Todo o conteúdo de jogabilidade (incluindo armas, armaduras e novos inimigos) continuará habilitado sem esta missão."
+
+PartContentLabel="Caçadores Alienígenas"
+PartContentSummary="Ajuste a probabilidade de novos soldados aparecerem com opções de personalização dos Caçadores Alienígenas"
+
+EnableContentLabel="Ativar Jogabilidade dos Caçadores Alienígenas?"
+EnableContentSummary="Caçadores Alienígenas adiciona novos inimigos desafiadores às missões, juntamente com poderosas novas armas, armaduras e itens para a XCOM. Deseja ativar o conteúdo de jogabilidade dos Caçadores Alienígenas para esta campanha?\n\nAs novas opções de personalização de soldados são habilitadas automaticamente.\n\nO contexto narrativo completo para o conteúdo de jogabilidade dos Caçadores Alienígenas, incluindo uma nova e empolgante missão, pode ser experimentado iniciando uma nova campanha."
+EnableContentAcceptLabel="Ativar Caçadores Alienígenas"
+EnableContentCancelLabel="Cancelar"
+
+[XComGameState_AlienRulerManager]
+NestCentralFirstName="John"
+NestCentralLastName="Bradford"
+NestCentralNickName="Central"

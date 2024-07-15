@@ -1,0 +1,110 @@
+;-----------------------
+; SPARK Character
+;-----------------------
+
+[SparkSoldier X2SparkCharacterTemplate_DLC_3]
+strCustomizeDesc="Modifique o nome e a aparência deste soldado."
+strCharacterHealingPaused="Reparos Necessários"
+strAcquiredText="As unidades SPARK não se curam como outros soldados. Atribua o SPARK à Engenharia para realizar os reparos."
+
+;-----------------------
+; UI
+;-----------------------
+
+[UIAlert_DLC_Day90]
+m_strLostTowersPOIAvailableBody="Comandante, alguém se esforçou muito para enviar esse sinal para o ROV-R. Precisamos descobrir o motivo."
+
+m_strSparkSquadSelectInfoTitle="SPARK PRONTO PARA COMBATE"
+m_strSparkSquadSelectInfoBody="Comandante, nossas novas unidades SPARK podem ser enviadas em missões mesmo se estiverem feridas ou em reparo. No entanto, os SPARKs não podem pegar ou carregar outros soldados."
+
+[UIMission_LostTowers]
+m_strFlavorText="Rastreamos o sinal recebido pelo ROV-R até esta localização. Devemos descer lá embaixo e descobrir o que está acontecendo."
+m_strLaunchMission="INVESTIGAR"
+
+[UICustomize_SparkMenu]
+m_strTitle=CUSTOMIZAR SPARK
+m_strEditInfo=Informações do Personagem
+m_strEditProps=Adereços
+m_strHead=Cabeça
+m_strMainColor=Cor Principal da Armadura
+m_strSecondaryColor=Cor Secundária da Armadura
+m_strWeaponColor=Cor da Arma
+m_strArmorPatternSelected=Remova o padrão da armadura para mudar a cor
+m_strRemoveHelmetOrLowerProp=Remova o capacete ou adereço facial inferior para editar esta opção
+
+m_strVoice=Voz
+m_strPreviewVoice=PREVISUALIZAR
+m_strType=Tipo da Unidade
+
+m_strExportCharacter=Salvar na Reserva de Personagens
+
+m_strAllowTypeSoldier=Pode Aparecer como Soldado
+m_strAllowTypeVIP=Pode Aparecer como VIP
+m_strAllowTypeDarkVIP=Pode Aparecer como VIP Obscuro
+m_strAllowed=Permitido
+
+m_strTimeAdded=Criado em:
+
+m_strExportSuccessTitle=PERSONAGEM SALVO!
+m_strExportSuccessBody=O nome e aparência deste soldado foram adicionados à reserva de personagens.
+
+[UICustomize_SparkProps]
+m_strTitle=EDITAR ADEREÇOS
+m_strArms=Braços
+m_strTorso=Tronco
+m_strLegs=Pernas
+m_strArmorPattern=Padrão da Armadura
+m_strWeaponPattern=Padrão da Arma
+m_strClearButton=Limpar
+
+[UICustomize_SparkInfo]
+m_strTitle=EDITAR INFORMAÇÕES DO SPARK
+m_strFirstNameLabel=Primeiro Nome
+m_strLastNameLabel=Sobrenome
+m_strNicknameLabel=Apelido
+m_strEditBiography=Biografia
+m_strBiographyLabel=BIOGRAFIA DO PERSONAGEM
+
+;-----------------------
+; NARRATIVE CONTENT
+;-----------------------
+
+[X2DownloadableContentInfo_DLC_Day90]
+NarrativeContentLabel="Presente de Shen: \"As Torres Perdidas\""
+NarrativeContentSummary="Essa missão introduz o conteúdo do Presente de Shen. Todo o conteúdo do jogo (incluindo a nova classe de soldado) ainda estará habilitado sem esta missão."
+
+EnableContentLabel="Habilitar Jogabilidade do Presente de Shen?"
+EnableContentSummary="O Presente de Shen desbloqueia uma nova classe de soldado do XCOM. Você deseja habilitar o conteúdo do Presente de Shen para esta campanha?\n\nO contexto narrativo completo do Presente de Shen, incluindo uma nova e emocionante missão da história, pode ser vivenciado ao iniciar uma nova campanha."
+EnableContentAcceptLabel="Habilitar Presente de Shen"
+EnableContentCancelLabel="Cancelar"
+
+[XComGameState_SparkManager]
+LostTowersShenFirstName="Lily"
+LostTowersShenLastName="Shen"
+
+[SparkArmor X2SparkArmorTemplate_DLC_3]
+FriendlyName="Armadura SPARK"
+FriendlyNamePlural="Armaduras SPARK"
+BriefSummary="A unidade robótica SPARK básica é fortemente blindada, com atenção significativa para proteger os sistemas críticos de uma variedade de perigos de combate e ambientais."
+TacticalText="<Bullet/> Todos os SPARKs são construídos com placas metálicas simples para cobrir seus sistemas centrais.\n<Bullet/> Pesquisas podem fornecer acesso a armaduras melhores."
+
+[PlatedSparkArmor X2SparkArmorTemplate_DLC_3]
+FriendlyName="Estrutura Reforçada"
+FriendlyNamePlural="Estruturas Reforçadas"
+BriefSummary="O reforço adicional das fraquezas identificadas durante implantações de campo do XCOM deve melhorar ainda mais a sobrevivência da unidade SPARK."
+TacticalText="<Bullet/> Reforçando a blindagem tradicional do SPARK, eles podem resistir a ataques adicionais."
+
+[PoweredSparkArmor X2SparkArmorTemplate_DLC_3]
+FriendlyName="Estrutura Anodizada"
+FriendlyNamePlural="Estruturas Anodizadas"
+BriefSummary="O processo de anodização fornece às já extensas armaduras SPARK uma camada protetora adicional, criando uma unidade robótica ainda mais resiliente."
+TacticalText="<Bullet/> A Estrutura Anodizada envolve totalmente o SPARK em uma concha altamente resistente, oferecendo a melhor proteção no campo de batalha."
+
+[XGCharacterGenerator_SPARK]
+SparkFirstName="SPARK-"
+SparkLastNamePrefix="000"
+
+[LostTowersSpark X2SparkCharacterTemplate_DLC_3]
+strForcedFirstName=""
+strForcedLastName="SPARK-001"
+strForcedNickName=""

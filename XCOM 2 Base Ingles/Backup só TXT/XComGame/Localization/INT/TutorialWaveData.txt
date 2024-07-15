@@ -1,0 +1,115 @@
+[TUT_1stBattleOver_02_DELTA2 SoundNodeWave]
+SpokenText="Central. Acho que é isso. Acabou."
+
+[TUT_1stBattleOver_03_CEN SoundNodeWave]
+SpokenText="Entendido, Delta. Garantam os corpos e voltem para o Skyranger para extração imediata."
+
+[TUT_ConstantResearch_03_CS SoundNodeWave]
+SpokenText="Comandante, com esta pesquisa concluída, minha equipe e eu não temos nada para estudar no momento. Gostaria de pedir sua permissão para realizar a autópsia dos corpos alienígenas recuperados em suas duas últimas operações de campo... Tenho certeza de que concordará que, se vamos derrotar os alienígenas, precisamos entender sua fisiologia."
+
+[TUT_ConstantResearch_04_CS SoundNodeWave]
+SpokenText="Obrigado, Comandante. Eu o informarei quando a pesquisa estiver concluída."
+
+[TUT_ConstantResearch_07_CS SoundNodeWave]
+SpokenText="Hmph. Parece que a equipe da Dra. Shen finalmente conseguiu ligar suas máquinas."
+
+[TUT_CouncilMissions_01_CEN SoundNodeWave]
+SpokenText="Comandante, o Conselho solicitou uma palavra."
+
+[TUT_CouncilMissions_04_CEN SoundNodeWave]
+SpokenText="Parece que é melhor irmos nessa."
+
+[TUT_Dashing_01_DELTA3 SoundNodeWave]
+SpokenText="Central, tenho movimento. A 30 metros ao norte da minha posição. Veículo policial."
+
+[TUT_Engineering_01_CE SoundNodeWave]
+SpokenText="Ah, Comandante. Eu estava me perguntando quando você passaria por aqui. Bem-vindo à Engenharia. Tudo o que eles imaginam nos Laboratórios de Pesquisa, podemos construir aqui."
+
+[TUT_Engineering_02_CE SoundNodeWave]
+SpokenText="Falando nisso, a Dra. Vahlen acabou de nos enviar alguns novos esquemas. Com a sua aprovação, começaremos a fabricação."
+
+[TUT_Engineering_03_CE SoundNodeWave]
+SpokenText="Excelente. Minha equipe mal pode esperar para começar. Eu o avisarei assim que estiver pronto."
+
+[TUT_FacilityConstruction_01_CE SoundNodeWave]
+SpokenText="Comandante, sem dúvida você está ciente do pedido da Dra. Vahlen para capturar um dos alienígenas. Um plano sólido, mas ela não percebe que não temos uma instalação para conter com segurança um espécime vivo. Com a sua aprovação, minha equipe e eu começaremos a construção de uma instalação adequada."
+
+[TUT_FacilityConstruction_02_CE SoundNodeWave]
+SpokenText="Obrigado, Comandante. Eu o avisarei quando a instalação estiver pronta."
+
+[TUT_FacilityConstruction_06_CE SoundNodeWave]
+SpokenText="A Dra. Vahlen pediu para falar com você, Comandante. Sem dúvida, ela quer explicar pessoalmente o plano dela."
+
+[TUT_FacilityConstruction_07_CS SoundNodeWave]
+SpokenText="Comandante, tenho certeza de que você foi informado sobre o meu pedido. Com sua autorização, podemos iniciar imediatamente a pesquisa do 'Arc Thrower'."
+
+[TUT_FogPod_01_DELTA3 SoundNodeWave]
+SpokenText="Senhor, estou com o objeto à vista. Permissão para me aproximar."
+
+[TUT_FogPod_04_DELTA3 SoundNodeWave]
+SpokenText="Não faço ideia do que é isso, mas posso confirmar que não é um satélite."
+
+[TUT_MissionControl_01_CEN SoundNodeWave]
+SpokenText="O inimigo está testando nossas capacidades, Comandante. Recebemos relatos de ataques simultâneos em dois países diferentes. Só podemos responder a um deles."
+
+[TUT_MissionControl_02_CEN SoundNodeWave]
+SpokenText="O país que ajudarmos doará mais recursos para nossa causa, mas o nível de pânico do país que escolhermos não ajudar... aumentará. Não é uma decisão fácil, Comandante, mas você terá que tomá-la."
+
+[TUT_MissionControl_07_CEN SoundNodeWave]
+SpokenText="Entendido. As tropas estão esperando por você no Hangar."
+
+[TUT_MovingTimeForward_01_CEN SoundNodeWave]
+SpokenText="Comandante, a Dra. Vahlen informa que a pesquisa está progredindo nos laboratórios, mas ainda levará algum tempo até que o projeto esteja concluído. Enquanto esperamos, nossa rede local de satélites acaba de entrar em operação e agora podemos começar a procurar por novas atividades. O processo pode levar vários dias."
+
+[TUT_Objectives_01_CEN SoundNodeWave]
+SpokenText="Comandante, com base no relatório da Dra. Vahlen, recomendo que comecemos a pesquisar a nova arma que ela está chamando de 'Arc Thrower' nos Laboratórios. Uma vez concluída, podemos enviar os planos para a Engenharia para fabricação e, em seguida, equipar um de nossos soldados com ela nos Alojamentos. A Dra. Shen e a equipe de Engenharia também estão aguardando aprovação para a construção da Instalação de Contenção que precisaremos para abrigar o prisioneiro alienígena."
+
+[TUT_PanicMechanic_02_CEN SoundNodeWave]
+SpokenText="Comandante, temos uma transmissão entrando do Conselho."
+
+[TUT_PanicMechanic_04_CEN SoundNodeWave]
+SpokenText="O Conselho sabe que você tomou a decisão certa, Comandante. Com os recursos disponíveis, só podemos fazer tanto. No entanto, nosso Engenheiro-Chefe encontrou algo para ajudá-lo a monitorar as coisas..."
+
+[TUT_ResearchTakesTime_01_CS SoundNodeWave]
+SpokenText="Olá, Comandante. A tarefa de pesquisa atual está progredindo como esperado. No entanto, levará algum tempo antes que os esquemas estejam prontos para a Engenharia. Tenho certeza de que você tem outros assuntos urgentes para tratar neste ínterim."
+
+[TUT_SatelliteLaunch_02_CEN SoundNodeWave]
+SpokenText="Comandante, boas notícias. O Conselho doou um satélite. Nossa atual Instalação de Enlace de Satélites pode suportar até dois satélites, então recomendo que lancemos o novo imediatamente."
+
+[TUT_SatelliteLaunch_03_CEN SoundNodeWave]
+Sp
+
+okenText="Com este satélite adicional no lugar, melhoramos significativamente nossa cobertura geral. Recomendo que comecemos a procurar contatos alienígenas imediatamente."
+
+[TUT_SatelliteLaunch_04_CE SoundNodeWave]
+SpokenText="A fabricação do dispositivo 'S.C.O.P.E.' foi concluída. Ele foi entregue à Armaria."
+
+[TUT_SatelliteLaunch_05_CE SoundNodeWave]
+SpokenText="A fabricação do Colete de Nanofibras está concluída, Comandante. Ele foi entregue à Armaria."
+
+[TUT_ScienceLab_01_CS SoundNodeWave]
+SpokenText="Olá, Comandante. Meu nome é Dra. Vahlen. Eu supervisiono os Laboratórios de Pesquisa. É aqui que toda a pesquisa e desenvolvimento da XCOM ocorrem."
+
+[TUT_ScienceLab_02_CS SoundNodeWave]
+SpokenText="Já começamos a analisar os artefatos recuperados de nosso primeiro encontro com os alienígenas. Com base em nossas descobertas preliminares, acreditamos que podemos desenvolver alguns novos equipamentos para nossos soldados."
+
+[TUT_ScienceLab_03_CS SoundNodeWave]
+SpokenText="Com a sua aprovação, começaremos a pesquisa imediatamente."
+
+[TUT_ScienceLab_04_CS SoundNodeWave]
+SpokenText="Obrigado, Comandante. Essa pesquisa levará algum tempo. Nós o notificaremos assim que estiver concluída."
+
+[TUT_ScienceLab_10_CS SoundNodeWave]
+SpokenText="Parece que você é necessário em outro lugar. Adeus, Comandante. Se você recuperar mais artefatos adicionais durante suas operações de campo... eu ficaria bastante ansiosa para estudá-los."
+
+[TUT_TheHangar_01_CE SoundNodeWave]
+SpokenText="Bem-vindo de volta, Comandante. Eu queria falar com você sobre nossa frota atual de Interceptors. É crucial que mantenhamos várias dessas aeronaves em alto alerta - vamos precisar delas para interceptar quaisquer futuros contatos alienígenas, e é provável que soframos algumas perdas no processo. Para ajudar a evitar isso, você tem a opção de modificar o armamento dos interceptores pela interface do hangar."
+
+[TUT_TheHangar_02_CE SoundNodeWave]
+SpokenText="Acho que também vale a pena mencionar que mesmo um esquadrão completo de Interceptors não servirá de nada contra nosso inimigo se não soubermos onde eles estão. Será necessária uma cobertura adicional de satélites antes de conseguirmos detectar naves alienígenas em outros locais do planeta. Visite-nos na Engenharia se quiser construir satélites adicionais. Adeus, Comandante."
+
+[TUT_UFOInterception_01_CEN SoundNodeWave]
+SpokenText="Comandante, estamos detectando comunicações de rádio generalizadas indicando avistamentos de UFOs dentro de nossa área atual de cobertura de satélites. Devemos começar a procurar contatos o mais rápido possível."
+
+[TUT_UFOInterception_02_CEN SoundNodeWave]
+SpokenText="Parece que o satélite que lançamos deu resultado. Estamos detectando um objeto não identificado em movimento rápido. Se lançarmos um Interceptor agora, talvez possamos derrubá-lo."

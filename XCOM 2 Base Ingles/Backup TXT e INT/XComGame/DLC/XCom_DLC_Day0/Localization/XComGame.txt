@@ -1,0 +1,28 @@
+[KevlarArmor_DLC_Day0 X2ArmorTemplate]
+FriendlyName="Armadura Kevlar do Guerreiro da Resistência"
+BriefSummary="Essa armadura básica consiste em proteção improvisada montada a partir de materiais recuperados e depósitos de armas da Resistência. Ela oferece proteção mínima contra as armas da ADVENT e é praticamente inútil contra as armas dos alienígenas."
+TacticalText="<Bullet/> Todos os soldados recebem a armadura Kevlar como parte de seu equipamento básico.\n<Bullet/> Pesquisas podem nos dar acesso a armaduras melhores; isso ajudará tremendamente em batalha."
+
+[DLC_0_Hat_A_FloppyBoonie_M X2BodyPartTemplate]
+DisplayName="Boné Floppy"
+[DLC_0_Hat_A_FloppyBoonie_F X2BodyPartTemplate]
+DisplayName="Boné Floppy"
+[DLC_0_Hood_A_Simple_M X2BodyPartTemplate]
+DisplayName="Capuz Longo"
+[DLC_0_Hood_A_Simple_F X2BodyPartTemplate]
+DisplayName="Capuz Longo"
+[DLC_0_Hood_B_SkiMask_M X2BodyPartTemplate]
+DisplayName="Máscara de Esqui"
+[DLC_0_Hood_B_SkiMask_F X2BodyPartTemplate]
+DisplayName="Máscara de Esqui"
+
+[Facepaint_BLANK X2BodyPartTemplate]
+DisplayName="Nenhum"
+[Facepaint_Arid X2BodyPartTemplate]
+DisplayName="Árido"
+[Facepaint_Eyeblack X2BodyPartTemplate]
+DisplayName="Pintura de Olho"
+[Facepaint_SharpShooter X2BodyPartTemplate]
+DisplayName="Atirador de Elite"
+[Facepaint_Skull X2BodyPartTemplate]
+DisplayName="Caveira"
