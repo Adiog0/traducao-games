@@ -2,7 +2,7 @@
 HelpDescription="Verifica certos elementos em cada pacote."
 HelpUsage="gamename.exe MooseCheck <package.classname> [package.classname package.classname ...] [-switches...]"
 HelpParamNames[0]="package.classname"
-HelpParamDescriptions[0]="O caminho completo para a classe a ser procurada, por exemplo, Engine.LightComponent"
+HelpParamDescriptions[0]="O caminho completo para a classe a ser procurada, por exemplo Engine.LightComponent"
 HelpParamNames[1]="-ExactClass"
 HelpParamDescriptions[1]="Indica que apenas objetos dessa classe devem ser contados. O comportamento padrão é contar também objetos de classes derivadas da classe especificada."
 HelpParamNames[2]="-IncludeScript"
