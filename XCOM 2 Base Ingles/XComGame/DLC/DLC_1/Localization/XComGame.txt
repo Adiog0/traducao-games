@@ -275,7 +275,7 @@ DisplayName="Shorts com Acolchoamento Antidetonante"
 DisplayName="Shorts"
 
 ;----------------------------
-; Plated Light Masculino
+; Reforçado Leve Masculino
 ;----------------------------
 
 [DLC_30_Arms_Left_PltLt_A_M X2BodyPartTemplate]
@@ -339,7 +339,7 @@ DisplayName="Viúva Negra B"
 DisplayName="Viúva Negra C"
 
 ;----------------------------
-; Plated Light Feminino
+; Reforçado Leve Feminino
 ;----------------------------
 
 [DLC_30_Arms_Left_PltLt_A_F X2BodyPartTemplate]
@@ -403,7 +403,7 @@ DisplayName="Viúva Negra B"
 DisplayName="Viúva Negra C"
 
 ;----------------------------
-; Plated Medium Masculino
+; Reforçado Médio Masculino
 ;----------------------------
 
 [DLC_30_Arms_Left_Plt_Bare_M X2BodyPartTemplate]
@@ -479,7 +479,7 @@ DisplayName="Puma B"
 DisplayName="Puma C"
 
 ;----------------------------
-; Plated Medium Feminino
+; Reforçado Médio Feminino
 ;----------------------------
 
 [DLC_30_Arms_Left_Plt_Bare_F X2BodyPartTemplate]
@@ -555,7 +555,7 @@ DisplayName="Puma B"
 DisplayName="Puma C"
 
 ;----------------------------
-; Plated Pesado Masculino
+; Reforçado Pesado Masculino
 ;----------------------------
 
 [DLC_30_Arms_Left_PltHvy_A_M X2BodyPartTemplate]
@@ -613,7 +613,7 @@ DisplayName="Carneiro B"
 DisplayName="Carneiro C"
 
 ;----------------------------
-; Pesado com Placas Feminino
+; Pesado reforçado Feminino
 ;----------------------------
 
 [DLC_30_Arms_Left_PltHvy_A_F X2BodyPartTemplate]
@@ -671,7 +671,7 @@ DisplayName="Carneiro B"
 DisplayName="Carneiro C"
 
 ;----------------------------
-; Leve Potencial Masculino
+; Leve Potente Masculino
 ;----------------------------
 
 [DLC_30_PwrLgt_Torso_A_M X2BodyPartTemplate]
@@ -707,6 +707,10 @@ DisplayName="Caveira de Aranha"
 [DLC_30_PwrLgt_Legs_C_M X2BodyPartTemplate]
 DisplayName="Anjo"
 
+;----------------------------
+; Leve Potente Feminino
+;----------------------------
+
 [DLC_30_PwrLgt_Torso_A_F X2BodyPartTemplate]
 DisplayName="Sem Decalques"
 
@@ -741,7 +745,7 @@ DisplayName="Caveira de Aranha"
 DisplayName="Anjo"
 
 ;----------------------------
-; Médio Potencial Masculino
+; Médio Potente Masculino
 ;----------------------------
 
 [DLC_30_PwrMed_Torso_A_M X2BodyPartTemplate]
@@ -778,7 +782,7 @@ DisplayName="XCOM"
 DisplayName="Esqueleto"
 
 ;----------------------------
-; Médio Potencial Feminino
+; Médio Potente Feminino
 ;----------------------------
 
 [DLC_30_PwrMed_Torso_A_F X2BodyPartTemplate]
@@ -815,44 +819,7 @@ DisplayName="XCOM"
 DisplayName="Esqueleto"
 
 ;----------------------------
-; Médio Potencial Feminino
-;----------------------------
-
-[DLC_30_PwrMed_Torso_A_F X2BodyPartTemplate]
-DisplayName="Sem Decalques"
-
-[DLC_30_PwrMed_Torso_B_F X2BodyPartTemplate]
-DisplayName="XCOM"
-
-[DLC_30_PwrMed_Torso_C_F X2BodyPartTemplate]
-DisplayName="Esqueleto"
-
-[DLC_30_PWrMed_Arms_A_F X2BodyPartTemplate]
-DisplayName="Sem Decalques"
-
-[DLC_30_PWrMed_Arms_B_F X2BodyPartTemplate]
-DisplayName="XCOM"
-
-[DLC_30_PWrMed_Arms_C_F X2BodyPartTemplate]
-DisplayName="Esqueleto"
-
-[DLC_30_PWrMed_Arms_D_F X2BodyPartTemplate]
-DisplayName="Protetor de Ombro A"
-
-[DLC_30_PWrMed_Arms_E_F X2BodyPartTemplate]
-DisplayName="Protetor de Ombro B"
-
-[DLC_30_PwrMed_Legs_A_F X2BodyPartTemplate]
-DisplayName="Sem Decalques"
-
-[DLC_30_PwrMed_Legs_B_F X2BodyPartTemplate]
-DisplayName="XCOM"
-
-[DLC_30_PwrMed_Legs_C_F X2BodyPartTemplate]
-DisplayName="Esqueleto"
-
-;----------------------------
-; Potencial Pesado Masculino
+; Potente Pesado Masculino
 ;----------------------------
 
 [DLC_30_PwrHvy_Torso_A_M X2BodyPartTemplate]
@@ -889,7 +856,7 @@ DisplayName="Gárgula"
 DisplayName="Goblin"
 
 ;----------------------------
-; Potencial Pesado Feminino
+; Potente Pesado Feminino
 ;----------------------------
 
 [DLC_30_PwrHvy_Torso_A_F X2BodyPartTemplate]
