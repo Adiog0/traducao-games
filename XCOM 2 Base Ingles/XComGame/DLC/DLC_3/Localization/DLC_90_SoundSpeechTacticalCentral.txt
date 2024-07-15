@@ -125,9 +125,7 @@ bSingleLine=False
 Comment=""
 
 [Play_DLC3_T_CEN_Phase_Ten_2 AkEvent]
-SpokenText="Shen
-
-, quando tiver um minuto, seria gentil se explodisse aquilo."
+SpokenText="Shen, quando tiver um minuto, seria gentil se explodisse aquilo."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
