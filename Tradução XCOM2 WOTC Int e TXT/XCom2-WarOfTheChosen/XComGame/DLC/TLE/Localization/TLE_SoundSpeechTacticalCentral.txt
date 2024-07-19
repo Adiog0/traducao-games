@@ -1,644 +1,644 @@
 [Play_Sea_Terror_Upgrades AkEvent]
-SpokenText="I'm not sure who it was on the team that first pointed out that the Chryssalids seemed a little preoccupied with the DJ's makeshift antenna rig. Like I said before, we didn't know much about the motivations of the Chryssalid mind. I figured they just followed the lights. That's what bugs do."
+SpokenText="Não tenho certeza de quem na equipe foi o primeiro a notar que os Chryssalids pareciam um pouco preocupados com a antena improvisada do DJ. Como eu disse antes, não sabíamos muito sobre as motivações da mente dos Chryssalids. Achei que eles apenas seguiam as luzes. É isso que os insetos fazem."
 
 [Play_Sea_Terror_TotalVictory_B AkEvent]
-SpokenText="The Chryssalids weren't too much an issue for us, but we were only slightly closer to figuring out just what the hell was going on."
+SpokenText="Os Chryssalids não foram um grande problema para nós, mas ainda estávamos um pouco mais próximos de descobrir o que diabos estava acontecendo."
 
 [Play_Sea_Terror_TotalVictory_A AkEvent]
-SpokenText="We managed to survive, but the stronger these radio signals got, the more Chryssalids we seemed to run into. I was about ready to throw coincidence out the window."
+SpokenText="Conseguimos sobreviver, mas quanto mais fortes ficavam esses sinais de rádio, mais Chryssalids parecia que encontrávamos. Eu estava prestes a jogar a coincidência pela janela."
 
 [Play_Sea_Terror_PartialVictory_B AkEvent]
-SpokenText="It was a tough fight. Some of my people got a little too close out there, but we eventually pulled through."
+SpokenText="Foi uma luta difícil. Algumas das minhas pessoas chegaram um pouco perto demais, mas acabamos conseguindo."
 
 [Play_Sea_Terror_PartialVictory_A AkEvent]
-SpokenText="We took some casualties-the Chryssalids are never easy-but we managed to get out of there and keep moving. We had a mystery on our hands and I wasn't about to let it go."
+SpokenText="Sofremos algumas baixas—os Chryssalids nunca são fáceis—mas conseguimos sair de lá e continuar em frente. Tínhamos um mistério em nossas mãos e eu não estava disposto a deixá-lo escapar."
 
 [Play_Sea_Terror_Musings_J AkEvent]
-SpokenText="We actually came across one of the DJ's installations in that town. You wouldn't have guessed it was anything special from the looks of it, but it obviously worked. There were a few hints of alien technology, but nothing that seemed all that crazy. I should have known better."
+SpokenText="Na verdade, encontramos uma das instalações do DJ naquela cidade. Você não teria adivinhado que era algo especial só pela aparência, mas obviamente funcionava. Havia algumas pistas de tecnologia alienígena, mas nada que parecesse muito louco. Eu devia ter sabido melhor."
 
 [Play_Sea_Terror_Musings_H AkEvent]
-SpokenText="The DJ may have been off his rocker, but I had to give him a little credit, I mean the guy was out there building his own radio network. Half the time we could barely find recruits who knew how to turn on a radio."
+SpokenText="O DJ pode ter estado maluco, mas eu tinha que dar um crédito a ele, quero dizer, o cara estava lá construindo sua própria rede de rádio. Metade das vezes mal conseguíamos encontrar recrutas que soubessem ligar um rádio."
 
 [Play_Sea_Terror_Musings_F AkEvent]
-SpokenText="We didn't have a clue where he was broadcasting from at that point. For all we knew he could have been thousands of miles away. That was until he mentioned those \"big mean bugs\" he thought he saw. It was possible that these white Chryssalids were all over the world, but it seemed a lot more likely that the DJ was somewhere close by."
+SpokenText="Não tínhamos a menor ideia de onde ele estava transmitindo naquela época. Pelo que sabíamos, ele poderia estar a milhares de milhas de distância. Até que ele mencionou aqueles 'grandes insetos malvados' que achava ter visto. Era possível que esses Chryssalids brancos estivessem por todo o mundo, mas parecia muito mais provável que o DJ estivesse por perto."
 
 [Play_Sea_Terror_Musings_E AkEvent]
-SpokenText="On the far side of town someone had put together a makeshift workshop with a bunch of salvaged equipment in an old RV. The bigger cause for concern was the radio tower, this wasn't some half-assed project. Someone knew what they were doing, and that was the sort of thing that got ADVENT's attention real quick..."
+SpokenText="Do outro lado da cidade, alguém havia montado uma oficina improvisada com uma porção de equipamentos recuperados em um velho trailer. A maior preocupação era a torre de rádio, não era um projeto qualquer. Alguém sabia o que estava fazendo, e isso era o tipo de coisa que chamava a atenção da ADVENT muito rápido..."
 
 [Play_Sea_Terror_Musings_D AkEvent]
-SpokenText="By now you might be asking yourself, Central, if you didn't want to listen to the DJ, why not just shut off your radio? And you'd be right to ask. You see, the problem was the stronger his signal got, the more it interfered with our commlink. We could either go completely radio silent, or put up with him for a bit longer."
+SpokenText="Agora você pode estar se perguntando, Central, se você não queria ouvir o DJ, por que não simplesmente desligou seu rádio? E você teria razão em perguntar. Veja, o problema era que quanto mais forte o sinal dele ficava, mais interferia em nossa comunicação. Poderíamos ficar completamente sem rádio ou aguentar ele por um pouco mais."
 
 [Play_Sea_Terror_Musings_C AkEvent]
-SpokenText="These kinds of settlements had been cropping up everywhere in the outlying territories once ADVENT established the new regional districts. People were running out of places to hide though, the aliens are nothing if not persistent."
+SpokenText="Esses tipos de assentamentos começaram a aparecer por toda parte nos territórios periféricos uma vez que a ADVENT estabeleceu os novos distritos regionais. As pessoas estavam ficando sem lugares para se esconder, afinal, os alienígenas são persistentes."
 
 [Play_Sea_Terror_Musings_B AkEvent]
-SpokenText="Surprisingly enough it wasn't the Chryssalids this time, at least not right off the bat. ADVENT was in town, and they seemed to be having some trouble with the bugs too. We also had a few civilians to contend with. The whole situation was a mess."
+SpokenText="Surpreendentemente, não foram os Chryssalids desta vez, pelo menos não de imediato. A ADVENT estava na cidade e parecia estar tendo problemas com os insetos também. Também tivemos alguns civis para lidar. A situação toda estava uma bagunça."
 
 [Play_Sea_Terror_Musings_A AkEvent]
-SpokenText="Once we got close enough, ADVENT made themselves known. At the time, I think I was actually relieved that it wasn't another pack of Chryssalids."
+SpokenText="Quando chegamos perto o suficiente, a ADVENT se fez conhecida. Naquele momento, acho que fiquei realmente aliviado por não ser mais uma matilha de Chryssalids."
 
 [Play_Sea_Terror_LootSelect AkEvent]
-SpokenText="We pulled some gear from the workshop we found setup by the radio tower. There was some decent stuff in there, so the choice of what to haul out wasn't easy."
+SpokenText="Pegamos alguns equipamentos da oficina que encontramos montada perto da torre de rádio. Havia coisas boas lá, então a escolha do que levar não foi fácil."
 
 [Play_Sea_Terror_Loading AkEvent]
-SpokenText="If the Chryssalids were moving underwater, every town, camp, and settlement along the coast was at risk of the same fate as that last one. We decided to keep moving, if nothing else we could try and warn people before the next attack. And wouldn't you know it? The further we got, the stronger the signal from the new self-proclaimed \"King of the airwaves.\" Part of me was almost hoping ADVENT would drown him out with some soothing propaganda of their own, but he had really jammed up their frequencies somehow."
+SpokenText="Se os Chryssalids estavam se movendo debaixo d'água, cada cidade, acampamento e assentamento ao longo da costa estava em risco de sofrer o mesmo destino que aquele último. Decidimos continuar em frente, se nada mais, poderíamos tentar avisar as pessoas antes do próximo ataque. E não é que você saberia? Quanto mais avançávamos, mais forte ficava o sinal do novo autoproclamado 'Rei das ondas de rádio'. Parte de mim quase esperava que a ADVENT o abafasse com alguma propaganda reconfortante, mas ele realmente havia interferido nas frequências deles de alguma forma."
 
 [Play_Sea_Terror_Intro AkEvent]
-SpokenText="There was a cold snap moving in, the wind coming off the water was brutal. I only remember because when we got to the camp...it was burning, and the heat was a welcome change despite knowing what it meant for the locals."
+SpokenText="Estava começando a fazer frio, o vento vindo do mar estava brutal. Só lembro disso porque, quando chegamos ao acampamento... estava em chamas, e o calor foi uma mudança bem-vinda, apesar de saber o que isso significava para os locais."
 
 [Play_Sea_Terror_Failure_B AkEvent]
-SpokenText="Let me walk you through it again."
+SpokenText="Deixe-me explicar novamente."
 
 [Play_Sea_Terror_Failure_A AkEvent]
-SpokenText="There wouldn't be a story to tell if some of us hadn't at least survived the encounter, right?"
+SpokenText="Não haveria uma história para contar se alguns de nós não tivessem sobrevivido ao encontro, certo?"
 
 [Play_Sea_Terror_CiviliansWipe AkEvent]
-SpokenText="I know for sure we rescued at least some of the civilians in that town. Let's try it again."
+SpokenText="Eu sei com certeza que resgatamos pelo menos alguns dos civis naquela cidade. Vamos tentar novamente."
 
 [Play_Sea_Terror_CiviliansSaved AkEvent]
-SpokenText="We managed to save a few of the civilians before the Chryssalids got to 'em."
+SpokenText="Conseguimos salvar alguns civis antes que os Chryssalids chegassem até eles."
 
 [Play_Sea_SabotageTransmitter_Upgrades AkEvent]
-SpokenText="So that's it, that's the whole story. The DJ made one helluva mess, but we managed to clean it up despite all the surprises he pulled on us. At the end of the day, we all came out better from it, but don't tell him I said that."
+SpokenText="Então é isso, essa é a história completa. O DJ fez uma grande bagunça, mas conseguimos limpá-la apesar de todas as surpresas que ele nos proporcionou. No final das contas, todos nós saímos melhor disso, mas não diga a ele que eu disse isso."
 
 [Play_Sea_SabotageTransmitter_TotalVictory_B AkEvent]
-SpokenText="It was a good story, right? A happy ending for everyone, even the DJ who went on to a successful career with the resistance."
+SpokenText="Foi uma boa história, certo? Um final feliz para todos, até mesmo para o DJ, que seguiu para uma carreira bem-sucedida com a resistência."
 
 [Play_Sea_SabotageTransmitter_TotalVictory_A AkEvent]
-SpokenText="And that's the story of how I first met the DJ, and how he became the future voice of the Resistance. I guess you could say we're sort of friends now, but it sure took me a while to warm up to him."
+SpokenText="E essa é a história de como eu conheci o DJ pela primeira vez, e como ele se tornou a futura voz da Resistência. Acho que você poderia dizer que somos meio que amigos agora, mas definitivamente demorou um pouco para eu me acostumar com ele."
 
 [Play_Sea_SabotageTransmitter_PartialVictory_B AkEvent]
-SpokenText="Things got a little ugly, but in the end we pulled it off, and I'm here today to share the tale of our heroic victory."
+SpokenText="As coisas ficaram um pouco feias, mas no final conseguimos, e estou aqui hoje para compartilhar o conto da nossa vitória heroica."
 
 [Play_Sea_SabotageTransmitter_PartialVictory_A AkEvent]
-SpokenText="We made some sacrifices along the way. Not everyone made it out in one piece, but who knows what kind of nightmare we prevented by shutting down the network before things went any further?"
+SpokenText="Fizemos alguns sacrifícios ao longo do caminho. Nem todos saíram inteiros, mas quem sabe que tipo de pesadelo evitamos ao fechar a rede antes que as coisas avançassem ainda mais?"
 
 [Play_Sea_SabotageTransmitter_Outro AkEvent]
-SpokenText="After things settled down, the DJ and I had a few drinks and made nice despite all the trouble he had given us. Shen actually ended up vouching for the guy, at least on the technical side. She was impressed with his makeshift network considering her own struggles dealing with the alien tech. So I guess in the end, he wasn't totally insane after all, just a little overly eager to chase his visions of grandeur."
+SpokenText="Depois que as coisas se acalmaram, o DJ e eu tomamos algumas bebidas e fizemos as pazes apesar de todo o problema que ele nos causou. A Shen acabou endossando o cara, pelo menos do ponto de vista técnico. Ela ficou impressionada com sua rede improvisada considerando suas próprias dificuldades com a tecnologia alienígena. Então, no final, ele não estava totalmente insano depois de tudo, apenas um pouco excessivamente ansioso para seguir suas visões de grandeza."
 
 [Play_Sea_SabotageTransmitter_NagNoTurns AkEvent]
-SpokenText="We were a little sharper than that. We had to be quick if we wanted to survive this one."
+SpokenText="Fomos um pouco mais rápidos do que isso. Tínhamos que ser rápidos se quiséssemos sobreviver a isso."
 
 [Play_Sea_SabotageTransmitter_Nag3Turns AkEvent]
-SpokenText="We were definitely starting to run short on time. We had to get in there and blow this thing up before we got overrun."
+SpokenText="Estávamos definitivamente começando a ficar sem tempo. Precisávamos entrar lá e explodir essa coisa antes que fôssemos sobrecarregados."
 
 [Play_Sea_SabotageTransmitter_Nag1Turn AkEvent]
-SpokenText="We're pushing our luck on the timetable here. We need to bring this story to a dramatic conclusion - fast."
+SpokenText="Estamos desafiando nossa sorte com o cronograma aqui. Precisamos trazer essa história a uma conclusão dramática - rápido."
 
 [Play_Sea_SabotageTransmitter_Musings_J AkEvent]
-SpokenText="On that point, surprisingly enough, I agreed with him. After all the work we put in saving him, we might as well get something in return. Once he managed to pull it together a little bit, learned to work through official channels, he had a future in radio, and the resistance was actually better off for it."
+SpokenText="Sobre isso, surpreendentemente, eu concordei com ele. Depois de todo o trabalho que tivemos para salvá-lo, poderíamos muito bem conseguir algo em troca. Uma vez que ele conseguiu se organizar um pouco, aprendeu a trabalhar através dos canais oficiais, ele tinha um futuro no rádio, e a resistência estava realmente melhor por causa disso."
 
 [Play_Sea_SabotageTransmitter_Musings_H AkEvent]
-SpokenText="I wasn't really sure what was going to happen once we blew up the transmitter. We didn't have time to make much distance, so if anything crazy happened, we were gonna get caught right in the middle of it. Even expecting the worst, we were still bound to run into a few surprises."
+SpokenText="Eu não estava realmente certo do que aconteceria quando explodíssemos o transmissor. Não tivemos tempo para nos afastar muito, então, se algo louco acontecesse, estaríamos bem no meio disso. Mesmo esperando o pior, ainda estávamos propensos a encontrar algumas surpresas."
 
 [Play_Sea_SabotageTransmitter_Musings_F AkEvent]
-SpokenText="To be honest, I was focused on blowing up a piece of alien technology that might or might not end up exploding in my face. I really wasn't paying all that much attention to the radio at that point, but I'll admit - maybe I was a little harsh on the guy."
+SpokenText="Para ser honesto, eu estava focado em explodir uma peça de tecnologia alienígena que poderia ou não acabar explodindo na minha cara. Realmente não estava prestando muita atenção no rádio naquele momento, mas admito - talvez eu tenha sido um pouco severo com o cara."
 
 [Play_Sea_SabotageTransmitter_Musings_E AkEvent]
-SpokenText="The transmitter was out on a bluff reinforced with scrap and all sorts of junk the DJ had presumably thrown together. It almost looked like he had somehow moved the transmitter out to this position, but it was beyond me how he might have pulled that off. From what I had seen so far, nothing was impossible."
+SpokenText="O transmissor estava em um penhasco reforçado com sucata e todos os tipos de coisas que o DJ provavelmente havia juntado. Quase parecia que ele tinha de alguma forma movido o transmissor para essa posição, mas era além de mim como ele poderia ter feito isso. Pelo que eu vi até agora, nada é impossível."
 
 [Play_Sea_SabotageTransmitter_Musings_D AkEvent]
-SpokenText="We brought along some makeshift X4 charges to take down the transmitter, but the alien alloys were tough. I wasn't completely confident it was going to work, but I made sure not to mention that to the others. If it came down to it, I was willing to do whatever it took to put a stop to this."
+SpokenText="Levamos alguns explosivos improvisados X4 para derrubar o transmissor, mas as ligas alienígenas eram difíceis. Eu não estava completamente confiante de que ia funcionar, mas me certifiquei de não mencionar isso para os outros. Se fosse necessário, estava disposto a fazer o que fosse preciso para parar isso."
 
 [Play_Sea_SabotageTransmitter_Musings_C AkEvent]
-SpokenText="With the number of alien forces in the area, I started to wonder whether we were both after the same thing. For all I knew, the aliens had come here to shut down or destroy the transmitter themselves before they caught wind of us. We were never gonna find out, but we might have saved ourselves some trouble."
+SpokenText="Com o número de forças alienígenas na área, comecei a me perguntar se estávamos atrás da mesma coisa. Pelo que eu sabia, os aliens poderiam ter vindo aqui para desligar ou destruir o transmissor antes que descobrissem nossa presença. Nunca vamos descobrir, mas talvez tenhamos nos poupado de problemas."
 
 [Play_Sea_SabotageTransmitter_Musings_B AkEvent]
-SpokenText="I decided to leave the DJ at his post in front of the radio in case there were any other surprises left waiting for us down there. I think he had finally gotten the message though. We weren't screwing around anymore, and none of us were laughing."
+SpokenText="Decidi deixar o DJ em seu posto na frente do rádio, caso houvesse outras surpresas nos esperando lá embaixo. Acho que ele finalmente entendeu a mensagem. Não estávamos mais brincando, e nenhum de nós estava rindo."
 
 [Play_Sea_SabotageTransmitter_Musings_A AkEvent]
-SpokenText="It wasn't just Chryssalids we ran into that day on the waterfront, I got the distinct impression the aliens were very unhappy with whatever modifications the DJ made to their transmitter. They sent just about everything in their arsenal out there from what I remember. Still wasn't enough for us."
+SpokenText="Não foram apenas os Chryssalids que encontramos naquele dia na orla. Tive a impressão distinta de que os aliens estavam muito descontentes com as modificações que o DJ fez em seu transmissor. Eles enviaram quase tudo o que tinham no arsenal, pelo que eu me lembro. Ainda assim, não foi suficiente para nós."
 
 [Play_Sea_SabotageTransmitter_Loading AkEvent]
-SpokenText="I had had just about enough of the DJ and his secrets. I was about ready to beat it out of him, but finally he came clean. I wasn't kidding before when I said the guy was a crackpot. The true source of the all-powerful signal? An early ADVENT chip transmitter. Somehow he got the bright idea of hooking into this thing, despite barely knowing what it actually did. His story was so ridiculous it almost made sense, I mean, none of us were scientists. And our solution was simple enough. We'd just blow up the transmitter and undo everything the DJ had put into motion. Simple."
+SpokenText="Eu já estava quase no limite com o DJ e seus segredos. Estava prestes a espremê-lo, mas finalmente ele se abriu. Eu não estava brincando quando disse que o cara era um lunático. A verdadeira fonte do sinal poderoso? Um transmissor de chip da ADVENT. De alguma forma, ele teve a brilhante ideia de se conectar a isso, apesar de mal saber o que realmente fazia. A história dele era tão ridícula que quase fazia sentido; quero dizer, nenhum de nós era cientista. E nossa solução era simples o suficiente. Apenas explodir o transmissor e desfazer tudo o que o DJ havia colocado em movimento. Simples."
 
 [Play_Sea_SabotageTransmitter_Intro AkEvent]
-SpokenText="We came into the area near the waterfront. The chip transmitter was a ways off in the distance, so we didn't have a lot of time to wrap this up. Back then, there were only a few ADVENT city centers, and we didn't know a whole lot about their chip implants. I do remember thinking it was a strange place for a transmitter though, and I just hoped the DJ hadn't left anything else out."
+SpokenText="Chegamos à área perto da orla. O transmissor de chip estava um pouco distante, então não tivemos muito tempo para resolver isso. Naquela época, havia apenas alguns centros urbanos da ADVENT e não sabíamos muito sobre os implantes de chip deles. Eu lembro de pensar que era um lugar estranho para um transmissor, e só esperava que o DJ não tivesse deixado nada de fora."
 
 [Play_Sea_SabotageTransmitter_Failure_B AkEvent]
-SpokenText="Our exciting finale is still contingent on my survival."
+SpokenText="Nosso emocionante final ainda depende da minha sobrevivência."
 
 [Play_Sea_SabotageTransmitter_Failure_A AkEvent]
-SpokenText="You're making a mockery of my story here."
+SpokenText="Você está zombando da minha história aqui."
 
 [Play_Sea_SabotageTransmitter_BombSpotted AkEvent]
-SpokenText="It was hard to miss the transmitter. The DJ had done a number on the alien components to rig it up."
+SpokenText="Era difícil não notar o transmissor. O DJ fez um estrago nos componentes alienígenas para adaptá-lo."
 
 [Play_Sea_SabotageTransmitter_BombPlanted AkEvent]
-SpokenText="We planted the bomb. All we had do then was sit back and enjoy the show."
+SpokenText="Plantamos a bomba. Tudo o que tínhamos a fazer agora era sentar e apreciar o show."
 
 [Play_Sea_SabotageTransmitter_BombDetonated AkEvent]
-SpokenText="After all the trouble we went through, it was almost cathartic to blow up that final transmitter."
+SpokenText="Depois de todo o trabalho que tivemos, foi quase catártico explodir aquele transmissor final."
 
 [Play_Sea_SabotageTransmitter_AreaSecured AkEvent]
-SpokenText="We had cleared out the surrounding aliens, but we still needed to blow up that transmitter and put an end to this."
+SpokenText="Havíamos limpado os aliens ao redor, mas ainda precisávamos explodir aquele transmissor e acabar com isso."
 
 [Play_Sea_HackRadio_Upgrades AkEvent]
-SpokenText="The latest problem was solved, but the DJ was still hiding something from us, and the Chryssalids were still taking over the coast. Things were about to come to a head."
+SpokenText="O problema mais recente foi resolvido, mas o DJ ainda estava escondendo algo de nós, e os Chryssalids ainda estavam dominando a costa. As coisas estavam prestes a chegar ao clímax."
 
 [Play_Sea_HackRadio_TotalVictory_B AkEvent]
-SpokenText="We made it without much time to spare. We shut down the timed broadcast and spared the DJ's precious recordings."
+SpokenText="Conseguimos sem muito tempo de sobra. Desligamos a transmissão temporizada e poupamos as preciosas gravações do DJ."
 
 [Play_Avenger_Interceptor_Wildnerss_Loading_A AkEvent]
-SpokenText="I'm not sure it was intentional, but Shen left a bunch of her old audio logs open on the network. I don't think she'd mind if we listened to a few of 'em... but let's hurry up just in case."
+SpokenText="Não tenho certeza se foi intencional, mas a Shen deixou uma porção de seus antigos registros de áudio abertos na rede. Não acho que ela se importaria se ouvíssemos alguns deles... mas vamos ser rápidos, por via das dúvidas."
 
 [Play_Sea_HackRadio_TotalVictory_A AkEvent]
-SpokenText="We managed to get into the DJ's computer and stop the broadcast before he brought down even more Chryssalids on us. If that was possible."
+SpokenText="Conseguimos acessar o computador do DJ e parar a transmissão antes que ele atraísse ainda mais Chryssalids para nós. Se isso era possível."
 
 [Play_Sea_HackRadio_TimerNagFinal AkEvent]
-SpokenText="We were right up against it, the broadcast was scheduled to go out any minute now."
+SpokenText="Estamos quase no limite, a transmissão estava programada para sair a qualquer momento."
 
 [Play_Sea_HackRadio_TimerFailed AkEvent]
-SpokenText="We definitely stopped the broadcast in time. Otherwise, I wouldn't be here to tell the story."
+SpokenText="Definitivamente paramos a transmissão a tempo. Caso contrário, eu não estaria aqui para contar a história."
 
 [Play_Sea_HackRadio_Timer3TurnsLeft AkEvent]
-SpokenText="The DJ's next broadcast was going out soon-real soon. We had to hurry."
+SpokenText="A próxima transmissão do DJ estava saindo em breve - muito em breve. Precisávamos nos apressar."
 
 [Play_Sea_HackRadio_TerminalSpotted AkEvent]
-SpokenText="That was when we first spotted the DJ's precious computer."
+SpokenText="Foi quando avistamos pela primeira vez o precioso computador do DJ."
 
 [Play_Sea_HackRadio_TerminalHacked AkEvent]
-SpokenText="We stopped the broadcast, but there were still enemies in the area that we had to deal with."
+SpokenText="Paramos a transmissão, mas ainda havia inimigos na área que tivemos que enfrentar."
 
 [Play_Sea_HackRadio_TerminalDestroyed AkEvent]
-SpokenText="Yea...we did kinda promise the DJ we wouldn't destroy his computer, and I remember keeping my word on that."
+SpokenText="Sim... nós meio que prometemos ao DJ que não destruiríamos seu computador, e eu lembro de ter cumprido minha palavra."
 
 [Play_Sea_HackRadio_PartialVictory_B AkEvent]
-SpokenText="It wasn't easy, but we fought our way through and finished the job."
+SpokenText="Não foi fácil, mas lutamos e concluímos o trabalho."
 
 [Play_Sea_HackRadio_PartialVictory_A AkEvent]
-SpokenText="I wouldn't say things went exactly smooth, but most of us survived, and we did manage to shut down the transmission before agitating even more of the undersea Chryssalid army."
+SpokenText="Não diria que as coisas correram exatamente bem, mas a maioria de nós sobreviveu, e conseguimos desligar a transmissão antes de agitar ainda mais o exército subaquático de Chryssalids."
 
 [Play_Sea_HackRadio_Musings_J AkEvent]
-SpokenText="Even without the transmissions going off, the Chryssalids were still pouring out of the ocean like it was going out of style. I lost count of how many we killed, and it was about that time that I started to suspect that once again, the DJ had failed to clue us in on some critical detail."
+SpokenText="Mesmo sem as transmissões, os Chryssalids continuavam saindo do oceano como se não houvesse amanhã. Perdi a conta de quantos matamos, e foi mais ou menos nessa hora que comecei a suspeitar que, mais uma vez, o DJ havia falhado em nos informar sobre algum detalhe crítico."
 
 [Play_Sea_HackRadio_Musings_H AkEvent]
-SpokenText="At this point we were all sick to death of dealing with the damn Chryssalids. I was starting to worry that even if we shut down all these transmissions, whatever undersea hellhole those things were coming from was only going to keep filling up the sea until they came ashore regardless."
+SpokenText="Neste ponto, estávamos todos enojados com os malditos Chryssalids. Eu estava começando a me preocupar que mesmo se desligássemos todas essas transmissões, o inferno subaquático de onde aquelas coisas vinham só continuaria enchendo o mar até que chegassem à costa, independentemente."
 
 [Play_Sea_HackRadio_Musings_F AkEvent]
-SpokenText="We didn't even get halfway there before we spotted the boat, mainly because it was already crawling with Chryssalids. There wasn't all that much to it, we knew we'd have to fight, and that's what we did."
+SpokenText="Nem chegamos à metade do caminho antes de avistarmos o barco, principalmente porque já estava cheio de Chryssalids. Não havia muito o que fazer, sabíamos que teríamos que lutar, e foi isso que fizemos."
 
 [Play_Sea_HackRadio_Musings_E AkEvent]
-SpokenText="If we had had the Avenger back then, hell, even a Skyranger, we could have flown up and down the coast in a few hours and handled this without even setting foot on the ground. Our people don't realize how good they have it these days."
+SpokenText="Se tivéssemos o Avenger naquela época, até mesmo um Skyranger, poderíamos ter voado pela costa em algumas horas e resolvido isso sem nem pisar no chão. Nosso pessoal não percebe o quão bom eles têm hoje em dia."
 
 [Play_Sea_HackRadio_Musings_D AkEvent]
-SpokenText="The DJ pleaded with us not to destroy his computer along with his recordings, so we agreed that once we reached the boat we would hack in and shut down the broadcast. I'm not exactly sure why we had to hack in, it was his computer, but I don't remember anyone asking any questions at the time."
+SpokenText="O DJ implorou para que não destruíssemos seu computador junto com suas gravações, então concordamos que, uma vez que chegássemos ao barco, iríamos hackear e desligar a transmissão. Não tenho certeza exata do porquê tivemos que hackear, era o computador dele, mas não lembro de alguém ter feito essa pergunta na época."
 
 [Play_Sea_HackRadio_Musings_C AkEvent]
-SpokenText="At this point we were all sick to death of dealing with the damn Chryssalids. I was starting to worry that even if we shut down all these transmissions, whatever undersea hellhole those things were coming from was only going to keep filling up the sea until they came ashore regardless."
+SpokenText="Neste ponto, estávamos todos cansados de lidar com os malditos Chryssalids. Comecei a me preocupar que, mesmo se desligássemos todas essas transmissões, qualquer inferno subaquático de onde aquelas coisas vinham só continuaria enchendo o mar até que chegassem à costa, independentemente."
 
 [Play_Sea_HackRadio_Musings_B AkEvent]
-SpokenText="Remember when people used to complain about their GPS navigation maps? Well imagine using one of those...except directed by our DJ friend here. We might as well have been moving through the streets blind, it was that bad. I don't know what I was thinking. Like I said before, dumb ideas sinking into tired brains."
+SpokenText="Lembra quando as pessoas costumavam reclamar dos mapas de navegação por GPS? Bem, imagine usar um desses... exceto que dirigido pelo nosso amigo DJ aqui. Podíamos muito bem estar nos movendo pelas ruas às cegas, estava tão ruim. Eu não sei o que eu estava pensando. Como disse antes, ideias estúpidas afundando em cérebros cansados."
 
 [Play_Sea_HackRadio_Musings_A AkEvent]
-SpokenText="We didn't even get halfway there before we spotted the boat, mainly because it was already crawling with Chryssalids. There wasn't all that much to it, we knew we'd have to fight, and that's what we did."
+SpokenText="Nem chegamos à metade do caminho antes de avistarmos o barco, principalmente porque já estava cheio de Chryssalids. Não havia muito o que fazer, sabíamos que teríamos que lutar, e foi isso que fizemos."
 
 [Play_Sea_HackRadio_LootSelect AkEvent]
-SpokenText="The DJ had a few interesting items stashed away on his boat, I'm not really sure why though, he wasn't much for fighting. Probably used 'em for trading, I guess."
+SpokenText="O DJ tinha alguns itens interessantes escondidos em seu barco, não tenho certeza do porquê, já que ele não era muito bom em combate. Provavelmente os usava para trocas, eu suponho."
 
 [Play_Sea_HackRadio_Loading AkEvent]
-SpokenText="To recap what we've learned so far, the DJ had taken alien technology, screwed around with it, and accidentally created Chryssalid lures that he then placed along the coast which attracted hordes of these monsters, from the ocean of all places. This is when I almost lost it, because this is when we found out about the DJ's boat docked outside another city further up the coast. On board was his computer, scheduled to broadcast the latest pre-recorded instalment of \"pirate\" radio. What choice did we have? We set off for yet another target."
+SpokenText="Para recapitular o que aprendemos até agora, o DJ pegou tecnologia alienígena, mexeu com ela e acidentalmente criou iscas de Chryssalids que ele então colocou ao longo da costa, atraindo hordas desses monstros do oceano. Foi quando eu quase perdi a cabeça, porque foi quando descobrimos sobre o barco do DJ ancorado fora de outra cidade mais adiante na costa. A bordo estava seu computador, programado para transmitir a última parte pré-gravada de rádio \"pirata\". Que escolha tivemos? Partimos para mais um alvo."
 
 [Play_Sea_HackRadio_Intro AkEvent]
-SpokenText="We barely had any time to reach the boat before that transmission was scheduled to inadvertently call in even more Chryssalids to the shore. There was no way to approach near the docks, so we had to work our way through the streets with the DJ giving us directions over the commlink."
+SpokenText="Mal tivemos tempo de chegar ao barco antes que a transmissão fosse programada para chamar ainda mais Chryssalids para a costa. Não havia como se aproximar perto dos cais, então tivemos que trabalhar nosso caminho pelas ruas com o DJ nos dando direções pelo commlink."
 
 [Play_Sea_HackRadio_Failure_B AkEvent]
-SpokenText="Don't get discouraged. It's hard living up to the memory of me."
+SpokenText="Não se desanime. É difícil viver à altura da minha memória."
 
 [Play_Sea_HackRadio_Failure_A AkEvent]
-SpokenText="As far as I know, I'm still alive and kickin' in the present day."
+SpokenText="Até onde sei, ainda estou vivo e firme nos dias atuais."
 
 [Play_Sea_HackRadio_AreaSecured AkEvent]
-SpokenText="The area seemed kinda quiet, but we still had to find our way to the DJ's computer."
+SpokenText="A área parecia meio calma, mas ainda precisávamos encontrar o computador do DJ."
 
 [Play_Sea_GatherDJ_Upgrades AkEvent]
-SpokenText="So, now you know my pain. Even after the rescue, the guy just couldn't help himself. No situation was beyond his running commentary. I swear, he was just lucky we needed him to point out the rest of the stuff he installed."
+SpokenText="Então, agora você conhece minha dor. Mesmo depois do resgate, o cara simplesmente não conseguia se controlar. Nenhuma situação estava além de seu comentário interminável. Eu juro, ele teve sorte de precisarmos que ele apontasse o resto das coisas que ele instalou."
 
 [Play_Sea_GatherDJ_TotalVictory_B AkEvent]
-SpokenText="It ended up being easier than it looked. We escaped with the DJ and there was no sign of ADVENT in pursuit."
+SpokenText="Acabou sendo mais fácil do que parecia. Escapamos com o DJ e não havia sinal de ADVENT em perseguição."
 
 [Play_Sea_GatherDJ_TotalVictory_A AkEvent]
-SpokenText="With the DJ in tow, we made it out of the city via boat and headed up the coast. It was time we finally found out what the hell was going on around here."
+SpokenText="Com o DJ a tiracolo, conseguimos sair da cidade de barco e seguir pela costa. Era hora de finalmente descobrir o que diabos estava acontecendo aqui."
 
 [Play_Sea_GatherDJ_PartialVictory_B AkEvent]
-SpokenText="It was a tough fight getting in there, and even tougher getting out. If that DJ hadn't told us to what we wanted to hear, he might have wound up overboard."
+SpokenText="Foi uma luta difícil para entrar lá, e ainda mais difícil para sair. Se o DJ não tivesse nos dito o que queríamos ouvir, ele poderia ter ido parar no fundo do mar."
 
 [Play_Sea_GatherDJ_PartialVictory_A AkEvent]
-SpokenText="We took a beating to bring this guy in, and it was time for this so-called DJ to explain himself."
+SpokenText="Levamos uma surra para trazer esse cara, e era hora desse chamado DJ se explicar."
 
 [Play_Sea_GatherDJ_Musings_I AkEvent]
-SpokenText="You and I are gonna have a long talk later, but for now-do us all a favor-put a lid on it, buddy."
+SpokenText="Você e eu vamos ter uma longa conversa mais tarde, mas por agora—faça um favor a todos nós—cale a boca, amigo."
 
 [Play_Sea_GatherDJ_Musings_F AkEvent]
-SpokenText="We hadn't planned on it, but there was an old fishing trawler docked near the city that was still in seaworthy condition. With no specific destination in mind, there was no reason not to go after such an obvious exit. Of course, knowing we had to deal with underwater Chryssalids now, that did throw a small wrench in our plans."
+SpokenText="Não planejamos isso, mas havia um antigo arrastão ancorado perto da cidade que ainda estava em condição de navegar. Sem um destino específico em mente, não havia razão para não ir atrás de uma saída tão óbvia. Claro, sabendo que teríamos que lidar com os Chryssalids subaquáticos agora, isso jogou uma pequena pedra em nossos planos."
 
 [Play_Sea_GatherDJ_Musings_E AkEvent]
-SpokenText="It wasn't easy getting the DJ out of the city, 'cause of course he was completely useless in a fight. Still, he was our responsibility now and I wasn't about to let the aliens have him. If he was somehow responsible for bringing in those Chryssalids, I wanted to know how."
+SpokenText="Não foi fácil tirar o DJ da cidade, porque, claro, ele era completamente inútil em combate. Ainda assim, era nossa responsabilidade agora e eu não estava disposto a deixar os aliens pegá-lo. Se ele era de alguma forma responsável por trazer aqueles Chryssalids, eu queria saber como."
 
 [Play_Sea_GatherDJ_Musings_D AkEvent]
-SpokenText="Eventually we managed to link up with this DJ, he was about what you would expect-a damn lunatic. We didn't have a whole lot of time to discuss it in the heat of things, but it was clear he had been trying to build his own little radio network to cover the outlying territories."
+SpokenText="Eventualmente conseguimos encontrar esse DJ, ele era exatamente o que você esperaria—um maldito lunático. Não tivemos muito tempo para discutir isso no calor das coisas, mas estava claro que ele estava tentando construir sua própria pequena rede de rádio para cobrir os territórios periféricos."
 
 [Play_Sea_GatherDJ_Musings_C AkEvent]
-SpokenText="There was another makeshift radio tower and workshop pieced together in an old park inside the city. We knew the DJ or engineer, whatever they were, was holed up inside because the aliens were already trying to beat down the door by the time we got there."
+SpokenText="Havia uma outra torre de rádio improvisada e oficina montadas em um antigo parque dentro da cidade. Sabíamos que o DJ ou o engenheiro, seja lá o que fossem, estava escondido lá dentro porque os aliens já estavam tentando arrombar a porta quando chegamos."
 
 [Play_Sea_GatherDJ_Musings_B AkEvent]
-SpokenText="It was clear as soon as we got deeper into the city that we weren't the only ones looking for the person behind this signal. ADVENT patrols were scrounging around all over the place, and I wasn't about to let them get the answers before we did."
+SpokenText="Foi claro assim que entramos mais fundo na cidade que não éramos os únicos procurando pela pessoa por trás desse sinal. Patrulhas da ADVENT estavam vasculhando por toda parte, e eu não estava disposto a deixá-los obter as respostas antes de nós."
 
 [Play_Sea_GatherDJ_Musings_A AkEvent]
-SpokenText="Not that it's any easier now, but moving through those cities weighed heavy on all of our minds. Ten years earlier there were thousands of people moving through there every day, now it was just one big tomb. I took a lot of solace in killing the aliens, every little piece of revenge meant something."
+SpokenText="Não que esteja mais fácil agora, mas se mover por essas cidades pesava muito em nossas mentes. Dez anos antes, havia milhares de pessoas se movendo por lá todos os dias, agora era apenas um grande túmulo. Encontrei muito consolo em matar os aliens, cada pequena peça de vingança significava algo."
 
 [Play_Sea_GatherDJ_LootSelect AkEvent]
-SpokenText="Our new DJ friend had an interesting collection of scavenged tech and spare parts in his collection. We took the best stuff and left behind everything else."
+SpokenText="Nosso novo amigo DJ tinha uma coleção interessante de tecnologia e peças de reposição em sua coleção. Pegamos as melhores coisas e deixamos o resto."
 
 [Play_Sea_GatherDJ_Loading AkEvent]
-SpokenText="Aside from our civic duty to rescue a fellow human in need, the only way we were going to shut down the rest of his broadcasts was if he pointed us towards the other equipment. He had been squirming for a few hours now, and apparently ADVENT was having trouble with the doors on his building-so of course, he was getting cocky-because he's an ass."
+SpokenText="Além do nosso dever cívico de resgatar um fellow humano em necessidade, a única maneira de desligar o resto de suas transmissões era se ele nos apontasse para os outros equipamentos. Ele estava se contorcendo há algumas horas, e aparentemente a ADVENT estava tendo problemas com as portas de seu prédio—então, claro, ele estava ficando convencido—porque ele é um idiota."
 
 [Play_Sea_GatherDJ_Intro_B AkEvent]
-SpokenText="There was a boat docked near the waterfront that we eventually used as our EVAC point."
+SpokenText="Havia um barco ancorado perto da orla que eventualmente usamos como nosso ponto de evacuação."
 
 [Play_Sea_GatherDJ_Intro_Alt_B AkEvent]
-SpokenText="There was a boat docked near the waterfront that we eventually used as our EVAC point."
+SpokenText="Havia um barco ancorado perto da orla que eventualmente usamos como nosso ponto de evacuação."
 
 [Play_Sea_GatherDJ_Intro_Alt_A AkEvent]
-SpokenText="Once we got into the city, the comm. signal was stronger than ever. We didn't have anything else to go on, so we used the transmission as a beacon."
+SpokenText="Assim que entramos na cidade, o sinal de comunicação estava mais forte do que nunca. Não tínhamos mais nada para seguir, então usamos a transmissão como um farol."
 
 [Play_Sea_GatherDJ_Intro_A AkEvent]
-SpokenText="Once we got into the city, the comm. signal was stronger than ever but we still couldn't tell who or what it was. We didn't have anything else to go on, so we used the transmission as a beacon and headed in expecting the worst."
+SpokenText="Assim que entramos na cidade, o sinal de comunicação estava mais forte do que nunca, mas ainda não podíamos dizer quem ou o que era. Não tínhamos mais nada para seguir, então usamos a transmissão como um farol e seguimos esperando o pior."
 
 [Play_Sea_GatherDJ_Intro AkEvent]
-SpokenText="Believe it or not, we actually have a few recordings from the rescue-in fact, I'm not even gonna talk you through this part-the DJ did enough talking for the both of us."
+SpokenText="Acredite ou não, na verdade temos algumas gravações do resgate—na verdade, nem vou te contar essa parte—o DJ falou o suficiente por nós dois."
 
 [Play_Sea_GatherDJ_Guard2Rescued AkEvent]
-SpokenText="We grabbed the DJ's other guard on our way out."
+SpokenText="Resgatamos o outro guarda do DJ ao sairmos."
 
 [Play_Sea_GatherDJ_Guard1Rescued AkEvent]
-SpokenText="I'm not sure how the DJ convinced these people to guard him, but we managed to rescue one."
+SpokenText="Não tenho certeza de como o DJ convenceu essas pessoas a protegê-lo, mas conseguimos resgatar um."
 
 [Play_Sea_GatherDJ_Failure_B AkEvent]
-SpokenText="Despite my reputation, that performance was below average, even for me."
+SpokenText="Apesar da minha reputação, aquela performance foi abaixo da média, até para mim."
 
 [Play_Sea_GatherDJ_Failure_A AkEvent]
-SpokenText="Let's go over this again. Maybe I forgot to mention something important."
+SpokenText="Vamos revisar isso novamente. Talvez eu tenha esquecido de mencionar algo importante."
 
 [Play_Sea_GatherDJ_FacelessTunaSighted AkEvent]
-SpokenText="The Faceless didn't really have a name back then, but we knew they were out there, hiding among the civilians. This though...this was something else. I mean, if they could be fish, they could be anything, right? Where does it end?"
+SpokenText="Os Faceless não tinham realmente um nome naquela época, mas sabíamos que estavam por aí, escondidos entre os civis. Isso, no entanto... era algo diferente. Quero dizer, se eles pudessem ser peixes, poderiam ser qualquer coisa, certo? Onde isso termina?"
 
 [Play_Sea_GatherDJ_DJSighted AkEvent]
-SpokenText="That's our guy, the pirate of the airwaves himself."
+SpokenText="É ele, o pirata das ondas de rádio."
 
 [Play_Sea_GatherDJ_DJRescued AkEvent]
-SpokenText="We secured the DJ, but now we had to babysit him until we got to the EVAC point."
+SpokenText="Seguramos o DJ, mas agora tínhamos que vigiá-lo até chegarmos ao ponto de evacuação."
 
 [Play_Sea_GatherDJ_DJEvac AkEvent]
-SpokenText="The DJ was safe, but the rest of the squad and I were still on the ground."
+SpokenText="O DJ estava seguro, mas o resto da equipe e eu ainda estávamos no chão."
 
 [Play_Sea_GatherDJ_DJDeath AkEvent]
-SpokenText="He might be a pain in the ass, but the DJ definitely survived this particular adventure."
+SpokenText="Ele pode ser uma dor de cabeça, mas o DJ definitivamente sobreviveu a esta aventura em particular."
 
 [Play_Sea_GatherDJ_DJandGuardsEvac AkEvent]
-SpokenText="The DJ and his guards made it clear of the area. Now we just had to get ourselves out."
+SpokenText="O DJ e seus guardas conseguiram sair da área. Agora só tínhamos que sair de lá."
 
 [Play_Sea_ExtractDJ_Upgrades AkEvent]
-SpokenText="We managed to get the DJ out of harm's way for the second time, and I wasn't about to let him wander off again. I parked him in a chair in front of one of our radio transmitters where he could give us directions to the next installation. I also quietly locked the door on my way out."
+SpokenText="Conseguimos tirar o DJ do perigo pela segunda vez, e eu não estava disposto a deixá-lo se afastar novamente. Eu o coloquei em uma cadeira em frente a um dos nossos transmissores de rádio onde ele podia nos dar direções para a próxima instalação. Também travei a porta silenciosamente ao sair."
 
 [Play_Sea_ExtractDJ_TotalVictory_B AkEvent]
-SpokenText="We killed what felt like dozens of Chryssalids, and finally we made it clear. Don't ask me how we pulled it off. I just know we did."
+SpokenText="Matamos o que parecia dezenas de Chryssalids, e finalmente limpamos a área. Não me pergunte como conseguimos. Só sei que fizemos."
 
 [Play_Sea_ExtractDJ_TotalVictory_A AkEvent]
-SpokenText="Despite the overwhelming odds against us, we managed to escape with the pacifist DJ safely in tow. By now I was getting tired of all this guy's surprises."
+SpokenText="Apesar das probabilidades esmagadoras contra nós, conseguimos escapar com o DJ pacifista em segurança. Já estava ficando cansado de todas essas surpresas desse cara."
 
 [Play_Sea_ExtractDJ_TimerNagFinal AkEvent]
-SpokenText="We're getting pretty close to the end of the line here. We weren't out there that long."
+SpokenText="Estamos chegando perto do fim aqui. Não estávamos lá fora por tanto tempo."
 
 [Play_Sea_ExtractDJ_TimerFailed AkEvent]
-SpokenText="We're gonna have to go through it again, 'cause it definitely went quicker than that."
+SpokenText="Vamos ter que passar por isso novamente, porque definitivamente foi mais rápido do que isso."
 
 [Play_Sea_ExtractDJ_Timer6TurnsLeft AkEvent]
-SpokenText="We had to get this whole thing done pretty quick, we had no idea just how bottomless the supply of Chryssalids was out there."
+SpokenText="Tivemos que terminar isso bem rápido, não tínhamos ideia de quão sem fundo era o suprimento de Chryssalids lá fora."
 
 [Play_Sea_ExtractDJ_Timer3TurnsLeft AkEvent]
-SpokenText="We had to keep moving. There was no time to stand around."
+SpokenText="Tivemos que continuar nos movendo. Não havia tempo para ficar parado."
 
 [Play_Sea_ExtractDJ_PartialVictory_B AkEvent]
-SpokenText="We took a few hits here and there. The Chryssalids don't stop until they're dead. Fortunately we made it clear with the DJ alive and ready to steer us towards more problems."
+SpokenText="Levamos alguns golpes aqui e ali. Os Chryssalids não param até estarem mortos. Felizmente, limpamos a área com o DJ vivo e pronto para nos guiar para mais problemas."
 
 [Play_Sea_ExtractDJ_PartialVictory_A AkEvent]
-SpokenText="With that many Chryssalids, I was surprised we didn't take more casualties than we did. And of course the DJ made it without so much as a scratch, for all the hard work he put in."
+SpokenText="Com tantos Chryssalids, eu estava surpreso por não termos tido mais baixas do que tivemos. E, claro, o DJ saiu sem um arranhão, apesar do trabalho duro que ele fez."
 
 [Play_Sea_ExtractDJ_Musings_J AkEvent]
-SpokenText="The more he talked, the more I realized this guy had a few screws loose. I was starting to worry his stupid ideas might actually sink in. We were all pretty tired, and we didn't have the energy to think his nonsense through."
+SpokenText="Quanto mais ele falava, mais eu percebia que esse cara tinha alguns parafusos soltos. Comecei a me preocupar que suas ideias estúpidas poderiam realmente entrar na cabeça. Estávamos todos bastante cansados, e não tínhamos energia para pensar na bobagem dele."
 
 [Play_Sea_ExtractDJ_Musings_H AkEvent]
-SpokenText="There wasn't a whole lot of time to get out of there, and there was no way we could fend off this many Chryssalids forever. If we didn't keep moving, there was a risk of being overrun entirely."
+SpokenText="Não havia muito tempo para sair de lá, e não havia como enfrentar tantos Chryssalids para sempre. Se não continuássemos nos movendo, havia o risco de sermos totalmente sobrecarregados."
 
 [Play_Sea_ExtractDJ_Musings_F AkEvent]
-SpokenText="The DJ had shown that he at least felt some contrition for his mistakes, and his heart was probably in the right place if it meant pissing ADVENT off. I wasn't ready to let him off the hook just yet though. We were still in the thick of his mess."
+SpokenText="O DJ havia mostrado que pelo menos sentia alguma contrição por seus erros, e seu coração estava provavelmente no lugar certo se significasse irritar a ADVENT. Eu não estava pronto para deixá-lo escapar ainda. Ainda estávamos no meio da confusão que ele causou."
 
 [Play_Sea_ExtractDJ_Musings_E AkEvent]
-SpokenText="To his credit, the DJ managed to keep his mouth shut for the most part despite a few close calls that almost cost him a limb. He had shown that he at least felt some contrition for his mistakes, and his heart was probably in the right place if it meant pissing ADVENT off."
+SpokenText="Para seu crédito, o DJ conseguiu manter a boca fechada na maior parte, apesar de alguns perigos próximos que quase lhe custaram um membro. Ele havia mostrado que pelo menos sentia alguma contrição por seus erros, e seu coração estava provavelmente no lugar certo se significasse irritar a ADVENT."
 
 [Play_Sea_ExtractDJ_Musings_D AkEvent]
-SpokenText="Like I said earlier, the DJ was essentially a walking target in combat. He refused to even pick up a gun, much less fight with one. The best we could hope for was that he kept his head down and his mouth shut until we reached the EVAC point."
+SpokenText="Como eu disse antes, o DJ era essencialmente um alvo ambulante em combate. Ele se recusava a pegar até mesmo uma arma, quanto mais lutar com uma. O melhor que podíamos esperar era que ele mantivesse a cabeça baixa e a boca fechada até chegarmos ao ponto de evacuação."
 
 [Play_Sea_ExtractDJ_Musings_C AkEvent]
-SpokenText="We had to cover some ground to reach a safe point to make a break for it. We didn't have Big Sky or Firebrand to bail us out back then, we all had to rely on our feet to save us."
+SpokenText="Tivemos que cobrir um bom trecho para chegar a um ponto seguro para fazer uma fuga. Não tínhamos o Big Sky ou o Firebrand para nos resgatar na época, todos nós tínhamos que confiar em nossos pés para nos salvar."
 
 [Play_Sea_ExtractDJ_Musings_B AkEvent]
-SpokenText="The signal in this area was already down, but the Chryssalids were still coming out of the woodwork. I didn't give a damn about the DJ's records, but that didn't stop him from ignoring the fact that we were out here protecting him while he nursed his alleged back injury."
+SpokenText="O sinal nesta área já estava fora, mas os Chryssalids ainda estavam saindo de todos os lugares. Eu não estava nem aí para os discos do DJ, mas isso não o impediu de ignorar o fato de que estávamos aqui protegendo-o enquanto ele cuidava de sua alegada lesão nas costas."
 
 [Play_Sea_ExtractDJ_Musings_A AkEvent]
-SpokenText="The signal in this area was down, but the Chryssalids were still coming out of the woodwork. The DJ said something about being too close to the source, but we didn't have time to press him on it in the middle of combat."
+SpokenText="O sinal nesta área estava fora, mas os Chryssalids ainda estavam saindo de todos os lugares. O DJ mencionou algo sobre estar muito perto da fonte, mas não tivemos tempo para pressioná-lo sobre isso no meio do combate."
 
 [Play_Sea_ExtractDJ_LootSelect AkEvent]
-SpokenText="We picked through the settlement and salvaged what we could, we were slowly piecing together some decent gear but we had to choose carefully."
+SpokenText="Nós vasculhamos o assentamento e salvamos o que pudemos, estávamos lentamente montando um bom equipamento, mas tivemos que escolher com cuidado."
 
 [Play_Sea_ExtractDJ_Loading AkEvent]
-SpokenText="After all that work to rescue this guy, not a day later he somehow thought it would be a good idea to wander off in search of his old record collection or something. I almost lost it that day. I was about ready to just leave him to the Chryssalids. Fortunately, he hadn't managed to get very far, and we put a leash on him before the aliens could."
+SpokenText="Depois de todo esse trabalho para resgatar esse cara, não um dia depois ele de alguma forma achou que seria uma boa ideia se aventurar em busca de sua antiga coleção de discos ou algo assim. Eu quase perdi a cabeça naquele dia. Estava prestes a deixá-lo para os Chryssalids. Felizmente, ele não havia se afastado muito, e o prendemos antes que os aliens pudessem."
 
 [Play_Sea_ExtractDJ_Intro AkEvent]
-SpokenText="The DJ had set up his equipment in an old utility building that the locals built their settlement around. It almost felt safe at first, but the signal there must have been stronger, 'cause the Chryssalids were overrunning the entire area."
+SpokenText="O DJ havia montado seu equipamento em um antigo prédio de utilidades que os locais construíram ao redor de seu assentamento. Inicialmente parecia seguro, mas o sinal lá devia ser mais forte, porque os Chryssalids estavam invadindo toda a área."
 
 [Play_Sea_ExtractDJ_Failure_B AkEvent]
-SpokenText="Now you're just selling me short. Come on, I'm way tougher than that."
+SpokenText="Agora você está me subestimando. Vamos lá, sou muito mais resistente do que isso."
 
 [Play_Sea_ExtractDJ_Failure_A AkEvent]
-SpokenText="No...pretty sure that's not what happened."
+SpokenText="Não... tenho certeza de que não foi isso que aconteceu."
 
 [Play_Sea_ExtractDJ_DJEvac AkEvent]
-SpokenText="For the second time now, we had ushered the DJ to safety, no thanks to him."
+SpokenText="Pela segunda vez, conseguimos levar o DJ para a segurança, sem agradecimentos a ele."
 
 [Play_Sea_ExtractDJ_DJDeath AkEvent]
-SpokenText="Maybe I wasn't totally clear, but we did save the DJ."
+SpokenText="Talvez eu não tenha sido totalmente claro, mas salvamos o DJ."
 
 [Play_Sea_DestroyRadio_Upgrades AkEvent]
-SpokenText="So now we knew the DJ had gotten his hands on some real alien technology, not the pretty homogenized gear that ADVENT uses-the old spooky stuff. That upped the stakes for everyone, and we were definitely on the aliens' radar now."
+SpokenText="Agora sabíamos que o DJ tinha conseguido algumas tecnologias alienígenas reais, não o equipamento homogenizado bonito que a ADVENT usa—o velho e assustador. Isso aumentou as apostas para todos, e definitivamente estávamos no radar dos aliens agora."
 
 [Play_Sea_DestroyRadio_TotalVictory_B AkEvent]
-SpokenText="We destroyed the transmitter before the Chryssalids completely overran our position. Now that we knew we were dealing with alien technology, I had a feeling things were going to ramp up real quick."
+SpokenText="Destruímos o transmissor antes que os Chryssalids tomassem completamente nossa posição. Agora que sabíamos que estávamos lidando com tecnologia alienígena, eu tinha a sensação de que as coisas iam aumentar rapidamente."
 
 [Play_Sea_DestroyRadio_TotalVictory_A AkEvent]
-SpokenText="We managed to destroy the transmitter and cut off the signal, but that was only enough to stop the onslaught for a few miles in each direction. There was still work to be done."
+SpokenText="Conseguimos destruir o transmissor e cortar o sinal, mas isso foi apenas o suficiente para parar o ataque por alguns quilômetros em cada direção. Ainda havia trabalho a fazer."
 
 [Play_Sea_DestroyRadio_TimerNagFinal AkEvent]
-SpokenText="I don't remember it taking this long. We're probably pushing the limits of the story here."
+SpokenText="Não me lembro de ter demorado tanto. Provavelmente estamos ultrapassando os limites da história aqui."
 
 [Play_Sea_DestroyRadio_TimerNag AkEvent]
-SpokenText="The Chryssalids were only gonna keep coming, we had a limited window of survival here."
+SpokenText="Os Chryssalids só iriam continuar vindo, tínhamos uma janela limitada de sobrevivência aqui."
 
 [Play_Sea_DestroyRadio_TimerExpired AkEvent]
-SpokenText="We were definitely quicker than that. We would have been overrun by then."
+SpokenText="Certamente fomos mais rápidos do que isso. Teríamos sido sobrecarregados por então."
 
 [Play_Sea_DestroyRadio_RadioSpotted AkEvent]
-SpokenText="That was around the time we first set eyes on the DJ's transmitter."
+SpokenText="Foi por volta dessa época que avistamos o transmissor do DJ pela primeira vez."
 
 [Play_Sea_DestroyRadio_RadioDestroyed AkEvent]
-SpokenText="That was one transmitter down, but our job wasn't done yet."
+SpokenText="Esse foi um transmissor derrubado, mas nosso trabalho ainda não estava feito."
 
 [Play_Sea_DestroyRadio_PartialVictory_B AkEvent]
-SpokenText="We took some losses, but at the end of the day the transmitter was down and we had a temporary reprieve from the Chryssalid hordes."
+SpokenText="Sofremos algumas perdas, mas no final das contas o transmissor estava fora de operação e tivemos um alívio temporário das hordas de Chryssalids."
 
 [Play_Sea_DestroyRadio_PartialVictory_A AkEvent]
-SpokenText="The fights kept getting tougher, but we still pulled it off. The local transmitter was down and the Chryssalids were no doubt already on their way to the next target."
+SpokenText="As batalhas estavam ficando mais difíceis, mas ainda conseguimos. O transmissor local estava fora e os Chryssalids provavelmente já estavam a caminho do próximo alvo."
 
 [Play_Sea_DestroyRadio_Musings_J AkEvent]
-SpokenText="It's not like we weren't going to go after him, but I didn't see the harm in letting him sweat for a few hours. We'd get there in time, probably."
+SpokenText="Não é como se não fôssemos atrás dele, mas eu não via mal em deixá-lo suar por algumas horas. Chegaríamos lá a tempo, provavelmente."
 
 [Play_Sea_DestroyRadio_Musings_H AkEvent]
-SpokenText="I almost felt bad about wishing ADVENT on him-almost. I mean, he did bring it on himself. Stolen equipment aside, did he think the aliens were just gonna let him mouth-off all day with no reprisal? We all know the aliens love a good reprisal."
+SpokenText="Quase me senti mal por desejar a ADVENT para ele—quase. Quero dizer, ele trouxe isso para si mesmo. Equipamento roubado à parte, ele achava que os aliens iam simplesmente deixar ele falar o dia todo sem retaliação? Todos sabemos que os aliens adoram uma boa retaliação."
 
 [Play_Sea_DestroyRadio_Musings_F AkEvent]
-SpokenText="It was either bad luck, or just stupid coincidence, but for whatever reason the DJ had installed his transmitter on the dock right near the water's edge. He had unknowingly positioned this thing to be the most efficient Chryssalid bait possible."
+SpokenText="Foi má sorte ou apenas uma coincidência estúpida, mas por algum motivo o DJ instalou seu transmissor no cais bem perto da borda da água. Ele havia posicionado isso sem querer para ser o melhor isca possível para os Chryssalids."
 
 [Play_Sea_DestroyRadio_Musings_E AkEvent]
-SpokenText="Once we actually got close enough to see the transmitter, it was clear as day that our DJ had failed to mention one critical detail. The damn thing was pure alien technology, and not even ADVENT's stuff, something older. To this day I still have no idea how he had managed to get any of it working, but it was all starting to make a lot more sense."
+SpokenText="Uma vez que conseguimos chegar perto o suficiente para ver o transmissor, ficou claro como o dia que nosso DJ falhou em mencionar um detalhe crítico. A porcaria era tecnologia alienígena pura, e não sequer o equipamento da ADVENT, algo mais antigo. Até hoje ainda não faço ideia de como ele conseguiu fazer qualquer coisa funcionar, mas tudo estava começando a fazer muito mais sentido."
 
 [Play_Sea_DestroyRadio_Musings_D AkEvent]
-SpokenText="Once we actually got close enough to see the transmitter, it was clear as day that our DJ had failed to mention one critical detail. The damn thing was pure alien technology, and not even ADVENT's stuff, something older. To this day I still have no idea how he had managed to get any of it working, but it was all starting to make a lot more sense."
+SpokenText="Uma vez que conseguimos chegar perto o suficiente para ver o transmissor, ficou claro como o dia que nosso DJ falhou em mencionar um detalhe crítico. A porcaria era tecnologia alienígena pura, e não sequer o equipamento da ADVENT, algo mais antigo. Até hoje ainda não faço ideia de como ele conseguiu fazer qualquer coisa funcionar, mas tudo estava começando a fazer muito mais sentido."
 
 [Play_Sea_DestroyRadio_Musings_C AkEvent]
-SpokenText="It was either bad luck, or just a stupid coincidence, but for whatever reason the DJ had installed his transmitter on the dock right near the water's edge. He had unknowingly positioned this thing to be the most efficient Chryssalid bait possible."
+SpokenText="Foi má sorte ou apenas uma coincidência estúpida, mas por algum motivo o DJ instalou seu transmissor no cais bem perto da borda da água. Ele havia posicionado isso sem querer para ser o melhor isca possível para os Chryssalids."
 
 [Play_Sea_DestroyRadio_Musings_B AkEvent]
-SpokenText="For all we knew about the alien technology back then, whatever this transmitter was the DJ stole from ADVENT, it could have been doing exactly what it was originally designed for. Maybe the aliens needed them to corral the Chryssalids. Maybe they didn't even have control of all these monsters."
+SpokenText="Por tudo que sabíamos sobre a tecnologia alienígena na época, qualquer que fosse o transmissor que o DJ roubou da ADVENT, ele poderia estar fazendo exatamente o que foi originalmente projetado para fazer. Talvez os aliens precisassem deles para reunir os Chryssalids. Talvez eles nem sequer controlassem todos esses monstros."
 
 [Play_Sea_DestroyRadio_Musings_A AkEvent]
-SpokenText="There were plenty of aliens lurking around the area approaching the transmitter, but it didn't seem like they were too worried about the prospect of Chryssalids. They had probably assumed the signal was tied to one of the early resistance cells and came in to clean house."
+SpokenText="Havia muitos aliens ao redor da área próxima ao transmissor, mas não parecia que estavam muito preocupados com a perspectiva de Chryssalids. Eles provavelmente presumiram que o sinal estava ligado a uma das primeiras células de resistência e vieram para limpar o local."
 
 [Play_Sea_DestroyRadio_LootSelect AkEvent]
-SpokenText="There was some salvageable equipment among the aliens we took out, but we didn't have a whole lot of time to take inventory."
+SpokenText="Havia alguns equipamentos recuperáveis entre os aliens que eliminamos, mas não tínhamos muito tempo para fazer um inventário."
 
 [Play_Sea_DestroyRadio_Loading AkEvent]
-SpokenText="We made our way further up the coast by boat while chasing the DJ's signal. From what we pieced together, he had been building his own radio network across the territories that were still free from ADVENT control. Rigging stolen relays and antennas up and down the seaboard to get his message across, he had managed to stir something else up. Whether it was the frequency or something in the equipment itself...the Chryssalids loved the sound of his voice. To them, it was like the DJ had been ringing the dinner bell in every town he visited."
+SpokenText="Fomos mais ao longo da costa de barco enquanto seguíamos o sinal do DJ. Pelo que reunimos, ele estava construindo sua própria rede de rádio pelas terras ainda livres do controle da ADVENT. Instalando relés e antenas roubados ao longo da costa para espalhar sua mensagem, ele conseguiu agitar algo mais. Seja a frequência ou algo no próprio equipamento... os Chryssalids adoravam o som da sua voz. Para eles, parecia que o DJ estava tocando o sino de jantar em cada cidade que visitava."
 
 [Play_Sea_DestroyRadio_Intro AkEvent]
-SpokenText="Now that we had a working theory as to what was attracting the Chryssalids, all we had to do was go in and destroy all the equipment the DJ had already installed. Sounds easy enough, right? Well it wasn't...the closer we got, the more trouble we found."
+SpokenText="Agora que tínhamos uma teoria funcional sobre o que estava atraindo os Chryssalids, tudo o que tínhamos que fazer era entrar e destruir todo o equipamento que o DJ já havia instalado. Parece simples, certo? Bem, não era... quanto mais chegávamos perto, mais problemas encontrávamos."
 
 [Play_Sea_DestroyRadio_Failure_B AkEvent]
-SpokenText="Maybe we should stretch our legs, try this again later."
+SpokenText="Talvez devêssemos esticar as pernas e tentar isso novamente mais tarde."
 
 [Play_Sea_DestroyRadio_Failure_A AkEvent]
-SpokenText="Now it wouldn't be an epic tale of victory if I went out like that, would it?"
+SpokenText="Agora não seria uma história épica de vitória se eu saísse assim, não é?"
 
 [Play_Sea_Abduction_Upgrades AkEvent]
-SpokenText="We had seen the town firsthand and confirmed the rumors, by all accounts the responsible party was some sort of new Chryssalid that liked to hang around underwater of all places. As you can imagine, we were all thrilled to learn of yet another new monster inhabiting our world."
+SpokenText="Vimos a cidade em primeira mão e confirmamos os rumores, por todos os relatos, o responsável era algum tipo de novo Chryssalid que gostava de ficar debaixo d'água, de todos os lugares. Como você pode imaginar, todos nós ficamos empolgados em saber de mais um novo monstro habitando nosso mundo."
 
 [Play_Sea_Abduction_TotalVictory_B AkEvent]
-SpokenText="Eventually we killed off the waves of Chryssalids pouring into town, but we still didn't know what was riling them up in the first place."
+SpokenText="Eventualmente matamos as ondas de Chryssalids que estavam invadindo a cidade, mas ainda não sabíamos o que estava agitando-os em primeiro lugar."
 
 [Play_Sea_Abduction_TotalVictory_A AkEvent]
-SpokenText="We managed to clear out the Chryssalids without any casualties, but at this point we still had no idea what was going on."
+SpokenText="Conseguimos eliminar os Chryssalids sem baixas, mas nesse ponto ainda não tínhamos ideia do que estava acontecendo."
 
 [Play_Sea_Abduction_PartialVictory_B AkEvent]
-SpokenText="Things got a little ugly on that first outing. Nobody was expecting Chryssalids. Fortunately, most of us made it out alive."
+SpokenText="As coisas ficaram um pouco feias naquela primeira saída. Ninguém esperava Chryssalids. Felizmente, a maioria de nós sobreviveu."
 
 [Play_Sea_Abduction_PartialVictory_A AkEvent]
-SpokenText="The Chryssalids almost got the jump on us. Not everyone made it, but we managed to clear out the initial waves swarming the town."
+SpokenText="Os Chryssalids quase nos surpreenderam. Nem todos sobreviveram, mas conseguimos limpar as ondas iniciais que estavam atacando a cidade."
 
 [Play_Sea_Abduction_NeonateChryssalidSighted AkEvent]
-SpokenText="They came from the sea...that's what stood out. They were just giant bugs to us back then, we didn't know anything about the science. Chryssalids. Strange ones too, white...like they were covered in bone."
+SpokenText="Eles vieram do mar... isso foi o que se destacou. Eram apenas insetos gigantes para nós na época, não sabíamos nada sobre a ciência. Chryssalids. Estranhos também, brancos... como se estivessem cobertos de osso."
 
 [Play_Sea_Abduction_Musings_J AkEvent]
-SpokenText="Somehow I just knew, wherever we ended up, whatever we were doing...we were gonna keep hearing this clown until we confronted him-or until the aliens blew his brains out-and by that point, I'm not sure if I cared which one of us got to him first."
+SpokenText="De alguma forma eu sabia, onde quer que acabássemos, o que quer que estivéssemos fazendo... íamos continuar ouvindo esse palhaço até que o confrontássemos—ou até que os aliens estourassem o cérebro dele—e, nesse ponto, não tenho certeza se me importava qual de nós chegava a ele primeiro."
 
 [Play_Sea_Abduction_Musings_H AkEvent]
-SpokenText="He had spent the last ten minutes babbling about hamburgers while we were out there watching people mutate into Chryssalids from all the poison. Honestly one of the worst things I've ever seen, and this guy was our soundtrack the whole damn time."
+SpokenText="Ele passou os últimos dez minutos tagarelando sobre hambúrgueres enquanto estávamos lá fora assistindo as pessoas se transformarem em Chryssalids devido a todo o veneno. Honestamente, uma das piores coisas que já vi, e esse cara foi a nossa trilha sonora o tempo todo."
 
 [Play_Sea_Abduction_Musings_F AkEvent]
-SpokenText="There's a time and place for everything, and I'll admit it, if I'd been sitting around the campfire having a few drinks, this guy probably would have been kinda funny, in an insane way. But during the heat of combat with a bunch of weird ocean Chryssalids running us down? I would have given anything to shut him up."
+SpokenText="Há um tempo e um lugar para tudo, e eu admito, se eu estivesse sentado ao redor da fogueira tomando algumas bebidas, esse cara provavelmente teria sido meio engraçado, de um jeito insano. Mas durante o calor do combate com um monte de estranhos Chryssalids do oceano correndo atrás de nós? Eu teria dado qualquer coisa para silenciá-lo."
 
 [Play_Sea_Abduction_Musings_E AkEvent]
-SpokenText="The fact that there were Chryssalids in the ocean was news to me, and worse still something was drawing them into the town. I must have killed half a dozen of 'em at least and they just kept coming."
+SpokenText="O fato de que havia Chryssalids no oceano foi uma novidade para mim, e pior ainda, algo estava atraindo-os para a cidade. Eu devia ter matado pelo menos meia dúzia deles e eles continuavam vindo."
 
 [Play_Sea_Abduction_Musings_D AkEvent]
-SpokenText="Radio chatter aside, we had a much bigger problem to contend with. The rumors were true, the aliens had hit this town. And you know what? We would have welcomed a good fight with ADVENT versus what we actually ran into that day."
+SpokenText="Além do bate-papo no rádio, tínhamos um problema muito maior para lidar. Os rumores eram verdadeiros, os aliens haviam atacado essa cidade. E sabe de uma coisa? Teríamos acolhido uma boa briga com a ADVENT em vez do que realmente encontramos naquele dia."
 
 [Play_Sea_Abduction_Musings_C AkEvent]
-SpokenText="Approaching the docks, it was clear right away what the problem was here, and it was a big one."
+SpokenText="Ao se aproximar dos cais, ficou claro imediatamente qual era o problema aqui, e era grande."
 
 [Play_Sea_Abduction_Musings_B AkEvent]
-SpokenText="It wasn't until we got close to town that we started picking up these transmissions...we didn't know what to make of it. It sure as hell wasn't ADVENT, and no one in the resistance was stupid enough to leave the aliens with a signal to follow."
+SpokenText="Não foi até chegarmos perto da cidade que começamos a captar essas transmissões...não sabíamos o que fazer com isso. Com certeza não era a ADVENT, e ninguém na resistência era burro o suficiente para deixar os aliens com um sinal para seguir."
 
 [Play_Sea_Abduction_Musings_A AkEvent]
-SpokenText="We had come here on the vague word of a trader who moved between these outlying towns, she said her local contacts were spooked by something...enough that they refused to take her up the coast by boat."
+SpokenText="Viemos aqui com base na palavra vaga de uma comerciante que se movia entre essas cidades periféricas, ela disse que seus contatos locais estavam assustados com algo...o suficiente para se recusar a levá-la pela costa de barco."
 
 [Play_Sea_Abduction_LootSelect AkEvent]
-SpokenText="ADVENT brought in some equipment for the troops stationed at the local outpost. We were able to scrounge up a few things but we couldn't take everything."
+SpokenText="A ADVENT trouxe alguns equipamentos para as tropas estacionadas no posto local. Conseguimos encontrar algumas coisas, mas não pudemos levar tudo."
 
 [Play_Sea_Abduction_Loading_B AkEvent]
-SpokenText="<sigh> some things never change. Did I ever tell you the story of how we first met that crackpot? Get comfortable, you'll like this one. It all started about 12 years ago..."
+SpokenText="<suspiro> algumas coisas nunca mudam. Já te contei a história de como conhecemos aquele lunático? Fique confortável, você vai gostar dessa. Tudo começou há cerca de 12 anos..."
 
 [Play_Sea_Abduction_Intro AkEvent]
-SpokenText="I had been working with a few local operators, helping people out on the fringes wherever we could. In this case, we were following up on some rumors about the aliens hitting a town out on the coast. We just figured ADVENT was finally getting down to the stragglers."
+SpokenText="Eu estava trabalhando com alguns operadores locais, ajudando as pessoas nas periferias sempre que podíamos. Neste caso, estávamos investigando alguns rumores sobre os aliens atacando uma cidade na costa. Pensamos que a ADVENT finalmente estava se ocupando dos estragadores."
 
 [Play_Sea_Abduction_Failure_B AkEvent]
-SpokenText="The Chryssalids were definitely nasty, but clearly I didn't turn into one."
+SpokenText="Os Chryssalids eram definitivamente nojentos, mas claramente eu não me transformei em um."
 
 [Play_Sea_Abduction_Failure_A AkEvent]
-SpokenText="No doubt it was a tough mission, but I think we did a little better than that."
+SpokenText="Sem dúvida foi uma missão difícil, mas acho que fizemos um pouco melhor do que isso."
 
 [Play_Marketing_08_ALTH AkEvent]
-SpokenText="These are the stories of your people, Commander. You deserve to hear 'em."
+SpokenText="Essas são as histórias do seu povo, Comandante. Você merece ouvi-las."
 
 [Play_Marketing_08_ALTG AkEvent]
-SpokenText="You've earned 'em, Commander."
+SpokenText="Você as ganhou, Comandante."
 
 [Play_Marketing_08_ALTF AkEvent]
-SpokenText="Let me paint you a picture, Commander, the Avenger was getting close but we were desperate for... <cut off>"
+SpokenText="Deixe-me pintar um quadro para você, Comandante, o Avenger estava chegando perto, mas estávamos desesperados por... <corte>"
 
 [Play_Marketing_08_ALTE AkEvent]
-SpokenText="And have I got some stories for you. Trust me, you're gonna like this, Commander."
+SpokenText="E eu tenho algumas histórias para você. Confie em mim, você vai gostar disso, Comandante."
 
 [Play_Marketing_08_ALTD AkEvent]
-SpokenText="Some stories can only come straight from the horse's mouth, and this is as close as you're gonna get, Commander. Enjoy."
+SpokenText="Algumas histórias só podem vir direto da boca do cavalo, e isso é o mais próximo que você vai chegar, Comandante. Aproveite."
 
 [Play_Marketing_08_ALTC AkEvent]
-SpokenText="There's still a few stories I never got around to telling, and I think it's more than overdue. You've earned it, Commander."
+SpokenText="Ainda há algumas histórias que eu nunca cheguei a contar, e acho que já está mais do que na hora. Você merece."
 
 [Play_Marketing_08_ALTB AkEvent]
-SpokenText="I'm guessing once you hear what we got into while you were gone, you'll understand why we needed you running this thing, Commander."
+SpokenText="Estou apostando que quando você ouvir o que enfrentamos enquanto você estava ausente, entenderá porque precisávamos de você dirigindo isso, Comandante."
 
 [Play_Marketing_08_ALTA AkEvent]
-SpokenText="I think once you hear what we went through out there, you'll understand why we needed you back so badly."
+SpokenText="Acho que, quando você ouvir o que passamos lá fora, entenderá porque precisávamos tanto de você de volta."
 
 [Play_Marketing_08 AkEvent]
-SpokenText="Did I ever tell you about the time when we almost lost Shen to... <cut off>"
+SpokenText="Já te contei sobre a vez em que quase perdemos o Shen para... <corte>"
 
 [Play_Marketing_07_ALTD AkEvent]
-SpokenText="But that's not the whole story, and I think it's time I finally filled in some of those gaps in our history for you."
+SpokenText="Mas essa não é toda a história, e acho que é hora de finalmente preencher algumas dessas lacunas na nossa história para você."
 
 [Play_Marketing_07_ALTC AkEvent]
-SpokenText="But I don't want you to think we were just sitting around while you were gone."
+SpokenText="Mas eu não quero que você pense que estivemos apenas esperando enquanto você estava fora."
 
 [Play_Marketing_07_ALTB AkEvent]
-SpokenText="But that's not exactly everything that happened over the years."
+SpokenText="Mas isso não é exatamente tudo o que aconteceu ao longo dos anos."
 
 [Play_Marketing_07_ALTA AkEvent]
-SpokenText="But that's not exactly the whole story."
+SpokenText="Mas isso não é exatamente a história completa."
 
 [Play_Marketing_07 AkEvent]
-SpokenText="Well... maybe there were a few things we handled without you."
+SpokenText="Bem... talvez houvesse algumas coisas que lidamos sem você."
 
 [Play_Marketing_06 AkEvent]
-SpokenText="You brought the resistance together. You made all of this possible."
+SpokenText="Você reuniu a resistência. Você tornou tudo isso possível."
 
 [Play_Marketing_05 AkEvent]
-SpokenText="You were the rise after the fall."
+SpokenText="Você foi a ascensão após a queda."
 
 [Play_Marketing_04 AkEvent]
-SpokenText="Even when history itself seemed to change before our eyes."
+SpokenText="Mesmo quando a própria história parecia mudar diante de nossos olhos."
 
 [Play_Marketing_03 AkEvent]
-SpokenText="Through every impossible decision, you led the way."
+SpokenText="Através de cada decisão impossível, você liderou o caminho."
 
 [Play_Marketing_02 AkEvent]
-SpokenText="You were there for us in the beginning."
+SpokenText="Você estava conosco no começo."
 
 [Play_Marketing_01 AkEvent]
-SpokenText="Only we can keep the stories alive, Commander."
+SpokenText="Só nós podemos manter as histórias vivas, Comandante."
 
 [Play_Lazarus_RescueVehicle_TotalVictory_B AkEvent]
-SpokenText="Everyone felt a lot better knowing ADVENT wasn't going to be firing their new gun anytime soon, especially if they planned on pointing it at us."
+SpokenText="Todos se sentiram muito melhor sabendo que a ADVENT não iria disparar sua nova arma tão cedo, especialmente se planejavam apontá-la para nós."
 
 [Play_Lazarus_RescueVehicle_TotalVictory_A AkEvent]
-SpokenText="We didn't see another cannon like that for years, so I like to think we set ADVENT's research back a ways by blowing up that thing."
+SpokenText="Não vimos outro canhão como aquele por anos, então gosto de pensar que atrasamos a pesquisa da ADVENT ao destruir aquela coisa."
 
 [Play_Lazarus_RescueVehicle_PartialVictory_B AkEvent]
-SpokenText="It was a hard fight, maybe harder than we were hoping for, but at the end of the day ADVENT had one less toy to play around with."
+SpokenText="Foi uma luta difícil, talvez mais difícil do que esperávamos, mas no final do dia a ADVENT ficou com um brinquedo a menos para brincar."
 
 [Play_Lazarus_RescueVehicle_PartialVictory_A AkEvent]
-SpokenText="ADVENT did everything they could to stop us, but we managed to see the job through despite taking some casualties."
+SpokenText="A ADVENT fez tudo o que podia para nos parar, mas conseguimos concluir a missão apesar de algumas baixas."
 
 [Play_Lazarus_RescueVehicle_Musings_F AkEvent]
-SpokenText="Little did we know that we would end up seeing another version of their cannon again in the future, and they almost got us with it too... but that's another story altogether."
+SpokenText="Mal sabíamos que acabaríamos vendo outra versão daquele canhão no futuro, e quase nos pegou também... mas essa é outra história."
 
 [Play_Lazarus_RescueVehicle_Musings_E AkEvent]
-SpokenText="If the Avenger had been flight-worthy at the time, I might have suggested we try to steal ADVENT's new toy rather than destroy it- would have made for a hell of a deck gun. Still, it's hard to describe how pretty it was when we finally lit that thing up."
+SpokenText="Se o Avenger estivesse em condições de voo na época, eu poderia ter sugerido tentar roubar o novo brinquedo da ADVENT em vez de destruí-lo – teria sido uma baita arma de convés. Ainda assim, é difícil descrever o quão bonito foi quando finalmente acendemos aquela coisa."
 
 [Play_Lazarus_RescueVehicle_Musings_D AkEvent]
-SpokenText="We had to figure this cannon of theirs was meant to be pointed at us, I mean, there just wasn't anyone else out there worth hitting with a gun that big. The Avenger was the biggest threat on ADVENT's radar, and they had built a weapon worthy of shooting us out of the sky."
+SpokenText="Tínhamos que imaginar que aquele canhão deles era destinado a nós, quero dizer, não havia mais ninguém por aí que valesse a pena ser atingido por uma arma tão grande. O Avenger era a maior ameaça no radar da ADVENT, e eles construíram uma arma digna de nos derrubar do céu."
 
 [Play_Lazarus_RescueVehicle_Musings_C AkEvent]
-SpokenText="With Jane onboard, I probably could have handed off command of the squad to her, but back then I'll admit I was eager for action. The aliens had taken so much from us. There was something satisfying about returning the favor to them directly."
+SpokenText="Com Jane a bordo, eu provavelmente poderia ter passado o comando da equipe para ela, mas na época eu admito que estava ansioso por ação. Os alienígenas tinham tirado tanto de nós. Havia algo satisfatório em devolver o favor diretamente a eles."
 
 [Play_Lazarus_RescueVehicle_Musings_B AkEvent]
-SpokenText="If we had had time to plan out something a little more subtle, Shen probably could have rigged the cannon's power source to overload once they eventually tried to use it. In this case, we always had our faithful X4 to fall back on."
+SpokenText="Se tivéssemos tido tempo para planejar algo um pouco mais sutil, Shen provavelmente poderia ter preparado a fonte de energia do canhão para sobrecarregar quando eles eventualmente tentassem usá-lo. Nesse caso, sempre tivemos o fiel X4 para nos apoiar."
 
 [Play_Lazarus_RescueVehicle_Musings_A AkEvent]
-SpokenText="I considered the possibility that we might be walking into an elaborate trap, but ADVENT had provided a prime target whether it was a setup or not.  Letting it go wasn't an option at this point."
+SpokenText="Considerei a possibilidade de estarmos caindo em uma armadilha elaborada, mas a ADVENT forneceu um alvo primário, fosse uma cilada ou não. Deixar passar não era uma opção nesse ponto."
 
 [Play_Lazarus_RescueVehicle_MissionSummary AkEvent]
-SpokenText="Blowing up anything that belonged to the aliens was great for morale, and we saw a nice boost in resistance chatter in the days after taking out the cannon. Shen figures that thing could have potentially wiped out a whole town, so we definitely saved some lives on this one."
+SpokenText="Destruir qualquer coisa que pertencesse aos alienígenas foi ótimo para a moral, e vimos um aumento na comunicação da resistência nos dias seguintes à destruição do canhão. Shen acha que aquela coisa poderia ter potencialmente destruído uma cidade inteira, então definitivamente salvamos algumas vidas dessa vez."
 
 [Play_Lazarus_RescueVehicle_LootSelect AkEvent]
-SpokenText="That explosion took out most of what ADVENT brought with them, but Shen still managed to salvage a few components to improve our gear."
+SpokenText="Aquela explosão destruiu a maior parte do que a ADVENT trouxe com eles, mas Shen ainda conseguiu salvar alguns componentes para melhorar nosso equipamento."
 
 [Play_Lazarus_RescueVehicle_Loading AkEvent]
-SpokenText="Within a few weeks of scooping up Jane from the slums, we got word from one of her scouts that the aliens were moving something across the territories-something big. We couldn't always count on these reports to be accurate, but from the description it sure sounded like a weapon to me. If it was really as big as Jane's guy claimed, it didn't matter where they were hauling it off to, we couldn't risk it. If we were going to lead the resistance, then we had to start acting like it. That meant taking the fight to them."
+SpokenText="Algumas semanas depois de resgatar Jane dos bairros pobres, recebemos uma informação de um de seus espiões de que os alienígenas estavam movimentando algo pelos territórios - algo grande. Não podíamos sempre contar que esses relatórios eram precisos, mas pela descrição, parecia realmente uma arma para mim. Se fosse realmente tão grande quanto o cara da Jane dizia, não importava para onde eles estivessem levando, não podíamos correr o risco. Se íamos liderar a resistência, então tínhamos que começar a agir como tal. Isso significava levar a luta até eles."
 
 [Play_Lazarus_RescueVehicle_Intro AkEvent]
-SpokenText="Once we hit the ground it was obvious we had made the right choice in coming after this thing-it was some kind of artillery piece-bigger than anything we had ever seen in ADVENT's arsenal. The aliens weren't expecting an attack, but the area was still crawling with ADVENT regulars providing security."
+SpokenText="Quando tocamos o chão, era óbvio que tínhamos tomado a decisão certa ao vir atrás dessa coisa - era uma espécie de peça de artilharia - maior do que qualquer coisa que já havíamos visto no arsenal da ADVENT. Os alienígenas não esperavam um ataque, mas a área ainda estava infestada de soldados da ADVENT fornecendo segurança."
 
 [Play_Lazarus_RescueVehicle_Failure_B AkEvent]
-SpokenText="Don't get discouraged. It happens to the best of us."
+SpokenText="Não desanime. Isso acontece com os melhores de nós."
 
 [Play_Lazarus_RescueVehicle_Failure_A AkEvent]
-SpokenText="I'm not saying it was easy, but it also wasn't that hard."
+SpokenText="Não estou dizendo que foi fácil, mas também não foi tão difícil."
 
 [Play_Lazarus_RescueVehicle_Bomb_NoRNF AkEvent]
-SpokenText="We planted the bomb on ADVENT's cannon. Now we just needed to get clear before the fireworks."
+SpokenText="Colocamos a bomba no canhão da ADVENT. Agora só precisávamos sair de perto antes dos fogos de artifício."
 
 [Play_Lazarus_RescueVehicle_Bomb_Detonated AkEvent]
-SpokenText="Boom! It was quite a show, I really can't describe it."
+SpokenText="Boom! Foi um verdadeiro espetáculo, realmente não consigo descrever."
 
 [Play_Lazarus_RescueVehicle_AreaClear AkEvent]
-SpokenText="We had cleared the area, all we had to do now was plant the bomb."
+SpokenText="Havíamos limpado a área, tudo o que restava era plantar a bomba."
 
 [Play_Lazarus_RescueTygan_TotalVictory_B AkEvent]
-SpokenText="Tygan probably could have handled the situation differently, but at the end of the day, he was with us now, and that was all that really mattered."
+SpokenText="Tygan provavelmente poderia ter lidado com a situação de forma diferente, mas no final das contas, ele estava conosco agora, e isso era o que realmente importava."
 
 [Play_Lazarus_RescueTygan_TotalVictory_A AkEvent]
-SpokenText="Hauling Tygan's body out of the tunnels was a real pain in the ass, but we really did need him, and he's proven to be an invaluable asset to the resistance in the time since."
+SpokenText="Remover o corpo de Tygan dos túneis foi um verdadeiro trabalho árduo, mas realmente precisávamos dele, e ele provou ser um recurso inestimável para a resistência desde então."
 
 [Play_Lazarus_RescueTygan_TimerExpired AkEvent]
-SpokenText="It's been too long already. We had to be faster than that."
+SpokenText="Já se passou tempo demais. Precisávamos ser mais rápidos."
 
 [Play_Lazarus_RescueTygan_PartialVictory_B AkEvent]
-SpokenText="Fighting in the tunnels was no easy task, and took a toll on some our people. We got Tygan out there though, and that was sure to slow down whatever ADVENT had him doing."
+SpokenText="Lutar nos túneis não foi tarefa fácil e pesou sobre algumas de nossas pessoas. Conseguimos tirar Tygan de lá, e isso certamente atrasará o que quer que a ADVENT estivesse fazendo com ele."
 
 [Play_Lazarus_RescueTygan_PartialVictory_A AkEvent]
-SpokenText="Tygan had enough burdens to bear without the weight of our casualties holding him down. He felt responsible, but loss was something we all had to learn to deal with."
+SpokenText="Tygan já tinha cargas suficientes para carregar sem o peso das nossas baixas. Ele se sentiu responsável, mas a perda era algo que todos nós tínhamos que aprender a lidar."
 
 [Play_Lazarus_RescueTygan_ObjSecured AkEvent]
-SpokenText="Tygan must have really done a number on himself. He was passed out through the whole mission."
+SpokenText="Tygan deve ter se machucado bastante. Ele ficou desacordado durante toda a missão."
 
 [Play_Lazarus_RescueTygan_ObjDestroyed AkEvent]
-SpokenText="We need Tygan alive, for obvious reasons."
+SpokenText="Precisamos de Tygan vivo, por razões óbvias."
 
 [Play_Lazarus_RescueTygan_Nag6turns AkEvent]
-SpokenText="We had a limited window of opportunity to work with here. ADVENT was bound to notice Tygan's abrupt departure from their network quickly."
+SpokenText="Tínhamos uma janela de oportunidade limitada para trabalhar aqui. A ADVENT com certeza notaria a partida abrupta de Tygan de sua rede rapidamente."
 
 [Play_Lazarus_RescueTygan_Nag3turns AkEvent]
-SpokenText="We were running out of time. ADVENT was sending reinforcements to check in on Tygan's lab."
+SpokenText="Estávamos ficando sem tempo. A ADVENT estava enviando reforços para verificar o laboratório de Tygan."
 
 [Play_Lazarus_RescueTygan_Nag1turn AkEvent]
 SpokenText="That's about as much time as we had. Beyond that, ADVENT definitely would have cornered us down there."
