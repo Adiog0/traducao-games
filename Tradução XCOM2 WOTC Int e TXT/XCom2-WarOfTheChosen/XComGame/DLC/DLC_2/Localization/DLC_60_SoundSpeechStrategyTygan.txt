@@ -1,96 +1,96 @@
 [Play_DLC2_S_TYG_Archon_King_Autopsy_Blurb AkEvent]
-SpokenText="I have come to firmly believe that Dr. Vahlen's unbridled ambition, left without the Commander to maintain some semblance of reason, led her to pursue a path of research that was as misguided and regrettable as my own service to ADVENT."
+SpokenText="Eu cheguei a acreditar firmemente que a ambição desenfreada da Dra. Vahlen, deixada sem a orientação do Comandante para manter algum senso de razão, a levou a seguir um caminho de pesquisa tão equivocado e lamentável quanto o meu próprio serviço para a ADVENT."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_S_TYG_Autopsy_Reminder_Nag AkEvent]
-SpokenText="Commander, we still have the body of the recovered alien test subject in storage. I can begin an autopsy at any time - it could lead to critical breakthroughs in our own research and scientific development."
+SpokenText="Comandante, ainda temos o corpo do sujeito de teste alienígena recuperado armazenado. Posso começar a autópsia a qualquer momento - ela pode levar a avanços críticos em nossa própria pesquisa e desenvolvimento científico."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_S_TYG_Berserker_Queen_Autopsy_Blurb AkEvent]
-SpokenText="As Dr. Vahlen noted in her own report, it was irresponsible and borderline irrational for her to have pursued this research knowing the incredible risks involved, not just to herself, but to what little of humanity as a whole remains."
+SpokenText="Como a Dra. Vahlen observou em seu próprio relatório, foi irresponsável e quase irracional que ela tenha perseguido essa pesquisa, sabendo dos incríveis riscos envolvidos, não apenas para si mesma, mas para o que resta da humanidade como um todo."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_S_TYG_Dropship_Mission_Briefing AkEvent]
-SpokenText="I am continually monitoring the energy signatures we detected near the target site. Possible subterranean activity detected... strong interference blanketing the area... sensors are unable to penetrate the rock face. We still have a steady read on Vahlen's signal however. I would advise extreme caution, Central."
+SpokenText="Estou monitorando continuamente as assinaturas de energia que detectamos perto do local-alvo. Possível atividade subterrânea detectada... forte interferência cobrindo a área... os sensores não conseguem penetrar a rocha. Ainda estamos recebendo o sinal de Vahlen, porém. Eu aconselharia extrema cautela, Central."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_S_TYG_Equip_Hunter_Weapons_1 AkEvent]
-SpokenText="Commander, I would strongly advise you have our forces equip the specialized weapons we recovered from the field. Their unique capabilities may prove invaluable on this mission."
+SpokenText="Comandante, eu recomendaria fortemente que nossas forças equipassem as armas especializadas que recuperamos do campo. Suas capacidades únicas podem ser inestimáveis nesta missão."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_S_TYG_Hunter_Weapons_UI_Pop AkEvent]
-SpokenText="Commander, these weapons are unlike any design I have previously encountered before.  I could attempt further analysis but the likelihood of us reverse engineering them appears low regardless."
+SpokenText="Comandante, essas armas são diferentes de qualquer design que já encontrei antes. Eu poderia tentar uma análise mais aprofundada, mas a probabilidade de conseguirmos engenharia reversa nelas parece baixa, independentemente."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_S_TYG_King_Dead_Other_Escapees_Remain AkEvent]
-SpokenText="Although we were successful in defeating the genetically augmented Viper, we must remain vigilant, Commander. All indications are that two other test subjects remain, no doubt having escaped the facility before our arrival. I will continue to investigate Dr. Vahlen's research logs for any further details that could aid us in dealing with these creatures."
+SpokenText="Embora tenhamos tido sucesso em derrotar a Víbora geneticamente aprimorada, devemos permanecer vigilantes, Comandante. Todas as indicações são de que outros dois sujeitos de teste ainda estão em liberdade, sem dúvida tendo escapado da instalação antes de nossa chegada. Continuarei a investigar os registros de pesquisa da Dra. Vahlen em busca de mais detalhes que possam nos ajudar a lidar com essas criaturas."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_S_TYG_King_Lives_Escapees_Remain_2 AkEvent]
-SpokenText="We should also be prepared for the eventuality that we will encounter the two remaining test subjects - the ones we have yet to identify. It is likely they have a similar means of escape via Psionic rifts, meaning we could find them anywhere."
+SpokenText="Também devemos estar preparados para a possibilidade de que encontraremos os outros dois sujeitos de teste restantes - aqueles que ainda não identificamos. É provável que eles tenham um meio similar de escape através de fendas psíquicas, o que significa que podemos encontrá-los em qualquer lugar."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_S_TYG_Ruler_Autopsy_Available AkEvent]
-SpokenText="Commander, having successfully recovered one of Dr. Vahlen's genetically modified test subjects, I'm eager to begin conducting an autopsy as soon as possible. It is my hope that by following her own research notes, I will gain an even greater understanding of just how she managed to accomplish these rapid changes."
+SpokenText="Comandante, tendo recuperado com sucesso um dos sujeitos de teste geneticamente modificados da Dra. Vahlen, estou ansioso para começar a realizar uma autópsia o mais rápido possível. Minha esperança é que, seguindo suas próprias anotações de pesquisa, eu ganhe um entendimento ainda maior de como ela conseguiu realizar essas mudanças rápidas."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_S_TYG_Ruler_Autopsy_Available_B AkEvent]
-SpokenText="Commander, on your order, I can begin conducting an autopsy on the latest of Vahlen's test subjects. We have an opportunity here to advance our own research beyond the bounds of our current expertise; we should begin as soon as possible."
+SpokenText="Comandante, sob sua ordem, posso começar a realizar uma autópsia no último dos sujeitos de teste de Vahlen. Temos aqui uma oportunidade de avançar nossa própria pesquisa além dos limites de nossa experiência atual; devemos começar o mais rápido possível."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_S_TYG_Ruler_Autopsy_Available_C AkEvent]
-SpokenText="Now that we've recovered one of Dr. Vahlen's test subjects, I can begin an autopsy on the specimen as soon as you give the order, Commander."
+SpokenText="Agora que recuperamos um dos sujeitos de teste da Dra. Vahlen, posso começar a autópsia no espécime assim que você der a ordem, Comandante."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_S_TYG_Ruler_Autopsy_Available_D AkEvent]
-SpokenText="Having recovered another of Dr. Vahlen's modified alien test subjects, we should begin an autopsy as soon as possible. By following her own research notes, it is my hope that we will uncover the true purpose of her work."
+SpokenText="Tendo recuperado mais um dos sujeitos de teste alienígenas modificados da Dra. Vahlen, devemos começar a autópsia o mais rápido possível. Seguindo suas próprias anotações de pesquisa, minha esperança é que descubramos o verdadeiro propósito de seu trabalho."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_S_TYG_Site_Readings AkEvent]
-SpokenText="There are a number of unusual energy signatures permeating this area, Commander. I'm seeing power fluctuations, intense heat, some psionic activity... all signs of a possible conflict. We should move quickly."
+SpokenText="Há uma série de assinaturas de energia incomuns permeando esta área, Comandante. Estou vendo flutuações de energia, calor intenso, alguma atividade psíquica... todos sinais de um possível conflito. Devemos nos mover rapidamente."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_S_TYG_Viper_King_Autopsy_Blurb AkEvent]
-SpokenText="Despite an extensive study of Dr. Vahlen's research reports, I have yet to discover how she came to acquire such an impressive understanding of the processes involved in the editing and manipulation of alien genetic material."
+SpokenText="Apesar de um estudo extensivo dos relatórios de pesquisa da Dra. Vahlen, ainda não descobri como ela conseguiu adquirir uma compreensão tão impressionante dos processos envolvidos na edição e manipulação do material genético alienígena."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
@@ -111,7 +111,7 @@ bSingleLine=False
 Comment=""
 
 [S_Autopsy_BerserkerQueen_Blurb AkEvent]
-SpokenText="As Dr. Vahlen noted in her own report, it was irresponsible and borderline irrational for her to have pursued this research knowing the incredible risks involved, not just to herself, but to what little of humanity as a whole remains."
+SpokenText="Como a Dra. Vahlen observou em seu próprio relatório, foi irresponsável e quase irracional que ela tenha perseguido essa pesquisa, sabendo dos incríveis riscos envolvidos, não apenas para si mesma, mas para o que resta da humanidade como um todo."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
@@ -137,4 +137,3 @@ bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
-

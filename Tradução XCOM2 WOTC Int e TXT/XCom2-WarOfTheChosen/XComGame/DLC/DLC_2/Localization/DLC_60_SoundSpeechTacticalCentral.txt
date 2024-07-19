@@ -1,355 +1,355 @@
 [Play_DLC2_T_CEN_Ambush_3 AkEvent]
-SpokenText="How many signatures, Doctor?!"
+SpokenText="Quantas assinaturas, Doutor?!"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Ambush_Begins AkEvent]
-SpokenText="Ambush. Heads up people!"
+SpokenText="Emboscada. Cuidado, pessoal!"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Approach_The_King_2 AkEvent]
-SpokenText="Something tells me that won't be the worst of our problems, Doctor."
+SpokenText="Algo me diz que isso não será o pior dos nossos problemas, Doutor."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Archon_King_Dead_1 AkEvent]
-SpokenText="Vahlen toughened 'em up some, but not enough to handle us. Good work out there, people."
+SpokenText="A Dra. Vahlen os fortaleceu, mas não o suficiente para lidar conosco. Bom trabalho lá fora, pessoal."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Archon_King_Icarus_Drop AkEvent]
-SpokenText="It's trying to grab one of our people! Don't let it take 'em!"
+SpokenText="Está tentando agarrar um de nossos soldados! Não deixem que apanhe-os!"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Archon_King_Reveal_2 AkEvent]
-SpokenText="She didn't have to upgrade their equipment in the process, no wonder these things escaped from the lab!"
+SpokenText="Ela não precisava ter aprimorado o equipamento deles no processo. Não é de se admirar que essas coisas tenham escapado do laboratório!"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Berserker_Queen_Dead_1 AkEvent]
-SpokenText="The bigger they are, the harder they fall. I'd love to ask Vahlen what exactly she planned on doing with this thing."
+SpokenText="Quanto maiores são, mais difícil é a queda. Adoraria perguntar à Dra. Vahlen o que exatamente ela planejava fazer com essa coisa."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Berserker_Queen_Quake AkEvent]
-SpokenText="That thing is pissed! We gotta keep clear of that knockback!"
+SpokenText="Essa coisa está furiosa! Precisamos manter distância do empurrão!"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Berserker_Queen_Reveal_1 AkEvent]
-SpokenText="Of all the aliens running around out there these days... she just had to modify a Berserker, didn't she?"
+SpokenText="De todas as alienígenas por aí... ela tinha que modificar um Berserker, não é mesmo?"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Facility_Entry_Two AkEvent]
-SpokenText="Was she living out here? Just what the hell were you up to, Vahlen?"
+SpokenText="Ela vivia aqui? O que diabos você estava aprontando, Vahlen?"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_King_Attempting_Escape_2 AkEvent]
-SpokenText="It's trying to make a break for it! Take it out before it gets away!"
+SpokenText="Ele está tentando escapar! Derrubem antes que fuja!"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_King_Dead_AO_Clear AkEvent]
-SpokenText="Good work people. It's over."
+SpokenText="Bom trabalho, pessoal. Acabou."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_King_Dead_Clear_AO AkEvent]
-SpokenText="The King is down, but we've still got more of the others to deal with! We need to clear this area!"
+SpokenText="O Rei caiu, mas ainda temos mais deles para lidar! Precisamos limpar a área!"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_King_Escaped_AO_Clear AkEvent]
-SpokenText="We might have lost the big guy, but it looks like this area is finally clear."
+SpokenText="Podemos ter perdido o grandão, mas parece que a área está finalmente limpa."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_King_Escaped_Clear_AO AkEvent]
-SpokenText="We can still clear out the rest of these things and secure the area, let's take care of 'em!"
+SpokenText="Ainda podemos eliminar o restante dessas criaturas e garantir a área. Vamos cuidar deles!"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_King_Has_Escaped AkEvent]
-SpokenText="Dammit! We let it get away! Something tells me that's not the last we're gonna see of that thing. If we get another shot, we better make it count."
+SpokenText="Droga! Deixamos ele escapar! Algo me diz que não é a última vez que veremos aquela coisa. Se tivermos outra chance, melhor aproveitá-la."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_MATINEE_Boots_Ground_2 AkEvent]
-SpokenText="Hold up, Doctor, we've got something."
+SpokenText="Esperem, Doutor, temos algo aqui."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_MATINEE_Final_Body_Check AkEvent]
-SpokenText="It's... not her."
+SpokenText="Não é... ela."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_MATINEE_King_Reveal_1 AkEvent]
-SpokenText="Is that...Vahlen?"
+SpokenText="É ela... Vahlen?"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Mission_Final_B AkEvent]
-SpokenText="Vahlen's a survivor. Eventually she'll reappear. And when she does, she'll have a lot to answer for..."
+SpokenText="Vahlen é sobrevivente. Eventualmente, ela vai aparecer de novo. E quando isso acontecer, ela terá muitas explicações a dar..."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Neophytes_Spotted_1 AkEvent]
-SpokenText="Vipers. Why did it have to be Vipers?"
+SpokenText="Víboras. Por que tinham que ser Víboras?"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Neophytes_Spotted_3 AkEvent]
-SpokenText="Just as long as they're not bullet proof."
+SpokenText="Contanto que não sejam à prova de balas."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Post_Ambush_Research_Five_2 AkEvent]
-SpokenText="Dammit Vahlen. What did you do?"
+SpokenText="Droga, Vahlen. O que você fez?"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Post_Ambush_Research_Three_2 AkEvent]
-SpokenText="Not if we can help it."
+SpokenText="Não se deixem levar por isso, vamos dar um jeito."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Post_Matinee_1 AkEvent]
-SpokenText="Vahlen created a Viper King. Just what we needed."
+SpokenText="Vahlen criou um Rei Víbora. É exatamente o que precisávamos."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Post_Pad_2 AkEvent]
-SpokenText="It's her. Unfortunately her friend never made it to the EVAC point."
+SpokenText="É ela. Infelizmente, seu amigo não chegou ao ponto de EVAC."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Pre_Ambush_Research_Two_2 AkEvent]
-SpokenText="Not sure I like the sound of that."
+SpokenText="Não tenho certeza se gosto do som disso."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Push_Forward_2 AkEvent]
-SpokenText="Understood. Let's take them out and find Vahlen!"
+SpokenText="Entendido. Vamos eliminá-los e encontrar Vahlen!"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Recover_Dropped_Hunter_Weapons AkEvent]
-SpokenText="Commander, those weapons Vahlen sent us are one of a kind, if we leave any of them in the field, we'll lose track of them for good."
+SpokenText="Comandante, essas armas que Vahlen nos enviou são únicas, se as deixarmos no campo, nunca mais as encontraremos."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Recover_Rare_Suits_Reminder_A AkEvent]
-SpokenText="Commander, if we leave our fallen soldier behind, we're going to lose that specialized armor in the process. The decision is yours."
+SpokenText="Comandante, se deixarmos nosso soldado caído para trás, perderemos essa armadura especializada no processo. A decisão é sua."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Recover_Rare_Suits_Reminder_B AkEvent]
-SpokenText="Commander, we won't have another chance to build a suit of armor like that, if we leave it behind, that'll be the end of it."
+SpokenText="Comandante, não teremos outra chance de construir uma armadura como essa, se a deixarmos para trás, será o fim dela."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Recover_Rare_Suits_Reminder_C AkEvent]
-SpokenText="That armor is one-of-a-kind, Commander. If we abandon it in the field now, we won't get another shot at replicating it."
+SpokenText="Essa armadura é única, Comandante. Se a abandonarmos no campo agora, não teremos outra oportunidade de replicá-la."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Ruler_Attempting_Escape_A AkEvent]
-SpokenText="We've seen them try that before! Don't let it get away!"
+SpokenText="Já vimos eles tentarem isso antes! Não deixem que fuja!"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Ruler_Attempting_Escape_B AkEvent]
-SpokenText="It's trying to open one of those rifts! Stop it!"
+SpokenText="Ele está tentando abrir uma dessas fendas! Pare-o!"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Ruler_Attempting_Escape_C AkEvent]
-SpokenText="Don't let that thing escape! It's trying to open another rift."
+SpokenText="Não deixe essa coisa escapar! Ela está tentando abrir outra fenda."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Ruler_Attempting_Escape_D AkEvent]
-SpokenText="We have to stop that thing! Don't let it escape!"
+SpokenText="Temos que parar essa coisa! Não deixe ela escapar!"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Ruler_Attempting_Escape_E AkEvent]
-SpokenText="That thing's tryin to make a break for it! Get it!"
+SpokenText="Aquela coisa está tentando fugir! Peguem ela!"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Ruler_Returns_A AkEvent]
-SpokenText="Looks like one of 'em came back for more! Let's make sure to take it out this time!"
+SpokenText="Parece que um deles voltou para mais! Vamos garantir que o eliminemos desta vez!"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Ruler_Returns_B AkEvent]
-SpokenText="We've got a chance to take this thing down once and for all, Commander. Let's get it done!"
+SpokenText="Temos a chance de eliminar de vez essa coisa, Comandante. Vamos fazer isso!"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Ruler_Returns_C AkEvent]
-SpokenText="This is the shot we've been waiting for! Take that thing down before it has a chance to run!"
+SpokenText="Essa é a oportunidade que estávamos esperando! Derrubem essa coisa antes que ela tenha a chance de fugir!"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_The_Beacon_2 AkEvent]
-SpokenText="Good. Lead the way, Doctor."
+SpokenText="Ótimo. Lidere o caminho, Doutor."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Unbroken_Transmission_2 AkEvent]
-SpokenText="This isn't a message. It's a warning!"
+SpokenText="Isso não é uma mensagem. É um aviso!"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Viper_Boltguns_Sighted_1 AkEvent]
-SpokenText="Those weapons look a lot like what we pulled from that crate on the old Skyranger."
+SpokenText="Essas armas se parecem muito com as que encontramos na caixa do antigo Skyranger."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Viper_King_Freeze_Breath_2 AkEvent]
-SpokenText="Good to know, Doctor!"
+SpokenText="Bom saber, Doutor!"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Viper_King_Ice_2 AkEvent]
-SpokenText="Couple of flamethrowers would have come in handy right about now."
+SpokenText="Uns lança-chamas seriam bem úteis agora."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_LOS_Skulls AkEvent]
-SpokenText="We've got a lot of skulls down here...human skulls. Someone's been decorating this place."
+SpokenText="Temos muitos crânios aqui embaixo... crânios humanos. Alguém decorou este lugar."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_LOS_Bodies AkEvent]
-SpokenText="Looks like Vahlen had plenty of help, where did she find these people?"
+SpokenText="Parece que Vahlen teve muita ajuda, onde ela encontrou essas pessoas?"
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_LOS_Terrarium AkEvent]
-SpokenText="This section was enclosed at one point, could have been some kind of a containment area."
+SpokenText="Esta área estava fechada em um momento, poderia ter sido algum tipo de área de contenção."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_LOS_Skulls_ALT AkEvent]
-SpokenText="Looks like someone's been decorating this place."
+SpokenText="Parece que alguém decorou este lugar."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_LOS_Skulls_ALT_B AkEvent]
-SpokenText="No way this is natural."
+SpokenText="Não tem como isso ser natural."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
 [Play_DLC2_T_CEN_Viper_King_Dead AkEvent]
-SpokenText="The King is down.  Good work people.  It's over."
+SpokenText="O Rei Víbora está abatido. Bom trabalho, pessoal. Acabou."
 bMature=False
 bManualWordWrap=False
 bSingleLine=False
