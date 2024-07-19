@@ -113,6 +113,28 @@ Summary="As escamas do Rei Viper são surpreendentemente leves e flexíveis, e d
 DisplayName="Armadura Ícaro"
 Summary="Após uma cuidadosa análise do Archon Rei falecido, é viável construir um conjunto de armadura que incorpora seus sistemas únicos de propulsão a jato."
 
+[ExperimentalWeapons X2TechTemplate]
+DisplayName="Armas Experimentais"
+Summary="Recuperamos várias armas do campo de batalha que possuem um design aparentemente arcaico, mas escondem atributos extremamente poderosos que exigirão um estudo aprofundado para serem compreendidos."
+CodeName="Methuselah"
+LongDescription="Nossas tropas descobriram várias armas que pareceriam inúteis em nossa luta contra os alienígenas, mas evidências de testes de campo não oficiais revelaram várias capacidades estranhas que desafiam uma explicação clara. Apesar de suas insistências e de algum grau de ridículo à minha custa, tentei repetidamente explicar às nossas tropas e ao pessoal sênior que, embora essas armas possam parecer simples, reproduzi-las não é tão fácil quanto montar os materiais componentes. Como está, provavelmente resistirei a novos esforços para tentar replicá-las, a menos que as circunstâncias de nossa campanha contra os alienígenas mudem. Sou um cientista, não um ferreiro ou arqueiro. -R. Tygan."
+
+[BoltCaster X2TechTemplate]
+DisplayName="Besta de Parafuso"
+Summary="Descoberta entre um arsenal de armas aparentemente arcaicas, a Besta de Parafuso é enganosamente poderosa, mas limitada por uma baixa cadência de tiro. Inimigos alvo têm a chance de serem atordoados no impacto. Esta arma é única e não pode ser duplicada ou substituída."
+
+[HuntersAxe X2TechTemplate]
+DisplayName="Machado do Caçador"
+Summary="Afiadas de forma incrível, estas machadinhas ornamentadas são compactas o suficiente para que nossos soldados as utilizem em combate de longo alcance. Estas armas são únicas e não podem ser duplicadas ou substituídas."
+
+[Shadowkeeper X2TechTemplate]
+DisplayName="Guardião das Sombras"
+Summary="Embora possa parecer antiquada em comparação com nossos designs mais recentes, esta pistola é notavelmente precisa, garantindo que mesmo os nossos soldados menos experientes acertem seus alvos pretendidos. Há também uma chance de que possam matar o alvo e escapar sem serem detectados. Esta arma é única e não pode ser duplicada ou substituída."
+
+[Frostbomb X2TechTemplate]
+DisplayName="Bomba de Gelo"
+Summary="Dependendo de um agente químico ainda não identificado, esses explosivos portáteis parecem capazes de reduzir instantaneamente a temperatura ambiente da área circundante. Tecido exposto será congelado no contato. Esta arma é única e não pode ser duplicada ou substituída."
+
 ;-----------------------
 ; ARMADURAS DE CHEFES ALIENÍGENAS
 ;-----------------------
