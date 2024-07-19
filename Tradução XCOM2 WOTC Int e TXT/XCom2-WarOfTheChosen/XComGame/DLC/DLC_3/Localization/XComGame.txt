@@ -170,6 +170,16 @@ BriefSummary=""
 TacticalText="<Bullet/> O modelo potente melhorado melhora significativamente as capacidades de dano e cura do CHIP.\n<Bullet/> O CHIP permite que os SPARKs executem uma variedade de tarefas no campo de batalha a partir de distâncias mais seguras.\n<Bullet/> O CHIP acompanha o SPARK e pode receber protocolos que ajudam aliados, invadem alvos eletrônicos ou causam dano a inimigos.\n<Bullet/> O CHIP geralmente passa despercebido pelos inimigos e não pode ser danificado ou destruído. Ele será desativado se seu proprietário for incapacitado ou morto."
 AbilityDescName="CHIP SPARK"
 
+[SparkRifle_MG_Schematic X2SchematicTemplate]
+m_strClassLabel="SPARK"
+[SparkRifle_BM_Schematic X2SchematicTemplate]
+m_strClassLabel="SPARK"
+
+[PlatedSparkArmor_Schematic X2SchematicTemplate]
+m_strClassLabel="SPARK"
+[PoweredSparkArmor_Schematic X2SchematicTemplate]
+m_strClassLabel="SPARK"
+
 ;-----------------------
 ; GREMLIN DA SHEN
 ;-----------------------
@@ -236,9 +246,7 @@ strCharacterName="SPARK"
 [LostTowersTurretM1_Wpn X2WeaponTemplate]
 FriendlyName="Canhão de Torre"
 FriendlyNamePlural="Canhões de Torre"
-BriefSummary="A XCOM conseguiu recuperar várias armas de infantaria padrão; esta é a variedade
-
- mais comum, similar ao rifle usado há vinte anos. Embora decididamente inferior à tecnologia magnética da ADVENT, ela pode ser melhorada usando mais salvados de armas, uma vez que uma abordagem técnica padrão seja descoberta."
+BriefSummary="A XCOM conseguiu recuperar várias armas de infantaria padrão; esta é a variedade mais comum, similar ao rifle usado há vinte anos. Embora decididamente inferior à tecnologia magnética da ADVENT, ela pode ser melhorada usando mais salvados de armas, uma vez que uma abordagem técnica padrão seja descoberta."
 TacticalText="<Bullet/> Disparar a arma primária sempre encerra o turno do soldado\n<Bullet/> Se o soldado disparar com ambas as ações disponíveis, três tiros serão disparados com precisão reduzida, mas com eficiência geral aumentada\n<Bullet/> Use melhorias saqueadas de inimigos para melhorar a eficácia tática do fuzil de assalto."
 
 ;-----------------------
@@ -261,6 +269,10 @@ DisplayName="Missão de Investigação"
 
 [ResAct_LostTowersInvestigated X2ResistanceActivityTemplate]
 DisplayName="Torres Perdidas Investigadas:"
+
+[ResAct_LostTowersFailed X2ResistanceActivityTemplate]
+DisplayName="Falha nas Torres Perdidas:"
+
 
 ;-----------------------
 ; Dados da Missão Torres Perdidas
@@ -415,9 +427,7 @@ LocPromotionPopupText="<Bullet/> Reparar irá restaurar <Ability:Repair_HealHP/>
 ; Paladino (Major)
 [AbsorptionField X2AbilityTemplate]
 LocFriendlyName="Campo de Canalização"
-LocLongDescription="Toda vez que você for alvo, parte da energia é canalizada para sua <Ability:WeaponName>. Essa energia é liberada com seu próximo Tiro P
-
-adrão."
+LocLongDescription="Toda vez que você for alvo, parte da energia é canalizada para sua <Ability:WeaponName>. Essa energia é liberada com seu próximo Tiro Padrão."
 LocHelpText="Canalize energia para sua <Ability:WeaponName> quando for alvo e libere-a com seu próximo Tiro Padrão."
 LocFlyOverText="Energia Canalizada: +1"
 LocPromotionPopupText="<Bullet/> Cada ponto de energia canalizada por Campo de Canalização aumenta o dano do próximo ataque de <Ability:WeaponName> em 1.<br/><Bullet/> A energia armazenada pelo campo de canalização é consumida mesmo que o próximo tiro erre.<br/>"
@@ -646,4 +656,10 @@ Description="Recupere um pequeno cofre de Suprimentos."
 
 [ControlAllDerelicts X2HackRewardTemplate]
 FriendlyName="Intrusão em Massa"
-Description="Obtenha o controle de todos os MECs no campo."
+Description="Assuma o controle de todos os MECs no campo de batalha."
+
+;--------------------------------
+;Eventos de Pontos de Habilidade
+;--------------------------------
+[JulianDefeated X2AbilityPointTemplate]
+ActionFriendlyName="ao Derrotar Julian"

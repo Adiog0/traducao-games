@@ -1,11 +1,12 @@
 ;-----------------------
-; SPARK Character
+; Personagem SPARK
 ;-----------------------
 
 [SparkSoldier X2SparkCharacterTemplate_DLC_3]
+strCharacterName="SPARK"
 strCustomizeDesc="Modifique o nome e a aparência deste soldado."
 strCharacterHealingPaused="Reparos Necessários"
-strAcquiredText="As unidades SPARK não se curam como outros soldados. Atribua o SPARK à Engenharia para realizar os reparos."
+strAcquiredText="Unidades SPARK não se curam como os outros soldados. Coloque o SPARK na Engenharia para realizar os reparos."
 
 ;-----------------------
 ; UI

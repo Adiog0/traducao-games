@@ -105,9 +105,6 @@ bManualWordWrap=False
 bSingleLine=False
 Comment=""
 
-[Play_DLC3_T_JLN_Lily_Shen_Killed_Unknown AkEvent]
-SpokenText="Excelente. Deve haver tecido neural suficiente restante para extrair os dados que eu preciso."
-
 [Play_DLC3_T_JLN_Lily_Shen_Killed AkEvent]
 SpokenText="Excelente. Deve haver tecido neural suficiente restante para extrair os dados que eu preciso."
 bMature=False

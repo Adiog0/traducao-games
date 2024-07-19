@@ -8,7 +8,6 @@ DLC3_TP_ShenMessage_04="Estou trabalhando nisso."
 DLC3_TP_ShenMessage_05="Algo ativou sua conexão remota... mas como isso é possível? Ninguém conhece esses sistemas."
 DLC3_TP_ShenMessage_06="Shen... as leituras de energia acabaram de disparar. O que está acontecendo aí embaixo?"
 DLC3_TP_ShenMessage_07="Pai?"
-
 DLC3_TP_SparkActivation_01="Então é isso... do que essa coisa vem falando tanto."
 DLC3_TP_SparkActivation_02="Você chegou até aqui. Tudo o que precisa fazer é conectar meus sistemas para a transferência. Não há necessidade de mais conflitos."
 DLC3_TP_SparkActivation_03="Shen... Diga-me que você não está realmente ouvindo essa coisa."
