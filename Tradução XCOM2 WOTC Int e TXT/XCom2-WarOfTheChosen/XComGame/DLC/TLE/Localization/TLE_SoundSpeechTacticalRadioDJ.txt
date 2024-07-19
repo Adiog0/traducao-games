@@ -1,0 +1,126 @@
+[Play_Sea_GatherDJ_Musings_E AkEvent]
+SpokenText="If anyone was planning a rescue, if you're already on your way, you might as well come on by. Not that you have to, but I wouldn't want you to have wasted your time."
+
+[Play_Sea_GatherDJ_Musings_D AkEvent]
+SpokenText="Shouldn't you guys have laser saws or something? I mean, it sure sounds like you're just out there beatin' on my door with your fists. If that's the case, good luck with that-ya freakin' caveman. Ha Ha! Radio Man!"
+
+[Play_Sea_GatherDJ_Musings_C AkEvent]
+SpokenText="Tell me, who's that rap tap tapping at my chamber door?! Quoth the Raven! Nevermore! You hear me out there, ADVENT?! Nevermore! You're never getting in, you fascist goons!"
+
+[Play_Sea_GatherDJ_Musings_B AkEvent]
+SpokenText="Blah Blah Blah...Bark Bark Bark...that's you, ADVENT guy, that's what you sound like out there. That's what all you imposters sound like to us originals."
+
+[Play_Sea_GatherDJ_Musings_A AkEvent]
+SpokenText="Despite being the product of advanced alien genetic manipulation, apparently our peacekeeping overlords never bothered to invest in battering ram technology. This is like something out a fairy tale, they just can't seem to blow my house down no matter how hard they try. I may not even need a rescue after all."
+
+[Play_Sea_Terror_Musings_I AkEvent]
+SpokenText="I'd like to take this moment to thank our generous sponsor, ADVENT. Now, I know what you're thinking, ADVENT? Screw those guys! And you'd be right, but hear me out. My little station wouldn't be here today without ADVENT's fancy relays and this big ole' antenna I found. Credit where credit is due and all that noise."
+
+[Play_Sea_Terror_Musings_G AkEvent]
+SpokenText="If I've already paid a visit to your town, you might have noticed one of my relays and bunch of other equipment rigged up nearby. Do me a favor, will ya? Don't touch it. It might look like a bunch of cobbled together junk, but it's my junk, no...not that junk...the kind that keeps this show on the road."
+
+[Play_Sea_Terror_Musings_E AkEvent]
+SpokenText="So... got kind of a serious question for you. Has anyone else noticed a sudden uptick in big mean alien bugs running around? Nasty white ones with razor sharp talons? No? Yea...me either, that'd be crazy, right? I'm probably just seein' things. Keep your eyes peeled just in case though, ok?"
+
+[Play_Sea_Terror_Musings_C AkEvent]
+SpokenText="If you're listening in during your travels but I haven't reached your local town, camp, settlement, shanty...whatever your situation, don't worry, I'm putting up new relays just as quick as I can, and someday soon there'll be no escaping the sound of my golden voice."
+
+[Play_Sea_Terror_Musings_A AkEvent]
+SpokenText="The show never stops ladies and gentlemen! Let me tell you, it's not easy being the talent, the management, and the technician around here. I might even have to start pre-recording some of these shows just to get some sleep. I mean how long has it been? 36 hours? Does anybody know what Thursday is on the ADVENT calendar? Blarghsday? Something like that, right?"
+
+[Play_Sea_SabotageTransmitter_Musings_I AkEvent]
+SpokenText="Maybe you guys should consider starting a little radio network of your own? Freedom Radio? Battle cry of the resistance? Something to get your people good and riled up before you head out on an alien hunt? Think about it, I could be your guy, you just tell me when.. Wham! I'm there, baby!"
+
+[Play_Sea_ExtractDJ_Musings_I AkEvent]
+SpokenText="Wouldn't you have rather dealt with this now than later anyway? There could be thousands of those things in the ocean, maybe tens of thousands? If I hadn't drawn 'em in, you wouldn't even know they were out there. You could almost say I helped you guys out. Really!"
+
+[Play_Sea_ExtractDJ_Musings_G AkEvent]
+SpokenText="You're just lucky you weren't around for some of my earlier experiments. A green plug here, a red one there, some other alien stuff-yea, you could say I had a few close calls. I'm guessing I won't be having kids anytime soon either if you catch my drift. I tell you what, I know how to put a hamjam in a wallbone, anytime!"
+
+[Play_Sea_ExtractDJ_Musings_E AkEvent]
+SpokenText="Come on, you can't really blame me for playing around with the alien technology, you guys do it too. Don't think I haven't seen your toys. I'll admit I could have taken things a little slower, maybe done some testing first, but sometimes you just gotta jump right in and pull the trigger, you know?"
+
+[Play_Sea_ExtractDJ_Musings_C AkEvent]
+SpokenText="Yea! You know, I just wish I could help you guys out, but the recoil from those guns would just tear up my poor back. I mean, maybe if we find an icepack or something, I'll be able to jump back into the fight. Doesn't hurt to keep an eye out anyway."
+
+[Play_Sea_ExtractDJ_Musings_A AkEvent]
+SpokenText="Ok, so I'll admit it was probably a dumb idea to go by myself, but what were the chances of you guys tagging along to go look for my records? Slim to none? But you gotta think long-term. I'm looking out for our future, we can't afford to lose the music of our past, can we?"
+
+[Play_Sea_DestroyRadio_Musings_I AkEvent]
+SpokenText="I'm still waiting for a miracle out here....I'm not sure how much longer I can hide. I just wish I could have at least broadcasted this grand finale...I barely got the chance to get my feet wet..."
+
+[Play_Sea_DestroyRadio_Musings_G AkEvent]
+SpokenText="Dammit! Come on you piece of.... aw screw it! So, um...yeah, I was wrong about the whole cabin fever thing. They're out there alright, and they want in real bad. Anyone, and I mean anyone...if you're reading me, come help your buddy out! I'm holed up in a building near the waterfront, okay! RIght next to the water..."
+
+[Play_Sea_DestroyRadio_Musings_E AkEvent]
+SpokenText="You know what? You know what? Maybe it's cabin fever. Aside from the occasional maintenance run, I've been pretty much been holed up in the booth here for days now. As a matter of fact...<sniff> it's actually getting a little ripe in here. I found a whole case of canned dog food last week. It's not bad, but it doesn't sit that well if, you get my meaning."
+
+[Play_Sea_DestroyRadio_Musings_C AkEvent]
+SpokenText="I know I'm harping on this, but there's definitely something weird goin' on around here. Living out of whatever box you can find, you start to get used to strange noises and things that go bump in the night. But it's the clicking... and the clacking...then the clicking again. Some kinda scampering I tell you! Whatever it is, I don't like it one bit."
+
+[Play_Sea_DestroyRadio_Musings_A AkEvent]
+SpokenText="To my loyal audience, I feel I need to get this out there. There's some rumors going around, bug rumors...and from the sounds of it, maybe I'm not that crazy after all. You're starting to see them too, right? The white things? With the pointy legs? The \"clickity clack\" creepers?""
+
+[Play_Sea_Abduction_Musings_I AkEvent]
+SpokenText="Now that I'm finally gettin' through to some of you out there, maybe introductions are in order. Let's see, a little about myself...great voice, dashing good looks, and a personality to match. You might as well call me \"DJ Total Package\" ... Oh ah, okay, don't call me that, but you get the idea."
+
+[Play_Sea_SabotageTransmitter_Musings_G AkEvent]
+SpokenText="I've never told anybody this, but I actually tried to get in as one of those ADVENT propaganda announcers. It's basically the only job they have for people who have a way with words. They didn't take me of course, didn't pass the psych test. But I mean, what does that have to do with being on the radio?"
+
+[Play_Sea_SabotageTransmitter_Musings_E AkEvent]
+SpokenText="Look, I'm sorry about the trouble, alright? But imagine if you guys couldn't kill aliens anymore, you just couldn't. Someone came and took away your guns, your knives, your pointy sticks. They took away your purpose, the outlet for your talent. That's how I feel when I'm off the air."
+
+[Play_Sea_SabotageTransmitter_Musings_C AkEvent]
+SpokenText="All I ever wanted to do was bring a little joy, a little light to the dark, gloomy lives of the average fringe-dwelling human. I almost did it too, you know? I mean, you enjoyed the show, before you found out it was actually the siren song for a thousand sea devils."
+
+[Play_Sea_SabotageTransmitter_Musings_A AkEvent]
+SpokenText="Believe it or not, that chip transmitter, whatever you called it, that was actually one of the first things I found. I'm not sure why the aliens abandoned it, but it was just sitting there waiting for someone to come along and fire it up. I just had to make a few adjustments."
+
+[Play_Sea_HackRadio_Musings_I AkEvent]
+SpokenText="Okay. Alright, so I admit I might have unleashed a biblical plague on the world, but I was doing my part to help slow things down. We might even stop 'em completely. It's not too late. Look how good you're doing!"
+
+[Play_Sea_Abduction_Musings_G AkEvent]
+SpokenText="The aliens just don't know what they're missing. Seriously, do you hear this voice? This is a voice destined for greatness! Not the voice of some...burger man!  That's right, ADVENT. You made yourself a powerful enemy, 'cause I can talk all night baby!"
+
+[Play_Sea_Abduction_Musings_E AkEvent]
+SpokenText="Speaking of ADVENT Burger, you know they never even gave me a language course during my training? I mean, come on, where's the logic there? How the hell am I supposed to prep orders with some bug-eyed freak barking gibberish at me? And if you think you're getting a legible receipt, you're outta luck."
+
+[Play_Sea_Abduction_Musings_C AkEvent]
+SpokenText="If you're just tuning in, I'm your host with the most, the man with the golden voice that even the aliens couldn't keep down. You see, apparently yours truly just wasn't good enough for their precious ADVENT burger. God forbid a man make himself a little snack in between orders. It's not like they're gonna run out of that slop."
+
+[Play_Sea_Abduction_Musings_A AkEvent]
+SpokenText="I hope everyone is having a great day out there in the occupied territories, don't let ADVENT get ya down. In fact, I would urge all of you to play nice with ADVENT, at least long enough for them to relax a little. After that, do what I do. Steal everything of theirs that ain't bolted down. Ha Ha Ha!"
+
+[Play_Sea_Abduction_Loading_A AkEvent]
+SpokenText="I don't know about you, but from where I'm sittin, things are just looking a little grim out there today, folks. Not sure what it is, I just can't seem to get my juices flowing like they used to. I was all excited to try this old folk remedy I heard about, right up until I realized the secret ingredient was something you had to dig out one of those snake chicks running around out there. Now don't get me wrong, if I thought I could catch one, I would have at least tried."
+
+[Play_Sea_HackRadio_Musings_G AkEvent]
+SpokenText="Time is sort of, of the essence here you could say...the clock is ticking, I just hope I'm remembering the right broadcast time. Sometimes I forget and things start a little late, or a little early...you should probably get there soon just in case."
+
+[Play_Sea_HackRadio_Musings_E AkEvent]
+SpokenText="I can't just give you my password! We hardly even know each other, I've got sensitive data on some of those drives. I'll point you towards the files we're after, you guys can take care of the rest. You're elite, aren't you? Hack the planet?"
+
+[Play_Sea_HackRadio_Musings_C AkEvent]
+SpokenText="It's not that big of a town, you should be on the water before you know it. My boat should still be sitting right there, uh, you know, where I left it, assuming no one found where I hid the keys. I just hope my computer is still there. Remember, you promised not to smash it."
+
+[Play_Sea_HackRadio_Musings_A AkEvent]
+SpokenText="So what you're gonna wanna do here is head up the main drag there, you should see a restaurant on your left...or wait was it a bookstore? Sporting goods maybe? Yeah, you'll see what I'm talkin about. Just up the road there..."
+
+[Play_Sea_GatherDJ_Musings_L AkEvent]
+SpokenText="So we're taking a boat out of here? Well, that's interesting, not my first choice considering those bugs seem to live underwater, but you guys are the super-pro Special Forces alien exterminators, so I'll just follow your lead."
+
+[Play_Sea_GatherDJ_Musings_K AkEvent]
+SpokenText="So did you have a plan before you rolled in here or are we just kinda winging it at this point? I mean, you know, it seems like an escape route of some sort would have been a good thing to have mapped out...you know, for the escape, and all."
+
+[Play_Sea_GatherDJ_Musings_J AkEvent]
+SpokenText="You guys seem pretty tough, you don't need me to do any actual fighting right? Don't get me wrong, I'm a force to be reckoned with, but I kinda pulled my back a little bit keeping the door closed on ADVENT. So I'm sure you can handle this without me, right? No problem?"
+
+[Play_Sea_GatherDJ_Musings_H AkEvent]
+SpokenText="Boy do I owe you all a favor...say, that's some nice gear you've got there. Is that from ADVENT? Haven't seen anything like that...where'd you guys say you were from again? I didn't think anyone was gonna show! I've been broadcasting up in... whoa, is that a...?"
+
+[Play_Sea_GatherDJ_Musings_G AkEvent]
+SpokenText="Remember what I said before about not getting in, well...they're getting in. Ooops. Come on guys, you didn't think I was serious, did you? I mean, you know, I love ADVENT. I used to work for you guys! Let's talk this over. Come on in, have a drink. It's my own urine in a mason jar, but it's a drink nonetheless."
+
+[Play_Sea_GatherDJ_Musings_F AkEvent]
+SpokenText="Ok so I'm definitely gonna need some help, bordering on really, really soon. If anyone is planning on a daring rescue, now would be the ideal time to swoop in and save my ass."
+

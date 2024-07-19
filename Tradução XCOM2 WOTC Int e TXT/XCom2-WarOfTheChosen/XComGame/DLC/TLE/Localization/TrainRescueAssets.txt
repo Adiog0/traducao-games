@@ -1,0 +1,3 @@
+[Archetypes.ARC_TrainJailDoor XComInteractiveLevelActor]
+FriendlyDisplayName="Jail Cell Door"
+

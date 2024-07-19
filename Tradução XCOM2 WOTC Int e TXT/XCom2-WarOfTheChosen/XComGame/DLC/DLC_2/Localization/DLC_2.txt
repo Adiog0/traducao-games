@@ -1,0 +1,55 @@
+[X2Effect_DLC_Day60Freeze]
+FreezeName="Frozen"
+FreezeDesc="Frozen units cannot move or take any actions, and are easier to hit."
+RulerFreezeTickFlyover="Frozen: <Ability:TurnsRemaining/>"
+FreezeEffectAddedString="<XGParam:StrValue0/!UnitName/> is Frozen."
+FreezeEffectPersistsString="<XGParam:StrValue0/!UnitName/> is still Frozen."
+FreezeEffectRemovedString="<XGParam:StrValue0/!UnitName/> is no longer Frozen."
+FreezeLostFlyover="Thawed"
+LargeUnitFreezeLostFlyover="Thawed: Lost One Action Point"
+
+
+;-----------------------
+; UI
+;-----------------------
+
+[UIAlert_DLC_Day60]
+m_strHunterWeaponsAvailableTitle="Weapons of the Hunt"
+m_strHunterWeaponsAvailableLabel="NEW EQUIPMENT DISCOVERED"
+m_strHunterWeaponsAvailableBody="Commander, the unique weapons we discovered in the cargo hold of the crashed Skyranger can now be equipped by our soldiers."
+m_strHunterWeaponsAvailableGoToArmory="EQUIP NEW WEAPONS"
+
+m_strHunterWeaponsPOIAvailableBody="Commander, our long range scanners just picked up an emergency locator beacon transmitting on a frequency we haven't used since the invasion. It may be a long shot, but it's possible someone could have survived out there. We should investigate as soon possible."
+m_strAlienNestPOIAvailableBody="Commander, we successfully triangulated the position of Big Sky's origin point. We're picking up a weak transmission on an open channel in the area,  and it sounds like a lot like Dr. Vahlen.  If there's any chance she's still alive we need to get to the site immediately!"
+
+m_strRulerGuardingFacilityTitle="Powerful Alien Guarding Facility"
+m_strRulerGuardingFacilityLabel="DANGEROUS ENEMY DETECTED"
+m_strRulerGuardingFacilityImage="img:///UILibrary_XPACK_StrategyImages.Alert_Dangerous_Enemy_Detected"
+m_strRulerGuardingFacilityBody="Commander, we've received intel that a powerful, extremely dangerous alien is guarding a nearby ADVENT facility. We should approach with extreme caution."
+
+[UIMission_AlienNest]
+m_strFlavorText="We've triangulated the crashed Skyranger's original point of departure; Energy readings in the area are spotty, but there are definitely signs of life down there."
+m_strLaunchMission="INVESTIGATE"
+
+;-----------------------
+; NARRATIVE CONTENT
+;-----------------------
+
+[X2DownloadableContentInfo_DLC_Day60]
+NarrativeContentLabel="Alien Hunters: \"The Nest\""
+NarrativeContentSummary="This mission introduces the story of the Alien Hunters content. All gameplay content (including weapons, armors, and new enemies) will still be enabled without this mission."
+
+PartContentLabel="Alien Hunters"
+PartContentSummary="Adjust the likelyhood that new soldiers will appear with Alien Hunters customization options"
+
+EnableContentLabel="Enable Alien Hunters Gameplay?"
+EnableContentSummary="Alien Hunters adds challenging new enemies to missions, along with powerful new weapons, armor, and items for XCOM. Do you want to enable the Alien Hunters gameplay content for this campaign?\n\nNew soldier customization options are automatically enabled.\n\nThe full narrative context for the Alien Hunters gameplay content, including an exciting new story mission, can be experienced by starting a new campaign."
+EnableContentAcceptLabel="Enable Alien Hunters"
+EnableContentCancelLabel="Cancel"
+
+m_strRulerPresentOnMission="An extremely powerful and dangerous alien is guarding this location!"
+
+[XComGameState_AlienRulerManager]
+NestCentralFirstName="John"
+NestCentralLastName="Bradford"
+NestCentralNickName="Central"

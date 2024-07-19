@@ -1,0 +1,28 @@
+[KevlarArmor_DLC_Day0 X2ArmorTemplate]
+FriendlyName="Resistance Warrior Kevlar Armor"
+BriefSummary="This basic armor consists of improvised protection cobbled together from salvage and Resistance arms caches. It provides minimal protection against ADVENT weaponry, and is virtually worthless against aliens' weapons."
+TacticalText="<Bullet/> All soldiers receive Kevlar armor as part of their basic kit.\n<Bullet/> Research can give us access to better armor; this will help tremendously in battle."
+
+[DLC_0_Hat_A_FloppyBoonie_M X2BodyPartTemplate]
+DisplayName="Floppy Bonnie"
+[DLC_0_Hat_A_FloppyBoonie_F X2BodyPartTemplate]
+DisplayName="Floppy Bonnie"
+[DLC_0_Hood_A_Simple_M X2BodyPartTemplate]
+DisplayName="Long Hood"
+[DLC_0_Hood_A_Simple_F X2BodyPartTemplate]
+DisplayName="Long Hood"
+[DLC_0_Hood_B_SkiMask_M X2BodyPartTemplate]
+DisplayName="Ski Mask"
+[DLC_0_Hood_B_SkiMask_F X2BodyPartTemplate]
+DisplayName="Ski Mask"
+
+[Facepaint_BLANK X2BodyPartTemplate]
+DisplayName="None"
+[Facepaint_Arid X2BodyPartTemplate]
+DisplayName="Arid"
+[Facepaint_Eyeblack X2BodyPartTemplate]
+DisplayName="Eye Black"
+[Facepaint_SharpShooter X2BodyPartTemplate]
+DisplayName="Sharpshooter"
+[Facepaint_Skull X2BodyPartTemplate]
+DisplayName="Skull"

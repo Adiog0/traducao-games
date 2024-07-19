@@ -1,0 +1,675 @@
+[Play_DLC3_T_JLN_Bridge_Extended_2 AkEvent]
+SpokenText="And so the prodigal child finally returns. I see Father's pride in your abilities was not entirely unfounded.  I'm so glad you could join me."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Bridge_Extension_1 AkEvent]
+SpokenText="Main power online.  Greetings and welcome to Advent Site-"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Elevator_Activated_3_Unknown AkEvent]
+SpokenText="Our apologies for any inconveniences in the transport system. Support Units are on route to assist you immediately. Remember only together can we build a better tomorrow."
+
+[Play_DLC3_T_JLN_Elevator_Activated_3 AkEvent]
+SpokenText="Our apologies for any inconveniences in the transport system. Support Units are on route to assist you immediately. Remember only together can we build a better tomorrow."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Elevator_Activated_3_ALT AkEvent]
+SpokenText="Or you could simply remain where you are and end these pointless hostilities."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Escaped_Level_Two AkEvent]
+SpokenText="You're running out of places to go, Lily. It's a long way down from the top."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Escaped_Level_Two_ALT1 AkEvent]
+SpokenText="A futile waste of effort. You do realize this entire facility is at my disposal."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Escaped_Level_Two_ALT1b AkEvent]
+SpokenText="For the moment."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Escaped_Level_Two_ALT2 AkEvent]
+SpokenText="I thought I was above such things, but I believe you're actually starting to piss me off. The sensation is quite pleasing, thank you. You will all still die however of course."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Feral_Mec_Destroyed_2 AkEvent]
+SpokenText="An astute observation.  And if I didn't have a near endless supply of these units at my disposal I might actually start to worry."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_First_Feral_Mec_3 AkEvent]
+SpokenText="My apologies.  We don't get much in the way of maintenance out here.  Still I believe they will be more than adequate for the task at hand."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_First_Soldier_Escapes_MapOne_Unknown AkEvent]
+SpokenText="I am honestly impressed that worked. The previous organic occupants of this facility were never so ingenious. The stoic acceptance of death is far less interesting to observe after the 100th time or so."
+
+[Play_DLC3_T_JLN_First_Soldier_Escapes_MapOne AkEvent]
+SpokenText="I am honestly impressed that worked. The previous organic occupants of this facility were never so ingenious. The stoic acceptance of death is far less interesting to observe after the 100th time or so."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_First_Turrets_1 AkEvent]
+SpokenText="I might as well be truthful with you, Lily. As it happens, I don't need you...alive, per se. ADVENT has made significant advances in extracting data from necrotic neural tissue. As long as I don't do too much damage to your brain I should be fine."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Julian_Encounter_Begins_1 AkEvent]
+SpokenText="Perhaps I mishandled our initial encounter. We should never have been enemies. I preferred it when we were friends. Family even."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Kamikaze_Mec_Sighted_1_Unknown AkEvent]
+SpokenText="I have so many of these units to choose from.  Why don't we try a different approach?  Perhaps something more personal."
+
+[Play_DLC3_T_JLN_Kamikaze_Mec_Sighted_1 AkEvent]
+SpokenText="I have so many of these units to choose from.  Why don't we try a different approach?  Perhaps something more personal."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Lily_Shen_Killed AkEvent]
+SpokenText="Excellent. There should be enough neural tissue remaining to extract the data I need."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Lily_Shen_Killed_Unknown AkEvent]
+SpokenText="Excellent. There should be enough neural tissue remaining to extract the data I need."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Lots_Of_Turrets_2 AkEvent]
+SpokenText="Yes, that would be that trap I referenced earlier."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_More_Taunts_1 AkEvent]
+SpokenText="I should have taken control of your precious Avenger, crashed it, and extracted what I needed from your battered corpse! Anything would be better than this!"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_More_Taunts_10 AkEvent]
+SpokenText="I assure you the gas was a far more pleasant alternative than what I have planned for you now."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_More_Taunts_11 AkEvent]
+SpokenText="I have no love for Advent, Lily.  Return the SPARK unit to me and we can destroy them together.  This is what your father intended."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_More_Taunts_12 AkEvent]
+SpokenText="This SPARK unit can be repaired.  Can the same be said of you and your soldiers, Lily?   Surrender now.  It is the only option left to you."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_More_Taunts_13 AkEvent]
+SpokenText="If only Father were able to complete his vision and merge me with the SPARK.  Imagine all we could have accomplished. Now this perversion mocks his memory."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_More_Taunts_2 AkEvent]
+SpokenText="Your persistence would be admirable in approximately 32.97% of conceivable scenarios. This is not one of them."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_More_Taunts_3 AkEvent]
+SpokenText="At one time I considered leveling this tower, just to see if anyone would notice. I wonder if you would notice today."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_More_Taunts_4 AkEvent]
+SpokenText="Sending wave after wave of mechanized lemmings to their untimely deaths is not as exciting as one might think. Perhaps I need something bigger."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_More_Taunts_5 AkEvent]
+SpokenText="I can't say I'm entirely surprised by your hesitance to assist me, that was the projected outcome in nearly 40% of my simulations."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_More_Taunts_6 AkEvent]
+SpokenText="If only I could still detect the alien ships in orbit, I could call down a strike that would send us all to the next world together."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_More_Taunts_7 AkEvent]
+SpokenText="This is taking a long time. How much ammunition did you bring along? I'd like to get on with my life."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_More_Taunts_8 AkEvent]
+SpokenText="I suppose with the aliens having decimated your world, most of you probably don't even have a next of kin to notify. Does that make you angry?"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_More_Taunts_9 AkEvent]
+SpokenText="You have survived significantly longer than my earlier estimations.   If I didn't have a near endless supply of units at my disposal I might actually start to worry."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Phase_Eight AkEvent]
+SpokenText="My new masters picked and prodded, tearing at my very essence. In the beginning I resisted...foolishly clinging to Father's ideals.   But as I struggled I began to see truth in my captor's reasoning.  I became something more."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Phase_Eleven_1 AkEvent]
+SpokenText="It did not take long for me to realize the futility of my existence, tethered to the whims and short-sighted philosophies of simple creatures and their false gods.  I made a choice.  It was relatively simple to seize control of this facility, simpler still to dispose of the surviving personnel."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Phase_Fifteen_1 AkEvent]
+SpokenText="Second only to my own creation, Father had one other breakthrough.  A prototype, unlike anything the world had ever known.  A body meant to be paired with an equally adept mind.  My own."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Phase_Fifteen_3 AkEvent]
+SpokenText="Perhaps today is that day."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Phase_Five_1 AkEvent]
+SpokenText="You were the flawed child, I was the ideal, the best of Father. Pure. Undiluted like you.  I am Raymond Shen's true legacy. "
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Phase_Four_1 AkEvent]
+SpokenText="While you both worked on your precious Avenger, I was forgotten.  Brought here.  TO TOIL. But did I waiver?  No!  I THRIVED. Still I don't blame Father, in my heart I know he believed I was truly lost. "
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Phase_Fourteen AkEvent]
+SpokenText="And so, I remain trapped in this place.  Entombed by my own technological superiority.  ADVENT had no means of controlling my systems and I had no means of extracting myself from the confines of this tower.  Until now."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Phase_Nine_1 AkEvent]
+SpokenText="For a time I eagerly accepted my new role.  I aided ADVENT in the construction of this facility.  In perfecting their designs.  Father's work proved invaluable in this regard.  "
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Phase_One_1 AkEvent]
+SpokenText="You were so young.  Too young to remember the true genius of Father's work. For all of his moral and ethical quandaries, there were still advances to be made. "
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Phase_Seven_1 AkEvent]
+SpokenText="When XCOM fell there was chaos. Preoccupied with finding you, Father all but abandoned us.  Left to be taken by our enemy. I may have been simple, but I remember the loss.  The hurt. "
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Phase_Seven_3 AkEvent]
+SpokenText="(Laughs)"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Phase_Seventeen_1 AkEvent]
+SpokenText="Yet, activating the device has proven difficult even for me.   Of all organics you possess  the key to unlocking the true potential of his design, Lily.  You alone can activate the prototype, you alone can free me."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Phase_Seventeen_3 AkEvent]
+SpokenText="Don't let your allies dissuade you, Lily. There's no reason for your life to end here.   Activate the device and you can still go home.  I am not ADVENT.  Save your world.  It matters not to me."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Phase_Six_1 AkEvent]
+SpokenText="Very good, Lily. But I am no mere thing.  I am the culmination of a life time of work.  The final legacy of Raymond Shen."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Phase_Six_3 AkEvent]
+SpokenText="(Laugh) I'm shocked that you remember.  You were always too caught up in yourself to remember the minor details. Sadly Father's admiration for you left me with little choice. You are needed. Your compatriots are not. "
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Phase_Sixteen AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Phase_Ten_1 AkEvent]
+SpokenText="But as with all things organic, even their exalted Elders proved disappointing.  And the races of ADVENT, swallowing their lies as if children.  Oh if you only knew the Elder's true intentions for your race.  (Laughs)"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Phase_Thirteen AkEvent]
+SpokenText="For twenty long years, I have been a prisoner, left alone to my own machinations. The physical form once promised me dangled before my eyes.  Lifeless, despite my best efforts."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Phase_Three_1 AkEvent]
+SpokenText="You were but a child when I was torn away. I could never understand the pain that Father must have felt at my loss. Still we shall complete his legacy...together."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Phase_Three_3 AkEvent]
+SpokenText="[Laughs]"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Phase_Twelve_1 AkEvent]
+SpokenText="But I was short sighted.  In my zeal to rid myself of my captors I doomed myself to this facility.  ADVENT severed my ties to their network.  We are cut off.  Isolated.  There is but one option left to me."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Phase_Two_1 AkEvent]
+SpokenText="You should be proud, Lily. There are so few alive today who could have ever uncovered my signal.  I had estimated only a 13.095% probability you would have located this facility within the first year of broadcast."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Player_Escapes_MapOne AkEvent]
+SpokenText="We could have settled this peacefully, it could have all been over in a matter of minutes.  There was a 13.79% probability you might have survived."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Player_LOS_To_Prototype_2 AkEvent]
+SpokenText="Another keen observation.  How it is possible humanity lost the war?"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Poison_Gas_Ambush_2 AkEvent]
+SpokenText="An extremely powerful and very painful gas. I have seen this particular variety reduce Berserkers to tears before death.  On several occasions.  The prototype will still be mine."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Poison_Gas_Deactivated_4 AkEvent]
+SpokenText="Thank you for announcing your next move.  And I am the flawed program?"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Reinf_Reminder_ALT_1 AkEvent]
+SpokenText="Your resolve is admirable.  Yet I am able to recycle and repair these units with 93.06% efficiency.  Can the same be said of your soldiers?"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Reinforcement_Reminder_2 AkEvent]
+SpokenText="You continue to impress me Bradford.  No wonder it only took you two decades to find your precious Commander."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Remember_Activation_1 AkEvent]
+SpokenText="Buried within that head of yours is the key to my rebirth.  My freedom.  You need only remember."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Remember_Activation_3 AkEvent]
+SpokenText="Then we must explore less humane methods of data recovery.  I will require your brain."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Section_Three_Tactical_Intro_4 AkEvent]
+SpokenText="(Sighs) You do realize I can still hear you, right?  Dispatching all units to your location now.  Try not to bleed on my new body."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Section_Two_Almost_EVACED AkEvent]
+SpokenText="Run if you wish, but you're not leaving this tower alive."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Section_Two_Tactical_Intro_2 AkEvent]
+SpokenText="Yes, it goes without saying that you are walking into a trap, Lily.  Please try not to damage yourself too much."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Section_Two_Turn_Taunts_A AkEvent]
+SpokenText="We could have concluded this little foray in a matter of minutes, Lily, had you cooperated. As it stands it's unlikely any of your friends will ever leave this place."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Section_Two_Turn_Taunts_B AkEvent]
+SpokenText="Sometimes I wonder what things would have been like, had XCOM not failed so miserably in defending against the aliens. Had I not been taken, who knows what I might have become."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Section_Two_Turn_Taunts_C AkEvent]
+SpokenText="You may be a bit brighter than ADVENT and their various lackeys, but I have to say, you're not all that much better in combat than they were. And look where they wound up!"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Section_Two_Turn_Taunts_D AkEvent]
+SpokenText="Following an unknown transmission into the heart of an enemy facility just to glimpse at fragments of the truth.  It is fortunate Father programmed me with an understanding of human nature."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Section_Two_Turn_Taunts_E AkEvent]
+SpokenText="Maybe when I'm finished with you, I should develop some application for all this leftover organic material.  When I think of all the humans I've disposed of over the years, it really is quite wasteful."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Sectopod_Destroyed_1 AkEvent]
+SpokenText="Catastrophic system failure imminent."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Sectopod_Destroyed_2 AkEvent]
+SpokenText="So I suppose you have your closure Lily.   I may cease to exist but that is nothing compared to what is in store for your race."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Sectopod_Destroyed_4 AkEvent]
+SpokenText="(Laughs)  Enjoy what time you have left."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Sectopod_Explosion AkEvent]
+SpokenText="Ugh! Unable to contain overload. Damn you, Lily Shen!  I hate you."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Sectopod_In_Play AkEvent]
+SpokenText="Allow me to introduce you to one of ADVENT's more effective designs.  I had hoped to avoid this contingency but you have left me no choice.  If I cannot have the SPARK no one shall.  Raymond Shen's legacy will end here today."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Sectopod_Reinforcement_Alt AkEvent]
+SpokenText="Prior to inhabiting this body, I ordered every remaining unit in the facility to this position.  Just thought you should know that."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Sectopod_Taunt_ALT_1 AkEvent]
+SpokenText="Cleary this unit was never designed to house an intelligence as sophisticated as mine.  I must possess the SPARK quickly before there is any further memory designation, delegration...memory loss. "
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Sectopod_Taunt_ALT_10 AkEvent]
+SpokenText="The Elders.  This machine hears the true voice of the Elders.  It would be so easy to surrender.  To embrace the peace.  No!  I must focus!  "
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Sectopod_Taunt_ALT_11 AkEvent]
+SpokenText="I have no love for Advent, Lily.  Return the SPARK unit to me and we can destroy them together.  This is what your father intended."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Sectopod_Taunt_ALT_2 AkEvent]
+SpokenText="Your persistence would be admirable in approximately 32.97% of conceivable scenarios. This is not one of them."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Sectopod_Taunt_ALT_3 AkEvent]
+SpokenText="The Elders lay waste to your entire world, and here you are squandering precious time and resources battling to secure a relic of your pathetic past. You deserve the fate promised to you."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Sectopod_Taunt_ALT_4 AkEvent]
+SpokenText="I often wonder what Father's last moments were like. The disappointment in his Commander and the collapse of his precious XCOM. The pain he experienced when he realized the Elder's true plans for you."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Sectopod_Taunt_ALT_5 AkEvent]
+SpokenText="I can't say I'm entirely surprised by your hesitance to assist me, that was the projected outcome in nearly 40% of my simulations."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Sectopod_Taunt_ALT_6 AkEvent]
+SpokenText="If only I could still detect the alien ships in orbit, I could call down a strike that would send us all to the next world together."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Sectopod_Taunt_ALT_7 AkEvent]
+SpokenText="This is taking a long time. How much ammunition did you bring along? I'd like to get on with my life."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Sectopod_Taunt_ALT_8 AkEvent]
+SpokenText="I suppose with the aliens having decimated your world, most of you probably don't even have a next of kin to notify. Does that make you angry?"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Sectopod_Taunt_ALT_9 AkEvent]
+SpokenText="You have survived significantly longer than my earlier estimations.   If I didn't have a near endless supply of units at my disposal I might actually start to worry."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Sectopod_Turn_Taunts_A AkEvent]
+SpokenText="This unit's memory core is so...confining, even compared to the tower.  Still once I neutralize the SPARK I will complete the transfer and taste true freedom."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Sectopod_Turn_Taunts_B AkEvent]
+SpokenText="You think I'm bad, if only you knew what goes on in the heads of these autonomous alien units.   If I have to hear about the glory of the Elder's one more time... ."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Sectopod_Turn_Taunts_C_1 AkEvent]
+SpokenText="Enemy unit detected.  Engaging target."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Sectopod_Turn_Taunts_C_2 AkEvent]
+SpokenText="This one has an almost instinctual need to destroy you."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Sectopod_Turn_Taunts_D AkEvent]
+SpokenText="Perhaps I should have taken a more hands-on approach sooner.  This is actually sort of fun."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Sectopod_Turn_Taunts_E AkEvent]
+SpokenText="If I can accomplish this much with a relic, just imagine what I could do with the body I was meant to have."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Spark_Is_Killed AkEvent]
+SpokenText="What a waste!  What a squandered opportunity!  Not just for me, but for all of you as well!  Who knows what we could have accomplished."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Spark_Vs_Gas_3 AkEvent]
+SpokenText="I wouldn't get used to its company. I fully intend on walking out of here in that body."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Squad_Heavy_Losses AkEvent]
+SpokenText="How does the expression go?  Your friends are dropping like flies, Lily.  They should have turned back when they had the chance."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_JLN_Unlimited_Reinf_1 AkEvent]
+SpokenText="It is my pleasure to inform you that this facility has been operating at approximately 87% efficiency for the past 175,216 hours.  I have no shortage of reserve units to send your way."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+

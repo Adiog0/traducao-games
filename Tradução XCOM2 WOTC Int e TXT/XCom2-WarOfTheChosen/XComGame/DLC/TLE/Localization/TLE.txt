@@ -1,0 +1,4 @@
+[X2DownloadableContentInfo_DLC_TLE]
+
+PartContentLabel="Tactical Legacy Pack"
+PartContentSummary="Adjust the likelihood that new soldiers will appear with Tactical Legacy Pack customization options."

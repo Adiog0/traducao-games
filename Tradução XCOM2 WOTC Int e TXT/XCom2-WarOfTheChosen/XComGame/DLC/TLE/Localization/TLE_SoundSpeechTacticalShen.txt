@@ -1,0 +1,468 @@
+[Play_Avenger_Firestorm_Wilderness_AreaClear AkEvent]
+SpokenText="There wasn't anyone left protecting the ship. We just had to get what we came for."
+
+[Play_Avenger_Firestorm_Wilderness_Failure_A AkEvent]
+SpokenText="I know for a fact we got this old bird in the air. Clearly something's wrong here."
+
+[Play_Avenger_ADVENTChest_Intro AkEvent]
+SpokenText="Hm. Scans detect at least one ADVENT supply cache in the area. I've alerted the squad to keep their eyes peeled. If I can decode and scan the contents, I might be able to 3D print the materiel inside once we get back to base. You know, if we don't get killed first."
+
+[Play_Avenger_ADVENTChest_Alert_E AkEvent]
+SpokenText="I'm going to need the squad to be on the lookout for an ADVENT supply cache. Who knows what we might be able to recover from it?"
+
+[Play_Avenger_ADVENTChest_Alert_D AkEvent]
+SpokenText="Goody - got a ping on an ADVENT supply cache."
+
+[Play_Avenger_ADVENTChest_Alert_C AkEvent]
+SpokenText="Not sure where it is precisely, but scans are picking up an ADVENT supply cache in the area. Better get to it before the enemy does."
+
+[Play_Avenger_Interceptor_Wildnerss_Loading_A AkEvent]
+SpokenText="I'm not sure it was intentional, but Shen left a bunch of her old audio logs open on the network. I don't think she'd mind if we listened to a few of 'em... but let's hurry up just in case."
+
+[Play_Lazarus_RescueVehicle_CannonSighted AkEvent]
+SpokenText="The power source they're using to charge that gun is different than anything I've ever seen. We could be looking at the very latest and greatest in ADVENT tech-it's almost a shame to blow it up."
+
+[Play_Lazarus_RescueSweater_ChamberSighted_ALT AkEvent]
+SpokenText="Whatever the hell the aliens have in that thing its readings aren't like anything I've seen before!  It's almost as if it's reacting to our presence, like it knows we're here!"
+
+[Play_Lazarus_RescueShen_ShenSighted_ALT AkEvent]
+SpokenText="I was wondering when you'd show up...get me the hell out of here, John!"
+
+[Play_Lazarus_RescueShen_ShenSighted AkEvent]
+SpokenText="I was wondering when you'd show up... get me the hell out of here, Central!"
+
+[Play_Avenger_SmallScout_Slums_TotalVictory_B AkEvent]
+SpokenText="The aliens put up a good fight, but they were no match for us today.  I'm eager to get this data back to the workshop..."
+
+[Play_Avenger_SmallScout_Slums_TotalVictory_A AkEvent]
+SpokenText="We successfully recovered the data with no losses.  It's almost like I'm getting the hang of this."
+
+[Play_Avenger_SmallScout_Slums_Summary AkEvent]
+SpokenText="After a few attempts, I managed to access the scout's memory core.  Unfortunately, the device activated some sort of self-destruct function.  I know it's late, but I'm pretty sure I heard it scream during the process.  Thankfully, I was able to recover a few files which I'm decoding now. And the scans I took of the scout's engines will help with the reconfiguration of the Avenger, not to mention helping to solve a few problems with Rover...I mean my prototype autonomous support unit."
+
+[Play_Avenger_SmallScout_Slums_PartialVictory_B AkEvent]
+SpokenText="This op wasn't perfect, but we got the data we needed.  It damned well better be worth it."
+
+[Play_Avenger_SmallScout_Slums_PartialVictory_A AkEvent]
+SpokenText="We lost good people today. I just hope this data was worth the sacrifice."
+
+[Play_Avenger_SmallScout_Slums_ObjDestroyed AkEvent]
+SpokenText="Destroying that memory core wasn't part of the plan."
+
+[Play_Avenger_SmallScout_Slums_Musings_F AkEvent]
+SpokenText="The key is the Scout's data core.  If I can successfully hack the system, we may finally learn what the aliens were looking for here.  That is if it's still operational.  And ADVENT doesn't make it there first."
+
+[Play_Avenger_SmallScout_Slums_Musings_E AkEvent]
+SpokenText="This scout wasn't looking for us, it was scanning these people.  ADVENT already won the war, what more could they possibly want from us?"
+
+[Play_Avenger_SmallScout_Slums_Musings_D AkEvent]
+SpokenText="Ever since we boosted our communications capability, I've been hearing an unending stream of ADVENT propaganda beckoning people to the new city centers. The promise of a life of comfort, the future, here, now.  I don't see any of that in this place.  These people are suffering."
+
+[Play_Avenger_SmallScout_Slums_Musings_C AkEvent]
+SpokenText="Based on my initial scans, these scout craft aren't manned ships, more like some sort of autonomous recon combat drones. The design is very similar to the Gremlin prototype I've been trying to create for our soldiers, just on a much larger scale. And theirs seem a little more reliable."
+
+[Play_Avenger_SmallScout_Slums_Musings_B AkEvent]
+SpokenText="For all its sophistication and power, the alien's tech is actually very intuitive. When I think of all the lost time Dad and I spent trying to play catch up instead of just learning from them.  I'm not saying Vahlen was right, but there has to be a middle ground- if we want to win this war."
+
+[Play_Avenger_SmallScout_Slums_Musings_A AkEvent]
+SpokenText="This scout may be outdated by ADVENT standards, but I know they'll throw whatever they can our way to prevent us from reaching it.  It's easy for us to think their technology is light years beyond our understanding, but in truth it's not.  And I think they know it too."
+
+[Play_Avenger_SmallScout_Slums_LootSelect AkEvent]
+SpokenText="I always manage to find a little something extra on these excursions. How do you think I'm able to resupply our troops so fast?"
+
+[Play_Avenger_SmallScout_Slums_Loading AkEvent]
+SpokenText="Chief Engineer's log. Day 142.  Thanks to our new \"friend\" Masha we got a lead on another crashed ship, this time an alien scout craft.  After my success in integrating the AI system, I'm hoping there may be some more useful code in its data core...which is why I volunteered to lead the operation myself. I'd love to elaborate here, but I need to hurry, I have a mission to prep."
+
+[Play_Avenger_SmallScout_Slums_Intro AkEvent]
+SpokenText="Chief's log, supplemental: One additional detail I forgot to mention. Masha discovered the location of the crashed scout via a hacked transmission. An ADVENT transmission.  We're gonna have company on this one for sure."
+
+[Play_Avenger_SmallScout_Slums_Failure_B AkEvent]
+SpokenText="Sorry, this log file was corrupted.  There was definitely a different ending to this entry."
+
+[Play_Avenger_SmallScout_Slums_Failure_A AkEvent]
+SpokenText="The latest update to the operating system must have crashed the logs again.  Let's reboot."
+
+[Play_Avenger_SmallScout_Slums_DeviceSighted AkEvent]
+SpokenText="That was the memory core. I just had to hope it didn't have any hidden security measures."
+
+[Play_Avenger_SmallScout_Shanty_TotalVictory_B AkEvent]
+SpokenText="My team and I made it through intact - along with the copy of the alien nav system. We may just get this ship airborne yet."
+
+[Play_Avenger_SmallScout_Shanty_TotalVictory_A AkEvent]
+SpokenText="We successfully cloned the AI and everyone made it home in one piece.  Two miracles in one day.  What more can I ask for?"
+
+[Play_Avenger_SmallScout_Shanty_TerminalSighted AkEvent]
+SpokenText="Somehow I expected the terminal to be different, but no, standard alien stuff."
+
+[Play_Avenger_SmallScout_Shanty_TerminalDestroyed AkEvent]
+SpokenText="Without that terminal, there was no chance of getting a copy of those systems."
+
+[Play_Avenger_SmallScout_Shanty_Summary AkEvent]
+SpokenText="The mission was a success, though Central nearly threw me in the brig when I told him the truth.  Oddly enough it was Tygan that finally talked some sense into him.  Central actually gave us the greenlight to go ahead with the AI modifications.  Who knows? Maybe I misjudged him.  Maybe I misjudged both of them."
+
+[Play_Avenger_SmallScout_Shanty_PartialVictory_B AkEvent]
+SpokenText="We... suffered losses. I need to tell myself that it was worth it. That their sacrifice was essential in getting the Avenger airborne again."
+
+[Play_Avenger_SmallScout_Shanty_PartialVictory_A AkEvent]
+SpokenText="The AI was cloned successfully but there was a heavy cost. I know it was worth it.  I hope Central will understand one day too."
+
+[Play_Avenger_SmallScout_Shanty_ObjComplete AkEvent]
+SpokenText="I confirmed a successful cloning of the ship's systems. Now we just had to get past the remaining aliens."
+
+[Play_Avenger_SmallScout_Shanty_NagNoTurns AkEvent]
+SpokenText="It was too late now. The aliens would definitely have isolated the ship's AI from all access points."
+
+[Play_Avenger_SmallScout_Shanty_Nag3Turns AkEvent]
+SpokenText="We had a pretty short window to operate. We had to move quick."
+
+[Play_Avenger_SmallScout_Shanty_Nag1Turn AkEvent]
+SpokenText="We were really pushing our luck. We had no time to spare."
+
+[Play_Avenger_SmallScout_Shanty_Musings_F AkEvent]
+SpokenText="Cloning this AI means going against everything my father stood for.  It means going behind the back of my commanding officer, probably the best man I know. But this is war.  And we're not gonna win this one without paying a heavy price. Funny, Central said those exact words to me the day we buried Dad."
+
+[Play_Avenger_SmallScout_Shanty_Musings_E AkEvent]
+SpokenText="With Central, it's different.  It's not fear or distrust of the aliens, just pure hatred. He blames the aliens for all he's -we've lost... and who can blame him? But his anger has made him short sighted.  I just hope he sees reason when I tell him what I'm really doing here.  And that his pistol is well out of reach."
+
+[Play_Avenger_SmallScout_Shanty_Musings_D AkEvent]
+SpokenText="I don't think Dad was as much afraid of the alien's genetic manipulations as he was our willingness to follow down their path. He once told me the scariest thing he ever saw was the look in Dr. Vahlen's eyes the first time she performed an autopsy on one of them. He often wondered what work she would have produced if the Commander hadn't been keeping her in check. I hope we never find out."
+
+[Play_Avenger_SmallScout_Shanty_Musings_C AkEvent]
+SpokenText="If there's one thing dad and Central have in common, it's their distrust of anything alien.  I'm still amazed Central let Tygan on the ship.  Still, if he's open to using Tygan's knowledge against ADVENT, I don't see why I can't do the same with their tech.  Granted, Tygan's not a lab grown hybrid supercomputer comprised of the DNA of at least 9 alien species, but then again, can we be sure?"
+
+[Play_Avenger_SmallScout_Shanty_Musings_B AkEvent]
+SpokenText="Rebuilding a vat-bred operating system from scratch is beyond me... for now. But my theory is that I can duplicate some of the networks using fiber optics on the Avenger. Still I'd need to brush up on my alien neurobiology first. Or talk to Tygan.  Maybe I should just let Central kill me now instead."
+
+[Play_Avenger_SmallScout_Shanty_Musings_A AkEvent]
+SpokenText="Calling this system artificial intelligence is a bit of a misnomer.  This thing's just as much organic as it is artificial.  The nav system alone has more in common with the nervous system of an octopus than a computer. And as for tactical, well...it's very aggressive. Almost lost an eye the last time I tried to interface with one of those things."
+
+[Play_Avenger_SmallScout_Shanty_LootSelect AkEvent]
+SpokenText="I tried to grab whatever I could along the way. We needed to be especially thrifty when it came to making the most of the available resources."
+
+[Play_Avenger_SmallScout_Shanty_Loading AkEvent]
+SpokenText="Chief Engineer's Log. Day 100. This is big.  Real big. A recon drone just ID'd a crashed alien scout. That's right, alien scout.  The AI on those things is beyond state of the art.  It also happens to be the same system that originally piloted the Avenger.  If I could clone the system, bring it back here, and modify it, I could get the main computer back online.  Just before Central kills me for trying something so reckless and stupid."
+
+[Play_Avenger_SmallScout_Shanty_Intro AkEvent]
+SpokenText="We're under orders from Central to get to the scout, salvage any useful alien tech we can find, and get the hell out.  Fast.  His words obviously.  Potentially evil alien AI operating systems fall within that description so, hey, I'm still following orders, right?"
+
+[Play_Avenger_SmallScout_Shanty_Failure_B AkEvent]
+SpokenText="I need to run a full diagnostic on the log system.  This mission definitely did not play out this way."
+
+[Play_Avenger_SmallScout_Shanty_Failure_A AkEvent]
+SpokenText="If anyone was gonna kill me on this op, it would have been Central.  Pretty sure that didn't happen."
+
+[Play_Avenger_SmallScout_Shanty_AreaClear AkEvent]
+SpokenText="There was no one left defending the ship. We just had to get close enough to clone the AI."
+
+[Play_Avenger_Skyranger_Wildnerss_TotalVictory_B AkEvent]
+SpokenText="We managed to scan the assembly and a few other key parts without a single loss.  The grunt of approval from Central made it all worthwhile."
+
+[Play_Avenger_ADVENTChest_Alert_B AkEvent]
+SpokenText="Note to self: looks like there might be some ADVENT goodies squirreled away in a supply cache. According to my scans, it's nearby."
+
+[Play_Avenger_Skyranger_Wildnerss_TotalVictory_A AkEvent]
+SpokenText="Got the assembly scanned and we all made it out alive.  Maybe I am getting the hang of this."
+
+[Play_Avenger_Skyranger_Wildnerss_Summary AkEvent]
+SpokenText="Calling my system a 3D printer is probably an oversimplification, but that's pretty much what it is. Of course mine doesn't just print, it also assembles complex mechanisms, within reason anyway. Like I said before, Central had all kinds of bright ideas to keep me busy once we found out about it."
+
+[Play_Avenger_Skyranger_Wildnerss_PartialVictory_B AkEvent]
+SpokenText="That drive assembly may be the key to our future. I have to keep telling myself that at the memorial service today."
+
+[Play_Avenger_Skyranger_Wildnerss_PartialVictory_A AkEvent]
+SpokenText="We got the rotor assembly scan - but there was a cost.  Maybe I'm not the leader Central thinks I am."
+
+[Play_Avenger_Skyranger_Wildnerss_ObjSighted AkEvent]
+SpokenText="That was the Skyranger alright, overgrown but otherwise fairly intact."
+
+[Play_Avenger_Skyranger_Wildnerss_ObjDestgroyed AkEvent]
+SpokenText="We couldn't afford to lose that rotor assembly. I had pinned a lot of hope on it."
+
+[Play_Avenger_Skyranger_Wildnerss_ObjAcquired AkEvent]
+SpokenText="We got the rotor assembly scanned, but we still had to clear out a few aliens standing in our way."
+
+[Play_Avenger_Skyranger_Wildnerss_Musings_F AkEvent]
+SpokenText="According to Central, this was supposed to be a simple \"snatch and grab\".  If he thinks this is easy, I can't imagine what he and the Commander went through in the war. I tried to ask him about it once, but he just gave me some macho BS answer and walked away.  After losing Dad, I guess I can see why."
+
+[Play_Avenger_Skyranger_Wildnerss_Musings_E AkEvent]
+SpokenText="Preliminary scans show that the drive assembly survived the crash intact.  That's the good news.  They also showed that enemy forces are closing in on our position.  When I told the squad, they shrugged it off and \"acknowledged.\"  I know they're willing to sacrifice themselves for this- my mission. But can I give their lives away so easily? Hopefully it won't come to that."
+
+[Play_Avenger_Skyranger_Wildnerss_Musings_D AkEvent]
+SpokenText="Got a lot of questions from the squad about my plans for the Avenger on the way here.  \"My\" plans?  How about, survive this mission and not get you all killed? Then I'll worry about the ship."
+
+[Play_Avenger_Skyranger_Wildnerss_Musings_C AkEvent]
+SpokenText="I know Central is eager to get a \"bird\" in the air, but I'm here for a different reason. If that drive assembly's in one piece, it may be the key to getting the Avenger's engines turning again. Haven't told Central yet, didn't want to get his hopes up.  Or mine, maybe."
+
+[Play_Avenger_Skyranger_Wildnerss_Musings_B AkEvent]
+SpokenText="At the time, the Skyranger's design was considered risky. It broke every record in the book without losing a single pilot. That was before the aliens arrived. They set a new standard, both for speed...and casualties."
+
+[Play_Avenger_Skyranger_Wildnerss_Musings_A AkEvent]
+SpokenText="I don't think I've ever actually seen a pre-war Skyranger up close. These days we've been trying to cobble them together from whatever parts we can find. I remember Dad showing me his drawings of the initial prototype. He was so proud of the design. We have to get that assembly."
+
+[Play_Avenger_Skyranger_Wildnerss_LootSelect AkEvent]
+SpokenText="Spent the morning looking over the drive assembly scan. It was beat up, but close enough for our purposes.  We're one step closer to getting this ship off the ground.  Only about another thousand left to go..."
+
+[Play_Avenger_Skyranger_Wildnerss_Loading AkEvent]
+SpokenText="Chief Engineer's log. Day 12.  It's been almost two weeks since my last mission, and it looks like I may be called up again soon.  After crawling around the drive shaft tubes for the last five days, I'm actually thrilled at the change of scenery...not to mention the smell.  We've zeroed in on a crashed skyranger, pre-war.  The drive assembly on those things...well, it could be the answer to my prayers.  That is, if it survived the crash.  And if I manage to get a clear scan of it without us all being captured, or turned into Muton chow. Is it strange that I'm starting to feel excited about all this? Then again, I am covered in synthetic coolant."
+
+[Play_Avenger_Skyranger_Wildnerss_Intro AkEvent]
+SpokenText="This area has been relatively quiet for years, but Central's picking up intermittent enemy chatter nearby.  Hopefully we can get to the Skyranger nice and easy.  Still, I'd better prepare the squad for a fight.  Suddenly not as excited about this mission as I was before..."
+
+[Play_Avenger_Skyranger_Wildnerss_Failure_B AkEvent]
+SpokenText="If we never got that drive assembly, the Avenger would never have taken off.  Something's clearly wrong here."
+
+[Play_Avenger_Skyranger_Wildnerss_Failure_A AkEvent]
+SpokenText="Clearly some of the facts are getting lost here.  I know I at least survived."
+
+[Play_Avenger_Skyranger_Wildnerss_AreaClear AkEvent]
+SpokenText="We took care of the aliens near the Skyranger. All we had to do now was scan the rotor assembly."
+
+[Play_Avenger_Skyranger_AbandonedCity_VIPspotted AkEvent]
+SpokenText="That was our black market trader, right where she said she'd be."
+
+[Play_Avenger_Skyranger_AbandonedCity_VIPlinked AkEvent]
+SpokenText="We linked up with Masha. Now we just had to get her out of there."
+
+[Play_Avenger_Skyranger_AbandonedCity_VIPdead AkEvent]
+SpokenText="The resistance needed her alive, even if she was a little shady."
+
+[Play_Avenger_Skyranger_AbandonedCity_TotalVictory_B AkEvent]
+SpokenText="It'll be hard to forget what we saw down there.  Still, the team made it back whole with the device and VIP in tow.  Could've gone another way..."
+
+[Play_Avenger_Skyranger_AbandonedCity_TotalVictory_A AkEvent]
+SpokenText="We retrieved the flight module and our grateful \"VIP\" with no losses.  Lucky for her."
+
+[Play_Avenger_Skyranger_AbandonedCity_Summary AkEvent]
+SpokenText="Well, I wouldn't call this my favorite mission of all time but at least it proved our AI upgrades worked.  Our \"VIP\" was so grateful for her safe return that she started coughing up all sorts of unusual information.  Of course, this might have been after Central casually mentioned he could return her to something called \"Volk\".  He's been with her for a while now...which gives me time to get back to the Avenger."
+
+[Play_Avenger_Skyranger_AbandonedCity_PrimarySecur AkEvent]
+SpokenText="Our new black market friend was safe and sound, and she owed us big time."
+
+[Play_Avenger_Skyranger_AbandonedCity_PartialVictory_B AkEvent]
+SpokenText="With the device secured we returned to base.  Well, not everyone.  It took all I had not to add our \"VIP\" to the casualty list."
+
+[Play_Avenger_Skyranger_AbandonedCity_PartialVictory_A AkEvent]
+SpokenText="We got the device back, but not the way I'd hoped.  Our \"VIP\" had the good sense to stay quiet on the way home."
+
+[Play_Avenger_Skyranger_AbandonedCity_NextVIPLink AkEvent]
+SpokenText="Masha's compatriots seemed a little more grateful than she did."
+
+[Play_Avenger_Skyranger_AbandonedCity_Musings_F AkEvent]
+SpokenText="I can't help but remember Dad's voice.  Telling me to run.  To leave this place and not look back.  I don't think I can do that anymore.  I'll get that device and make it back home.  And then make the aliens regret they ever stepped foot on our world."
+
+[Play_Avenger_Skyranger_AbandonedCity_Musings_E AkEvent]
+SpokenText="Seeing these ruins buried so close under the shadow of the city centers, I think I finally understand why Central is so angry all the time. How easily our hunger caused us to submit to their rule. How quickly we forgot what they did here. For so many of us the war, is already over. The aliens are just playing cleanup."
+
+[Play_Avenger_Skyranger_AbandonedCity_Musings_D AkEvent]
+SpokenText="Still, it's easy to forget these places in my workshop, burying the memories under my work on the Avenger. Maybe I shouldn't be so quick to judge this Masha. Dad and I had it easier than most.  We got out.  Who knows what we would have become if we hadn't?"
+
+[Play_Avenger_Skyranger_AbandonedCity_Musings_C AkEvent]
+SpokenText="I don't know how Central does it sometimes. Trying to negotiate with a bunch of thieves, scavengers, and vultures.  It's hard to discuss terms with someone you know would just as soon give you up for a pound of real sugar."
+
+[Play_Avenger_Skyranger_AbandonedCity_Musings_B AkEvent]
+SpokenText="How any sort of life continues out here is beyond me.  I remember when Dad first got me out of the city.  The sheer devastation...we barely made it.  And then there was what came afterwards.  The pods, the gas.  If half the stories I've heard about these places are true, we'd better complete our mission quickly."
+
+[Play_Avenger_Skyranger_AbandonedCity_Musings_A AkEvent]
+SpokenText="Our \"VIP\" goes by the name of Masha. From all accounts she's got her own underground economy going on here.  Food, fuel, tech.  Picking away at the bones of the old world.  Including ours, it seems."
+
+[Play_Avenger_Skyranger_AbandonedCity_LootSelect AkEvent]
+SpokenText="I might have borrowed a few things from Masha along the way. I'm sure she won't miss them any more than the people she borrowed them from."
+
+[Play_Avenger_Skyranger_AbandonedCity_Loading AkEvent]
+SpokenText="Chief Engineer's log. Day 141 Took a while but we finally got the AI operational!  I have to admit- I couldn't have done it without Tygan.  The man has an uncanny talent for reconfiguring network pathways.  Not to mention scarfing down ADVENT burgers, but don't ask me where he's getting them from.  Just like that our communications relays tripled in efficiency and range.  Just in time to pick up the transmission.  Apparently some sort of black market trader stumbled across one of our lost Skyrangers and is auctioning off parts to the highest bidder. Part of her haul includes a working communications module, meaning whoever gets their hands on it will have direct access to our network.  I intend on making sure that person is us."
+
+[Play_Avenger_Skyranger_AbandonedCity_Intro AkEvent]
+SpokenText="Unfortunately for our trader an ADVENT surveillance drone picked up on her little auction.  ADVENT isn't known for their fair negotiating tactics, so she's on the run.  She's willing to hand over the console for safe passage out of here.  Still can't believe Central agreed to her terms. He must be going soft."
+
+[Play_Avenger_Skyranger_AbandonedCity_FirstVIPLink AkEvent]
+SpokenText="The trader had a couple of friends with her. It didn't feel right to leave them behind."
+
+[Play_Avenger_Skyranger_AbandonedCity_Failure_B AkEvent]
+SpokenText="Maybe I shouldn't record these logs after working a triple shift.  This is clearly not what happened."
+
+[Play_Avenger_Skyranger_AbandonedCity_Failure_A AkEvent]
+SpokenText="If we'd lost that device, the aliens would have the Avenger by now.  Let me try this again."
+
+[Play_Avenger_Skyranger_AbandonedCity_AllVip_EVAC AkEvent]
+SpokenText="We managed to get Masha and her crew out of there alive, but I won't say it was easy."
+
+[Play_Avenger_Interceptor_Wildnerss_TotalVictory_B AkEvent]
+SpokenText="I'm not sure who was more surprised about how well this mission went, me or Central.  He was almost beaming.  Still, wish Dad was around to see it."
+
+[Play_Avenger_ADVENTChest_Alert_A AkEvent]
+SpokenText="Huh. My scanner's picking up an ADVENT supply cache in the area. Should be around here... somewhere..."
+
+[Play_Avenger_Interceptor_Wildnerss_TotalVictory_A AkEvent]
+SpokenText="We made it back to base with scans of the missiles.   No one died.  Central almost seemed proud.  Let's call mission one a success."
+
+[Play_Avenger_Interceptor_Wildnerss_PartialVictory_B AkEvent]
+SpokenText="We got the ordnance scanned, but it cost lives.  Central called the mission a success...if that's true, why do I feel so terrible?"
+
+[Play_Avenger_Interceptor_Wildnerss_PartialVictory_A AkEvent]
+SpokenText="Central warned me that casualties are a reality out in the field.  Losing dad was hard enough, not sure I'm ready to handle losing people under my command."
+
+[Play_Avenger_Interceptor_Wildnerss_Musings_G AkEvent]
+SpokenText="All this effort for one Interceptor. To think...we were supposed to have a whole squadron at one point, chasing down UFOs before they had a chance to hit our cities. I've got to get the Avenger operational. There has to be more than this. We have to be more than this."
+
+[Play_Avenger_Interceptor_Wildnerss_Musings_F AkEvent]
+SpokenText="Getting ahead of myself, aren't I?  Can't get the Avenger up and running if I can't make it through one salvage operation.  Did Dad ever have to go on these? The way people used to look at him, you could see the respect.  Right now I think these soldiers just look at me as another piece of gear they need to protect."
+
+[Play_Avenger_Interceptor_Wildnerss_Musings_E AkEvent]
+SpokenText="I'm not saying Dad was wrong, but modifying humans is one thing, upgrading equipment is another.  The Avenger's shell is already predominantly alien, an old transport ship XCOM managed to dig up in the early days of the war.  If we actually tried to work with their technology instead of against it, maybe the Avenger will actually fly someday."
+
+[Play_Avenger_Interceptor_Wildnerss_Musings_D AkEvent]
+SpokenText="Dad is - was - wary of the aliens' tech. He'd always say it was the ultimate expression of Biomechatronics. It wasn't meant as a compliment. I remember him arguing with Dr. Vahlen night after night.  Despite the advances the alien tech offered us, Dad was determined to keep humans, well... human."
+
+[Play_Avenger_Interceptor_Wildnerss_Musings_C AkEvent]
+SpokenText="The aliens never seemed that interested in adapting any of our technology, but they were definitely protective of their own stuff. I used to think they just didn't want us to have access to it, but maybe it's something else.  Maybe they're afraid of what we might do.  Crazy to say this but I guess they're sort of like dad in that way."
+
+[Play_Avenger_Interceptor_Wildnerss_Musings_B AkEvent]
+SpokenText="Hard to believe we used to consider these Avalanche missiles to be the most advanced ballistic weapons around.  That was back when conventional warfare was a thing. These days they'd be considered \"quaint\" at best compared to what the aliens have.  Still, I'm betting Central will put them to good use.  If we survive this, that is."
+
+[Play_Avenger_Interceptor_Wildnerss_Musings_A AkEvent]
+SpokenText="I'm gonna start keeping these entries for posterity purposes...or just in case I get incinerated into atoms today. Those missiles were volatile before they crash landed in the forest. And then of course there's ADVENT. If we can spot this stuff, so can the aliens."
+
+[Play_Avenger_Interceptor_Wildnerss_LootSelect AkEvent]
+SpokenText="Day one log - supplemental. May not have saved the world on my first mission, but we got the missile scans back to base."
+
+[Play_Avenger_Interceptor_Wildnerss_Loading_B AkEvent]
+SpokenText="Chief Engineer's log, Lily Shen, first entry. It's funny, Dad always used to smile when he said that...some sort of inside joke from the old days, I guess. Well the joke's on me now, isn't it?  He's gone.  And now I have to pick up the pieces. Problem is, I have no idea how they fit back together. Central tried to give me one of his \"pep\" talks today. Right After dad's ceremony. 5 seconds later I had my first mission. Something about scanning some old ordnance our recon drone spotted. Oh, that and getting this entire ship operational. No pressure, right?"
+
+[Play_Avenger_Interceptor_Wildnerss_Loading AkEvent]
+SpokenText="Engineer's log, day one. Make that Chief Engineer, I guess. Central handed me the promotion after Dad's ceremony. First order of business: upgrade the Avalanche missile guidance systems for our tiny pool of Interceptors."
+
+[Play_Avenger_Interceptor_Wildnerss_Intro AkEvent]
+SpokenText="Chief Engineer's log, well, field notes, I suppose.  We're approaching an old interceptor we picked up on a drone flyover. I made the mistake of telling Central about a new 3D replication system I had been working on, and now he wants to blueprint all kinds of stuff.  In this case, it was some old Avalanche missiles we were after."
+
+[Play_Avenger_Interceptor_Wildnerss_Failure_B AkEvent]
+SpokenText="This log must be corrupted.  This is definitely not how things went down."
+
+[Play_Avenger_Interceptor_Wildnerss_Failure_A AkEvent]
+SpokenText="I know it's been a crazy few days, so maybe I'm recalling this wrong.  Should I try again?"
+
+[Play_Avenger_Interceptor_Wildernss_Summary AkEvent]
+SpokenText="Central says we need to win this war one day at a time.  No argument here.  Can't wait to pull those missiles apart and rig up a few surprises for the aliens.  Right after I collapse from exhaustion."
+
+[Play_Avenger_Interceptor_Wildernss_ObjSighted AkEvent]
+SpokenText="That's when I got my first look at the missiles we were after."
+
+[Play_Avenger_Interceptor_Wildernss_ObjDestroyed AkEvent]
+SpokenText="I would have never heard the end of it if we hadn't gotten detailed scans of the missiles."
+
+[Play_Avenger_Interceptor_Wildernss_ObjAcquired AkEvent]
+SpokenText="Once we had the missiles secured, we just had to fight our way out of there."
+
+[Play_Avenger_Interceptor_Wildernss_AreaClear AkEvent]
+SpokenText="We actually managed to clear the area of aliens before we scanned the missiles, so that made things a little easier."
+
+[Play_Avenger_Interceptor_SmallTown_TotalVictory_B AkEvent]
+SpokenText="We got the chair scanned and made it out alive. This could have gone a lot differently.  I won't ever forget that."
+
+[Play_Avenger_Interceptor_SmallTown_TotalVictory_A AkEvent]
+SpokenText="My biggest fear was having to explain how I lost good people covering for my mistake today. Thankfully I don't have to."
+
+[Play_Avenger_Interceptor_SmallTown_Summary AkEvent]
+SpokenText="I caught Central staring at the Commander's chair the other day. I seriously think he might be questioning his sanity over the whole cupholder situation. I honestly hadn't noticed when I put the thing together, but let's just say he was a little unnerved by it."
+
+[Play_Avenger_Interceptor_SmallTown_PartialVictory_B AkEvent]
+SpokenText="Not sure if I can face Central after the losses we took on this mission.  Not sure if I can face myself either."
+
+[Play_Avenger_Interceptor_SmallTown_PartialVictory_A AkEvent]
+SpokenText="We got the chair scanned, but we lost good people doing it.  This- this can never happen again."
+
+[Play_Avenger_Interceptor_SmallTown_ObjSighted AkEvent]
+SpokenText="You don't know how relieved I was to see that chair."
+
+[Play_Avenger_Interceptor_SmallTown_ObjDestroyed AkEvent]
+SpokenText="I needed the chair intact to complete the scan, and this was my only shot at it."
+
+[Play_Avenger_Interceptor_SmallTown_ObjAcquired AkEvent]
+SpokenText="I got the scan I was after, now we just had to clear a path through the aliens."
+
+[Play_Avenger_Interceptor_SmallTown_Musings_F AkEvent]
+SpokenText="No one's said anything to me about it, but I know this is all on me. I am Raymond Shen's kid. I don't get to make these kinds of mistakes. Not anymore.  Not when he's not here to fix them.  I can do better.  I will do better.  Time I earned my spot here."
+
+[Play_Avenger_Interceptor_SmallTown_Musings_E AkEvent]
+SpokenText="What I wouldn't give to see one of these in the sky again.  Given the shortage of parts... and people, I don't see that being a reality anytime soon.  ADVENT owns the skies. We get the Avenger up and running again though, and I promise that will change."
+
+[Play_Avenger_Interceptor_SmallTown_Musings_D AkEvent]
+SpokenText="Back in the day, Dad would have just ordered another pilot seat.  To think we're going through all this for a chair.  A sophisticated chair capable of about 42 trillion calculations a second, but a chair nonetheless."
+
+[Play_Avenger_Interceptor_SmallTown_Musings_C AkEvent]
+SpokenText="When Dad was around, I was just Lily. Now, these people are calling me Chief. It feels like a lot. Hell, it is a lot. At least you're not in Tygan's shoes, Lily... gonna be a while before anyone can trust a former ADVENT brain doctor. Myself included."
+
+[Play_Avenger_Interceptor_SmallTown_Musings_B AkEvent]
+SpokenText="I thought I'd be doing this op on my own.  Amazingly I had more than enough volunteers before I made it out the door.  I can only assume it's out of respect for the Commander.  You don't think they came out here for my sake, do you?"
+
+[Play_Avenger_Interceptor_SmallTown_Musings_A AkEvent]
+SpokenText="It's a good thing this Interceptor showed up on the scans when it did. After the malfunction...I wasn't sure how I'd explain the missing chair to Central.  He's been dead set on having it ready for when the Commander returns. At first I thought he was being sentimental, but now I'm not so sure.  You don't think...?"
+
+[Play_Avenger_Interceptor_SmallTown_LootSelect AkEvent]
+SpokenText="I got the seat scanned and assembled the replacement, good as new, possibly better.  The bridge crew and staff never seemed to notice, though I did hear Central say something about the cup holder somehow getting moved to the wrong side."
+
+[Play_Avenger_Interceptor_SmallTown_Loading AkEvent]
+SpokenText="Chief Engineer's log. Day 67. Have to put my Avenger work on hold today for a quick scanning job on another crashed Interceptor. Central's been giving me more freedom to run these ops lately, which is a good thing.  Not sure how'd he'd feel about me running off to scan an old pilot seat though.  Thankfully, he's on his own mission now and not around to pass judgement...or notice what happened to his command seat.  Exactly how it got jettisoned or by whom are details we don't need to dwell on."
+
+[Play_Avenger_Interceptor_SmallTown_Intro AkEvent]
+SpokenText="Enemy activity in the area was light but our luck couldn't hold out forever.  We detected an enemy presence between us and the Interceptor.  We'll have to keep our eyes sharp if we want to achieve the objective and get out of here in one piece.  I think I just channeled my inner Central..."
+
+[Play_Avenger_Interceptor_SmallTown_Failure_B AkEvent]
+SpokenText="That's not what happened at all. This...something's wrong here."
+
+[Play_Avenger_Interceptor_SmallTown_Failure_A AkEvent]
+SpokenText="I planned the operation perfectly. That it'd turn out like this... doesn't make any sense."
+
+[Play_Avenger_Interceptor_SmallTown_AreaClear AkEvent]
+SpokenText="With the aliens taken care of, I just had to move and scan the chair so we could leave."
+
+[Play_Avenger_Firestorm_Wilderness_TotalVictory_B AkEvent]
+SpokenText="We got the stabilizer and made it home in one piece. Dad, we're getting the Avenger off the ground soon. I promise."
+
+[Play_Avenger_Firestorm_Wilderness_TotalVictory_A AkEvent]
+SpokenText="The aliens threw everything they had at us but we pulled it off.  It's almost like they know what's coming."
+
+[Play_Avenger_Firestorm_Wilderness_PartialVictory_B AkEvent]
+SpokenText="The Avenger will fly again - and every casualty we suffered today will be paid back in full."
+
+[Play_Avenger_Firestorm_Wilderness_PartialVictory_A AkEvent]
+SpokenText="Today's casualties weren't in vain.  The Avenger will fly again."
+
+[Play_Avenger_Firestorm_Wilderness_Outro AkEvent]
+SpokenText="Chief Engineer's log - supplemental. Those power stabilizer scans worked like a charm.  Not sure what was brighter, the pulse of the reactor core or the glow on Tygan's face when we first turned it on. We're so close now to making Dad's...our dream a reality.  There's a big op underway, don't have all the details, but if the rumors are true, it could change everything.  It means hitting ADVENT directly at the heart of their largest City Center.  It's gonna be risky, \"reckless\" as Dad used to say, but if the past year has taught me anything, it's that there's nothing we...nothing I can't handle.  End log."
+
+[Play_Avenger_Firestorm_Wilderness_ObjSpotted AkEvent]
+SpokenText="As far as I could tell the power stabilizer was still in good condition."
+
+[Play_Avenger_Firestorm_Wilderness_ObjDestroyed AkEvent]
+SpokenText="That stabilizer wasn't gonna do us any good like that."
+
+[Play_Avenger_Firestorm_Wilderness_ObjAcquired AkEvent]
+SpokenText="We had the stabilizer scanned. All we had to do now was fight our way out."
+
+[Play_Avenger_Firestorm_Wilderness_Musings_F AkEvent]
+SpokenText="If Dad could see me now.  Leading a field team, charging through the heart of an alien ship to salvage their tech.   Not sure he'd approve.  But I think he'd understand."
+
+[Play_Avenger_Firestorm_Wilderness_Musings_E AkEvent]
+SpokenText="The Avenger may have started off as a dream but it's getting ever closer to a reality.  She may not look the way Dad initially envisioned, but she'll fly.  I guarantee it."
+
+[Play_Avenger_Firestorm_Wilderness_Musings_D AkEvent]
+SpokenText="Not that this is all a bad thing.  Our own Avenger is based off this design.  I'll bet she'd be invisible if we could ever get her in the sky.  We need that power stabilizer."
+
+[Play_Avenger_Firestorm_Wilderness_Musings_C AkEvent]
+SpokenText="Imagine a freight train that can move virtually undetected in the sky.  That's what we have here.  The aliens' ability to move material and troops during the war was overwhelming.  These ships are a big reason why."
+
+[Play_Avenger_Firestorm_Wilderness_Musings_B AkEvent]
+SpokenText="The weapons systems on these ships weren't advanced compared to other alien fighters.  Probably why we were actually able to shoot a few out of the sky.  Too bad, I'd love to get my hands on a plasma cannon or two today."
+
+[Play_Avenger_Firestorm_Wilderness_Musings_A AkEvent]
+SpokenText="A Delta class transport vessel. What the old vets used to call a \"UFO\". For a time, we thought this was the worst the aliens would throw at us.  We were wrong."
+
+[Play_Avenger_Firestorm_Wilderness_Loading AkEvent]
+SpokenText="Chief Engineer's log. Day 145. Took a few days, but I managed to decode the data I recovered from the scout.  The damned thing's AI managed to destroy anything pertaining to its civilian scans...but I did manage to recover the location of a crashed ADVENT transport ship a few sectors away.  Those ships run on the same power supply as the Avenger.  If there's a functioning stabilization unit in the wreckage, we can finally turn on the reactor core....without blowing up the entire ship. The impact of this is (CRASHING NOISE and MECHANICAL WHIR).  Hold on...Rover, no! End log."
+
+[Play_Avenger_Firestorm_Wilderness_Intro AkEvent]
+SpokenText="We're on approach to the crashed alien transport ship in hopes of recovering a functioning power stabilization unit.  ADVENT ships seem to communicate on some sort of internal network, so we have to assume they have the same intel we do.  Still, we have a job to do, no matter the cost."
+
+[Play_Avenger_Firestorm_Wilderness_Failure_B AkEvent]
+SpokenText="We acquired the stabilizer and ultimately got the Avenger in the air again.  The aliens did not prevail...unless we're trapped in some sort of alternate time-line."
+

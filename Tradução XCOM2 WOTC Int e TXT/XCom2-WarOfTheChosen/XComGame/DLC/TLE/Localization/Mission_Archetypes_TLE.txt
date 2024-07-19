@@ -1,0 +1,27 @@
+[AvengerAssemble.ARC_IA_MissilePallet XComInteractiveLevelActor]
+FriendlyDisplayName="Avalanche Missile"
+
+[AvengerAssemble.ARC_IA_OperatorManual XComInteractiveLevelActor]
+FriendlyDisplayName="UFO Central Data Core"
+
+[AvengerAssemble.ARC_IA_PilotSeat XComInteractiveLevelActor]
+FriendlyDisplayName="Interceptor Pilot Seat"
+
+[AvengerAssemble.ARC_IA_RotorMechanism XComInteractiveLevelActor]
+FriendlyDisplayName="Skyranger Rotor Mechanism"
+
+[AvengerAssemble.ARC_IA_SignalInterceptDevice_TLE XComInteractiveLevelActor]
+FriendlyDisplayName=""
+
+[AvengerAssemble.ARC_IA_UFOComputer XComInteractiveLevelActor]
+FriendlyDisplayName="Alien Navigation System"
+
+[ItCameFromTheSea.ARC_IA_Destroy_WaterfrontRadio XComInteractiveLevelActor]
+FriendlyDisplayName=""
+
+[ItCameFromTheSea.ARC_IA_WaterfrontRadio XComInteractiveLevelActor]
+FriendlyDisplayName="Maritime Pirate Radio"
+
+[TheLazarusProject.ARC_IA_LazarusTube XComInteractiveLevelActor]
+FriendlyDisplayName="Stasis Tube"
+

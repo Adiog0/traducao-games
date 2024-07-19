@@ -1,0 +1,644 @@
+;Localization add-in for day 60 DLC 
+
+;Mission related strings
+;-----------------------
+[MissionSource_AlienNest X2MissionSourceTemplate]
+MissionPinLabel="Alien Nest"
+BattleOpName="Operation Regal Beast"
+
+[DerelictFacility X2MissionSiteDescriptionTemplate]
+DescriptionString="Abandoned Research Facility"
+
+[AlienNest X2MissionTemplate]
+DisplayName="Investigate the Signal"
+Briefing="Investigation - Unknown Site"
+PostMissionType="Alien Nest"
+BriefingImage="img:///UILibrary_DLC2Images.Alert_Alien_NestPOI"
+ObjectiveTextPools[0]="Investigate Vahlen's Signal"
+PreMissionNarratives[0]="DLC_60_NarrativeMoments.DLC2_S_Dropship_Mission_Briefing"
+
+[DefaultAlienNest X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Investigate Vahlen's Camp"
+ObjectiveTextPools[1]="Recover Vahlen's Logs"
+ObjectiveTextPools[2]="Locate Vahlen's Transponder"
+ObjectiveTextPools[3]="Optional: Kill the Viper King"
+ObjectiveTextPools[4]="Central Must Survive"
+ObjectiveTextPools[5]="Neutralize All Remaining Vipers"
+
+;-----------------------
+; GEOSCAPE
+;-----------------------
+
+[POI_HunterWeapons X2PointOfInterestTemplate]
+DisplayNames[0]="Locator Beacon"
+
+CompletedSummaries[0]="Among the wreckage of a weathered Skyranger, the bodies of several young soldiers remain strapped to their seats. There's no sign of the pilot, but the emergency locator beacon chimes incessantly from the cockpit. In the cargo hold, a large crate bearing a faded XCOM insignia contains several unusual weapons."  
+
+POIImages[0]="img:///UILibrary_DLC2Images.Alert_Downed_Skyranger"
+
+[POI_AlienNest X2PointOfInterestTemplate]
+DisplayNames[0]="Triangulated Position"
+
+CompletedSummaries[0]="Having triangulated the Skyranger's original position and followed its trail, we come across a rocky alcove littered with debris. From above, there's little evidence of what went on here."
+
+POIImages[0]="img:///UILibrary_DLC2Images.Alert_Alien_Nest"
+
+
+;-----------------------
+; REWARDS
+;-----------------------
+
+[Reward_HunterWeapons X2RewardTemplate]
+DisplayName="Recovered Cargo"
+
+[Reward_AlienNest X2RewardTemplate]
+DisplayName="Investigation Mission"
+
+[ResAct_AlienNestInvestigated X2ResistanceActivityTemplate]
+DisplayName="Alien Nest Investigated:"
+
+[ResAct_AlienRulersKilled X2ResistanceActivityTemplate]
+DisplayName="Alien Rulers Killed:"
+
+
+;-----------------------
+; ITEMS
+;-----------------------
+
+[CorpseViperKing X2ItemTemplate]
+FriendlyName="Viper King Corpse"
+FriendlyNamePlural="Viper King Corpses"
+BriefSummary="Among the host of genetic modifications undertaken by Dr. Vahlen while experimenting on this creature, the outright change in gender is perhaps the most glaring. There is also the question of the ice it seems to produce in place of venom." 
+
+[CorpseBerserkerQueen X2ItemTemplate]
+FriendlyName="Berserker Queen Corpse"
+FriendlyNamePlural="Berserker Queen Corpses"
+BriefSummary="This behemoth has not only been genetically modified, but also given substantially altered equipment tied directly to its central nervous system. Extreme care should be taken when attempting to disconnect any of the embedded systems."
+
+[CorpseArchonKing X2ItemTemplate]
+FriendlyName="Archon King Corpse"
+FriendlyNamePlural="Archon King Corpses"
+BriefSummary="Of all of Vahlen's test subjects, the modified Archon variant bears the most striking resemblance to its precursor species. As we all know, looks can be deceiving, and this creature is not to be underestimated even in death."
+
+
+;-----------------------
+; TECHS
+;-----------------------
+[AutopsyViperKing X2TechTemplate]
+DisplayName="Viper King Autopsy"
+Summary="Although clearly reminiscent of the known Viper species we encounter with some regularity, this specimen is unique for a number of reasons, not the least of which is its gender, this being the only male Viper ever reported. It may be possible to repurpose some facet of its biology for use in our own armor development programs."
+CodeName="Scorpion"
+LongDescription="Having carefully studied what remains of Dr. Vahlen's personal research reports, I've slowly come to understand the depths of her intellectual curiosity and the degree to which she was consumed by her ambition. By reversing key changes to the Viper's genetic structure, traits intentionally suppressed by the aliens, she created this, subject \"Gamma\" - the Viper \"King.\"\n\nThe idea of a Viper patriarch is in itself intriguing, considering there have been no previous sightings of any male members of the species. Vahlen theorized this may have been an intentional form of population control, the Elders' having restricted their subordinate species ability to breed. Having seen the apparent nesting site created by Gamma and the discovery of egg clutches (none of which were left viable for sampling), I can say with some confidence that creature did immediately set out to pursue the natural instincts that had long since been restrained through genetic tampering.\n\nAs of yet I have no explanation as to how the Viper's venom glands were effected in such a way as to change their form and function so dramatically; further study will be necessary, but I've promised to allow some of Gamma's remains to be utilized towards a new conceptual armor design. R. Tygan." 
+
+[AutopsyBerserkerQueen X2TechTemplate]
+DisplayName="Berserker Queen Autopsy"
+Summary="As if the standard Berserker wasn't enough for our troops to deal with, this particular specimen has been substantially modified with some form of auxiliary injection system circulating fluids throughout its body. I believe it may be possible to modify these systems for use in an armor suit of our own, but the fabrication process could a challenge." 
+CodeName="Hulk"
+LongDescription="Despite a thorough examination of the modified Berserker variant known as subject \"Beta,\" I've yet to uncover any meaningful justification for the enhanced equipment provided by Dr. Vahlen to the creature as it relates to her own research. Let me be clear, I fully understand the creature's enhanced endocrine system requires the addition of this supplementary transport and filtering mechanism to maintain hormonal equilibrium. As well, I admit it is a reasonably elegant solution to an otherwise daunting question.\n\nWhat I cannot understand is, why it was necessary for Dr. Vahlen to take this relative certainty beyond the theoretical stage. There was no need for a \"proof of concept\" here, the end result was no doubt as clear to her then as it is to me now. I firmly believe she made a conscious decision to see her work through to the end, knowing full well the risks not only to herself but to everyone else who might encounter subject Beta in the future. I am thankful we found the creature when we did, and that our forces were capable of neutralizing such a formidable enemy.\n\nThe senior staff has agreed that the remains of Beta would best be utilized as part of an enhanced armor suit, although the actual conversion process sounds like something that would have been better handled by Dr. Vahlen herself. R. Tygan."  
+
+[AutopsyArchonKing X2TechTemplate]
+DisplayName="Archon King Autopsy"
+Summary="Dr. Vahlen managed to improve on this creature's key systems while somehow maintaining the no-doubt carefully crafted appearance conceived by the aliens. Although apparently similar to the standard Archon variant, as seen in the field this specimen has advanced flight capabilities beyond anything we've previously encountered. It may be possible to adapt this technology into a flight-capable suit of our own." 
+CodeName="Daedalus"
+LongDescription="The modified Archon variant known to Dr. Vahlen as \"Alpha\" has not only been genetically altered, but also upgraded accordingly with equipment directly tied to its unusual abilities. Again I have to question the logic in providing enhanced offensive capabilities to an otherwise hostile alien species, even if Vahlen had intended on turning these creatures against their former masters.\n\nAlthough I had little exposure to the rudimentary biomechanical predecessors to the modern Archon, I can say with certainty that Vahlen's Alpha is no doubt the most physically and technologically advanced of any of the aliens' earlier renditions of this species. From our field reports, it seems the creature had a terrifying propensity to seize upon its target before rapidly climbing in altitude and then dropping the helpless victim. I believe our troops have done a great service in eliminating this particular threat. R. Tygan." 
+
+[RAGESuit X2TechTemplate]
+DisplayName="R.A.G.E. Suit"
+Summary="It may be possible to retrofit the exceptionally durable skin of the Berserker Queen into a high-powered body suit." 
+
+[SerpentSuit X2TechTemplate]
+DisplayName="Serpent Suit"
+Summary="The scales of the Viper King are surprisingly lightweight and flexible, and should provide substantial resistance once reinforced."
+
+[IcarusArmor X2TechTemplate]
+DisplayName="Icarus Armor"
+Summary="After careful examination of the deceased Archon King, it is feasible to construct a set of armor which incorporates his unique jet propulsion systems."
+
+[ExperimentalWeapons X2TechTemplate]
+DisplayName="Experimental Weapons"
+Summary="We've recovered a number of weapons from the field that are deceptively archaic in design, but conceal uniquely powerful attributes that will require extensive study to understand."
+CodeName="Methuselah"
+LongDescription="Our troops discovered several weapons that would appear to be anything but useful in our fight against the aliens, but evidence from unofficial field trials revealed various strange capabilities that defy clear explanation. Despite their insistence, and some degree of ridicule at my expense, I have repeatedly tried to explain to our troops and the senior staff that even though these weapons may look simple, reproducing them is not nearly as easy as assembling the component materials. As it stands, I will likely resist further efforts to try and replicate them unless the circumstances of our campaign against the aliens changes. I am a scientist, not a blacksmith or a bowyer. -R. Tygan."
+
+[BoltCaster X2TechTemplate]
+DisplayName="Bolt Caster"
+Summary="Discovered among a cache of seemingly archaic weaponry, the Bolt Caster is deceptively powerful but limited by a slow rate of fire. Targeted enemies have a chance of being stunned on impact. This weapon is unique, and cannot be duplicated or replaced."
+
+[HuntersAxe X2TechTemplate]
+DisplayName="Hunter's Axe"
+Summary="Honed to an incredible degree, these ornately crafted throwing axes are compact enough for our soldiers to engage with from long range. These weapons are unique, and cannot be duplicated or replaced."
+
+[Shadowkeeper X2TechTemplate]
+DisplayName="Shadowkeeper"
+Summary="Although it may appear old-fashioned compared to our latest designs, this pistol is remarkably accurate, ensuring that even the most inexperienced of our soldiers will strike their intended target. There's also a chance they could kill the target and escape undetected. This weapon is unique, and cannot be duplicated or replaced."
+
+[Frostbomb X2TechTemplate]
+DisplayName="Frost Bomb"
+Summary="Relying on an as-of-yet unidentified chemical agent, these hand-held explosives seem capable of instantaneously reducing the ambient temperature of the surrounding area. Exposed tissue will be frozen on contact. This weapon is unique, and cannot be duplicated or replaced."
+
+;-----------------------
+; ALIEN RULER ARMORS
+;-----------------------
+[MediumAlienArmor X2ArmorTemplate]
+FriendlyName="Icarus Armor"
+FriendlyNamePlural="Icarus Armors"
+BriefSummary="The flight components recovered from the Archon King, when combined with our standard-issue armor systems, result in an armored suit with high damage resistance and improved mobility. The built-in propulsion system allows temporary flight, enabling the wearer to rapidly change locations."
+TacticalText="<Bullet/> Icarus Armor is a medium-class armor, providing two inventory item slots and increased mobility.\n<Bullet/> The Icarus Armor allows a soldier to instantly leap to a new location.\n<Bullet/> Wearing this armor has a chance to panic Archons encountered in combat."
+
+[LightAlienArmor X2ArmorTemplate]
+FriendlyName="Serpent Suit"
+FriendlyNamePlural="Serpent Suits"
+BriefSummary="Constructed from the lightweight and exceptionally durable scales of the Viper King, the Serpent Suit greatly enhances our soldiers' reflexes and speed. It also features a grapple mechanism infused with the Viper King's frigid venom, which can be used to pull enemies out of cover and freeze them in place."
+TacticalText="<Bullet/> The Serpent Suit adds mobility and an increased chance of taking grazing shots instead of outright hits.\n<Bullet/> The Serpent Suit has a wrist-mounted grapple, which can be used for traversal or to pull enemy units out of cover.\n<Bullet/> Wearing this armor has a chance to panic Vipers encountered in combat."
+
+[LightAlienArmorMk2 X2ArmorTemplate]
+FriendlyName="Serpent Armor"
+FriendlyNamePlural="Serpent Armors"
+BriefSummary="An enhanced version of the Serpent Suit reinforced with Elerium, this armor maintains all of its predecessor's capabilities while further boosting the survivability, speed, and reflexes of the wearer."
+TacticalText="<Bullet/> Serpent Armor adds mobility and an increased chance of taking grazing shots instead of outright hits.\n<Bullet/> Serpent Armor has a wrist-mounted grapple, which can be used for traversal or to pull enemy units out of cover.\n<Bullet/> Wearing this armor has a chance to panic Vipers encountered in combat."
+
+[HeavyAlienArmor X2ArmorTemplate]
+FriendlyName="R.A.G.E. Suit"
+FriendlyNamePlural="R.A.G.E. Suits"
+BriefSummary="The nearly impenetrable skin of the Berserker Queen functions superbly as a body suit, granting incredible protection, damage resistance, and mobility. The R.A.G.E Suit also features a mechanism to rapidly spike the adrenaline of the wearer, enabling them to rush enemies for powerful melee attacks."
+TacticalText="<Bullet/> The R.A.G.E. Suit is a heavy-class armor, granting increased mobility and allowing a soldier to mount a heavy weapon.\n<Bullet/> The R.A.G.E Suit allows to wearer to charge enemies and inflict brutal melee damage.\n<Bullet/> Wearing this armor has a chance to panic Mutons and Berserkers encountered in combat."
+
+[HeavyAlienArmorMk2 X2ArmorTemplate]
+FriendlyName="R.A.G.E. Armor"
+FriendlyNamePlural="R.A.G.E. Armors"
+BriefSummary="By injecting the R.A.G.E. Suit with additional Elerium, its protective qualities are improved while retaining its inherent mobility and potential for devastating melee assaults."
+TacticalText="<Bullet/> R.A.G.E. Armor is a heavy-class armor, granting increased mobility and allowing a soldier to mount a heavy weapon.\n<Bullet/> R.A.G.E Armor allows to wearer to charge enemies and inflict brutal melee damage.\n<Bullet/> Wearing this armor has a chance to panic Mutons and Berserkers encountered in combat."
+
+[FreezingLash X2AbilityTemplate]
+LocFriendlyName="Frostbite"
+LocLongDescription="Lash a target with your grapple, freezing them in place. ADVENT humanoid targets may also be pulled out of cover."
+LocHelpText="Freeze an enemy in place. ADVENT humanoid targets may also be pulled out of cover."
+LocFlyOverText="Frostbite"
+LocMissMessage="Frostbite Missed!"
+
+[RagePanic X2AbilityTemplate]
+LocFriendlyName="Rage Panic"
+LocLongDescription="Mutons and Berserkers have a chance to panic when they see this armor."
+LocHelpText="Mutons and Berserkers have a chance to panic when they see this armor."
+LocFlyOverText="R.A.G.E. Suit: Panic"
+
+[Ragestrike X2AbilityTemplate]
+LocFriendlyName="Rage Strike"
+LocLongDescription="Attack any enemy within movement range with a devastating melee assault."
+LocHelpText="Attack an enemy within movement range with a devastating melee assault."
+
+[IcarusPanic X2AbilityTemplate]
+LocFriendlyName="Icarus Panic"
+LocLongDescription="Archons have a chance to panic when they see this armor."
+LocHelpText="Archons have a chance to panic when they see this armor."
+LocFlyOverText="Icarus Armor: Panic"
+
+[IcarusJump X2AbilityTemplate]
+LocFriendlyName="Icarus Jump"
+LocLongDescription="The propulsion jets built into the Icarus Armor allow a soldier to instantly launch themselves to a new position."
+LocHelpText="Jump to a new location. Bypasses all overwatch and reaction fire."
+LocFlyOverText="Icarus Jump"
+
+[SerpentPanic X2AbilityTemplate]
+LocFriendlyName="Serpent Panic"
+LocLongDescription="Vipers have a chance to panic when they see this armor."
+LocHelpText="Vipers have a chance to panic when they see this armor."
+LocFlyOverText="Serpent Suit: Panic"
+
+[VaultAbility X2AbilityTemplate]
+LocFriendlyName="Vault"
+LocLongDescription="Jump to the top of ledges and structures, instead of climbing."
+LocHelpText="Jump to the top of ledges and structures, instead of climbing."
+LocFlyOverText="Vault"
+
+[VaultAbilityPassive X2AbilityTemplate]
+LocFriendlyName="Vault"
+LocLongDescription="Jump to the top of ledges and structures, instead of climbing."
+LocHelpText="Jump to the top of ledges and structures, instead of climbing."
+LocFlyOverText="Vault"
+
+;-----------------------
+; ALIEN HUNTER WEAPONS
+;-----------------------
+[AlienHunterRifle_CV X2WeaponTemplate]
+FriendlyName="Bolt Caster"
+FriendlyNamePlural="Bolt Casters"
+BriefSummary="Discovered among a cache of seemingly archaic weaponry, the Bolt Caster is deceptively powerful but limited by a slow rate of fire. Targeted enemies have a chance of being stunned on impact. This weapon is unique, and cannot be duplicated or replaced."
+TacticalText="<Bullet/> The Bolt Caster's precision makes it more powerful than a standard Assault Rifle.\n<Bullet/> Each attack has a chance to stun the target, and cannot be dodged.\n<Bullet/> Genetically-empowered aliens are highly susceptible to being stunned.\n<Bullet/> Launches a single, high-damage projectile, but must be reloaded after each use."
+AbilityDescName="bolt caster"
+
+[AlienHunterRifle_MG X2WeaponTemplate]
+FriendlyName="Magnetic Bolt Caster"
+FriendlyNamePlural="Magnetic Bolt Casters"
+BriefSummary="By modifying the armature and permanently affixing a series of magnets along its stock, we were able to substantially increase the damage output of the traditional Bolt Caster through electromagnetic propulsion."
+TacticalText="<Bullet/> The addition of a magnetic coil increases the damage of each individual bolt.\n<Bullet/> Each attack has a chance to stun the target, and cannot be dodged.\n<Bullet/> Genetically-empowered aliens are highly susceptible to being stunned.\n<Bullet/> Launches a single, high-damage projectile, but must be reloaded after each use."
+AbilityDescName="magnetic bolt caster"
+
+[AlienHunterRifle_BM X2WeaponTemplate]
+FriendlyName="Plasma Bolt Caster"
+FriendlyNamePlural="Plasma Bolt Casters"
+BriefSummary="The introduction of a miniturized Elerium power cell allows the Bolt Caster to generate electromagnetically focused bursts of Plasma with each bolt fired."
+TacticalText="<Bullet/> An Elerium-enhanced launcher makes this the deadliest version of the Bolt Caster.\n<Bullet/> Each attack has a chance to stun the target, and cannot be dodged.\n<Bullet/> Genetically-empowered aliens are highly susceptible to being stunned.\n<Bullet/> Launches a single, high-damage projectile, but must be reloaded after each use."
+AbilityDescName="plasma bolt caster"
+
+[AlienHunterPistol_CV X2WeaponTemplate]
+FriendlyName="Shadowkeeper"
+FriendlyNamePlural="Shadowkeepers"
+BriefSummary="Although it may appear old-fashioned compared to our latest designs, this pistol is remarkably accurate, ensuring that even the most inexperienced of our soldiers will strike their intended target. There's also a chance they could kill the target and escape undetected. This weapon is unique, and cannot be duplicated or replaced."
+TacticalText="<Bullet/> Shadowkeeper deals similar damage to a standard pistol, but has improved aim and chance to critical hit.\n<Bullet/> Unlike the sniper rifle, pistols can be fired with a single action.\n<Bullet/> Kills made with the \"Shadowfall\" ability instantly conceal the unit."
+AbilityDescName="shadowkeeper"
+
+[AlienHunterPistol_MG X2WeaponTemplate]
+FriendlyName="Enhanced Shadowkeeper"
+FriendlyNamePlural="Enhanced Shadowkeepers"
+BriefSummary="Careful refinements to the internal firing mechanism of the basic Shadowkeeper allowed for the addition of a simple magnetic launch system enhancing overall firepower."
+TacticalText="<Bullet/> Enhanced Shadowkeeper matches the effectiveness of a Mag Pistol, but has improved aim and chance to critical hit.\n<Bullet/> Unlike the sniper rifle, pistols can be fired with a single action.\n<Bullet/> Kills made with the \"Shadowfall\" ability instantly conceal the unit."
+AbilityDescName="shadowkeeper"
+
+[AlienHunterPistol_BM X2WeaponTemplate]
+FriendlyName="Powered Shadowkeeper"
+FriendlyNamePlural="Powered Shadowkeepers"
+BriefSummary="Although still reliant on a traditional projectile, our various enhancements to the Shadowkeeper have culminated in this immensively powerful sidearm." 
+TacticalText="<Bullet/> Powered Shadowkeeper's strength is comparable to a Beam Pistol, but has improved aim and chance to critical hit.\n<Bullet/> Unlike the sniper rifle, pistols can be fired with a single action.\n<Bullet/> Kills made with the \"Shadowfall\" ability instantly conceal the unit."
+AbilityDescName="shadowkeeper"
+
+[AlienHunterAxe_CV X2PairedWeaponTemplate]
+FriendlyName="Hunter's Axe"
+FriendlyNamePlural="Hunter's Axe"
+BriefSummary="Honed to an incredible degree, these ornately crafted throwing axes are compact enough for our soldiers to engage with from long range. These weapons are unique, and cannot be duplicated or replaced."
+TacticalText="<Bullet/> Carrying two axes provides Rangers with the same melee abilities as a traditional Sword.\n<Bullet/> One axe can be thrown from range for an instant burst of damage."
+AbilityDescName="axe"
+
+[AlienHunterAxe_MG X2PairedWeaponTemplate]
+FriendlyName="Ionic Axe"
+FriendlyNamePlural="Ionic Axe"
+BriefSummary="Using our expertise in working with the alien alloys, we've managed to further hone the Hunter's Axe into an incredibly dangerous melee weapon."
+TacticalText="<Bullet/> These axes are sharpened to a razor-thin edge and tempered to incredible durability, increasing their potential damage and adding a chance to stun enemy targets.\n<Bullet/> One axe can be thrown from range for an instant burst of damage."
+AbilityDescName="axe"
+
+[AlienHunterAxe_BM X2PairedWeaponTemplate]
+FriendlyName="Fusion Axe"
+FriendlyNamePlural="Fusion Axe"
+BriefSummary="The addition of small powercells embedded within the Axe handles provides a powerful electrical jolt capable of igniting enemy targets."
+TacticalText="<Bullet/> A volatile electric current runs through each blade, providing increased damage and a chance to burn enemy targets.\n<Bullet/> One axe can be thrown from range for an instant burst of damage."
+AbilityDescName="axe"
+
+[AlienHunterAxeThrown_CV X2WeaponTemplate]
+FriendlyName="Hunter's Axe"
+FriendlyNamePlural="Hunter's Axe"
+BriefSummary="Honed to an incredible degree, these ornately crafted throwing axes are compact enough for our soldiers to engage with from long range. These weapons are unique, and cannot be duplicated or replaced."
+TacticalText="<Bullet/> Carrying two axes provides Rangers with the same melee abilities as a traditional Sword.\n<Bullet/> One axe can be thrown from range for an instant burst of damage."
+AbilityDescName="axe"
+
+[AlienHunterAxeThrown_MG X2WeaponTemplate]
+FriendlyName="Ionic Axe"
+FriendlyNamePlural="Ionic Axe"
+BriefSummary="Tier 2 Upgrade for Hunter's Axe"
+TacticalText="<Bullet/> These axes are sharpened to a razor-thin edge and tempered to incredible durability, increasing their potential damage and adding a chance to stun enemy targets.\n<Bullet/> One axe can be thrown from range for an instant burst of damage."
+AbilityDescName="axe"
+
+[AlienHunterAxeThrown_BM X2WeaponTemplate]
+FriendlyName="Fusion Axe"
+FriendlyNamePlural="Fusion Axe"
+BriefSummary="Tier 3 Upgrade for Hunter's Axe"
+TacticalText="<Bullet/> A volatile electric current runs through each blade, providing increased damage and a chance to burn enemy targets.\n<Bullet/> One axe can be thrown from range for an instant burst of damage."
+AbilityDescName="axe"
+
+[Frostbomb X2GrenadeTemplate]
+FriendlyName="Frost Bomb"
+FriendlyNamePlural="Frost Bombs"
+BriefSummary="Relying on an as-of-yet unidentified chemical agent, these hand-held explosives seem capable of instantaneously reducing the ambient temperature of the surrounding area. Exposed tissue will be frozen on contact. This weapon is unique, and cannot be duplicated or replaced."
+TacticalText="<Bullet/> Frost bombs freeze all units in the blast radius, preventing them from taking any actions for one turn.\n<Bullet/> Frost bombs have a smaller radius than standard frag grenades."
+ThrownAbilityName="Throw Frost Bomb"
+ThrownAbilityHelpText="Freeze all units in the target area."
+LaunchedAbilityname="Launch Frost Bomb"
+LaunchedAbilityHelpText="Freeze all units in the target area."
+
+[Shadowfall X2AbilityTemplate]
+LocFriendlyName="Shadowfall"
+LocHelpText="Pistol shot that is guaranteed to hit. If the target is killed, the shooter gains concealment."
+LocLongDescription="Pistol shot that is guaranteed to hit. If the target is killed, the shooter gains concealment."
+LocFlyOverText="Shadowfall"
+
+[ShadowfallConcealment X2AbilityTemplate]
+LocFriendlyName="Shadowfall"
+LocHelpText="Pistol shot that is guaranteed to hit. If the target is killed, the shooter gains concealment."
+LocLongDescription="Pistol shot that is guaranteed to hit. If the target is killed, the shooter gains concealment."
+LocFlyOverText="Shadowfall"
+
+[ThrowAxe X2AbilityTemplate]
+LocFriendlyName="Throw Axe"
+LocHelpText="Throw the axe at a target. This attack does not cost an action."
+LocLongDescription="Throw the axe at a target. This attack does not cost an action."
+
+[ViperKing_Wpn X2WeaponTemplate]
+FriendlyName="Viper King's Bolt Caster"
+FriendlyNamePlural="Viper King's Bolt Casters"
+BriefSummary="XCOM has managed to salvage a variety of standard infantry small arms; this is the most common variety, similar to the rifle used twenty years before. While decidedly inferior to ADVENT magnetic technology, it can at least be upgraded using additional weapons salvage, once a standard technical approach is discovered."
+TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness."
+
+[ArchonKing_Wpn X2WeaponTemplate]
+FriendlyName="Archon King's Staff"
+FriendlyNamePlural="Archon King's Staves"
+BriefSummary="XCOM has managed to salvage a variety of standard infantry small arms; this is the most common variety, similar to the rifle used twenty years before. While decidedly inferior to ADVENT magnetic technology, it can at least be upgraded using additional weapons salvage, once a standard technical approach is discovered."
+TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness."
+
+[ArchonKingStaff X2WeaponTemplate]
+FriendlyName="Archon King's Staff"
+FriendlyNamePlural="Archon King's Staves"
+BriefSummary="XCOM has managed to salvage a variety of standard infantry small arms; this is the most common variety, similar to the rifle used twenty years before. While decidedly inferior to ADVENT magnetic technology, it can at least be upgraded using additional weapons salvage, once a standard technical approach is discovered."
+TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+
+[ViperNeonate_Wpn X2WeaponTemplate]
+FriendlyName="Viper Bolt Caster"
+FriendlyNamePlural="Viper Bolt Casters"
+BriefSummary="XCOM has managed to salvage a variety of standard infantry small arms; this is the most common variety, similar to the rifle used twenty years before. While decidedly inferior to ADVENT magnetic technology, it can at least be upgraded using additional weapons salvage, once a standard technical approach is discovered."
+TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+
+;--------------------------------
+;-Temporary loc Defs to support playable nest prototype
+;Proxy Unit Strings
+;--------------------------------
+
+[DrVahlen X2CharacterTemplate]
+strCharacterName="Dr. Vahlen"
+
+[ViperKing X2CharacterTemplate]
+strCharacterName="Viper King"
+
+[BerserkerQueen X2CharacterTemplate]
+strCharacterName="Berserker Queen"
+
+[ArchonKing X2CharacterTemplate]
+strCharacterName="Archon King"
+
+[ViperNeonate X2CharacterTemplate]
+strCharacterName="Neonate Viper"
+
+[StandardMelee_NoEnd X2AbilityTemplate]
+LocFriendlyName="Melee Attack"
+LocLongDescription="Make a melee attack against an adjacent target."
+LocHelpText="Make a melee attack against an adjacent target."
+
+[KingGetOverHere X2AbilityTemplate]
+LocFriendlyName="Tongue Pull"
+LocLongDescription="A Viper's tongue and neck are immensely strong, and can yank an adult human into its coils from far away."
+LocHelpText="Grab a target with your tongue and pull them to melee range. Only humanoid targets can be pulled."
+LocFlyOverText="Tongue Grab"
+LocMissMessage="Grab Failed!"
+
+[KingBind X2AbilityTemplate]
+LocFriendlyName="Choke"
+LocLongDescription="The coils of a Viper are inhumanly strong, and can bind and crush an adjacent humanoid enemy."
+LocHelpText="Choke an adjacent humanoid enemy."
+LocFlyOverText="Choke"
+LocMissMessage="Choke Failed!"
+
+[Frostbite X2AbilityTemplate]
+LocFriendlyName="Frost Breath"
+LocLongDescription="The Viper King can project an icy blast at long range to freeze enemies in place."
+LocHelpText="Freeze enemies in an area."
+LocFlyOverText="Frost Breath"
+
+[EndBind X2AbilityTemplate]
+LocFriendlyName="Release Bind"
+LocLongDescription="In the event the tactical situation changes, the Viper can release the target in its coils before killing it."
+LocHelpText="Release the target in the Viper's coils"
+LocFlyOverText="Release"
+
+[AlienRulerCallForEscape X2AbilityTemplate]
+LocFriendlyName="Escape"
+LocLongDescription="After suffering wounds or eliminating enemies, the alien ruler may choose to escape the battlefield."
+LocHelpText="Summon a portal to leave the battlefield."
+LocFlyOverText="Summon Gate!"
+
+[Quake X2AbilityTemplate]
+LocFriendlyName="Quake"
+LocLongDescription="A massive ground strike that can disorient and knockback enemies."
+LocHelpText="A massive ground strike that can disorient and knockback enemies."
+LocFlyOverText="Quake"
+
+[QueenDevastatingPunch X2AbilityTemplate]
+LocFriendlyName="Devastating Blow"
+LocLongDescription="A Berserker Queen's strength is sufficient to batter her enemies to death with nothing more than her fists. This attack can stun or disorient the target."
+LocHelpText="Attack a melee target, potentially stunning them."
+LocFlyOverText="Devastating Punch"
+
+[ArchonKingBlazingPinionsStage1 X2AbilityTemplate]
+LocFriendlyName="Devastate"
+LocLongDescription="The Archon King flies in the sky, and unleashes a barrage of energy missiles from his wings. The targeting lasers that guide the missiles give a momentary warning of where they will strike."
+LocHelpText="Delayed missile barrage fired at multiple enemy targets."
+LocFlyOverText="Devastate"
+
+[Faithbreaker X2AbilityTemplate]
+LocFriendlyName="Faithbreaker"
+LocLongDescription="The Berserker Queen roars with her full might and rage, inflicting fear upon even the most battle-hardened soldiers."
+LocHelpText="Chance to panic every visible enemy unit."
+LocFlyOverText="Faithbreaker"
+
+[IcarusDropGrab X2AbilityTemplate]
+LocFriendlyName="Icarus Drop"
+LocLongDescription="The Archon King flies straight towards a humanoid enemy, grabbing them and lifting them into the air."
+LocHelpText="Delayed attack where an enemy is flown into the sky and thrown to the ground."
+LocFlyOverText="Icarus Drop"
+
+[IcarusDropSlam X2AbilityTemplate]
+LocFriendlyName="Icarus Slam"
+LocLongDescription="Throw the captive enemy towards the ground with incredible force."
+LocHelpText="Slam an enemy into the ground."
+LocFlyOverText="Icarus Slam"
+
+[Interact_DLC2Transmitter X2AbilityTemplate]
+LocFriendlyName="Download Logs"
+LocHelpText="Download Dr. Vahlen's research records"
+
+[ViperNeonateBindAbility X2AbilityTemplate]
+LocFriendlyName="Bind and Crush"
+LocLongDescription="The coils of a Viper are inhumanly strong, and can bind and crush an adjacent humanoid enemy."
+LocHelpText="Bind and crush an adjacent humanoid enemy."
+LocFlyOverText="Bind"
+LocMissMessage="Bind Failed!"
+
+[CentralOfficer X2SoldierClassTemplate]
+DisplayName="Ranger"
+ClassSummary="The Ranger serves as our primary reconnaissance unit, capable of moving independently in concealment while engaging enemies at close range."
+LeftAbilityTreeTitle=""
+RightAbilityTreeTitle=""
+
+RankNames[0]="Rookie"
+RankNames[1]="Central Officer"
+
+ShortNames[0]="Rk."
+ShortNames[1]="Co."
+
+RankIcons[0]="UILibrary_Common.rank_rookie"
+RankIcons[1]="UILibrary_Common.rank_commander"
+
+
+;-----------------------
+; Soldier Customization - Helmets
+;-----------------------
+[DLC_60_Helmet_A_AdvCaptain_M X2BodyPartTemplate]
+DisplayName="ADVENT Captain"
+
+[DLC_60_Helmet_A_AdvCaptain_F X2BodyPartTemplate]
+DisplayName="ADVENT Captain"
+
+[DLC_60_Helmet_B_AdvStunLancer_M X2BodyPartTemplate]
+DisplayName="ADVENT StunLancer"
+
+[DLC_60_Helmet_B_AdvStunLancer_F X2BodyPartTemplate]
+DisplayName="ADVENT StunLancer"
+
+[DLC_60_Helmet_C_AdvShieldBearer_M X2BodyPartTemplate]
+DisplayName="ADVENT ShieldBearer"
+
+[DLC_60_Helmet_C_AdvShieldBearer_F X2BodyPartTemplate]
+DisplayName="ADVENT ShieldBearer"
+
+[DLC_60_Helmet_D_AdvTrooper_M X2BodyPartTemplate]
+DisplayName="ADVENT Trooper"
+
+[DLC_60_Helmet_D_AdvTrooper_F X2BodyPartTemplate]
+DisplayName="ADVENT Trooper"
+
+[DLC_60_Helmet_E_AdvPsiWitch_M X2BodyPartTemplate]
+DisplayName="Avatar"
+
+[DLC_60_Helmet_E_AdvPsiWitch_F X2BodyPartTemplate]
+DisplayName="Avatar"
+
+[DLC_60_Helmet_F_Andromedon_M X2BodyPartTemplate]
+DisplayName="Andromedon"
+
+[DLC_60_Helmet_F_Andromedon_F X2BodyPartTemplate]
+DisplayName="Andromedon"
+
+[DLC_60_Helmet_Serpent_M X2BodyPartTemplate]
+DisplayName="Serpent"
+
+[DLC_60_Helmet_Serpent_F X2BodyPartTemplate]
+DisplayName="Serpent"
+
+[DLC_60_Helmet_SerpentMk2_M X2BodyPartTemplate]
+DisplayName="Serpent"
+
+[DLC_60_Helmet_SerpentMk2_F X2BodyPartTemplate]
+DisplayName="Serpent"
+
+[DLC_60_Helmet_Archon_M X2BodyPartTemplate]
+DisplayName="Icarus"
+
+[DLC_60_Helmet_Archon_F X2BodyPartTemplate]
+DisplayName="Icarus"
+
+;-----------------------
+; Soldier Customization - LowerFace
+;-----------------------
+[DLC_60_Accessory_A_MutonMask_M X2BodyPartTemplate]
+DisplayName="Muton Mask"
+
+[DLC_60_Accessory_A_MutonMask_F X2BodyPartTemplate]
+DisplayName="Muton Mask"
+
+;-----------------------
+; Soldier Customization - Scars
+;-----------------------
+[DLC_60_Scar_A X2BodyPartTemplate]
+DisplayName="Serious Smile"
+
+[DLC_60_Scar_B X2BodyPartTemplate]
+DisplayName="Ex"
+
+[DLC_60_Scar_C X2BodyPartTemplate]
+DisplayName="Pieced Together"
+
+[DLC_60_Scar_D X2BodyPartTemplate]
+DisplayName="Double Eye Slice"`
+
+[DLC_60_Scar_E X2BodyPartTemplate]
+DisplayName="Double Nose Slice"
+
+[DLC_60_Scar_F X2BodyPartTemplate]
+DisplayName="Burn"
+
+;-----------------------
+; Soldier Customization - Armor Patterns
+;-----------------------
+[DLC_60_Patterns_A X2BodyPartTemplate]
+DisplayName="Alien Structure"
+
+[DLC_60_Patterns_B X2BodyPartTemplate]
+DisplayName="Viper Armor"
+
+[DLC_60_Patterns_C X2BodyPartTemplate]
+DisplayName="Alien Cell"
+
+[DLC_60_Patterns_D X2BodyPartTemplate]
+DisplayName="Muton Armor"
+
+[DLC_60_Patterns_E X2BodyPartTemplate]
+DisplayName="Snake Skin"
+
+;-----------------------
+; Soldier Customization - Facepaint
+;-----------------------
+
+[DLC_60_Facepaint_A X2BodyPartTemplate]
+DisplayName="Archon"
+
+[DLC_60_Facepaint_B X2BodyPartTemplate]
+DisplayName="Berserker"
+
+[DLC_60_Facepaint_C X2BodyPartTemplate]
+DisplayName="Chryssalid"
+
+[DLC_60_Facepaint_D X2BodyPartTemplate]
+DisplayName="Faceless"
+
+[DLC_60_Facepaint_E X2BodyPartTemplate]
+DisplayName="GateKeeper"
+
+[DLC_60_Facepaint_F X2BodyPartTemplate]
+DisplayName="Muton"
+
+[DLC_60_Facepaint_G X2BodyPartTemplate]
+DisplayName="Maori A"
+
+[DLC_60_Facepaint_H X2BodyPartTemplate]
+DisplayName="Maori B"
+
+[DLC_60_Facepaint_I X2BodyPartTemplate]
+DisplayName="Maori C"
+
+[DLC_60_Facepaint_J X2BodyPartTemplate]
+DisplayName="Maori D"
+
+[DLC_60_Facepaint_K X2BodyPartTemplate]
+DisplayName="Maori E"
+
+;-----------------------
+; Soldier Customization - Hair
+;-----------------------
+
+[DLC_60_Hair_AdvPsiWitch_M X2BodyPartTemplate]
+DisplayName="Avatar"
+
+[DLC_60_Hair_AdvPsiWitch_F X2BodyPartTemplate]
+DisplayName="Avatar"
+
+
+;-----------------------
+; DLC Ability Points
+;-----------------------
+
+[RulerEscapes X2AbilityPointTemplate]
+ActionFriendlyName="when a Ruler Escaped"
+
+[RulerDefeated X2AbilityPointTemplate]
+ActionFriendlyName="by Defeating a Ruler"
+
+
+
+
+

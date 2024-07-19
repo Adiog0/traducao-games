@@ -1,0 +1,119 @@
+[Play_DLC2_S_CEN_All_Rulers_Dead AkEvent]
+SpokenText="Commander, that's the last of 'em... three botched science experiments, three alien rulers down for the count. At the very least, we know Vahlen is still out there somewhere, and we picked up some new gear in the process. Not a bad haul considering."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_S_CEN_BigSky_Crash_Site_Located AkEvent]
+SpokenText="You and I both know we only had one Skyranger, Commander. It's worse for wear, but this heap used to be Big Sky's pride and joy, and someone's been putting her to work. It may be possible to triangulate exactly where they took off from, but it'll take some time."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_S_CEN_Call_To_Arms AkEvent]
+SpokenText="Commander, you and I both know what Vahlen meant to our operation. She was our Chief Scientist, one of our most valuable assets. With your permission, I'd like to lead this operation personally - I was able to get you out of ADVENT's clutches, maybe I can do the same for her."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_S_CEN_Dont_Lose_Hunter_Weapons AkEvent]
+SpokenText="Remember what Tygan said.  These new weapons are one of kind. If we leave them on the battlefield, they'll be lost to us forever."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_S_CEN_Equip_Hunter_Weapons_2 AkEvent]
+SpokenText="Good point, Doctor. Let's gear up."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_S_CEN_Hunters_Axe_Equipped AkEvent]
+SpokenText="It may be a little unwieldy, but in the rights hands, this thing should cut down anything standing in your way."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_S_CEN_Hunters_Boltgun_Equipped AkEvent]
+SpokenText="It may only provide a single-shot action, but this thing hits hard. Even an edge hit could potentially stun the target."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_S_CEN_Hunters_Grenade_Equipped AkEvent]
+SpokenText="The charges in this grenade don't seem all that powerful, but according to Shen, the liquefied gases inside should lead to an instantaneous freeze effect."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_S_CEN_Hunters_Pistol_Equipped AkEvent]
+SpokenText="The way this one is sighted-in, there's no excuse for missed shots."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_S_CEN_Icarus_Suit_Equipped AkEvent]
+SpokenText="With the Archon's mobility, this armor should give you nearly unlimited freedom of movement in combat."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_S_CEN_King_Lives_Escapees_Remain_1 AkEvent]
+SpokenText="We have to keep after that thing, Commander. Dr. Vahlen seemed pretty concerned about the thought of these test subjects running lose. We'll have to track down that Viper and deal with it eventually."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_S_CEN_Locator_Beacon_Detected AkEvent]
+SpokenText="Commander, you're not gonna believe this... we just picked up a signal from an emergency locator beacon. It's definitely one of ours... from the original invasion.  I know it sounds crazy, but if there's any chance some our people could still be out there, I think we owe it to them to find out."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_S_CEN_Nest_Site_Located AkEvent]
+SpokenText="Commander, we've located the site where Big Sky took off from...no immediate signs of activity... hold on, might have something... it's a weak signal, on an open channel..."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_S_CEN_Pre_Mission_Prep AkEvent]
+SpokenText="Listen up people, I'll be personally taking the lead on this operation. We're looking for someone, one of the finest minds to ever serve XCOM. I don't know what we're going up against, but we know she's out there, and we're not gonna let anything stand in our way."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_S_CEN_RAGE_Suit_Equipped AkEvent]
+SpokenText="We've only got one of these things so be careful with it... just because you look like a Berserker doesn't mean you can go charging off into combat like they do."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_S_CEN_Urgent_Find_Vahlen AkEvent]
+SpokenText="Is that... Vahlen. Haven't had any signs of her since we lost HQ... Commander if there's any chance she or Big Sky are still alive we have to get down there!"
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC2_S_CEN_Viper_Suit_Equipped AkEvent]
+SpokenText="I'm not entirely sure how much of this armor is new material, and how much of it Tygan cut right out of the Viper itself. We haven't exactly tested it either, so good luck out there."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+

@@ -1,0 +1,111 @@
+;-----------------------
+; SPARK Character
+;-----------------------
+
+[SparkSoldier X2SparkCharacterTemplate_DLC_3]
+strCharacterName="SPARK"
+strCustomizeDesc="Modify the name and appearance of this soldier."
+strCharacterHealingPaused="Repairs Required"
+strAcquiredText="SPARK units do not heal like other soldiers. Staff the SPARK in Engineering to perform repairs."
+
+;-----------------------
+; UI
+;-----------------------
+
+[UIAlert_DLC_Day90]
+m_strLostTowersPOIAvailableBody="Commander, someone went to a lot of trouble to get this signal through to ROV-R. We need to find out why."
+
+m_strSparkSquadSelectInfoTitle="SPARK READY FOR COMBAT"
+m_strSparkSquadSelectInfoBody="Commander, our new SPARK units can always be sent on missions, even if they are wounded or being repaired. However, SPARKs cannot pick up or carry other soldiers."
+
+[UIMission_LostTowers]
+m_strFlavorText="We've tracked the signal ROV-R received to this location. We should get down there and find out what's going on."
+m_strLaunchMission="INVESTIGATE"
+
+[UICustomize_SparkMenu]
+m_strTitle=CUSTOMIZE SPARK
+m_strEditInfo=Character Info
+m_strEditProps=Props
+m_strHead=Head
+m_strMainColor=Main Armor Color
+m_strSecondaryColor=Secondary Armor Color
+m_strWeaponColor=Weapon Color
+m_strArmorPatternSelected=Remove armor pattern to change armor color
+m_strRemoveHelmetOrLowerProp=Remove helmet or lower face prop to edit this option
+
+m_strVoice=Voice
+m_strPreviewVoice=PREVIEW
+m_strType=Unit Type
+
+m_strExportCharacter=Save to Character Pool
+
+m_strAllowTypeSoldier=Can Appear as Soldier
+m_strAllowTypeVIP=Can Appear as VIP
+m_strAllowTypeDarkVIP=Can Appear as Dark VIP
+m_strAllowed=Allowed
+
+m_strTimeAdded=Created at:
+
+m_strExportSuccessTitle=CHARACTER SAVED!
+m_strExportSuccessBody=This soldier's name and appearance have been added to the character pool.
+
+[UICustomize_SparkProps]
+m_strTitle=EDIT PROPS
+m_strArms=Arms
+m_strTorso=Torso
+m_strLegs=Legs
+m_strArmorPattern=Armor Pattern 
+m_strWeaponPattern=Weapon Pattern
+m_strClearButton=Clear
+
+[UICustomize_SparkInfo]
+m_strTitle=EDIT SPARK INFO
+m_strFirstNameLabel=First Name
+m_strLastNameLabel=Last Name
+m_strNicknameLabel=Nickname
+m_strEditBiography=Biography
+m_strBiographyLabel=CHARACTER BIOGRAPHY
+
+;-----------------------
+; NARRATIVE CONTENT
+;-----------------------
+
+[X2DownloadableContentInfo_DLC_Day90]
+NarrativeContentLabel="Shen's Last Gift: \"The Lost Towers\""
+NarrativeContentSummary="This mission introduces the story of Shen's Last Gift content. All gameplay content (including the new soldier class) will still be enabled without this mission."
+
+EnableContentLabel="Enable Shen's Last Gift Gameplay?"
+EnableContentSummary="Shen's Last Gift unlocks a new XCOM soldier class. Do you want to enable the Shen's Last Gift gameplay content for this campaign?\n\nThe full narrative context for Shen's Last Gift, including an exciting new story mission, can be experienced by starting a new campaign."
+EnableContentAcceptLabel="Enable Shen's Last Gift"
+EnableContentCancelLabel="Cancel"
+
+[XComGameState_SparkManager]
+LostTowersShenFirstName="Lily"
+LostTowersShenLastName="Shen"
+
+[SparkArmor X2SparkArmorTemplate_DLC_3]
+FriendlyName="SPARK Armor"
+FriendlyNamePlural="SPARK Armors"
+BriefSummary="The basic SPARK robotic unit is heavily armored, with significant attention paid to protecting critical systems from a variety of combat and environmental hazards." 
+TacticalText="<Bullet/> All SPARKs are built with simple metallic plates to cover their core systems.\n<Bullet/> Research can give access to better armor."
+
+[PlatedSparkArmor X2SparkArmorTemplate_DLC_3]
+FriendlyName="Reinforced Frame"
+FriendlyNamePlural="Reinforced Frames"
+BriefSummary="Additional reinforcement to weaknesses identified during XCOM field deployments should further improve SPARK unit survivability."
+TacticalText="<Bullet/> By reinforcing the SPARK's traditional armor plating, they are able to withstand additional attacks."
+
+[PoweredSparkArmor X2SparkArmorTemplate_DLC_3]
+FriendlyName="Anodized Chassis"
+FriendlyNamePlural="Anodized Chassis"
+BriefSummary="The anodizing process provides the already-extensive SPARK armor systems with an additional protective layer creating an even more resilient robotic unit."
+TacticalText="<Bullet/> The Anodized Chassis fully encloses the SPARK in a highly resilient shell, offering them the best protection on the battlefield."
+
+[XGCharacterGenerator_SPARK]
+SparkFirstName="SPARK-"
+SparkLastNamePrefix="000"
+
+[LostTowersSpark X2SparkCharacterTemplate_DLC_3]
+strForcedFirstName=""
+strForcedLastName="SPARK-001"
+strForcedNickName=""
