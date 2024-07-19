@@ -1,13 +1,13 @@
-;Localization add-in for day 90 DLC 
+;Adição de localização para o DLC do dia 90
 
 ;-----------------------
-; SPARK CLASS
+; CLASSE SPARK
 ;-----------------------
 [Spark X2SoldierClassTemplate]
 DisplayName="SPARK"
-ClassSummary="These high-powered robotic units can unleash devastating frontline attacks or absorb incoming fire and protect the squad."
-LeftAbilityTreeTitle="Future Combat"
-RightAbilityTreeTitle="War Machine"
+ClassSummary="Essas unidades robóticas de alta potência podem desferir ataques devastadores na linha de frente ou absorver fogo inimigo para proteger o esquadrão."
+LeftAbilityTreeTitle="Combate Futurista"
+RightAbilityTreeTitle="Máquina de Guerra"
 
 RandomNickNames[0]="Pendragon"
 RandomNickNames[1]="Lancelot"
@@ -15,66 +15,66 @@ RandomNickNames[2]="Galahad"
 RandomNickNames[3]="Gawain"
 RandomNickNames[4]="Duke"
 RandomNickNames[5]="Duchess"
-RandomNickNames[6]="Count"
-RandomNickNames[7]="Baron"
-RandomNickNames[8]="Rook"
-RandomNickNames[9]="Bishop"
+RandomNickNames[6]="Conde"
+RandomNickNames[7]="Barão"
+RandomNickNames[8]="Torre"
+RandomNickNames[9]="Bispo"
 RandomNickNames[10]="Margrave"
 RandomNickNames[11]="Dragoon"
-RandomNickNames[12]="Myrmidon"
-RandomNickNames[13]="Hoplite"
-RandomNickNames[14]="Centurion"
-RandomNickNames[15]="Praetorian"
-RandomNickNames[16]="Saber"
+RandomNickNames[12]="Mirmidão"
+RandomNickNames[13]="Hoplita"
+RandomNickNames[14]="Centurião"
+RandomNickNames[15]="Pretoriano"
+RandomNickNames[16]="Sabre"
 RandomNickNames[17]="Jaeger"
-RandomNickNames[18]="Vector"
-RandomNickNames[19]="Titan"
+RandomNickNames[18]="Vetor"
+RandomNickNames[19]="Titã"
 RandomNickNames[20]="Claymore"
 RandomNickNames[21]="Falchion"
 RandomNickNames[22]="Rapier"
 RandomNickNames[23]="Morningstar"
 RandomNickNames[24]="Glaive"
-RandomNickNames[25]="Halberd"
-RandomNickNames[26]="Javelin"
+RandomNickNames[25]="Alabarda"
+RandomNickNames[26]="Javelina"
 RandomNickNames[27]="Sarissa"
 RandomNickNames[28]="Masamune"
 RandomNickNames[29]="Excalibur"
 RandomNickNames[30]="Gungnir"
 RandomNickNames[31]="Mjolnir"
 RandomNickNames[32]="Gladius"
-RandomNickNames[33]="Scimitar"
-RandomNickNames[34]="Trident"
-RandomNickNames[35]="Scythe"
+RandomNickNames[33]="Cimitarra"
+RandomNickNames[34]="Tridente"
+RandomNickNames[35]="Foice"
 RandomNickNames[36]="Giga"
 RandomNickNames[38]="Malware"
-RandomNickNames[39]="Devastator"
-RandomNickNames[40]="Terminator"
-RandomNickNames[41]="Rust Bucket"
-RandomNickNames[42]="Crushinator"
-RandomNickNames[43]="Guardian"
+RandomNickNames[39]="Devastador"
+RandomNickNames[40]="Exterminador"
+RandomNickNames[41]="Balde de Ferrugem"
+RandomNickNames[42]="Esmagador"
+RandomNickNames[43]="Guardião"
 RandomNickNames[44]="Johnny"
-RandomNickNames[45]="Junkyard"
-RandomNickNames[46]="Scraps"
-RandomNickNames[47]="Ironman"
-RandomNickNames[48]="Big Boy"
+RandomNickNames[45]="Cemitério de Sucata"
+RandomNickNames[46]="Sobras"
+RandomNickNames[47]="Homem de Ferro"
+RandomNickNames[48]="Menino Grande"
 
-RankNames[0]="Rookie"
-RankNames[1]="Squire"
-RankNames[2]="Aspirant"
-RankNames[3]="Knight"
-RankNames[4]="Cavalier"
-RankNames[5]="Vanguard"
-RankNames[6]="Paladin"
-RankNames[7]="Champion"
+RankNames[0]="Recruta"
+RankNames[1]="Escudeiro"
+RankNames[2]="Aspirante"
+RankNames[3]="Cavaleiro"
+RankNames[4]="Cavaleiro Real"
+RankNames[5]="Vanguarda"
+RankNames[6]="Paladino"
+RankNames[7]="Campeão"
 
-ShortNames[0]="Rk."
-ShortNames[1]="Sqr."
+ShortNames[0]="Rc."
+ShortNames[1]="Esc."
 ShortNames[2]="Asp."
-ShortNames[3]="Knt."
-ShortNames[4]="Cav."
+ShortNames[3]="Cav."
+ShortNames[4]="C.R."
 ShortNames[5]="Vng."
 ShortNames[6]="Pal."
-ShortNames[7]="Chp."
+ShortNames[7]="Cam."
 
 RankIcons[0]="UILibrary_Common.rank_rookie"
 RankIcons[1]="UILibrary_DLC3Images.rank_squire"
@@ -85,149 +85,141 @@ RankIcons[5]="UILibrary_DLC3Images.rank_templar"
 RankIcons[6]="UILibrary_DLC3Images.rank_paladin"
 RankIcons[7]="UILibrary_DLC3Images.rank_champion"
 
+;-----------------------
+; CLASSE ESPECIALISTA
+;-----------------------
 [ChiefEngineer X2SoldierClassTemplate]
-DisplayName="Specialist"
-ClassSummary="Operating some of our most advanced equipment, Specialists deploy robotic drones on the battlefield that can be outfitted for combat or field medic duty."
+DisplayName="Especialista"
+ClassSummary="Operando alguns de nossos equipamentos mais avançados, os Especialistas implantam drones robóticos no campo de batalha que podem ser equipados para combate ou como médico de campo."
 LeftAbilityTreeTitle=""
 RightAbilityTreeTitle=""
 
-RankNames[0]="Rookie"
-RankNames[1]="Chief Engineer"
+RankNames[0]="Recruta"
+RankNames[1]="Chefe de Engenharia"
 
-ShortNames[0]="Rk."
+ShortNames[0]="Rc."
 ShortNames[1]="Eng."
 
 RankIcons[0]="UILibrary_Common.rank_rookie"
 RankIcons[1]="UILibrary_DLC3Images.rank_chief_engineer"
 
 ;-----------------------
-; TECHS
+; TECNOLOGIA
 ;-----------------------
 [MechanizedWarfare X2TechTemplate]
-DisplayName="Mechanized Warfare"
-Summary="Dad managed to piece together a prototype MEC sometime before the invasion. With a few modifications and some updated tech., it could be reactivated for combat deployment."
+DisplayName="Guerra Mecanizada"
+Summary="Papai conseguiu montar um protótipo de MEC antes da invasão. Com algumas modificações e tecnologia atualizada, ele poderia ser reativado para implantação em combate."
 
 
 [BuildSpark X2TechTemplate]
 DisplayName="SPARK"
-Summary="Designed by the late Dr. Raymond Shen before the initial invasion some 20 years ago, the captured SPARK robotic prototype apparently served as the progenitor for all future ADVENT MEC designs. The SPARK is a robotic combat unit, serving in either defensive or high-powered combat roles."
+Summary="Projetado pelo falecido Dr. Raymond Shen antes da invasão inicial, há cerca de 20 anos, o protótipo robótico SPARK capturado aparentemente serviu como progenitor para todos os futuros designs ADVENT MEC. O SPARK é uma unidade robótica de combate, servindo em papéis defensivos ou de combate de alta potência."
 
 ;-----------------------
-; STAFF SLOTS
+; VAGAS DA EQUIPE
 ;-----------------------
 [SparkStaffSlot X2StaffSlotTemplate]
-EmptyText="OPEN: SPARK REQUIRED"
-BonusEmptyText="Begin SPARK repairs."
-BonusText="REPAIRING SPARK"
-FilledText="%UNITNAME is receiving repairs!"
-LockedText="LOCKED: BUILD SPARK"
+EmptyText="ABERTO: SPARK NECESSÁRIO"
+BonusEmptyText="Iniciar reparos do SPARK."
+BonusText="REPARANDO SPARK"
+FilledText="%UNITNAME está recebendo reparos!"
+LockedText="TRANCADO: CONSTRUIR SPARK"
 
 ;-----------------------
-; SPARK WEAPONS
+; ARMAS DO SPARK
 ;-----------------------
 [SparkRifle_CV X2WeaponTemplate]
-FriendlyName="Heavy Autocannon"
-FriendlyNamePlural="Heavy Autocannon"
-BriefSummary="A powerful but physically-heavy cannon designed specifically for use by SPARK units."
-TacticalText="<Bullet/> Firing the primary weapon ends the soldier's turn, in the absence of special training."
-AbilityDescName="heavy autocannon"
+FriendlyName="Canhão Automático Pesado"
+FriendlyNamePlural="Canhões Automáticos Pesados"
+BriefSummary="Um poderoso canhão projetado especificamente para uso em unidades SPARK."
+TacticalText="<Bullet/> Disparar a arma primária encerra o turno do soldado, na ausência de treinamento especial."
+AbilityDescName="canhão automático pesado"
 
 [SparkRifle_MG X2WeaponTemplate]
-FriendlyName="Helix Rail-Cannon"
-FriendlyNamePlural="Helix Rail-Cannons"
-BriefSummary="Additional plating provides increased durability and damage output, negating long term wear caused by intense field deployments."
-TacticalText="<Bullet/> The Helix Rail-Cannon has increased damage and durability, making it a significant improvement over the standard Heavy Autocannon used by SPARKs.\n<Bullet/> Firing the primary weapon ends the soldier's turn, in the absence of special training."
-AbilityDescName="helix rail-cannon"
+FriendlyName="Canhão Ferroviário Hélix"
+FriendlyNamePlural="Canhões Ferroviários Hélix"
+BriefSummary="Chapas adicionais fornecem maior durabilidade e potência de dano, neutralizando o desgaste a longo prazo causado por intensas implantações de campo."
+TacticalText="<Bullet/> O Canhão Ferroviário Hélix possui maior dano e durabilidade, tornando-o uma melhoria significativa em relação ao Canhão Automático Pesado padrão usado por SPARKs.\n<Bullet/> Disparar a arma primária encerra o turno do soldado, na ausência de treinamento especial."
+AbilityDescName="canhão ferroviário hélix"
 
 [SparkRifle_BM X2WeaponTemplate]
-FriendlyName="Elerium Phase-Cannon"
-FriendlyNamePlural="Elerium Phase-Cannon"
-BriefSummary="The addition of miniaturized Elerium power cell provides the SPARK with the greatest possible firepower in combat." 
-TacticalText="<Bullet/> Designed specifically for SPARKs to deal maximum damage, the Elerium Phase-Cannon is the epitome of powered rifle technology.\n<Bullet/> Firing the primary weapon ends the soldier's turn, in the absence of special training."
-AbilityDescName="elerium phase-cannon"
+FriendlyName="Canhão de Fase Elerium"
+FriendlyNamePlural="Canhões de Fase Elerium"
+BriefSummary="A adição de uma célula de energia Elerium miniaturizada proporciona ao SPARK o máximo de potência de fogo possível em combate."
+TacticalText="<Bullet/> Projetado especificamente para SPARKs para causar o máximo de dano, o Canhão de Fase Elerium é a quintessência da tecnologia de rifles potentes.\n<Bullet/> Disparar a arma primária encerra o turno do soldado, na ausência de treinamento especial."
+AbilityDescName="canhão de fase elerium"
 
 [SparkBit_CV X2GremlinTemplate]
-FriendlyName="SPARK BIT"
-FriendlyNamePlural="SPARK BITs"
+FriendlyName="CHIP SPARK"
+FriendlyNamePlural="CHIPS SPARK"
 BriefSummary=""
-TacticalText="<Bullet/> The BIT allows SPARKs to execute a variety of battlefield tasks from safer distances.\n<Bullet/> The BIT accompanies the SPARK, and can be issued protocols which aid allies, hack electronic targets, or damage enemies.\n<Bullet/> The BIT generally goes unnoticed by enemies, and cannot take damage or be destroyed. It will shut down if its owner is incapacitated or killed."
-AbilityDescName="SPARK BIT"
+TacticalText="<Bullet/> O CHIP permite que os SPARKs executem uma variedade de tarefas no campo de batalha a partir de distâncias mais seguras.\n<Bullet/> O CHIP acompanha o SPARK e pode receber protocolos que ajudam aliados, invadem alvos eletrônicos ou causam dano a inimigos.\n<Bullet/> O CHIP geralmente passa despercebido pelos inimigos e não pode ser danificado ou destruído. Ele será desativado se seu proprietário for incapacitado ou morto."
+AbilityDescName="CHIP SPARK"
 
 [SparkBit_MG X2GremlinTemplate]
-FriendlyName="Plated BIT"
-FriendlyNamePlural="Plated BITs"
+FriendlyName="CHIP Revestido"
+FriendlyNamePlural="CHIPS Revestidos"
 BriefSummary=""
-TacticalText="<Bullet/> The upgraded plated model improves the damage and healing capabilities of the BIT.\n<Bullet/> The BIT allows SPARKs to execute a variety of battlefield tasks from safer distances.\n<Bullet/> The BIT accompanies the SPARK, and can be issued protocols which aid allies, hack electronic targets, or damage enemies.\n<Bullet/> The BIT generally goes unnoticed by enemies, and cannot take damage or be destroyed. It will shut down if its owner is incapacitated or killed."
-AbilityDescName="SPARK BIT"
+TacticalText="<Bullet/> O modelo revestido melhorado melhora as capacidades de dano e cura do CHIP.\n<Bullet/> O CHIP permite que os SPARKs executem uma variedade de tarefas no campo de batalha a partir de distâncias mais seguras.\n<Bullet/> O CHIP acompanha o SPARK e pode receber protocolos que ajudam aliados, invadem alvos eletrônicos ou causam dano a inimigos.\n<Bullet/> O CHIP geralmente passa despercebido pelos inimigos e não pode ser danificado ou destruído. Ele será desativado se seu proprietário for incapacitado ou morto."
+AbilityDescName="CHIP SPARK"
 
 [SparkBit_BM X2GremlinTemplate]
-FriendlyName="Powered BIT"
-FriendlyNamePlural="Powered BITs"
+FriendlyName="CHIP Potente"
+FriendlyNamePlural="CHIPS Potentes"
 BriefSummary=""
-TacticalText="<Bullet/> The upgraded powered model greatly improves the damage and healing capabilities of the BIT.\n<Bullet/> The BIT allows SPARKs to execute a variety of battlefield tasks from safer distances.\n<Bullet/> The BIT accompanies the SPARK, and can be issued protocols which aid allies, hack electronic targets, or damage enemies.\n<Bullet/> The BIT generally goes unnoticed by enemies, and cannot take damage or be destroyed. It will shut down if its owner is incapacitated or killed."
-AbilityDescName="SPARK BIT"
-
-[SparkRifle_MG_Schematic X2SchematicTemplate]
-m_strClassLabel="SPARK"
-[SparkRifle_BM_Schematic X2SchematicTemplate]
-m_strClassLabel="SPARK"
-
-[PlatedSparkArmor_Schematic X2SchematicTemplate]
-m_strClassLabel="SPARK"
-[PoweredSparkArmor_Schematic X2SchematicTemplate]
-m_strClassLabel="SPARK"
+TacticalText="<Bullet/> O modelo potente melhorado melhora significativamente as capacidades de dano e cura do CHIP.\n<Bullet/> O CHIP permite que os SPARKs executem uma variedade de tarefas no campo de batalha a partir de distâncias mais seguras.\n<Bullet/> O CHIP acompanha o SPARK e pode receber protocolos que ajudam aliados, invadem alvos eletrônicos ou causam dano a inimigos.\n<Bullet/> O CHIP geralmente passa despercebido pelos inimigos e não pode ser danificado ou destruído. Ele será desativado se seu proprietário for incapacitado ou morto."
+AbilityDescName="CHIP SPARK"
 
 ;-----------------------
-; Shen's Gremlin
+; GREMLIN DA SHEN
 ;-----------------------
 [Gremlin_Shen X2GremlinTemplate]
 FriendlyName="ROV-R"
 FriendlyNamePlural="ROV-R"
-BriefSummary="The earliest Gremlin prototype developed by Lily Shen, the ROV-R unit has a number of peculiar behaviors thought to have been caused by the \"unique\" modifications added over the years."
-TacticalText="<Bullet/> The GREMLIN Drone allows Specialists to execute a variety of battlefield tasks from safer distances.\n<Bullet/> The GREMLIN accompanies the Specialist, and can be issued protocols which aid allies, hack electronic targets, or damage enemies.\n<Bullet/> The GREMLIN generally goes unnoticed by enemies, and cannot take damage or be destroyed. It will shut down if its owner is incapacitated or killed."
-AbilityDescName="ROV-R"
+BriefSummary="O protótipo mais antigo do Gremlin desenvolvido por Lily Shen, a unidade ROV-R tem vários comportamentos peculiares que se pensa terem sido causados pelas modificações 'únicas' adicionadas ao longo dos anos."
+TacticalText="<Bullet/> O Drone GREMLIN permite que os Especialistas executem uma variedade de tarefas no campo de batalha a partir de distâncias mais seguras.\n<Bullet/> O GREMLIN acompanha o Especialista e pode receber protocolos que ajudam aliados, invadem alvos eletrônicos ou causam dano a inimigos.\n<Bullet/> O GREMLIN geralmente passa despercebido pelos inimigos e não pode ser danificado ou destruído. Ele será desativado se seu proprietário for incapacitado ou morto."
 
 ;-----------------------
-; Feral MEC WEAPONS - Temp to support playable mission
+; ARMAS DO MEC SELVAGEM - Temporário para suportar missão jogável
 ;-----------------------
 [FeralMEC_M1_Proxy_Wpn X2WeaponTemplate]
-FriendlyName="Derelict MEC Cannon"
-FriendlyNamePlural="Derelict MEC Cannons"
-BriefSummary="XCOM has managed to salvage a variety of standard infantry small arms; this is the most common variety, similar to the rifle used twenty years before. While decidedly inferior to ADVENT magnetic technology, it can at least be upgraded using additional weapons salvage, once a standard technical approach is discovered."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Canhão MEC Abandonado"
+FriendlyNamePlural="Canhões MEC Abandonados"
+BriefSummary="A XCOM conseguiu recuperar várias armas de infantaria padrão; esta é a variedade mais comum, similar ao rifle usado há vinte anos. Embora decididamente inferior à tecnologia magnética da ADVENT, ela pode ser melhorada usando mais salvados de armas, uma vez que uma abordagem técnica padrão seja descoberta."
+TacticalText="<Bullet/> Disparar a arma primária sempre encerra o turno do soldado\n<Bullet/> Se o soldado disparar com ambas as ações disponíveis, três tiros serão disparados com precisão reduzida, mas com eficiência geral aumentada\n<Bullet/> Use melhorias saqueadas de inimigos para melhorar a eficácia tática do fuzil de assalto."
 
 [FeralMEC_M2_Proxy_Wpn X2WeaponTemplate]
-FriendlyName="Derelict MEC Cannon"
-FriendlyNamePlural="Derelict MEC Cannons"
-BriefSummary="XCOM has managed to salvage a variety of standard infantry small arms; this is the most common variety, similar to the rifle used twenty years before. While decidedly inferior to ADVENT magnetic technology, it can at least be upgraded using additional weapons salvage, once a standard technical approach is discovered."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Canhão MEC Abandonado"
+FriendlyNamePlural="Canhões MEC Abandonados"
+BriefSummary="A XCOM conseguiu recuperar várias armas de infantaria padrão; esta é a variedade mais comum, similar ao rifle usado há vinte anos. Embora decididamente inferior à tecnologia magnética da ADVENT, ela pode ser melhorada usando mais salvados de armas, uma vez que uma abordagem técnica padrão seja descoberta."
+TacticalText="<Bullet/> Disparar a arma primária sempre encerra o turno do soldado\n<Bullet/> Se o soldado disparar com ambas as ações disponíveis, três tiros serão disparados com precisão reduzida, mas com eficiência geral aumentada\n<Bullet/> Use melhorias saqueadas de inimigos para melhorar a eficácia tática do fuzil de assalto."
 
 [FeralMEC_M3_Proxy_Wpn X2WeaponTemplate]
-FriendlyName="Derelict MEC Cannon"
-FriendlyNamePlural="Derelict MEC Cannons"
-BriefSummary="XCOM has managed to salvage a variety of standard infantry small arms; this is the most common variety, similar to the rifle used twenty years before. While decidedly inferior to ADVENT magnetic technology, it can at least be upgraded using additional weapons salvage, once a standard technical approach is discovered."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Canhão MEC Abandonado"
+FriendlyNamePlural="Canhões MEC Abandonados"
+BriefSummary="A XCOM conseguiu recuperar várias armas de infantaria padrão; esta é a variedade mais comum, similar ao rifle usado há vinte anos. Embora decididamente inferior à tecnologia magnética da ADVENT, ela pode ser melhorada usando mais salvados de armas, uma vez que uma abordagem técnica padrão seja descoberta."
+TacticalText="<Bullet/> Disparar a arma primária sempre encerra o turno do soldado\n<Bullet/> Se o soldado disparar com ambas as ações disponíveis, três tiros serão disparados com precisão reduzida, mas com eficiência geral aumentada\n<Bullet/> Use melhorias saqueadas de inimigos para melhorar a eficácia tática do fuzil de assalto."
 
 [Sectopod_Markov_Proxy_Wpn X2WeaponTemplate]
-FriendlyName="Sectopod Blaster"
-FriendlyNamePlural="Sectopod Blasters"
-BriefSummary="XCOM has managed to salvage a variety of standard infantry small arms; this is the most common variety, similar to the rifle used twenty years before. While decidedly inferior to ADVENT magnetic technology, it can at least be upgraded using additional weapons salvage, once a standard technical approach is discovered."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Blaster Sectopod"
+FriendlyNamePlural="Blasters Sectopod"
+BriefSummary="A XCOM conseguiu recuperar várias armas de infantaria padrão; esta é a variedade mais comum, similar ao rifle usado há vinte anos. Embora decididamente inferior à tecnologia magnética da ADVENT, ela pode ser melhorada usando mais salvados de armas, uma vez que uma abordagem técnica padrão seja descoberta."
+TacticalText="<Bullet/> Disparar a arma primária sempre encerra o turno do soldado\n<Bullet/> Se o soldado disparar com ambas as ações disponíveis, três tiros serão disparados com precisão reduzida, mas com eficiência geral aumentada\n<Bullet/> Use melhorias saqueadas de inimigos para melhorar a eficácia tática do fuzil de assalto."
 
 ;-----------------------
-; Character Templates
+; Modelos de Personagem
 ;-----------------------
 [FeralMEC_M1 X2CharacterTemplate]
-strCharacterName="Derelict MEC"
+strCharacterName="MEC Abandonado"
 
 [Sectopod_Markov X2CharacterTemplate]
 strCharacterName="Julian"
 
 [LostTowersTurretM1 X2CharacterTemplate]
-strCharacterName="Decaying Turret"
+strCharacterName="Torre Decrépita"
 
 [JulianUnknown X2CharacterTemplate]
-strCharacterName="Intercom"
+strCharacterName="Intercomunicador"
 
 [Julian X2CharacterTemplate]
 strCharacterName="Julian"
@@ -235,321 +227,325 @@ strCharacterName="Julian"
 [JulianSectopod X2CharacterTemplate]
 strCharacterName="Julian"
 
+[SPARK X2CharacterTemplate]
+strCharacterName="SPARK"
+
 ;-----------------------
-; Lost Towers Turret Weapon
+; Arma da Torre Lost Towers
 ;-----------------------
 [LostTowersTurretM1_Wpn X2WeaponTemplate]
-FriendlyName="Turret Cannon"
-FriendlyNamePlural="Turret Cannons"
-BriefSummary="XCOM has managed to salvage a variety of standard infantry small arms; this is the most common variety, similar to the rifle used twenty years before. While decidedly inferior to ADVENT magnetic technology, it can at least be upgraded using additional weapons salvage, once a standard technical approach is discovered."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Canhão de Torre"
+FriendlyNamePlural="Canhões de Torre"
+BriefSummary="A XCOM conseguiu recuperar várias armas de infantaria padrão; esta é a variedade
+
+ mais comum, similar ao rifle usado há vinte anos. Embora decididamente inferior à tecnologia magnética da ADVENT, ela pode ser melhorada usando mais salvados de armas, uma vez que uma abordagem técnica padrão seja descoberta."
+TacticalText="<Bullet/> Disparar a arma primária sempre encerra o turno do soldado\n<Bullet/> Se o soldado disparar com ambas as ações disponíveis, três tiros serão disparados com precisão reduzida, mas com eficiência geral aumentada\n<Bullet/> Use melhorias saqueadas de inimigos para melhorar a eficácia tática do fuzil de assalto."
 
 ;-----------------------
 ; GEOSCAPE
 ;-----------------------
 
 [POI_LostTowers X2PointOfInterestTemplate]
-DisplayNames[0]="Encrypted Signal"
+DisplayNames[0]="Sinal Criptografado"
 
-CompletedSummaries[0]="An unidentified transmission somehow bypassed ROV-R's remote uplink and gained access to our systems. There's only person with the expertise to pull that off, the late Dr. Raymond Shen. We need to investigate immediately!"
+CompletedSummaries[0]="Uma transmissão não identificada conseguiu burlar a conexão remota do ROV-R e obteve acesso aos nossos sistemas. Só há uma pessoa com a expertise para fazer isso, o falecido Dr. Raymond Shen. Precisamos investigar imediatamente!"
 
 POIImages[0]="img:///UILibrary_DLC3Images.Alert_ShensLastGiftPOI"
 
 ;-----------------------
-; REWARDS
+; RECOMPENSAS
 ;-----------------------
 
 [Reward_LostTowers X2RewardTemplate]
-DisplayName="Investigation Mission"
+DisplayName="Missão de Investigação"
 
 [ResAct_LostTowersInvestigated X2ResistanceActivityTemplate]
-DisplayName="Lost Towers Investigated:"
-
-[ResAct_LostTowersFailed X2ResistanceActivityTemplate]
-DisplayName="Lost Towers Failed:"
+DisplayName="Torres Perdidas Investigadas:"
 
 ;-----------------------
-; Lost Towers Mission Data
+; Dados da Missão Torres Perdidas
 ;-----------------------
 [MissionSource_LostTowers X2MissionSourceTemplate]
-MissionPinLabel="Lost Towers"
-BattleOpName="Operation Last Gift"
+MissionPinLabel="Torres Perdidas"
+BattleOpName="Operação Último Presente"
 
 [LostTower X2MissionSiteDescriptionTemplate]
-DescriptionString="Abandoned ADVENT Facility"
+DescriptionString="Instalação da ADVENT Abandonada"
 
 [LastGift X2MissionTemplate]
-DisplayName="Investigate the Facility"
-Briefing="Investigation - Unknown Site"
-PostMissionType="Lost Towers"
+DisplayName="Investigar a Instalação"
+Briefing="Investigação - Local Desconhecido"
+PostMissionType="Torres Perdidas"
 BriefingImage="img:///UILibrary_DLC3Images.Alert_ShensLastGiftPOI"
-ObjectiveTextPools[0]="Retrieve Shen's Engineering Data"
+ObjectiveTextPools[0]="Recuperar os Dados de Engenharia de Shen"
 PreMissionNarratives[0]="DLC_90_NarrativeMoments.DLC3_S_Dropship_Intro"
 
-;We may be pursuing a solution where this mission has three discrete parts.  
-;The data below supports that but likely won't be used in the final version
+;Podemos estar buscando uma solução em que esta missão tenha três partes distintas.
+;Os dados abaixo suportam isso, mas provavelmente não serão usados na versão final.
 [LastGiftB X2MissionTemplate]
-DisplayName="Recover the SPARK Pt 1"
-Briefing="Lost Towers"
-PostMissionType="Lost Towers"
+DisplayName="Recuperar o SPARK Pt 2"
+Briefing="Torres Perdidas"
+PostMissionType="Torres Perdidas"
 BriefingImage="img:///UILibrary_DLC3Images.Alert_ShensLastGiftPOI"
-ObjectiveTextPools[0]="Retrieve Shen's Engineering Data"
+ObjectiveTextPools[0]="Recuperar os Dados de Engenharia de Shen"
 PreMissionNarratives[0]="X2NarrativeMoments.TACTICAL.Recover.Central_Guerilla_Ops_Recover_Item_01"
 
 [LastGiftC X2MissionTemplate]
-DisplayName="Recover the SPARK Pt 2"
-Briefing="Lost Towers"
-PostMissionType="Lost Towers"
+DisplayName="Recuperar o SPARK Pt 3"
+Briefing="Torres Perdidas"
+PostMissionType="Torres Perdidas"
 BriefingImage="img:///UILibrary_DLC3Images.Alert_ShensLastGiftPOI"
-ObjectiveTextPools[0]="Retrieve Shen's Engineering Data"
+ObjectiveTextPools[0]="Recuperar os Dados de Engenharia de Shen"
 PreMissionNarratives[0]="X2NarrativeMoments.TACTICAL.Recover.Central_Guerilla_Ops_Recover_Item_01"
 
 [DefaultLastGift X2MissionNarrativeTemplate]
-ObjectiveTextPools[0]="Investigate the Facility"
-ObjectiveTextPools[1]="Power up the elevators"
-ObjectiveTextPools[2]="Send all XCOM soldiers up the elevator"
-ObjectiveTextPools[3]="Lily Shen must survive"
+ObjectiveTextPools[0]="Investigar a Instalação"
+ObjectiveTextPools[1]="Ativar os elevadores"
+ObjectiveTextPools[2]="Enviar todos os soldados da XCOM pelos elevadores"
+ObjectiveTextPools[3]="Lily Shen deve sobreviver"
 
 [DefaultLastGiftPartB X2MissionNarrativeTemplate]
-ObjectiveTextPools[0]="Take shelter in SPARK room"
-ObjectiveTextPools[1]="Lily Shen must activate the SPARK"
-ObjectiveTextPools[2]="SPARK must turn off poison gas vents"
-ObjectiveTextPools[3]="Send all XCOM soldiers up the elevators"
-ObjectiveTextPools[4]="Lily Shen must survive"
-ObjectiveTextPools[5]="SPARK must survive"
+ObjectiveTextPools[0]="Buscar abrigo na sala do SPARK"
+ObjectiveTextPools[1]="Lily Shen deve ativar o SPARK"
+ObjectiveTextPools[2]="O SPARK deve desligar as saídas de gás venenoso"
+ObjectiveTextPools[3]="Enviar todos os soldados da XCOM pelos elevadores"
+ObjectiveTextPools[4]="Lily Shen deve sobreviver"
+ObjectiveTextPools[5]="O SPARK deve sobreviver"
 
 [DefaultLastGiftPartC X2MissionNarrativeTemplate]
-ObjectiveTextPools[0]="Destroy Julian's Sectopod"
-ObjectiveTextPools[1]="Take control of the roof"
-ObjectiveTextPools[2]="Lily Shen must survive"
-ObjectiveTextPools[3]="SPARK must survive"
+ObjectiveTextPools[0]="Destruir o Sectopod de Julian"
+ObjectiveTextPools[1]="Tomar controle do telhado"
+ObjectiveTextPools[2]="Lily Shen deve sobreviver"
+ObjectiveTextPools[3]="O SPARK deve sobreviver"
 
 [MissionTimers]
-LostTowersTitle="Poison Gas Flood"
-LostTowersSubtitle="Turns until room floods"
+LostTowersTitle="Inundação de Gás Venenoso"
+LostTowersSubtitle="Turnos até o ambiente ser inundado"
 
 [MissionWorldMessages]
-SoldierReturnedToAvenger="Wounded XCOM unit returned to Avenger"
+SoldierReturnedToAvenger="Unidade da XCOM ferida retornou ao Avenger"
 
 
 ; *********************************************************************************************************************
-; ***                                            SPARK ABILITIES                                                   ***
+; ***                                            HABILIDADES DO SPARK                                              ***
 ; *********************************************************************************************************************
 
-; ---------- General Path -----------------
+; ---------- Caminho Geral -----------------
 
 [Overdrive X2AbilityTemplate]
-LocFriendlyName="Overdrive"
-LocLongDescription="Take three actions this turn, and no action is turn-ending. Multiple Standard Shots incur a small recoil penalty."
-LocHelpText="Take three actions this turn, and no action is turn-ending. Multiple Standard Shots incur a small recoil penalty."
-LocPromotionPopupText="<Bullet/> A recoil penalty of <Ability:Overdrive_RecoilPenalty/>% Aim is applied after each Standard Shot while Overdrive is active.<br/><Bullet/> Overdrive has no cost to activate, but has a <Ability:SelfCooldown/> turn cooldown.<br/>"
+LocFriendlyName="Sobrecarga"
+LocLongDescription="Realize três ações neste turno, e nenhuma ação é que encerra o turno. Tiros padrão múltiplos incorrem em uma pequena penalidade de recuo."
+LocHelpText="Realize três ações neste turno, e nenhuma ação encerra o turno. Tiros padrão múltiplos incorrem em uma pequena penalidade de recuo."
+LocPromotionPopupText="<Bullet/> Uma penalidade de recuo de <Ability:Overdrive_RecoilPenalty/>% de Precisão é aplicada após cada Tiro Padrão enquanto a Sobrecarga estiver ativa.<br/><Bullet/> A Sobrecarga não tem custo para ativar, mas tem um tempo de recarga de <Ability:SelfCooldown/> turno.<br/>"
 
 [SparkRocketLauncher X2AbilityTemplate]
-LocFriendlyName="Rocket Launcher"
-LocHelpText="Fire a rocket at target area."
+LocFriendlyName="Lança-Foguetes"
+LocHelpText="Dispare um foguete em uma área alvo."
 
 [SparkShredderGun X2AbilityTemplate]
-LocFriendlyName="Fire Shredder Gun"
-LocHelpText="Fire your Shredder Gun at a cone-shaped area."
+LocFriendlyName="Disparo da Arma Trituradora"
+LocHelpText="Dispare sua Arma Trituradora em uma área em forma de cone."
 
 [SparkShredstormCannon X2AbilityTemplate]
-LocFriendlyName="Shredstorm Cannon"
-LocHelpText="Fire your Shredstorm Cannon."
+LocFriendlyName="Canhão Tempestade Trituradora"
+LocHelpText="Dispare seu Canhão Tempestade Trituradora."
 
 [SparkFlamethrower X2AbilityTemplate]
-LocFriendlyName="Fire Flamethrower"
-LocHelpText="Spray flames in a cone-shaped area."
+LocFriendlyName="Lança-Chamas"
+LocHelpText="Asperja chamas em uma área em forma de cone."
 
 [SparkFlamethrowerMk2 X2AbilityTemplate]
-LocFriendlyName="Hellfire Projector"
-LocHelpText="Spray flames in a cone-shaped area."
+LocFriendlyName="Projetor do Inferno"
+LocHelpText="Asperja chamas em uma área em forma de cone."
 
 [SparkBlasterLauncher X2AbilityTemplate]
-LocFriendlyName="Blaster Bomb"
-LocHelpText="Fire a guided Blaster Bomb at a target area."
+LocFriendlyName="Bomba Explosiva"
+LocHelpText="Dispare uma Bomba Explosiva guiada em uma área alvo."
 
 [SparkPlasmaBlaster X2AbilityTemplate]
-LocFriendlyName="Plasma Blaster"
-LocHelpText="Fire your Plasma Blaster."
+LocFriendlyName="Bomba de Plasma"
+LocHelpText="Dispare sua Bomba de Plasma."
 
-; ---------- War Machine Path ------------------
+; ---------- Caminho Máquina de Guerra ------------------
 
-; Aspirant (Corporal)
+; Aspirante (Cabo)
 [Bulwark X2AbilityTemplate]
-LocFriendlyName="Bulwark"
-LocLongDescription="Gain a bonus point of Armor, and always provide high cover to all adjacent squadmates."
-LocHelpText="Gain a bonus point of Armor, and always provide high cover to all adjacent squadmates."
-LocPromotionPopupText="<Bullet/> Bulwark adds one point of Armor.<br/><Bullet/> Any squadmate standing adjacent to the SPARK will gain the high cover Defense bonus.<br/>"
+LocFriendlyName="Baluarte"
+LocLongDescription="Ganhe um ponto de Armadura extra e forneça sempre cobertura total a todos os membros do esquadrão adjacentes."
+LocHelpText="Ganhe um ponto de Armadura extra e forneça sempre cobertura total a todos os membros do esquadrão adjacentes."
+LocPromotionPopupText="<Bullet/> Baluarte adiciona um ponto de Armadura.<br/><Bullet/> Qualquer membro do esquadrão de pé adjacente ao SPARK ganhará o bônus de Defesa de cobertura total.<br/>"
 
-; Knight (Sergeant)
+; Cavaleiro (Sargento)
 [Arsenal X2AbilityTemplate]
 LocFriendlyName="Arsenal"
-LocLongDescription="The BIT can equip and fire heavy weapons."
-LocHelpText="The BIT can equip and fire heavy weapons."
-LocPromotionPopupText="<Bullet/> Arsenal allows the SPARK to equip heavy weapons in their loadout.<br/>"
+LocLongDescription="O BIT pode equipar e disparar armas pesadas."
+LocHelpText="O BIT pode equipar e disparar armas pesadas."
+LocPromotionPopupText="<Bullet/> Arsenal permite que o SPARK equipe armas pesadas em seu carregamento.<br/>"
 
 [Rainmaker X2AbilityTemplate]
-LocFriendlyName="Rainmaker"
-LocLongDescription="Equipped heavy weapons deal +<Ability:Rainmaker_BonusDamage/> damage and have increased area of effect."
-LocHelpText="Equipped heavy weapons deal more damage and affect a larger area."
-LocPromotionPopupText="<Bullet/> Rainmaker adds +<Ability:Rainmaker_BonusDamage/> damage to all heavy weapons.<br/><Bullet/> Heavy weapons with circular areas of effect have their radius increased by +<Ability:Rainmaker_BonusRadius/>.<br/><Bullet/> Heavy weapons with conic areas of effect have their diameter increased by +<Ability:Rainmaker_BonusDiameter/> and length increased by +<Ability:Rainmaker_BonusLength/>.<br/>"
+LocFriendlyName="Fabricante de Chuva"
+LocLongDescription="Armas pesadas equipadas causam +<Ability:Rainmaker_BonusDamage/> de dano e têm maior área de efeito."
+LocHelpText="Armas pesadas equipadas causam mais dano e afetam uma área maior."
+LocPromotionPopupText="<Bullet/> Fabricante de Chuva adiciona +<Ability:Rainmaker_BonusDamage/> de dano a todas as armas pesadas.<br/><Bullet/> Armas pesadas com áreas circulares de efeito têm seu raio aumentado em +<Ability:Rainmaker_BonusRadius/>.<br/><Bullet/> Armas pesadas com áreas de efeito em forma de cone têm seu diâmetro aumentado em +<Ability:Rainmaker_BonusDiameter/> e seu comprimento aumentado em +<Ability:Rainmaker_BonusLength/>.<br/>"
 
-; Cavalier (Lieutenant)
+; Cavalheiro (Tenente)
 [Intimidate X2AbilityTemplate]
-LocFriendlyName="Intimidate"
-LocLongDescription="When targeted by an attack, the enemy has a chance to panic."
-LocHelpText="When targeted by an attack, the enemy has a chance to panic."
-LocFlyOverText="Intimidate"
-LocPromotionPopupText="<Bullet/> Intimidate's chance to panic the attacker increases with higher tier SPARK armors.<br/><Bullet/> Intimidate can be triggered by melee and area of effect attacks.<br/><Bullet/> Intimidate will not trigger when targeted by Overwatch fire.<br/>"
+LocFriendlyName="Intimidar"
+LocLongDescription="Quando for alvo de um ataque, o inimigo tem uma chance de entrar em pânico."
+LocHelpText="Quando for alvo de um ataque, o inimigo tem uma chance de entrar em pânico."
+LocFlyOverText="Intimidar"
+LocPromotionPopupText="<Bullet/> A chance de intimidação de Intimidar aumenta com as armaduras de SPARK de nível mais alto.<br/><Bullet/> Intimidar pode ser acionado por ataques corpo a corpo e ataques de área de efeito.<br/><Bullet/> Intimidar não será acionado quando alvo de tiros de Overwatch.<br/>"
 
 [IntimidateTrigger X2AbilityTemplate]
-LocFriendlyName="Intimidate"
-LocLongDescription="When targeted by an attack, all visible enemies have a chance to panic."
-LocHelpText="When targeted by an attack, all visible enemies have a chance to panic."
-LocFlyOverText="Intimidate"
+LocFriendlyName="Intimidar"
+LocLongDescription="Quando for alvo de um ataque, todos os inimigos visíveis têm uma chance de entrar em pânico."
+LocHelpText="Quando for alvo de um ataque, todos os inimigos visíveis têm uma chance de entrar em pânico."
+LocFlyOverText="Intimidar"
 LocPromotionPopupText=""
-LocMissMessage="Intimidate Failed"
+LocMissMessage="Intimidar Falhou"
 
-; Vanguard (Captain)
+; Vanguarda (Capitão)
 [Repair X2AbilityTemplate]
-LocFriendlyName="Repair"
-LocLongDescription="Send the BIT to a damaged robotic ally and repair it. Advanced BITs can repair slightly more."
-LocHelpText="Send the BIT to repair a damaged robotic ally."
-LocFlyOverText="Repair"
-LocPromotionPopupText="<Bullet/> Repair will restore <Ability:Repair_HealHP/> health.<br/><Bullet/> Upgrading your BIT will lead to more HP repaired.<br/><Bullet/> Using Repair as your first action will not end your turn.<br/><Bullet/> Repair has <Ability:Repair_Charges/> charges per mission.<br/>"
+LocFriendlyName="Reparar"
+LocLongDescription="Envie o BIT para um aliado robótico danificado e repare-o. BITs avançados podem reparar um pouco mais."
+LocHelpText="Envie o BIT para reparar um aliado robótico danificado."
+LocFlyOverText="Reparar"
+LocPromotionPopupText="<Bullet/> Reparar irá restaurar <Ability:Repair_HealHP/> de saúde.<br/><Bullet/> Melhorar o seu BIT irá levar a mais HP reparado.<br/><Bullet/> Usar Reparar como sua primeira ação não encerrará seu turno.<br/><Bullet/> Reparar tem <Ability:Repair_Charges/> cargas por missão.<br/>"
 
-; Paladin (Major)
+; Paladino (Major)
 [AbsorptionField X2AbilityTemplate]
-LocFriendlyName="Channeling Field"
-LocLongDescription="Every time you are targeted, part of the energy is channeled to your <Ability:WeaponName>. This energy is unleashed with your next Standard Shot."
-LocHelpText="Channel energy to your <Ability:WeaponName> when targeted, and unleash it with your next Standard Shot."
-LocFlyOverText="Energy Channeled: +1"
-LocPromotionPopupText="<Bullet/> Each point of energy channeled by Channeling Field increases the damage of the next <Ability:WeaponName> attack by 1.<br/><Bullet/> The energy stored by channeling field is expended even if the next shot misses.<br/>"
+LocFriendlyName="Campo de Canalização"
+LocLongDescription="Toda vez que você for alvo, parte da energia é canalizada para sua <Ability:WeaponName>. Essa energia é liberada com seu próximo Tiro P
 
-; Champion (Colonel)
+adrão."
+LocHelpText="Canalize energia para sua <Ability:WeaponName> quando for alvo e libere-a com seu próximo Tiro Padrão."
+LocFlyOverText="Energia Canalizada: +1"
+LocPromotionPopupText="<Bullet/> Cada ponto de energia canalizada por Campo de Canalização aumenta o dano do próximo ataque de <Ability:WeaponName> em 1.<br/><Bullet/> A energia armazenada pelo campo de canalização é consumida mesmo que o próximo tiro erre.<br/>"
+
+; Campeão (Coronel)
 [Sacrifice X2AbilityTemplate]
-LocFriendlyName="Sacrifice"
-LocLongDescription="Generate a protective field which redirects any attacks against allies inside it towards you. Gain bonus defense and armor while active."
-LocHelpText="Generate a protective field to redirect enemy attacks towards you."
-LocFlyOverText="Sacrifice"
-LocPromotionPopupText="<Bullet/> The SPARK gains +<Ability:Sacrifice_Defense/> defense and +<Ability:Sacrifice_Armor/> armor while Sacrifice is active.<br/><Bullet/> Sacrifice has a <Ability:SelfCooldown/> turn cooldown.<br/>"
+LocFriendlyName="Sacrifício"
+LocLongDescription="Crie um campo protetor que redireciona quaisquer ataques contra aliados dentro dele para você. Ganhe defesa e armadura extra enquanto estiver ativo."
+LocHelpText="Crie um campo protetor para redirecionar os ataques inimigos para você."
+LocFlyOverText="Sacrifício"
+LocPromotionPopupText="<Bullet/> O SPARK ganha +<Ability:Sacrifice_Defense/> de defesa e +<Ability:Sacrifice_Armor/> de armadura enquanto o Sacrifício estiver ativo.<br/><Bullet/> O Sacrifício tem um tempo de recarga de <Ability:SelfCooldown/> turno.<br/>"
 
-; ---------- Future Combat Path ----------------
+; ---------- Caminho de Combate Futuro ----------------
 
-; Aspirant (Corporal)
+; Aspirante (Cabo)
 [AdaptiveAim X2AbilityTemplate]
-LocFriendlyName="Adaptive Aim"
-LocLongDescription="When Overdrive is active, Standard Shots do not incur recoil penalties."
-LocHelpText="When Overdrive is active, Standard Shots do not incur recoil penalties."
-LocPromotionPopupText="<Bullet/> Adaptive Aim eliminates the <Ability:Overdrive_RecoilPenalty/>% Aim penalty for consecutive Standard Shots when Overdrive is active.<br/>"
+LocFriendlyName="Mirada Adaptativa"
+LocLongDescription="Quando a Ultracarga estiver ativa, os tiros padrão não sofrem penalidades de recuo."
+LocHelpText="Quando a Ultracarga estiver ativa, os tiros padrão não sofrem penalidades de recuo."
+LocPromotionPopupText="<Bullet/> A Mirada Adaptativa elimina a penalidade de <Ability:Overdrive_RecoilPenalty/>% de Precisão para tiros padrão consecutivos quando a Ultracarga está ativa.<br/>"
 
-; Knight (Sergeant)
+; Cavaleiro (Sargento)
 [Strike X2AbilityTemplate]
-LocFriendlyName="Strike"
-LocLongDescription="Attack any enemy within movement range with a powerful melee attack."
-LocHelpText="Attack any enemy within movement range with a powerful melee attack."
-LocPromotionPopupText="<Bullet/> You can trigger the Strike ability by placing the movement cursor over an enemy.<br/><Bullet/> A SPARK can perform a \"Dash\" move, using both actions to move, and still trigger a Strike against an adjacent enemy.<br/>"
+LocFriendlyName="Ataque"
+LocLongDescription="Ataque qualquer inimigo dentro do alcance de movimento com um poderoso ataque corpo a corpo."
+LocHelpText="Ataque qualquer inimigo dentro do alcance de movimento com um poderoso ataque corpo a corpo."
+LocPromotionPopupText="<Bullet/> Você pode acionar a habilidade Ataque posicionando o cursor de movimento sobre um inimigo.<br/><Bullet/> Um SPARK pode realizar um movimento \"Rápido\", usando ambas as ações para se mover e ainda assim acionar um Ataque contra um inimigo adjacente.<br/>"
 
-; Cavalier (Lieutenant)
+; Cavalariço (Tenente)
 [WreckingBall X2AbilityTemplate]
-LocFriendlyName="Wrecking Ball"
-LocLongDescription="While Overdrive is active, break through walls and cover when moving."
-LocHelpText="While Overdrive is active, break through walls and cover when moving."
-LocPromotionPopupText="<Bullet/> Wrecking Ball can be used to expose enemies to flanking shots.<br/><Bullet/> Use movement waypoints to guide the SPARK on an optimal path for destroying cover and the environment.</br>"
+LocFriendlyName="Bola Demolidora"
+LocLongDescription="Quando a Ultracarga estiver ativa, o SPARK pode romper paredes e cobertura ao se mover."
+LocHelpText="Quando a Ultracarga estiver ativa, o SPARK pode romper paredes e cobertura ao se mover."
+LocPromotionPopupText="<Bullet/> A Bola Demolidora pode ser usada para expor inimigos a tiros de flanqueamento.<br/><Bullet/> Use pontos de movimento para guiar o SPARK em um caminho ideal para destruir coberturas e o ambiente.</br>"
 
-; Vanguard (Captain)
+; Vanguarda (Capitão)
 [Bombard X2AbilityTemplate]
-LocFriendlyName="Bombard"
-LocLongDescription="Launch the BIT to any visible location where it releases a powerful explosive blast. Advanced BITs do more damage."
-LocHelpText="Launch the BIT to blast all units in a radius."
-LocPromotionPopupText="<Bullet/> Bombard can be fired at any location within squadsight.<br/><Bullet/> Upgrading your BIT will lead to more Bombard damage.<br/>"
+LocFriendlyName="Bombardeio"
+LocLongDescription="Lance o BIT para qualquer local visível onde ele liberará uma poderosa explosão. BITs avançados causam mais dano."
+LocHelpText="Lance o BIT para explodir todas as unidades em um raio."
+LocPromotionPopupText="<Bullet/> O Bombardeio pode ser disparado em qualquer local dentro do campo de visão.<br/><Bullet/> A melhoria do seu BIT causará mais dano com o Bombardeio.<br/>"
 
-; Paladin (Major)
+; Paladino (Major)
 [HunterProtocol X2AbilityTemplate]
-LocFriendlyName="Hunter Protocol"
-LocLongDescription="When an enemy is revealed, there is a <Ability:HunterProtocol_Chance/>% chance to take a free Overwatch shot."
-LocHelpText="When an enemy is revealed, there is a <Ability:HunterProtocol_Chance/>% chance to take a free Overwatch shot."
-LocPromotionPopupText="<Bullet/> Hunter Protocol makes the SPARK an ideal unit for scouting into the fog of war, since any revealed enemy can be instantly attacked.<br/>"
+LocFriendlyName="Protocolo Caçador"
+LocLongDescription="Quando um inimigo é revelado, há uma chance de <Ability:HunterProtocol_Chance/>% de executar um tiro de Overwatch gratuito."
+LocHelpText="Quando um inimigo é revelado, há uma chance de <Ability:HunterProtocol_Chance/>% de executar um tiro de Overwatch gratuito."
+LocPromotionPopupText="<Bullet/> O Protocolo Caçador torna o SPARK uma unidade ideal para explorar a névoa de guerra, pois qualquer inimigo revelado pode ser atacado instantaneamente.<br/>"
 
-; Champion (Colonel)
+; Campeão (Coronel)
 [Nova X2AbilityTemplate]
 LocFriendlyName="Nova"
-LocLongDescription="Release a blast of energy, damaging all nearby units. This attack has no cost or cooldown, but consecutive Novas will damage the SPARK."
-LocHelpText="Blast all nearby units. Consecutive Novas will damage the SPARK."
-LocPromotionPopupText="<Bullet/> Nova has no action point cost and no cooldown.<br/><Bullet/> The first Nova attack each mission will deal 0 damage to the SPARK.<br/><Bullet/> All Nova attacks after the first will deal a stacking <Ability:Nova_Damage/> damage to the SPARK.<br/>"
+LocLongDescription="Libera uma explosão de energia, causando dano a todos os inimigos próximos. Este ataque não tem custo de pontos de ação nem tempo de recarga, mas Novas consecutivas causarão dano ao SPARK."
+LocHelpText="Exploda todos os inimigos próximos. Novas consecutivas causarão dano ao SPARK."
+LocPromotionPopupText="<Bullet/> A habilidade Nova não possui custo de pontos de ação e não tem tempo de recarga.<br/><Bullet/> O primeiro ataque Nova em cada missão causará 0 de dano ao SPARK.<br/><Bullet/> Todos os ataques Nova após o primeiro causarão um dano acumulado de <Ability:Nova_Damage/> ao SPARK.<br/>"
 
-; ---------- Feral Sparks ----------------
+; ---------- Feras SPARK ----------------
 
 [EngageSelfDestruct X2AbilityTemplate]
-LocFriendlyName="Prime Self-Destruct"
-LocLongDescription="Enter Self-Destruct mode. MEC can be manually detonated and will explode if it takes fatal damage."
-LocHelpText="Enter Self-Destruct mode. MEC can be manually detonated and will explode if it takes fatal damage."
+LocFriendlyName="Ativar Autodestruição"
+LocLongDescription="Ative o modo de Autodestruição. O SPARK pode ser detonado manualmente e explodirá se sofrer dano fatal."
+LocHelpText="Ative o modo de Autodestruição. O SPARK pode ser detonado manualmente e explodirá se sofrer dano fatal."
 
 [TriggerSelfDestruct X2AbilityTemplate]
-LocFriendlyName="Trigger Self-Destruct"
-LocLongDescription="Detonate the MEC, destroying it and damaging all nearby units."
-LocHelpText="Detonate the MEC, destroying it and damaging all nearby units."
+LocFriendlyName="Detonar Autodestruição"
+LocLongDescription="Detone o SPARK, destruindo-o e causando dano a todas as unidades próximas."
+LocHelpText="Detone o SPARK, destruindo-o e causando dano a todas as unidades próximas."
 
 ; *********************************************************************************************************************
-; ***                                            SHEN ABILITIES                                                     ***
+; ***                                            HABILIDADES DE SHEN                                             ***
 ; *********************************************************************************************************************
 
 [CombatProtocol_Shen X2AbilityTemplate]
-LocFriendlyName="Combat Protocol"
-LocLongDescription="Send the GREMLIN to an enemy to jolt them, dealing guaranteed damage, which is increased against robotic enemies."
-LocHelpText="Send the GREMLIN to an enemy to jolt them, dealing guaranteed damage, which is increased against robotic enemies. Requires line of sight to the target."
-LocFlyOverText="Combat Protocol"
-LocPromotionPopupText="<Bullet/> Combat Protocol has a <Ability:SelfCooldown/> turn cooldown.<br/>"
+LocFriendlyName="Protocolo de Combate"
+LocLongDescription="Envie o GREMLIN a um inimigo para eletrocutá-lo, causando dano garantido, que é aumentado contra inimigos robóticos."
+LocHelpText="Envie o GREMLIN a um inimigo para eletrocutá-lo, causando dano garantido, que é aumentado contra inimigos robóticos. Requer linha de visão para o alvo."
+LocFlyOverText="Protocolo de Combate"
+LocPromotionPopupText="<Bullet/> O Protocolo de Combate possui um tempo de recarga de <Ability:SelfCooldown/> turno.<br/>"
 
 [CapacitorDischarge_Shen X2AbilityTemplate]
-LocFriendlyName="Capacitor Discharge"
-LocLongDescription="Send the GREMLIN to a location where it emits a substantial electric discharge, damaging and potentially stunning all nearby units. Robotic units take more damage."
-LocHelpText="Send the GREMLIN to electrocute all units in a radius. Robotic units take more damage."
-LocFlyOverText="Capacitor Discharge"
-LocPromotionPopupText="<Bullet/> Capacitor Discharge has a <Ability:SelfCooldown/> turn cooldown.<br/>"
+LocFriendlyName="Descarga de Capacitor"
+LocLongDescription="Envie o GREMLIN para um local onde ele emite uma descarga elétrica substancial, causando dano e potencialmente atordoando todas as unidades próximas. Unidades robóticas recebem mais dano."
+LocHelpText="Envie o GREMLIN para eletrocutar todas as unidades em um raio. Unidades robóticas recebem mais dano."
+LocFlyOverText="Descarga de Capacitor"
+LocPromotionPopupText="<Bullet/> A Descarga de Capacitor tem um tempo de recarga de <Ability:SelfCooldown/> turno.<br/>"
 
 [MedicalProtocol_Shen X2AbilityTemplate]
-LocFriendlyName="Medical Protocol"
-LocLongDescription="The GREMLIN can perform healing actions remotely: GREMLIN Heal and GREMLIN Stabilize. The GREMLIN has four charges. If a medikit is equipped, the GREMLIN will gain an additional charge."
-LocHelpText="The GREMLIN now performs healing actions: GREMLIN Heal and GREMLIN Stabilize."
-LocFlyOverText="Medical Protocol"
-LocPromotionPopupText="<Bullet/> Upgrading your GREMLIN will lead to more HP healed per charge.<br/><Bullet/> GREMLIN Heal or GREMLIN Stabilize when used as your first action will not end your turn.<br/>"
+LocFriendlyName="Protocolo Médico"
+LocLongDescription="O GREMLIN pode realizar ações de cura remotamente: Cura do GREMLIN e Estabilização do GREMLIN. O GREMLIN possui quatro cargas. Se um kit médico estiver equipado, o GREMLIN ganhará uma carga adicional."
+LocHelpText="O GREMLIN agora realiza ações de cura: Cura do GREMLIN e Estabilização do GREMLIN."
+LocFlyOverText="Protocolo Médico"
+LocPromotionPopupText="<Bullet/> Melhorar seu GREMLIN levará a mais HP curado por carga.<br/><Bullet/> Cura do GREMLIN ou Estabilização do GREMLIN, quando usados como sua primeira ação, não encerrarão seu turno.<br/>"
 
 [GremlinHeal_Shen X2AbilityTemplate]
-LocFriendlyName="GREMLIN Heal"
-LocLongDescription="Send your GREMLIN out to heal an injured ally. Heals up to <Ability:GREMLINHEALHP/> HP with each use. Advanced GREMLINs can heal slightly more."
-LocHelpText="Send your GREMLIN out to heal an injured ally."
+LocFriendlyName="Cura do GREMLIN"
+LocLongDescription="Envie o GREMLIN para curar um aliado ferido. Cura até <Ability:GREMLINHEALHP/> HP a cada uso. GREMLINs avançados podem curar um pouco mais."
+LocHelpText="Envie o GREMLIN para curar um aliado ferido."
 LocPromotionPopupText=""
 
 [GremlinStabilize_Shen X2AbilityTemplate]
-LocFriendlyName="GREMLIN Stabilize"
-LocLongDescription="Stops a soldier from bleeding out. Consumes one charge (which is shared with GREMLIN Heal)."
-LocHelpText="Stops a soldier from bleeding out."
-LocFlyOverText="Stabilized"
+LocFriendlyName="Estabilização do GREMLIN"
+LocLongDescription="Impede que um soldado morra desangrado. Consome uma carga (que é compartilhada com a Cura do GREMLIN)."
+LocHelpText="Impede que um soldado morra desangrado."
+LocFlyOverText="Estabilizado"
 LocPromotionPopupText=""
 
 [Interact_ActivateSpark X2AbilityTemplate]
-LocFriendlyName="Activate SPARK"
-LocHelpText="Activate the SPARK unit."
+LocFriendlyName="Ativar SPARK"
+LocHelpText="Ativa a unidade SPARK."
 
 [Hack_ElevatorControl X2AbilityTemplate]
-LocFriendlyName="Hack Elevator Control"
-LocHelpText="Hack into the elevator control panel."
+LocFriendlyName="Hackear Controle do Elevador"
+LocHelpText="Hackeie o painel de controle do elevador."
 
 [Interact_AtmosphereComputer X2AbilityTemplate]
-LocFriendlyName="Use Atmosphere Computer"
-LocHelpText="Vent the poisonous gases from the chamber."
+LocFriendlyName="Usar Computador de Atmosfera"
+LocHelpText="Ventile os gases venenosos da câmara."
 
 [Interact_UseElevator X2AbilityTemplate]
-LocFriendlyName="Use Elevator"
-LocHelpText="Proceed to higher floor."
+LocFriendlyName="Usar Elevador"
+LocHelpText="Avance para o próximo andar."
 
 [IntrusionProtocol_Hack_ElevatorControl X2AbilityTemplate]
-LocFriendlyName="Hack Elevator Control"
-LocHelpText="Hack into the elevator control panel."
+LocFriendlyName="Hackear Controle do Elevador"
+LocHelpText="Hackeie o painel de controle do elevador."
 
 ;--------------------------------
-; Spark Customization - Heads
+; Personalização do SPARK - Cabeças
 ;--------------------------------
 [Spark_Head_A X2BodyPartTemplate]
 DisplayName="Delta 1"
@@ -562,60 +558,60 @@ DisplayName="Delta 4"
 [Spark_Head_F X2BodyPartTemplate]
 DisplayName="Delta 5"
 [Spark_Plt_Head_A X2BodyPartTemplate]
-DisplayName="Plated 1"
+DisplayName="Placa 1"
 [Spark_Plt_Head_B X2BodyPartTemplate]
-DisplayName="Plated 2"
+DisplayName="Placa 2"
 [Spark_Pwr_Head_A X2BodyPartTemplate]
-DisplayName="Powered 1"
+DisplayName="Energizado 1"
 [Spark_Pwr_Head_B X2BodyPartTemplate]
-DisplayName="Powered 2"
+DisplayName="Energizado 2"
 
 ;--------------------------------
-; Spark Customization - Voices
+; Personalização do SPARK - Vozes
 ;--------------------------------
 [SparkCalmVoice1_English X2BodyPartTemplate]
-DisplayName="English Guardian"
+DisplayName="Guardião em Inglês"
 [SparkWarriorVoice1_English X2BodyPartTemplate]
-DisplayName="English Warrior"
+DisplayName="Guerreiro em Inglês"
 [SparkJulianVoice1_English X2BodyPartTemplate]
-DisplayName="English Julian"
+DisplayName="Julian em Inglês"
 
 [SparkCalmVoice1_French X2BodyPartTemplate]
-DisplayName="French Guardian"
+DisplayName="Guardião em Francês"
 [SparkWarriorVoice1_French X2BodyPartTemplate]
-DisplayName="French Warrior"
+DisplayName="Guerreiro em Francês"
 [SparkJulianVoice1_French X2BodyPartTemplate]
-DisplayName="French Julian"
+DisplayName="Julian em Francês"
 
 [SparkCalmVoice1_German X2BodyPartTemplate]
-DisplayName="German Guardian"
+DisplayName="Guardião em Alemão"
 [SparkWarriorVoice1_German X2BodyPartTemplate]
-DisplayName="German Warrior"
+DisplayName="Guerreiro em Alemão"
 [SparkJulianVoice1_German X2BodyPartTemplate]
-DisplayName="German Julian"
+DisplayName="Julian em Alemão"
 
 [SparkCalmVoice1_Italian X2BodyPartTemplate]
-DisplayName="Italian Guardian"
+DisplayName="Guardião em Italiano"
 [SparkWarriorVoice1_Italian X2BodyPartTemplate]
-DisplayName="Italian Warrior"
+DisplayName="Guerreiro em Italiano"
 [SparkJulianVoice1_Italian X2BodyPartTemplate]
-DisplayName="Italian Julian"
+DisplayName="Julian em Italiano"
 
 [SparkCalmVoice1_Spanish X2BodyPartTemplate]
-DisplayName="Spanish Guardian"
+DisplayName="Guardião em Espanhol"
 [SparkWarriorVoice1_Spanish X2BodyPartTemplate]
-DisplayName="Spanish Warrior"
+DisplayName="Guerreiro em Espanhol"
 [SparkJulianVoice1_Spanish X2BodyPartTemplate]
-DisplayName="Spanish Julian"
+DisplayName="Julian em Espanhol"
 
 ;--------------------------------
-;Tatoos
+; Tatuagens
 ;--------------------------------
 [DLC_3_Tattoo_Arms_01 X2BodyPartTemplate]
 DisplayName="Shen"
 
 ;--------------------------------
-;Lost Towers Shen
+; Shen das Torres Perdidas
 ;--------------------------------
 [LostTowersShen X2CharacterTemplate]
 strForcedFirstName="Lily"
@@ -623,37 +619,31 @@ strForcedLastName="Shen"
 strForcedNickName=""
 
 ;--------------------------------
-;Spark Country
+; País do SPARK
 ;--------------------------------
 [Country_Spark X2CountryTemplate]
 DisplayName="SPARK"
 DisplayNameWithArticle="SPARK"
 DisplayNameWithArticleLower="SPARK"
-DisplayNamePossessive="SPARK's"
+DisplayNamePossessive="SPARK"
 DisplayAdjective="SPARK"
 
 ;--------------------------------
-;Hack Rewards
+; Recompensas de Hacking
 ;--------------------------------
 
 [ActivateElevator X2HackRewardTemplate]
-FriendlyName="Activate Elevator"
-Description="Activate the elevator system."
+FriendlyName="Ativar Elevador"
+Description="Ativa o sistema do elevador."
 
 [ElevatorIntel X2HackRewardTemplate]
-FriendlyName="Small Intel Cache"
-Description="Recover a small cache of Intel."
+FriendlyName="Pequeno Cofre de Inteligência"
+Description="Recupere um pequeno cofre de Inteligência."
 
 [ElevatorSupplies X2HackRewardTemplate]
-FriendlyName="Small Supply Cache"
-Description="Recover a small cache of Supplies."
+FriendlyName="Pequeno Cofre de Suprimentos"
+Description="Recupere um pequeno cofre de Suprimentos."
 
 [ControlAllDerelicts X2HackRewardTemplate]
-FriendlyName="Mass Intrusion"
-Description="Gain control of all MECs on the field."
-
-;--------------------------------
-;Ability Point Events
-;--------------------------------
-[JulianDefeated X2AbilityPointTemplate]
-ActionFriendlyName="by Defeating Julian"
+FriendlyName="Intrusão em Massa"
+Description="Obtenha o controle de todos os MECs no campo."
