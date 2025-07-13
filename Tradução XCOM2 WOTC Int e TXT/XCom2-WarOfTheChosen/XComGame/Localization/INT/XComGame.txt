@@ -5270,7 +5270,7 @@ LocFriendlyName="Fogo da Alma"
 LocLongDescription="Causa dano Psíquico garantido a um inimigo orgânico. Ignora cobertura e armadura."
 LocHelpText="Causa dano Psíquico garantido a um inimigo orgânico. Ignora cobertura e armadura."
 LocFlyOverText="Fogo da Alma"
-LocPromotionPopupText="<Bullet/> Tem recarga de <Ability:SelfCooldown/> turno.<br/><Bullet/> Dano pode ser aumentado com upgrades no Amplificador Psi.<br/><Bullet/> Inimigos robóticos são imunes.<br/>"
+LocPromotionPopupText="<Bullet/> Fogo da Alma tem tempo de recarga de <Ability:SelfCooldown/> turno.<br/><Bullet/> Dano pode ser aumentado com upgrades no Amplificador Psi.<br/><Bullet/> Inimigos robóticos são imunes.<br/>"
 
 [Stasis X2AbilityTemplate]
 LocFriendlyName="Stasis"
