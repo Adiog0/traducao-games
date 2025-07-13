@@ -1,126 +1,125 @@
 [Play_Sea_GatherDJ_Musings_E AkEvent]
-SpokenText="If anyone was planning a rescue, if you're already on your way, you might as well come on by. Not that you have to, but I wouldn't want you to have wasted your time."
+SpokenText="Se alguém estava planejando um resgate, se já está a caminho, pode vir logo. Não que precise, mas eu não gostaria que você tivesse perdido seu tempo."
 
 [Play_Sea_GatherDJ_Musings_D AkEvent]
-SpokenText="Shouldn't you guys have laser saws or something? I mean, it sure sounds like you're just out there beatin' on my door with your fists. If that's the case, good luck with that-ya freakin' caveman. Ha Ha! Radio Man!"
+SpokenText="Vocês não deveriam ter serras a laser ou algo assim? Quero dizer, parece que estão só batendo na minha porta com os punhos. Se for esse o caso, boa sorte com isso - seu maldito homem das cavernas. Ha Ha! Homem do rádio!"
 
 [Play_Sea_GatherDJ_Musings_C AkEvent]
-SpokenText="Tell me, who's that rap tap tapping at my chamber door?! Quoth the Raven! Nevermore! You hear me out there, ADVENT?! Nevermore! You're never getting in, you fascist goons!"
+SpokenText="Me diga, quem é esse batendo na minha porta?! Disse o Corvo! Nunca mais! Ouviu isso aí, ADVENT?! Nunca mais! Nunca vão entrar, seus fascistas!"
 
 [Play_Sea_GatherDJ_Musings_B AkEvent]
-SpokenText="Blah Blah Blah...Bark Bark Bark...that's you, ADVENT guy, that's what you sound like out there. That's what all you imposters sound like to us originals."
+SpokenText="Blah Blah Blah... Latido, latido, latido... é assim que você soa, cara da ADVENT, é isso que todos vocês impostores soam para nós, os originais."
 
 [Play_Sea_GatherDJ_Musings_A AkEvent]
-SpokenText="Despite being the product of advanced alien genetic manipulation, apparently our peacekeeping overlords never bothered to invest in battering ram technology. This is like something out a fairy tale, they just can't seem to blow my house down no matter how hard they try. I may not even need a rescue after all."
+SpokenText="Apesar de ser produto de manipulação genética alienígena avançada, aparentemente nossos overlords de paz nunca se preocuparam em investir em tecnologia de aríetes. Isso parece coisa de conto de fadas, eles simplesmente não conseguem derrubar minha casa, não importa o quanto tentem. Talvez eu nem precise de um resgate depois de tudo."
 
 [Play_Sea_Terror_Musings_I AkEvent]
-SpokenText="I'd like to take this moment to thank our generous sponsor, ADVENT. Now, I know what you're thinking, ADVENT? Screw those guys! And you'd be right, but hear me out. My little station wouldn't be here today without ADVENT's fancy relays and this big ole' antenna I found. Credit where credit is due and all that noise."
+SpokenText="Gostaria de aproveitar este momento para agradecer ao nosso generoso patrocinador, ADVENT. Agora, eu sei o que você está pensando, ADVENT? Que se dane esses caras! E você está certo, mas ouça-me. Minha pequena estação não estaria aqui hoje sem os sofisticados relays da ADVENT e essa grande antena que eu encontrei. Crédito onde crédito é devido e todo esse barulho."
 
 [Play_Sea_Terror_Musings_G AkEvent]
-SpokenText="If I've already paid a visit to your town, you might have noticed one of my relays and bunch of other equipment rigged up nearby. Do me a favor, will ya? Don't touch it. It might look like a bunch of cobbled together junk, but it's my junk, no...not that junk...the kind that keeps this show on the road."
+SpokenText="Se eu já passei pela sua cidade, você pode ter notado um dos meus relays e um monte de outros equipamentos montados por aí. Me faça um favor, ok? Não toque em nada. Pode parecer uma bagunça de coisas juntas, mas é a minha bagunça, não... não aquela bagunça... a que mantém esse show acontecendo."
 
 [Play_Sea_Terror_Musings_E AkEvent]
-SpokenText="So... got kind of a serious question for you. Has anyone else noticed a sudden uptick in big mean alien bugs running around? Nasty white ones with razor sharp talons? No? Yea...me either, that'd be crazy, right? I'm probably just seein' things. Keep your eyes peeled just in case though, ok?"
+SpokenText="Então... tenho uma pergunta séria para você. Alguém mais notou um aumento repentino de grandes insetos alienígenas agressivos correndo por aí? Aqueles brancos e feios com garras afiadas como navalhas? Não? É... eu também não, seria loucura, né? Acho que estou vendo coisas. Mas fique de olho, ok?"
 
 [Play_Sea_Terror_Musings_C AkEvent]
-SpokenText="If you're listening in during your travels but I haven't reached your local town, camp, settlement, shanty...whatever your situation, don't worry, I'm putting up new relays just as quick as I can, and someday soon there'll be no escaping the sound of my golden voice."
+SpokenText="Se você está ouvindo enquanto viaja, mas ainda não cheguei na sua cidade, acampamento, assentamento, barraco... seja lá qual for a sua situação, não se preocupe, estou colocando novos relays o mais rápido possível, e logo logo não vai haver como escapar do som da minha voz dourada."
 
 [Play_Sea_Terror_Musings_A AkEvent]
-SpokenText="The show never stops ladies and gentlemen! Let me tell you, it's not easy being the talent, the management, and the technician around here. I might even have to start pre-recording some of these shows just to get some sleep. I mean how long has it been? 36 hours? Does anybody know what Thursday is on the ADVENT calendar? Blarghsday? Something like that, right?"
+SpokenText="O show nunca para, senhoras e senhores! Deixe-me dizer, não é fácil ser o talento, a gestão e o técnico por aqui. Eu até vou ter que começar a gravar alguns desses shows com antecedência só para conseguir dormir. Quanto tempo já passou? 36 horas? Alguém sabe que dia é hoje no calendário da ADVENT? Blarghsday? Algo assim, né?"
 
 [Play_Sea_SabotageTransmitter_Musings_I AkEvent]
-SpokenText="Maybe you guys should consider starting a little radio network of your own? Freedom Radio? Battle cry of the resistance? Something to get your people good and riled up before you head out on an alien hunt? Think about it, I could be your guy, you just tell me when.. Wham! I'm there, baby!"
+SpokenText="Talvez vocês devessem considerar começar uma pequena rede de rádio própria? Rádio da Liberdade? O grito de guerra da resistência? Algo para deixar o povo bem animado antes de sair em uma caçada alienígena? Pensem nisso, eu poderia ser o cara de vocês, é só me dizer quando... Wham! Estou lá, baby!"
 
 [Play_Sea_ExtractDJ_Musings_I AkEvent]
-SpokenText="Wouldn't you have rather dealt with this now than later anyway? There could be thousands of those things in the ocean, maybe tens of thousands? If I hadn't drawn 'em in, you wouldn't even know they were out there. You could almost say I helped you guys out. Really!"
+SpokenText="Você não teria preferido lidar com isso agora do que mais tarde? Podem ter milhares dessas coisas no oceano, talvez dezenas de milhares? Se eu não tivesse atraído elas, vocês nem saberiam que estavam por aí. Você quase pode dizer que eu ajudei vocês. De verdade!"
 
 [Play_Sea_ExtractDJ_Musings_G AkEvent]
-SpokenText="You're just lucky you weren't around for some of my earlier experiments. A green plug here, a red one there, some other alien stuff-yea, you could say I had a few close calls. I'm guessing I won't be having kids anytime soon either if you catch my drift. I tell you what, I know how to put a hamjam in a wallbone, anytime!"
+SpokenText="Você teve sorte de não ter estado por aqui durante alguns dos meus experimentos anteriores. Um plugue verde aqui, um vermelho ali, mais algumas coisas alienígenas - é, você pode dizer que eu tive uns bons sustos. Acho que não terei filhos tão cedo, se você me entende. Eu te digo, sei como enfiar um 'hamjam' no 'wallbone', qualquer hora!"
 
 [Play_Sea_ExtractDJ_Musings_E AkEvent]
-SpokenText="Come on, you can't really blame me for playing around with the alien technology, you guys do it too. Don't think I haven't seen your toys. I'll admit I could have taken things a little slower, maybe done some testing first, but sometimes you just gotta jump right in and pull the trigger, you know?"
+SpokenText="Vamos lá, não dá para me culpar por brincar com a tecnologia alienígena, vocês também fazem isso. Não pensem que eu não vi os brinquedos de vocês. Admito que eu poderia ter ido com mais calma, talvez ter feito alguns testes primeiro, mas às vezes você só precisa mergulhar e apertar o gatilho, sabe?"
 
 [Play_Sea_ExtractDJ_Musings_C AkEvent]
-SpokenText="Yea! You know, I just wish I could help you guys out, but the recoil from those guns would just tear up my poor back. I mean, maybe if we find an icepack or something, I'll be able to jump back into the fight. Doesn't hurt to keep an eye out anyway."
+SpokenText="É! Sabe, só gostaria de poder ajudar vocês, mas o recuo dessas armas ia detonar minhas costas. Quer dizer, talvez se encontrarmos um pacote de gelo ou algo assim, eu consiga voltar para a luta. Não custa ficar de olho, né?"
 
 [Play_Sea_ExtractDJ_Musings_A AkEvent]
-SpokenText="Ok, so I'll admit it was probably a dumb idea to go by myself, but what were the chances of you guys tagging along to go look for my records? Slim to none? But you gotta think long-term. I'm looking out for our future, we can't afford to lose the music of our past, can we?"
+SpokenText="Ok, eu admito que provavelmente foi uma ideia estúpida ir sozinho, mas quais eram as chances de vocês virem comigo procurar meus discos? Quase nenhuma, né? Mas você tem que pensar a longo prazo. Estou pensando no nosso futuro, não podemos perder a música do nosso passado, podemos?"
 
 [Play_Sea_DestroyRadio_Musings_I AkEvent]
-SpokenText="I'm still waiting for a miracle out here....I'm not sure how much longer I can hide. I just wish I could have at least broadcasted this grand finale...I barely got the chance to get my feet wet..."
+SpokenText="Ainda estou esperando por um milagre por aqui... Não sei quanto tempo mais consigo me esconder. Eu só queria ter pelo menos transmitido esse grande final... mal consegui molhar os pés..."
 
 [Play_Sea_DestroyRadio_Musings_G AkEvent]
-SpokenText="Dammit! Come on you piece of.... aw screw it! So, um...yeah, I was wrong about the whole cabin fever thing. They're out there alright, and they want in real bad. Anyone, and I mean anyone...if you're reading me, come help your buddy out! I'm holed up in a building near the waterfront, okay! RIght next to the water..."
+SpokenText="Droga! Vamos lá, seu pedaço de... ah, dane-se! Então, hum... é, eu estava errado sobre essa coisa de febre de cabana. Eles estão lá fora, sim, e querem entrar, com certeza. Qualquer um, e quero dizer QUALQUER UM... se você está me ouvindo, venha me ajudar! Eu estou escondido em um prédio perto da beira d'água, ok! Bem ao lado da água..."
 
 [Play_Sea_DestroyRadio_Musings_E AkEvent]
-SpokenText="You know what? You know what? Maybe it's cabin fever. Aside from the occasional maintenance run, I've been pretty much been holed up in the booth here for days now. As a matter of fact...<sniff> it's actually getting a little ripe in here. I found a whole case of canned dog food last week. It's not bad, but it doesn't sit that well if, you get my meaning."
+SpokenText="Sabe de uma coisa? Sabe o que é? Talvez seja febre de cabana. Além das raras saídas para manutenção, eu basicamente estive preso aqui na cabine por dias. Aliás... <sniff> está começando a ficar um pouco... fedido aqui. Encontrei uma caixa inteira de ração enlatada para cachorro semana passada. Não é ruim, mas não desce muito bem, se é que você me entende."
 
 [Play_Sea_DestroyRadio_Musings_C AkEvent]
-SpokenText="I know I'm harping on this, but there's definitely something weird goin' on around here. Living out of whatever box you can find, you start to get used to strange noises and things that go bump in the night. But it's the clicking... and the clacking...then the clicking again. Some kinda scampering I tell you! Whatever it is, I don't like it one bit."
+SpokenText="Eu sei que estou insistindo nisso, mas definitivamente tem algo estranho acontecendo por aqui. Morar de qualquer jeito que você puder, você começa a se acostumar com barulhos estranhos e coisas que batem na noite. Mas é o clique... e o estalo... depois o clique de novo. Algum tipo de arrastar, te digo! O que quer que seja, eu não gosto nada disso."
 
 [Play_Sea_DestroyRadio_Musings_A AkEvent]
-SpokenText="To my loyal audience, I feel I need to get this out there. There's some rumors going around, bug rumors...and from the sounds of it, maybe I'm not that crazy after all. You're starting to see them too, right? The white things? With the pointy legs? The \"clickity clack\" creepers?""
+SpokenText="Para minha audiência fiel, sinto que preciso colocar isso para fora. Estão rolando uns boatos, boatos sobre insetos... e pelo som das coisas, talvez eu não esteja tão louco assim. Vocês também estão começando a ver eles, né? Aqueles brancos? Com as pernas pontudas? Os 'clicando e estalando'? Os rastejantes?"
 
 [Play_Sea_Abduction_Musings_I AkEvent]
-SpokenText="Now that I'm finally gettin' through to some of you out there, maybe introductions are in order. Let's see, a little about myself...great voice, dashing good looks, and a personality to match. You might as well call me \"DJ Total Package\" ... Oh ah, okay, don't call me that, but you get the idea."
+SpokenText="Agora que finalmente estou conseguindo falar com alguns de vocês aí, talvez sejam necessárias as apresentações. Vamos lá, um pouco sobre mim... voz incrível, aparência deslumbrante e uma personalidade que combina. Podem me chamar de 'DJ Pacote Completo'... Oh, ah, ok, não me chamem assim, mas já sabem o que eu quero dizer."
 
 [Play_Sea_SabotageTransmitter_Musings_G AkEvent]
-SpokenText="I've never told anybody this, but I actually tried to get in as one of those ADVENT propaganda announcers. It's basically the only job they have for people who have a way with words. They didn't take me of course, didn't pass the psych test. But I mean, what does that have to do with being on the radio?"
+SpokenText="Nunca contei isso para ninguém, mas eu realmente tentei entrar para ser um daqueles locutores de propaganda da ADVENT. Basicamente, é o único trabalho que eles oferecem para pessoas que têm lábia. Eles não me aceitaram, claro, não passei no teste psicológico. Mas quero dizer, o que isso tem a ver com estar no rádio?"
 
 [Play_Sea_SabotageTransmitter_Musings_E AkEvent]
-SpokenText="Look, I'm sorry about the trouble, alright? But imagine if you guys couldn't kill aliens anymore, you just couldn't. Someone came and took away your guns, your knives, your pointy sticks. They took away your purpose, the outlet for your talent. That's how I feel when I'm off the air."
+SpokenText="Olha, desculpe pelos problemas, certo? Mas imaginem se vocês não pudessem mais matar aliens, simplesmente não pudessem. Alguém veio e tirou suas armas, suas facas, seus paus pontiagudos. Tiraram seu propósito, a saída para o seu talento. É assim que me sinto quando fico fora do ar."
 
 [Play_Sea_SabotageTransmitter_Musings_C AkEvent]
-SpokenText="All I ever wanted to do was bring a little joy, a little light to the dark, gloomy lives of the average fringe-dwelling human. I almost did it too, you know? I mean, you enjoyed the show, before you found out it was actually the siren song for a thousand sea devils."
+SpokenText="Tudo o que eu sempre quis fazer era trazer um pouco de alegria, um pouco de luz para as vidas escuras e sombrias dos humanos que vivem na margem. Eu quase consegui, sabe? Quero dizer, vocês gostaram do show, antes de descobrirem que era na verdade o canto da sereia para mil diabos do mar."
 
 [Play_Sea_SabotageTransmitter_Musings_A AkEvent]
-SpokenText="Believe it or not, that chip transmitter, whatever you called it, that was actually one of the first things I found. I'm not sure why the aliens abandoned it, but it was just sitting there waiting for someone to come along and fire it up. I just had to make a few adjustments."
+SpokenText="Acredite ou não, aquele transmissor de chip, seja lá como chamaram, foi na verdade uma das primeiras coisas que eu encontrei. Não sei porque os aliens o abandonaram, mas estava ali, esperando alguém chegar e ligar ele. Eu só precisei fazer alguns ajustes."
 
 [Play_Sea_HackRadio_Musings_I AkEvent]
-SpokenText="Okay. Alright, so I admit I might have unleashed a biblical plague on the world, but I was doing my part to help slow things down. We might even stop 'em completely. It's not too late. Look how good you're doing!"
+SpokenText="Ok. Certo, então admito que talvez eu tenha liberado uma praga bíblica no mundo, mas estava fazendo minha parte para tentar desacelerar as coisas. Talvez até paremos eles completamente. Ainda não é tarde. Olhem como estão indo bem!"
 
 [Play_Sea_Abduction_Musings_G AkEvent]
-SpokenText="The aliens just don't know what they're missing. Seriously, do you hear this voice? This is a voice destined for greatness! Not the voice of some...burger man!  That's right, ADVENT. You made yourself a powerful enemy, 'cause I can talk all night baby!"
+SpokenText="Os aliens simplesmente não sabem o que estão perdendo. Sério, você ouve essa voz? Essa é uma voz destinada à grandeza! Não a voz de algum... cara de hambúrguer! Isso mesmo, ADVENT. Você fez um inimigo poderoso, porque eu posso falar a noite toda, baby!"
 
 [Play_Sea_Abduction_Musings_E AkEvent]
-SpokenText="Speaking of ADVENT Burger, you know they never even gave me a language course during my training? I mean, come on, where's the logic there? How the hell am I supposed to prep orders with some bug-eyed freak barking gibberish at me? And if you think you're getting a legible receipt, you're outta luck."
+SpokenText="Falando em ADVENT Burger, vocês sabiam que eles nunca me deram um curso de línguas durante meu treinamento? Quero dizer, sério, onde está a lógica nisso? Como diabos eu vou preparar os pedidos com um maluco de olhos esbugalhados gritando uma língua estranha pra mim? E se você acha que vai receber um recibo legível, está fora de sorte."
 
 [Play_Sea_Abduction_Musings_C AkEvent]
-SpokenText="If you're just tuning in, I'm your host with the most, the man with the golden voice that even the aliens couldn't keep down. You see, apparently yours truly just wasn't good enough for their precious ADVENT burger. God forbid a man make himself a little snack in between orders. It's not like they're gonna run out of that slop."
+SpokenText="Se você acabou de sintonizar, eu sou o seu apresentador com o maior estilo, o homem da voz dourada que nem os aliens conseguiram calar. Veja bem, aparentemente eu simplesmente não era bom o suficiente para o precioso ADVENT burger deles. Deus me livre de um homem fazer um lanche entre os pedidos. Não é como se eles fossem ficar sem aquela comida nojenta."
 
 [Play_Sea_Abduction_Musings_A AkEvent]
-SpokenText="I hope everyone is having a great day out there in the occupied territories, don't let ADVENT get ya down. In fact, I would urge all of you to play nice with ADVENT, at least long enough for them to relax a little. After that, do what I do. Steal everything of theirs that ain't bolted down. Ha Ha Ha!"
+SpokenText="Espero que todos estejam tendo um ótimo dia aí nas terras ocupadas, não deixem a ADVENT te derrubar. Na verdade, eu recomendo que todos vocês se comportem direitinho com a ADVENT, pelo menos o suficiente para eles relaxarem um pouco. Depois disso, façam o que eu faço. Roubem tudo o que não estiver preso. Ha Ha Ha!"
 
 [Play_Sea_Abduction_Loading_A AkEvent]
-SpokenText="I don't know about you, but from where I'm sittin, things are just looking a little grim out there today, folks. Not sure what it is, I just can't seem to get my juices flowing like they used to. I was all excited to try this old folk remedy I heard about, right up until I realized the secret ingredient was something you had to dig out one of those snake chicks running around out there. Now don't get me wrong, if I thought I could catch one, I would have at least tried."
+SpokenText="Não sei vocês, mas do lugar onde estou, as coisas estão parecendo um pouco sombrias por aí hoje, pessoal. Não sei o que é, simplesmente não consigo encontrar meu ânimo como antigamente. Eu estava todo empolgado para tentar esse remédio caseiro antigo que ouvi falar, até perceber que o ingrediente secreto era algo que você teria que arrancar de uma daquelas 'mulheres cobra' que ficam correndo por aí. Agora, não me entendam mal, se eu achasse que poderia pegar uma delas, eu pelo menos tentaria."
 
 [Play_Sea_HackRadio_Musings_G AkEvent]
-SpokenText="Time is sort of, of the essence here you could say...the clock is ticking, I just hope I'm remembering the right broadcast time. Sometimes I forget and things start a little late, or a little early...you should probably get there soon just in case."
+SpokenText="O tempo é meio... crucial, você poderia dizer... o relógio está correndo, só espero estar lembrando da hora certa da transmissão. Às vezes eu esqueço e as coisas começam um pouco tarde ou um pouco cedo... então, é melhor chegar logo, só por precaução."
 
 [Play_Sea_HackRadio_Musings_E AkEvent]
-SpokenText="I can't just give you my password! We hardly even know each other, I've got sensitive data on some of those drives. I'll point you towards the files we're after, you guys can take care of the rest. You're elite, aren't you? Hack the planet?"
+SpokenText="Eu não posso simplesmente te dar minha senha! A gente mal se conhece, eu tenho dados sensíveis em alguns desses discos. Eu vou te mostrar o caminho para os arquivos que estamos procurando, vocês se viram com o resto. Vocês são elite, não são? Hackeiem o planeta!"
 
 [Play_Sea_HackRadio_Musings_C AkEvent]
-SpokenText="It's not that big of a town, you should be on the water before you know it. My boat should still be sitting right there, uh, you know, where I left it, assuming no one found where I hid the keys. I just hope my computer is still there. Remember, you promised not to smash it."
+SpokenText="Não é uma cidade tão grande, você vai estar na água antes de perceber. Meu barco deve estar ali, sabe, onde eu deixei, assumindo que ninguém tenha encontrado onde eu escondi as chaves. Só espero que meu computador ainda esteja lá. Lembre-se, você prometeu não quebrá-lo."
 
 [Play_Sea_HackRadio_Musings_A AkEvent]
-SpokenText="So what you're gonna wanna do here is head up the main drag there, you should see a restaurant on your left...or wait was it a bookstore? Sporting goods maybe? Yeah, you'll see what I'm talkin about. Just up the road there..."
+SpokenText="Então o que você vai querer fazer aqui é subir a rua principal, você deve ver um restaurante à sua esquerda... ou espera, era uma livraria? Artigos esportivos, talvez? É, você vai entender o que quero dizer. Só subir a rua ali..."
 
 [Play_Sea_GatherDJ_Musings_L AkEvent]
-SpokenText="So we're taking a boat out of here? Well, that's interesting, not my first choice considering those bugs seem to live underwater, but you guys are the super-pro Special Forces alien exterminators, so I'll just follow your lead."
+SpokenText="Então, vamos pegar um barco para sair daqui? Bem, isso é interessante, não é minha primeira escolha, considerando que aqueles insetos parecem viver debaixo d'água, mas vocês são os super-pro exterminadores de aliens, então vou só seguir o seu exemplo."
 
 [Play_Sea_GatherDJ_Musings_K AkEvent]
-SpokenText="So did you have a plan before you rolled in here or are we just kinda winging it at this point? I mean, you know, it seems like an escape route of some sort would have been a good thing to have mapped out...you know, for the escape, and all."
+SpokenText="Então, vocês tinham um plano antes de entrarem aqui ou estamos só improvisando agora? Quero dizer, parece que uma rota de fuga seria uma boa coisa para ter mapeado... sabe, para a fuga e tal."
 
 [Play_Sea_GatherDJ_Musings_J AkEvent]
-SpokenText="You guys seem pretty tough, you don't need me to do any actual fighting right? Don't get me wrong, I'm a force to be reckoned with, but I kinda pulled my back a little bit keeping the door closed on ADVENT. So I'm sure you can handle this without me, right? No problem?"
+SpokenText="Vocês parecem ser bem durões, não precisam de mim para lutar de verdade, né? Não me entendam mal, eu sou uma força a ser reconhecida, mas meio que puxei a minha costas um pouco mantendo a porta fechada para a ADVENT. Então tenho certeza de que conseguem lidar com isso sem mim, certo? Sem problemas?"
 
 [Play_Sea_GatherDJ_Musings_H AkEvent]
-SpokenText="Boy do I owe you all a favor...say, that's some nice gear you've got there. Is that from ADVENT? Haven't seen anything like that...where'd you guys say you were from again? I didn't think anyone was gonna show! I've been broadcasting up in... whoa, is that a...?"
+SpokenText="Cara, eu devo um favor a todos vocês... ei, esse equipamento é bem legal. É da ADVENT? Nunca vi nada assim... onde vocês disseram que eram de novo? Eu não achava que alguém ia aparecer! Eu estava transmitindo lá de... uau, isso é um...?"
 
 [Play_Sea_GatherDJ_Musings_G AkEvent]
-SpokenText="Remember what I said before about not getting in, well...they're getting in. Ooops. Come on guys, you didn't think I was serious, did you? I mean, you know, I love ADVENT. I used to work for you guys! Let's talk this over. Come on in, have a drink. It's my own urine in a mason jar, but it's a drink nonetheless."
+SpokenText="Lembram o que eu disse antes sobre não deixarem eles entrarem? Pois é... estão entrando. Oops. Vamos lá, pessoal, vocês não acharam que eu estava falando sério, acharam? Quero dizer, eu amo a ADVENT. Eu costumava trabalhar para vocês! Vamos conversar sobre isso. Entrem, tomem uma bebida. É a minha urina em um pote de vidro, mas é uma bebida, de qualquer forma."
 
 [Play_Sea_GatherDJ_Musings_F AkEvent]
-SpokenText="Ok so I'm definitely gonna need some help, bordering on really, really soon. If anyone is planning on a daring rescue, now would be the ideal time to swoop in and save my ass."
-
+SpokenText="Ok, então definitivamente vou precisar de ajuda, mais ou menos logo, logo mesmo. Se alguém está planejando um resgate ousado, agora seria o momento ideal para aparecer e salvar minha pele."

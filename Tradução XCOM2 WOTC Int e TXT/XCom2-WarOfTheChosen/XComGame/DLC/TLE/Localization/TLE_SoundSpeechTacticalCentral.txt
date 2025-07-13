@@ -641,749 +641,748 @@ SpokenText="Tínhamos uma janela de oportunidade limitada para trabalhar aqui. A
 SpokenText="Estávamos ficando sem tempo. A ADVENT estava enviando reforços para verificar o laboratório de Tygan."
 
 [Play_Lazarus_RescueTygan_Nag1turn AkEvent]
-SpokenText="That's about as much time as we had. Beyond that, ADVENT definitely would have cornered us down there."
+SpokenText="Isso foi o máximo de tempo que tivemos. Se demorássemos mais, a ADVENT certamente teria nos encurralado lá embaixo."
 
 [Play_Lazarus_RescueTygan_Musings_F AkEvent]
-SpokenText="It took some time before Tygan gained the crew's trust, I think even today Shen still keeps her guard up around him despite all the work they've done together. At this point I'd say give the guy a break, but maybe I'm just getting soft with old age."
+SpokenText="Levou um tempo até que o Tygan ganhasse a confiança da equipe. Acho que até hoje a Shen ainda mantém a guarda alta ao redor dele, apesar de todo o trabalho que fizeram juntos. Nesse ponto, eu diria para dar um tempo para o cara, mas talvez eu esteja ficando mole com a idade."
 
 [Play_Lazarus_RescueTygan_Musings_E AkEvent]
-SpokenText="You have to remember, when this all went down, all we knew about these ADVENT implants was that they were starting to pop up in most of the city centers. Tygan was likely among the first humans ever implanted with one, and he was definitely the first person to ever try pulling one out."
+SpokenText="Você tem que lembrar, quando tudo isso aconteceu, tudo o que sabíamos sobre os implantes da ADVENT era que estavam começando a aparecer em muitos dos centros urbanos. O Tygan provavelmente foi um dos primeiros humanos a ser implantado com um, e certamente foi a primeira pessoa a tentar retirar um."
 
 [Play_Lazarus_RescueTygan_Musings_D AkEvent]
-SpokenText="Tygan knew it wouldn't take ADVENT all that long to notice he was no longer tied into their network, but that didn't stop him from pulling the plug anyway. I don't want to make any presumptions about his mindset, but it was clear he had had enough of whatever he was doing down in that lab of his."
+SpokenText="Tygan sabia que não demoraria muito para a ADVENT perceber que ele não estava mais conectado à rede deles, mas isso não o impediu de desconectar-se mesmo assim. Não quero fazer suposições sobre sua mentalidade, mas estava claro que ele já não aguentava mais o que estava fazendo naquele laboratório."
 
 [Play_Lazarus_RescueTygan_Musings_C_ALT AkEvent]
-SpokenText="When we finally found him, the good doctor was out cold. Not only did we have to carry this guy out of the tunnels, for all we knew he had accidentally lobotomized himself in the process."
+SpokenText="Quando finalmente o encontramos, o bom doutor estava apagado. Não só tivemos que carregar esse cara para fora dos túneis, como, pelo que sabíamos, ele havia se lobotomizado acidentalmente no processo."
 
 [Play_Lazarus_RescueTygan_Musings_C AkEvent]
-SpokenText="When we finally found him, the good doctor was out cold. He hadn't bothered to warn us of his plan before putting himself under the knife, and I sure as hell wasn't happy about it. Not only did we have to carry this guy out of the tunnels, for all we knew he had accidentally lobotomized himself in the process."
+SpokenText="Quando finalmente o encontramos, o bom doutor estava apagado. Ele não se deu ao trabalho de nos avisar sobre seu plano antes de se colocar sob o bisturi, e eu com certeza não fiquei feliz com isso. Não só tivemos que carregar esse cara para fora dos túneis, como, pelo que sabíamos, ele havia se lobotomizado acidentalmente no processo."
 
 [Play_Lazarus_RescueTygan_Musings_B AkEvent]
-SpokenText="Having lost all contact with Dr. Vahlen after the invasion, our growing resistance movement was in desperate need of anyone with medical expertise. Had our original chief scientist still been with us, I'm not sure we would have taken such a great risk rescuing a former collaborator. At least in those days. Don't tell him I said that."
+SpokenText="Depois que perdemos o contato com a Dra. Vahlen após a invasão, nosso crescente movimento de resistência estava desesperado por qualquer um com experiência médica. Se nossa cientista chefe original ainda estivesse conosco, não tenho certeza se teríamos corrido o risco de resgatar um ex-colaborador. Pelo menos naquela época. Não conta para ele que eu disse isso."
 
 [Play_Lazarus_RescueTygan_Musings_A_ALT AkEvent]
-SpokenText="The aliens had Tygan working out of a lab space down in the tunnels under one of the city centers. Aside from the fact that he was collaborating with the enemy, I could see why he would want to get out of his current situation - the place was a dungeon."
+SpokenText="Os alienígenas tinham o Tygan trabalhando em um laboratório nos túneis sob um dos centros urbanos. Além do fato de que ele estava colaborando com o inimigo, eu entendi por que ele queria sair daquela situação – o lugar era uma masmorra."
 
 [Play_Lazarus_RescueTygan_Musings_A AkEvent]
-SpokenText="The aliens had Tygan working out of a lab space down in the tunnels under one of the city centers. Aside from the fact that he was collaborating with the enemy, I can see why he would want to get out of his current situation. Aside from his equipment, the place was kind of a dungeon."
+SpokenText="Os alienígenas tinham o Tygan trabalhando em um laboratório nos túneis sob um dos centros urbanos. Além do fato de que ele estava colaborando com o inimigo, eu consigo entender por que ele queria sair daquela situação. Além do equipamento dele, o lugar era tipo uma masmorra."
 
 [Play_Lazarus_RescueTygan_MissionSummary AkEvent]
-SpokenText="It took a while before Tygan was in any condition to talk, much less help out around the ship. He did send us off on one last adventure though, and I'd bet money you'll never guess how this next part turns out."
+SpokenText="Levou um tempo até que o Tygan estivesse em condições de falar, quanto mais ajudar a gente por aí. Mas ele nos mandou para uma última missão, e eu apostaria que você nunca vai adivinhar como essa parte da história termina."
 
 [Play_Lazarus_RescueTygan_LootSelect AkEvent]
-SpokenText="I don't remember grabbing anything of value from Tygan's underground lair, much to his dismay. Shen was still reliably churning out the upgrades though, so we were doing all right."
+SpokenText="Não lembro de ter pegado nada de valor no covil subterrâneo do Tygan, para desgosto dele. Mas a Shen continuava fazendo as atualizações direitinho, então estávamos indo bem."
 
 [Play_Lazarus_RescueTygan_Loading_ALT AkEvent]
-SpokenText="Prior to Ramirez's capture, she was on route to help facilitate the defection of a prominent ADVENT doctor, none other than our old friend, Dr. Tygan.  When she didn't show for the meet, the good doctor panicked and, well, took matters into his own hands. Literally. Tygan somehow removed his implant chip from the base of his own skull in probably the world's greatest and most brutal display of self-surgery. The procedure worked, but rendered him unconscious.  It also alerted ADVENT authorities to what he was up to."
+SpokenText="Antes da captura da Ramirez, ela estava a caminho para ajudar a facilitar a deserção de um médico importante da ADVENT, ninguém menos que nosso velho amigo, Dr. Tygan. Quando ela não apareceu para o encontro, o bom doutor entrou em pânico e, bem, tomou as rédeas da situação. Literalmente. Tygan de algum jeito removeu seu chip de implante da base de seu próprio crânio, provavelmente a maior e mais brutal demonstração de auto-cirurgia do mundo. O procedimento funcionou, mas o deixou inconsciente. Também alertou as autoridades da ADVENT sobre o que ele estava fazendo."
 
 [Play_Lazarus_RescueTygan_Loading AkEvent]
-SpokenText="Now this part of the story, this is something you won't hear about very often, the origins of Doctor Tygan's relationship with XCOM. He wasn't exactly captured, but when we got to him, he was... at the end of his rope, desperate to get away from ADVENT. So desperate in fact that in a hastily performed fit of self-mutilation, Tygan removed his own chip implant the hard way-through the back of the skull. Needless to say that rendered him unconscious, and with only hours to spare before the aliens realized what he had done."
+SpokenText="Agora, essa parte da história, isso é algo que você não vai ouvir muito por aí, as origens do relacionamento do Doutor Tygan com a XCOM. Ele não foi exatamente capturado, mas quando chegamos até ele, ele estava... no limite, desesperado para escapar da ADVENT. Tão desesperado, na verdade, que em um impulso de auto-mutilação apressado, Tygan removeu seu próprio implante de chip de um jeito bem difícil – pela parte de trás do crânio. Não preciso nem dizer que isso o deixou inconsciente, e ele tinha apenas algumas horas antes que os alienígenas percebessem o que ele tinha feito."
 
 [Play_Lazarus_RescueTygan_Intro_ALT AkEvent]
-SpokenText="Thankfully Ramirez had details on Tygan's last known position. We may have been a little late, but we were still determined to show up. Had we not, Tygan would have found himself with an even bigger hole in the back of his head."
+SpokenText="Felizmente, a Ramirez tinha detalhes sobre a última posição conhecida do Tygan. Podíamos até estar um pouco atrasados, mas ainda assim estávamos determinados a chegar. Se não chegássemos a tempo, o Tygan teria acabado com um buraco ainda maior na parte de trás da cabeça."
 
 [Play_Lazarus_RescueTygan_Intro AkEvent]
-SpokenText="Tygan made contact with one of our people close to ADVENT before pulling the plug on his chip. It was sheer luck that we were in a position to send a team after him. A few days earlier and he might have found himself with an even bigger hole in the back of his head."
+SpokenText="Tygan fez contato com um de nossos aliados próximos à ADVENT antes de desconectar seu chip. Foi pura sorte que estávamos em uma posição para enviar uma equipe atrás dele. Alguns dias antes e ele teria acabado com um buraco ainda maior na parte de trás da cabeça."
 
 [Play_Lazarus_RescueTygan_Failure_B AkEvent]
-SpokenText="Tygan's probably down in his lab if you want to confirm the story before we try again."
+SpokenText="Tygan provavelmente está no laboratório dele, se você quiser confirmar a história antes de tentarmos de novo."
 
 [Play_Lazarus_RescueTygan_Failure_A AkEvent]
-SpokenText="I've seen enough ADVENT burger wrappers around this ship to know at least one thing...Tygan lived."
+SpokenText="Já vi tantas embalagens de hambúrguer da ADVENT por esse navio que sei uma coisa... o Tygan sobreviveu."
 
 [Play_Lazarus_RescueSweater_TotalVictory_B_ALT AkEvent]
-SpokenText="It wasn't just an artifact we found that day, it was something more.  Hope. In Extra-large size."
+SpokenText="Não foi apenas um artefato o que encontramos naquele dia, era algo mais. Esperança. Em tamanho extra-grande."
 
 [Play_Lazarus_RescueSweater_TotalVictory_B AkEvent]
-SpokenText="I was skeptical of what we found, I mean, why the hell would they have my sweater all tubed-up like that?"
+SpokenText="Eu estava cético sobre o que encontramos, tipo, por que diabos eles teriam embalado meu suéter assim?"
 
 [Play_Lazarus_RescueSweater_TotalVictory_A_ALT AkEvent]
-SpokenText="Tygan's intel paid off.  We got the artifact and returned to base.  All of us.  (beat)  I just hope it hadn't shrunk."
+SpokenText="A inteligência do Tygan deu certo. Encontramos o artefato e voltamos para a base. Todos nós. (pausa) Só espero que ele não tenha encolhido."
 
 [Play_Lazarus_RescueSweater_TotalVictory_A AkEvent]
-SpokenText="Well, what can I say? We found my sweater, but I wasn't exactly gung-ho to throw it on again before finding out what the aliens did to it. I just hoped it hadn't shrunk."
+SpokenText="Bem, o que posso dizer? Encontramos meu suéter, mas não estava exatamente empolgado para colocá-lo de novo sem saber o que os alienígenas fizeram com ele. Só espero que não tenha encolhido."
 
 [Play_Lazarus_RescueSweater_SweaterReveal_ALT AkEvent]
-SpokenText="After all these years, reunited. It had been so long, what had the aliens done to it, I wondered. Would...could things ever be the same?"
+SpokenText="Depois de todos esses anos, reunidos. Foi tanto tempo, o que será que os alienígenas fizeram com ele, eu me perguntei. Será... será que as coisas podem voltar a ser as mesmas?"
 
 [Play_Lazarus_RescueSweater_SweaterReveal AkEvent]
-SpokenText="I can't tell you exactly what I said when that chamber opened...all I could think was...why? Of all things, they took my damnsweater?! And why was it in containment?"
+SpokenText="Não consigo te dizer exatamente o que eu disse quando aquela câmara se abriu... tudo o que eu conseguia pensar era... por quê? De todas as coisas, eles pegaram meu maldito suéter?! E por que estava em contenção?"
 
 [Play_Lazarus_RescueSweater_SweaterAvailable_ALT AkEvent]
-SpokenText="Tygan's allowed Shen to run a few scans on the artifact. While replicating it in its entirety is still decades beyond all of our understanding, she was able to infuse some of its properties into our existing materials."
+SpokenText="O Tygan permitiu que a Shen fizesse alguns exames no artefato. Embora replicá-lo completamente ainda esteja décadas além de nossa compreensão, ela conseguiu infundir algumas de suas propriedades em nossos materiais existentes."
 
 [Play_Lazarus_RescueSweater_SweaterAvailable AkEvent]
-SpokenText="I reminded Shen about the long-forgotten sweater project she had been working on. And wouldn't you know it? I hear she's been handing out some kind of knock-off sweaters for the troops. As much as I missed it, I still haven't decided if I'm ready to put that thing back on yet."
+SpokenText="Lembrei a Shen sobre o projeto do suéter que ela havia esquecido há muito tempo. E não é que eu ouvi dizer que ela tem distribuído uma espécie de suéter genérico para os soldados? Por mais que eu sentisse falta dele, ainda não decidi se estou pronto para colocá-lo de volta."
 
 [Play_Lazarus_RescueSweater_PartialVictory_D AkEvent]
-SpokenText="We paid a heavy cost that day, but prevailed.  Had the aliens truly understood what they possessed, none of us would be alive today to hear this tale."
+SpokenText="Pagamos um preço alto naquele dia, mas prevalecemos. Se os alienígenas tivessem realmente entendido o que tinham nas mãos, nenhum de nós estaria vivo hoje para ouvir essa história."
 
 [Play_Lazarus_RescueSweater_PartialVictory_C AkEvent]
-SpokenText="We came back with the sweater, but there were a lot of questions among the troops about the risks we just took for something with no obvious value."
+SpokenText="Voltamos com o suéter, mas surgiram muitas perguntas entre as tropas sobre os riscos que acabamos de correr por algo sem valor óbvio."
 
 [Play_Lazarus_RescueSweater_PartialVictory_B AkEvent]
-SpokenText="The aliens might not have fully understood what they had in their hands that day, but they knew enough to make damn sure it wasn't easy for us to get it out of there."
+SpokenText="Os alienígenas talvez não tivessem entendido completamente o que tinham nas mãos naquele dia, mas sabiam o suficiente para garantir que não seria fácil para nós tirá-lo de lá."
 
 [Play_Lazarus_RescueSweater_PartialVictory_A AkEvent]
-SpokenText="I don't even have a theory as to why the aliens wanted my sweater, but they made damn sure it wasn't easy for us to get it out of there."
+SpokenText="Eu nem tenho uma teoria sobre o motivo de os alienígenas quererem meu suéter, mas eles fizeram questão de garantir que não seria fácil para nós tirá-lo de lá."
 
 [Play_Lazarus_RescueSweater_Outro AkEvent]
-SpokenText="I didn't know whether to kiss Tygan or kick him off the ship. He could have just told us it was my missing sweater all along...I would have still gone in after it."
+SpokenText="Eu não sabia se devia beijar o Tygan ou chutá-lo para fora da nave. Ele poderia simplesmente ter nos dito que era o meu suéter perdido o tempo todo... Eu ainda teria ido atrás dele."
 
 [Play_Lazarus_RescueSweater_ObjDestroyed AkEvent]
-SpokenText="We had come too far just to blow the thing up, whatever it was."
+SpokenText="Já havíamos ido longe demais para simplesmente destruir aquilo, fosse o que fosse."
 
 [Play_Lazarus_RescueSweater_Musings_F_ALT AkEvent]
-SpokenText="Aside from Gatecrasher, this one was of the last tactical operations I took the lead on, and to be honest, it was probably for the best. I put my body through a lot over the years, and it was getting harder and harder to keep up with our new recruits. Plus, I knew it was time to start being a real leader."
+SpokenText="Além do Gatecrasher, essa foi uma das últimas operações táticas nas quais eu liderava, e para ser sincero, provavelmente foi para o melhor. Eu coloquei meu corpo através de muita coisa ao longo dos anos, e estava ficando cada vez mais difícil acompanhar nossos novos recrutas. Além disso, eu sabia que era hora de começar a ser um líder de verdade."
 
 [Play_Lazarus_RescueSweater_Musings_F AkEvent]
-SpokenText="Aside from Gatecrasher, this one was of the last tactical operations I took the lead on, and to be honest, it was probably for the best. I put my body through a lot over the years, and it was getting harder and harder to keep up with our new recruits. Plus, I knew it was time to try being a real leader."
+SpokenText="Além do Gatecrasher, essa foi uma das últimas operações táticas nas quais eu liderava, e para ser sincero, provavelmente foi para o melhor. Eu coloquei meu corpo através de muita coisa ao longo dos anos, e estava ficando cada vez mais difícil acompanhar nossos novos recrutas. Além disso, eu sabia que era hora de tentar ser um líder de verdade."
 
 [Play_Lazarus_RescueSweater_Musings_E AkEvent]
-SpokenText="Facilities like this were an important reminder of just how far ADVENT had come over the years. Building something like this was a huge undertaking, and there was no telling how many more of these places were out there. It was daunting to consider, but we tried to focus on the task at hand."
+SpokenText="Instalações como essa eram um lembrete importante de quão longe a ADVENT havia chegado ao longo dos anos. Construir algo assim foi uma tarefa enorme, e não havia como saber quantos desses lugares ainda estavam por aí. Era assustador pensar sobre isso, mas tentamos focar na tarefa em mãos."
 
 [Play_Lazarus_RescueSweater_Musings_D AkEvent]
-SpokenText="As things dragged on, my patience for this scavenger hunt was getting thin, to the point where I almost had them haul Tygan out of bed to give us some clue as to what we were doing down here. He was certainly giving the Elders a run for the \"most indecipherable statements\" award."
+SpokenText="À medida que as coisas se arrastavam, minha paciência para essa caça ao tesouro estava se esgotando, a ponto de eu quase ter mandado tirarem o Tygan da cama para nos dar uma pista sobre o que estávamos fazendo ali. Ele certamente estava dando uma boa competição para os Anciões no prêmio de "declarações mais indecifráveis"."
 
 [Play_Lazarus_RescueSweater_Musings_C AkEvent]
-SpokenText="I think just about everyone on the squad had a theory as to what it was we would find in there. If I had known Tygan then as well as I do now, I would have put my money on it being the recipe for ADVENT burger's secret sauce."
+SpokenText="Acho que praticamente todo mundo na equipe tinha uma teoria sobre o que encontraríamos lá dentro. Se eu soubesse o que sei sobre o Tygan na época, eu teria apostado que era a receita do molho secreto do hambúrguer da ADVENT."
 
 [Play_Lazarus_RescueSweater_Musings_B AkEvent]
-SpokenText="It also dawned on me that if the aliens were any good at espionage, Tygan would have made for the perfect bait. We rescue him, he gives us the location of some weapon we can't pass up, and we send a team of our best people into an ambush. Still, it ended up being worth it."
+SpokenText="Também me ocorreu que, se os alienígenas fossem bons em espionagem, o Tygan seria a isca perfeita. Nós o resgatamos, ele nos dá a localização de alguma arma que não podemos deixar passar, e mandamos uma equipe dos melhores para uma emboscada. Mesmo assim, no final, valeu a pena."
 
 [Play_Lazarus_RescueSweater_Musings_A AkEvent]
-SpokenText="Retelling the story now, it doesn't make much sense that we would have followed a half-baked lead into an unknown alien facility. But that's XCOM for ya, always chasing something. Besides, I don't know what it was, but I had a strange feeling going into this one."
+SpokenText="Recontando a história agora, não faz muito sentido que teríamos seguido uma pista maluca até uma instalação alienígena desconhecida. Mas isso é a XCOM para você, sempre perseguindo algo. Além disso, não sei o que era, mas eu tinha uma sensação estranha indo nessa missão."
 
 [Play_Lazarus_RescueSweater_MissionSummary_ALT AkEvent]
-SpokenText="Seen a lot of crazy things in this war but still, not enough to ever let me believe I'd be reunited with the artifact again. Tygan and the lab techs have taken it away for further study. And much as I'd like to stop them, I guess I can't blame them.  A lot's changed over the years, myself included.  Am I even the same man I was back then?"
+SpokenText="Já vi muitas coisas loucas nesta guerra, mas mesmo assim, nada suficiente para me fazer acreditar que eu seria reunido com o artefato novamente. Tygan e os técnicos do laboratório o levaram para mais estudos. E por mais que eu quisesse impedi-los, acho que não posso culpá-los. Muita coisa mudou ao longo dos anos, eu incluso. Será que eu ainda sou o mesmo homem que era naquela época?"
 
 [Play_Lazarus_RescueSweater_MissionSummary AkEvent]
-SpokenText="I didn't know whether to kiss Tygan or kick him off the ship. He could have just told us it was my missing sweater all along... I would have still gone in after it. Come to think of it, I'm not exactly sure whatever happened to that thing. Last I heard, Shen was giving it a thorough onceover."
+SpokenText="Eu não sabia se devia beijar o Tygan ou chutá-lo para fora da nave. Ele poderia ter simplesmente nos dito que era o meu suéter perdido o tempo todo... Eu ainda teria ido atrás dele. Pensando bem, não tenho nem certeza do que aconteceu com aquilo. A última vez que ouvi, a Shen estava dando uma olhada bem detalhada."
 
 [Play_Lazarus_RescueSweater_LootSelect AkEvent]
-SpokenText="After all that work, Shen decided we might as well get something for our efforts. With that in mind, I hear she's been handing out some kind of knock-off sweaters for the troops. As much as I missed it, I still haven't decided if I'm ready to put that thing back on yet."
+SpokenText="Depois de todo aquele trabalho, a Shen decidiu que poderíamos pelo menos pegar algo pelos nossos esforços. Pensando nisso, ouvi dizer que ela anda distribuindo algum tipo de suéter falsificado para as tropas. Por mais que eu tenha sentido falta, ainda não decidi se estou pronto para colocar aquilo de volta."
 
 [Play_Lazarus_RescueSweater_Loading AkEvent]
-SpokenText="Once he finally recovered from the operation, our new friend Doctor Tygan was grateful, to the extent that Tygan expresses that sort of thing anyway. He was also eager to prove his loyalty, to shake off whatever bad deeds he had done in the service of ADVENT. He told us about a powerful artifact, a remnant of the old XCOM base the aliens had found and sealed away deep in some stronghold for further study. He was vague about the whole thing, which didn't help alleviate any suspicions we might have had about his story. Still, it was worth a shot."
+SpokenText="Depois que ele finalmente se recuperou da operação, nosso novo amigo, o Dr. Tygan, estava grato, na medida em que o Tygan expressa esse tipo de coisa. Ele também estava ansioso para provar sua lealdade, para se livrar dos maus feitos que cometeu a serviço da ADVENT. Nos contou sobre um artefato poderoso, um remanescente da antiga base da XCOM que os alienígenas haviam encontrado e selado em algum lugar profundo para mais estudos. Ele foi vago sobre tudo isso, o que não ajudou a aliviar nenhuma suspeita que poderíamos ter sobre a história dele. Ainda assim, valia a pena tentar."
 
 [Play_Lazarus_RescueSweater_Intro AkEvent]
-SpokenText="Whatever we were after, the aliens buried it deep in a stronghold unlike anything we'd ever run into. The only way in was through an old ventilation shaft, dropping down through the ceiling. Even the aliens had to breathe sometime, I guess."
+SpokenText="Seja lá o que estivéssemos procurando, os alienígenas enterraram isso bem fundo em um reduto como nada que já tínhamos encontrado. A única entrada era por uma velha conduta de ventilação, caindo pelo teto. Até os alienígenas tinham que respirar de vez em quando, imagino."
 
 [Play_Lazarus_RescueSweater_Failure_C AkEvent]
-SpokenText="There's no way in hell I was coming back without that thing.  Let's try this again."
+SpokenText="De jeito nenhum eu voltaria sem aquele negócio. Vamos tentar de novo."
 
 [Play_Lazarus_RescueSweater_Failure_B AkEvent]
-SpokenText="We've come this far, might as well try again and see this through."
+SpokenText="Já chegamos tão longe, o melhor é tentar de novo e ver isso até o fim."
 
 [Play_Lazarus_RescueSweater_Failure_A AkEvent]
-SpokenText="You know the drill. Try it again."
+SpokenText="Você já sabe o que fazer. Vamos tentar de novo."
 
 [Play_Lazarus_RescueSweater_ChamberSighted AkEvent]
-SpokenText="When we spotted that final chamber, I knew that had to be the place. They had really gone out of their way to build this reveal."
+SpokenText="Quando avistamos aquela última câmara, eu soube que tinha que ser o lugar. Eles realmente se esforçaram para construir essa revelação."
 
 [Play_Lazarus_RescueSweater_AreaClear AkEvent]
-SpokenText="We cleared out the secret facility, now we just had to find the mysterious \"object of power\" Tygan alluded to."
+SpokenText="Destruímos a instalação secreta, agora só precisávamos encontrar o misterioso "objeto de poder" que o Tygan mencionou."
 
 [Play_Lazarus_RescueShen_TotalVictory_B AkEvent]
-SpokenText="Shen was safely returned to the Avenger, but of course that didn't stop her from heading out again not long after."
+SpokenText="A Shen foi devolvida com segurança para a Avenger, mas claro, isso não a impediu de sair de novo pouco tempo depois."
 
 [Play_Lazarus_RescueShen_TotalVictory_A AkEvent]
-SpokenText="We were lucky to have found Shen before the aliens did God knows what with her. That was the last time I let her go on a walkabout without a proper security detail in tow."
+SpokenText="Fomos sortudos por termos encontrado a Shen antes que os alienígenas fizessem sabe-se lá o quê com ela. Essa foi a última vez que a deixei sair sem uma equipe de segurança adequada."
 
 [Play_Lazarus_RescueShen_ShenSecured AkEvent]
-SpokenText="We had freed Shen, but we still had to get clear of the ADVENT facility."
+SpokenText="Resgatamos a Shen, mas ainda tínhamos que nos afastar da instalação da ADVENT."
 
 [Play_Lazarus_RescueShen_ShenLost AkEvent]
-SpokenText="Now we both know Shen can't die for this story to make any sense."
+SpokenText="Agora ambos sabemos que a Shen não pode morrer, senão essa história não faria sentido."
 
 [Play_Lazarus_RescueShen_PartialVictory_B AkEvent]
-SpokenText="It wasn't the cleanest operation, but we got Shen home safe and not much worse for wear."
+SpokenText="Não foi a operação mais limpa, mas conseguimos levar a Shen para casa, e ela não estava muito pior por isso."
 
 [Play_Lazarus_RescueShen_PartialVictory_A AkEvent]
-SpokenText="Shen didn't take the news of our casualties lightly, but no one was blaming her for what happened. We all knew what we signed up for."
+SpokenText="A Shen não levou bem as notícias das nossas baixas, mas ninguém a culpou pelo que aconteceu. Todos sabíamos no que estávamos nos metendo."
 
 [Play_Lazarus_RescueShen_Musings_F AkEvent]
-SpokenText="Shen was held under some kind of Psionic \"stasis\" for most of her time at the compound, but she was awake long enough to see a few of the other prisoners. She could tell by the condition they were in that they came from the slums outside of one of the city centers. If they were resistance cell leaders, we needed to find out."
+SpokenText="A Shen ficou sob algum tipo de "estase psíquica" durante a maior parte do tempo na instalação, mas ela ficou acordada o suficiente para ver alguns dos outros prisioneiros. Ela percebeu pelo estado em que estavam que vieram das favelas fora de um dos centros urbanos. Se fossem líderes de células de resistência, precisávamos descobrir."
 
 [Play_Lazarus_RescueShen_Musings_E AkEvent]
-SpokenText="The ADVENT compound was a clandestine holding facility, and it was definitely built to house a lot more people than Shen alone. They had obviously been at this for a while now. We found evidence of other prisoners... but no one left alive besides our girl."
+SpokenText="A instalação da ADVENT era uma instalação clandestina de detenção, e foi definitivamente construída para abrigar muito mais gente do que só a Shen. Obviamente, eles já estavam fazendo isso há um tempo. Encontramos evidências de outros prisioneiros... mas ninguém mais vivo, além da nossa garota."
 
 [Play_Lazarus_RescueShen_Musings_D AkEvent]
-SpokenText="We were all relieved to find Shen alive and ticking, and surprisingly enough not much worse for wear. I'll tell you what, the aliens sure could have learned a thing or two about interrogation techniques from our old friend Dr. Vahlen - good luck finding her though."
+SpokenText="Todos nós ficamos aliviados ao encontrar a Shen viva e, surpreendentemente, não muito pior do que antes. Vou te dizer uma coisa, os alienígenas com certeza poderiam ter aprendido uma coisa ou duas sobre técnicas de interrogatório com nossa velha amiga, a Dra. Vahlen - boa sorte encontrá-la, no entanto."
 
 [Play_Lazarus_RescueShen_Musings_C AkEvent]
-SpokenText="Security wasn't overly tight at the compound, ADVENT's new team was obviously hoping stealth and smaller numbers would keep their operations under wraps. We were just fortunate the few contacts we had made at that point managed to help us find Shen."
+SpokenText="A segurança não estava muito apertada na instalação, a nova equipe da ADVENT obviamente esperava que a discrição e números menores mantivessem suas operações encobertas. Nós apenas tivemos a sorte de que os poucos contatos que havíamos feito até então nos ajudaram a encontrar a Shen."
 
 [Play_Lazarus_RescueShen_Musings_B AkEvent]
-SpokenText="Between the growing number of resistance cells popping up around the world, and our local operations to rebuild the Avenger, the Elders must have been getting nervous. The new ADVENT team was decent in combat, but as we learned, that wasn't their primary focus-and they had been plenty busy."
+SpokenText="Entre o crescente número de células de resistência surgindo ao redor do mundo e nossas operações locais para reconstruir a Avenger, os Anciões devem ter começado a ficar nervosos. A nova equipe da ADVENT era boa em combate, mas como aprendemos, esse não era o foco principal deles—e eles estavam bem ocupados."
 
 [Play_Lazarus_RescueShen_Musings_A AkEvent]
-SpokenText="I should be clear on this, rescuing Shen was personal-she was our friend and part of the team. But from a strategic standpoint, rescuing Shen was a make-or-break operation for the future of the resistance. Without her, the Avenger would never fly again, and we wouldn't have half the tech we have today."
+SpokenText="Devo ser claro sobre isso, resgatar a Shen foi algo pessoal—ela era nossa amiga e parte da equipe. Mas, do ponto de vista estratégico, resgatar a Shen foi uma operação crucial para o futuro da resistência. Sem ela, a Avenger jamais voaria novamente, e não teríamos nem metade da tecnologia que temos hoje."
 
 [Play_Lazarus_RescueShen_Mission_Summary AkEvent]
-SpokenText="Shen's abduction was a wake-up call. Not that we hadn't been taking security seriously, but now we really had to be on our toes if we wanted to keep our secrets safe from the Elders. As it turned out, they had already cast a wide net on the hunt for our allies."
+SpokenText="O sequestro da Shen foi um alerta. Não é que não estivéssemos levando a segurança a sério, mas agora tínhamos realmente que estar atentos se quiséssemos manter nossos segredos seguros dos Anciões. Como descobrimos, eles já haviam lançado uma rede bem ampla na busca por nossos aliados."
 
 [Play_Lazarus_RescueShen_LootSelect AkEvent]
-SpokenText="If we were gonna to chase the ADVENT extraction team across the continent in hopes of finding their other prisoners, we were going to need some better equipment."
+SpokenText="Se fôssemos atrás da equipe de extração da ADVENT pelo continente na esperança de encontrar outros prisioneiros deles, íamos precisar de equipamentos melhores."
 
 [Play_Lazarus_RescueShen_Loading AkEvent]
-SpokenText="So here's a story Shen probably didn't mention from her various excursions off the ship - the time she was captured by ADVENT. Yeah, that's right, captured by ADVENT. This wasn't that long ago either, just a few years back. The aliens knew the Avenger was out here somewhere, and they started getting real desperate to find it. They even assembled a special extraction team, almost like they were trying to mirror our tactics. The ADVENT squad was grabbing senior resistance targets for interrogation, and Shen had the misfortune of being one of the first. Or so we thought."
+SpokenText="Aqui vai uma história que a Shen provavelmente não mencionou nas suas várias excursões fora da nave - a vez em que ela foi capturada pela ADVENT. É, isso mesmo, capturada pela ADVENT. Não faz muito tempo também, apenas alguns anos atrás. Os alienígenas sabiam que a Avenger estava por aí em algum lugar e começaram a ficar realmente desesperados para encontrá-la. Eles até montaram uma equipe de extração especial, quase como se estivessem tentando espelhar nossas táticas. A equipe da ADVENT estava pegando alvos importantes da resistência para interrogatório, e a Shen teve a infelicidade de ser uma das primeiras. Ou pelo menos, achávamos que sim."
 
 [Play_Lazarus_RescueShen_Intro AkEvent]
-SpokenText="ADVENT's black-bag squad had taken Shen to a compound out in the middle of nowhere. I took charge of the rescue myself. If anything had happened to her...well, you can imagine. In hindsight, I was definitely worried. We really had no idea what they were planning to do with her."
+SpokenText="A equipe da ADVENT havia levado a Shen para um complexo no meio do nada. Eu assumi o comando do resgate pessoalmente. Se algo tivesse acontecido com ela... bom, você pode imaginar. Com o tempo, eu realmente fiquei preocupado. Não tínhamos ideia do que estavam planejando fazer com ela."
 
 [Play_Lazarus_RescueShen_Failure_B AkEvent]
-SpokenText="Trust me, you're not communing with the spirits. I'm still here."
+SpokenText="Confie em mim, você não está se comunicando com os espíritos. Eu ainda estou aqui."
 
 [Play_Lazarus_RescueShen_Failure_A AkEvent]
-SpokenText="You and I both know that's not how this went down."
+SpokenText="Você e eu sabemos que não foi assim que aconteceu."
 
 [Play_Lazarus_RescueRamirez_TotalVictory_B AkEvent]
-SpokenText="Ramirez was already serving XCOM unofficially before we rescued her, but it felt right having her finally join the crew as a full-fledged operative."
+SpokenText="A Ramirez já estava servindo à XCOM de maneira não oficial antes de a resgatarmos, mas foi certo ela finalmente se juntar à equipe como uma operativa de pleno direito."
 
 [Play_Lazarus_RescueRamirez_TotalVictory_A AkEvent]
-SpokenText="Ramirez was basically one of our own at this point, and there was no way we were going to just leave her out there. Luckily, it didn't come to that."
+SpokenText="A Ramirez já era basicamente uma das nossas a essa altura, e não havia como simplesmente deixá-la lá fora. Felizmente, não foi necessário."
 
 [Play_Lazarus_RescueRamirez_TargetLost_ALTA AkEvent]
-SpokenText="Ramirez had bigger things ahead of her. Her number wasn't up yet."
+SpokenText="A Ramirez tinha coisas maiores pela frente. O número dela ainda não tinha chegado."
 
 [Play_Lazarus_RescueRamirez_TargetLost_ALT AkEvent]
-SpokenText="Ramirez had bigger things ahead of her. This wasn't her time."
+SpokenText="A Ramirez tinha coisas maiores pela frente. Não era o momento dela."
 
 [Play_Lazarus_RescueRamirez_TargetLost AkEvent]
-SpokenText="Ramirez had bigger things ahead of her. This wasn't the right time."
+SpokenText="A Ramirez tinha coisas maiores pela frente. Não era a hora certa."
 
 [Play_Lazarus_RescueRamirez_PartialVictory_B AkEvent]
-SpokenText="I'm not sure how many of Ramirez' recruits survived the attack, but she made it out alive along with most of our team."
+SpokenText="Não tenho certeza de quantos dos recrutas da Ramirez sobreviveram ao ataque, mas ela conseguiu sair viva, junto com a maior parte da nossa equipe."
 
 [Play_Lazarus_RescueRamirez_PartialVictory_A AkEvent]
-SpokenText="Things got a little hairy down there, but we managed to pull Ramirez out without setting ourselves back too much."
+SpokenText="As coisas ficaram um pouco complicadas lá embaixo, mas conseguimos tirar a Ramirez de lá sem nos atrasarmos muito."
 
 [Play_Lazarus_RescueRamirez_ObjSecured AkEvent]
-SpokenText="Ramirez made it clear of the AO."
+SpokenText="A Ramirez foi retirada da área de operação com segurança."
 
 [Play_Lazarus_RescueRamirez_Musings_F AkEvent]
-SpokenText="Once Ramirez officially joined the Avenger's crew, she stayed on in her capacity as a teacher when she wasn't out killing aliens. She actually helped design some of the training facilities we're using today."
+SpokenText="Uma vez que Ramirez se juntou oficialmente à equipe da Avenger, ela continuou em sua função de instrutora quando não estava caçando alienígenas. Ela até ajudou a projetar algumas das instalações de treinamento que estamos usando hoje."
 
 [Play_Lazarus_RescueRamirez_Musings_E AkEvent]
-SpokenText="Come to think of it, I'm not sure we ever did get the story from Ramirez on what led to the raid on her stomping grounds. I wanna say we decided that it wasn't an infiltrator, but the overzealous use of improvised explosives, that eventually caught the aliens' attention."
+SpokenText="Pensando bem, não tenho certeza se algum dia conseguimos ouvir a história de Ramirez sobre o que levou ao ataque em seu território. Acho que decidimos que não foi um infiltrador, mas sim o uso exagerado de explosivos improvisados, que eventualmente chamou a atenção dos alienígenas."
 
 [Play_Lazarus_RescueRamirez_Musings_D AkEvent]
-SpokenText="From my perspective, the only way ADVENT had any chance of finding Ramirez on her turf was if someone from the inside gave up her position. There were a lot of fresh faces among her recruits, and it could have been any one of 'em. We also had the faceless to consider."
+SpokenText="Do meu ponto de vista, a única maneira de a ADVENT encontrar Ramirez em seu território era se alguém de dentro entregasse a posição dela. Havia muitas caras novas entre seus recrutas, e poderia ter sido qualquer um deles. Também tínhamos os sem rosto para considerar."
 
 [Play_Lazarus_RescueRamirez_Musings_C AkEvent]
-SpokenText="When ADVENT started cracking down on livestock and homegrown crops, survival skills like foraging and gathering were all that some people had left to go on. For the others that couldn't just flip a switch and become self-reliant, the city centers were the only choice they had."
+SpokenText="Quando a ADVENT começou a apertar o cerco sobre o gado e as plantações caseiras, habilidades de sobrevivência como forrageamento e coleta eram tudo o que algumas pessoas ainda tinham. Para os outros, que não podiam simplesmente apertar um botão e se tornar autossuficientes, os centros urbanos eram a única opção que restava."
 
 [Play_Lazarus_RescueRamirez_Musings_B AkEvent]
-SpokenText="The thing about Ramirez was, despite all the time she spent on her own, she never turned into the kind of loner crackpot you'd normally find out there. For some of us, the isolation of surviving on the fringes was almost too much to handle. Not Ramirez. When we finally picked her up, she was as sharp as any XCOM recruit we had ever had."
+SpokenText="A questão sobre a Ramirez era que, apesar de todo o tempo que passou sozinha, ela nunca se transformou na espécie de eremita excêntrico que você normalmente encontraria por aí. Para alguns de nós, o isolamento de sobreviver nas periferias era quase insuportável. Mas não para a Ramirez. Quando finalmente a resgatamos, ela estava tão afiada quanto qualquer recruta da XCOM que já tivemos."
 
 [Play_Lazarus_RescueRamirez_Musings_A AkEvent]
-SpokenText="In the old days, Ramirez was what you would have called a \"survivalist.\" I don't know her exact motivations, but she had taken to living off the grid well before the invasion even started. While things were falling apart for everyone else, isolation kept Ramirez out of the aliens' sights."
+SpokenText="Nos velhos tempos, Ramirez era o que você chamaria de 'sobrevivencialista'. Não sei exatamente quais eram suas motivações, mas ela já vivia fora da rede muito antes da invasão começar. Enquanto tudo desmoronava para os outros, o isolamento manteve Ramirez fora da mira dos alienígenas."
 
 [Play_Lazarus_RescueRamirez_MissionSummary AkEvent]
-SpokenText="Ramirez was the real deal, one of the best we ever had. Losing her and Osei on Gatecrasher was a tough blow, but it was because of their sacrifice that we have you leading us today, Commander."
+SpokenText="Ramirez era o verdadeiro negócio, uma das melhores que já tivemos. Perder ela e Osei no Gatecrasher foi um golpe duro, mas foi graças ao sacrifício deles que você está nos liderando hoje, Comandante."
 
 [Play_Lazarus_RescueRamirez_LootSelect AkEvent]
-SpokenText="We gathered up what we could from the remains of Ramirez's training area, but it's not like the recruits she was working with had the best gear to begin with."
+SpokenText="Pegamos o que conseguimos dos restos da área de treinamento da Ramirez, mas não é como se os recrutas com quem ela estava trabalhando tivessem o melhor equipamento para começar."
 
 [Play_Lazarus_RescueRamirez_Loading AkEvent]
-SpokenText="It was no surprise that ADVENT had made an attempt on Ana Ramirez. What was surprising was that they actually managed to find her. See, Ramirez was one of the finest guerrilla operators we had run into, so much so that we had convinced her to start training recruits of her own to spread the knowledge around. I'm not one to sing the praises of ADVENT, but even I'll admit it, I was impressed they tracked her down. Still, Ramirez is no easy mark. She managed to get a signal through to us right when ADVENT hit her camp."
+SpokenText="Não foi surpresa que a ADVENT tenha tentado capturar Ana Ramirez. O que foi surpreendente foi que eles realmente conseguiram encontrá-la. Veja, Ramirez era uma das melhores operativas de guerrilha que encontramos, tanto que conseguimos convencê-la a começar a treinar recrutas para espalhar o conhecimento. Eu não sou de cantar as glórias da ADVENT, mas até eu admito, fiquei impressionado que conseguiram rastreá-la. Ainda assim, Ramirez não é fácil de marcar. Ela conseguiu nos enviar um sinal bem na hora em que a ADVENT atingiu o seu acampamento."
 
 [Play_Lazarus_RescueRamirez_Intro AkEvent]
-SpokenText="We knew Ramirez wouldn't back down from the fight, so if we had any intention of keeping her alive, we'd have to work fast. She had been training recruits in an old freight yard for a few months now, and I guess her little school had finally outgrown the shadows."
+SpokenText="Sabíamos que Ramirez não recuaria da luta, então, se tivéssemos qualquer intenção de mantê-la viva, teríamos que agir rápido. Ela estava treinando recrutas em um antigo pátio de cargas há alguns meses, e acho que a sua escolinha finalmente havia saído das sombras."
 
 [Play_Lazarus_RescueRamirez_Failure_B AkEvent]
-SpokenText="I think Ramirez deserves a little better than that."
+SpokenText="Acho que a Ramirez merece algo melhor que isso."
 
 [Play_Lazarus_RescueRamirez_Failure_A AkEvent]
-SpokenText="If I told Ramirez how you handled this, you might find yourself doing laps around the ship, Commander."
+SpokenText="Se eu contasse à Ramirez como você lidou com isso, talvez você acabasse fazendo voltas ao redor da nave, Comandante."
 
 [Play_Lazarus_RescueRamirez_VIPacquired AkEvent]
-SpokenText="I don't think Ramirez was expecting us, but she was definitely relieved."
+SpokenText="Eu não acho que Ramirez estava esperando por nós, mas ela definitivamente ficou aliviada."
 
 [Play_Lazarus_RescueOsei_VIPacquired AkEvent]
-SpokenText="Osei was all smiles once he laid eyes on us."
+SpokenText="Osei estava todo sorrisos assim que nos viu."
 
 [Play_Lazarus_RescueOsei_TotalVictory_B AkEvent]
-SpokenText="To be honest, I was actually surprised with how well our foray into the city went. We managed to snatch Osei without breaking a sweat."
+SpokenText="Para ser honesto, fiquei até surpreso com o quão bem nossa incursão na cidade foi. Conseguimos pegar Osei sem suar a camisa."
 
 [Play_Lazarus_RescueOsei_TotalVictory_A AkEvent]
-SpokenText="Osei's ego might have taken a big hit being captured by ADVENT, but once we set him free, you never would have known anything went down."
+SpokenText="O ego de Osei pode ter levado um grande golpe ao ser capturado pela ADVENT, mas assim que o libertamos, você nunca saberia que algo aconteceu."
 
 [Play_Lazarus_RescueOsei_TargetLost AkEvent]
-SpokenText="Osei didn't go out like that. Let's not forget it."
+SpokenText="Osei não saiu assim. Vamos nos lembrar disso."
 
 [Play_Lazarus_RescueOsei_PartialVictory_B AkEvent]
-SpokenText="We all knew the risks going into the city, and it was as tough as we expected it would be. Still, we got Osei, and that was a win."
+SpokenText="Todos nós sabíamos dos riscos ao entrar na cidade, e foi tão difícil quanto imaginávamos. Mesmo assim, conseguimos pegar Osei, e isso foi uma vitória."
 
 [Play_Lazarus_RescueOsei_PartialVictory_A AkEvent]
-SpokenText="I had expected we might take some casualties heading into the city, but we managed to pull off Osei's rescue with manageable losses."
+SpokenText="Eu esperava que pudéssemos ter algumas baixas ao entrar na cidade, mas conseguimos resgatar Osei com perdas controláveis."
 
 [Play_Lazarus_RescueOsei_ObjSecure AkEvent]
-SpokenText="We got Osei out of there as quick as we could, despite his enthusiasm for a fight."
+SpokenText="Conseguimos tirar Osei de lá o mais rápido possível, apesar de sua empolgação por uma boa briga."
 
 [Play_Lazarus_RescueOsei_Musings_F AkEvent]
-SpokenText="XCOM needed a guy like Osei. We had more than enough grim faces and serious attitudes as it was. Losing him on Gatecrasher was a tough blow, even with all the good cheer surrounding the Commander's return."
+SpokenText="A XCOM precisava de um cara como Osei. Já tínhamos rostos sérios e atitudes sombrias o suficiente. Perder ele no Gatecrasher foi um golpe duro, mesmo com toda a animação que envolvia o retorno do Comandante."
 
 [Play_Lazarus_RescueOsei_Musings_E AkEvent]
-SpokenText="It was no secret that Osei loved the attention ADVENT had been giving him. If I was trying to avoid attention, he was more than happy to be soaking it up. He wasn't all that chipper when we found him in that ADVENT jail, that's for sure."
+SpokenText="Não era segredo que Osei adorava a atenção que a ADVENT estava dando a ele. Se eu estava tentando evitar atenção, ele estava mais do que feliz em absorver tudo. Ele não estava muito animado quando o encontramos naquela prisão da ADVENT, isso é certo."
 
 [Play_Lazarus_RescueOsei_Musings_D AkEvent]
-SpokenText="The other problem with moving inside the city centers was the propaganda. ADVENT had taken to aggressively posting resistance mugshots, surveillance footage, renderings, anything they could find to put our faces up in lights. It was exactly the kind of attention we didn't need."
+SpokenText="Outro problema de se mover dentro dos centros urbanos era a propaganda. A ADVENT havia começado a colocar fotos da resistência, filmagens de vigilância, renderizações, qualquer coisa que conseguissem para colocar nossas caras em destaque. Era exatamente o tipo de atenção que não precisávamos."
 
 [Play_Lazarus_RescueOsei_Musings_C AkEvent]
-SpokenText="For the most part, I had our people avoiding the city centers whenever possible. Security was through the roof, with ADVENT checkpoints and chip scanners on every major thoroughfare. In retrospect, this mission was the closest thing we had to a trial run for our eventual rescue of the Commander."
+SpokenText="Na maior parte do tempo, eu mantinha nosso pessoal longe dos centros urbanos sempre que possível. A segurança estava altíssima, com postos de controle da ADVENT e scanners de chips em todas as vias principais. Em retrospectiva, essa missão foi o mais próximo que tivemos de um ensaio para o eventual resgate do Comandante."
 
 [Play_Lazarus_RescueOsei_Musings_B AkEvent]
-SpokenText="With his failed sabotage attempt on the ADVENT cannon, Osei and most of his team wound up in the nearest city center jail. Unfortunately for the others, by the time we got in there, he was the only one they were still keeping alive."
+SpokenText="Com a falha de sabotagem no canhão da ADVENT, Osei e a maior parte de sua equipe acabaram na prisão de um centro urbano próximo. Infelizmente para os outros, quando chegamos lá, ele era o único que ainda estava vivo."
 
 [Play_Lazarus_RescueOsei_Musings_A AkEvent]
-SpokenText="Osei was a man after my own heart, a gung-ho leader who was willing to put his own ass on the line to stop ADVENT when- and wherever he could. He may not have been a strategic mastermind, but he certainly had a knack for finding interesting targets to drive the aliens crazy."
+SpokenText="Osei era um homem como eu, um líder destemido disposto a colocar sua própria pele em risco para parar a ADVENT quando e onde pudesse. Ele pode não ter sido um mestre estrategista, mas definitivamente tinha o talento para encontrar alvos interessantes para enlouquecer os alienígenas."
 
 [Play_Lazarus_RescueOsei_MissionSummary AkEvent]
-SpokenText="Osei was certainly grateful for the rescue, and he ended up being one of our most loyal soldiers right up until the end. I think he'd be happy to know we're still talking about him even today. He was also the one who first introduced us to Ramirez, so we owe him a debt of gratitude for that beyond his service."
+SpokenText="Osei ficou bastante grato pelo resgate e acabou se tornando um dos nossos soldados mais leais até o fim. Acho que ele ficaria feliz em saber que ainda estamos falando dele até hoje. Ele também foi o primeiro a nos apresentar à Ramirez, então temos uma dívida de gratidão com ele além de seu serviço."
 
 [Play_Lazarus_RescueOsei_LootSelect AkEvent]
-SpokenText="We had been grabbing ADVENT gear whenever possible. It gave Shen a shot at reverse-engineering their latest tech."
+SpokenText="Estávamos pegando equipamentos da ADVENT sempre que possível. Isso deu à Shen a chance de reverter a engenharia da tecnologia mais recente deles."
 
 [Play_Lazarus_RescueOsei_Loading AkEvent]
-SpokenText="It wasn't until later we found out who it was ADVENT had captured trying to blow up their cannon. Peter Osei and his Wrecking Crew were one of the only groups willing to venture into the city centers, and he made quite a reputation for himself taking down high value ADVENT targets. As you might imagine, that also put him on a short list of resistance targets that the aliens were falling all over themselves to capture or kill. In Osei's case, he was finally rounded up during the convoy raid, and now he found himself imprisoned in the heart of the city."
+SpokenText="Só mais tarde descobrimos quem era a pessoa que a ADVENT havia capturado tentando destruir o canhão deles. Peter Osei e sua Wrecking Crew eram um dos únicos grupos dispostos a se aventurar nos centros urbanos, e ele fez uma grande reputação ao derrubar alvos de alto valor da ADVENT. Como você pode imaginar, isso também o colocou numa lista curta de alvos da resistência que os alienígenas estavam desesperados para capturar ou matar. No caso de Osei, ele foi finalmente capturado durante o ataque ao comboio, e agora se encontrava preso no coração da cidade."
 
 [Play_Lazarus_RescueOsei_Intro AkEvent]
-SpokenText="Even people not willing to associate with the resistance had heard of Osei in those days, especially in the cities. It would have been a huge blow to morale if we had let ADVENT execute him, not that that was our only motivation."
+SpokenText="Até mesmo pessoas que não queriam se associar à resistência já tinham ouvido falar de Osei naqueles dias, especialmente nas cidades. Teríamos sofrido um grande golpe moral se tivéssemos deixado a ADVENT executar ele, embora não fosse esse o nosso único motivo."
 
 [Play_Lazarus_RescueOsei_Failure_B AkEvent]
-SpokenText="Let's start from the beginning."
+SpokenText="Vamos começar do começo."
 
 [Play_Lazarus_RescueOsei_Failure_A AkEvent]
-SpokenText="I'll walk you through it again. Maybe I forgot something."
+SpokenText="Vou te explicar tudo novamente. Talvez eu tenha esquecido algo."
 
 [Play_Lazarus_RescueKelly_VIPacquired AkEvent]
-SpokenText="We managed to free Jane just in time for her to jump into the fight."
+SpokenText="Conseguimos libertar Jane justo a tempo para ela se juntar à luta."
 
 [Play_Lazarus_RescueKelly_TotalVictory_B AkEvent]
-SpokenText="Jane was more than happy to see us, and we were just as happy to have her joining our crew."
+SpokenText="Jane ficou mais do que feliz em nos ver, e nós também ficamos contentes em tê-la na nossa equipe."
 
 [Play_Lazarus_RescueKelly_TotalVictory_A AkEvent]
-SpokenText="Rescuing Jane would end up being a huge boon to our forces in the future. I just wish we had ten more like her."
+SpokenText="Resgatar Jane acabaria sendo uma grande vantagem para nossas forças no futuro. Só queria que tivéssemos mais dez como ela."
 
 [Play_Lazarus_RescueKelly_TargetLost AkEvent]
-SpokenText="We didn't lose Jane here. Maybe I wasn't clear on that point."
+SpokenText="Não perdemos a Jane aqui. Talvez eu não tenha sido claro nesse ponto."
 
 [Play_Lazarus_RescueKelly_PartialVictory_B AkEvent]
-SpokenText="When all was said and done, Jane made sure every soldier on that squad knew how much she appreciated their efforts to save someone they had never even met."
+SpokenText="Quando tudo foi dito e feito, Jane garantiu que cada soldado daquela equipe soubesse o quanto ela apreciava os esforços deles para salvar alguém que nunca tinham conhecido."
 
 [Play_Lazarus_RescueKelly_PartialVictory_A AkEvent]
-SpokenText="It wasn't easy getting Jane away from ADVENT, but we pulled through and got the job done."
+SpokenText="Não foi fácil tirar Jane da ADVENT, mas conseguimos e cumprimos a missão."
 
 [Play_Lazarus_RescueKelly_ObjSecured AkEvent]
-SpokenText="Jane was safe and secure, the latest XCOM recruit, ready to serve."
+SpokenText="Jane estava segura e garantida, a mais nova recruta da XCOM, pronta para servir."
 
 [Play_Lazarus_RescueKelly_Musings_F_ALT AkEvent]
-SpokenText="It's easy to see it now, but I never would have guessed just how valuable Jane would eventually be to our future operations. Aside from the Commander, she's way more famous than the rest of us.  Hell, just ask the Chosen."
+SpokenText="É fácil ver isso agora, mas nunca teria adivinhado o quão valiosa Jane seria para nossas operações futuras. Fora o Comandante, ela é bem mais famosa do que o resto de nós. Hell, pergunte até aos Escolhidos."
 
 [Play_Lazarus_RescueKelly_Musings_F AkEvent]
-SpokenText="It's easy to see it now, but I never would have guessed just how valuable Jane would eventually be to our future operations. Aside from the Commander, she's way more famous than the rest of us. Hell, even the Chosen have heard of her these days."
+SpokenText="É fácil ver isso agora, mas nunca teria adivinhado o quão valiosa Jane seria para nossas operações futuras. Fora o Comandante, ela é bem mais famosa do que o resto de nós. Hell, até os Escolhidos já ouviram falar dela."
 
 [Play_Lazarus_RescueKelly_Musings_E AkEvent]
-SpokenText="ADVENT was risking a lot trying to bring our people in alive for interrogation, that's how I knew they were starting to worry about what we might do with the Avenger. Just think where we might be today if they'd gone ahead and executed everyone."
+SpokenText="A ADVENT estava arriscando muito ao tentar trazer nossos membros vivos para interrogatório, e isso foi o que me fez saber que eles estavam começando a se preocupar com o que poderíamos fazer com a Avenger. Imagine onde estaríamos hoje se tivessem simplesmente executado todos."
 
 [Play_Lazarus_RescueKelly_Musings_D AkEvent]
-SpokenText="Once we set her loose, Jane was eager to jump back into the fight. I almost felt guilty about depriving her team of a gifted leader, but if XCOM was going to spearhead the resistance, we needed the best people we could find leading the way."
+SpokenText="Assim que a libertamos, Jane estava ansiosa para voltar à luta. Quase me senti culpado por privar sua equipe de uma líder talentosa, mas se a XCOM fosse liderar a resistência, precisávamos dos melhores para comandar."
 
 [Play_Lazarus_RescueKelly_Musings_C AkEvent]
-SpokenText="Despite running an active and eager resistance cell, Jane was known for her surprisingly quiet, calculating demeanor. While most of the resistance groups were guided by the charisma of their leaders, these \"Earthers\" followed Jane because of her skills, not her words."
+SpokenText="Apesar de comandar uma célula de resistência ativa e motivada, Jane era conhecida por seu comportamento surpreendentemente calmo e calculista. Enquanto a maioria dos grupos de resistência era guiada pelo carisma de seus líderes, esses 'terrestres' seguiam Jane por causa de suas habilidades, não pelas palavras dela."
 
 [Play_Lazarus_RescueKelly_Musings_B AkEvent]
-SpokenText="At the time, I had never heard of Jane or her crew, but local rumors had talked them up to be the nastiest bunch of alien killing maniacs west of the Mississippi. If what they said was true, I was more than happy to risk a rescue if it meant recruiting a few more heavy operators for XCOM."
+SpokenText="Na época, eu nunca tinha ouvido falar de Jane ou de sua equipe, mas os rumores locais falavam deles como o grupo mais feroz de maníacos matadores de alienígenas a oeste do Mississippi. Se o que diziam era verdade, eu estava mais do que disposto a arriscar um resgate se isso significasse recrutar mais operadores pesados para a XCOM."
 
 [Play_Lazarus_RescueKelly_Musings_A AkEvent]
-SpokenText="We had been establishing contact with resistance cells wherever we could, but there were still plenty of groups out there operating on their own agendas. As we discovered that day, the local contingent called themselves \"Children of the Earth\" ...and it was their esteemed leader Jane Kelly that ADVENT had set their sights on."
+SpokenText="Estávamos estabelecendo contato com células de resistência onde quer que pudéssemos, mas ainda havia muitos grupos operando por conta própria. Como descobrimos naquele dia, o contingente local se chamava 'Filhos da Terra'... e foi sua líder estimada, Jane Kelly, que a ADVENT colocou como alvo."
 
 [Play_Lazarus_RescueKelly_MissionSummary AkEvent]
-SpokenText="Aside from her prowess in combat, Jane had her own network of contacts that proved to be invaluable in the days ahead. In fact, from what I recall it was one of her people that pointed us towards our next target."
+SpokenText="Além de sua habilidade em combate, Jane tinha sua própria rede de contatos, que se provou inestimável nos dias seguintes. Na verdade, pelo que me lembro, foi um dos contatos dela que nos apontou para o nosso próximo alvo."
 
 [Play_Lazarus_RescueKelly_LootSelect AkEvent]
-SpokenText="We were always on the lookout for fresh gear, especially with the growing number of recruits we had coming in."
+SpokenText="Estávamos sempre à procura de equipamentos novos, especialmente com o número crescente de recrutas que estavam chegando."
 
 [Play_Lazarus_RescueKelly_Loading AkEvent]
-SpokenText="Shen was pretty out of it most of her time with ADVENT, but she swore up and down that she had heard something about the aliens moving people by train. With that in mind, we were able to narrow down the locations where ADVENT was actively moving trains near the city center slums. We didn't know who we might find down there, but it was up to us to defend anyone willing to stand with the resistance. Who would have guessed it would end up being one of XCOM's greatest heroes?"
+SpokenText="Shen estava meio apagada na maior parte do tempo com a ADVENT, mas ela jurava que tinha ouvido algo sobre os alienígenas movendo pessoas de trem. Com isso em mente, conseguimos restringir as localizações onde a ADVENT estava movendo trens nas áreas degradadas do centro da cidade. Não sabíamos quem poderíamos encontrar lá, mas era nossa missão defender qualquer um disposto a se juntar à resistência. Quem diria que seria um dos maiores heróis da XCOM?"
 
 [Play_Lazarus_RescueKelly_Intro AkEvent]
-SpokenText="Shen was right. ADVENT's extraction team had pulled a train right into the slums outside the city and were using it as a prison on wheels. Whoever they were holding was obviously pretty important, so we figured it was probably best to get them on our side."
+SpokenText="Shen estava certa. A equipe de extração da ADVENT havia trazido um trem direto para os subúrbios fora da cidade e estava usando-o como uma prisão ambulante. Quem quer que estivessem segurando era claramente muito importante, então achamos que o melhor seria conseguir que eles se alinhassem conosco."
 
 [Play_Lazarus_RescueKelly_Failure_B AkEvent]
-SpokenText="I know it seems hard, but we pulled it off eventually."
+SpokenText="Eu sei que parece difícil, mas no final conseguimos."
 
 [Play_Lazarus_RescueKelly_Failure_A AkEvent]
-SpokenText="Most of the people on that team are still working with us today, so we must have survived somehow."
+SpokenText="A maioria das pessoas daquela equipe ainda está trabalhando conosco hoje, então de algum modo conseguimos sobreviver."
 
 [Play_Blast_Trainyard_TotalVictory_B AkEvent]
-SpokenText="Finding the sanctuary in ruins wasn't the outcome any of us had hoped for, but we were alive, and that was something at least."
+SpokenText="Encontrar o santuário em ruínas não foi o resultado que esperávamos, mas estávamos vivos, e isso já era algo."
 
 [Play_Blast_Trainyard_TotalVictory_A AkEvent]
-SpokenText="It was a tough fight, but we made it out of the freight yard in fine shape. The squad was feeling good at this point."
+SpokenText="Foi uma luta difícil, mas saímos bem do pátio de carga. A equipe estava se sentindo bem nesse momento."
 
 [Play_Blast_Trainyard_PartialVictory_B AkEvent]
-SpokenText="Considering what the aliens had been throwing at us, it felt good to have made it out of this one alive. Still, what happened to the sanctuary...that wasn't something you just forget."
+SpokenText="Considerando o que os alienígenas estavam nos atirando, foi bom ter saído dessa com vida. Ainda assim, o que aconteceu com o santuário... isso não é algo que se esqueça."
 
 [Play_Blast_Trainyard_PartialVictory_A AkEvent]
-SpokenText="We took some losses, a few ugly hits, but most of us managed to get past the freight yard alive."
+SpokenText="Tivemos algumas baixas, alguns ferimentos feios, mas a maioria de nós conseguiu sair do pátio de carga viva."
 
 [Play_Blast_Trainyard_Musings_F AkEvent]
-SpokenText="I don't remember who, but someone in the group joked that we should come up with a name for our little resistance cell. When I heard that, I knew they saw it too. We weren't taking orders from above. We were a squad now."
+SpokenText="Não me lembro quem, mas alguém no grupo brincou dizendo que deveríamos inventar um nome para nossa pequena célula de resistência. Quando ouvi isso, soube que eles viam o que eu via. Não estávamos mais seguindo ordens de cima. Agora éramos uma equipe."
 
 [Play_Blast_Trainyard_Musings_E AkEvent]
-SpokenText="During the invasion, the Elders kept a short leash on some of their wilder creations, but they weren't holding back anymore. We may have been the first humans to see some of these things up close - made for a good test of our resolve."
+SpokenText="Durante a invasão, os Anciões mantinham um controle rigoroso sobre algumas de suas criações mais selvagens, mas já não estavam mais se segurando. Talvez fôssemos os primeiros humanos a ver essas coisas de perto - foi um bom teste para nossa determinação."
 
 [Play_Blast_Trainyard_Musings_D AkEvent]
-SpokenText="I like to think that at a certain point, some alien commander or ADVENT officer noticed our little path of destruction, and just for that one instant felt a sense of panic. The map had led us through bigger and better targets, and we had met every challenge."
+SpokenText="Gosto de pensar que, em certo momento, algum comandante alienígena ou oficial da ADVENT percebeu nosso caminho de destruição, e, só por um instante, sentiu um pânico genuíno. O mapa nos levou a alvos maiores e melhores, e nós enfrentamos cada desafio."
 
 [Play_Blast_Trainyard_Musings_C AkEvent]
-SpokenText="It was probably stupid of us to think we'd find some safe haven, some respite from the real world. We had all been out here long enough to know better, but even I had let my guard down a little bit just this once. Never again."
+SpokenText="Provavelmente foi estúpido da nossa parte achar que encontraríamos algum refúgio seguro, algum alívio do mundo real. Já estávamos tempo o suficiente no campo para saber melhor, mas até eu baixei um pouco a guarda, só dessa vez. Nunca mais."
 
 [Play_Blast_Trainyard_Musings_B AkEvent]
-SpokenText="Whatever hope our group had of finding a sanctuary here had all but disappeared. We were all knotted up, blinded by rage. We were hungry for a fight now. We wanted their whole damn army after us. And from what I remember, they were happy to oblige."
+SpokenText="Qualquer esperança que nosso grupo tivesse de encontrar um santuário ali praticamente desapareceu. Estávamos todos entrelaçados, cegos pela raiva. Estávamos famintos por uma luta agora. Queríamos o exército inteiro deles atrás de nós. E pelo que me lembro, eles estavam mais do que dispostos a atender ao nosso pedido."
 
 [Play_Blast_Trainyard_Musings_ALT_C AkEvent]
-SpokenText="Stockyards and feed lots across the country collapsed from the work stoppages. There was no place for these trains to go, and no one to move them. In an unlikely coincidence, ADVENT banned the possession of livestock outright around the same time. That was the breaking point for a lot of people. Migration to the cities wasn't a choice anymore. It was a necessity of survival."
+SpokenText="Os mercados de gado e os currais pelo país inteiro desmoronaram devido às paralisações no trabalho. Não havia mais para onde os trens iriam, e ninguém para movê-los. Coincidentemente, a ADVENT proibiu a posse de gado pouco depois disso. Esse foi o ponto de ruptura para muitas pessoas. A migração para as cidades deixou de ser uma escolha. Era uma necessidade de sobrevivência."
 
 [Play_Blast_Trainyard_Musings_ALT_B AkEvent]
-SpokenText="The aliens blasted chokepoints along all of the major rail routes and highways across the continent, wiped out the global economy in a matter of weeks. Most of our biggest cities only had a three-day supply of food on hand, and with no new deliveries coming, things descended into chaos real quick."
+SpokenText="Os alienígenas destruíram os pontos críticos ao longo de todas as principais rotas ferroviárias e rodovias pelo continente, dizimando a economia global em poucas semanas. A maioria das nossas maiores cidades tinha apenas três dias de abastecimento de alimentos, e com nenhuma nova entrega chegando, a situação desceu rapidamente para o caos."
 
 [Play_Blast_Trainyard_Musings_ALT_A AkEvent]
-SpokenText="The aliens eventually repurposed and upgraded some of our existing rail routes. High speed trains helped them lock down Earth's resources for logistical control. ADVENT-approved rations became the primary source of food for millions, buying our loyalty one meal at a time."
+SpokenText="Eventualmente, os alienígenas reaproveitaram e atualizaram algumas de nossas rotas ferroviárias existentes. Trens de alta velocidade ajudaram a trancar os recursos da Terra sob controle logístico. As rações aprovadas pela ADVENT se tornaram a principal fonte de alimento para milhões, comprando nossa lealdade uma refeição de cada vez."
 
 [Play_Blast_Trainyard_Musings_A AkEvent]
-SpokenText="Maybe they thought they could get one of the trains running again to leave town, we were never sure. But what we found...what we found was nothing short of a massacre...the aliens had left no stone unturned. I had seen a lot of things I never expected back then, but this was something worse."
+SpokenText="Talvez pensaram que poderiam colocar um dos trens para rodar novamente e sair da cidade, nunca soubemos ao certo. Mas o que encontramos... o que encontramos foi nada menos que um massacre... os alienígenas não deixaram pedra sobre pedra. Eu já tinha visto muitas coisas que nunca imaginei naquela época, mas isso foi algo ainda pior."
 
 [Play_Blast_Trainyard_MissionSummary AkEvent]
-SpokenText="If there had been anything resembling a sanctuary at the freight yard, the aliens hadn't left any trace of it. There were still a few more locations marked on the map though, so we held out hope that maybe the survivors had moved on before it was too late."
+SpokenText="Se havia algo que se parecesse com um santuário no pátio de carga, os alienígenas não deixaram vestígios disso. Ainda havia alguns outros locais marcados no mapa, então mantivemos a esperança de que talvez os sobreviventes tivessem se movido antes que fosse tarde demais."
 
 [Play_Blast_Trainyard_LootSelect AkEvent]
-SpokenText="We pulled whatever we could off the aliens, and scrounged up a few things from the freight yard before moving on."
+SpokenText="Pegamos o que podíamos dos alienígenas e recolhemos algumas coisas do pátio de carga antes de seguir em frente."
 
 [Play_Blast_Trainyard_Loading AkEvent]
-SpokenText="Past the bar on the outskirts of town was the freight yard, and according to the map, this is where the sanctuary was supposed to be. We found some old trail markers, symbols people called the hobo code back in the day. None of us actually knew what the signs meant, but we got the distinct impression we were being warned to steer clear. We had already come too far, and if the aliens had gotten to these people, we had to know for sure."
+SpokenText="Passando pelo bar na periferia da cidade, chegamos ao pátio de carga, e segundo o mapa, era ali que o santuário deveria estar. Encontramos alguns antigos marcadores de trilha, símbolos que as pessoas chamavam de 'código dos andarilhos' na época. Nenhum de nós sabia o que os sinais significavam, mas tivemos a impressão de que estávamos sendo avisados para ficar longe. Já tínhamos ido longe demais, e se os alienígenas haviam chegado até essas pessoas, tínhamos que saber com certeza."
 
 [Play_Blast_Trainyard_Intro AkEvent]
-SpokenText="The freight yard hadn't been in operation since the war started...with few exceptions, interstate commerce had all but ground to a halt by this point. I'm sure the old box cars made for a tempting place to hide when the aliens rolled up on the town. Unfortunately, if anyone had survived, there was no sign of them when we showed up. I can't say we weren't disappointed. There was no sanctuary here...and if there ever was, the aliens had done their worst."
+SpokenText="O pátio de carga não estava em operação desde o início da guerra... com poucas exceções, o comércio interestadual praticamente parou nesse ponto. Tenho certeza de que os antigos vagões de carga eram um lugar tentador para se esconder quando os alienígenas chegaram à cidade. Infelizmente, se alguém havia sobrevivido, não havia sinal deles quando chegamos. Não posso dizer que não estávamos decepcionados. Não havia santuário aqui... e se algum dia houve, os alienígenas já haviam feito o pior."
 
 [Play_Blast_Trainyard_GraffitiSighted AkEvent]
-SpokenText="We noticed some other strange graffiti on a few of the old boxcars...I'm not sure what it meant, but it didn't look good.  We didn't really have time to stand around guessing though."
+SpokenText="Notamos algumas outras grafias estranhas em alguns dos velhos vagões... Não tenho certeza do que significava, mas não parecia bom. Não tínhamos muito tempo para ficar parados tentando adivinhar, no entanto."
 
 [Play_Blast_Trainyard_Failure_B AkEvent]
-SpokenText="Yeah, it was ugly down there, but not thatugly."
+SpokenText="Sim, estava feio lá embaixo, mas não tão feio assim."
 
 [Play_Blast_Trainyard_Failure_A AkEvent]
-SpokenText="Maybe I'm not describing the situation clearly. I survived."
+SpokenText="Talvez eu não esteja descrevendo a situação de forma clara. Eu sobrevivi."
 
 [Play_Blast_PoliceStation_TotalVictory_B AkEvent]
-SpokenText="We were all more than ready to put this town behind us."
+SpokenText="Todos nós estávamos mais do que prontos para deixar essa cidade para trás."
 
 [Play_Blast_PoliceStation_TotalVictory_A AkEvent]
-SpokenText="We cleared the police station and moved on as quickly as we could. There was nothing left of this town to save anymore."
+SpokenText="Limparamos a delegacia de polícia e seguimos em frente o mais rápido que pudemos. Não havia mais nada aqui para salvar."
 
 [Play_Blast_PoliceStation_PartialVictory_B AkEvent]
-SpokenText="As hazy as my memory might be, I'll never forget the faces of the people we lost out there."
+SpokenText="Por mais turva que minha memória fosse, nunca vou esquecer os rostos das pessoas que perdemos lá."
 
 [Play_Blast_PoliceStation_PartialVictory_A AkEvent]
-SpokenText="Every casualty, every loss... they just made me angrier, more driven to fight."
+SpokenText="Cada vítima, cada perda... só me deixou mais furioso, mais decidido a lutar."
 
 [Play_Blast_PoliceStation_Musings_F AkEvent]
-SpokenText="We didn't know it at the time, but I suppose this whole situation is even sadder when you consider that most of these aliens are just pawns in the Elders' game.  Not that I feel bad for 'em, but do you think the Elders care how many of these things we killed?"
+SpokenText="Não sabíamos na época, mas eu suponho que toda essa situação é ainda mais triste quando você considera que a maioria desses alienígenas são apenas peões no jogo dos Anciões. Não que eu sinta pena deles, mas você acha que os Anciões se importam com quantos desses seres matamos?"
 
 [Play_Blast_PoliceStation_Musings_E AkEvent]
-SpokenText="If a bunch of civilians were willing to stand up to ADVENT knowing they didn't have a chance in hell, what would history have said about us if we had turned and run away? None of us had any intention of leaving that place before the aliens paid for what they had done."
+SpokenText="Se um monte de civis estava disposto a enfrentar a ADVENT sabendo que não tinham a menor chance, o que a história teria dito sobre nós se tivéssemos virado as costas e fugido? Nenhum de nós tinha a intenção de deixar aquele lugar antes que os alienígenas pagassem pelo que fizeram."
 
 [Play_Blast_PoliceStation_Musings_D AkEvent]
-SpokenText="The reality of it was, these people had a choice. They could have kept running, they didn't have to stop here, didn't have to make a stand. But for whatever reason, I guess they had finally had enough. They knew what was coming and they stood and faced it down, right up until the end."
+SpokenText="A realidade era que essas pessoas tinham uma escolha. Elas poderiam ter continuado correndo, não precisavam parar ali, não precisavam fazer resistência. Mas, por algum motivo, acho que finalmente haviam chegado ao limite. Elas sabiam o que estava por vir e enfrentaram, até o fim."
 
 [Play_Blast_PoliceStation_Musings_C AkEvent]
-SpokenText="As far as I could tell, someone had gotten trigger happy with a whole bunch of plasma grenades. Which side was responsible wasn't clear, but someone had torn this place up and it looked like everyone involved paid the price."
+SpokenText="Pelo que pude perceber, alguém ficou com o dedo nervoso e soltou uma quantidade enorme de granadas de plasma. Não estava claro de qual lado, mas alguém destruiu aquele lugar, e parecia que todos os envolvidos pagaram o preço."
 
 [Play_Blast_PoliceStation_Musings_B AkEvent]
-SpokenText="The police were in no position to fight a war, much less an alien invasion. Don't get me wrong, a lot of 'em tried, but most of them didn't live long enough to do any real damage. The situation here was a little different though-there were a lot of dead aliens piled up-more than usual anyway."
+SpokenText="A polícia não estava em posição de travar uma guerra, muito menos uma invasão alienígena. Não me entenda mal, muitos deles tentaram, mas a maioria não viveu o suficiente para causar algum dano real. A situação aqui era um pouco diferente, no entanto – havia muitos alienígenas mortos empilhados, mais do que o usual, pelo menos."
 
 [Play_Blast_PoliceStation_Musings_A AkEvent]
-SpokenText="When we got there, the police station was overrun with ADVENT troops, and they weren't taking any prisoners. Seeing what they had done to the station, knowing there had been people in there...if we were angry before, now we were motivated."
+SpokenText="Quando chegamos lá, a delegacia de polícia estava tomada pelas tropas da ADVENT, e eles não estavam poupando ninguém. Ver o que fizeram na estação, sabendo que havia pessoas lá dentro... se já estávamos bravos antes, agora estávamos motivados."
 
 [Play_Blast_PoliceStation_MissionSummary AkEvent]
-SpokenText="After everything we had gone through, we needed a place to lay low for a while-some time to clear our heads. The map showed a farm outside of town, and that seemed as good a place as any to get some rest. In theory."
+SpokenText="Depois de tudo o que passamos, precisávamos de um lugar para ficar fora de vista por um tempo – um tempo para limpar nossas cabeças. O mapa indicava uma fazenda fora da cidade, e parecia um bom lugar para descansar. Em teoria."
 
 [Play_Blast_PoliceStation_LootSelect AkEvent]
-SpokenText="No one was in the mood to stick around and loot the place, but we grabbed whatever we could on our way out."
+SpokenText="Ninguém estava com disposição para ficar por ali e saquear o lugar, mas pegamos o que conseguimos enquanto saíamos."
 
 [Play_Blast_PoliceStation_Loading AkEvent]
-SpokenText="The Police Station was the last major landmark on the edge of town. Map aside, we knew people had flocked to police stations, army barracks, any place they thought might protect them from the aliens. A lot of people made their last stands in those places, and I wasn't looking forward to walking in on a massacre. Still, we had to know for sure."
+SpokenText="A delegacia de polícia era o último marco importante na periferia da cidade. De acordo com o mapa, sabíamos que as pessoas tinham se refugiado em delegacias de polícia, quartéis, qualquer lugar onde achassem que poderiam se proteger dos alienígenas. Muitos fizeram sua última resistência nesses lugares, e eu não estava ansioso para entrar em um massacre. Ainda assim, tínhamos que saber com certeza."
 
 [Play_Blast_PoliceStation_Intro AkEvent]
-SpokenText="As we got closer, it was clear the aliens had already set up inside the station. Between ADVENT and the usual suspects, the entire place was crawling with hostiles. Whoever tried to hole up inside had definitely put up a fight...there were still fresh plasma burns smoldering when we got there."
+SpokenText="À medida que nos aproximávamos, ficou claro que os alienígenas já haviam se instalado na estação. Entre a ADVENT e os suspeitos habituais, o lugar estava infestado de inimigos. Quem tentou se refugiar ali definitivamente lutou... ainda havia queimaduras de plasma frescas quando chegamos."
 
 [Play_Blast_PoliceStation_Failure_B AkEvent]
-SpokenText="At least a fewof us made it through that place alive."
+SpokenText="Pelo menos alguns de nós saíram vivos daquele lugar."
 
 [Play_Blast_PoliceStation_Failure_A AkEvent]
-SpokenText="I was still in the game at this point, so somehow I got through there."
+SpokenText="Eu ainda estava no jogo nesse ponto, então, de alguma forma, consegui sair de lá."
 
 [Play_Blast_PoliceStation_CiviliansWipe AkEvent]
-SpokenText="Despite how it sounds, we did actually find people alive in the Police Station, and with our help, some of them made it out of there."
+SpokenText="Apesar de como soa, realmente encontramos pessoas vivas na delegacia de polícia, e com nossa ajuda, algumas delas conseguiram sair de lá."
 
 [Play_Blast_PoliceStation_CiviliansSaved AkEvent]
-SpokenText="I don't know how they managed to survive, but I was pretty shocked to find some people still alive inside the station."
+SpokenText="Eu não sei como conseguiram sobreviver, mas fiquei chocado ao encontrar algumas pessoas ainda vivas dentro da delegacia."
 
 [Play_Blast_GasStation_TotalVictory_B AkEvent]
-SpokenText="The first day went well, but now the aliens knew we were up to something."
+SpokenText="O primeiro dia foi bem, mas agora os alienígenas sabiam que estávamos aprontando algo."
 
 [Play_Blast_GasStation_TotalVictory_A AkEvent]
-SpokenText="It wasn't easy, but we made it past the first contacts without too much trouble."
+SpokenText="Não foi fácil, mas passamos pelos primeiros contatos sem muitos problemas."
 
 [Play_Blast_GasStation_PartialVictory_B AkEvent]
-SpokenText="It's getting hard to remember their faces, but I'll never forget their sacrifice. I wouldn't be here without their help."
+SpokenText="Está ficando difícil lembrar dos rostos deles, mas nunca vou esquecer o sacrifício deles. Eu não estaria aqui sem a ajuda deles."
 
 [Play_Blast_GasStation_PartialVictory_A AkEvent]
-SpokenText="Some of us made it out of there alive, but sacrifices were made."
+SpokenText="Alguns de nós saíram vivos de lá, mas sacrifícios foram feitos."
 
 [Play_Blast_GasStation_Musings_G AkEvent]
-SpokenText="I can still remember the rush I got in that town, those first kills brought me back to life...made me believe again. While my new friends were focused on the hunt for buried treasure, I saw something else coming together. That was the first time I can remember feeling like humanity could still take back our world."
+SpokenText="Ainda consigo lembrar da adrenalina que senti naquela cidade, aquelas primeiras mortes me deram vida de novo... me fizeram acreditar novamente. Enquanto meus novos amigos estavam focados na busca por um tesouro enterrado, eu vi algo mais acontecendo. Foi a primeira vez que me lembro de sentir que a humanidade ainda poderia recuperar o nosso mundo."
 
 [Play_Blast_GasStation_Musings_F AkEvent]
-SpokenText="We had to make do with whatever weapons we could scrounge up. We didn't know a whole lot about the alien tech back then. I figured if we actually found anything XCOM built, at least I could count on it being pointed at the aliens first."
+SpokenText="Tivemos que nos virar com as armas que conseguimos encontrar. Não sabíamos muito sobre a tecnologia alienígena naquela época. Eu imaginei que, se encontrássemos algo que a XCOM tivesse construído, pelo menos poderia contar com isso sendo direcionado aos alienígenas primeiro."
 
 [Play_Blast_GasStation_Musings_E_ALT AkEvent]
-SpokenText="In the early days, the Faceless weren't even disguised half the time. And there were all kinds of silly ass rumors about shapeshifting animals, vehicles...all kinds of things that made trust even harder to come by among strangers."
+SpokenText="Nos primeiros dias, os Sem-Rosto nem se disfarçavam metade das vezes. E havia todo tipo de rumores absurdos sobre animais mudando de forma, veículos... todo tipo de coisa que tornava a confiança ainda mais difícil entre estranhos."
 
 [Play_Blast_GasStation_Musings_E AkEvent]
-SpokenText="In the early days, the Faceless weren't even disguised half the time. And there were all kinds of silly ass rumors about shapeshifting animals, vehicles...all kinds of things. That made trust even harder to come by among strangers."
+SpokenText="Nos primeiros dias, os Sem-Rosto nem se disfarçavam metade das vezes. E havia todo tipo de rumores absurdos sobre animais mudando de forma, veículos... todo tipo de coisa. Isso dificultava ainda mais a confiança entre estranhos."
 
 [Play_Blast_GasStation_Musings_D AkEvent]
-SpokenText="It's strange to think what it was like back then before ADVENT became the front...there were plenty of aliens, but a lot less barking. Stranger still is how quickly people forgot what the real faces of the war looked like...you wouldn't think the novelty of alien invaders would ever wear off."
+SpokenText="É estranho pensar como era naquela época antes da ADVENT se tornar a frente... havia muitos alienígenas, mas muito menos latido. Ainda mais estranho é como as pessoas rapidamente esqueceram como eram os verdadeiros rostos da guerra... você não imaginaria que a novidade dos invasores alienígenas algum dia iria desaparecer."
 
 [Play_Blast_GasStation_Musings_C AkEvent]
-SpokenText="We had hoped we could scavenge a few supplies, maybe find something to eat at the diner. Unfortunately the aliens didn't give us a whole lot of time to look around."
+SpokenText="Esperávamos poder pegar alguns suprimentos, talvez encontrar algo para comer no restaurante. Infelizmente, os alienígenas não nos deram muito tempo para procurar."
 
 [Play_Blast_GasStation_Musings_B AkEvent]
-SpokenText="I don't remember all the details, especially how I made it out of the base back then. I woke up in a smoking pile of rubble and crawled as far as I could. Beyond that, it was a lot of dark, bitter days in between."
+SpokenText="Não lembro de todos os detalhes, especialmente como consegui sair da base naquela época. Acordei em uma pilha de escombros fumegantes e rastejei o máximo que pude. Além disso, foi um monte de dias sombrios e amargos."
 
 [Play_Blast_GasStation_Musings_A AkEvent]
-SpokenText="I had been moving in the fringes, surviving on whatever I could, wherever I could. Truth be told, I had just about given up on everyone by then. Our so-called leaders had already told the world the fight was over, and I was in no position to convince anyone otherwise."
+SpokenText="Eu estava me movendo pelas margens, sobrevivendo do que conseguia, onde conseguisse. A verdade é que já tinha quase desistido de todos até então. Nossos chamados líderes já tinham dito ao mundo que a luta tinha acabado, e eu não estava em posição de convencer ninguém do contrário."
 
 [Play_Blast_GasStation_MissionSummary AkEvent]
-SpokenText="We didn't know it yet, but our little skirmish near the gas station was just a taste of things to come. We were already thinking about deviating from the map to avoid trouble, but it wasn't gonna be that easy."
+SpokenText="Ainda não sabíamos, mas nossa pequena escaramuça perto do posto de gasolina foi apenas um gosto do que estava por vir. Já estávamos pensando em desviar do mapa para evitar problemas, mas não ia ser tão fácil."
 
 [Play_Blast_GasStation_LootSelect AkEvent]
-SpokenText="Our first stop yielded a few decent upgrades, but nothing that was gonna set the world on fire. And there was only so much we could take with us. We had to travel light if we were going to keep up this pace."
+SpokenText="Nossa primeira parada trouxe alguns bons upgrades, mas nada que fosse mudar o jogo. E havia apenas tanto que podíamos carregar conosco. Precisávamos viajar leve se quiséssemos manter esse ritmo."
 
 [Play_Blast_GasStation_Loading AkEvent]
-SpokenText="Alright, people. Story time. This was almost 20 years ago, so my memory might be a little hazy. With XCOM gone and no sign of any survivors from HQ, I had somehow fallen in with a couple of other misfits the aliens hadn't managed to kill yet. We mostly kept our heads down and scavenged what we could. Until one day we found a map - a map claiming to point towards a human sanctuary, a gathering place for those of us still out there. We were suspicious of course, but we didn't really have much else to lose."
+SpokenText="Certo, pessoal. Hora da história. Isso foi quase 20 anos atrás, então minha memória pode estar um pouco embaçada. Com a XCOM desaparecida e sem sinais de sobreviventes da base, de alguma forma acabei me juntando a alguns outros desajustados que os alienígenas não haviam conseguido matar ainda. A maioria de nós ficava com a cabeça baixa e saqueava o que conseguíamos. Até que um dia encontramos um mapa - um mapa que dizia apontar para um refúgio humano, um lugar de encontro para nós, os que ainda restavam. Estávamos desconfiados, é claro, mas não tínhamos muito mais a perder."
 
 [Play_Blast_GasStation_Intro AkEvent]
-SpokenText="Five minutes in either direction and we would have never met, but for whatever reason my little group seemed to get along pretty well. We weren't much more than wandering vagabonds at that point, but the map gave us a purpose, something to work towards. That meant moving through occupied territory though, so this was sure to be a test of our resolve."
+SpokenText="Cinco minutos em qualquer direção e nunca teríamos nos encontrado, mas por alguma razão meu pequeno grupo parecia se dar bem. Não éramos muito mais do que vagabundos errantes naquele ponto, mas o mapa nos deu um propósito, algo pelo que trabalhar. Isso significava passar por território ocupado, então isso certamente seria um teste da nossa determinação."
 
 [Play_Blast_GasStation_Failure_B AkEvent]
-SpokenText="Hazy memory or not, I know we did better than that."
+SpokenText="Memória embaçada ou não, eu sei que fizemos melhor do que isso."
 
 [Play_Blast_GasStation_Failure_A AkEvent]
-SpokenText="Well, obviously it didn't go like that...I'm still here, right?"
+SpokenText="Bem, obviamente não foi assim... Eu ainda estou aqui, certo?"
 
 [Play_Blast_Farm_TotalVictory_B AkEvent]
-SpokenText="The aliens were throwing everything they had at us, but we made it off the farm without losing anyone."
+SpokenText="Os alienígenas estavam jogando tudo o que tinham contra nós, mas conseguimos sair da fazenda sem perder ninguém."
 
 [Play_Blast_Farm_TotalVictory_A AkEvent]
-SpokenText="We made it clear of the farm despite the aliens' best efforts."
+SpokenText="Conseguimos sair da fazenda, apesar dos melhores esforços dos alienígenas."
 
 [Play_Blast_Farm_PartialVictory_B AkEvent]
-SpokenText="Things got a little ugly on the farm. I should have known better."
+SpokenText="As coisas ficaram um pouco feias na fazenda. Eu deveria ter sabido melhor."
 
 [Play_Blast_Farm_PartialVictory_A AkEvent]
-SpokenText="Not everyone made it off the farm in one piece, but a few of us were still hanging on. We had to keep moving."
+SpokenText="Nem todos saíram da fazenda inteiros, mas alguns de nós ainda estavam firmes. Tivemos que continuar em frente."
 
 [Play_Blast_Farm_Musings_F AkEvent]
-SpokenText="Even after 20 years we still haven't managed to get back enough of the world to start farming for ourselves again. I've wondered sometimes if that's all part of the Elders' master plan, get us reliant on their systems, then sit back and wait. The younger generations won't have any idea how to survive outside of the city centers."
+SpokenText="Mesmo depois de 20 anos, ainda não conseguimos recuperar o suficiente do mundo para começarmos a plantar novamente. Às vezes me pergunto se isso faz parte do plano mestre dos Anciãos, nos deixar dependentes de seus sistemas e depois esperar. As gerações mais jovens não terão ideia de como sobreviver fora dos centros urbanos."
 
 [Play_Blast_Farm_Musings_E AkEvent]
-SpokenText="With the aliens coming for us directly now, I had my concerns about what we might find at the end of the road. We could have stopped, gone our separate ways-but I wasn't about to break up this thing we had going, whatever it was."
+SpokenText="Com os alienígenas vindo diretamente atrás de nós agora, eu tinha minhas preocupações sobre o que poderíamos encontrar no final do caminho. Poderíamos ter parado, seguido nossos próprios caminhos... mas eu não estava disposto a destruir o que tínhamos construído, seja lá o que fosse."
 
 [Play_Blast_Farm_Musings_D AkEvent]
-SpokenText="I'm still not entirely sure what the aliens did with the tens of millions of cattle and other animals we had across the country before they decided animal husbandry was too risky of a technology for humans to possess. I know it's got something to do with those damn ADVENT burgers."
+SpokenText="Ainda não tenho certeza do que os alienígenas fizeram com as dezenas de milhões de gado e outros animais que tínhamos no país antes de decidirem que a criação de animais era uma tecnologia muito arriscada para os humanos possuírem. Sei que isso tem algo a ver com aqueles malditos hambúrgueres da ADVENT."
 
 [Play_Blast_Farm_Musings_C AkEvent]
-SpokenText="I remember hoping to avoid collateral damage at the time, but it was probably a good thing the farm was abandoned by the original owners. There wasn't a whole lot left of their barn after the fight."
+SpokenText="Lembro de ter esperado evitar danos colaterais na época, mas provavelmente foi bom que a fazenda estivesse abandonada pelos proprietários originais. Não havia muito resto do celeiro deles depois da luta."
 
 [Play_Blast_Farm_Musings_B AkEvent]
-SpokenText="The Andromedons were a surprise. We didn't know what to make of that diving suit they wear. Especially when it kept fighting even with that thing inside splayed out the front."
+SpokenText="Os Andromedons foram uma surpresa. Não sabíamos o que fazer com aquele traje de mergulho que eles usam. Especialmente quando ele continuava lutando mesmo com aquela coisa dentro dele estirada para fora."
 
 [Play_Blast_Farm_Musings_A AkEvent]
-SpokenText="Being on the farm brought back a lot of memories. It would have been nice to find a quiet spot to rest for a bit, but we had kicked the hornet's nest, and they weren't about to let us sit around and reminisce about the old days."
+SpokenText="Estar na fazenda trouxe muitas lembranças. Teria sido bom encontrar um lugar tranquilo para descansar por um tempo, mas já tínhamos mexido com o ninho de vespas, e eles não iam nos deixar ficar sentados e relembrando os velhos tempos."
 
 [Play_Blast_Farm_MissionSummary AkEvent]
-SpokenText="It wasn't until we finally stopped to catch our breath that I realized what that symbol was we kept seeing, the graffiti. It was right there on the map all along... the dam. That's where the alien reinforcements were coming from. That's what the survivors had been trying to tell us all along."
+SpokenText="Foi só quando finalmente paramos para respirar que percebi o que aquele símbolo que víamos por toda parte, naquelas grafites, significava. Estava bem ali no mapa o tempo todo... a represa. De lá que vinham os reforços alienígenas. Era isso que os sobreviventes estavam tentando nos dizer o tempo todo."
 
 [Play_Blast_Farm_LootSelect AkEvent]
-SpokenText="We found some odd weapons on the farm, not the kind of thing you would normally find on ADVENT... or anyone else for that matter."
+SpokenText="Encontramos algumas armas estranhas na fazenda, não eram o tipo de coisa que você normalmente encontraria na ADVENT... ou em qualquer outra pessoa, para ser sincero."
 
 [Play_Blast_Farm_Loading AkEvent]
-SpokenText="Things started to open up as we got away from town. We made a beeline straight for the farm in the hopes of getting a few hours rest. We knew at this point the aliens were going to come looking for us eventually. We had left a path of destruction that only pointed one direction. I just hoped we'd catch a breather before the next round of reinforcements showed up."
+SpokenText="As coisas começaram a melhorar quando nos afastamos da cidade. Fizemos um caminho direto para a fazenda na esperança de conseguir algumas horas de descanso. Sabíamos que os alienígenas eventualmente viriam atrás de nós. Havíamos deixado um caminho de destruição que apontava em uma única direção. Só esperava que conseguíssemos um respiro antes da próxima leva de reforços chegar."
 
 [Play_Blast_Farm_Intro AkEvent]
-SpokenText="We rolled in to a nice homestead, big red barn and all that, kinda reminded me of the old family farm back in Kansas. But that's another story...and unfortunately this one leads us right back into another big fight. In retrospect we probably should have avoided any landmarks, but we were all worn out and not exactly thinking straight."
+SpokenText="Chegamos a uma bela propriedade, com um grande celeiro vermelho e tudo, o que me fez lembrar da fazenda da minha família no Kansas. Mas isso é outra história... e, infelizmente, essa nos leva de volta a mais uma grande luta. Em retrospectiva, provavelmente deveríamos ter evitado qualquer marco, mas estávamos todos exaustos e não exatamente pensando direito."
 
 [Play_Blast_Farm_GraffitiSighted AkEvent]
-SpokenText="On one of the walls of the barn, we found that same graffiti from the freight yard...a circle above a square. It still hadn't dawned on us yet, but the answer was right in front of us the whole time."
+SpokenText="Em uma das paredes do celeiro, encontramos aquela mesma grafite do pátio de carga... um círculo acima de um quadrado. Ainda não tínhamos percebido, mas a resposta esteve bem na nossa frente o tempo todo."
 
 [Play_Blast_Farm_Failure_B AkEvent]
-SpokenText="We're almost to the end. Don't give up hope now."
+SpokenText="Estamos quase no final. Não percam a esperança agora."
 
 [Play_Blast_Farm_Failure_A AkEvent]
-SpokenText="The farm would have been a fine place to check out, but that's not how the story goes."
+SpokenText="A fazenda teria sido um bom lugar para explorar, mas não é assim que a história acontece."
 
 [Play_Blast_Dam_TotalVictory_B AkEvent]
-SpokenText="The aliens threw just about everything they had at us, but we pulled it off."
+SpokenText="Os alienígenas lançaram quase tudo o que tinham contra nós, mas conseguimos."
 
 [Play_Blast_Dam_TotalVictory_A AkEvent]
-SpokenText="We had done it...we made it through the gauntlet alive. We were feeling pretty good about ourselves, nothing quite like seeing your enemies driven off before you."
+SpokenText="Conseguimos... conseguimos passar pela fornalha vivos. Estávamos nos sentindo bem conosco mesmos, não há nada como ver seus inimigos serem expulsos antes de você."
 
 [Play_Blast_Dam_PartialVictory_B AkEvent]
-SpokenText="We all fought hard to the very end, but it wasn't easy. We took some shots in the process."
+SpokenText="Todos nós lutamos até o fim, mas não foi fácil. Levamos alguns tiros no processo."
 
 [Play_Blast_Dam_PartialVictory_A AkEvent]
-SpokenText="We didn't all make it in the end, but those who gave up their lives went out with pride, heads held high."
+SpokenText="Não todos nós conseguimos no final, mas aqueles que sacrificaram suas vidas partiram com orgulho, com a cabeça erguida."
 
 [Play_Blast_Dam_Musings_F AkEvent]
-SpokenText="Eventually it dawned on me, once we got through this fight, we'd have to figure out what to do next. Somehow in the heat of battle, I panicked for a second thinking ahead to the possibility of losing my new friends. We'd just have to find someone else to pick a fight with."
+SpokenText="Eventualmente percebi que, depois de passar por essa luta, teríamos que decidir o que fazer a seguir. De alguma forma, no calor da batalha, eu entrei em pânico por um segundo pensando à frente na possibilidade de perder meus novos amigos. Teríamos apenas que encontrar outra pessoa para brigar."
 
 [Play_Blast_Dam_Musings_E AkEvent]
-SpokenText="By now my squad was probably the most dangerous group of alien killers on the continent-except maybe for the Reapers, but I hadn't met Volk just yet."
+SpokenText="Agora, minha equipe provavelmente era o grupo de caçadores de alienígenas mais perigoso do continente, exceto talvez pelos Reapers, mas eu ainda não havia conhecido o Volk."
 
 [Play_Blast_Dam_Musings_D AkEvent]
-SpokenText="We didn't consider it at first, but fighting on top of that dam was probably a bad idea. Tight quarters, plenty of things that could explode in our face, and the toughest aliens we had encountered so far on this little expedition."
+SpokenText="Não consideramos no início, mas lutar no topo daquela represa provavelmente foi uma má ideia. Espaços apertados, várias coisas que poderiam explodir na nossa cara e os alienígenas mais fortes que havíamos encontrado até agora nessa pequena expedição."
 
 [Play_Blast_Dam_Musings_C AkEvent]
-SpokenText="As much time as I've spent trying to forget those days, you have to expect some of the finer details to get a little blurry. Thinking about it now... I'm pretty sure what we ran into back then was some kind of Avatar. I remember the hair...just take my word for it."
+SpokenText="Tanto tempo tentando esquecer aqueles dias, é de se esperar que alguns dos detalhes mais finos fiquem um pouco borrados. Pensando nisso agora... estou quase certo de que o que encontramos na época era algum tipo de Avatar. Lembro do cabelo... só acredite em mim."
 
 [Play_Blast_Dam_Musings_B AkEvent]
-SpokenText="We had picked up a few upgrades along the way, but the aliens weren't about to give us any kind of technological advantage-they wanted to finish us-and they brought the guns to make it happen."
+SpokenText="Pegamos algumas melhorias ao longo do caminho, mas os alienígenas não estavam dispostos a nos dar nenhuma vantagem tecnológica – eles queriam terminar com a gente – e trouxeram as armas para garantir isso."
 
 [Play_Blast_Dam_Musings_A AkEvent]
-SpokenText="At one time the dam had provided steady power for the town and the whole county beyond. From what we could tell, the aliens had seized it to power some kind of portal..."
+SpokenText="Em um tempo, a represa fornecia energia constante para a cidade e todo o condado além dela. Pelo que pudemos perceber, os alienígenas a haviam tomado para alimentar algum tipo de portal..."
 
 [Play_Blast_Dam_MissionSummary AkEvent]
-SpokenText="So that's the story, at least what I remember of it. Good stuff, right? Maybe if you're lucky, I'll think of a few more. I know Shen definitely has a few tall-tales of her own."
+SpokenText="Então essa é a história, pelo menos o que eu me lembro dela. Boa história, né? Talvez, se tiver sorte, eu me lembre de mais algumas. Eu sei que a Shen certamente tem algumas histórias bem exageradas para contar."
 
 [Play_Blast_Dam_Loading AkEvent]
-SpokenText="The aliens must have been using the dam as some kind of rally point or rendezvous, because this was no patrol, no routine ADVENT sweep. They had brought out something special just for us, and to be honest, it was...serious. If I had had any sense of self-preservation back then, I might have been worried about losing this one. I put on a brave face for the others. This wasn't the time to get shook up."
+SpokenText="Os alienígenas devem ter usado a represa como algum tipo de ponto de reunião ou ponto de encontro, porque isso não era uma patrulha, nem uma varredura de rotina da ADVENT. Eles trouxeram algo especial só para nós, e para ser honesto, era... sério. Se eu tivesse qualquer instinto de preservação naquela época, eu provavelmente estaria preocupado em perder essa batalha. Mas coloquei uma cara de coragem para os outros. Não era hora de ficar abalado."
 
 [Play_Blast_Dam_Intro AkEvent]
-SpokenText="The aliens were guarding the place like it was hallowed ground. With no survivors and nothing to salvage, we came here looking for a fight, and that's all we found. Among the squad we all agreed, to hell with the aliens-if the dam was important to them, then we were going to take it away, permanently."
+SpokenText="Os alienígenas estavam guardando o local como se fosse terra sagrada. Sem sobreviventes e sem nada para saquear, viemos aqui procurando uma briga, e foi isso que encontramos. Entre a equipe, todos concordamos, dane-se os alienígenas - se a represa era importante para eles, então íamos tirá-la deles, permanentemente."
 
 [Play_Blast_Dam_Failure_B AkEvent]
-SpokenText="This was an inciting moment in our history. Let's see if we can do a little better than that."
+SpokenText="Este foi um momento crucial na nossa história. Vamos ver se conseguimos fazer um pouco melhor do que isso."
 
 [Play_Blast_Dam_Failure_A AkEvent]
-SpokenText="I wouldn't be here to tell the story if I hadn't managed to cross that dam."
+SpokenText="Eu não estaria aqui para contar essa história se não tivesse conseguido atravessar aquela represa."
 
 [Play_Blast_Dam_Ending AkEvent]
-SpokenText="This group, these people...they were the real beginning of the resistance. Word of our attack on the dam that day spread far and wide. The stories have varied from town to town, but the details didn't matter. It gave people hope, and after that day, some of them chose to start fighting back."
+SpokenText="Este grupo, essas pessoas... eles foram o verdadeiro começo da resistência. A notícia do nosso ataque à represa naquele dia se espalhou longe e rápido. As histórias variaram de cidade para cidade, mas os detalhes não importaram. Isso deu esperança às pessoas, e depois daquele dia, alguns deles decidiram começar a lutar de volta."
 
 [Play_Blast_Cemetery_TotalVictory_B AkEvent]
-SpokenText="The cemetery was rough, but my new recruits pulled together pretty well."
+SpokenText="O cemitério foi difícil, mas meus novos recrutas se uniram bem."
 
 [Play_Blast_Cemetery_TotalVictory_A AkEvent]
-SpokenText="As grim as it seemed, we made it out of the cemetery not much worse for wear."
+SpokenText="Por mais sombria que fosse, conseguimos sair do cemitério sem muitos danos."
 
 [Play_Blast_Cemetery_PartialVictory_B AkEvent]
-SpokenText="I'll never forget the ones that helped me get to this point. I wouldn't be here without their sacrifice."
+SpokenText="Nunca vou esquecer aqueles que me ajudaram a chegar até aqui. Eu não estaria aqui sem o sacrifício deles."
 
 [Play_Blast_Cemetery_PartialVictory_A AkEvent]
-SpokenText="We took a few casualties, but it could have been a lot worse. I was just happy to keep moving."
+SpokenText="Tivemos algumas baixas, mas poderia ter sido muito pior. Eu só estava feliz por continuar em movimento."
 
 [Play_Blast_Cemetery_Musings_F AkEvent]
-SpokenText="I got to thinking about all the people I know for sure didn't make it out of HQ. Assuming the aliens haven't tried to clear it out, that mountain is the final resting place for a lot of good people. I had always hoped to go back there one day and put up a marker, or something at least."
+SpokenText="Fiquei pensando em todas as pessoas que eu sei com certeza que não conseguiram sair da sede. Supondo que os alienígenas não tenham tentado limpar o local, aquela montanha é o último descanso de muitas boas pessoas. Sempre esperei poder voltar lá um dia e colocar uma marca, ou algo assim, pelo menos."
 
 [Play_Blast_Cemetery_Musings_E AkEvent]
-SpokenText="We had spent a fair amount of time together, but my new friends didn't know much about my background. To them, I was just an ex-military survivor, another broken down veteran. As time went on, I think they started to piece it together on their own, and I didn't mind keeping them guessing."
+SpokenText="Passamos um bom tempo juntos, mas meus novos amigos não sabiam muito sobre o meu passado. Para eles, eu era apenas um sobrevivente ex-militar, outro veterano quebrado. Com o tempo, acho que eles começaram a juntar as peças por conta própria, e eu não me importava de deixá-los curiosos."
 
 [Play_Blast_Cemetery_Musings_D AkEvent]
-SpokenText="I hadn't felt a sense of comradery in a long time. Most people were respectful of the surviving war veterans that were still out here. Some might even offer us a friendly smile. Still, I ran into plenty of people who couldn't do anything but blame us. Soldiers, politicians, doctors...we had all failed someone in one way or another."
+SpokenText="Eu não sentia um senso de camaradagem há muito tempo. A maioria das pessoas era respeitosa com os veteranos de guerra sobreviventes que ainda estavam por aqui. Alguns até ofereciam um sorriso amigável. Ainda assim, encontrei muitas pessoas que não conseguiam fazer nada além de nos culpar. Soldados, políticos, médicos... todos nós falhamos com alguém de uma forma ou de outra."
 
 [Play_Blast_Cemetery_Musings_C AkEvent]
-SpokenText="I'm not sure I ever really believed in the prospect of finding survivors, and the weapons my team were after weren't going to do much on their own. Notice how I said team? That's when I started to realize what the actual payoff here was."
+SpokenText="Não tenho certeza se realmente acreditava na possibilidade de encontrar sobreviventes, e as armas que minha equipe estava procurando não iam fazer muita diferença por si só. Perceba como eu disse equipe? Foi quando comecei a perceber qual era a verdadeira recompensa aqui."
 
 [Play_Blast_Cemetery_Musings_B AkEvent]
-SpokenText="I had seen a few zombies during the early days of the invasion, but not like this, not up close. They were human once...but we didn't have any choice. The last place you want to run into a bunch of psychic aliens is a cemetery full of fresh graves."
+SpokenText="Eu tinha visto alguns zumbis nos primeiros dias da invasão, mas nada como isso, nada de perto. Eles foram humanos uma vez... mas não tínhamos escolha. O último lugar onde você quer se deparar com um monte de alienígenas psíquicos é em um cemitério cheio de túmulos frescos."
 
 [Play_Blast_Cemetery_Musings_A AkEvent]
-SpokenText="In the two years or so since we lost the base, I hadn't heard so much as a peep about XCOM, much less run into any familiar faces. Most people never knew we existed in the first place, so there wasn't a whole lot of point in asking around."
+SpokenText="Nos dois anos mais ou menos desde que perdemos a base, eu não ouvi nem um pio sobre o XCOM, muito menos encontrei algum rosto familiar. A maioria das pessoas nunca soube que existíamos em primeiro lugar, então não havia muito sentido em perguntar por aí."
 
 [Play_Blast_Cemetery_MissionSummary AkEvent]
-SpokenText="So, the Cemetery didn't end up being the quiet shortcut we had hoped for, but we were still headed in the right direction-assuming this sanctuary even existed in the first place."
+SpokenText="Então, o Cemitério não acabou sendo o atalho tranquilo que esperávamos, mas ainda estávamos indo na direção certa - assumindo que esse santuário realmente existisse, para começar."
 
 [Play_Blast_Cemetery_LootSelect AkEvent]
-SpokenText="We had gotten used to salvaging gear by that point. We'd picked through just about everything left on the alien bodies."
+SpokenText="Já estávamos acostumados a resgatar equipamentos nesse ponto. Havíamos revistado quase tudo o que restava nos corpos alienígenas."
 
 [Play_Blast_Cemetery_Loading AkEvent]
-SpokenText="We had no idea who made the map in the first place, but if there really was some kind of hidden sanctuary out there, I wanted to see it for myself. The map was steering us right through town, but we figured maybe we'd creep through the cemetery instead to keep things quiet.  I tried to take a few notes just in case we forged a new path-if history was gonna to be written by the victors, then I at least wanted to have something ready just in case we finally got our act together."
+SpokenText="Não tínhamos ideia de quem fez o mapa, mas se realmente existia algum tipo de santuário escondido por aí, eu queria ver com meus próprios olhos. O mapa estava nos direcionando direto para a cidade, mas achamos que talvez deveríamos passar pelo cemitério para manter as coisas em silêncio. Tentei fazer algumas anotações, caso criássemos um novo caminho. Se a história fosse escrita pelos vencedores, pelo menos eu queria ter algo pronto, caso finalmente conseguíssemos nos organizar."
 
 [Play_Blast_Cemetery_Intro AkEvent]
-SpokenText="We were all a little suspicious, but we managed to pick up another recruit near the cemetery. As risky as it was, we needed all the help we could get, and I wasn't worried about splitting the gear another way. Once we got close, the aliens were all over us pretty quick. What we found was...difficult to face."
+SpokenText="Todos estávamos um pouco desconfiados, mas conseguimos recrutar outra pessoa perto do cemitério. Por mais arriscado que fosse, precisávamos de toda ajuda que pudéssemos conseguir, e eu não me importava em dividir o equipamento de outra forma. Quando chegamos perto, os alienígenas estavam em cima de nós rapidamente. O que encontramos foi... difícil de encarar."
 
 [Play_Blast_Cemetery_Failure_B AkEvent]
-SpokenText="I think I did a little better than that back then."
+SpokenText="Acho que fiz um pouco melhor do que isso naquela época."
 
 [Play_Blast_Cemetery_Failure_A AkEvent]
-SpokenText="I wouldn't be sitting here today if that's how things played out."
+SpokenText="Eu não estaria sentado aqui hoje se fosse assim que as coisas tivessem acontecido."
 
 [Play_Blast_Bar_TotalVictory_B AkEvent]
-SpokenText="I didn't get the drink I was after, but we also made it through alive, so I wasn't exactly complaining."
+SpokenText="Eu não consegui a bebida que queria, mas também saímos vivos, então não estava exatamente reclamando."
 
 [Play_Blast_Bar_TotalVictory_A AkEvent]
-SpokenText="We left the bar sober, but fully intact. I couldn't really complain about the outcome."
+SpokenText="Saímos do bar sóbrios, mas inteiros. Não podia realmente reclamar do resultado."
 
 [Play_Blast_Bar_PartialVictory_B AkEvent]
-SpokenText="It's never easy seeing your friends go down in combat, even after everything I had been through over the years."
+SpokenText="Nunca é fácil ver seus amigos caírem em combate, mesmo depois de tudo o que passei ao longo dos anos."
 
 [Play_Blast_Bar_PartialVictory_A AkEvent]
-SpokenText="It was a tough fight, but we managed to get out with only a few casualties."
+SpokenText="Foi uma luta difícil, mas conseguimos sair com apenas algumas baixas."
 
 [Play_Blast_Bar_Musings_F AkEvent]
-SpokenText="By now we had definitely gotten someone's attention. The aliens were down a couple of dozen kills, and we were taking our sweet time clearing out every last one of 'em. For people that came out here as scavengers, my new pals had almost forgotten about looking for gear."
+SpokenText="Agora, com certeza, já tínhamos chamado a atenção de alguém. Os alienígenas perderam algumas dúzias de soldados, e nós estávamos levando nosso tempo para eliminar todos eles. Para pessoas que saíram por aqui como saqueadores, meus novos amigos quase esqueceram de procurar equipamentos."
 
 [Play_Blast_Bar_Musings_E AkEvent]
-SpokenText="We didn't have the slightest clue what these ADVENT goons were barking about back then. Not that it mattered. The more of 'em we took out, the more I started to see that with the right people, there was still a chance we could make a difference out here."
+SpokenText="Nós não fazíamos ideia do que esses idiotas da ADVENT estavam falando naquela época. Mas não importava. Quanto mais deles eliminávamos, mais eu começava a ver que, com as pessoas certas, ainda havia uma chance de fazermos a diferença por aqui."
 
 [Play_Blast_Bar_Musings_D AkEvent]
-SpokenText="ADVENT was still in the early stages of establishing itself as the new global front, but we ran into some of their first troops that day outside the bar. I was pretty confident we'd come out on top, but even I was impressed by how well we handled these guys."
+SpokenText="A ADVENT ainda estava nos estágios iniciais de se estabelecer como a nova frente global, mas encontramos algumas das primeiras tropas deles naquele dia fora do bar. Eu estava bastante confiante de que sairíamos vitoriosos, mas até eu fiquei impressionado com o quanto lidamos bem com esses caras."
 
 [Play_Blast_Bar_Musings_C AkEvent]
-SpokenText="Finding a drink wasn't easy, but the good stuff was still floating around out there in the territories-all highly illegal of course. If you couldn't trade for it, you could always try your luck in the abandoned cities. A lot of people disappeared chasing vices of the old world back then."
+SpokenText="Encontrar uma bebida não era fácil, mas as coisas boas ainda estavam circulando por aí nos territórios — todas altamente ilegais, é claro. Se você não podia trocar por elas, sempre podia tentar a sorte nas cidades abandonadas. Muitas pessoas desapareceram atrás dos vícios do velho mundo naquela época."
 
 [Play_Blast_Bar_Musings_B AkEvent]
-SpokenText="There were still some independent businesses out there trying to survive the occupation back then. In a few areas, things almost seemed normal, but ADVENT wasn't having it. Constantly changing restrictions on \"unauthorized\" food sources made it almost impossible not to move to the new city centers."
+SpokenText="Ainda havia alguns negócios independentes tentando sobreviver à ocupação naquela época. Em algumas áreas, as coisas até pareciam normais, mas a ADVENT não estava deixando barato. As constantes mudanças nas restrições sobre fontes de alimentos 'não autorizadas' tornaram quase impossível não se mudar para os novos centros urbanos."
 
 [Play_Blast_Bar_Musings_A AkEvent]
-SpokenText="By now we were starting to work pretty well together, and my little team had already racked up a respectable kill-count by the time we moved in on the bar. That was the only explanation I could come up with, 'cause it didn't take long for a whole lot of aliens to close on our position."
+SpokenText="Agora, já estávamos começando a trabalhar bem juntos, e minha pequena equipe já tinha acumulado um número respeitável de mortes até o momento em que invadimos o bar. Essa foi a única explicação que consegui arranjar, porque não demorou muito para que uma porção de alienígenas se fechassem em nossa posição."
 
 [Play_Blast_Bar_MissionSummary AkEvent]
-SpokenText="At this point I was starting to wonder whether the map was guiding us to the aliens, or the aliens were just keyed in on the path we were trying to take. Either way, I couldn't imagine any refugees getting past what we had just dealt with."
+SpokenText="Neste ponto, comecei a me perguntar se o mapa estava nos guiando até os alienígenas, ou se os alienígenas simplesmente haviam se ligado ao caminho que estávamos tentando seguir. De qualquer forma, eu não conseguia imaginar nenhum refugiado conseguindo passar por aquilo que acabamos de enfrentar."
 
 [Play_Blast_Bar_LootSelect AkEvent]
-SpokenText="We were able to pull some useable armor vests and PCS components from the ADVENT units near the Bar, but there was no sign of anything I recognized from XCOM."
+SpokenText="Conseguimos pegar coletes de armadura utilizáveis e componentes de PCS das unidades da ADVENT perto do bar, mas não havia sinal de nada que eu reconhecesse do XCOM."
 
 [Play_Blast_Bar_Loading AkEvent]
-SpokenText="The map was driving us towards what looked to be some kind of freight yard, but first we had to cut across the edge of town near a local dive bar. I remember being genuinely excited at the prospect of finding a nice stiff drink. Unfortunately, the arrival of ADVENT had ushered in a new era of restrictions and bans, which meant pretty much anything that you might consider fun was outlawed... Still, there was a chance I might find something good out there in the boonies."
+SpokenText="O mapa estava nos levando em direção ao que parecia ser algum tipo de pátio de frete, mas primeiro precisávamos atravessar a periferia da cidade perto de um bar local. Lembro-me de estar genuinamente empolgado com a possibilidade de encontrar uma boa bebida forte. Infelizmente, a chegada da ADVENT trouxe uma nova era de restrições e proibições, o que significava que praticamente qualquer coisa que você pudesse considerar divertida estava proibida... Mesmo assim, havia uma chance de eu encontrar algo bom por aí nos confins."
 
 [Play_Blast_Bar_Intro AkEvent]
-SpokenText="Things were quiet when we showed up, but it looked we had just missed the action- with all the hallmarks of an ADVENT sweep gone south. In those days, they were rounding up stragglers pretty aggressively, and it didn't take much to provoke a fight. We never did find out who it was, but odds are they were either convinced to move to a city center, or dumped in a mass grave somewhere."
+SpokenText="As coisas estavam quietas quando chegamos, mas parecia que havíamos perdido a ação - com todos os sinais de uma varredura da ADVENT que tinha dado errado. Naqueles dias, eles estavam reunindo os estragadores de forma bem agressiva, e não era preciso muito para provocar uma briga. Nunca descobrimos quem era, mas as probabilidades são de que eles foram convencidos a se mudar para um centro urbano, ou jogados em uma vala comum em algum lugar."
 
 [Play_Blast_Bar_Failure_B AkEvent]
-SpokenText="Alright, let's start at the beginning. We were approaching the bar..."
+SpokenText="Certo, vamos começar do começo. Estávamos nos aproximando do bar..."
 
 [Play_Blast_Bar_Failure_A AkEvent]
-SpokenText="We know for sure at least I escaped, right?"
+SpokenText="Sabemos com certeza que pelo menos eu escapei, certo?"
 
 [Play_Blast_Bar_CiviliansWipe AkEvent]
-SpokenText="No, that's not how it went. We definitely saved some of those people before the aliens got to 'em."
+SpokenText="Não, não foi assim que aconteceu. Nós definitivamente salvamos algumas daquelas pessoas antes que os alienígenas chegassem nelas."
 
 [Play_Blast_Bar_CiviliansSaved AkEvent]
-SpokenText="I remember we did manage to rescue at least a couple of civilians before things got ugly."
-
+SpokenText="Lembro-me de que conseguimos resgatar pelo menos alguns civis antes que as coisas ficassem feias."
