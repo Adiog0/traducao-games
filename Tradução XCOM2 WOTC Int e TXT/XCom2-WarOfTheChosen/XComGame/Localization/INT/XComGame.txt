@@ -5036,241 +5036,241 @@ LocFlyOverText="Escaneado!"
 -------------------------- Continuar daqui -----------------------------------------------
 
 [WallPhasing X2AbilityTemplate]
-LocFriendlyName="Wraith"
-LocHelpText="Activate dimensional shift and pass freely through obstacles for 2 turns."
-LocLongDescription="Allows the unit to pass directly through obstacles for 2 turns."
-LocFlyOverText="Phased"
+LocFriendlyName="Espectro"
+LocHelpText="Ative o deslocamento dimensional e atravesse obstáculos livremente por 2 turnos."
+LocLongDescription="Permite que a unidade atravesse obstáculos diretamente por 2 turnos."
+LocFlyOverText="Deslocado"
 
 [MimicBeaconThrow X2AbilityTemplate]
-LocFriendlyName="Mimic Beacon"
-LocHelpText="Generates a holographic decoy that will draw enemy attacks for one turn."
-LocLongDescription="The Mimic Beacon is thrown like a grenade, and generates a holographic decoy where it lands. This decoy will draw enemy attacks for one turn, unless its HP are depleted."
+LocFriendlyName="Isca Holográfica"
+LocHelpText="Gera uma isca holográfica que atrai ataques inimigos por 1 turno."
+LocLongDescription="A Isca Holográfica é lançada como uma granada e gera um holograma onde cair. Esta isca atrairá ataques inimigos por 1 turno, a menos que seus PV sejam esgotados."
 
 [LightningStrike X2AbilityTemplate]
-LocFriendlyName="Lightning Strike"
-LocHelpText="Unit gains +<Ability:LIGHTNINGSTRIKEMOVEBONUS/> mobility for the first <Ability:LIGHTNINGSTRIKEDURATION/> turns of battle while the squad remains concealed."
-LocLongDescription="Unit gains +<Ability:LIGHTNINGSTRIKEMOVEBONUS/> mobility for the first <Ability:LIGHTNINGSTRIKEDURATION/> turns of battle while the squad remains concealed."
+LocFriendlyName="Golpe Relâmpago"
+LocHelpText="Unidade ganha +<Ability:LIGHTNINGSTRIKEMOVEBONUS/> de mobilidade nos primeiros <Ability:LIGHTNINGSTRIKEDURATION/> turnos de batalha enquanto o esquadrão permanecer oculto."
+LocLongDescription="Unidade ganha +<Ability:LIGHTNINGSTRIKEMOVEBONUS/> de mobilidade nos primeiros <Ability:LIGHTNINGSTRIKEDURATION/> turnos de batalha enquanto o esquadrão permanecer oculto."
 
 [CombatStims X2AbilityTemplate]
-LocFriendlyName="Overdrive Serum"
-LocHelpText="Gain bonus mobility, mental immunity, and take less damage for the next <Ability:COMBATSTIMSDURATION/> turns. Does not cost an action to activate."
-LocLongDescription="A soldier taking Overdrive Serum receives bonus mobility, mental immunity, and takes less damage for the next <Ability:COMBATSTIMSDURATION/> turns. This does not cost an action to activate. Overdrive Serum has a single use, and will be removed from the soldier's inventory when used."
-LocFlyOverText="Overdrive Serum"
+LocFriendlyName="Soro Overdrive"
+LocHelpText="Ganhe bônus de mobilidade, imunidade mental e sofra menos dano pelos próximos <Ability:COMBATSTIMSDURATION/> turnos. Não custa ação para ativar."
+LocLongDescription="Um soldado usando Soro Overdrive recebe bônus de mobilidade, imunidade mental e sofre menos dano pelos próximos <Ability:COMBATSTIMSDURATION/> turnos. Não custa ação para ativar. O Soro Overdrive tem uso único e será removido do inventário do soldado após o uso."
+LocFlyOverText="Soro Overdrive"
 
 [MindShield X2AbilityTemplate]
-LocFriendlyName="Mindshield"
-LocHelpText="Makes wearer immune to negative mental conditions such as panic and mind control."
+LocFriendlyName="Escudo Mental"
+LocHelpText="Torna o usuário imune a condiçÃµes mentais negativas como pânico e controle mental."
 
 [ScorchCircuits X2AbilityTemplate]
-LocFriendlyName="Scorch Circuits"
-LocHelpText="Automatically inflicts damage on any melee attackers."
+LocFriendlyName="Circuitos Queimados"
+LocHelpText="Causa dano automaticamente a qualquer atacante corpo a corpo."
 
 [ScorchCircuitsDamage X2AbilityTemplate]
-LocFriendlyName="Scorch Circuits"
-LocFlyOverText="Scorch Circuits"
+LocFriendlyName="Circuitos Queimados"
+LocFlyOverText="Circuitos Queimados"
 
 [LaserSight_Bsc X2AbilityTemplate]
-LocFriendlyName="Laser Sight"
-LocHelpText="Improves critical hit chance with proximity to target."
+LocFriendlyName="Mira Laser"
+LocHelpText="Melhora a chance de acerto crítico conforme a proximidade do alvo."
 
 [LaserSight_Adv X2AbilityTemplate]
-LocFriendlyName="Advanced Laser Sight"
-LocHelpText="Improves critical hit chance with proximity to target."
+LocFriendlyName="Mira Laser Avançada"
+LocHelpText="Melhora a chance de acerto crítico conforme a proximidade do alvo."
 
 [LaserSight_Sup X2AbilityTemplate]
-LocFriendlyName="Superior Laser Sight"
-LocHelpText="Improves critical hit chance with proximity to target."
+LocFriendlyName="Mira Laser Superior"
+LocHelpText="Melhora a chance de acerto crítico conforme a proximidade do alvo."
 
 [HighCoverGenerator X2AbilityTemplate]
-LocFriendlyName="Shieldwall"
-LocHelpText="Provide high cover to squadmates wherever you stand. Moving or attacking will cancel the effect."
-LocLongDescription="Provide high cover to squadmates wherever you stand. Moving or attacking will cancel the effect."
+LocFriendlyName="Muralha de Escudos"
+LocHelpText="Fornece cobertura alta para companheiros de esquadrão onde quer que você esteja. Mover-se ou atacar cancelará o efeito."
+LocLongDescription="Fornece cobertura alta para companheiros de esquadrão onde quer que você esteja. Mover-se ou atacar cancelará o efeito."
 
 [X2Ability_CarryUnit]
-CarryUnitEffectFriendlyName="Carrying a Unit"
-CarryUnitEffectFriendlyDesc="A soldier carrying a fallen squadmate is restricted from any action other than movement."
+CarryUnitEffectFriendlyName="Carregando uma Unidade"
+CarryUnitEffectFriendlyDesc="Um soldado carregando um companheiro caído fica restrito a apenas açÃµes de movimento."
 
 [Evac X2AbilityTemplate]
-LocFriendlyName="Evac"
-LocHelpText="Rope out to the Skyranger. Only usable inside the EVAC zone."
+LocFriendlyName="EVAC"
+LocHelpText="Retire-se para o Skyranger. Somente utilizável dentro da zona de EVAC."
 
 [Grapple X2AbilityTemplate]
-LocFriendlyName="Grapple"
-LocHelpText="Deploy a grappling hook to move quickly to an elevated position."
-LocLongDescription="This armor mounts a grappling hook and cable on the left arm, permitting rapid elevation change and access to tactically advantageous positions."
+LocFriendlyName="Gancho"
+LocHelpText="Dispara um gancho para se mover rapidamente para uma posição elevada."
+LocLongDescription="Esta armadura possui um gancho e cabo no braço esquerdo, permitindo rápida mudança de elevação e acesso a posiçÃµes táticas vantajosas."
 
 [GrapplePowered X2AbilityTemplate]
-LocFriendlyName="Grapple"
-LocHelpText="Deploy a grappling hook to move quickly to an elevated position."
-LocLongDescription="This armor mounts a grappling hook and cable on the left arm, permitting rapid elevation change and access to tactically advantageous positions."
+LocFriendlyName="Gancho"
+LocHelpText="Dispara um gancho para se mover rapidamente para uma posição elevada."
+LocLongDescription="Esta armadura possui um gancho e cabo no braço esquerdo, permitindo rápida mudança de elevação e acesso a posiçÃµes táticas vantajosas."
 
 [AbortMission X2AbilityTemplate]
-LocFriendlyName="Call Skyranger"
-LocHelpText="Next turn, soldiers may EVAC to the Skyranger. This will result in enemy reinforcements."
-LocFlyOverText="Calling Skyranger. EVAC available next turn."
+LocFriendlyName="Chamar Skyranger"
+LocHelpText="No próximo turno, soldados poderão EVAC para o Skyranger. Isso resultará em reforços inimigos."
+LocFlyOverText="Chamando Skyranger. EVAC disponível no próximo turno."
 
 [LiftOffAvenger X2AbilityTemplate]
-LocFriendlyName="Lift Off Avenger"
-LocHelpText="The Avenger is ready to escape. Activating this ability will abandon all soldiers not in the extraction zone."
-LocFlyOverText="Lifting off."
+LocFriendlyName="Decolar Avenger"
+LocHelpText="O Avenger está pronto para escapar. Ativar esta habilidade abandonará todos os soldados fora da zona de extração."
+LocFlyOverText="Decolando."
 
 [PlaceEvacZone X2AbilityTemplate]
-LocFriendlyName="Call Skyranger"
-LocHelpText="Place an EVAC zone for your soldiers."
+LocFriendlyName="Chamar Skyranger"
+LocHelpText="Defina uma zona de EVAC para seus soldados."
 
 [TracerRounds X2AbilityTemplate]
-LocFriendlyName="Tracer Rounds"
-LocHelpText="+<Ability:TRACERROUNDSAIMBONUS/> Aim"
+LocFriendlyName="Munição Traçante"
+LocHelpText="+<Ability:TRACERROUNDSAIMBONUS/> de Pontaria"
 
 [IncendiaryRounds X2AbilityTemplate]
-LocFriendlyName="Incendiary Rounds"
+LocFriendlyName="Munição Incendiária"
 
 [TalonRounds X2AbilityTemplate]
-LocFriendlyName="Talon Rounds"
+LocFriendlyName="Munição Talon"
 
 [APRounds X2AbilityTemplate]
-LocFriendlyName="AP Rounds"
+LocFriendlyName="Munição AP"
 
 [StilettoRounds X2AbilityTemplate]
-LocFriendlyName="Stiletto Rounds"
-LocHelpText="Damage from these rounds causes the \"Bleeding\" status effect."
-LocLongDescription="Damage from these rounds causes the \"Bleeding\" status effect."
+LocFriendlyName="Munição Stiletto"
+LocHelpText="Dano causado por esta munição aplica o efeito de status \"Sangramento\"."
+LocLongDescription="Dano causado por esta munição aplica o efeito de status \"Sangramento\"."
 
 [FalconRounds X2AbilityTemplate]
-LocFriendlyName="Falcon Rounds"
+LocFriendlyName="Munição Falcon"
 
 [X2Effect_ParthenogenicPoison]
-ParthenogenicPoisonText="Chryssalid Poison"
+ParthenogenicPoisonText="Veneno de Chryssalid"
 
 [X2Effect_SpawnPsiZombie]
-ZombieFlyoverText="Reanimated!"
+ZombieFlyoverText="Reanimado!"
 
 [X2Effect_Executed]
-UnitExecutedFlyover="Executed!"
+UnitExecutedFlyover="Executado!"
 
 [X2Effect_SpawnPsiZombieMP]
-ZombieFlyoverText="Reanimated!"
+ZombieFlyoverText="Reanimado!"
 
 [Revive X2AbilityTemplate]
-LocFriendlyName="Revive"
-LocHelpText="Remove the Chosen's \"Dazed\" effect from this soldier. Soldiers may be disoriented when revived."
-LocLongDescription="Remove the Chosen's \"Dazed\" effect from this soldier. Soldiers may be disoriented when revived."
-LocFlyOverText="Revived!"
+LocFriendlyName="Reviver"
+LocHelpText="Remove o efeito \"Atordoado\" do Escolhido deste soldado. Soldados podem ficar desorientados ao serem revividos."
+LocLongDescription="Remove o efeito \"Atordoado\" do Escolhido deste soldado. Soldados podem ficar desorientados ao serem revividos."
+LocFlyOverText="Revivido!"
 
 ; *********************************************************************************************************************
-; ***                     GRENADIER ABILITIES																		***
+; ***                     HABILIDADES DE GRANADEIRO																***
 ; *********************************************************************************************************************
 
 [BiggestBooms X2AbilityTemplate]
-LocFriendlyName="Biggest Booms"
-LocLongDescription="Your explosive attacks can inflict critical damage (<Ability:BIGGESTBOOMSCHANCE/>% chance for +<Ability:BIGGESTBOOMSDAMAGE/> damage)."
-LocHelpText="Your explosives can inflict critical damage"
-LocFlyOverText="Biggest Booms"
+LocFriendlyName="ExplosÃµes Máximas"
+LocLongDescription="Seus ataques explosivos podem causar dano crítico (<Ability:BIGGESTBOOMSCHANCE/>% de chance para +<Ability:BIGGESTBOOMSDAMAGE/> de dano)."
+LocHelpText="Seus explosivos podem causar dano crítico"
+LocFlyOverText="ExplosÃµes Máximas"
 
 [LaunchGrenade X2AbilityTemplate]
-LocFriendlyName="Launch Grenade"
-LocHelpText="Launches the loaded grenade at target area."
-LocLongDescription="The Grenadier uses a grenade launcher to fire grenades rather than throwing them. This allows for greater range and grenade capacity."
-LocPromotionPopupText="<Bullet/> All grenades benefit from the grenade launcher's range increase, including non-offensive munitions like Smoke Grenades.<br/><Bullet/> An additional grenade can be equipped in a unique grenade-only slot.<br/><Bullet/> The range of launched grenades can be further improved by upgrading to more advanced grenade launchers.<br/>"
+LocFriendlyName="Lançar Granada"
+LocHelpText="Dispara a granada carregada na área alvo."
+LocLongDescription="O Granadeiro usa um lançador de granadas para disparar granadas ao invés de arremessá-las. Isso permite maior alcance e capacidade de granadas."
+LocPromotionPopupText="<Bullet/> Todas as granadas se beneficiam do aumento de alcance do lançador, incluindo muniçÃµes não ofensivas como Granadas de Fumaça.<br/><Bullet/> Uma granada adicional pode ser equipada em um slot exclusivo para granadas.<br/><Bullet/> O alcance das granadas lançadas pode ser melhorado com lançadores mais avançados.<br/>"
 
 [HeavyOrdnance X2AbilityTemplate]
-LocFriendlyName="Heavy Ordnance"
-LocLongDescription="The grenade in your grenade-only slot gains a bonus use."
-LocHelpText="The grenade in your grenade-only slot gains a bonus use."
-LocPromotionPopupText="<Bullet/> All grenades are viable for Heavy Ordnance, even non-offensive grenades like Battle Scanners and Smoke Grenades.<br/>"
+LocFriendlyName="Munição Pesada"
+LocLongDescription="A granada em seu slot exclusivo ganha um uso adicional."
+LocHelpText="A granada em seu slot exclusivo ganha um uso adicional."
+LocPromotionPopupText="<Bullet/> Todas as granadas são elegíveis para Munição Pesada, até mesmo granadas não ofensivas como Scanners de Batalha e Granadas de Fumaça.<br/>"
 
 [BlastPadding X2AbilityTemplate]
-LocFriendlyName="Blast Padding"
-LocLongDescription="Your gear includes layers of extra padding and blast plates, granting a bonus point of Armor and <Ability:BlastPadding/>% less damage from explosive attacks."
-LocHelpText="Gain a bonus point of Armor and reduce explosive damage taken."
-LocFlyOverText="Blast Padding"
-LocPromotionPopupText="<Bullet/> Blast Padding adds one point of Armor.<br/><Bullet/> Blast Padding reduces explosive damage taken by <Ability:BlastPadding/>%.<br/>"
+LocFriendlyName="Blindagem Antiexplosiva"
+LocLongDescription="Seu equipamento inclui camadas extras de proteção, concedendo +1 de Armadura e <Ability:BlastPadding/>% menos dano de ataques explosivos."
+LocHelpText="Ganhe +1 de Armadura e reduza dano explosivo recebido."
+LocFlyOverText="Blindagem Antiexplosiva"
+LocPromotionPopupText="<Bullet/> Blindagem Antiexplosiva adiciona +1 de Armadura.<br/><Bullet/> Reduz dano explosivo recebido em <Ability:BlastPadding/>%.<br/>"
 
 [HoloTargeting X2AbilityTemplate]
-LocFriendlyName="Holo Targeting"
-LocLongDescription="Any directed <Ability:WeaponName/> shot, hit or miss, will mark the target, increasing your squad's aim by +<Ability:HOLOTARGETAIMBONUS/> against this target."
-LocHelpText="Shooting at a target grants bonus Aim to allies against that target"
-LocFlyOverText="Holo Targeting"
-LocPromotionPopupText="<Bullet/> Directed <Ability:WeaponName/>-specific abilities will grant Holo Targeting.<br/><Bullet/> Any <Ability:ClassName/> abilities that target multiple units will not grant Holo Targeting.<br/>"
+LocFriendlyName="Mira Holo"
+LocLongDescription="Qualquer tiro direcionado com <Ability:WeaponName/>, acertando ou errando, marcará o alvo, aumentando a Pontaria do seu esquadrão em +<Ability:HOLOTARGETAIMBONUS/> contra este alvo."
+LocHelpText="Atirar em um alvo concede bônus de Pontaria aos aliados contra esse alvo"
+LocFlyOverText="Mira Holo"
+LocPromotionPopupText="<Bullet/> Habilidades específicas de <Ability:WeaponName/> concedem Mira Holo.<br/><Bullet/> Habilidades de <Ability:ClassName/> que atingem múltiplos alvos não concedem Mira Holo.<br/>"
 
 [Suppression X2AbilityTemplate]
-LocFriendlyName="Suppression"
-LocLongDescription="Fire a barrage that pins down a target, granting reaction fire against it if it moves, and imposing a <Ability:SUPPRESSIONPENALTY/> penalty to the target's aim."
-LocHelpText="Penalize target's aim and shoot them if they move."
-LocFlyOverText="Suppression"
-LocPromotionPopupText="<Bullet/> Suppression costs <Ability:SelfAmmoCost/> ammo points to use, but has no cooldown.<br/><Bullet/> Suppression will be canceled if the suppressing unit is damaged.<br/><Bullet/> If multiple units suppress a target, the aim penalty will stack.<br/>"
+LocFriendlyName="Supressão"
+LocLongDescription="Dispara uma rajada que imobiliza um alvo, concedendo tiro de reação se ele se mover e impondo uma penalidade de <Ability:SUPPRESSIONPENALTY/> na Pontaria do alvo."
+LocHelpText="Penaliza a Pontaria do alvo e atira nele se ele se mover."
+LocFlyOverText="Supressão"
+LocPromotionPopupText="<Bullet/> Supressão custa <Ability:SelfAmmoCost/> pontos de munição, mas não tem recarga.<br/><Bullet/> Supressão é cancelada se a unidade que suprime for danificada.<br/><Bullet/> Se múltiplas unidades suprimirem um alvo, a penalidade de Pontaria acumula.<br/>"
 
 [ChainShot X2AbilityTemplate]
-LocFriendlyName="Chain Shot"
-LocLongDescription="Take a shot with an aim penalty of <Ability:CHAINSHOTPENALTY/>. If you hit the target, you take another shot on the target automatically."
-LocHelpText="Take a shot with an aim penalty of <Ability:CHAINSHOTPENALTY/>. If you hit the target, you take another shot on the target automatically."
-LocFlyOverText="Chain Shot"
-LocPromotionPopupText="<Bullet/> Chain Shot requires <Ability:SelfAmmoCost/> ammo points, and has a <Ability:SelfCooldown/> turn cooldown.<br/><Bullet/> Chain Shot can be devastating against non-cover enemies, or when augmented with aim bonuses.<br/>"
+LocFriendlyName="Tiro em Cadeia"
+LocLongDescription="Dá um tiro com penalidade de <Ability:CHAINSHOTPENALTY/> na Pontaria. Se acertar o alvo, dá outro tiro automaticamente."
+LocHelpText="Dá um tiro com penalidade de <Ability:CHAINSHOTPENALTY/> na Pontaria. Se acertar, dá outro tiro automaticamente."
+LocFlyOverText="Tiro em Cadeia"
+LocPromotionPopupText="<Bullet/> Tiro em Cadeia custa <Ability:SelfAmmoCost/> pontos de munição e tem recarga de <Ability:SelfCooldown/> turno.<br/><Bullet/> Pode ser devastador contra inimigos sem cobertura ou com bônus de Pontaria.<br/>"
 
 [ChainShot2 X2AbilityTemplate]
-LocFriendlyName="Chain Shot"
-LocFlyOverText="Chain Shot"
+LocFriendlyName="Tiro em Cadeia"
+LocFlyOverText="Tiro em Cadeia"
 LocPromotionPopupText=""
 
 [VolatileMix X2AbilityTemplate]
-LocFriendlyName="Volatile Mix"
-LocLongDescription="Your grenades deal +<Ability:VOLATILIEMIXDAMAGE/> damage."
-LocHelpText="Your grenades deal more damage."
-LocFlyOverText="Volatile Mix"
-LocPromotionPopupText="<Bullet/> Though grenade damage is increased against enemy targets, there is no increase to the level of environmental damage that your grenades will do.<br/><Bullet/> Explosive damage is dealt equally across the entire explosive radius.<br/>"
+LocFriendlyName="Mistura Volátil"
+LocLongDescription="Suas granadas causam +<Ability:VOLATILIEMIXDAMAGE/> de dano."
+LocHelpText="Suas granadas causam mais dano."
+LocFlyOverText="Mistura Volátil"
+LocPromotionPopupText="<Bullet/> Apesar do aumento contra alvos, não aumenta dano ambiental.<br/><Bullet/> Dano explosivo é distribuído igualmente pelo raio.<br/>"
 
 [HailofBullets X2AbilityTemplate]
-LocFriendlyName="Hail of Bullets"
-LocLongDescription="Unleash a hail of bullets that is guaranteed to hit your target, but uses a lot of ammunition."
-LocHelpText="Unleash a hail of bullets that is guaranteed to hit your target, but uses a lot of ammunition."
-LocFlyOverText="Hail of Bullets"
-LocPromotionPopupText="<Bullet/> Hail of Bullets requires <Ability:SelfAmmoCost/> ammo points and has a <Ability:SelfCooldown/> turn cooldown.<br/>"
+LocFriendlyName="Chuva de Balas"
+LocLongDescription="Despeja uma chuva de balas garantindo acerto no alvo, mas gasta muita munição."
+LocHelpText="Despeja uma chuva de balas garantindo acerto no alvo, mas gasta muita munição."
+LocFlyOverText="Chuva de Balas"
+LocPromotionPopupText="<Bullet/> Custa <Ability:SelfAmmoCost/> pontos de munição e tem recarga de <Ability:SelfCooldown/> turno.<br/>"
 
 [SaturationFire X2AbilityTemplate]
-LocFriendlyName="Saturation Fire"
-LocLongDescription="Fire a cone shaped barrage of bullets at every enemy in an area. In addition, the cover of those enemies can be damaged or destroyed. Uses a lot of ammunition."
-LocHelpText="Fire on all targets in a cone."
-LocFlyOverText="Saturation Fire"
-LocPromotionPopupText="<Bullet/> Saturation Fire requires <Ability:SelfAmmoCost/> ammo points and has a <Ability:SelfCooldown/> turn cooldown.<br/><Bullet/> Saturation Fire will take a standard shot at every enemy in the cone, and will damage or destroy random cover elements in the cone.<br/>"
+LocFriendlyName="Fogo de Saturação"
+LocLongDescription="Dispara uma rajada em cone contra todos os inimigos em uma área. Além disso, a cobertura desses inimigos pode ser danificada ou destruída. Gasta muita munição."
+LocHelpText="Atira em todos os alvos em um cone."
+LocFlyOverText="Fogo de Saturação"
+LocPromotionPopupText="<Bullet/> Custa <Ability:SelfAmmoCost/> pontos de munição e tem recarga de <Ability:SelfCooldown/> turno.<br/><Bullet/> Atira em todos os inimigos no cone e danifica cobertura aleatoriamente.<br/>"
 
 [Demolition X2AbilityTemplate]
-LocFriendlyName="Demolition"
-LocLongDescription="Unleash a volley of bullets at your target's cover, significantly damaging or destroying it. Deals no damage to your target."
-LocHelpText="Fire at your target's cover, significantly damaging or destroying it. Deals no damage to your target."
-LocFlyOverText="Demolition"
-LocPromotionPopupText="<Bullet/> Demolition requires <Ability:SelfAmmoCost/> ammo points and has a <Ability:SelfCooldown/> turn cooldown.<br/><Bullet/> Demolition does increased environmental damage, and will destroy most cover objects.<br/>"
-LocMissMessage="Missed!"
+LocFriendlyName="Demolição"
+LocLongDescription="Despeja uma rajada na cobertura do alvo, danificando ou destruindo-a significativamente. Não causa dano ao alvo."
+LocHelpText="Atira na cobertura do alvo, danificando ou destruindo-a. Não causa dano ao alvo."
+LocFlyOverText="Demolição"
+LocPromotionPopupText="<Bullet/> Custa <Ability:SelfAmmoCost/> pontos de munição e tem recarga de <Ability:SelfCooldown/> turno.<br/><Bullet/> Causa dano ambiental aumentado, destruindo a maioria dos objetos de cobertura.<br/>"
+LocMissMessage="Errou!"
 
 [Salvo X2AbilityTemplate]
-LocFriendlyName="Salvo"
-LocLongDescription="Launching, throwing grenades or using heavy weapons with your first action, will not end your turn."
-LocHelpText="Grenades can be launched or thrown, and heavy weapons can be fired, without ending the turn."
-LocFlyOverText="Salvo"
-LocPromotionPopupText="<Bullet/> Soldiers with the Salvo ability are prime candidates for heavy armor.<br/>"
+LocFriendlyName="Salva"
+LocLongDescription="Lançar/arremessar granadas ou usar armas pesadas como primeira ação não encerra seu turno."
+LocHelpText="Granadas podem ser lançadas/arremessadas e armas pesadas podem ser disparadas sem encerrar o turno."
+LocFlyOverText="Salva"
+LocPromotionPopupText="<Bullet/> Soldados com Salva são candidatos ideais para armaduras pesadas.<br/>"
 
 [Shredder X2AbilityTemplate]
-LocFriendlyName="Shredder"
-LocLongDescription="Your <Ability:WeaponName/> attacks shred armor."
-LocHelpText="Your <Ability:WeaponName/> attacks shred armor."
-LocPromotionPopupText="<Bullet/> A successful shot with a conventional <Ability:WeaponName/> will shred 1 armor from the target.<br/><Bullet/> More advanced <Ability:WeaponName/>s will shred more armor from targets.<br/>"
+LocFriendlyName="Destruidor"
+LocLongDescription="Seus ataques com <Ability:WeaponName/> reduzem armadura."
+LocHelpText="Seus ataques com <Ability:WeaponName/> reduzem armadura."
+LocPromotionPopupText="<Bullet/> Um tiro bem-sucedido com <Ability:WeaponName/> reduz 1 de armadura do alvo.<br/><Bullet/> VersÃµes avançadas reduzem mais armadura.<br/>"
 
 [BulletShred X2AbilityTemplate]
-LocFriendlyName="Rupture"
-LocLongDescription="A Rupture shot deals critical damage and ensures that the target takes an additional +<Ability:RuptureAmount/> damage from all attacks in the future."
-LocHelpText="A Rupture shot deals critical damage and ensures that the target takes increased damage from all attacks in the future."
-LocFlyOverText="Rupture"
-LocPromotionPopupText="<Bullet/> Rupture requires <Ability:SelfAmmoCost/> ammo points and has a <Ability:SelfCooldown/> turn cooldown.<br/><Bullet/> Ruptured targets take <Ability:RuptureAmount/> additional damage from every attack.<br/>"
+LocFriendlyName="Ruptura"
+LocLongDescription="Um tiro de Ruptura causa dano crítico e garante que o alvo sofra +<Ability:RuptureAmount/> de dano adicional em todos os ataques futuros."
+LocHelpText="Causa dano crítico e aumenta dano futuro recebido pelo alvo."
+LocFlyOverText="Ruptura"
+LocPromotionPopupText="<Bullet/> Custa <Ability:SelfAmmoCost/> pontos de munição e tem recarga de <Ability:SelfCooldown/> turno.<br/><Bullet/> Alvos sofrem +<Ability:RuptureAmount/> de dano adicional por ataque.<br/>"
 
 ; *********************************************************************************************************************
-; ***                     PSI OPERATIVE ABILITIES																	***
+; ***                     HABILIDADES DE OPERADOR PSIQUICO															***
 ; *********************************************************************************************************************
 
 [Soulfire X2AbilityTemplate]
-LocFriendlyName="Soulfire"
-LocLongDescription="Does guaranteed Psionic damage to an organic enemy. Ignores cover and armor."
-LocHelpText="Does guaranteed Psionic damage to an organic enemy. Ignores cover and armor."
-LocFlyOverText="Soulfire"
-LocPromotionPopupText="<Bullet/> Soulfire has a <Ability:SelfCooldown/> turn cooldown.<br/><Bullet/> The damage done by the Soulfire ability can be increased by upgrading the Psi Operative's Psi Amp.<br/><Bullet/> Robotic and mechanical enemies are completely immune to Soulfire.<br/>"
+LocFriendlyName="Fogo da Alma"
+LocLongDescription="Causa dano Psíquico garantido a um inimigo orgânico. Ignora cobertura e armadura."
+LocHelpText="Causa dano Psíquico garantido a um inimigo orgânico. Ignora cobertura e armadura."
+LocFlyOverText="Fogo da Alma"
+LocPromotionPopupText="<Bullet/> Tem recarga de <Ability:SelfCooldown/> turno.<br/><Bullet/> Dano pode ser aumentado com upgrades no Amplificador Psi.<br/><Bullet/> Inimigos robóticos são imunes.<br/>"
 
 [Stasis X2AbilityTemplate]
 LocFriendlyName="Stasis"
