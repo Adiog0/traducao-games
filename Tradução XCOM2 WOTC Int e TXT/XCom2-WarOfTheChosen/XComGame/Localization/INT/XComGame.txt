@@ -5262,398 +5262,392 @@ LocFlyOverText="Ruptura"
 LocPromotionPopupText="<Bullet/> Custa <Ability:SelfAmmoCost/> pontos de munição e tem recarga de <Ability:SelfCooldown/> turno.<br/><Bullet/> Alvos sofrem +<Ability:RuptureAmount/> de dano adicional por ataque.<br/>"
 
 ; *********************************************************************************************************************
-; ***                     HABILIDADES DE OPERADOR PSIQUICO															***
+; ***                     PSI OPERATIVE ABILITIES																	***
 ; *********************************************************************************************************************
 
 [Soulfire X2AbilityTemplate]
-LocFriendlyName="Fogo da Alma"
-LocLongDescription="Causa dano Psíquico garantido a um inimigo orgânico. Ignora cobertura e armadura."
-LocHelpText="Causa dano Psíquico garantido a um inimigo orgânico. Ignora cobertura e armadura."
-LocFlyOverText="Fogo da Alma"
-LocPromotionPopupText="<Bullet/> Fogo da Alma tem tempo de recarga de <Ability:SelfCooldown/> turno.<br/><Bullet/> Dano pode ser aumentado com upgrades no Amplificador Psi.<br/><Bullet/> Inimigos robóticos são imunes.<br/>"
+LocFriendlyName="Soulfire"
+LocLongDescription="Does guaranteed Psionic damage to an organic enemy. Ignores cover and armor."
+LocHelpText="Does guaranteed Psionic damage to an organic enemy. Ignores cover and armor."
+LocFlyOverText="Soulfire"
+LocPromotionPopupText="<Bullet/> Soulfire has a <Ability:SelfCooldown/> turn cooldown.<br/><Bullet/> The damage done by the Soulfire ability can be increased by upgrading the Psi Operative's Psi Amp.<br/><Bullet/> Robotic and mechanical enemies are completely immune to Soulfire.<br/>"
 
-; ---------- Caminho Geral -----------------
+[Stasis X2AbilityTemplate]
+LocFriendlyName="Stasis"
+LocLongDescription="Completely stuns the target for 1 turn, but renders them immune to any damage or attack."
+LocHelpText="Completely stuns the target for 1 turn, but renders them immune to any damage or attack."
+LocFlyOverText="Stasis"
+LocPromotionPopupText="<Bullet/> Stasis has a <Ability:SelfCooldown/> turn cooldown.<br/><Bullet/> As Stasis completely removes an enemy unit from combat for a turn, it can be used defensively to protect vulnerable soldiers, or it can be used offensively to set up a coordinated attack.<br/>"
+
+[Insanity X2AbilityTemplate]
+LocFriendlyName="Insanity"
+LocLongDescription="Debilitating telepathic attack that can inflict different negative conditions, including mental control of the target."
+LocHelpText="Debilitating telepathic attack that can inflict different negative conditions, including mental control of the target."
+LocFlyOverText="Insanity"
+LocMissMessage="Insanity Failed"
+LocPromotionPopupText="<Bullet/> Insanity has a <Ability:SelfCooldown/> turn cooldown.<br/><Bullet/> Insanity requires a contest between the Psi Operative's Psi Strength stat, and the target's will.<br/><Bullet/> Insanity can disorient, stun, or mind control the target if it succeeds.<br/><Bullet/> Mechanical enemies are completely immune to Insanity.<br/>"
+
+[Inspire X2AbilityTemplate]
+LocFriendlyName="Inspire"
+LocLongDescription="Grant a bonus action immediately to a nearby squadmate."
+LocHelpText="Grant a bonus action immediately to a nearby squadmate."
+LocFlyOverText="Inspire"
+LocPromotionPopupText="<Bullet/> Inspire has a <Ability:SelfCooldown/> turn cooldown.<br/><Bullet/> Squadmates must be within the Psi Operative's sight radius, but line of sight is not required.<br/>"
+
+[SoulSteal X2AbilityTemplate]
+LocFriendlyName="Soul Steal"
+LocLongDescription="Soulfire transfers half of the damage done back to the Psi Operative as health."
+LocHelpText="Soulfire transfers half of the damage done back to the Psi Operative as health."
+LocFlyOverText="Soul Steal"
+LocPromotionPopupText="<Bullet/> Soul Steal can only replenish lost health, it cannot add to the Psi Operative's maximum HP.<br/>"
+
+[SoulStealTriggered X2AbilityTemplate]
+LocFriendlyName="Soul Steal"
+LocLongDescription="Soulfire transfers half of the damage done back to the Psi Operative as health."
+LocHelpText="Soulfire transfers half of the damage done back to the Psi Operative as health."
+LocFlyOverText="Soul Steal"
+LocPromotionPopupText=""
+
+[StasisShield X2AbilityTemplate]
+LocFriendlyName="Stasis Shield"
+LocLongDescription="Stasis can be cast on allies, rendering them immune to any attacks, and stunned, for 1 turn."
+LocHelpText="Stasis can be cast on allies."
+LocPromotionPopupText="<Bullet/> Unconscious allies cannot be targeted by Stasis Shield.<br/>"
+
+[Solace X2AbilityTemplate]
+LocFriendlyName="Solace"
+LocLongDescription="The Psi Operative is surrounded by an aura that immediately extinguishes or blocks any mental impairments for themselves and any nearby squadmates."
+LocHelpText="The Psi Operative is surrounded by an aura that immediately extinguishes or blocks any mental impairments for for themselves and any nearby squadmates."
+LocFlyOverText="Solace"
+LocPromotionPopupText="<Bullet/> Solace has a 4 tile radius.<br/><Bullet/> Moving next to afflicted allies will immediately cleanse their mental impairments.<br/>"
+
+[SolaceCleanse X2AbilityTemplate]
+LocFriendlyName="Solace"
+LocLongDescription="The Psi Operative is surrounded by an aura that immediately extinguishes or blocks any mental impairments for themselves and any nearby squadmates."
+LocHelpText="The Psi Operative is surrounded by an aura that immediately extinguishes or blocks any mental impairments for themselves and any nearby squadmates."
+LocFlyOverText="Solace"
+LocPromotionPopupText="<Bullet/> Solace has a 4 tile radius.<br/><Bullet/> Moving next to afflicted allies will immediately cleanse their mental impairments.<br/>"
+
+[SolacePassive X2AbilityTemplate]
+LocFriendlyName="Solace"
+LocLongDescription="The Psi Operative is surrounded by an aura that immediately extinguishes or blocks any mental impairments for themselves and any nearby squadmates."
+LocHelpText="The Psi Operative is surrounded by an aura that immediately extinguishes or blocks any mental impairments for themselves and any nearby squadmates."
+LocFlyOverText="Solace"
+LocPromotionPopupText="<Bullet/> Solace has a 4 tile radius.<br/><Bullet/> Moving next to afflicted allies will immediately cleanse their mental impairments.<br/>"
+
+[Sustain X2AbilityTemplate]
+LocFriendlyName="Sustain"
+LocLongDescription="If the <Ability:ClassName/> takes enough damage to be killed, they are immediately put in Stasis for 1 turn and their health is only reduced to 1 HP. This can only happen once per mission."
+LocHelpText="If the <Ability:ClassName/> takes enough damage to be killed, they are immediately put in Stasis for 1 turn and their health is only reduced to 1 HP. This can only happen once per mission."
+LocFlyOverText="Sustain"
+LocPromotionPopupText="<Bullet/> Beware that a sustained <Ability:ClassName/> may retain damaging status effects like poison or burning after emerging from Stasis.<br/>"
+
+[SustainTriggered X2AbilityTemplate]
+LocFriendlyName="Sustained"
+LocLongDescription="The <Ability:ClassName/> would have died, but was saved and put into Stasis for 1 turn. This cannot happen again during this mission."
+LocHelpText="The <Ability:ClassName/> would have died, but was saved and put into Stasis for 1 turn. This cannot happen again during this mission."
+LocFlyOverText="Sustained"
+
+[Schism X2AbilityTemplate]
+LocFriendlyName="Schism"
+LocLongDescription="Insanity now does a small amount of guaranteed damage, and applies Rupture to the target."
+LocHelpText="Insanity now does a small amount of guaranteed damage, and applies Rupture to the target."
+LocFlyOverText="Schism"
+LocPromotionPopupText="<Bullet/> If Insanity is successful, the target will take 2-4 damage, and take +2 damage from all future attacks.<br/>"
+
+[Fortress X2AbilityTemplate]
+LocFriendlyName="Fortress"
+LocLongDescription="The <Ability:ClassName/> is immune to fire, poison, acid, and explosive damage."
+LocHelpText="The <Ability:ClassName/> is immune to fire, poison, acid, and explosive damage."
+LocFlyOverText="Fortress"
+LocPromotionPopupText="<Bullet/> A <Ability:ClassName/> with the Fortress ability can walk through fire, poison and acid with no ill effects.<br/>"
+
+[Fuse X2AbilityTemplate]
+LocFriendlyName="Fuse"
+LocLongDescription="If an enemy is carrying explosives, they can be remotely detonated by the Psi Operative."
+LocHelpText="If an enemy is carrying explosives, they can be remotely detonated by the Psi Operative."
+LocFlyOverText="Fuse"
+LocPromotionPopupText="<Bullet/> Fuse has no cooldown.<br/>"
+
+[Domination X2AbilityTemplate]
+LocFriendlyName="Domination"
+LocLongDescription="Permanently mind control an enemy. Only one successful Domination can be performed per mission."
+LocHelpText="Permanently mind control an enemy. Only one successful Domination can be performed per mission."
+LocFlyOverText="Domination"
+LocMissMessage="Domination Failed"
+LocPromotionPopupText="<Bullet/> Domination requires a contest of the Psi Operative's Psi Strength stat versus the Will of the target.<br/><Bullet/> If an attempted Domination fails, there is a 4 turn coldown before another Domination can be attempted.<br/><Bullet/> If the Psi Operative dies or leaves the battlefield, the Domination is broken.<br/>"
+
+[NullLance X2AbilityTemplate]
+LocFriendlyName="Null Lance"
+LocLongDescription="Project a beam of terrible power that damages every target it passes through. This attack can penetrate multiple enemies and obstacles."
+LocHelpText="Project a beam of Psionic energy that damages every target it passes through."
+LocFlyOverText="Null Lance"
+LocPromotionPopupText="<Bullet/> Null Lance has a <Ability:SelfCooldown/> turn cooldown.<br/><Bullet/> Null Lance damage can be increased by improving the Psi Operative's Psi Amp.<br/>"
+
+[VoidRift X2AbilityTemplate]
+LocFriendlyName="Void Rift"
+LocLongDescription="Generate an explosive field of Psionic energy that immediately damages everything within. Organic enemies have a chance to suffer Insanity."
+LocHelpText="Generate an explosive field of Psionic energy that damages everything within. Organic enemies have a chance to suffer Insanity."
+LocFlyOverText="Void Rift"
+LocPromotionPopupText="<Bullet/> Void Rift has a <Ability:SelfCooldown/> turn cooldown.<br/>"
+
+[PsiOperativeMindControl X2AbilityTemplate]
+LocFriendlyName="Mind Control"
+LocLongDescription="The Psi Operative can seize active control of their target's mind, forcing them to turn on their companions."
+LocHelpText="Seize active control of their target's mind"
+LocFlyOverText="Mind Control"
+
+; *********************************************************************************************************************
+; ***                                            RANGER ABILITIES                                                   ***
+; *********************************************************************************************************************
+
+; ---------- General Path -----------------
 
 [HuntersInstinct X2AbilityTemplate]
-LocFriendlyName="Instinto do Caçador"
-LocLongDescription="Ataques à  distância contra inimigos flanqueados causam +<Ability:HUNTERSINSTINCTDMG/> de dano. Ataques de espada têm +<Ability:HUNTERSINSTINCTCRIT/>% de chance de acerto crítico."
-LocHelpText="Ataques à  distância contra inimigos flanqueados causam +<Ability:HUNTERSINSTINCTDMG/> de dano. Ataques de espada têm +<Ability:HUNTERSINSTINCTCRIT/>% de chance de acerto crítico."
-LocFlyOverText="Instinto do Caçador"
+LocFriendlyName="Hunter's Instincts"
+LocLongDescription="Ranged attacks against flanked enemies deal +<Ability:HUNTERSINSTINCTDMG/> damage. Sword attacks have a bonus <Ability:HUNTERSINSTINCTCRIT/>% chance to critically hit enemies."
+LocHelpText="Ranged attacks against flanked enemies deal +<Ability:HUNTERSINSTINCTDMG/> damage. Sword attacks have a bonus <Ability:HUNTERSINSTINCTCRIT/>% chance to critically hit enemies."
+LocFlyOverText="Hunter's Instincts"
 
 [SwordSlice X2AbilityTemplate]
-LocFriendlyName="Golpe de Espada"
-LocLongDescription="Ataca qualquer inimigo dentro do alcance de movimento com sua <Ability:SecondaryWeaponName/>."
-LocHelpText="Ataca um inimigo dentro do alcance de movimento com sua <Ability:SecondaryWeaponName/>."
-LocPromotionPopupText="<Bullet/> Você pode ativar a habilidade Golpe de Espada posicionando o cursor de movimento sobre um inimigo.<br/><Bullet/> Um Ranger pode realizar um movimento \"Investida\", usando ambas as açÃµes para se mover, e ainda assim ativar um Golpe de Espada contra um inimigo adjacente.<br/>"
+LocFriendlyName="Slash"
+LocLongDescription="Attack any enemy within movement range with your <Ability:SecondaryWeaponName/>."
+LocHelpText="Attack an enemy within movement range with your <Ability:SecondaryWeaponName/>."
+LocPromotionPopupText="<Bullet/> You can trigger the Slash ability by placing the movement cursor over an enemy.<br/><Bullet/> A Ranger can perform a \"Dash\" move, using both actions to move, and still trigger a Slash against an adjacent enemy.<br/>"
 
-; ---------- Caminho do Batedor ------------------
+; ---------- Scout Path ------------------
 
-; Cabo
+; Corporal
 [Phantom X2AbilityTemplate]
-LocFriendlyName="Fantasma"
-LocLongDescription="Quando o esquadrão é revelado, este soldado permanece oculto."
-LocHelpText="Quando o esquadrão é revelado, este soldado permanece oculto."
-LocFlyOverText="Fantasma"
-LocPromotionPopupText="<Bullet/> Mesmo que o esquadrão não comece a missão oculto, <Ability:ClassName/>s com Fantasma ainda iniciarão a missão ocultos.<br/><Bullet/> Se o <Ability:ClassName/> for o soldado que quebrar a ocultação do esquadrão, então Fantasma não se aplica.<br/>"
+LocFriendlyName="Phantom"
+LocLongDescription="When the squad is revealed, this soldier remains concealed."
+LocHelpText="When the squad is revealed, this soldier remains concealed."
+LocFlyOverText="Phantom"
+LocPromotionPopupText="<Bullet/> Even if the squad does not start a mission concealed, <Ability:ClassName/>s with Phantom will still begin the mission with concealment.<br/><Bullet/> If the <Ability:ClassName/> is the soldier that breaks squad concealment, then Phantom does not apply.<br/>"
 
-; Sargento
+; Sergeant
 [Shadowstrike X2AbilityTemplate]
-LocFriendlyName="Golpe Sombrio"
-LocLongDescription="Enquanto oculto, ganha +<Ability:SHADOWSTRIKEAIM/> de precisão e +<Ability:SHADOWSTRIKECRIT/> de chance de acerto crítico ao atacar inimigos."
-LocHelpText="Enquanto oculto, ganha bônus de precisão e chance de acerto crítico ao atacar inimigos."
-LocPromotionPopupText="<Bullet/> Os bônus do Golpe Sombrio serão aplicados se o Ranger voltar a ficar oculto durante a missão.<br/>"
+LocFriendlyName="Shadowstrike"
+LocLongDescription="While concealed, gain +<Ability:SHADOWSTRIKEAIM/> bonus aim and +<Ability:SHADOWSTRIKECRIT/> bonus critical hit chance when attacking enemies."
+LocHelpText="While concealed, gain bonus aim and bonus criticial hit chance when attacking enemies."
+LocPromotionPopupText="<Bullet/> Shadowstrike bonuses will apply if the Ranger re-enters concealment in a mission.<br/>"
 
-; Tenente
+; Lieutenant
 [Stealth X2AbilityTemplate]
-LocFriendlyName="Ocultar"
-LocLongDescription="Entra imediatamente em ocultação uma vez por missão."
-LocHelpText="Entra imediatamente em ocultação uma vez por missão."
-LocFlyOverText="Ocultar"
-LocPromotionPopupText="<Bullet/> A ocultação pode ser ativada em qualquer local, mas se feita dentro do raio de detecção de inimigos próximos, o Ranger será revelado se estiver flanqueado.<br/>"
+LocFriendlyName="Conceal"
+LocLongDescription="Immediately enter concealment once per mission."
+LocHelpText="Immediately enter concealment once per mission."
+LocFlyOverText="Conceal"
+LocPromotionPopupText="<Bullet/> Concealment can be entered at any location, but when done inside the detection radii of nearby enemies the Ranger will be revealed when flanked.<br/>"
 
-; Capitão
+; Captain
 [Implacable X2AbilityTemplate]
-LocFriendlyName="Implacável"
-LocLongDescription="Se você eliminar um ou mais inimigos no seu turno, recebe um movimento bônus."
-LocHelpText="Ganha até um movimento por turno após eliminar um inimigo."
-LocFlyOverText="Implacável"
-LocPromotionPopupText="<Bullet/> Os ataques do <Ability:ClassName/> não podem ser usados após ganhar um movimento bônus do Implacável.<br/>"
+LocFriendlyName="Implacable"
+LocLongDescription="If you score one or more kills on your turn, you are granted a single bonus move."
+LocHelpText="Gain up to one move per turn after making a kill."
+LocFlyOverText="Implacable"
+LocPromotionPopupText="<Bullet/> The <Ability:ClassName/>'s attacks cannot be used after gaining a bonus move from Implacable.<br/>"
 
 ; Major
 [DeepCover X2AbilityTemplate]
-LocFriendlyName="Cobertura Profunda"
-LocLongDescription="Se você não atacar neste turno, abaixa-se automaticamente."
-LocHelpText="Se você não atacar neste turno, abaixa-se automaticamente."
-LocFlyOverText="Abaixar: Cobertura Profunda"
-LocPromotionPopupText="<Bullet/> AçÃµes não ofensivas como Recarregar ainda podem ser realizadas sem invalidar a Cobertura Profunda.<br/>"
+LocFriendlyName="Deep Cover"
+LocLongDescription="If you did not attack this turn, hunker down automatically."
+LocHelpText="If you did not attack this turn, hunker down automatically."
+LocFlyOverText="Hunker Down: Deep Cover"
+LocPromotionPopupText="<Bullet/> Non-offensive actions like Reload can still be performed without invalidating Deep Cover.<br/>"
 
-; Coronel
+; Colonel
 [RapidFire X2AbilityTemplate]
-LocFriendlyName="Tiro Rápido"
-LocLongDescription="Atira duas vezes consecutivas em um inimigo. Cada disparo sofre uma penalidade de <Ability:RAPIDFIREPENALTY/> na precisão."
-LocHelpText="Atira duas vezes consecutivas em um inimigo. Cada disparo sofre uma penalidade de <Ability:RAPIDFIREPENALTY/> na precisão."
-LocFlyOverText="Tiro Rápido"
-LocPromotionPopupText="<Bullet/> Tiro Rápido é uma habilidade devastadora para causar dano Ã  distância.<br/>"
+LocFriendlyName="Rapid Fire"
+LocLongDescription="Fire twice in a row at an enemy. Each shot suffers an Aim penalty of <Ability:RAPIDFIREPENALTY/>."
+LocHelpText="Fire twice in a row at an enemy. Each shot suffers an Aim penalty of <Ability:RAPIDFIREPENALTY/>."
+LocFlyOverText="Rapid Fire"
+LocPromotionPopupText="<Bullet/> Rapid Fire is a devastating ability for dealing ranged damage.<br/>"
 
 [RapidFire2 X2AbilityTemplate]
-LocFriendlyName="Tiro Rápido"
-LocFlyOverText="Tiro Rápido"
+LocFriendlyName="Rapid Fire"
+LocFlyOverText="Rapid Fire"
 
-; ---------- Caminho do Mestre em Lâminas ----------------
-
-[Blademaster X2AbilityTemplate]
-LocFriendlyName="Mestre em Lâminas"
-LocLongDescription="Todos os ataques com <Ability:SecondaryWeaponName/> causam +<Ability:BlademasterDmg/> de dano extra e têm +<Ability:BLADEMASTERAIM/> de precisão."
-LocHelpText="Dano e precisão extras em todos os ataques com <Ability:SecondaryWeaponName/>."
-LocFlyOverText="Mestre em Lâminas"
-LocPromotionPopupText="<Bullet/> Mestre em Lâminas causa +<Ability:BlademasterDmg/> de dano bônus em cada ataque corpo a corpo bem-sucedido.<br/><Bullet/> Mestre em Lâminas concede +<Ability:BLADEMASTERAIM/> de precisão em ataques corpo a corpo.<br/>"
-
-[Shadowstep X2AbilityTemplate]
-LocFriendlyName="Passo Sombrio"
-LocLongDescription="Este soldado não ativa sobressaltos ou tiros de reação."
-LocHelpText="Este soldado não ativa sobressaltos ou tiros de reação."
-LocPromotionPopupText="<Bullet/> Um <Ability:ClassName/> com Passo Sombrio não ativa tiros de Sobressalto ou Supressão, mas não poderá atrair tiros de Sobressalto para longe dos companheiros.<br/>"
-
-[RunAndGun X2AbilityTemplate]
-LocFriendlyName="Correr e Atirar"
-LocLongDescription="Realiza uma ação após uma investida."
-LocHelpText="Realiza uma ação após uma investida."
-LocFlyOverText="Correr e Atirar"
-LocPromotionPopupText="<Bullet/> Correr e Atirar permite que <Ability:ClassName/>s fechem a distância até seus alvos rapidamente ou assumam posiçÃµes de flanco com facilidade.<br/><Bullet/> Correr e Atirar tem um tempo de recarga de 3 turnos.<br/>"
-
-[Bladestorm X2AbilityTemplate]
-LocFriendlyName="Tempestade de Lâminas"
-LocLongDescription="Ataques gratuitos com <Ability:SecondaryWeaponName/> contra inimigos que entrem ou ataquem de perto."
-LocHelpText="Ataques gratuitos com <Ability:SecondaryWeaponName/> contra inimigos que entrem ou ataquem de perto."
-LocFlyOverText="Tempestade de Lâminas"
-LocPromotionPopupText="<Bullet/> Se um inimigo começar o turno em um tile adjacente, Tempestade de Lâminas será ativada se esse inimigo tentar atacar o <Ability:ClassName/>.<br/><Bullet/> Se um inimigo não começar o turno em um tile adjacente, Tempestade de Lâminas será ativada quando ele se mover para perto.<br/>"
-
-[BladestormAttack X2AbilityTemplate]
-LocFriendlyName="Tempestade de Lâminas"
-LocLongDescription="Ataques gratuitos com <Ability:SecondaryWeaponName/> contra inimigos que entrem ou ataquem de perto."
-LocHelpText="Ataques gratuitos com <Ability:SecondaryWeaponName/> contra inimigos que entrem ou ataquem de perto."
-LocFlyOverText="Tempestade de Lâminas"
-LocPromotionPopupText="<Bullet/> Se um inimigo começar o turno em um tile adjacente, Tempestade de Lâminas será ativada se esse inimigo tentar atacar o <Ability:ClassName/>.<br/><Bullet/> Se um inimigo não começar o turno em um tile adjacente, Tempestade de Lâminas será ativada quando ele se mover para perto.<br/>"
-
-[Untouchable X2AbilityTemplate]
-LocFriendlyName="Intocável"
-LocLongDescription="Se você eliminar um inimigo no seu turno, o próximo ataque contra você no turno inimigo erra."
-LocHelpText="Se você eliminar um inimigo no seu turno, o próximo ataque contra você no turno inimigo erra."
-LocFlyOverText="Intocável"
-LocPromotionPopupText="<Bullet/> Quando Intocável é ativado, o <Ability:ClassName/> fica imune ao próximo ataque causador de dano durante o turno inimigo, incluindo ataques de Ãrea de Efeito.<br/>"
-
-[Reaper X2AbilityTemplate]
-LocFriendlyName="Ceifador"
-LocLongDescription="Um devastador ataque em cadeia corpo a corpo onde o primeiro ataque não pode errar. Cada eliminação no modo Ceifador concede uma ação extra, mas ataques subsequentes causam menos dano."
-LocHelpText="Um devastador ataque em cadeia corpo a corpo onde o primeiro ataque não pode errar. Cada eliminação no modo Ceifador concede uma ação extra, mas ataques subsequentes causam menos dano."
-LocFlyOverText="Ceifador"
-LocPromotionPopupText="<Bullet/> Ceifador tem um tempo de recarga de <Ability:SelfCooldown/> turnos.<br/><Bullet/> Ceifador não pode ser combinado com Correr e Atirar.<br/><Bullet/> Como o dano diminui a cada ataque bem-sucedido, pode ser necessário escolher a ordem dos alvos com cuidado para maximizar a cadeia de ataques.<br/>"
-
-[LightningReflexes X2AbilityTemplate]
-LocFriendlyName="Reflexos Relâmpago"
-LocLongDescription="A cada turno, o primeiro tiro de reação contra você erra."
-LocHelpText="A cada turno, o primeiro tiro de reação contra você erra."
-LocFlyOverText="Reflexos Relâmpago"
-LocPromotionPopupText="<Bullet/> Reflexos Relâmpago pode ser usado para atrair tiros de Sobressalto de inimigos e proteger companheiros de esquadrão.<br/>" 
-
-[DarkEventAbility_LightningReflexes X2AbilityTemplate]
-LocFriendlyName="Evento Sombrio: Reflexos Relâmpago"
-LocLongDescription="A cada turno, o primeiro tiro de reação contra você erra."
-LocHelpText="A cada turno, o primeiro tiro de reação contra você erra."
-LocFlyOverText="Evento Sombrio: Reflexos Relâmpago"
-LocPromotionPopupText="<Bullet/> Reflexos Relâmpago pode ser usado para atrair tiros de Sobressalto de inimigos e proteger companheiros de esquadrão.<br/>" 
-
-; *********************************************************************************************************************
-; ***                                      HABILIDADES DO ATIRADOR DE ELITE                                         ***
-; *********************************************************************************************************************
-
-; ---------- Caminho Geral -----------------
-
-[HuntersInstinct X2AbilityTemplate]
-LocFriendlyName="Instinto do Caçador"
-LocLongDescription="Ataques à  distância contra inimigos flanqueados causam +<Ability:HUNTERSINSTINCTDMG/> de dano. Ataques com espada têm +<Ability:HUNTERSINSTINCTCRIT/>% de chance de acerto crítico."
-LocHelpText="Ataques à  distância contra inimigos flanqueados causam dano adicional. Ataques com espada têm maior chance de acerto crítico."
-LocFlyOverText="Instinto do Caçador"
-
-[SwordSlice X2AbilityTemplate]
-LocFriendlyName="Golpe de Espada"
-LocLongDescription="Ataca qualquer inimigo dentro do alcance de movimento com sua <Ability:SecondaryWeaponName/>."
-LocHelpText="Ataca um inimigo dentro do alcance de movimento com sua <Ability:SecondaryWeaponName/>."
-LocPromotionPopupText="<Bullet/> Você pode ativar o Golpe de Espada posicionando o cursor de movimento sobre um inimigo.<br/><Bullet/> Um Ranger pode realizar um movimento \"Investida\", usando ambas as açÃµes para se mover, e ainda assim ativar um Golpe de Espada contra um inimigo adjacente.<br/>"
-
-; ---------- Caminho do Batedor ------------------
-
-; Cabo
-[Phantom X2AbilityTemplate]
-LocFriendlyName="Fantasma"
-LocLongDescription="Quando o esquadrão é revelado, este soldado permanece oculto."
-LocHelpText="Quando o esquadrão é revelado, este soldado permanece oculto."
-LocFlyOverText="Fantasma"
-LocPromotionPopupText="<Bullet/> Mesmo que o esquadrão não comece a missão oculto, <Ability:ClassName/>s com Fantasma ainda iniciarão a missão ocultos.<br/><Bullet/> Se o <Ability:ClassName/> for o soldado que quebrar a ocultação do esquadrão, o Fantasma não será ativado.<br/>"
-
-; Sargento
-[Shadowstrike X2AbilityTemplate]
-LocFriendlyName="Golpe Sombrio"
-LocLongDescription="Enquanto oculto, ganha +<Ability:SHADOWSTRIKEAIM/> de precisão e +<Ability:SHADOWSTRIKECRIT/>% de chance de acerto crítico ao atacar inimigos."
-LocHelpText="Enquanto oculto, ganha bônus de precisão e chance de acerto crítico ao atacar inimigos."
-LocPromotionPopupText="<Bullet/> Os bônus do Golpe Sombrio serão aplicados se o Ranger voltar a ficar oculto durante a missão.<br/>"
-
-; Tenente
-[Stealth X2AbilityTemplate]
-LocFriendlyName="Ocultar"
-LocLongDescription="Entra imediatamente em ocultação uma vez por missão."
-LocHelpText="Entra imediatamente em ocultação uma vez por missão."
-LocFlyOverText="Ocultar"
-LocPromotionPopupText="<Bullet/> A ocultação pode ser ativada em qualquer local, mas se feita dentro do raio de detecção de inimigos próximos, o Ranger será revelado se estiver flanqueado.<br/>"
-
-; Capitão
-[Implacable X2AbilityTemplate]
-LocFriendlyName="Implacável"
-LocLongDescription="Se você eliminar um ou mais inimigos no seu turno, recebe um movimento bônus."
-LocHelpText="Ganhe até um movimento por turno após eliminar um inimigo."
-LocFlyOverText="Implacável"
-LocPromotionPopupText="<Bullet/> Os ataques do <Ability:ClassName/> não podem ser usados após ganhar um movimento bônus do Implacável.<br/>"
-
-; Major
-[DeepCover X2AbilityTemplate]
-LocFriendlyName="Cobertura Profunda"
-LocLongDescription="Se você não atacar neste turno, abaixa-se automaticamente."
-LocHelpText="Se você não atacar neste turno, abaixa-se automaticamente."
-LocFlyOverText="Abaixar: Cobertura Profunda"
-LocPromotionPopupText="<Bullet/> AçÃµes não ofensivas como Recarregar ainda podem ser realizadas sem invalidar a Cobertura Profunda.<br/>"
-
-; Coronel
-[RapidFire X2AbilityTemplate]
-LocFriendlyName="Tiro Rápido"
-LocLongDescription="Atira duas vezes consecutivas em um inimigo. Cada disparo sofre uma penalidade de <Ability:RAPIDFIREPENALTY/> na precisão."
-LocHelpText="Atira duas vezes consecutivas em um inimigo. Cada disparo sofre uma penalidade na precisão."
-LocFlyOverText="Tiro Rápido"
-LocPromotionPopupText="<Bullet/> Tiro Rápido é uma habilidade devastadora para causar dano Ã  distância.<br/>"
-
-[RapidFire2 X2AbilityTemplate]
-LocFriendlyName="Tiro Rápido"
-LocFlyOverText="Tiro Rápido"
-
-; ---------- Caminho do Mestre em Lâminas ----------------
+; ---------- Blademaster Path ----------------
 
 [Blademaster X2AbilityTemplate]
-LocFriendlyName="Mestre em Lâminas"
-LocLongDescription="Todos os ataques com <Ability:SecondaryWeaponName/> causam +<Ability:BlademasterDmg/> de dano extra e têm +<Ability:BLADEMASTERAIM/> de precisão."
-LocHelpText="Dano e precisão adicionais em todos os ataques com <Ability:SecondaryWeaponName/>."
-LocFlyOverText="Mestre em Lâminas"
-LocPromotionPopupText="<Bullet/> Mestre em Lâminas causa +<Ability:BlademasterDmg/> de dano bônus em cada ataque corpo a corpo bem-sucedido.<br/><Bullet/> Mestre em Lâminas concede +<Ability:BLADEMASTERAIM/> de precisão em ataques corpo a corpo.<br/>"
+LocFriendlyName="Blademaster"
+LocLongDescription="All <Ability:SecondaryWeaponName/> attacks deal +<Ability:BlademasterDmg/> extra damage and have +<Ability:BLADEMASTERAIM/> Aim."
+LocHelpText="Extra damage and aim on all <Ability:SecondaryWeaponName/> attacks."
+LocFlyOverText="Blademaster"
+LocPromotionPopupText="<Bullet/> Blademaster deals a bonus +<Ability:BlademasterDmg/> damage on every successful melee attack.<br/><Bullet/> Blademaster grants +<Ability:BLADEMASTERAIM/> Aim to melee attacks.<br/>"
 
 [Shadowstep X2AbilityTemplate]
-LocFriendlyName="Passo Sombrio"
-LocLongDescription="Este soldado não ativa overwatch ou tiros de reação."
-LocHelpText="Este soldado não ativa overwatch ou tiros de reação."
-LocPromotionPopupText="<Bullet/> Um <Ability:ClassName/> com Passo Sombrio não ativará tiros de Overwatch ou Supressão, mas também não poderá atrair tiros de Overwatch para proteger seus companheiros.<br/>"
+LocFriendlyName="Shadowstep"
+LocLongDescription="This soldier does not trigger overwatch or reaction fire."
+LocHelpText="This soldier does not trigger overwatch or reaction fire."
+LocPromotionPopupText="<Bullet/> A <Ability:ClassName/> with Shadowstep will not trigger Overwatch shots or Suppression fire, but they will be unable to draw Overwatch fire away from their teammates.<br/>"
 
 [RunAndGun X2AbilityTemplate]
-LocFriendlyName="Correr e Atirar"
-LocLongDescription="Realiza uma ação após uma investida."
-LocHelpText="Realiza uma ação após uma investida."
-LocFlyOverText="Correr e Atirar"
-LocPromotionPopupText="<Bullet/> Correr e Atirar permite que <Ability:ClassName/>s fechem a distância até seus alvos rapidamente ou assumam posiçÃµes de flanco com facilidade.<br/><Bullet/> Correr e Atirar tem um tempo de recarga de 3 turnos.<br/>"
+LocFriendlyName="Run And Gun"
+LocLongDescription="Take an action after dashing."
+LocHelpText="Take an action after dashing."
+LocFlyOverText="Run And Gun"
+LocPromotionPopupText="<Bullet/> Run and Gun allows <Ability:ClassName/>s to close the distance to their targets rapidly, or to easily take a flanking position.<br/><Bullet/> Run and Gun has a 3 turn cooldown.<br/>"
 
 [Bladestorm X2AbilityTemplate]
-LocFriendlyName="Tempestade de Lâminas"
-LocLongDescription="Ataques gratuitos com <Ability:SecondaryWeaponName/> contra inimigos que entrem ou ataquem de perto."
-LocHelpText="Ataques gratuitos com <Ability:SecondaryWeaponName/> contra inimigos que entrem ou ataquem de perto."
-LocFlyOverText="Tempestade de Lâminas"
-LocPromotionPopupText="<Bullet/> Se um inimigo começar o turno em um tile adjacente, Tempestade de Lâminas será ativada se esse inimigo tentar atacar o <Ability:ClassName/>.<br/><Bullet/> Se um inimigo não começar o turno em um tile adjacente, Tempestade de Lâminas será ativada quando esse inimigo se mover para perto.<br/>"
+LocFriendlyName="Bladestorm"
+LocLongDescription="Free <Ability:SecondaryWeaponName/> attacks on any enemies that enter or attack from melee range."
+LocHelpText="Free <Ability:SecondaryWeaponName/> attacks on any enemies that enter or attack from melee range."
+LocFlyOverText="Bladestorm"
+LocPromotionPopupText="<Bullet/> If an enemy begins their turn in an adjacent tile, Bladestorm will trigger if that enemy tries to attack the <Ability:ClassName/>.<br/><Bullet/> If an enemy does not begin their turn in an adjacent tile, then Bladestorm will trigger when that enemy moves into melee range.<br/>"
 
 [BladestormAttack X2AbilityTemplate]
-LocFriendlyName="Tempestade de Lâminas"
-LocLongDescription="Ataques gratuitos com <Ability:SecondaryWeaponName/> contra inimigos que entrem ou ataquem de perto."
-LocHelpText="Ataques gratuitos com <Ability:SecondaryWeaponName/> contra inimigos que entrem ou ataquem de perto."
-LocFlyOverText="Tempestade de Lâminas"
-LocPromotionPopupText="<Bullet/> Se um inimigo começar o turno em um tile adjacente, Tempestade de Lâminas será ativada se esse inimigo tentar atacar o <Ability:ClassName/>.<br/><Bullet/> Se um inimigo não começar o turno em um tile adjacente, Tempestade de Lâminas será ativada quando esse inimigo se mover para perto.<br/>"
+LocFriendlyName="Bladestorm"
+LocLongDescription="Free <Ability:SecondaryWeaponName/> attacks on any enemies that enter or attack from melee range."
+LocHelpText="Free <Ability:SecondaryWeaponName/> attacks on any enemies that enter or attack from melee range."
+LocFlyOverText="Bladestorm"
+LocPromotionPopupText="<Bullet/> If an enemy begins their turn in an adjacent tile, Bladestorm will trigger if that enemy tries to attack the <Ability:ClassName/>.<br/><Bullet/> If an enemy does not begin their turn in an adjacent tile, then Bladestorm will trigger when that enemy moves into melee range.<br/>"
 
 [Untouchable X2AbilityTemplate]
-LocFriendlyName="Intocável"
-LocLongDescription="Se você eliminar um inimigo durante seu turno, o próximo ataque contra você durante o turno inimigo errará."
-LocHelpText="Se você eliminar um inimigo durante seu turno, o próximo ataque contra você durante o turno inimigo errará."
-LocFlyOverText="Intocável"
-LocPromotionPopupText="<Bullet/> Quando Intocável é ativado, o <Ability:ClassName/> é imune ao próximo ataque causador de dano durante o turno inimigo, incluindo ataques de Ãrea de Efeito.<br/>"
+LocFriendlyName="Untouchable"
+LocLongDescription="If you score a kill during your turn, the next attack against you during the enemy turn will miss."
+LocHelpText="If you score a kill during your turn, the next attack against you during the enemy turn will miss."
+LocFlyOverText="Untouchable"
+LocPromotionPopupText="<Bullet/> When Untouchable is triggered, the <Ability:ClassName/> is immune to the next damage dealing attack during the enemy turn, even Area of Effect attacks.<br/>"
 
 [Reaper X2AbilityTemplate]
-LocFriendlyName="Ceifador"
-LocLongDescription="Um devastador ataque em cadeia corpo a corpo onde o primeiro ataque não pode errar. Cada eliminação no modo Ceifador concede uma ação extra, mas ataques subsequentes causam menos dano."
-LocHelpText="Um devastador ataque em cadeia corpo a corpo onde o primeiro ataque não pode errar. Cada eliminação concede uma ação extra, mas ataques subsequentes causam menos dano."
-LocFlyOverText="Ceifador"
-LocPromotionPopupText="<Bullet/> Ceifador tem um tempo de recarga de <Ability:SelfCooldown/> turnos.<br/><Bullet/> Ceifador não pode ser combinado com Correr e Atirar.<br/><Bullet/> Como o dano diminui a cada ataque bem-sucedido, pode ser necessário escolher cuidadosamente a ordem dos alvos para maximizar a cadeia de ataques.<br/>"
+LocFriendlyName="Reaper"
+LocLongDescription="A devastating chain melee attack where the first melee attack cannot miss. Each melee kill in Reaper mode grants an extra action, but further melee attacks have reduced damage."
+LocHelpText="A devastating chain melee attack where the first melee attack cannot miss. Each melee kill in Reaper mode grants an extra action, but further melee attacks have reduced damage."
+LocFlyOverText="Reaper"
+LocPromotionPopupText="<Bullet/> Reaper has a <Ability:SelfCooldown/> turn cooldown.<br/><Bullet/> Reaper cannot be combined with Run and Gun.<br/><Bullet/> As the damage with each successful Reaper strike is reduced, careful ordering of targets may be required to ensure the longest chain of attacks.<br/>"
 
 [LightningReflexes X2AbilityTemplate]
-LocFriendlyName="Reflexos Relâmpago"
-LocLongDescription="A cada turno, o primeiro tiro de reação contra você erra."
-LocHelpText="A cada turno, o primeiro tiro de reação contra você erra."
-LocFlyOverText="Reflexos Relâmpago"
-LocPromotionPopupText="<Bullet/> Reflexos Relâmpago pode ser usado para atrair tiros de Overwatch de inimigos e proteger companheiros de esquadrão.<br/>" 
+LocFriendlyName="Lightning Reflexes"
+LocLongDescription="Each turn, the first Reaction shot against you misses."
+LocHelpText="Each turn, the first Reaction shot against you misses."
+LocFlyOverText="Lightning Reflexes"
+LocPromotionPopupText="<Bullet/> Lightning Reflexes can be used to draw the Overwatch shots of enemies and protect squadmates.<br/>" 
 
 [DarkEventAbility_LightningReflexes X2AbilityTemplate]
-LocFriendlyName="Evento Sombrio: Reflexos Relâmpago"
-LocLongDescription="A cada turno, o primeiro tiro de reação contra você erra."
-LocHelpText="A cada turno, o primeiro tiro de reação contra você erra."
-LocFlyOverText="Evento Sombrio: Reflexos Relâmpago"
-LocPromotionPopupText="<Bullet/> Reflexos Relâmpago pode ser usado para atrair tiros de Overwatch de inimigos e proteger companheiros de esquadrão.<br/>" 
-
+LocFriendlyName="Dark Event: Lightning Reflexes"
+LocLongDescription="Each turn, the first Reaction shot against you misses."
+LocHelpText="Each turn, the first Reaction shot against you misses."
+LocFlyOverText="Dark Event: Lightning Reflexes"
+LocPromotionPopupText="<Bullet/> Lightning Reflexes can be used to draw the Overwatch shots of enemies and protect squadmates.<br/>" 
+ 
 ; *********************************************************************************************************************
-; ***                                      HABILIDADES DO ATIRADOR DE ELITE                                          ***
+; ***                                      SHARPSHOOTER ABILITIES                                                   ***
 ; *********************************************************************************************************************
 
-; ---------- Caminho Geral -----------------
+; ---------- General Path -----------------
 [HitWhereItHurts X2AbilityTemplate]
-LocFriendlyName="Tiro Certeiro"
-LocLongDescription="Bônus de <Ability:HITWHEREITHURTS/>% de chance de acerto crítico em inimigos."
-LocHelpText="Bônus de <Ability:HITWHEREITHURTS/>% de chance de acerto crítico em inimigos."
-LocFlyOverText="Tiro Certeiro"
+LocFriendlyName="Deadshot"
+LocLongDescription="Bonus <Ability:HITWHEREITHURTS/>% chance to critically hit enemies."
+LocHelpText="Bonus <Ability:HITWHEREITHURTS/>% chance to critically hit enemies."
+LocFlyOverText="Deadshot"
 
 [Squadsight X2AbilityTemplate]
-LocFriendlyName="Visão de Grupo"
-LocLongDescription="Você pode mirar em inimigos dentro do campo de visão de companheiros de equipe, desde que haja linha de visão para o alvo."
-LocHelpText="O <Ability:ClassName/> pode mirar em inimigos dentro do campo de visão de companheiros de equipe, desde que haja linha de visão para o alvo."
-LocFlyOverText="Visão de Grupo"
-LocPromotionPopupText="<Bullet/> Visão de Grupo é melhor aproveitada em terreno elevado, permitindo linhas de visão relativamente claras e um bônus adicional de mira para compensar a penalidade de Visão de Grupo.<br/><Bullet/> Ao usar Visão de Grupo, não há limite para a distância dos alvos, mas uma penalidade de mira acumula com a distância.<br/><Bullet/> Tiros de Vigilância não usam Visão de Grupo por padrão.<br/>"
+LocFriendlyName="Squadsight"
+LocLongDescription="You can target enemies within squadmates' sight, provided there is line of sight to the target."
+LocHelpText="The <Ability:ClassName/> can target enemies within squadmates' sight, provided there is line of sight to the target."
+LocFlyOverText="Squadsight"
+LocPromotionPopupText="<Bullet/> Squadsight is best augmented by high ground, allowing <Ability:ClassName/>s relatively clear sight lines and an additional aim bonus to offset Squadsight's aim penalty.<br/><Bullet/> When using Squadsight, there is no limit on how far your targets can be, but an aim penalty accumulates with distance.<br/><Bullet/> Overwatch shots do not use squadsight by default."
 
-; ---------- Caminho do Atirador ---------------
+; ---------- Sniper Path ----------------
 
 [Deadeye X2AbilityTemplate]
-LocFriendlyName="Tiro Preciso"
-LocLongDescription="Dispara um tiro com uma pequena penalidade de mira para um aumento significativo de dano."
-LocHelpText="Dispara um tiro com uma pequena penalidade de mira para um aumento significativo de dano."
-LocPromotionPopupText="<Bullet/> Tiro Preciso reduz a chance de acerto geral em <Ability:DeadEyeAim/>%, mas aumenta o dano base do tiro em <Ability:DeadEyeDmg/>%.<br/><Bullet/> Tiro Preciso tem um tempo de recarga de <Ability:SelfCooldown/> turno.<br/>"
+LocFriendlyName="Deadeye"
+LocLongDescription="Take a shot with a small aim penalty for a significant damage boost."
+LocHelpText="Take a shot with a small aim penalty for a significant damage boost."
+LocPromotionPopupText="<Bullet/> Deadeye reduces the overall hit chance of a shot by <Ability:DeadEyeAim/>%, but increases the base damage of the shot by <Ability:DeadEyeDmg/>%.<br/><Bullet/> Deadeye has a <Ability:SelfCooldown/> turn cooldown.<br/>"
 
 [DeadeyeDamage X2AbilityTemplate]
-LocFriendlyName="Tiro Preciso"
-LocLongDescription="Dispara um tiro com uma pequena penalidade de mira para um aumento significativo de dano."
-LocHelpText="Dispara um tiro com uma pequena penalidade de mira para um aumento significativo de dano."
-LocPromotionPopupText="<Bullet/> Tiro Preciso reduz a chance de acerto geral em <Ability:DeadEyeAim/>%, mas aumenta o dano base do tiro em <Ability:DeadEyeDmg/>%.<br/><Bullet/> Tiro Preciso tem um tempo de recarga de <Ability:SelfCooldown/> turno.<br/>"
+LocFriendlyName="Deadeye"
+LocLongDescription="Take a shot with a small aim penalty for a significant damage boost."
+LocHelpText="Take a shot with a small aim penalty for a significant damage boost."
+LocPromotionPopupText="<Bullet/> Deadeye reduces the overall hit chance of a shot by <Ability:DeadEyeAim/>%, but increases the base damage of the shot by <Ability:DeadEyeDmg/>%.<br/><Bullet/> Deadeye has a <Ability:SelfCooldown/> turn cooldown.<br/>"
 
 [LongWatch X2AbilityTemplate]
-LocFriendlyName="Vigilância Estendida"
-LocLongDescription="Permite que Vigilância seja acionada com Visão de Grupo."
-LocHelpText="Atira no primeiro inimigo que se mover dentro de sua linha de visão (no alcance de Visão de Grupo)."
-LocLongDescriptionWhenConcealed="Atira no primeiro inimigo que se mover dentro de sua linha de visão (no alcance de Visão de Grupo), mas apenas se você for revelado."
-LocFlyOverText="Vigilância Estendida"
-LocFriendlyNameWhenConcealed="Vigilância Estendida (Oculto)"
-LocPromotionPopupText="<Bullet/> Assim como a habilidade Vigilância que ela aprimora, Vigilância Estendida sofre uma penalidade base de mira.<br/><Bullet/> Vigilância Estendida também sofre a penalidade de Visão de Grupo, que aumenta com a distância.<br/>"
+LocFriendlyName="Long Watch"
+LocLongDescription="Allow Overwatch to trigger with Squadsight."
+LocHelpText="Fire on the first enemy that moves within your line of sight (in Squadsight range.)"
+LocLongDescriptionWhenConcealed="Fire on the first enemy that moves within your line of sight (in Squadsight range) but only if you are revealed."
+LocFlyOverText="Long Watch"
+LocFriendlyNameWhenConcealed="Long Watch (Concealed)"
+LocPromotionPopupText="<Bullet/> Like the Overwatch ability it upgrades, Long Watch suffers a base penalty to aim.<br/><Bullet/> Long Watch also suffers the Squadsight penalty to aim that increases with distance.<br/>"
 
 [LongWatchShot X2AbilityTemplate]
-LocFriendlyName="Tiro de Vigilância Estendida"
+LocFriendlyName="Long Watch Shot"
 
 [DeathFromAbove X2AbilityTemplate]
-LocFriendlyName="Morte Vinda do Alto"
-LocLongDescription="Matar um inimigo em uma elevação mais baixa com sua <Ability:WeaponName/> custa apenas uma ação e não encerra seu turno."
-LocHelpText="Matar um inimigo em uma elevação mais baixa com sua <Ability:WeaponName/> custa apenas uma ação e não encerra seu turno."
-LocFlyOverText="Morte Vinda do Alto"
-LocPromotionPopupText="<Bullet/> Morte Vinda do Alto pode combinar bem com habilidades de <Ability:SecondaryWeaponName/>, ou pode simplesmente tornar o <Ability:ClassName/> mais móvel.<br/>"
+LocFriendlyName="Death From Above"
+LocLongDescription="Killing an enemy at a lower elevation with your <Ability:WeaponName/> costs only a single action and does not end your turn."
+LocHelpText="Killing an enemy at a lower elevation with your <Ability:WeaponName/> costs only a single action and does not end your turn."
+LocFlyOverText="Death From Above"
+LocPromotionPopupText="<Bullet/> Death From Above can combo well with <Ability:SecondaryWeaponName/> abilities, or can simply make the <Ability:ClassName/> more mobile.<br/>"
 
 [SteadyHands X2AbilityTemplate]
-LocFriendlyName="Mãos Firmes"
-LocLongDescription="Se você não se moveu no último turno, ganha +<Ability:STEADYHANDSAIMBONUS/> de Mira e +<Ability:STEADYHANDSCRITBONUS/> de chance de Crítico."
-LocHelpText="Se você não se moveu, ganha um bônus de mira e chance de crítico."
-LocFlyOverText="Mãos Firmes"
-LocPromotionPopupText="<Bullet/> O bônus de Mãos Firmes não acumula ao longo de vários turnos.<br/><Bullet/> Mãos Firmes reforça a necessidade de encontrar um bom ponto de sniper elevado com boas linhas de visão.<br/>"
+LocFriendlyName="Steady Hands"
+LocLongDescription="If you did not move last turn, gain +<Ability:STEADYHANDSAIMBONUS/> Aim and +<Ability:STEADYHANDSCRITBONUS/> Critical chance."
+LocHelpText="If you did not move, gain a bonus to aim and crit chance."
+LocFlyOverText="Steady Hands"
+LocPromotionPopupText="<Bullet/> The Steady Hands bonus does not stack over multiple turns.<br/><Bullet/> Steady Hands doubles down on the need to find a high sniper's nest with good sightlines.<br/>"
 
 [KillZone X2AbilityTemplate]
-LocFriendlyName="Zona de Matança"
-LocLongDescription="Atira como reação contra qualquer inimigo que se mover ou atacar dentro de um cone de fogo."
-LocHelpText="Vigilância aprimorada com Visão de Grupo em um cone de fogo."
-LocFlyOverText="Zona de Matança"
-LocPromotionPopupText="<Bullet/> Não há limite para a quantidade de tiros de Zona de Matança que um <Ability:ClassName/> pode fazer, exceto pela contagem de munição.<br/><Bullet/> Zona de Matança utiliza Visão de Grupo, mesmo se o <Ability:ClassName/> não tiver a habilidade Vigilância Estendida.<br/><Bullet/> Zona de Matança tem um tempo de recarga de <Ability:SelfCooldown/> turno.<br/>"
-LocFriendlyNameWhenConcealed="Zona de Matança (Oculto)"
+LocFriendlyName="Kill Zone"
+LocLongDescription="Take a reaction shot against any enemy that moves or attacks within a cone of fire."
+LocHelpText="Enhanced squadsight overwatch in a cone of fire."
+LocFlyOverText="Kill Zone"
+LocPromotionPopupText="<Bullet/> There is no limit to the amount of Kill Zone shots a <Ability:ClassName/> can take outside of ammo counts.<br/><Bullet/> Kill Zone utilizes Squadsight, even if the <Ability:ClassName/> does not have the Long Watch ability.<br/><Bullet/> Kill Zone has a <Ability:SelfCooldown/> turn cooldown.<br/>"
+LocFriendlyNameWhenConcealed="Kill Zone (Concealed)"
 
-;Coronel
+;Colonel
 [InTheZone X2AbilityTemplate]
-LocFriendlyName="Série"
-LocLongDescription="Uma poderosa habilidade de tiros em cadeia. Para cada abate feito com sua <Ability:WeaponName/>, suas açÃµes serão reembolsadas."
-LocHelpText="Uma poderosa habilidade de tiros em cadeia. Para cada abate feito com sua <Ability:WeaponName/>, suas açÃµes serão reembolsadas."
-LocFlyOverText="Série"
-LocPromotionPopupText="<Bullet/> Série é projetada para encadear abates de inimigos em uma única ação, pois cada abate é essencialmente gratuito.<br/><Bullet/> Cada abate bem-sucedido resulta em uma redução na chance de acerto crítico, no entanto.<br/><Bullet/> Série tem um tempo de recarga de <Ability:SelfCooldown/> turno.<br/>"
+LocFriendlyName="Serial"
+LocLongDescription="A powerful chained shot ability. For every kill made with your <Ability:WeaponName/>, your actions will be refunded."
+LocHelpText="A powerful chained shot ability. For every kill made with your <Ability:WeaponName/>, your actions will be refunded."
+LocFlyOverText="Serial"
+LocPromotionPopupText="<Bullet/> Serial is meant to chain enemy kills in a single action, as every kill is essentially free.<br/><Bullet/> Every successful kill does result in a reduction to critical hit chance, however.<br/><Bullet/> Serial has a <Ability:SelfCooldown/> turn cooldown.<br/>"
 
-; ---------- Caminho do Pistoleiro ---------------
+; ---------- Gunslinger Path ----------------
 
 [ReturnFire X2AbilityTemplate]
-LocFriendlyName="Revide"
-LocHelpText="Quando alvejado por tiros inimigos, automaticamente revida com sua <Ability:SecondaryWeaponName/> uma vez por turno."
-LocLongDescription="Quando alvejado por tiros inimigos, automaticamente revida com sua <Ability:SecondaryWeaponName/> uma vez por turno."
-LocPromotionPopupText="<Bullet/> Revide só será acionado uma vez por turno.<br/><Bullet/> Revide pode ser acionado por ataques corpo a corpo e ataques de Ãrea de Efeito.<br/><Bullet/> Revide não será acionado quando alvejado por tiros de Vigilância.<br/>"
+LocFriendlyName="Return Fire"
+LocHelpText="When targeted by enemy fire, automatically fire back with your <Ability:SecondaryWeaponName/> once per turn."
+LocLongDescription="When targeted by enemy fire, automatically fire back with your <Ability:SecondaryWeaponName/> once per turn."
+LocPromotionPopupText="<Bullet/> Return Fire will only trigger once per turn.<br/><Bullet/> Return Fire can be triggered by melee attacks and Area of Effect attacks.<br/><Bullet/> Return Fire will not trigger when targeted by Overwatch fire.<br/>"
 
 [Quickdraw X2AbilityTemplate]
-LocFriendlyName="Saque Rápido"
-LocLongDescription="Atirar com sua <Ability:SecondaryWeaponName/> como primeira ação não encerra mais seu turno."
-LocHelpText="Atirar com sua <Ability:SecondaryWeaponName/> como primeira ação não encerra mais seu turno."
-LocFlyOverText="Saque Rápido"
-LocPromotionPopupText="<Bullet/> Saque Rápido é uma habilidade fundamental de <Ability:SecondaryWeaponName/>, pois permite que o <Ability:ClassName/> distribua seus tiros para diferentes alvos no mesmo turno.<br/>"
+LocFriendlyName="Quickdraw"
+LocLongDescription="Firing your <Ability:SecondaryWeaponName/> with your first action no longer ends your turn."
+LocHelpText="Firing your <Ability:SecondaryWeaponName/> with your first action no longer ends your turn."
+LocFlyOverText="Quickdraw"
+LocPromotionPopupText="<Bullet/> Quickdraw is a fundamental <Ability:SecondaryWeaponName/> ability, as it allows the <Ability:ClassName/> to spread their fire around to different targets in the same turn.<br/>"
 
 [FanFire X2AbilityTemplate]
-LocFriendlyName="Rajada"
-LocLongDescription="Dispara a pistola três vezes no mesmo alvo."
-LocHelpText="Dispara três vezes em um único alvo"
-LocFlyOverText="Rajada"
-LocPromotionPopupText="<Bullet/> Cada tiro em Rajada tem uma chance de acerto separada.<br/><Bullet/> Rajada pode causar uma quantidade devastadora de dano se todos os tiros acertarem.<br/><Bullet/> Rajada tem um tempo de recarga de <Ability:SelfCooldown/> turno.<br/>"
+LocFriendlyName="Fan Fire"
+LocLongDescription="Fire the pistol three times at the same target."
+LocHelpText="Fire three times at a single target"
+LocFlyOverText="Fan Fire"
+LocPromotionPopupText="<Bullet/> Each shot in Fan Fire rolls a separate chance to hit.<br/><Bullet/> Fan Fire can deal a devastating amount of damage if every shot hits.<br/><Bullet/> Fan Fire has a <Ability:SelfCooldown/> turn cooldown.<br/>"
 
 [SharpshooterAim X2AbilityTemplate]
-LocFriendlyName="Mira"
-LocLongDescription="Agora, Proteger-se concede +<Ability:SHARPSHOOTERAIMBONUS/> de Mira para o primeiro tiro no turno seguinte."
-LocHelpText="Agora, Proteger-se concede +<Ability:SHARPSHOOTERAIMBONUS/> de Mira para o primeiro tiro no turno seguinte."
-LocFlyOverText="Proteger-se - Mira"
-LocPromotionPopupText="<Bullet/> O bônus concedido por Mira pode ser aplicado a qualquer ataque Ã  distância e de único alvo.<br/>"
+LocFriendlyName="Aim"
+LocLongDescription="Hunker Down now confers +<Ability:SHARPSHOOTERAIMBONUS/> Aim to the first shot on the following turn."
+LocHelpText="Hunker Down now confers +<Ability:SHARPSHOOTERAIMBONUS/> Aim to the first shot on the following turn."
+LocFlyOverText="HunkerDown - Aim"
+LocPromotionPopupText="<Bullet/> The bonus granted by Aim can apply to any ranged, single-target attacks.<br/>"
 
 [LightningHands X2AbilityTemplate]
-LocFriendlyName="Mãos Ligeiras"
-LocLongDescription="Atira com sua <Ability:SecondaryWeaponName/> em um alvo. Este ataque não custa uma ação."
-LocHelpText="Atira com sua <Ability:SecondaryWeaponName/> em um alvo. Este ataque não custa uma ação."
-LocFlyOverText="Mãos Ligeiras"
-LocPromotionPopupText="<Bullet/> Mãos Ligeiras pode combinar bem com outras habilidades de <Ability:ClassName/>, pois não impede o uso de outras habilidades no mesmo turno.<br/><Bullet/> Mãos Ligeiras tem um tempo de recarga de <Ability:SelfCooldown/> turno.<br/>"
+LocFriendlyName="Lightning Hands"
+LocLongDescription="Fire your <Ability:SecondaryWeaponName/> at a target. This attack does not cost an action."
+LocHelpText="Fire your <Ability:SecondaryWeaponName/> at a target. This attack does not cost an action."
+LocFlyOverText="Lightning Hands"
+LocPromotionPopupText="<Bullet/> Lightning Hands can combo well with other <Ability:ClassName/> abilities, as it does not prevent the use of other abilities in the same turn.<br/><Bullet/> Lightning Hands has a <Ability:SelfCooldown/> turn cooldown.<br/>"
 
-; Coronel
+; Colonel
 [Faceoff X2AbilityTemplate]
-LocFriendlyName="Duelo"
-LocLongDescription="Atira uma vez em cada inimigo visível com sua pistola."
-LocHelpText="Atira uma vez em cada inimigo visível com sua pistola."
-LocPromotionPopupText="<Bullet/> Duelo é melhor aproveitado com posicionamento agressivo no campo, garantindo uma alta chance de acerto em múltiplos alvos.<br/><Bullet/> Duelo tem um tempo de recarga de <Ability:SelfCooldown/> turno.<br/>"
+LocFriendlyName="Faceoff"
+LocLongDescription="Fire once at every visible enemy with your pistol."
+LocHelpText="Fire once at every visible enemy with your pistol."
+LocPromotionPopupText="<Bullet/> Faceoff is best augmented by aggressive field positioning, granting a high chance to hit at multiple targets.<br/><Bullet/> Faceoff has a <Ability:SelfCooldown/> turn cooldown.<br/>"
 
 ; *********************************************************************************************************************
 ; ***                                      SPECIALIST ABILITIES                                                   ***
