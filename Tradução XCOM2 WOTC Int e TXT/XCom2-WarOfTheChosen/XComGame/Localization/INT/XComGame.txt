@@ -12202,26 +12202,30 @@ LongDescription="Com os variados ambientes em que nossas forças atuam, precisam
 DisplayName="Armadura Energizada"
 Summary="Ao integrar materiais alienígenas em designs mais adequados para nossas tropas, podemos criar uma armadura feita inteiramente de ligas recuperadas, alimentada por uma célula de Elerium. Será incrivelmente resistente, capaz de suportar até tiros diretos da maioria das armas alienígenas."
 CodeName="Goliath"
-LongDescription="Diante da falta de consideração dos aliens pela vida humana, preservar nossos soldados é tão importante quanto eliminar a ameaça alienígena. Nosso último protótipo utiliza mais ligas alienígenas do que qualquer outro, oferecendo durabilidade e mitigação de danos impressionantes. Testes iniciais mostram que a armadura pode resistir a um impacto direto de plasma a 5m, aumentando significativamente a sobrevivência. Recomendo não informar os soldados sobre a resistência do traje — não queremos que confiem demais nele. L. Shen."
+LongDescription="Pelo que vimos das atividades dos alienígenas e sua falta de consideração pela vida humana, preservar aqueles de nós que ainda restam deve se tornar uma tarefa tão importante quanto eliminar a própria ameaça alienígena. O sucesso de toda essa empreitada depende da nossa capacidade de manter os soldados saudáveis e prontos para o combate a qualquer momento. Com esse objetivo em mente, nosso mais recente protótipo de armadura utiliza mais das ligas alienígenas do que qualquer outro que já montamos, e como esperado, a durabilidade e o potencial de mitigação de dano são extremamente impressionantes. Testes iniciais mostram que a armadura é capaz de resistir a um disparo direto de plasma concentrado a 5m de distância, o suficiente para aumentar significativamente a chance de sobrevivência. Pretendo aconselhar a equipe sênior a não informar os soldados sobre a resistência percebida do traje, odiaria que nossas tropas passassem a confiar demais nele, apesar de nossas melhores intenções. L. Shen."
+
 
 [WraithSuit X2TechTemplate]
 DisplayName="Traje Wraith"
 Summary="Ao observar os aliens manipulando campos Psíquicos, teorizamos que pode ser possível atravessar barreiras físicas desenvolvendo um campo Psíquico integrado a um traje leve especializado."
 CodeName="Loki"
-LongDescription="Embora estejamos aprendendo mais sobre os usos dos aliens para energia Psíquica, ainda não exploramos essas capacidades para nossos próprios fins. O acesso ao alienígena biomecânico que chamamos de \"Codex\" nos deu insights valiosos. O Codex pode se deslocar entre objetos físicos e até dimensões, criando uma ruptura no espaço-tempo. Embora não recomende perseguir essa tecnologia, concebemos a possibilidade de espalhar um pulso Psíquico em um campo eletromagnético integrado a uma armadura, permitindo que o usuário atravesse objetos em nossa própria dimensão. O protótipo está estável, mas testes de campo continuam. L. Shen."
+LongDescription="Embora estejamos aprendendo mais sobre os diversos usos que os alienígenas fazem dos campos de energia psionica que manipulam, até agora não investimos muito tempo tentando aproveitar essas capacidades para nossos próprios propósitos. O acesso direto ao alienígena biomecânico que chamamos de \"Codex\" nos deu uma compreensão muito maior da natureza da Psionia do que qualquer uma de nossas experiências anteriores. O Codex possui a habilidade única de atravessar não apenas objetos físicos, mas também mundos e, em teoria, dimensões. Ao focar um pulso cuidadosamente equilibrado de energia psionica, o Codex cria uma fenda, efetivamente rasgando as camadas do espaço-tempo. As possíveis implicações dessa habilidade são difíceis de compreender, mas é seguro dizer que não recomendarei ao Comandante que prossigamos com esse avanço. No entanto, há outras áreas de interesse ligadas ao Codex. Durante nossos testes, concebemos a possibilidade de que o pulso psionico pudesse ser desviado, ou disperso, por um campo eletromagnético integrado a um traje de armadura. Isso criaria efetivamente uma fenda enfraquecida ao longo do traje, permitindo que o usuário atravesse objetos dentro da nossa própria dimensão. O protótipo é estável, mas os testes em campo continuam. L. Shen."
+
 
 [WARSuit X2TechTemplate]
 DisplayName="Traje W.A.R."
 Summary="Ao aproveitar o poder do Elerium, podemos criar uma nova armadura pesada capaz de gerar um campo de força defensivo, semelhante aos usados em naves alienígenas."
 CodeName="Titan"
-LongDescription="Com nosso estoque de Elerium limitado, hesitei em comprometer os cristais em um único projeto. No entanto, diante de eventos recentes, precisamos de uma armadura que supere todas as anteriores em durabilidade. Integramos uma célula de energia baseada em Elerium em um chassis pesado, permitindo um campo de força autônomo. Basicamente, replicamos a tecnologia usada pelos aliens em seus UFOs e a adaptamos para nossas tropas. Espero grandes coisas desta unidade. L. Shen."
+LongDescription="Com nosso suprimento de cristais de Elerium limitado ao que nossos soldados conseguem recuperar em campo, hesitei em recomendar que os comprometêssemos exclusivamente com qualquer projeto. No entanto, após os eventos recentes, parece necessário desenvolver um traje de armadura que supere em durabilidade e resistência todos os nossos projetos anteriores. Para isso, integrarmos uma célula de energia baseada em Elerium a uma de nossas estruturas mais pesadas. Com o incrível fluxo de energia do Elerium, o traje agora pode suportar o uso de um campo de força autônomo. Em termos simples, espelhamos as tecnologias mais comumente utilizadas pelos alienígenas na defesa de seus OVNIs e as fundimos com uma plataforma que nossas tropas podem usar em combate. Espero grandes resultados desta unidade. L. Shen."
+
 
 ;Autópsias
 [AlienBiotech X2TechTemplate]
 DisplayName="Biotecnologia Alienígena"
 Summary="Após remover o chip implantado pela ADVENT, temos a oportunidade de estudar seu funcionamento para entender melhor as motivações dos aliens."
 Codename="Nano"
-LongDescription="Realizamos um procedimento invasivo no Comandante para remover um implante no lobo occipital. Apesar dos riscos, o Comandante se recupera bem. O chip é acionado Psionicamente pelo cérebro do hospedeiro, funcionando como transmissor e receptor via um link Psíquico. Mesmo após a remoção, precisei blindar o dispositivo para conter seus campos Psíquicos residuais. Se minha teoria estiver correta, o Comandante pode ter tido um papel crucial nas operações da ADVENT. R. Tygan."
+LongDescription="Com pouco tempo para nos prepararmos, fomos forçados a realizar um procedimento extremamente invasivo no Comandante para remover o que parecia ser um implante cuidadosamente entrelaçado no lobo occipital. Embora todos os indícios fossem de que o dispositivo não foi feito para remoção, preocupações com a possível longevidade do Comandante, e o risco de manipulação remota pelos alienígenas, nos deixaram sem escolha.\n\nApesar das minhas preocupações, o Comandante até agora não apresentou efeitos duradouros e parece estar se recuperando além das expectativas. Quanto ao chip, minhas descobertas iniciais são, no mínimo, alarmantes. O dispositivo é impulsionado psiônicamente pela energia latente do cérebro do sujeito, neste caso, o Comandante. Mais importante ainda, o dispositivo parece funcionar como transmissor e receptor, transmitindo informações por algum tipo de ligação psíonica.\n\nMesmo após a remoção, tive que isolar o dispositivo para conter os campos psíônicos residuais ao redor do implante, com receio do que ele ainda possa ser capaz de fazer. Se minha teoria estiver correta, o Comandante pode ter desempenhado um papel muito mais importante nas operações da ADVENT do que jamais imaginamos. R. Tygan."
+
 
 [AutopsySectoid X2TechTemplate]
 DisplayName="Autópsia de Sectoide"
@@ -12788,27 +12792,103 @@ RótuloContatos=CONTATOS
 RótuloEnergia=ENERGIA
 
 [UIAvengerLinks]
-RótuloBotãoPonte=PONTE DE COMANDO
+LabelBridgeButton=PONTE
 
 [UIAvengerShortcuts]
-RótulosDeCategoria[eUIAvengerShortcutCat_Research]=PESQUISA
-RótulosDeCategoria[eUIAvengerShortcutCat_Engineering]=ENGENHARIA
-RótulosDeCategoria[eUIAvengerShortcutCat_Barracks]=ARMARIA
-RótulosDeCategoria[eUIAvengerShortcutCat_CommandersQuarters]=COMANDO
-RótulosDeCategoria[eUIAvengerShortcutCat_ShadowChamber]=CÂMARA SOMBRIA
+CategoryLabels[eUIAvengerShortcutCat_Research]=PESQUISA
+CategoryLabels[eUIAvengerShortcutCat_Engineering]=ENGENHARIA
+CategoryLabels[eUIAvengerShortcutCat_Barracks]=ARMARIA
+CategoryLabels[eUIAvengerShortcutCat_CommandersQuarters]=COMANDO
+CategoryLabels[eUIAvengerShortcutCat_ShadowChamber]=CÂMARA DAS SOMBRAS
 
-RótuloPesquisa_NovaPesquisa=Nova Pesquisa
-RótuloPesquisa_AlterarPesquisa=Alterar Pesquisa
-RótuloPesquisa_ProjetoSombrio=Projeto Sombrio
-RótuloPesquisa_AcessarArquivos=Acessar Arquivos
-RótuloPesquisa_VerCientistas=Ver Cientistas
-RótuloEngenharia_ConstruirItens=Construir Itens
-RótuloEngenharia_ConstruirInstalações=Construir Instalações
-RótuloEngenharia_VerInventário=Ver Inventário
-RótuloEngenharia_VerEngenheiros=Ver Engenheiros
-RótuloEngenharia_VerProjetos=Projetos Concluídos
-RótuloEngenharia_CampoDeProv
-m_strSwitchBreakthroughText=Mudar a pesquisa agora interromperá todo o progresso no avanço <XGParam:StrValue0/!ShadowTechName/>. Esta pesquisa não pode ser reiniciada.
+LabelResearch_NewResearch=Nova Pesquisa
+LabelResearch_ChangeResearch=Alterar Pesquisa
+LabelResearch_ShadowProject=Projeto Sombrio
+LabelResearch_AccessArchives=Acessar Arquivos
+LabelResearch_ViewScientists=Ver Cientistas
+LabelEngineering_BuildItems=Construir Itens
+LabelEngineering_BuildFacilities=Construir Instalações
+LabelEngineering_ViewInventory=Ver Inventário
+LabelEngineering_ViewEngineers=Ver Engenheiros
+LabelEngineering_ViewSchematics=Projetos Completos
+LabelEngineering_ProvingGround=Campo de Provas
+LabelBarracks_ViewSoldiers=Ver Soldados
+LabelBarracks_ViewPosters=Ver Fotos
+LabelBarracks_OTS=Escola de Táticas de Guerrilha
+LabelBarracks_AdvancedWarfareCenter=Enfermaria
+LabelBarracks_PsiChamber=Laboratório Psi
+LabelBarracks_Recruit=Recrutar
+LabelBarracks_Memorial=Memorial
+LabelCQ_Objectives=Objetivos
+LabelCQ_AvengerReport=Relatório da Avenger
+LabelCQ_XCOMDatabase=Arquivos da XCOM
+LabelCQ_DailyChallenge=Desafio Diário
+LabelCQ_ResistanceOrders=Ver Ordens da Resistência
+LabelShadowChamber_ShadowProject=Ver/Alterar Projeto Sombrio
+LabelShadowChamber_AccessArchives=Acessar Arquivos do Projeto Sombrio
+LabelShadowChamber_ShadowProjectNoneAvailable=Nenhum Projeto Sombrio Disponível
+
+TooltipResearch=%KEY:TWO% Ir para Pesquisa
+TooltipEngineering=%KEY:THREE% Ir para Engenharia
+TooltipBarracks=%KEY:FOUR% Ir para Armaria
+TooltipCommandersQuarters=%KEY:FIVE% Ir para Comando
+TooltipGeoscape=%KEY:ONE% Ir para Geoscape
+TooltipShadowChamber=%KEY:SIX% Ir para Câmara das Sombras
+
+TooltipResearch_NewResearch=Selecionar nova pesquisa científica
+TooltipResearch_ChangeResearch=Alterar a pesquisa atual
+TooltipResearch_ShadowProject=Selecionar novo projeto sombrio
+TooltipResearch_AccessArchives=Acessar os arquivos de pesquisa
+TooltipResearch_ReviewCredits=Revisar créditos de pesquisa obtidos
+TooltipResearch_ViewScientists=Ver a lista de cientistas
+
+TooltipEngineering_BuildItems=Construir itens em Engenharia
+TooltipEngineering_BuildFacilities=Construir novas instalações na Avenger
+TooltipEngineering_ViewInventory=Ver inventário da Engenharia
+TooltipEngineering_ViewEngineers=Ver lista de engenheiros
+TooltipEngineering_ViewSchematics=Ver lista de projetos
+TooltipEngineering_ProvingGround=Ver projetos do Campo de Provas
+
+TooltipBarracks_ViewSoldiers=Ver lista de soldados
+TooltipBarracks_ViewPosters=Ver fotos de propaganda
+TooltipBarracks_OTS=Visitar Escola de Táticas de Guerrilha
+TooltipBarracks_AdvancedWarfareCenter=Visitar Enfermaria
+TooltipBarracks_PsiChamber=Visitar Laboratório Psi
+TooltipBarracks_Recruit=Recrutar novos soldados
+TooltipBarracks_Memorial=Ver Memorial dos soldados caídos
+
+TooltipCQ_Objectives=Revisar todos os objetivos
+TooltipCQ_AvengerReport=Ver relatório da Avenger
+TooltipCQ_XCOMDatabase=Acessar informações nos Arquivos da XCOM
+TooltipCQ_DailyChallenge=Aceitar uma missão única
+TooltipCQ_ResistanceOrders=Revisar ordens atuais e potenciais da Resistência
+
+TooltipShadowChamber_ShadowProject=Ver projetos sombrios
+TooltipShadowChamber_AccessArchives=Acessar arquivos de projetos sombrios
+TooltipShadowChamber_ShadowProjectNoneAvailable=Nenhum projeto sombrio disponível no momento
+
+[UIChooseResearch]
+m_strTitle=ESCOLHER NOVA PESQUISA
+m_strEmptyListTitle=NENHUM PROJETO DISPONÍVEL
+m_strInventoryLabel=Projetos de Pesquisa Disponíveis:
+m_strBuy=PESQUISAR
+m_strResume=RETOMAR PESQUISA
+m_strTime=Progresso Estimado:
+m_strPriority=[PRIORIDADE]
+m_strInstant=[INSTANTÂNEO]
+m_strBreakthrough=[AVANÇO]
+m_strInspired=[INSPIRADO]
+m_strPaused=[PAUSADO]
+m_strStartShadowProjectTitle=INICIAR PROJETO SOMBRIO
+m_strStartShadowProjectText=Todos os projetos de pesquisa serão suspensos.
+m_strSwitchShadowProjectTitle=ALTERAR PROJETO SOMBRIO?
+m_strSwitchShadowProjectText=Alterar o Projeto Sombrio agora irá pausar todo o progresso em <XGParam:StrValue0/!ShadowTechName/>.
+m_strSwitchResearchTitle=ALTERAR PESQUISA?
+m_strSwitchResearchText=Alterar a pesquisa agora irá pausar todo o progresso em <XGParam:StrValue0/!ShadowTechName/>.
+m_strPauseResearch=PAUSAR PROJETO
+m_strSwitchInspiredText=Alterar a pesquisa agora encerrará todo o progresso em <XGParam:StrValue0/!ShadowTechName/>, e ela não será mais inspirada.
+m_strSwitchBreakthroughText=Alterar a pesquisa agora encerrará todo o progresso no avanço <XGParam:StrValue0/!ShadowTechName/>. Esta pesquisa não poderá ser reiniciada.
+
 
 [UIResearchArchives]
 m_strTitle=REVISAR ARQUIVOS DE PESQUISA
