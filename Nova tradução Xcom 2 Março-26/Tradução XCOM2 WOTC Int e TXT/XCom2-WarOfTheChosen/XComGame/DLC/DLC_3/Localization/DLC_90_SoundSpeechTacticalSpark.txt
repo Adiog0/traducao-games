@@ -1,0 +1,48 @@
+[Play_DLC3_T_SPK_Julian_Awakens_3 AkEvent]
+SpokenText="Analisando. A inteligência artificial desta instalação transferiu seus sistemas principais para o núcleo de memória da unidade de combate. Danos a este núcleo causariam a interrupção de todos os sistemas defensivos, permitindo a evacuação de Lily Shen."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SPK_Julian_Awakens_5 AkEvent]
+SpokenText="Afirmação. Posso tentar enfraquecer a armadura da unidade com meu armamento pesado."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SPK_Poison_Gas_Ambush_3 AkEvent]
+SpokenText="Ameaça iminente detectada. Ativando protocolos da sala de descontaminação. Por favor, permaneça dentro dela para sua proteção."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SPK_Poison_Gas_Deactivated_1 AkEvent]
+SpokenText="Os controles atmosféricos foram restaurados. Sistemas de ventilação em 100%. A sala agora está segura para entrada."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SPK_Poison_Gas_Deactivated_3 AkEvent]
+SpokenText="Os elevadores próximos ao console de controle atmosférico fornecem acesso direto ao telhado."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SPK_Spark_Is_Specialist_2 AkEvent]
+SpokenText="Designação secundária do drone: BIT. O design do protótipo precede o Rover de Lily Shen."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_T_SPK_Spark_Vs_Gas_1 AkEvent]
+SpokenText="Detectando sistemas secundários de suporte de vida nas proximidades. Esse gás não representa risco para meus sistemas. Tentando neutralizar a ameaça."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""

@@ -1,0 +1,3 @@
+[Play_,WILD,96,234,,,, AkEvent]
+SpokenText="96"
+

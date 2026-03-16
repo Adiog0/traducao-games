@@ -1,0 +1,6 @@
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_5 XComInteractiveLevelActor]
+FriendlyDisplayName="Chosen Sarcophagus"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_6 XComInteractiveLevelActor]
+FriendlyDisplayName="Distress Beacon"
+

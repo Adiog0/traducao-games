@@ -1,0 +1,6 @@
+
+[Subtitles]
+
+CIN_Autopsy_ArchonKing_01="Sempre fui particularmente fascinado por esta espécie desde a primeira vez que avistei uma durante minhas viagens. Embora tenha visto os horrores biomecânicos implantados pelos alienígenas durante a invasão inicial, essas criaturas pareciam ser algo completamente diferente. Possuindo um certo estilo não comumente encontrado entre os alienígenas, encontrei nessa criatura uma grande inteligência, mascarada pelo incrível domínio dos Anciões."
+CIN_Autopsy_BerserkerQueen_01="A mais perigosa das minhas três cobaias, a Rainha Berserker também representa o maior salto em direção aos limites do que poderia ser considerada uma pesquisa razoável e ética. Mesmo em tempos de guerra, devo considerar o fato de que ao fornecer a um ser alienígena já instável equipamentos que possam ampliar suas próprias capacidades, corro o risco de ultrapassar uma linha que jamais poderá ser retrocedida."
+CIN_Autopsy_ViperKing_01="Embora tenham se passado anos desde que realizei minha última autópsia, achei o processo naturalmente familiar. Este sujeito talvez fosse menos intimidador por suas semelhanças com diversas espécies de répteis encontradas naturalmente na Terra. Devido a extensas modificações citogenéticas nos cromossomos do sujeito, este pode muito bem ser o único exemplar macho de toda a espécie."

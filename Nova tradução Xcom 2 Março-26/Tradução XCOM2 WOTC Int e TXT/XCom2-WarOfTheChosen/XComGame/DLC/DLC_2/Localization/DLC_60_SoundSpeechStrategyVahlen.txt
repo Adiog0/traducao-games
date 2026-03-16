@@ -1,0 +1,6 @@
+[Play_DLC2_S_VAH_Garbled_Transmission AkEvent]
+SpokenText="...em toda esta área... são motivo de preocupação especial para... todas as tentativas devem ser feitas..."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""

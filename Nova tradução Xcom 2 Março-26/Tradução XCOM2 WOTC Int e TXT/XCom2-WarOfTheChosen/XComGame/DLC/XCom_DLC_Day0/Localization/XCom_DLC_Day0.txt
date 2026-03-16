@@ -1,0 +1,6 @@
+[UICustomize_Props]
+m_strFacePaint=Face Paint
+
+[X2DownloadableContentInfo_DLC_Day0]
+OldWarBackgroundMale="Um sobrevivente da antiga guerra, <XGParam:StrValue1/!FirstName/> era um oficial graduado dentro da X-Com quando a organização caiu. Há rumores de que ele sobreviveu à desastrosa operação pré-guerra da X-Com posteriormente referida como o \"Desastre Kiryu-Kai\".
+OldWarBackgroundFemale="Uma sobrevivente da antiga guerra, <XGParam:StrValue1/!FirstName/> era uma oficial graduada dentro da X-Com quando a organização caiu. Há rumores de que ela sobreviveu à desastrosa operação pré-guerra da X-Com posteriormente referida como o \"Desastre Kiryu-Kai.\"

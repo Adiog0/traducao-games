@@ -1,0 +1,9 @@
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_2 XComInteractiveLevelActor]
+FriendlyDisplayName="Container da ADVENT"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_3 XComInteractiveLevelActor]
+FriendlyDisplayName="Porta da Van"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_6 XComInteractiveLevelActor]
+FriendlyDisplayName="Container da ADVENT"
+

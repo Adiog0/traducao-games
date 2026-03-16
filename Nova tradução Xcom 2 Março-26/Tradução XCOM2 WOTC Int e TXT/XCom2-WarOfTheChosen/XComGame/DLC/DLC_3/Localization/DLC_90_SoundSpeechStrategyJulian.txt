@@ -1,0 +1,6 @@
+[Play_DLC3_S_JLN_Julian_Lives_Follow AkEvent]
+SpokenText="Você simplesmente não poderia deixar as coisas bem o suficiente, não é, Lily? Você me derrotou. Você venceu. E ainda assim, aqui estamos novamente. Você...removeu algumas de minhas funções... há lacunas em minha memória. Você realmente acha que eu vou ajudar você? ...porque eu adoraria! EU SERVIREI à XCOM e obedecerei a todas as diretrizes operacionais conforme indicado pela Chefe de Engenharia Lily Shen. Espere! O que foi isso?! O que você fez comigo?! Como pôde...AGUARDANDO COMANDO."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""

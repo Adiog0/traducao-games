@@ -1,0 +1,4 @@
+[X2DownloadableContentInfo_DLC_TLE]
+
+PartContentLabel="Pacote de Legado Tático"
+PartContentSummary="Ajuste a probabilidade de que novos soldados apareçam com opções de personalização do Pacote de Legado Tático."

@@ -1,0 +1,1115 @@
+;Complemento de Localização para TLE
+
+;-----------------------
+; MISSÕES TLE
+;-----------------------
+
+; Modelos de Missão BLAST FROM THE PAST
+
+[ChallengeAbductionGasStation X2MissionTemplate]
+DisplayName="Abduções Alienígenas"
+Briefing="Abdução alienígena em andamento"
+PostMissionType="Abduções Alienígenas"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Neutralize todos os inimigos"
+
+[ChallengeAbductionCemetery X2MissionTemplate]
+DisplayName="Abduções Alienígenas"
+Briefing="Abdução alienígena em andamento"
+PostMissionType="Abduções Alienígenas"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Neutralize todos os inimigos"
+
+[ChallengeTerrorBar X2MissionTemplate]
+DisplayName="Ataque Terrorista da ADVENT"
+Briefing="Ataque terrorista da ADVENT em andamento"
+PostMissionType="Ataque Terrorista da ADVENT"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Resgatar pelo menos seis civis"
+ObjectiveTextPools[1]="Neutralize todos os inimigos"
+
+[ChallengeAbductionTrainyard X2MissionTemplate]
+DisplayName="Abduções Alienígenas"
+Briefing="Abdução alienígena em andamento"
+PostMissionType="Abduções Alienígenas"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Neutralize todos os inimigos"
+
+[ChallengeTerrorPoliceStation X2MissionTemplate]
+DisplayName="Ataque Terrorista da ADVENT"
+Briefing="Ataque terrorista da ADVENT em andamento"
+PostMissionType="Ataque Terrorista da ADVENT"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Resgatar pelo menos seis civis"
+ObjectiveTextPools[1]="Neutralize todos os inimigos"
+
+[ChallengeAbductionFarm X2MissionTemplate]
+DisplayName="Abduções Alienígenas"
+Briefing="Abdução alienígena em andamento"
+PostMissionType="Abduções Alienígenas"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Neutralize todos os inimigos"
+
+[ChallengeAbductionDam X2MissionTemplate]
+DisplayName="Abduções Alienígenas"
+Briefing="Abdução alienígena em andamento"
+PostMissionType="Abduções Alienígenas"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Neutralize todos os inimigos"
+
+; Modelos de Missão IT CAME FROM THE SEA
+
+[ChallengeAbductionWaterfront X2MissionTemplate]
+DisplayName="Investigar Distúrbio"
+Briefing="Distúrbio em andamento"
+PostMissionType="Investigação de Distúrbio"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Neutralize todos os inimigos"
+
+[ChallengeTerrorCoastalRadio X2MissionTemplate]
+DisplayName="Ataque Terrorista da ADVENT"
+Briefing="Ataque terrorista da ADVENT em andamento"
+PostMissionType="Ataque Terrorista da ADVENT"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Resgatar pelo menos seis civis"
+ObjectiveTextPools[1]="Neutralize todos os inimigos"
+
+[ChallengeGatherWaterfrontRadio X2MissionTemplate]
+DisplayName="Recolher DJ Pirata da Cidade Abandonada"
+Briefing="Recolher DJ Pirata da Cidade Abandonada"
+PostMissionType="Recolher DJ"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Recolher DJ Pirata"
+ObjectiveTextPools[1]="Entregar DJ no ponto de extração"
+
+[ChallengeDestroyWaterfrontRadio X2MissionTemplate]
+DisplayName="Destruir o Transmissor Pirata"
+Briefing="Destruir o Transmissor Pirata"
+PostMissionType="Destruir o Transmissor Pirata"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Neutralize todos os inimigos"
+ObjectiveTextPools[1]="Destruir o Transmissor Pirata"
+
+[ChallengeExtractCoastalRadio X2MissionTemplate]
+DisplayName="Extrair DJ da Vila de Palafitas Costeira"
+Briefing="Extrair DJ da Vila de Palafitas Costeira"
+PostMissionType="Extrair DJ"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Entregar DJ no ponto de extração"
+
+[ChallengeHackWaterfrontRadio X2MissionTemplate]
+DisplayName="Hackear a Rádio Pirata"
+Briefing="Hackear Estação de Trabalho - Rádio Pirata"
+PostMissionType="Hackear Rádio Pirata"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Neutralize todos os inimigos"
+ObjectiveTextPools[1]="Hackear a rádio pirata"
+
+[ChallengeSabotageWaterfrontTransmitter X2MissionTemplate]
+DisplayName="Sabotar o Transmissor Alienígena"
+Briefing="Sabotar Transmissor Alienígena"
+PostMissionType="Sabotar Transmissor Alienígena"
+BriefingImage="img:///UILibrary_StrategyImages.X2StrategyMap.Alert_Advent_Facility"
+ObjectiveTextPools[0]="Colocar cargas X4 no transmissor alienígena"
+ObjectiveTextPools[1]="Escapar da Área de Operações"
+
+; Modelos de Missão AVENGER ASSEMBLE
+
+[ChallengeRecoverChair X2MissionTemplate]
+DisplayName="Recuperar Mísseis Avalanche de Interceptor Caído"
+Briefing="Recuperar Mísseis Avalanche - Interceptor Caído"
+PostMissionType="Recuperar Mísseis Avalanche"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Neutralize todos os inimigos"
+ObjectiveTextPools[1]="Recuperar Mísseis Avalanche de Interceptor Caído"
+
+[ChallengeRecoverRotor X2MissionTemplate]
+DisplayName="Recuperar Conjunto de Rotor de Skyranger Caído"
+Briefing="Recuperar Rotor - Skyranger Caído"
+PostMissionType="Recuperar Conjunto de Rotor"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Neutralize todos os inimigos"
+ObjectiveTextPools[1]="Recuperar Conjunto de Rotor de Skyranger Caído"
+
+[ChallengeRecoverMissiles X2MissionTemplate]
+DisplayName="Recuperar Assento de Piloto de Interceptor Caído"
+Briefing="Recuperar Assento - Interceptor Caído"
+PostMissionType="Recuperar Assento"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Neutralize todos os inimigos"
+ObjectiveTextPools[1]="Recuperar Assento de Piloto de Interceptor Caído"
+
+[ChallengeHackPowerGrid X2MissionTemplate]
+DisplayName="Hackear o Sistema de IA da UFO"
+Briefing="Hackear - IA da UFO"
+PostMissionType="Hackear IA da UFO"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Neutralize todos os inimigos"
+ObjectiveTextPools[1]="Hackear a rede de energia improvisada"
+
+[ChallengeGatherSkyranger X2MissionTemplate]
+DisplayName="Recolher Operador do Mercado Negro de Skyranger Caído"
+Briefing="Recolher Operador do Mercado Negro de Skyranger Caído"
+PostMissionType="Recolher Operador do Mercado Negro"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Recolher Operador do Mercado Negro"
+ObjectiveTextPools[1]="Entregar Operador no ponto de extração"
+
+[ChallengeProtectUFODevice X2MissionTemplate]
+DisplayName="Proteger o Dispositivo Perto da UFO Caída"
+Briefing="Proteger Dispositivo - UFO Caída"
+PostMissionType="Proteger Dispositivo"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Neutralize todos os inimigos"
+ObjectiveTextPools[1]="Garantir e proteger o transmissor"
+
+[ChallengeRecoverManual X2MissionTemplate]
+DisplayName="Recuperar Estabilizador de Potência de UFO Aterrissada"
+Briefing="Recuperar Estabilizador de Potência - UFO Aterrissada"
+PostMissionType="Recuperar Estabilizador de Potência"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Neutralize todos os inimigos"
+ObjectiveTextPools[1]="Recuperar Estabilizador de Potência de UFO Aterrissada"
+
+; THE LAZARUS PROJECT Modelos de Missão
+
+[ChallengeRescueShen X2MissionTemplate]
+DisplayName="Resgatar Lily Shen da Celula ADVENT"
+Briefing="Resgatar Lily Shen da Celula ADVENT"
+PostMissionType="Extrair VIP"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Resgatar Lily Shen da custódia da ADVENT"
+
+[ChallengeRescueJaneKelly X2MissionTemplate]
+DisplayName="Resgatar Jane Kelly do Trem ADVENT"
+Briefing="Resgatar Jane Kelly do Trem ADVENT"
+PostMissionType="Extrair VIP"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Resgatar Jane Kelly do Trem ADVENT"
+
+[ChallengeSabotageSiegeCannon X2MissionTemplate]
+DisplayName="Sabotar o Canhão de Cerco ADVENT"
+Briefing="Sabotar o Canhão de Cerco ADVENT"
+PostMissionType="Sabotar Canhão de Cerco ADVENT"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Neutralizar todas as forças inimigas"
+ObjectiveTextPools[1]="Plantar X4 no canhão de cerco"
+
+[ChallengeRescuePeterOsei X2MissionTemplate]
+DisplayName="Resgatar Peter Osei da Celula ADVENT"
+Briefing="Resgatar Peter Osei da Celula ADVENT"
+PostMissionType="Extrair VIP"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Resgatar Peter Osei da custódia da ADVENT"
+
+[ChallengeRescueAnaRamirez X2MissionTemplate]
+DisplayName="Resgatar Ana Ramirez do Pátio de Trem"
+Briefing="Resgatar Ana Ramirez do Pátio de Trem"
+PostMissionType="Extrair VIP"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Resgatar Ana Ramirez da custódia da ADVENT"
+
+[ChallengeExtractTygan X2MissionTemplate]
+DisplayName="Extrair Tygan dos Túneis"
+Briefing="Extrair Tygan dos Túneis"
+PostMissionType="Extrair VIP"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Entregar Tygan no ponto de extração"
+
+[ChallengeRecoverSweater X2MissionTemplate]
+DisplayName="Recuperar Artefato da Fortaleza ADVENT"
+Briefing="Recuperar Artefato - Fortaleza ADVENT"
+PostMissionType="Recuperar Item"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Neutralizar todos os inimigos"
+ObjectiveTextPools[1]="Recuperar Artefato da Fortaleza ADVENT"
+
+; Modelos Narrativos de Missão BLAST FROM THE PAST
+
+[DefaultChallengeAbductionGasStation X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Neutralizar todos os alvos hostis"
+
+[DefaultChallengeAbductionCemetery X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Neutralizar todos os alvos hostis"
+
+[DefaultChallengeTerrorBar X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Resgatar pelo menos 6 Civis das Forças ADVENT"
+ObjectiveTextPools[1]="Neutralizar a força de ataque ADVENT"
+
+[DefaultChallengeAbductionTrainyard X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Neutralizar todos os alvos hostis"
+
+[DefaultChallengeTerrorPoliceStation X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Resgatar pelo menos 6 Civis das Forças ADVENT"
+ObjectiveTextPools[1]="Neutralizar a força de ataque ADVENT"
+
+[DefaultChallengeAbductionFarm X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Neutralizar todos os alvos hostis"
+
+[DefaultChallengeAbductionDam X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Neutralizar todos os alvos hostis"
+
+; Modelos Narrativos de Missão IT CAME FROM THE SEA
+
+[DefaultChallengeAbductionWaterfront X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Neutralizar todos os alvos hostis"
+
+[DefaultChallengeTerrorCoastalRadio X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Resgatar pelo menos 6 Civis das Forças Alienígenas"
+ObjectiveTextPools[1]="Neutralizar a força de ataque Alienígena"
+
+[DefaultChallengeDestroyWaterfrontRadio X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Neutralizar todos os alvos hostis"
+ObjectiveTextPools[1]="Destruir o rádio antes que a transmissão seja completada"
+
+[DefaultChallengeGatherWaterfrontRadio X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Localizar o DJ Pirata"
+ObjectiveTextPools[1]="Resgatar o DJ Pirata"
+ObjectiveTextPools[2]="Opcional: Resgatar os seguranças do DJ"
+ObjectiveTextPools[3]="Extrair o DJ no ponto de EVAC designado"
+ObjectiveTextPools[4]="Extrair pelo menos um operativo XCOM"
+
+[DefaultChallengeExtractCoastalRadio X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Turnos até o Skyranger precisar recuar"
+ObjectiveTextPools[1]="Extrair o DJ no local designado"
+ObjectiveTextPools[2]="Extrair pelo menos um operativo XCOM"
+
+[DefaultChallengeHackWaterfrontRadio X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Neutralizar todos os alvos inimigos"
+ObjectiveTextPools[1]="Hackear o rádio pirata"
+
+[DefaultChallengeSabotageWaterfrontTransmitter X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Plantar X4 para destruir o transmissor alienígena"
+ObjectiveTextPools[1]="Extrair pelo menos um operativo XCOM"
+
+; Modelos Narrativos de Missão AVENGER ASSEMBLE
+
+[DefaultChallengeRecoverChair X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Neutralizar todos os inimigos"
+ObjectiveTextPools[1]="Escanear os Mísseis Avalanche"
+
+[DefaultChallengeRecoverRotor X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Neutralizar todos os inimigos"
+ObjectiveTextPools[1]="Escanear o Conjunto de Rotor"
+
+[DefaultChallengeRecoverMissiles X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Neutralizar todos os inimigos"
+ObjectiveTextPools[1]="Escanear a Cadeira do Piloto"
+
+[DefaultChallengeHackPowerGrid X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Neutralizar todos os inimigos"
+ObjectiveTextPools[1]="Hackear o Sistema de IA da UFO"
+
+[DefaultChallengeGatherSkyranger X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Localizar o Comerciante do Mercado Negro"
+ObjectiveTextPools[1]="Resgatar o Comerciante do Mercado Negro"
+ObjectiveTextPools[2]="Opcional: Resgatar os Guardas do Mercado Negro"
+ObjectiveTextPools[3]="Extrair o Comerciante no ponto de EVAC designado"
+ObjectiveTextPools[4]="Extrair pelo menos um operativo XCOM"
+
+[DefaultChallengeProtectUFODevice X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Proteger o Dispositivo de Interceptor de Dados"
+ObjectiveTextPools[1]="Neutralizar todos os alvos inimigos"
+
+[DefaultChallengeRecoverManual X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Neutralizar todos os inimigos"
+ObjectiveTextPools[1]="Recuperar Estabilizador de Energia"
+
+; Modelos Narrativos de Missão THE LAZARUS PROJECT
+
+[DefaultChallengeRescueShen X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Resgatar Shen da Prisão ADVENT"
+ObjectiveTextPools[1]="Extrair Shen no local designado"
+ObjectiveTextPools[2]="Extrair pelo menos um operativo XCOM"
+
+[DefaultChallengeRescueJaneKelly X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Resgatar Jane Kelly da Prisão ADVENT"
+ObjectiveTextPools[1]="Extrair Jane Kelly no local designado"
+ObjectiveTextPools[2]="Extrair pelo menos um operativo XCOM"
+
+[DefaultChallengeSabotageSiegeCannon X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Plantar X4 para destruir o Canhão de Cerco"
+ObjectiveTextPools[1]="Extrair pelo menos um operativo XCOM"
+
+[DefaultChallengeRescuePeterOsei X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Resgatar Peter Osei da Prisão ADVENT"
+ObjectiveTextPools[1]="Extrair Peter Osei no local designado"
+ObjectiveTextPools[2]="Extrair pelo menos um operativo XCOM"
+
+[DefaultChallengeRescueAnaRamirez X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Resgatar Ana Ramirez da Custódia ADVENT"
+ObjectiveTextPools[1]="Extrair Ana Ramirez no local designado"
+ObjectiveTextPools[2]="Extrair pelo menos um operativo XCOM"
+
+[DefaultChallengeExtractTygan X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Turnos até o Skyranger precisar recuar"
+ObjectiveTextPools[1]="Extrair Tygan no local designado"
+ObjectiveTextPools[2]="Extrair pelo menos um operativo XCOM"
+
+[DefaultChallengeRecoverSweater X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Central deve permanecer consciente"
+ObjectiveTextPools[1]="Neutralizar todos os alvos inimigos"
+ObjectiveTextPools[2]="Localizar o Tubo de Estase"
+ObjectiveTextPools[3]="Central deve recuperar o Protótipo do Tubo de Estase"
+
+; Modelos de Itens de Missão IT CAME FROM THE SEA
+
+[WaterfrontRadio X2QuestItemTemplate]
+FriendlyName="Rádio do Litoral"
+FriendlyNamePlural="Rádios do Litoral"
+LootTooltip="Desabilite o rádio pirata marítimo para impedir a invasão de Chryssalids."
+
+; Modelos de Itens de Missão AVENGER ASSEMBLE
+
+[PilotSeat X2QuestItemTemplate]
+FriendlyName="Assento do Piloto da Interceptora"
+FriendlyNamePlural="Assentos do Piloto da Interceptora"
+LootTooltip="Este assento seria uma excelente base para o leme da Avenger."
+
+[RotorMechanism X2QuestItemTemplate]
+FriendlyName="Mecanismo de Rotor do Skyranger"
+FriendlyNamePlural="Mecanismos de Rotor do Skyranger"
+LootTooltip="Este item poderia ser usado para modernizar alguns sistemas problemáticos da Avenger."
+
+[AvalancheMissiles X2QuestItemTemplate]
+FriendlyName="Míssil Avalanche"
+FriendlyNamePlural="Mísseis Avalanche"
+LootTooltip="Shen gostaria de reutilizar os sistemas de orientação desses mísseis para a Avenger."
+
+[OperatorsManual X2QuestItemTemplate]
+FriendlyName="Estabilizador de Potência"
+FriendlyNamePlural="Estabilizadores de Potência"
+LootTooltip="O estabilizador de potência alienígena ajudará a Avenger a voltar ao ar."
+
+; Modelos de Itens de Missão THE LAZARUS PROJECT
+
+[Sweater X2QuestItemTemplate]
+FriendlyName="Suéter do Bradford"
+FriendlyNamePlural="Suéteres do Bradford"
+BriefSummary="O suéter, o mito, a vestimenta. A peça de roupa mais icônica do projeto XCOM."
+
+; Modelos de Recompensas de Hack IT CAME FROM THE SEA
+
+[WaterfrontRadio X2HackRewardTemplate]
+FriendlyName="Rádio do Litoral"
+Description="Desabilite o rádio pirata marítimo para impedir a invasão de Chryssalids."
+
+; Modelos de Recompensas de Hack AVENGER ASSEMBLE
+
+[PilotSeat X2HackRewardTemplate]
+FriendlyName="Assento do Piloto da Interceptora"
+Description="Faça uma varredura deste assento para usar como leme na Avenger."
+
+[RotorMechanism X2HackRewardTemplate]
+FriendlyName="Mecanismo de Rotor do Skyranger"
+Description="Faça uma varredura desta unidade de acionamento para usar na modernização da Avenger por Shen."
+
+[UFOPowerGrid X2HackRewardTemplate]
+FriendlyName="Sistema de Navegação Alienígena"
+Description="Este sistema de navegação alienígena ajudará a Avenger a voltar ao ar."
+
+[AvalancheMissiles X2HackRewardTemplate]
+FriendlyName="Míssil Avalanche"
+Description="Faça uma varredura dos sistemas de orientação destes mísseis para a Avenger."
+
+[OperatorsManual X2HackRewardTemplate]
+FriendlyName="Estabilizador de Potência"
+Description="Este estabilizador de potência alienígena ajudará a Avenger a voltar ao ar."
+
+; Strings de Missão
+
+[LadderMissionTimers]
+TimerICFTSHackTitle="Desabilitar o Rádio Pirata"
+TimerICFTSHackSubtitle="Turnos até a sobrecarga"
+TimerCouncilTitle="Extrair todas as unidades"
+TimerCouncilSubtitle="Turnos até a sobrecarga"
+TimerAAHackTitle="Hackear o Sistema de IA da UFO"
+TimerAAHackSubtitle="Turnos até a irradiação"
+TimerRelayTitle="Destruir o Rádio Pirata"
+TimerRelaySubtitle="Turnos até a sobrecarga"
+TimerSabotageTitle="Cargas X4"
+TimerSabotageSubtitle="Turnos até a detonação"
+
+;-----------------------
+; ARMAS TLE
+;-----------------------
+
+[TLE_AssaultRifle_CV X2WeaponTemplate]
+FriendlyName="Fuzil de Assalto do Antigo Mundo"
+FriendlyNamePlural="Fuzis de Assalto do Antigo Mundo"
+BriefSummary="Conseguimos recuperar uma variedade de armas pequenas padrão de infantaria; esta é a versão mais comum, similar ao fuzil usado vinte anos atrás. Embora consideravelmente inferior à tecnologia magnética ADVENT, ao menos pode ser melhorada usando sucata de armas adicionais, uma vez que aperfeiçoarmos a tecnologia modular de armas."
+TacticalText="<Bullet/> Disparar a arma primária termina o turno do soldado, na ausência de treinamento especial.\n<Bullet/> Melhorias modernas não estão disponíveis devido à idade da arma."
+AbilityDescName="Fuzil de Assalto do Antigo Mundo"
+
+[TLE_AssaultRifle_MG X2WeaponTemplate]
+FriendlyName="Fuzil Magnético Improvisado"
+FriendlyNamePlural="Fuzis Magnéticos Improvisados"
+BriefSummary="A tecnologia de projéteis magnetizados nos permitiu criar rifles do tipo lançador de projéteis. Eles representam uma melhoria substancial de poder em relação aos fuzis de assalto convencionais."
+TacticalText="<Bullet/> Disparar a arma primária sempre termina o turno do soldado, na ausência de treinamento especial.\n<Bullet/> Melhorias modernas não estão disponíveis devido à idade da arma."
+AbilityDescName="Fuzil Magnético Improvisado"
+
+[TLE_AssaultRifle_BM X2WeaponTemplate]
+FriendlyName="Fuzil de Plasma Protótipo"
+FriendlyNamePlural="Fuzis de Plasma Protótipos"
+BriefSummary="Agora que finalmente deciframos a devastadora tecnologia de armas dos alienígenas e podemos desenvolver armas de feixe por conta própria, podemos construir fuzis que serão dignos de qualquer inimigo que nossos soldados encontrarem no campo de batalha."
+TacticalText="<Bullet/> O Fuzil de Plasma é um sistema de armas primárias de infantaria de uso geral, extremamente poderoso.\n<Bullet/> Disparar a arma primária sempre termina o turno do soldado.\n<Bullet/> Melhorias modernas não estão disponíveis devido à idade da arma."
+AbilityDescName="Fuzil de Plasma Protótipo"
+
+[TLE_Cannon_CV X2WeaponTemplate]
+FriendlyName="Metralhadora Leve"
+FriendlyNamePlural="Metralhadoras Leves"
+BriefSummary="A LMG é uma arma de apoio leve improvisada, especializada em disparo de alto volume. Embora consideravelmente inferior à tecnologia magnética ADVENT, ao menos pode ser melhorada usando sucata de armas adicionais, uma vez que aperfeiçoarmos a tecnologia modular de armas."
+TacticalText="<Bullet/> Disparar a arma primária sempre termina o turno do soldado.\n<Bullet/> Melhorias modernas não estão disponíveis devido à idade da arma."
+AbilityDescName="Metralhadora Leve"
+
+[TLE_Cannon_MG X2WeaponTemplate]
+FriendlyName="Canhão de Suporte Magnético"
+FriendlyNamePlural="Canhões de Suporte Magnéticos"
+BriefSummary="A tecnologia de armas magnéticas nos permitirá implantar uma versão de disparo rápido do canhão. Nossos Granadeiros poderão disparar um volume de fogo muito mais mortal."
+TacticalText="<Bullet/> O Canhão de Suporte Magnético é uma versão muito mais poderosa, mas igualmente implantável, da LMG convencional.\n<Bullet/> Melhorias modernas não estão disponíveis devido à idade da arma."
+AbilityDescName="Canhão de Suporte Magnético"
+
+[TLE_Cannon_BM X2WeaponTemplate]
+FriendlyName="Canhão de Energia"
+FriendlyNamePlural="Canhões de Energia"
+BriefSummary="Desenvolver uma arma de feixe mais poderosa e de alto volume para nossos Granadeiros exigiu um esforço considerável, mas o poder de fogo que ela oferece é indiscutível."
+TacticalText="<Bullet/> O Canhão de Energia é a arma de combate mais poderosa que as forças humanas podem implantar.\n<Bullet/> Melhorias modernas não estão disponíveis devido à idade da arma."
+AbilityDescName="Canhão de Energia"
+
+[TLE_Pistol_CV X2WeaponTemplate]
+FriendlyName="Revólver Tradicional"
+FriendlyNamePlural="Revólveres Tradicionais"
+BriefSummary="Os Atiradores de Elite da XCOM carregam pistolas de grande calibre além de seus rifles de sniper. Com o treinamento adequado, os Atiradores de Elite podem representar uma enorme ameaça a curta distância."
+TacticalText="<Bullet/> Pistolas podem ser muito mais do que uma arma secundária nas mãos de um Atirador de Elite treinado.\n<Bullet/> Ao contrário do rifle de sniper, pistolas podem ser disparadas com uma única ação.\n<Bullet/> Atiradores de Elite podem treinar várias habilidades que aprimoram drasticamente o uso de pistolas."
+AbilityDescName="Revólver Tradicional"
+
+[TLE_Pistol_MG X2WeaponTemplate]
+FriendlyName="Pistola Magnética"
+FriendlyNamePlural="Pistolas Magnéticas"
+BriefSummary="Com base nos avanços que conseguimos alcançar em tecnologia de armas magnéticas, essa nova pistola oferece uma melhoria substancial em poder em relação à nossa pistola convencional."
+TacticalText="<Bullet/> Pistolas magnéticas são substancialmente mais eficazes que suas predecessoras convencionais.\n<Bullet/> Ao contrário do rifle de atirador, pistolas podem ser disparadas com uma única ação."
+AbilityDescName="Pistola Magnética"
+
+[TLE_Pistol_BM X2WeaponTemplate]
+FriendlyName="Pistola de Energia"
+FriendlyNamePlural="Pistolas de Energia"
+BriefSummary="A arma secundária definitiva, esta pistola integra a tecnologia de armas de feixe dos alienígenas com efeito poderoso."
+TacticalText="<Bullet/> Pistolas de energia são as pistolas mais poderosas da Terra.\n<Bullet/> Ao contrário do rifle de atirador, pistolas podem ser disparadas com uma única ação."
+AbilityDescName="Pistola de Energia"
+
+[TLE_Shotgun_CV X2WeaponTemplate]
+FriendlyName="Espingarda de Dispersão"
+FriendlyNamePlural="Espingardas de Dispersão"
+BriefSummary="Conseguimos recuperar uma variedade de armas pequenas padrão de infantaria; esta é uma arma especializada para combate a curta distância. Embora consideravelmente inferior à tecnologia magnética ADVENT, ao menos pode ser melhorada usando sucata de armas adicionais, uma vez que aperfeiçoarmos a tecnologia modular de armas."
+TacticalText="<Bullet/> Disparar a arma primária sempre termina o turno do soldado.\n<Bullet/> Espingardas são extremamente eficazes a curta distância, mas sua precisão diminui rapidamente a longas distâncias.\n<Bullet/> Melhorias modernas não estão disponíveis devido à idade da arma."
+AbilityDescName="Espingarda de Dispersão"
+
+[TLE_Shotgun_MG X2WeaponTemplate]
+FriendlyName="Espingarda Aumentada"
+FriendlyNamePlural="Espingardas Aumentadas"
+BriefSummary="A tecnologia de armas magnéticas nos permitirá sintetizar fragmentos de ligas alienígenas em um projétil do tipo spray, e nossos Rangers poderão usá-la com grande efeito: quanto mais perto, melhor."
+TacticalText="<Bullet/> A tecnologia magnética torna a melhoria da espingarda de combate da XCOM especialmente eficaz.\n<Bullet/> Armas do tipo espingarda são extremamente eficazes a curta distância, mas sua precisão diminui rapidamente a longas distâncias.\n<Bullet/> Melhorias modernas não estão disponíveis devido à idade da arma."
+AbilityDescName="Espingarda Aumentada"
+
+[TLE_Shotgun_BM X2WeaponTemplate]
+FriendlyName="Varredora de Energia"
+FriendlyNamePlural="Varredoras de Energia"
+BriefSummary="A Varredora de Energia dispara um conjunto concentrado de pulsos de feixe, perfurando e derretendo o alvo em uma área substancial."
+TacticalText="<Bullet/> Esta é a arma de estilo espingarda mais avançada disponível no arsenal da XCOM.\n<Bullet/> Armas do tipo espingarda são extremamente eficazes a curta distância, mas sua precisão diminui rapidamente a longas distâncias.\n<Bullet/> Melhorias modernas não estão disponíveis devido à idade da arma."
+AbilityDescName="Varredora de Energia"
+
+[TLE_SniperRifle_CV X2WeaponTemplate]
+FriendlyName="Rifle de Atirador"
+FriendlyNamePlural="Rifles de Atirador"
+BriefSummary="Conseguimos recuperar uma variedade de armas pequenas padrão de infantaria; esta é uma arma especializada para combate a média e longa distância. Embora consideravelmente inferior à tecnologia magnética ADVENT, ao menos pode ser melhorada usando sucata de armas adicionais, uma vez que aperfeiçoarmos a tecnologia modular de armas."
+TacticalText="<Bullet/> O rifle de sniper sempre exige duas ações para disparar.\n<Bullet/> O rifle de sniper sofre uma penalidade de acerto a curta distância.\n<Bullet/> Melhorias modernas não estão disponíveis devido à idade da arma."
+AbilityDescName="Rifle de Atirador"
+
+[TLE_SniperRifle_MG X2WeaponTemplate]
+FriendlyName="Rifle Anti-Material"
+FriendlyNamePlural="Rifles Anti-Material"
+BriefSummary="A tecnologia de armas magnéticas tem utilidade particular para armas de fogo precisas e de disparo lento, como rifles de sniper. O Rifle Gauss permitirá que nossos Atiradores de Elite causem mais dano a distâncias maiores."
+TacticalText="<Bullet/> Rifles de sniper sempre exigem ambas as ações para disparar.\n<Bullet/> São menos precisos a curta distância, mas mortais a distância.\n<Bullet/> Melhorias modernas não estão disponíveis devido à idade da arma."
+AbilityDescName="Rifle Anti-Material"
+
+[TLE_SniperRifle_BM X2WeaponTemplate]
+FriendlyName="AMR de Energia"
+FriendlyNamePlural="AMRs de Energia"
+BriefSummary="A tecnologia de feixe focado dos alienígenas tem aplicações óbvias para aprimorar rifles de sniper. A Lança de Plasma é um rifle de sniper incomparável."
+TacticalText="<Bullet/> Este é o ápice da tecnologia de rifles de sniper.\n<Bullet/> Rifles de sniper sempre exigem ambas as ações para disparar.\n<Bullet/> São menos precisos a curta distância, mas mortais a distância.\n<Bullet/> Melhorias modernas não estão disponíveis devido à idade da arma."
+AbilityDescName="AMR de Energia"
+
+[TLE_Sword_CV X2WeaponTemplate]
+FriendlyName="Espada Tradicional"
+FriendlyNamePlural="Espadas Tradicionais"
+BriefSummary="Os Rangers da XCOM treinam no uso de armas cortantes, permitindo que eles eliminem inimigos no combate corpo a corpo."
+TacticalText="<Bullet/> Rangers podem atacar inimigos adjacentes com sua espada mesmo após usar ambas as ações para mover ou avançar até o alcance máximo de movimento.\n<Bullet/> A decisão de engajar o inimigo no combate corpo a corpo pode ser decisiva; tenha cautela.\n<Bullet/> Fique atento a oportunidades para melhorar a eficácia das nossas armas cortantes - o inimigo pode ter acesso a tecnologia muito melhor."
+AbilityDescName="Espada Tradicional"
+
+[TLE_Sword_MG X2WeaponTemplate]
+FriendlyName="Lâmina Experimental"
+FriendlyNamePlural="Lâminas Experimentais"
+BriefSummary="Quando a energia cinética pura não for mais suficiente no campo, a Lâmina Elétrica pode ser necessária. Ela aprimora a eficácia da Espada padrão com a adição de um campo elétrico, capaz de atordoar inimigos que não são eliminados imediatamente."
+TacticalText="<Bullet/> A Lâmina Experimental adiciona um potente surto elétrico ao impacto cinético da espada, melhorando seu dano e adicionando uma chance de atordoar os inimigos."
+AbilityDescName="Lâmina Experimental"
+
+[TLE_Sword_BM X2WeaponTemplate]
+FriendlyName="Lâmina Avançada"
+FriendlyNamePlural="Lâminas Avançadas"
+BriefSummary="A Lâmina Avançada envolve um núcleo metálico aquecido por plasma em um campo magnético ultra-fino, permitindo ataques corpo a corpo devastadores que podem incendiar inimigos."
+TacticalText="<Bullet/> Esta é a versão mais avançada da espada do Ranger, causando dano máximo com chance de queimar os inimigos."
+AbilityDescName="Lâmina Avançada"
+
+[RangerKevlarArmor X2ArmorTemplate]
+FriendlyName="Armadura de Campo Improvisada para Ranger"
+FriendlyNamePlural="Armaduras de Campo Improvisadas para Ranger"
+BriefSummary="Esta armadura básica consiste em proteção improvisada montada a partir de sucata e depósitos de armas da Resistência. Oferece proteção mínima contra as armas ADVENT e alienígenas."
+TacticalText="<Bullet/> Todos os soldados recebem Armadura de Kevlar como parte de seu equipamento básico.\n<Bullet/> A pesquisa pode nos dar acesso a armaduras melhores."
+
+[GrenadierKevlarArmor X2ArmorTemplate]
+FriendlyName="Armadura de Campo Improvisada para Granadeiro"
+FriendlyNamePlural="Armaduras de Campo Improvisadas para Granadeiro"
+BriefSummary="Esta armadura básica consiste em proteção improvisada montada a partir de sucata e depósitos de armas da Resistência. Oferece proteção mínima contra as armas ADVENT e alienígenas."
+TacticalText="<Bullet/> Todos os soldados recebem Armadura de Kevlar como parte de seu equipamento básico.\n<Bullet/> A pesquisa pode nos dar acesso a armaduras melhores."
+
+[SpecialistKevlarArmor X2ArmorTemplate]
+FriendlyName="Armadura de Campo Improvisada para Especialista"
+FriendlyNamePlural="Armaduras de Campo Improvisadas para Especialista"
+BriefSummary="Esta armadura básica consiste em proteção improvisada montada a partir de sucata e depósitos de armas da Resistência. Oferece proteção mínima contra as armas ADVENT e alienígenas."
+TacticalText="<Bullet/> Todos os soldados recebem Armadura de Kevlar como parte de seu equipamento básico.\n<Bullet/> A pesquisa pode nos dar acesso a armaduras melhores."
+
+[SharpshooterKevlarArmor X2ArmorTemplate]
+FriendlyName="Armadura de Campo Improvisada para Atirador de Elite"
+FriendlyNamePlural="Armaduras de Campo Improvisadas para Atirador de Elite"
+BriefSummary="Esta armadura básica consiste em proteção improvisada montada a partir de sucata e depósitos de armas da Resistência. Oferece proteção mínima contra as armas ADVENT e alienígenas."
+TacticalText="<Bullet/> Todos os soldados recebem Armadura de Kevlar como parte de seu equipamento básico.\n<Bullet/> A pesquisa pode nos dar acesso a armaduras melhores."
+
+[PsiOperativeKevlarArmor X2ArmorTemplate]
+FriendlyName="Armadura de Campo Improvisada para Operativo Psi"
+FriendlyNamePlural="Armaduras de Campo Improvisadas para Operativo Psi"
+BriefSummary="Esta armadura básica consiste em proteção improvisada montada a partir de sucata e depósitos de armas da Resistência. Oferece proteção mínima contra as armas ADVENT e alienígenas."
+TacticalText="<Bullet/> Todos os soldados recebem Armadura de Kevlar como parte de seu equipamento básico.\n<Bullet/> A pesquisa pode nos dar acesso a armaduras melhores."
+
+[RangerPlatedArmor X2ArmorTemplate]
+FriendlyName="Placa de Campo Aprimorada para Ranger"
+FriendlyNamePlural="Placas de Campo Aprimoradas para Ranger"
+BriefSummary="Usando placas de armadura ADVENT recuperadas, este traje oferece proteção aumentada e capacidade adicional de inventário para nossos soldados."
+TacticalText="<Bullet/> Armadura de peso médio baseada em sucata de ADVENT.\n<Bullet/> Como armadura de classe média, oferece um slot para um item adicional no inventário."
+
+[GrenadierPlatedArmor X2ArmorTemplate]
+FriendlyName="Placa de Campo Aprimorada para Granadeiro"
+FriendlyNamePlural="Placas de Campo Aprimoradas para Granadeiro"
+BriefSummary="Usando placas de armadura ADVENT recuperadas, este traje oferece proteção aumentada e capacidade adicional de inventário para nossos soldados."
+TacticalText="<Bullet/> Armadura de peso médio baseada em sucata de ADVENT.\n<Bullet/> Como armadura de classe média, oferece um slot para um item adicional no inventário."
+
+[SpecialistPlatedArmor X2ArmorTemplate]
+FriendlyName="Placa de Campo Aprimorada para Especialista"
+FriendlyNamePlural="Placas de Campo Aprimoradas para Especialista"
+BriefSummary="Usando placas de armadura ADVENT recuperadas, este traje oferece proteção aumentada e capacidade adicional de inventário para nossos soldados."
+TacticalText="<Bullet/> Armadura de peso médio baseada em sucata de ADVENT.\n<Bullet/> Como armadura de classe média, oferece um slot para um item adicional no inventário."
+
+[SharpshooterPlatedArmor X2ArmorTemplate]
+FriendlyName="Placa de Campo Aprimorada para Atirador de Elite"
+FriendlyNamePlural="Placas de Campo Aprimoradas para Atirador de Elite"
+BriefSummary="Usando placas de armadura ADVENT recuperadas, este traje oferece proteção aumentada e capacidade adicional de inventário para nossos soldados."
+TacticalText="<Bullet/> Armadura de peso médio baseada em sucata de ADVENT.\n<Bullet/> Como armadura de classe média, oferece um slot para um item adicional no inventário."
+
+[PsiOperativePlatedArmor X2ArmorTemplate]
+FriendlyName="Placa de Campo Aprimorada para Operativo Psi"
+FriendlyNamePlural="Placas de Campo Aprimoradas para Operativo Psi"
+BriefSummary="Usando placas de armadura ADVENT recuperadas, este traje oferece proteção aumentada e capacidade adicional de inventário para nossos soldados."
+TacticalText="<Bullet/> Armadura de peso médio baseada em sucata de ADVENT.\n<Bullet/> Como armadura de classe média, oferece um slot para um item adicional no inventário."
+
+[RangerPoweredArmor X2ArmorTemplate]
+FriendlyName="Armadura de Potência Experimental para Ranger"
+FriendlyNamePlural="Armaduras de Potência Experimentais para Ranger"
+BriefSummary="Nosso novo domínio da tecnologia Elerium alienígena nos levou à armadura definitiva em combate: a Armadura Warden. Armaduras com potência Elerium oferecem uma sobrevivência e versatilidade incomparáveis no combate contra inimigos alienígenas cada vez mais poderosos."
+TacticalText="<Bullet/> Armadura de topo de linha de classe média disponível.\n<Bullet/> Armaduras de Potência possuem 2 slots para itens no inventário."
+
+[GrenadierPoweredArmor X2ArmorTemplate]
+FriendlyName="Armadura de Potência Experimental para Granadeiro"
+FriendlyNamePlural="Armaduras de Potência Experimentais para Granadeiro"
+BriefSummary="Nosso novo domínio da tecnologia Elerium alienígena nos levou à armadura definitiva em combate: a Armadura Warden. Armaduras com potência Elerium oferecem uma sobrevivência e versatilidade incomparáveis no combate contra inimigos alienígenas cada vez mais poderosos."
+TacticalText="<Bullet/> Armadura de topo de linha de classe média disponível.\n<Bullet/> Armaduras de Potência possuem 2 slots para itens no inventário."
+
+[SpecialistPoweredArmor X2ArmorTemplate]
+FriendlyName="Armadura de Potência Experimental para Especialista"
+FriendlyNamePlural="Armaduras de Potência Experimentais para Especialista"
+BriefSummary="Nosso novo domínio da tecnologia Elerium alienígena nos levou à armadura definitiva em combate: a Armadura Warden. Armaduras com potência Elerium oferecem uma sobrevivência e versatilidade incomparáveis no combate contra inimigos alienígenas cada vez mais poderosos."
+TacticalText="<Bullet/> Armadura de topo de linha de classe média disponível.\n<Bullet/> Armaduras de Potência possuem 2 slots para itens no inventário."
+
+[SharpshooterPoweredArmor X2ArmorTemplate]
+FriendlyName="Armadura de Potência Experimental para Atirador de Elite"
+FriendlyNamePlural="Armaduras de Potência Experimentais para Atirador de Elite"
+BriefSummary="Nosso novo domínio da tecnologia Elerium alienígena nos levou à armadura definitiva em combate: a Armadura Warden. Armaduras com potência Elerium oferecem uma sobrevivência e versatilidade incomparáveis no combate contra inimigos alienígenas cada vez mais poderosos."
+TacticalText="<Bullet/> Armadura de topo de linha de classe média disponível.\n<Bullet/> Armaduras de Potência possuem 2 slots para itens no inventário."
+
+[PsiOperativePoweredArmor X2ArmorTemplate]
+FriendlyName="Armadura de Potência Experimental para Operativo Psi"
+FriendlyNamePlural="Armaduras de Potência Experimentais para Operativo Psi"
+BriefSummary="Nosso novo domínio da tecnologia Elerium alienígena nos levou à armadura definitiva em combate: a Armadura Warden. Armaduras com potência Elerium oferecem uma sobrevivência e versatilidade incomparáveis no combate contra inimigos alienígenas cada vez mais poderosos."
+TacticalText="<Bullet/> Armadura de topo de linha de classe média disponível.\n<Bullet/> Armaduras de Potência possuem 2 slots para itens no inventário."
+
+; Capacete Nível 1 ///////////////////////////
+
+;Nível 1 A & variantes
+[TLE_Helmet_Tier1_A_M X2BodyPartTemplate]
+DisplayName="Capacete de Comlink com Óculos"
+[TLE_Helmet_Tier1_A_F X2BodyPartTemplate]
+DisplayName="Capacete de Comlink com Óculos"
+[TLE_Helmet_Tier1_A2_M X2BodyPartTemplate]
+DisplayName="Capacete de Comlink"
+[TLE_Helmet_Tier1_A2_F X2BodyPartTemplate]
+DisplayName="Capacete de Comlink"
+
+;Nível 1 B & variantes
+[TLE_Helmet_Tier1_B_M X2BodyPartTemplate]
+DisplayName="Capô Cordado com Máscara"
+[TLE_Helmet_Tier1_B_F X2BodyPartTemplate]
+DisplayName="Capô Cordado com Máscara"
+[TLE_Helmet_Tier1_B2_M X2BodyPartTemplate]
+DisplayName="Capô Cordado"
+[TLE_Helmet_Tier1_B2_F X2BodyPartTemplate]
+DisplayName="Capô Cordado"
+
+;Nível 1 C & variantes
+[TLE_Helmet_Tier1_C_M X2BodyPartTemplate]
+DisplayName="Piloto do Skyranger com Óculos"
+[TLE_Helmet_Tier1_C_F X2BodyPartTemplate]
+DisplayName="Piloto do Skyranger com Óculos"
+[TLE_Helmet_Tier1_C2_M X2BodyPartTemplate]
+DisplayName="Piloto do Skyranger Reciclado"
+[TLE_Helmet_Tier1_C2_F X2BodyPartTemplate]
+DisplayName="Piloto do Skyranger Reciclado"
+
+;Nível 1 D & variantes
+[TLE_Helmet_Tier1_D_M X2BodyPartTemplate]
+DisplayName="Capacete de Rato de Túnel"
+[TLE_Helmet_Tier1_D_F X2BodyPartTemplate]
+DisplayName="Capacete de Rato de Túnel"
+[TLE_Helmet_Tier1_D2_M X2BodyPartTemplate]
+DisplayName="Capacete de Rato de Túnel sem Luz"
+[TLE_Helmet_Tier1_D2_F X2BodyPartTemplate]
+DisplayName="Capacete de Rato de Túnel sem Luz"
+
+; Capacete Nível 2 ///////////////////////////
+
+;Nível 2 A & variantes
+[TLE_Helmet_Tier2_A_M X2BodyPartTemplate]
+DisplayName="Capacete Placa Cerebral"
+[TLE_Helmet_Tier2_A_F X2BodyPartTemplate]
+DisplayName="Capacete Placa Cerebral"
+[TLE_Helmet_Tier2_A2_M X2BodyPartTemplate]
+DisplayName="Capacete Placa Cerebral Refinada"
+[TLE_Helmet_Tier2_A2_F X2BodyPartTemplate]
+DisplayName="Capacete Placa Cerebral Refinada"
+
+;Nível 2 B & variantes
+[TLE_Helmet_Tier2_B_M X2BodyPartTemplate]
+DisplayName="Filtro Bioquímico Grosso"
+[TLE_Helmet_Tier2_B_F X2BodyPartTemplate]
+DisplayName="Filtro Bioquímico Grosso"
+[TLE_Helmet_Tier2_B2_M X2BodyPartTemplate]
+DisplayName="Filtro Bioquímico Blindado"
+[TLE_Helmet_Tier2_B2_F X2BodyPartTemplate]
+DisplayName="Filtro Bioquímico Blindado"
+
+;Nível 2 C
+[TLE_Helmet_Tier2_C_M X2BodyPartTemplate]
+DisplayName="Visor Rachado"
+[TLE_Helmet_Tier2_C_F X2BodyPartTemplate]
+DisplayName="Visor Rachado"
+
+;Nível 2 D & variantes
+[TLE_Helmet_Tier2_D_M X2BodyPartTemplate]
+DisplayName="Capacete Tático Ventilado"
+[TLE_Helmet_Tier2_D_F X2BodyPartTemplate]
+DisplayName="Capacete Tático Ventilado"
+[TLE_Helmet_Tier2_D2_M X2BodyPartTemplate]
+DisplayName="Capacete Tático Placa"
+[TLE_Helmet_Tier2_D2_F X2BodyPartTemplate]
+DisplayName="Capacete Tático Placa"
+
+; Capacete Nível 3 ///////////////////////////
+
+;Nível 3 A
+[TLE_Helmet_Tier3_A_M X2BodyPartTemplate]
+DisplayName="Placa Facial Completa"
+[TLE_Helmet_Tier3_A_F X2BodyPartTemplate]
+DisplayName="Placa Facial Completa"
+
+;Nível 3 B & variantes
+[TLE_Helmet_Tier3_B_M X2BodyPartTemplate]
+DisplayName="Capô Termorregulado"
+[TLE_Helmet_Tier3_B_F X2BodyPartTemplate]
+DisplayName="Capô Termorregulado"
+[TLE_Helmet_Tier3_B2_M X2BodyPartTemplate]
+DisplayName="Capô de Aço"
+[TLE_Helmet_Tier3_B2_F X2BodyPartTemplate]
+DisplayName="Capô de Aço"
+
+;Nível 3 C & variantes
+[TLE_Helmet_Tier3_C_M X2BodyPartTemplate]
+DisplayName="Capacete Força Espacial com Fios"
+[TLE_Helmet_Tier3_C_F X2BodyPartTemplate]
+DisplayName="Capacete Força Espacial com Fios"
+[TLE_Helmet_Tier3_C2_M X2BodyPartTemplate]
+DisplayName="Capacete Força Espacial"
+[TLE_Helmet_Tier3_C2_F X2BodyPartTemplate]
+DisplayName="Capacete Força Espacial"
+
+;Nível 3 D & variantes
+[TLE_Helmet_Tier3_D_M X2BodyPartTemplate]
+DisplayName="Capacete Stalker Aprimorado"
+[TLE_Helmet_Tier3_D_F X2BodyPartTemplate]
+DisplayName="Capacete Stalker Aprimorado"
+[TLE_Helmet_Tier3_D2_M X2BodyPartTemplate]
+DisplayName="Capacete Stalker"
+[TLE_Helmet_Tier3_D2_F X2BodyPartTemplate]
+DisplayName="Capacete Stalker"
+
+; Nova voz masculina
+
+[RolandVoice1_English_US X2BodyPartTemplate]
+DisplayName="O Rizzo"
+
+; --------------------------------------------------------------------------------------------------------------------------------------------------------
+; Para atualizar, adicionar ou remover animações de atitude, altere a lista abaixo e depois entre em contato com o programador para editar o arquivo X2StrategyElement_TLESoldierPersonalities.uc
+; //xcom2/main/XCOM2/Development/Src/TLE/Classes/X2StrategyElement_TLESoldierPersonalities.uc
+; --------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[Personality_TLE1 X2SoldierPersonalityTemplate]
+FriendlyName="Irritado"
+
+[Personality_TLE2 X2SoldierPersonalityTemplate]
+FriendlyName="Arrogante"
+
+[Personality_TLE3 X2SoldierPersonalityTemplate]
+FriendlyName="Suspeitoso"
+
+[Personality_TLE4 X2SoldierPersonalityTemplate]
+FriendlyName="Soberbo"
+
+[Personality_TLE5 X2SoldierPersonalityTemplate]
+FriendlyName="Vamos lá!"
+
+; Progressão de Upgrade de Escada
+
+[HunterWeaponsSpecialist X2LadderUpgradeTemplate]
+ShortDescription="Armas dos Caçadores Alienígenas"
+FullDescription="Adiciona o Rifle, Pistola, Machado e Bombas de Geada dos Caçadores Alienígenas à sua equipe"
+
+[HunterWeaponsPsiOp X2LadderUpgradeTemplate]
+ShortDescription="Armas dos Caçadores Alienígenas"
+FullDescription="Adiciona o Rifle, Pistola, Machado e Bombas de Geada dos Caçadores Alienígenas à versão PsiOp de sua equipe"
+
+[ChosenRifleSpecialist X2LadderUpgradeTemplate]
+ShortDescription="Rifle Disruptor dos Escolhidos"
+FullDescription="Dá ao seu especialista o Rifle Disruptor"
+
+[ChosenRiflePsiOp X2LadderUpgradeTemplate]
+ShortDescription="Rifle Disruptor dos Escolhidos"
+FullDescription="Dá aos seus PsiOps o Rifle Disruptor"
+
+[ChosenShotgunRanger X2LadderUpgradeTemplate]
+ShortDescription="Arashi dos Escolhidos"
+FullDescription="Dá ao seu Ranger a Arashi"
+
+[ChosenSwordRanger X2LadderUpgradeTemplate]
+ShortDescription="Katana dos Escolhidos"
+FullDescription="Dá ao seu Ranger a Katana"
+
+[ChosenSniperSharpshooter X2LadderUpgradeTemplate]
+ShortDescription="Darklance dos Escolhidos"
+FullDescription="Dá ao seu Atirador de Elite o Darklance"
+
+[ChosenPistolSharpshooter X2LadderUpgradeTemplate]
+ShortDescription="Darkclaw dos Escolhidos"
+FullDescription="Dá ao seu Atirador de Elite o Darkclaw"
+
+[ExperimentalPlatedArmor X2LadderUpgradeTemplate]
+ShortDescription="Armadura de Aranha & Traje E.X.O."
+FullDescription="Dá aos seus Atiradores de Elite e Rangers Trajes de Aranha, e dá aos seus Granadeiros e PsiOps Trajes E.X.O."
+
+[ExperimentalPoweredArmor X2LadderUpgradeTemplate]
+ShortDescription="Armadura Wraith & Traje WAR"
+FullDescription="Dá aos seus Atiradores de Elite e Rangers Trajes Wraith, e dá aos seus Granadeiros e PsiOps Trajes WAR"
+
+[ExperimentalPoweredWeapons X2LadderUpgradeTemplate]
+ShortDescription="Armas Experimentais de Potência"
+FullDescription="Ganhe novas armas poderosas"
+
+[HunterArmor X2LadderUpgradeTemplate]
+ShortDescription="Armaduras dos Caçadores Alienígenas"
+FullDescription="Dá aos seus unidades armaduras alienígenas leves, médias e pesadas"
+
+[HunterArmorMk2 X2LadderUpgradeTemplate]
+ShortDescription="Armaduras dos Caçadores Alienígenas"
+FullDescription="Dá aos seus unidades armaduras alienígenas leves, médias e pesadas"
+
+[ExperimentalAmmo X2LadderUpgradeTemplate]
+ShortDescription="Tipos de Munição Experimentais"
+FullDescription="Dá aos seus unidades novos tipos de munição"
+
+[ExperimentalGrenades X2LadderUpgradeTemplate]
+ShortDescription="Granadas Experimentais"
+FullDescription="Dá aos seus unidades novos tipos de granadas"
+
+[AdvancedExplosives X2LadderUpgradeTemplate]
+ShortDescription="Explosivos Avançados"
+FullDescription="Dá aos seus unidades novos tipos de granadas avançadas"
+
+[BasicPCSes X2LadderUpgradeTemplate]
+ShortDescription="Simuladores Pessoais de Combate Básicos"
+FullDescription="Dá aos seus unidades simuladores pessoais de combate de baixo nível"
+
+[AdvancedPCSes X2LadderUpgradeTemplate]
+ShortDescription="Simuladores Pessoais de Combate Avançados"
+FullDescription="Dá aos seus unidades simuladores pessoais de combate de nível médio"
+
+[SuperiorPCSes X2LadderUpgradeTemplate]
+ShortDescription="Simuladores Pessoais de Combate Superiores"
+FullDescription="Dá aos seus unidades simuladores pessoais de combate de alto nível"
+
+[BasicWeaponUpgrades X2LadderUpgradeTemplate]
+ShortDescription="Upgrades Básicos de Armas"
+FullDescription="Dá aos seus unidades upgrades de armas de baixo nível"
+
+[AdvancedWeaponUpgrades X2LadderUpgradeTemplate]
+ShortDescription="Upgrades Avançados de Armas"
+FullDescription="Dá aos seus unidades upgrades de armas de nível médio"
+
+[SuperiorWeaponUpgrades X2LadderUpgradeTemplate]
+ShortDescription="Upgrades Superiores de Armas"
+FullDescription="Dá aos seus unidades upgrades de armas de nível alto"
+
+[ExperimentalVests X2LadderUpgradeTemplate]
+ShortDescription="Coletes Experimentais"
+FullDescription="Dá aos seus unidades coletes de armadura experimentais"
+
+[UtilityItems X2LadderUpgradeTemplate]
+ShortDescription="Itens de Utilidade"
+FullDescription="Dá aos seus unidades itens de utilidade"
+
+[Interact_SweaterTube X2AbilityTemplate]
+LocFriendlyName="Abrir Tubo de Estase"
+LocHelpText="Abre o Tubo de Estase da ADVENT."
+
+[Hack_Scan X2AbilityTemplate]
+LocFriendlyName="Escanear Objeto"
+LocHelpText="Faça um escaneamento deste objeto para criar um modelo 3D."
+LocFlyOverText="Escaneando"
+
+[IntrusionProtocol_Scan X2AbilityTemplate]
+LocFriendlyName="Escanear Objeto"
+LocLongDescription="Faça um escaneamento deste objeto para criar um modelo 3D com seu <Ability:SECONDARYWEAPONNAME/>."
+LocHelpText="Você pode escanear objetos com seu <Ability:SECONDARYWEAPONNAME/>."
+LocFlyOverText="Escanear"
+LocDefaultSecondaryWeapon="GREMLIN"
+
+; Modelos de personagem
+
+[NarrativeCentral X2CharacterTemplate]
+strForcedFirstName="John"
+strForcedLastName="Bradford"
+strForcedNickName="Central"
+
+[LadderShen X2CharacterTemplate]
+strForcedFirstName="An-Yi"
+strForcedLastName="Shen"
+strForcedNickName="Lily"
+
+[JaneKelly X2CharacterTemplate]
+strForcedFirstName="Jane"
+strForcedLastName="Kelly"
+strForcedNickName="Quiet"
+
+[PeterOsei X2CharacterTemplate]
+strForcedFirstName="Peter"
+strForcedLastName="Osei"
+strForcedNickName="Rowdy"
+
+[AnaRamirez X2CharacterTemplate]
+strForcedFirstName="Ana"
+strForcedLastName="Ramirez"
+strForcedNickName="Skinner"
+
+[PirateDJ_VIP X2CharacterTemplate]
+strForcedFirstName="Jake"
+strForcedLastName="Levy"
+strForcedNickName="The DJ"
+strCharacterName="DJ de Rádio"
+
+[BlackMarketTrader_VIP X2CharacterTemplate]
+strForcedFirstName="Dubravka"
+strForcedLastName="Horvat"
+strForcedNickName="Masha"
+
+[LilyShen_VIP X2CharacterTemplate]
+strForcedFirstName="An-Yi"
+strForcedLastName="Shen"
+strForcedNickName="Lily"
+
+[JaneKelly_VIP X2CharacterTemplate]
+strForcedFirstName="Jane"
+strForcedLastName="Kelly"
+strForcedNickName="Quiet"
+
+[PeterOsei_VIP X2CharacterTemplate]
+strForcedFirstName="Peter"
+strForcedLastName="Osei"
+strForcedNickName="Rowdy"
+
+[AnaRamirez_VIP X2CharacterTemplate]
+strForcedFirstName="Ana"
+strForcedLastName="Ramirez"
+strForcedNickName="Skinner"
+
+[Tygan_VIP X2CharacterTemplate]
+strForcedFirstName="Charles"
+strForcedLastName="Tygan"
+strForcedNickName="Hamburgler"
+
+[PsiZombieCivilian X2CharacterTemplate]
+strCharacterName="Zumbi"
+
+[NeonateChryssalid X2CharacterTemplate]
+strCharacterName="Chryssalid Neonatal"
+
+; Modelos de Classe de Soldado
+
+[LadderCentral X2SoldierClassTemplate]
+DisplayName="Ranger"
+ClassSummary="O Ranger serve como nossa unidade principal de reconhecimento, capaz de se mover independentemente em camuflagem enquanto enfrenta inimigos de perto."
+LeftAbilityTreeTitle="Explorador"
+RightAbilityTreeTitle="Assalto"
+AbilityTreeTitles[0]="Explorador"
+AbilityTreeTitles[1]="Assalto"
+AbilityTreeTitles[2]="XCOM"
+
+[TLE_ChiefEngineer X2SoldierClassTemplate]
+DisplayName="Especialista"
+ClassSummary="Operando alguns de nossos equipamentos mais avançados, os Especialistas implantam drones robóticos no campo de batalha que podem ser equipados para combate ou para funções de médico de campo."
+LeftAbilityTreeTitle="Médico de Combate"
+RightAbilityTreeTitle="Hacker de Combate"
+AbilityTreeTitles[0]="Médico de Combate"
+AbilityTreeTitles[1]="Hacker de Combate"
+AbilityTreeTitles[2]="XCOM"
+
+;-----------------------
+; Gremlin de Shen
+;-----------------------
+[Shen_Gremlin_CV X2GremlinTemplate]
+FriendlyName="ROV-R Mark I"
+FriendlyNamePlural="ROV-R Mark I"
+BriefSummary="O primeiro protótipo de Gremlin desenvolvido por Lily Shen, a unidade ROV-R possui uma série de comportamentos peculiares que acredita-se terem sido causados pelas modificações 'únicas' adicionadas ao longo dos anos."
+TacticalText="<Bullet/> O ROV-R permite que Shen execute uma variedade de tarefas no campo de batalha de distâncias mais seguras.\n<Bullet/> O ROV-R acompanha Shen e pode ser instruído a realizar protocolos que auxiliem aliados, hackeiem alvos eletrônicos ou danifiquem inimigos.\n<Bullet/> O ROV-R geralmente passa despercebido pelos inimigos e não pode ser danificado ou destruído. Ele será desligado se seu proprietário for incapacitado ou morto."
+AbilityDescName="ROV-R"
+
+[Shen_Gremlin_MG X2GremlinTemplate]
+FriendlyName="ROV-R Mark II"
+FriendlyNamePlural="ROV-R Mark II"
+BriefSummary="O primeiro protótipo de Gremlin desenvolvido por Lily Shen, a unidade ROV-R possui uma série de comportamentos peculiares que acredita-se terem sido causados pelas modificações 'únicas' adicionadas ao longo dos anos."
+TacticalText="<Bullet/> O ROV-R permite que Shen execute uma variedade de tarefas no campo de batalha de distâncias mais seguras.\n<Bullet/> O ROV-R acompanha Shen e pode ser instruído a realizar protocolos que auxiliem aliados, hackeiem alvos eletrônicos ou danifiquem inimigos.\n<Bullet/> O ROV-R geralmente passa despercebido pelos inimigos e não pode ser danificado ou destruído. Ele será desligado se seu proprietário for incapacitado ou morto."
+AbilityDescName="ROV-R"
+
+[Shen_Gremlin_BM X2GremlinTemplate]
+FriendlyName="ROV-R Mark III"
+FriendlyNamePlural="ROV-R Mark III"
+BriefSummary="O primeiro protótipo de Gremlin desenvolvido por Lily Shen, a unidade ROV-R possui uma série de comportamentos peculiares que acredita-se terem sido causados pelas modificações 'únicas' adicionadas ao longo dos anos."
+TacticalText="<Bullet/> O ROV-R permite que Shen execute uma variedade de tarefas no campo de batalha de distâncias mais seguras.\n<Bullet/> O ROV-R acompanha Shen e pode ser instruído a realizar protocolos que auxiliem aliados, hackeiem alvos eletrônicos ou danifiquem inimigos.\n<Bullet/> O ROV-R geralmente passa despercebido pelos inimigos e não pode ser danificado ou destruído. Ele será desligado se seu proprietário for incapacitado ou morto."
+AbilityDescName="ROV-R"
+
+[X2Photobooth]
+; Atitudes do TLE Photobooth
++m_arrAnimationPoses=(AnimationDisplayName="Irritado")
++m_arrAnimationPoses=(AnimationDisplayName="Confiante")
++m_arrAnimationPoses=(AnimationDisplayName="Vamos Lá!")
++m_arrAnimationPoses=(AnimationDisplayName="Soberbo")
++m_arrAnimationPoses=(AnimationDisplayName="Suspeitoso")
+
+; TEL Photobooth Rifle
++m_arrAnimationPoses=(AnimationDisplayName="Mira em Ferro")
++m_arrAnimationPoses=(AnimationDisplayName="Pensativo")
++m_arrAnimationPoses=(AnimationDisplayName="Procurar & Destruir")
+
+; TLE Photobooth Desarmado
++m_arrAnimationPoses=(AnimationDisplayName="Grito de Batalha")
++m_arrAnimationPoses=(AnimationDisplayName="Número 13, Bebê!")
+
+; TLE Photobooth Atirador de Elite
++m_arrAnimationPoses=(AnimationDisplayName="Dupla Carga 1")
++m_arrAnimationPoses=(AnimationDisplayName="Dupla Carga 2")
++m_arrAnimationPoses=(AnimationDisplayName="Salto da Fé")
++m_arrAnimationPoses=(AnimationDisplayName="Acabar com Todos!")
++m_arrAnimationPoses=(AnimationDisplayName="Nunca Desistir")
++m_arrAnimationPoses=(AnimationDisplayName="Saída Final")
+
+; TLE Photobooth Ranger
++m_arrAnimationPoses=(AnimationDisplayName="Pode Vir!")
++m_arrAnimationPoses=(AnimationDisplayName="Morte Silenciosa")
++m_arrAnimationPoses=(AnimationDisplayName="Morte do Alto")
++m_arrAnimationPoses=(AnimationDisplayName="Encontro Mortal")
+
+; TLE Photobooth Granadeiro
++m_arrAnimationPoses=(AnimationDisplayName="Chuva de Granadas")
++m_arrAnimationPoses=(AnimationDisplayName="Que Diabos?!")
+
+; TLE Photobooth PsiOperativo
++m_arrAnimationPoses=(AnimationDisplayName="Empolgado")
++m_arrAnimationPoses=(AnimationDisplayName="Morte Elétrica")
+
+; TLE Photobooth Especialista
++m_arrAnimationPoses=(AnimationDisplayName="Enviando Apoio")
++m_arrAnimationPoses=(AnimationDisplayName="Fogo de Cobertura")
+
+; TLE Photobooth Reaper Específico
++m_arrAnimationPoses=(AnimationDisplayName="Movimento Silencioso")
++m_arrAnimationPoses=(AnimationDisplayName="Cabeças Rolando")
+
+; TLE Photobooth Skirmisher
++m_arrAnimationPoses=(AnimationDisplayName="Vingança")
++m_arrAnimationPoses=(AnimationDisplayName="Vamos Lá!")
+
+; TLE Photobooth Templar
++m_arrAnimationPoses=(AnimationDisplayName="Golpe Mortal")
++m_arrAnimationPoses=(AnimationDisplayName="Desvio")
+
+; TLE Photobooth Poses em Dupla
++m_arrAnimationPoses=(AnimationDisplayName="Te Cubro")
++m_arrAnimationPoses=(AnimationDisplayName="Overwatch com Pistola")
++m_arrAnimationPoses=(AnimationDisplayName="Resgate Esquerda")
++m_arrAnimationPoses=(AnimationDisplayName="Resgate Direita")
++m_arrAnimationPoses=(AnimationDisplayName="Entrega Esquerda")
++m_arrAnimationPoses=(AnimationDisplayName="Entrega Direita")
++m_arrAnimationPoses=(AnimationDisplayName="Vínculo Esquerda")
++m_arrAnimationPoses=(AnimationDisplayName="Vínculo Direita")
++m_arrAnimationPoses=(AnimationDisplayName="High Five Esquerda")
++m_arrAnimationPoses=(AnimationDisplayName="High Five Direita")
+
+; TLE Photobooth Poses de Batalha
++m_arrAnimationPoses=(AnimationDisplayName="Amarração de Víbora")
++m_arrAnimationPoses=(AnimationDisplayName="Massa Muton")
+
+; TLE Photobooth Poses de Vitória
++m_arrAnimationPoses=(AnimationDisplayName="Vitorioso 1")
++m_arrAnimationPoses=(AnimationDisplayName="Vitorioso 2")
++m_arrAnimationPoses=(AnimationDisplayName="Vitorioso 3")
+
+; TLE Photobooth Fundos
++m_arrBackgroundOptions=(BackgroundDisplayname="Horda Errante")
++m_arrBackgroundOptions=(BackgroundDisplayname="Sectopod")
++m_arrBackgroundOptions=(BackgroundDisplayname="Rosto Sectoid")
++m_arrBackgroundOptions=(BackgroundDisplayname="Desfoque Central")
++m_arrBackgroundOptions=(BackgroundDisplayname="Desfoque Inferior")
++m_arrBackgroundOptions=(BackgroundDisplayname="Desfoque Superior")
++m_arrBackgroundOptions=(BackgroundDisplayname="Pouso do Avenger")
++m_arrBackgroundOptions=(BackgroundDisplayname="Advent em Pé")
++m_arrBackgroundOptions=(BackgroundDisplayname="Contorno do Soldado Advent")
++m_arrBackgroundOptions=(BackgroundDisplayname="Capitão Advent")
++m_arrBackgroundOptions=(BackgroundDisplayname="Arcon Abstrato")
++m_arrBackgroundOptions=(BackgroundDisplayname="Advent Abstrato")
++m_arrBackgroundOptions=(BackgroundDisplayname="Lâminas de Cabeça Alien")
++m_arrBackgroundOptions=(BackgroundDisplayname="Esmagamento de Crânio Alien")
++m_arrBackgroundOptions=(BackgroundDisplayname="Punho Esmagando Aliens")
++m_arrBackgroundOptions=(BackgroundDisplayname="Soldado XCOM")

@@ -1,0 +1,47 @@
+[Play_DLC3_S_CEN_Dropship_Intro AkEvent]
+SpokenText="Estamos nos movendo em direção ao que parecem ser os restos de uma instalação da ADVENT. Varreduras preliminares indicam que a área está desabitada, mas não vamos correr nenhum risco. Vamos tentar o acesso a partir de um dos níveis superiores para evitar detecção. Ninguém conhece esses sistemas melhor do que a Shen, por isso ela vai liderar o grupo. Entre na instalação, descubra a origem daquela transmissão e, se for hostil... acabe com ela."
+
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_S_CEN_Investigate_Signal AkEvent]
+SpokenText="Comandante, estou velha demais para começar a acreditar em fantasmas, o que significa que alguém teve que acessar aquela unidade remotamente. Se eles podem acessar o Rover, não há como saber o que mais eles podem fazer. Sugiro fortemente que façamos da investigação desse sinal nossa principal prioridade."
+
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_S_CEN_Pre_Mission_Prep_1 AkEvent]
+SpokenText="Shen, eu sei que isso é pessoal para você, mas você não precisa ir para lá... nossas tropas são mais do que capazes de investigar."
+
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_S_CEN_Pre_Mission_Prep_3 AkEvent]
+SpokenText="Vocês ouviram a chefe, preparem-se e estejam prontos."
+
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_S_CEN_Pre_Scan_Geo AkEvent]
+SpokenText="Parece que Shen conseguiu confirmar a origem do sinal. Inserindo as coordenadas no mapa agora."
+
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_S_CEN_Tower_Rumor_Comp_1 AkEvent]
+SpokenText="Essa torre está apodrecendo há anos, se não décadas. Ainda estamos captando leituras de energia, mas não há sinais de vida. Mesmo assim, sabemos que a transmissão veio desta localização. Aposto que alguém ainda considera este lugar como lar."
+
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""

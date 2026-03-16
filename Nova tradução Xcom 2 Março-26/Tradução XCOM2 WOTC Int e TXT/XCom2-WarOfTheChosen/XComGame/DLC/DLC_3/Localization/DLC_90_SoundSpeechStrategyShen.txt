@@ -1,0 +1,41 @@
+[Play_DLC3_S_SHN_Julian_Lives AkEvent]
+SpokenText="Comandante, acho que há... algo que você deveria saber sobre o Julian. Acontece que ele não foi completamente apagado quando derrubamos aquele Sectopod. Ainda havia uma impressão de sua memória central deixada para trás quando ele acessou o Rover. Isolei os nós em um sistema separado por enquanto. Sabe... se quiséssemos... ele poderia ser bastante eficiente operando o SPARK, se removêssemos parte de seu raciocínio de nível mais elevado... Posso investigar isso."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_S_SHN_Pre_Mission_Prep_2 AkEvent]
+SpokenText="Vou para o Central... Eu sei me cuidar. Não vamos perder mais tempo do que o necessário."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_S_SHN_Spark_Has_Honor AkEvent]
+SpokenText="Meu pai deu ao protótipo do SPARK uma voz que ele achava reconfortante para mim há 20 anos. As coisas mudaram um pouco desde então; para nossos propósitos, pensei que poderíamos usar uma variação mais adequada para um guerreiro."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_S_SHN_Spark_Is_Ours AkEvent]
+SpokenText="Comandante, temos o SPARK e, com nossa tecnologia atual, tenho confiança de que podemos fabricar reforços adicionais com base em seu design. Posso começar no Campo de Provas assim que você der a ordem."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_S_SHN_Spark_Repairs_Available AkEvent]
+SpokenText="Comandante, se for necessário, podemos enviar as unidades SPARK de volta ao combate mesmo quando elas estiverem danificadas."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DLC3_S_SHN_Tower_Rumor_Comp_2 AkEvent]
+SpokenText="Comandante, se vamos enviar um esquadrão, gostaria de permissão para acompanhá-los... quem quer que tenha enviado essa mensagem, sabe tanto sobre os sistemas do meu pai quanto eu... e eu quero descobrir o motivo. Sou a única que sabe o que procurar, eu deveria estar lá."
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""

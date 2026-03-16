@@ -1,0 +1,23 @@
+[Archetypes.ARC_IA_ElevatorPowerControl XComInteractiveLevelActor]
+FriendlyDisplayName="Console de Energia do Elevador"
+
+[Archetypes.ARC_IA_LastGift XComInteractiveLevelActor]
+FriendlyDisplayName="Estação de Controle do Elevador"
+
+[Archetypes.ARC_IA_LastGift_AtmosphericComputer XComInteractiveLevelActor]
+FriendlyDisplayName="Computador de Controle Atmosférico"
+
+[Archetypes.ARC_IA_LastGift_ElevatorComputer XComInteractiveLevelActor]
+FriendlyDisplayName="Controle de Energia do Elevador"
+
+[Archetypes.ARC_IA_LastGift_ElevatorLocation XComInteractiveLevelActor]
+FriendlyDisplayName="Gancho do Elevador"
+
+[Archetypes.ARC_IA_SkybridgeComputerStation XComInteractiveLevelActor]
+FriendlyDisplayName="Computador da Ponte Aérea"
+
+[Archetypes.ARC_IA_SkybridgeComputerStation_Roof XComInteractiveLevelActor]
+FriendlyDisplayName="Computador da Ponte Aérea"
+
+[Archetypes.ARC_IA_SparkActivation XComInteractiveLevelActor]
+FriendlyDisplayName="SPARK"
