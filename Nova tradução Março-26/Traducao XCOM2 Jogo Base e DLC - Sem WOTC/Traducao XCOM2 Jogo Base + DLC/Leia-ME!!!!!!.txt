@@ -1,0 +1,47 @@
+Instruções para Instalação da Tradução de XCOM 2 e suas DLCs
+
+Essa tradução abrange as seguintes DLCs: XCOM 2: Resistance Warrior Pack, XCOM 2: Reinforcement Pack e o próprio XCOM 2: Jogo Base.
+
+O "XCOM 2: War of the Chosen" não está inclúso nessa tradução(por enquanto)
+
+AVISO IMPORTANTE
+
+Após me deparar com traduções com ausencia de texto, ou com "Chaves quebradas", eu resolvi criar tradução do zero para a versão do jogo disponível na plataforma Steam. Fiz o teste no jogo base tanto na Steam e na EPIC, e funciona corretamente. Recomendo fazer um backup dos arquivos originais antes de proceder com a instalação.
+
+Instruções para Instalação:
+
+STEAM:
+Localize a pasta raiz do seu jogo XCOM 2. Se você adquiriu o jogo na plataforma Steam, o caminho provável é:
+"SteamLibrary\steamapps\common\XCOM 2\XComGame"
+
+
+Os arquivos necessários para a tradução estão nas pastas:
+
+"SteamLibrary\steamapps\common\XCOM 2\XComGame\DLC"
+"SteamLibrary\steamapps\common\XCOM 2\XComGame\Localization"
+
+
+Antes de prosseguir com a instalação da tradução, faça backup das duas pastas mencionadas acima.
+
+Agora, substitua os arquivos de texto do idioma Inglês Internacional pelos da tradução na pasta raiz do jogo:
+
+"SteamLibrary\steamapps\common\XCOM 2\XComGame"
+
+EPIC:
+
+Para instalar a tradução na Epic, basta utilizar os mesmos arquivos.
+
+Dentro do mod, após descompactar, procure os arquivos dentro dessa pasta:
+
+Traducao XCOM2 Jogo Base + DLC\XCOM 2\XComGame\Localization\INT
+E cole no diretório raiz do seu jogo:
+
+﻿(SEU CAMINHO JOGOS EPIC AQUI)\XCOM2\XComGame\Localization\INT
+
+IMPORTANTE! Não apague as pastas mencionadas acima. Apenas substitua os arquivos de texto do idioma Inglês Internacional pelos da tradução.
+
+Em caso de dúvidas ou sugestões, ou até mesmo se encontrar erros, peço encarecidamente que me avise em Nexus em: https://www.nexusmods.com/users/97251623, com print da tela com erro de tradução.
+
+Obrigado por usar essa tradução!!!!
+Abraços de "Makalove" <3
+
