@@ -1,4 +1,3 @@
-
 [Subtitles]
 
 DLC3_TP_ShenMessage_01="Agora que finalmente colocamos este lugar em funcionamento, deveríamos conseguir acessar alguns desses sistemas alienígenas dormentes. Vamos ver se vocês dois conseguem se dar bem."
