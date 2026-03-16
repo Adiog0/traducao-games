@@ -1,4 +1,4 @@
-[CS_Strategy_WelcomeToTheLabs SoundNodeWave]
+﻿[CS_Strategy_WelcomeToTheLabs SoundNodeWave]
 SpokenText="Hello Commander, my name is Dr. Vahlen.  I oversee the research labs.  This is where all of XComs research and development takes place."
 
 [TP01_1stUFOShotDown_02_CEN SoundNodeWave]

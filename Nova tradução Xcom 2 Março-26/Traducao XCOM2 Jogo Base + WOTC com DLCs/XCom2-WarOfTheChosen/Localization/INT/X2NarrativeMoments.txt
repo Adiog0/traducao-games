@@ -1,4 +1,4 @@
-[Strategy.GP_AvatarAutopsyScreen X2NarrativeMoment]
+﻿[Strategy.GP_AvatarAutopsyScreen X2NarrativeMoment]
 UIHeaderText="Examine the Recovered Avatar Corpse"
 UIBodyText="Use the Shadow Chamber to study the corpse of the summoned Avatar being that was killed in combat by XCOM forces."
 UIArrayText[0]="Complete the Avatar Autopsy Shadow Project"

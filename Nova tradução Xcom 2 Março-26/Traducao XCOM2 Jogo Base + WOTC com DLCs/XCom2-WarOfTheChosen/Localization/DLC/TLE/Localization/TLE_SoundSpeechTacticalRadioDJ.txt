@@ -1,4 +1,4 @@
-[Play_Sea_GatherDJ_Musings_E AkEvent]
+﻿[Play_Sea_GatherDJ_Musings_E AkEvent]
 SpokenText="If anyone was planning a rescue, if you're already on your way, you might as well come on by. Not that you have to, but I wouldn't want you to have wasted your time."
 
 [Play_Sea_GatherDJ_Musings_D AkEvent]

@@ -1,4 +1,4 @@
-[CENTRAL_Tactical_Tutorial_Central_Gets_Shot AkEvent]
+﻿[CENTRAL_Tactical_Tutorial_Central_Gets_Shot AkEvent]
 SpokenText="Gonna take more than that..."
 
 [CENTRAL_Tactical_Tutorial_Central_Moves_Commander AkEvent]

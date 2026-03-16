@@ -1,4 +1,4 @@
-[Archetypes.ARC_IA_SupplyCrate_Alloys XComInteractiveLevelActor]
+﻿[Archetypes.ARC_IA_SupplyCrate_Alloys XComInteractiveLevelActor]
 FriendlyDisplayName="Advent Supply Crate"
 
 [Archetypes.ARC_IA_SupplyCrate_Elerium XComInteractiveLevelActor]

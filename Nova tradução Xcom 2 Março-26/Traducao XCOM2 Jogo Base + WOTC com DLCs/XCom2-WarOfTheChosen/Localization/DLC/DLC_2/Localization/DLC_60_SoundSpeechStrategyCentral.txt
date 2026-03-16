@@ -1,4 +1,4 @@
-[Play_DLC2_S_CEN_All_Rulers_Dead AkEvent]
+﻿[Play_DLC2_S_CEN_All_Rulers_Dead AkEvent]
 SpokenText="Commander, that's the last of 'em... three botched science experiments, three alien rulers down for the count. At the very least, we know Vahlen is still out there somewhere, and we picked up some new gear in the process. Not a bad haul considering."
 bMature=False
 bManualWordWrap=False

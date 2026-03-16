@@ -1,4 +1,4 @@
-[ETH_Fortress_DarkAvatarDied_Male_01 AkEvent]
+﻿[ETH_Fortress_DarkAvatarDied_Male_01 AkEvent]
 SpokenText="We will continue on as we always have. With this new form, we will subdue that which would keep us in bonds. Your species will live on, but you will not."
 
 [ETH_Fortress_EtherealNag01_Male_01 AkEvent]

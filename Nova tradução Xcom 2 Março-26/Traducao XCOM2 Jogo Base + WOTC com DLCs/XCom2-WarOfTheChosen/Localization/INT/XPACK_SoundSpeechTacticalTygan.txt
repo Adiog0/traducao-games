@@ -1,4 +1,4 @@
-[Play_X2_XP_TYG_1st_Stronghold_Capacitor_Damaged AkEvent]
+﻿[Play_X2_XP_TYG_1st_Stronghold_Capacitor_Damaged AkEvent]
 SpokenText="Energy levels within the capacitor are fluctuating wildly. I believe our assault is having the desired effect."
 
 [Play_X2_XP_TYG_1st_Stronghold_Monolith_Damaged_Only AkEvent]

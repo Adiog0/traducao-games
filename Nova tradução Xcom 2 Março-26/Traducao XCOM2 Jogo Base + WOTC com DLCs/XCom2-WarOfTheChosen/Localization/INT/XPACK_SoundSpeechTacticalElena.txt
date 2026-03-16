@@ -1,4 +1,4 @@
-[Play_X2_XP_ELENA_CIN_LA_Reaper_Reveal_7 AkEvent]
+﻿[Play_X2_XP_ELENA_CIN_LA_Reaper_Reveal_7 AkEvent]
 SpokenText="A gift, from Volk. Our people consider it a delicacy."
 
 [Play_X2_XP_ELENA_CIN_LA_Reaper_Reveal_7_ALT_A AkEvent]

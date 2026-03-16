@@ -1,3 +1,3 @@
-[TheWorld:PersistentLevel.XComInteractiveLevelActor_8 XComInteractiveLevelActor]
+﻿[TheWorld:PersistentLevel.XComInteractiveLevelActor_8 XComInteractiveLevelActor]
 FriendlyDisplayName="Elevator Hook"
 

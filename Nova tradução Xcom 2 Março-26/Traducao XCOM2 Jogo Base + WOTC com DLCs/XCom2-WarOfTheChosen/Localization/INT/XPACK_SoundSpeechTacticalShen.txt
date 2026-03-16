@@ -1,4 +1,4 @@
-[Play_X2_XP_SHN_T_Chosen_Avenger_Cannon_Hit_Critical AkEvent]
+﻿[Play_X2_XP_SHN_T_Chosen_Avenger_Cannon_Hit_Critical AkEvent]
 SpokenText="There are fractures in the Avenger's power core! One more hit and it'll go critical!"
 
 [Play_X2_XP_SHN_T_Chosen_Avenger_Cannon_Primed AkEvent]

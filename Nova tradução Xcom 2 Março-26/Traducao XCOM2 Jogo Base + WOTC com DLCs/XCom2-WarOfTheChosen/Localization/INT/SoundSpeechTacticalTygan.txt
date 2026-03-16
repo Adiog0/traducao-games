@@ -1,4 +1,4 @@
-[First_Non_ADVENT_Sighted_TYGAN AkEvent]
+﻿[First_Non_ADVENT_Sighted_TYGAN AkEvent]
 SpokenText="It is likely we will see more of the aliens themselves now that we threaten their hold on our world."
 
 [T_ADVENTcaptainSightedOne_Tygan AkEvent]

@@ -1,4 +1,4 @@
-[Play_X2_XP_WRLK_T_1st_Stronghold_Post_Intro AkEvent]
+﻿[Play_X2_XP_WRLK_T_1st_Stronghold_Post_Intro AkEvent]
 SpokenText="Such bravery. Such steadfast determination. Such arrogance. To step foot in this scared temple and dare strike down a child of the gods! Your hubris is your downfall."
 
 [Play_X2_XP_WRLK_T_2nd_Stronghold_Post_Intro AkEvent]

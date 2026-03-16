@@ -1,4 +1,4 @@
-[Play_X2_XP_WRLK_S_ADVENT_Tower_Available AkEvent]
+﻿[Play_X2_XP_WRLK_S_ADVENT_Tower_Available AkEvent]
 SpokenText="You would dare enter the heart of ADVENT, the temple that holds this tenuous peace intact? The will be no end to the consequences of your choice."
 
 [Play_X2_XP_WRLK_S_Assault_Avenger_First AkEvent]

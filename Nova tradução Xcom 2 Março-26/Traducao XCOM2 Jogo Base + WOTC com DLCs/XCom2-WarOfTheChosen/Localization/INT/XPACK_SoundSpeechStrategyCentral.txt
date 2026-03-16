@@ -1,4 +1,4 @@
-[Play_X2_XP_CEN_S_10_Negative_Traits_Nag AkEvent]
+﻿[Play_X2_XP_CEN_S_10_Negative_Traits_Nag AkEvent]
 SpokenText="Some of our troops have developed an untenable number of negative traits, Commander. With the burdens of this war weighing them down this is to be expected. We should build a Training Center to aid in their recovery."
 
 [Play_X2_XP_CEN_S_3_Negative_Traits_Nag AkEvent]

@@ -1,4 +1,4 @@
-[NoID_CarefulIFind AkEvent]
+﻿[NoID_CarefulIFind AkEvent]
 SpokenText="Careful. I find cars tend to explode when exposed to weapons fire. "
 
 [NoID_CarefulPressThe AkEvent]

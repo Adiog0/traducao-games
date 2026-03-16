@@ -1,4 +1,4 @@
-;Localization add-in for TLE
+﻿;Localization add-in for TLE
 
 ;-----------------------
 ; TLE MISSIONS

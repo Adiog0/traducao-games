@@ -1,4 +1,4 @@
-[Play_X2_XP_KAL_S_Ambush_A AkEvent]
+﻿[Play_X2_XP_KAL_S_Ambush_A AkEvent]
 SpokenText="The Chosen caught us in an ambush, Commander! We need to get our people out of there!"
 
 [Play_X2_XP_KAL_S_Covert_Action_Complete_A AkEvent]

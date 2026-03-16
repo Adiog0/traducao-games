@@ -1,4 +1,4 @@
-[Play_X2_XP_KAL_T_First_Templar_Focus AkEvent]
+﻿[Play_X2_XP_KAL_T_First_Templar_Focus AkEvent]
 SpokenText="The strength of the Templars ebbs and flows with the tide of combat. As we focus our energy, our power increases, and can be unleashed upon our enemies."
 
 [Play_X2_XP_KAL_T_Gather_Survivors_Dropship_Intro_A AkEvent]

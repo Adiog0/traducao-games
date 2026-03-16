@@ -1,4 +1,4 @@
-[Play_DLC2_T_VAH_MATINEE_Boots_Ground_3 AkEvent]
+﻿[Play_DLC2_T_VAH_MATINEE_Boots_Ground_3 AkEvent]
 SpokenText="The data must be preserved at all costs! You must hurry! Take this and find Bradford!"
 bMature=False
 bManualWordWrap=False

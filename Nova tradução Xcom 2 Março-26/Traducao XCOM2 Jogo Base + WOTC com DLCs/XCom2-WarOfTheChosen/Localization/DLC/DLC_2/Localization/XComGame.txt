@@ -1,4 +1,4 @@
-;Localization add-in for day 60 DLC 
+﻿;Localization add-in for day 60 DLC 
 
 ;Mission related strings
 ;-----------------------

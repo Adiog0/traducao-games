@@ -1,4 +1,4 @@
-[Play_DLC2_T_TYG_Ambush_1 AkEvent]
+﻿[Play_DLC2_T_TYG_Ambush_1 AkEvent]
 SpokenText="Central, I am picking up faint traces of human DNA deeper in the facility.  It just might be... ."
 bMature=False
 bManualWordWrap=False

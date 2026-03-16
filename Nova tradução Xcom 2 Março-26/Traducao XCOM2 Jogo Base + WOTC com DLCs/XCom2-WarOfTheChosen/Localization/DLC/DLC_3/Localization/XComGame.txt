@@ -1,4 +1,4 @@
-;Localization add-in for day 90 DLC 
+﻿;Localization add-in for day 90 DLC 
 
 ;-----------------------
 ; SPARK CLASS

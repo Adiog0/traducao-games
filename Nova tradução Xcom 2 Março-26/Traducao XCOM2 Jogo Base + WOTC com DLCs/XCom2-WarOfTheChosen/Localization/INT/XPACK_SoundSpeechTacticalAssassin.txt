@@ -1,4 +1,4 @@
-[Play_X2_XP_ASSN_T_1st_Stronghold_Post_Intro AkEvent]
+﻿[Play_X2_XP_ASSN_T_1st_Stronghold_Post_Intro AkEvent]
 SpokenText="Take pride XCOM. Pride that you have come further than any of your kind. Pride that your death this day honors the Elders."
 
 [Play_X2_XP_ASSN_T_2nd_Stronghold_Post_Intro AkEvent]

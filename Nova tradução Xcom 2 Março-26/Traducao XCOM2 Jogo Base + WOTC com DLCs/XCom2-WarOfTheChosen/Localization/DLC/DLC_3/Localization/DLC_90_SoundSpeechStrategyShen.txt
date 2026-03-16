@@ -1,4 +1,4 @@
-[Play_DLC3_S_SHN_Julian_Lives AkEvent]
+﻿[Play_DLC3_S_SHN_Julian_Lives AkEvent]
 SpokenText="Commander, I think there's...something you should know about Julian. It turns out he wasn't entirely wiped when we took down that Sectopod. There was still an imprint of his core memory left behind when he accessed Rover. I've isolated the nodes on a detached system for now. You know...if we wanted to...he could actually be pretty effective at operating the SPARK, if we stripped out some of his higher level reasoning...I could look into it."
 bMature=False
 bManualWordWrap=False

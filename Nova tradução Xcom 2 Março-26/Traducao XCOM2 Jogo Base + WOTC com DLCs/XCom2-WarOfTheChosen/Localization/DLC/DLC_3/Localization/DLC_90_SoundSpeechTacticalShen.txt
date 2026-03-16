@@ -1,4 +1,4 @@
-[Play_DLC3_T_SHN_Boots_Ground_2 AkEvent]
+﻿[Play_DLC3_T_SHN_Boots_Ground_2 AkEvent]
 SpokenText="From the looks of it, we're the first people to step foot here in a long time.  This place is massive...why would ADVENT just abandon it? "
 bMature=False
 bManualWordWrap=False

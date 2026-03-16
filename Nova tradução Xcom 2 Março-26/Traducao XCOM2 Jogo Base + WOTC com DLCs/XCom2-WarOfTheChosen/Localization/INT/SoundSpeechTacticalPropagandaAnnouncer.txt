@@ -1,4 +1,4 @@
-[T_City_Center_Propaganda_01_Prop_Announcer AkEvent]
+﻿[T_City_Center_Propaganda_01_Prop_Announcer AkEvent]
 SpokenText="The burning of fossil fuels is strictly prohibited. ADVENT power cells are available on a limited basis to qualified users. "
 
 [T_City_Center_Propaganda_02_Prop_Announcer AkEvent]

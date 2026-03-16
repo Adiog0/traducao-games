@@ -1,4 +1,4 @@
-[AvengerAssemble.ARC_IA_MissilePallet XComInteractiveLevelActor]
+﻿[AvengerAssemble.ARC_IA_MissilePallet XComInteractiveLevelActor]
 FriendlyDisplayName="Avalanche Missile"
 
 [AvengerAssemble.ARC_IA_OperatorManual XComInteractiveLevelActor]

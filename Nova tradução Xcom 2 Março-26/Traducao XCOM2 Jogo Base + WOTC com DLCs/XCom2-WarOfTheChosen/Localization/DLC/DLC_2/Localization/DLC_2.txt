@@ -1,4 +1,4 @@
-[X2Effect_DLC_Day60Freeze]
+﻿[X2Effect_DLC_Day60Freeze]
 FreezeName="Frozen"
 FreezeDesc="Frozen units cannot move or take any actions, and are easier to hit."
 RulerFreezeTickFlyover="Frozen: <Ability:TurnsRemaining/>"

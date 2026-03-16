@@ -1,4 +1,4 @@
-[Play_Avenger_Firestorm_Wilderness_AreaClear AkEvent]
+﻿[Play_Avenger_Firestorm_Wilderness_AreaClear AkEvent]
 SpokenText="There wasn't anyone left protecting the ship. We just had to get what we came for."
 
 [Play_Avenger_Firestorm_Wilderness_Failure_A AkEvent]

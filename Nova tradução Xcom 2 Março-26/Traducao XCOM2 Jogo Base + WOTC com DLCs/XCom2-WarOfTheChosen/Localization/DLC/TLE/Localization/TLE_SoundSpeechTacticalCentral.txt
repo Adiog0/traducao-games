@@ -1,4 +1,4 @@
-[Play_Sea_Terror_Upgrades AkEvent]
+﻿[Play_Sea_Terror_Upgrades AkEvent]
 SpokenText="I'm not sure who it was on the team that first pointed out that the Chryssalids seemed a little preoccupied with the DJ's makeshift antenna rig. Like I said before, we didn't know much about the motivations of the Chryssalid mind. I figured they just followed the lights. That's what bugs do."
 
 [Play_Sea_Terror_TotalVictory_B AkEvent]

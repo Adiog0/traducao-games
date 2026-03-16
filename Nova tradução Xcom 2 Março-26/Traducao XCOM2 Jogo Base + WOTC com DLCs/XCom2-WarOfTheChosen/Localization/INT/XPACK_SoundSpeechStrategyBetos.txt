@@ -1,4 +1,4 @@
-[Play_X2_XP_BET_S_Ambush_A AkEvent]
+﻿[Play_X2_XP_BET_S_Ambush_A AkEvent]
 SpokenText="ADVENT and their Chosen masters are relentless in their pursuit. Today we were caught unprepared."
 
 [Play_X2_XP_BET_S_Covert_Action_Complete_A AkEvent]

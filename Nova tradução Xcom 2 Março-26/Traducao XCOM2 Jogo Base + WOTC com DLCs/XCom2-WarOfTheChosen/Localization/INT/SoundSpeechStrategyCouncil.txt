@@ -1,4 +1,4 @@
-[NoID_JBailey_20151016_AdventIsNotTaking AkEvent]
+﻿[NoID_JBailey_20151016_AdventIsNotTaking AkEvent]
 SpokenText="ADVENT is not taking the death of an Elder lightly, and in turn have greatly accelerated the final stages of their Avatar project. A plan is now in place for the rapid processing of all non-essential human life, to begin, immediately. "
 
 [NoID_JBailey_20151016_TheAliensContinue AkEvent]

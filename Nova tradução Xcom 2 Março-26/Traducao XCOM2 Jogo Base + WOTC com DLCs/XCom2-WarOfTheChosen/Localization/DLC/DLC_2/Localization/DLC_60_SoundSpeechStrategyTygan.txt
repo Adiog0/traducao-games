@@ -1,4 +1,4 @@
-[Play_DLC2_S_TYG_Archon_King_Autopsy_Blurb AkEvent]
+﻿[Play_DLC2_S_TYG_Archon_King_Autopsy_Blurb AkEvent]
 SpokenText="I have come to firmly believe that Dr. Vahlen's unbridled ambition, left without the Commander to maintain some semblance of reason, led her to pursue a path of research that was as misguided and regrettable as my own service to ADVENT."
 bMature=False
 bManualWordWrap=False

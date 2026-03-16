@@ -1,4 +1,4 @@
-[Play_X2_XP_S_SPK_Generic_Failure_A AkEvent]
+﻿[Play_X2_XP_S_SPK_Generic_Failure_A AkEvent]
 SpokenText="And so the Elders bless us with yet another victory. We are humbled, taking one more step towards the glorious future they promise us all."
 
 [Play_X2_XP_S_SPK_Generic_Failure_B AkEvent]

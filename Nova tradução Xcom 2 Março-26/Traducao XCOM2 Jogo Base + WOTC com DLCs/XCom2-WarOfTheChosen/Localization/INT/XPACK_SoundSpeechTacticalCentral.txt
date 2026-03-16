@@ -1,4 +1,4 @@
-[Play_X2_XP_CEN_1st_Stronghold_Capacitor_Damaged AkEvent]
+﻿[Play_X2_XP_CEN_1st_Stronghold_Capacitor_Damaged AkEvent]
 SpokenText="Then let's keep it up!"
 
 [Play_X2_XP_CEN_1st_Stronghold_Monolith_Damaged_Only_1 AkEvent]

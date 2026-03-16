@@ -1,4 +1,4 @@
-[Play_X2_XP_BET_T_Gather_Survivors_Dropship_Inro_A AkEvent]
+﻿[Play_X2_XP_BET_T_Gather_Survivors_Dropship_Inro_A AkEvent]
 SpokenText="Some of my kind were forced into the old city by those loyal to the Elders. They live for now, but our time runs short. One of them possesses great knowledge the Resistance would be worse to lose. If you locate and retrieve our allies, we would be in your debt."
 
 [Play_X2_XP_BET_T_Gather_Survivors_Dropship_Inro_B AkEvent]

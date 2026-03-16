@@ -1,4 +1,4 @@
-[Archetypes.ARC_IA_ChosenAD_ArtilleryGenerator XComInteractiveLevelActor]
+﻿[Archetypes.ARC_IA_ChosenAD_ArtilleryGenerator XComInteractiveLevelActor]
 FriendlyDisplayName="Chosen Sarcophagus"
 
 [Archetypes.ARC_IA_ChosenAD_BulwarkACV XComInteractiveLevelActor]

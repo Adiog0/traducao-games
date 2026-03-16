@@ -1,4 +1,4 @@
-[S_Broadcast_Truth_Advent_Propaganda_Announcer_01 AkEvent]
+﻿[S_Broadcast_Truth_Advent_Propaganda_Announcer_01 AkEvent]
 SpokenText="ADVENT assures us this breakthrough will be available to all citizens immediately."
 
 [S_Broadcast_Truth_Advent_Propaganda_Announcer_02 AkEvent]

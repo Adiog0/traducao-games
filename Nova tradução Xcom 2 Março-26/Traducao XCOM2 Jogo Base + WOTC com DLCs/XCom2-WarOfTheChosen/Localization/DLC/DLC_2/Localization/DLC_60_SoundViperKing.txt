@@ -1,4 +1,4 @@
-[NeonateViper_Deathscream AkEvent]
+﻿[NeonateViper_Deathscream AkEvent]
 SpokenText=""
 bMature=False
 bManualWordWrap=False

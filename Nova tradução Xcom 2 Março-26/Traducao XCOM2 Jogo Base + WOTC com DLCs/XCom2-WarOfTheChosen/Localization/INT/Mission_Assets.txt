@@ -1,4 +1,4 @@
-[Archetypes.ARC_IA_BlacksiteVial XComInteractiveLevelActor]
+﻿[Archetypes.ARC_IA_BlacksiteVial XComInteractiveLevelActor]
 FriendlyDisplayName="Purification Centrifuge"
 
 [Archetypes.ARC_IA_BroadcastStationBase XComInteractiveLevelActor]

@@ -1,4 +1,4 @@
-[Play_X2_XP_FIRE_T_Airlift_in_Progress AkEvent]
+﻿[Play_X2_XP_FIRE_T_Airlift_in_Progress AkEvent]
 SpokenText="Airlift in progress. "
 
 [Play_X2_XP_FIRE_T_Crate_in_Tow AkEvent]

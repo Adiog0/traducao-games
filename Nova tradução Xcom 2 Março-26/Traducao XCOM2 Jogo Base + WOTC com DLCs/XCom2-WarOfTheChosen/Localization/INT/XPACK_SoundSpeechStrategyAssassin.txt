@@ -1,4 +1,4 @@
-[Play_X2_XP_ASSN_S_ADVENT_Tower_Available AkEvent]
+﻿[Play_X2_XP_ASSN_S_ADVENT_Tower_Available AkEvent]
 SpokenText="The Elders insisted on a peace with your deplorable species, and at its heart, this tower stands as a testament to this ill-conceived union."
 
 [Play_X2_XP_ASSN_S_Assault_Avenger_First AkEvent]

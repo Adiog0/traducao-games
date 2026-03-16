@@ -1,4 +1,4 @@
-[Play_X2_XP_VLK_T_First_Reaper_Shadow AkEvent]
+﻿[Play_X2_XP_VLK_T_First_Reaper_Shadow AkEvent]
 SpokenText="Any Reaper deemed worthy of serving XCOM can move without fear of detection. Shots will make noise, but my Reaper can slip back into the shadows without enemies noticing."
 
 [Play_X2_XP_VLK_T_Gather_Survivors_Dropship_Inro_A AkEvent]

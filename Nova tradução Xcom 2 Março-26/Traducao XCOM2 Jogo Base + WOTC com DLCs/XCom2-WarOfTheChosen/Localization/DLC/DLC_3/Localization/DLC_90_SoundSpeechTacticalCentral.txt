@@ -1,4 +1,4 @@
-[Play_DLC3_T_CEN_Boots_Ground_1 AkEvent]
+﻿[Play_DLC3_T_CEN_Boots_Ground_1 AkEvent]
 SpokenText="Firebrand dropped you at the highest access point we could find.  Power's still active in this area of the facility so you should be able to gain entry there.   "
 bMature=False
 bManualWordWrap=False

@@ -1,4 +1,4 @@
-[Play_X2_XP_S_TYG_Ambient_Musing_A AkEvent]
+﻿[Play_X2_XP_S_TYG_Ambient_Musing_A AkEvent]
 SpokenText="Personally, I find the Chosen disconcerting. The Elders' attempt at humanizing our enemy will make it all the more difficult for our troops to face them in battle."
 
 [Play_X2_XP_S_TYG_Ambient_Musing_B AkEvent]

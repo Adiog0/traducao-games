@@ -1,4 +1,4 @@
-[Play_X2_XP_HNTR_S_ADVENT_Tower_Available AkEvent]
+﻿[Play_X2_XP_HNTR_S_ADVENT_Tower_Available AkEvent]
 SpokenText="I prefer to steer clear of that tower myself, there's some strange energy surrounding that place."
 
 [Play_X2_XP_HNTR_S_Assault_Avenger_First AkEvent]

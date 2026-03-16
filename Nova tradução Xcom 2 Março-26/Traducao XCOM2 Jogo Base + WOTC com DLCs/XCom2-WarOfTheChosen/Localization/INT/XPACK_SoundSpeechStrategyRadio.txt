@@ -1,4 +1,4 @@
-[Play_X2_XP_S_RDJ_ADVENT_Burger_Ad_B AkEvent]
+﻿[Play_X2_XP_S_RDJ_ADVENT_Burger_Ad_B AkEvent]
 SpokenText="ADVENT Burger, are you eating it or is it eating you?"
 
 [Play_X2_XP_S_RDJ_ADVENT_Burger_Ad_C AkEvent]

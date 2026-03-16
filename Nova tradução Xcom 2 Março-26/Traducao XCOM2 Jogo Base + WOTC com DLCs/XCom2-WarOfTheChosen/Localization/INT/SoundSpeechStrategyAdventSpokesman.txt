@@ -1,4 +1,4 @@
-[S_Broadcast_Truth_Advent_Speaker_01 AkEvent]
+﻿[S_Broadcast_Truth_Advent_Speaker_01 AkEvent]
 SpokenText="Fellow citizens.  For 20 years we have put our trust in ADVENT, in the Elders - because we believed a better future is possible for all.  Today, that trust, that belief, has been rewarded."
 
 [S_Broadcast_Truth_Advent_Speaker_02 AkEvent]

@@ -1,4 +1,4 @@
-[XComLauncher]
+﻿[XComLauncher]
 ModsTitle=Mods
 PlayButton=Play
 WorkshopButton=Workshop

@@ -1,4 +1,4 @@
-[General]
+﻿[General]
 Start=XComGame (Starting)
 Exit=XComGame (Exiting)
 Run=XComGame (Running)

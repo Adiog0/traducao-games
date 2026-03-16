@@ -1,4 +1,4 @@
-[Play_X2_XP_S_VLK_Ambient_Blacksite AkEvent]
+﻿[Play_X2_XP_S_VLK_Ambient_Blacksite AkEvent]
 SpokenText="You saw the same things I did in that facility, so now you should understand why we I've kept my people away from those cities all this time. The aliens offered up miracle cures, and they weren't lying-death does cure all ailments."
 
 [Play_X2_XP_S_VLK_Ambient_Forge AkEvent]

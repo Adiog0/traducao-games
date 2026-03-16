@@ -1,4 +1,4 @@
-[S_ADVENTmusing_Tygan AkEvent]
+﻿[S_ADVENTmusing_Tygan AkEvent]
 SpokenText="While most of my involvement in the chip development process was on the theoretical side, I can't help but feel some degree of responsibility for the final product as we see it in use today. When intently focused on a singular aspect of a project, in my case, countering the body's rejection of the implanted chip, sometimes it's easy to avoid seeing the bigger picture. To this day, I still ask myself whether it was willful ignorance or unbridled curiosity that led me to blindly pursue my research with such zeal."
 
 [S_Alien_Fortress_Tygan_01 AkEvent]

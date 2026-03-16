@@ -1,4 +1,4 @@
-[Play_DLC2_T_CEN_Ambush_3 AkEvent]
+﻿[Play_DLC2_T_CEN_Ambush_3 AkEvent]
 SpokenText="How many signatures, Doctor?!"
 bMature=False
 bManualWordWrap=False

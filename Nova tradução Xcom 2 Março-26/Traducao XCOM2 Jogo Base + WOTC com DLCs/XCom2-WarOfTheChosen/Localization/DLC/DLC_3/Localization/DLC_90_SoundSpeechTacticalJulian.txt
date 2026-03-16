@@ -1,4 +1,4 @@
-[Play_DLC3_T_JLN_Bridge_Extended_2 AkEvent]
+﻿[Play_DLC3_T_JLN_Bridge_Extended_2 AkEvent]
 SpokenText="And so the prodigal child finally returns. I see Father's pride in your abilities was not entirely unfounded.  I'm so glad you could join me."
 bMature=False
 bManualWordWrap=False

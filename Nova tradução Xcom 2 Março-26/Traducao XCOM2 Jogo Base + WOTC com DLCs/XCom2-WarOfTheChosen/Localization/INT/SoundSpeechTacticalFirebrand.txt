@@ -1,4 +1,4 @@
-[FB04_en_us_EvacAllDead_00 AkEvent]
+﻿[FB04_en_us_EvacAllDead_00 AkEvent]
 SpokenText="They're gone, Commander. It's time to go."
 
 [FB04_en_us_EvacAllDead_01 AkEvent]

@@ -1,4 +1,4 @@
-[Play_X2_XP_MOX_CIN_LA_Skirmisher_Reveal_1 AkEvent]
+﻿[Play_X2_XP_MOX_CIN_LA_Skirmisher_Reveal_1 AkEvent]
 SpokenText="Kracsad."
 
 [Play_X2_XP_MOX_CIN_LA_Skirmisher_Reveal_2 AkEvent]

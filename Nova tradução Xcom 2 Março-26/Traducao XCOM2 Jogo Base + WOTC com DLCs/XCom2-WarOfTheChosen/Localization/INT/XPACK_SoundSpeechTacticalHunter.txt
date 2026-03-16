@@ -1,4 +1,4 @@
-[Play_X2_XP_HNTR_T_1st_Stronghold_Post_Intro AkEvent]
+﻿[Play_X2_XP_HNTR_T_1st_Stronghold_Post_Intro AkEvent]
 SpokenText="I was hoping you might take a little longer to find this place. Things were just starting to get interesting between us. Now...you're already dead."
 
 [Play_X2_XP_HNTR_T_2nd_Stronghold_Post_Intro AkEvent]

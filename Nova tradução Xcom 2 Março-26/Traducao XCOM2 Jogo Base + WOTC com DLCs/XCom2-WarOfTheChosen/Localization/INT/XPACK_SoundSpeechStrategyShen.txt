@@ -1,4 +1,4 @@
-[Play_X2_XP_S_SHN_Ambient_Musing_A AkEvent]
+﻿[Play_X2_XP_S_SHN_Ambient_Musing_A AkEvent]
 SpokenText="It's creepy hearing the Chosen talk as if they were just like us. For all we know, they might have been us before the Elders got to them."
 
 [Play_X2_XP_S_SHN_Ambient_Musing_B AkEvent]

@@ -1,4 +1,4 @@
-[CEN_AvengerDefense_ClearForTakeoff AkEvent]
+﻿[CEN_AvengerDefense_ClearForTakeoff AkEvent]
 SpokenText="Commander, we can take off on your order. We should get the squad onboard and get moving."
 
 [CEN_AvengerDefense_ClearForTakeoffHL AkEvent]

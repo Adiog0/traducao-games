@@ -1,4 +1,4 @@
-[Play_X2_XP_S_PROP_Generic_Failure_A AkEvent]
+﻿[Play_X2_XP_S_PROP_Generic_Failure_A AkEvent]
 SpokenText="Victorious ADVENT Peacekeeping forces will be honored by the Speaker this evening. All citizens without a valid work exemption are required to attend."
 
 [Play_X2_XP_S_PROP_Generic_Failure_B AkEvent]

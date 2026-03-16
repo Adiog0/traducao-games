@@ -1,4 +1,4 @@
-[Play_DLC3_T_SPK_Julian_Awakens_3 AkEvent]
+﻿[Play_DLC3_T_SPK_Julian_Awakens_3 AkEvent]
 SpokenText="Analyzing. This facility's artificial intelligence has transferred its primary systems to the combat unit's memory core.  Damage to this core would cause disruption of all defensive systems allowing for evacuation of Lily Shen."
 bMature=False
 bManualWordWrap=False
