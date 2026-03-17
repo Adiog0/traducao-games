@@ -5008,41 +5008,41 @@ DefeatedMessageBody="<XGParam:StrValue1/!ChosenTitleWithArticle/> foi derrotado 
 ;------------- continuar daqui
 
 [X2Ability_OfficerTrainingSchool]
-AimBonus="+<amount/> Aim"
-CritBonus="+<amount/> Crit"
-WillBonus="+<amount/> Will"
-MobilityBonus="+<amount/> Mobility"
+AimBonus="+<amount/> de Mira"
+CritBonus="+<amount/> de Crítico"
+WillBonus="+<amount/> de Vontade"
+MobilityBonus="+<amount/> de Mobilidade"
 
 [X2Ability_DefaultBondmateAbilities]
-BondmateAimAdjustName="Bondmate Aim Bonus"
-BondmateAimAdjustDesc="Aim is increased against targets that threaten your bondmate."
-DefendBondmateAimAdjustName="Defending Bondmate"
-AssistBondmateAimAdjustName="Assisting Bondmate"
-AssistBondmateCritAdjustName="Assisting Bondmate"
-FreeActionFlyoverText="Bondmate Injured: Free Action!"
+BondmateAimAdjustName="Bônus de Mira de Companheiro"
+BondmateAimAdjustDesc="A mira é aumentada contra alvos que ameaçam seu companheiro."
+DefendBondmateAimAdjustName="Defendendo Companheiro"
+AssistBondmateAimAdjustName="Assistindo Companheiro"
+AssistBondmateCritAdjustName="Assistindo Companheiro"
+FreeActionFlyoverText="Companheiro Ferido: Ação Gratuita!"
 
-BondmateBleedoutName="Bondmate Bleed Out"
-BondmateBleedoutDesc="Bondmates that die in the buddy zone will instead bleed out."
+BondmateBleedoutName="Companheiro Desmaiando"
+BondmateBleedoutDesc="Companheiros que morrem na zona de parceria, em vez disso, desmaiarão."
 
 [X2Ability_DarkEvents]
-UndyingLoyaltyFlyoverText="Undying Loyalty"
-BarrierFriendlyName="Dark Event: Barrier"
-BarrierFriendlyDesc="Enemy tech and Psionic defense raised."
-SealedArmorFriendlyName="Dark Event: Sealed Armor"
-SealedArmorFriendlyDesc="Immunity to Fire, Frost, & Poison."
+UndyingLoyaltyFlyoverText="Lealdade Inabalável"
+BarrierFriendlyName="Evento Sombrio: Barreira"
+BarrierFriendlyDesc="Defesa tecnológica e psíquica do inimigo aumentada."
+SealedArmorFriendlyName="Evento Sombrio: Armadura Selada"
+SealedArmorFriendlyDesc="Imunidade a Fogo, Gelo e Veneno."
 
 [X2StrategyElement_XpackDarkEvents]
-HighAlertFlyoverText="Dark Event: High Alert"
+HighAlertFlyoverText="Evento Sombrio: Alerta Máximo"
 
 [CivilianEasyToHit X2AbilityTemplate]
-LocFriendlyName="Easy to Hit"
+LocFriendlyName="Fácil de Acertar"
 
 [GuaranteedToHit X2AbilityTemplate]
-LocFriendlyName="Guaranteed to Hit"
+LocFriendlyName="Acerto Garantido"
 
 [Vengeance X2AbilityTemplate]
-LocFriendlyName="Vengeance"
-LocHelpText="Gain combat stat bonuses when a squadmate dies."
+LocFriendlyName="Vingança"
+LocHelpText="Ganha bônus de atributos de combate quando um membro do esquadrão morre."
 
 [BattleScanner X2AbilityTemplate]
 LocFriendlyName="Battle Scanner"
